@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-08-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17134,6 +17134,101 @@ d'impôts reportables, celles-ci s'imputent par ordre d'ancienneté.
 	**Créé par**:
 
 	  - Décret n°2004-185 du 24 février 2004 - art. 1 () JORF 27 février 2004
+
+
+##### Section V sexies : Crédit d'impôt famille
+
+###### Article 49 septies Y
+
+Pour l'application des dispositions prévues au a du I de l'article 244 quater F du code général des impôts, il y a lieu de
+retenir :
+
+a) Les dépenses engagées par l'entreprise pour financer la création ou le fonctionnement d'un des établissements visés au
+premier alinéa de l'article L. 2324-1 du code de la santé publique exploité directement par l'entreprise et assurant
+l'accueil des enfants de moins de trois ans de ses salariés ;
+
+b) Les versements effectués directement par l'entreprise, en contrepartie de prestations d'accueil des enfants de moins de
+trois ans de ses salariés, au profit d'organismes publics ou privés exploitant un des établissements visés aux deux premiers
+alinéas de l'article L. 2324-1 du code de la santé publique. A la demande de l'administration, l'entreprise devra apporter
+tous justificatifs relatifs à l'affectation effective des versements qu'elle aura effectués à l'activité d'accueil des
+enfants de moins de trois ans de ses salariés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater F
+	  - Code de la santé publique - art. L2324-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2004-844 du 20 août 2004 - art. 1 () JORF 24 août 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 49 septies YA
+
+En cas de clôture d'exercice en cours d'année, le crédit d'impôt et le montant du plafond de ce dernier, prévus à l'article
+244 quater F du code général des impôts, sont calculés en prenant en compte les dépenses éligibles engagées au titre de la
+dernière année civile écoulée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-844 du 20 août 2004 - art. 1 () JORF 24 août 2004
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater F (V)
+
+
+###### Article 49 septies YB
+
+Le crédit d'impôt prévu à l'article 244 quater F du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-844 du 20 août 2004 - art. 1 () JORF 24 août 2004
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater F (V)
+
+
+###### Article 49 septies YC
+
+Pour l'application des dispositions des articles 199 ter E, 220 G et 244 quater F du code général des impôts, les entreprises
+doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du service des
+impôts dont elles dépendent.
+
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
+comptable chargé du recouvrement de l'impôt sur les sociétés à la date de liquidation de cet impôt. Par exception, les
+sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, hormis les sociétés
+mères, doivent annexer la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer auprès
+du service des impôts compétent.
+
+Une copie de la déclaration spéciale doit être adressée dans le même délai au ministre chargé de la famille.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter E, 220 G, 244 quater F, 223 A
+
+	**Créé par**:
+
+	  - Décret n°2004-844 du 20 août 2004 - art. 1 () JORF 24 août 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Section VI : Indemnités de congé payé
