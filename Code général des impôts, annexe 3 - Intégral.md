@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-07-30
+Version Consolidée au 1980-10-21
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -5573,6 +5573,162 @@ généraux.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 261 B (V)
+
+
+##### 1° : Entreprises de spectacles
+
+###### Article 96 B
+
+Les tickets que les exploitants de discothèques et de cafés-dansants sont tenus de remettre à leurs clients en application du
+II de l'article 290 quater du code général des impôts doivent porter, en caractères imprimés par les caisses enregistreuses,
+les indications suivantes :
+
+- le nom de l'exploitant ou la raison sociale de l'établissement ;
+
+- l'adresse de l'établissement ;
+
+- la date (jour, mois et année) de la prestation ;
+
+- le nombre de consommations servies par catégorie ou tarif ;
+
+- le prix total exigé ;
+
+- le numéro d'ordre du ticket. 
+
+Ces tickets sont remis aux clients en même temps que les prestations dont ils constatent le service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-824 du 17 octobre 1980 - art. 1 (V) JORF 21 octobre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 C (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 290 quater (V)
+
+
+###### Article 96 C
+
+Les caisses enregistreuses utilisées pour l'émission des tickets prévus à l'article 96 B doivent présenter les
+caractéristiques suivantes : 
+
+1° Etre munies au minimum : 
+
+a. D'un compteur d'opérations aux numéros consécutifs comportant au moins trois chiffres et augmentant d'une unité à chaque
+opération ; 
+
+b. D'un compteur des opérations de remise à zéro des compteurs totalisateurs comportant au moins trois chiffres en augmentant
+d'une unité après chaque opération ; 
+
+c. D'un compteur totalisateur général ; 
+
+2° Posséder deux stations d'impression permettant d'émettre simultanément : 
+
+a. Le ticket destiné aux consommateurs ; 
+
+b. Une bande de contrôle reprenant les indications, relatives aux prestations de services, portées sur les tickets et
+mentionnant :
+
+- le montant cumulé des sommes encaissées ;
+
+- le total cumulé des recettes obtenu lors des opérations de lecture ou de remise à zéro ; 
+
+3° Ne pas être dotées de dispositif permettant : 
+
+a. D'exclure de la totalisation les sommes figurant sur le ticket ou sur la bande de contrôle, en dehors des relevés obtenus
+lors d'une opération de lecture ; 
+
+b. De remettre à zéro :
+
+- le compteur des opérations de remise à zéro ;
+
+- le numéro consécutif des opérations ;
+
+- le grand total ; 
+
+4° Etre dotées : 
+
+a. D'un dispositif permettant leur fonctionnement manuel ou sur batterie en cas d'interruption accidentelle de l'alimentation
+en courant électrique ; 
+
+b. En ce qui concerne les caisses électroniques, de dispositifs permettant de garder en mémoire les données des compteurs
+totalisateurs et interdisant la remise à zéro des compteurs d'opérations en cas d'interruption de fonctionnement. Si cette
+interruption excède la durée de conservation des données en mémoire, celles-ci devront être portées sur la bande de
+contrôle ; 
+
+5° Etre munies d'un dispositif permettant d'avertir l'utilisateur de la fin imminente du rouleau d'approvisionnement de la
+bande de contrôle sans que leur fonctionnement en soit affecté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-824 du 17 octobre 1980 - art. 2 (V) JORF 21 octobre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 B (V)
+
+
+###### Article 96 D
+
+Les exploitants de discothèques et de cafés-dansants doivent pouvoir justifier de la nature et de la date de toutes
+réparations et autres interventions techniques effectuées sur leurs caisses enregistreuses. Lors de l'installation de ces
+caisses, ils doivent se faire délivrer par les fournisseurs ou installateurs une attestation mentionnant : 
+
+a. Le numéro de la caisse ;
+
+b. Le relevé du compteur des opérations de remise à zéro et des compteurs totalisateurs avant la première opération
+commerciale. 
+
+Ils doivent conserver les bandes de contrôle pendant six ans et les présenter à toute réquisition des agents des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-824 du 17 octobre 1980 - art. 3 (V) JORF 21 octobre 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+##### Entreprises de spectacles.
+
+###### Article 96 E
+
+Les infractions aux dispositions des articles 96 B à 96 D sont recherchées, constatées et poursuivies comme en matière de
+contributions indirectes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 96 B
+	  - CGIAN3 96 C
+	  - CGIAN3 96 D
+
+	**Créé par**:
+
+	  - Décret n°80-824 du 17 octobre 1980 - art. 4 (V) JORF 21 OCTOBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 
 ##### Section VIII : Régimes spéciaux
