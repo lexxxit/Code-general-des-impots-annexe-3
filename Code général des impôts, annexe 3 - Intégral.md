@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-08-01
+Version Consolidée au 1987-08-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3450,6 +3450,104 @@ selon les modalités prévues au II de l'article 38 sexdecies D.
 	  - HISTO: Edition du 31 mars 2002
 
 
+##### Passage du régime transitoire au régime simplifié d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies OH
+
+En cas de passage du régime transitoire au régime réel simplifié :
+
+Aucune modification n'est apportée à la valeur des immobilisations et améliorations de fonds.
+
+Les avances aux cultures sont évaluées dans les conditions prévues à l'article 72 A du code général des impôts.
+
+Les produits de la viticulture levés sous le forfait en stock à la date de ce changement de régime d'imposition sont évalués
+au cours du jour à la même date, sous déduction d'une décote forfaitaire.
+
+Un arrêté du ministre chargé du budget (1) fixe les taux de cette décote en fonction de l'âge des produits.
+
+Les autres stocks sont évalués en application de l'article 38 sexdecies JC.
+
+Les créances et les dettes nées sous le régime transitoire sont inscrites pour leur valeur à la date du changement de régime.
+
+Les recettes et les dépenses se rapportant à des créances et à des dettes nées sous le régime transitoire sont retenues pour
+la détermination du bénéfice selon le régime réel simplifié.
+
+Les exploitants joignent à leur première déclaration de résultats une note donnant la composition et le mode d'évaluation du
+stock d'entrée.
+
+(1) Annexe IV 4 P.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 72 A
+	  - CGIAN3 38 sexdecies JC
+	  - CGIAN4 4 P
+
+	**Créé par**:
+
+	  - Décret n°87-642 du 6 août 1987 - art. 5 (V) JORF 8 août 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+##### Passage du régime transitoire au régime normal d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies OI
+
+En cas de passage du régime transitoire au régime réel normal :
+
+Les dispositions de l'article 38 sexdecies OH, à l'exception de celles de son cinquième alinéa, s'appliquent ;
+
+Les autres stocks, cités au cinquième alinéa de l'article 38 sexdecies OH, sont évalués au prix de revient. Cette valeur ne
+peut excéder le cours du jour à la date d'ouverture de l'exercice.
+
+Les exploitants ont la possibilité d'inscrire en immobilisations, pour leur valeur de stock, les équidés et les bovidés selon
+les modalités prévues au II de l'article 38 sexdecies D.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies D
+	  - CGIAN3 38 sexdecies OH
+
+	**Créé par**:
+
+	  - Décret n°87-642 du 6 août 1987 - art. 6 (V) JORF 8 août 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
+##### Passage du régime transitoire au régime du forfait.
+
+###### Article 38 sexdecies OJ
+
+En ce cas de passage du régime transitoire au forfait :
+
+Les dispositions de l'article 38 sexdecies OF sont applicables    Les créances et les dettes nées d'opérations imposables
+réalisées sous le régime transitoire sont rapportées aux résultats du dernier exercice clos sous ce régime.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies OF
+
+	**Créé par**:
+
+	  - Décret n°87-642 du 6 août 1987 - art. 7 (V) JORF 8 août 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 ##### E : Obligations des exploitants
 
 ##### 1° : Obligations applicables aux régimes réels
@@ -3678,6 +3776,37 @@ leur première déclaration de résultats une note donnant la composition et le 
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+
+##### Obligations particulières au régime transitoire d'imposition.
+
+###### Article 38 sexdecies RD
+
+I. - Les exploitants soumis au régime transitoire d'imposition doivent tenir et présenter aux agents de l'administration :
+
+a) Un livre-journal tenu au jour le jour présentant le détail des recettes et des dépenses ;
+
+b) Les factures et autres pièces justificatives relatives à ces recettes et dépenses ;
+
+c) Un document appuyé des pièces justificatives correspondantes comportant la date d'acquisition ou de création et le prix de
+revient des éléments d'actif affectés à l'exercice de leur profession, le montant des amortissements effectués sur ces
+éléments ainsi que, éventuellement, le prix et la date de cession de ces mêmes éléments.    II. - Les documents comptables et
+pièces justificatives énumérés au I doivent être conservés jusqu'à l'expiration du délai de six ans prévu à l'article L. 82
+du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L82
+
+	**Créé par**:
+
+	  - Décret n°87-642 du 6 août 1987 - art. 3 (V) JORF 8 août 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ##### F : Cultures agréées dans les départements d'outre-mer
