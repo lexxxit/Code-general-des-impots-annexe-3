@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-01-02
+Version Consolidée au 2005-01-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5429,33 +5429,6 @@ est de même pour les améliorations de fonds mentionnées à l'article 38 sexde
 
 	  - HISTO: Edition du 10 août 1987
 	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 38 sexdecies JJ
-
-Les dispositions de l'article 38 sexdecies JE s'appliquent aux exploitants relevant du régime transitoire pour l'application
-du IV de l'article 69 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 69
-	  - CGIAN3 38 sexdecies JE
-
-	**Créé par**:
-
-	  - Décret n°87-642 du 6 août 1987 - art. 8 (V) JORF 8 août 1987
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 2 septembre 1994
-	  - PEREMPTION: Loi n°93-1352 du 30 décembre 1993 - art. 30 (V) JORF 31 décembre 1993
 
 
 ##### D : Dispositions applicables en cas de changement de régime d'imposition
