@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1981-05-12
+Version Consolidée au 1981-05-13
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -302,7 +302,7 @@ attestation délivrée par le greffe du tribunal de commerce.
 ###### Article 331-0 D
 
 Le taux de la taxe perçue au profit du budget annexe des prestations sociales agricoles en application de l'article 1603 du
-code général des impôts est fixé à 5,50 %.
+code général des impôts est fixé à 3,40 %.
 
 **Liens relatifs à cet article**
 
@@ -310,9 +310,13 @@ code général des impôts est fixé à 5,50 %.
 
 	  - CGI 1603
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-479 du 12 mai 1981 - art. 1 (V) JORF 13 MAI 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ### TAXES SUR LE CHIFFRE D'AFFAIRES *TCA* REDEVANCE SUR L'EDITION DES OUVRAGES DE LIBRAIRIE.
