@@ -1,5 +1,990 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1979-03-11
+Version Consolidée au 1979-07-01
+
+# ASSIETTE ET LIQUIDATION DE L'IMPOT
+
+## IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES
+
+### IMPOSITIONS COMMUNALES
+
+#### IMPOTS DIRECTS ET TAXES ASSIMILEES
+
+##### TAXES FONCIERES SUR LES PROPRIETES BATIES ET NON BATIES.
+
+###### Article 316
+
+Pour l'assiette de la taxe foncière sur les propriétés bâties due par les entreprises hydrauliques concédées  la valeur
+locative de la force motrice des chutes d'eau et de leurs aménagements utilisés par ces entreprises est répartie entre les
+communes sur le territoire desquelles sont situés les ouvrages définitifs de génie civil et celles sur le territoire
+desquelles coulent les cours d'eau utilisés compte tenu des éléments ci-après :
+
+Importance des ouvrages définitifs de génie civil;
+
+Importance des retenues d'eau;
+
+Puissance hydraulique moyenne devenue indisponible dans la limite de chaque commune du fait de l'usine.
+
+Cette répartition est effectuée par l'ingénieur en chef du contrôle conformément aux règles fixées par les articles 317 à
+320.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 317
+	  - CGIAN3 318
+	  - CGIAN3 319
+	  - CGIAN3 320
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 323 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 321
+
+Dans le cas où la notification prévue à l'article 320 n'a pas été faite avant le 1er novembre  la valeur locative des
+installations définies à l'article 316 est imposée en totalité dans la commune où est située l'usine utilisant la force
+motrice et il est procédé à la répartition des cotisations correspondantes entre les communes visées audit article.
+
+Si ces communes sont situées dans le même département  la répartition est réglée par arrêté du préfet rendu sur les
+propositions du directeur des services fiscaux et après avis de l'ingénieur en chef du contrôle  dans les trois mois suivant
+celui de la mise en recouvrement du rôle.
+
+Si les communes intéressées sont situées dans des départements différents  la répartition est réglée par arrêté du ministre
+de l'économie et des finances  du ministre de l'intérieur sur les propositions du directeur général des impôts et après avis
+du ministre de l'industrie.
+
+L'arrêté préfectoral ou ministériel fixe notamment les conditions de l'attribution  à chacune des collectivités bénéficiaires
+de la part lui revenant dans le produit des cotisations dont il s'agit.
+
+Les impositions dues au titre de l'année de la mise en service sont établies et réparties selon la procédure définie aux
+alinéas précédents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 316
+	  - CGIAN3 320
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 321 B
+
+Les pourcentages de répartition visés aux articles 320 et 321 sont inscrits dans le cahier des charges de la concession ou
+mentionnés dans un additif au cahier des charges et se substituent  le cas échéant  à ceux qui ont été primitivement fixés.
+
+Ils sont révisés  s'il y a lieu  en cas de modification de la consistance de la concession entraînant l'établissement d'un
+avenant au cahier des charges. Cet avenant indique les nouveaux pourcentages de répartition applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 320
+	  - CGIAN3 321
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### TAXE PROFESSIONNELLE.
+
+###### Article 322 C
+
+L'exonération de taxe professionnelle est subordonnée à la condition que les gîtes ruraux soient loués à la semaine.
+
+Pour pouvoir bénéficier de l'exonération  les exploitants de gîtes ruraux sont tenus de faire à la mairie de la commune où
+sont situés les locaux une déclaration par laquelle ils certifient remplir la condition susvisée [*formalité obligatoire*].
+
+Cette déclaration est souscrite pour chaque gîte rural.
+
+Elle est adressée le 15 mai [* date*] au plus tard  de l'année de l'imposition.
+
+Elle reste valable tant que les faits qui l'ont motivée n'ont pas changé.
+
+En cas de changement  une nouvelle déclaration doit être faite dans le délai prévu au quatrième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Conseil d'Etat 1986-07-25 n°44966
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 323
+
+Pour l'assiette de la taxe professionnelle due par les entreprises hydrauliques concédées  la valeur locative de la force
+motrice des chutes d'eau et de leurs aménagements utilisés par ces entreprises est répartie entre les communes sur le
+territoire desquelles sont situés les ouvrages définitifs de génie civil et celles sur le territoire desquelles coulent les
+cours d'eau utilisés  dans les conditions fixées par les articles 316 à 321 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 316 A CGIAN3 321 B
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### REGLES D'EVALUATION DE LA VALEUR LOCATIVE DES BIENS IMPOSABLES.
+
+###### Article 324 AL
+
+I. Les formules visées à l'article 324 AJ comportent  à la date de leur souscription  les renseignements utiles à
+l'évaluation de chaque propriété ou fraction de propriété définies à l'article 324 A.
+
+Toutefois  en cas de location  le montant annuel du loyer est celui en vigueur au 1er janvier 1970, date à retenir également
+pour l'évaluation des charges.
+
+II. Par dérogation aux dispositions du I, premier alinéa  les renseignements utiles à l'évaluation des établissements
+industriels dont les immobilisations figurent à l'actif d'une entreprise industrielle ou commerciale astreinte aux
+obligations définies à l'article 54 du code général des impôts sont tirés du bilan du dernier exercice clos antérieurement à
+la date de souscription des déclarations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 54
+	  - CGIAN3 324 A
+	  - CGIAN3 324 AJ
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### ENREGISTREMENT
+
+##### TAXE LOCALE D'EQUIPEMENT.
+
+###### Article 328 D quater
+
+I. Sont exclues du champ d'application [*hors champ d'application*] de la taxe locale d'équipement les constructions édifiées
+à l'intérieur :
+
+1o Des zones à urbaniser par priorité créées avant le 1er janvier 1969;
+
+2o Des zones de rénovation urbaine qui ont fait l'objet :
+
+a. D'une convention approuvée avant le 1er octobre 1968;
+
+b. D'une convention approuvée après accord du ministre de l'équipement et du logement entre le 1er octobre 1968 et le 1er
+janvier 1969;
+
+3o Des zones ayant fait l'objet  avant le 1er janvier 1969, d'un bilan financier approuvé par le conseil de direction du
+fonds de développement économique et social [*FDES*] ;
+
+4o Des périmètres destinés à recevoir une ou plusieurs implantations industrielles ou commerciales ayant fait l'objet d'une
+décision administrative avant le 1er janvier 1969 et qui  par leur situation ou leur dimension  imposent la réalisation
+d'équipements publics nouveaux d'une importance exceptionnelle par rapport aux ouvrages existants.
+
+Ces périmètres  dans lesquels le coût de tout ou partie des équipements est mis à la charge des aménageurs ou des
+constructeurs sont définis par un arrêté du ministre de l'équipement et du logement (1). Le montant et les modalités de la
+participation éventuellement demandée sont également approuvés par un arrêté du ministre de l'équipement et du logement.
+
+II. Peuvent être exclues du champ d'application de la taxe locale d'équipement les constructions édifiées à l'intérieur :
+
+1o Des zones ayant fait l'objet soit d'une avance du fonds national d'aménagement et d'urbanisme  soit de l'octroi  avant le
+1er janvier 1969, d'une bonification d'intérêt du même fonds;
+
+2o Des zones dont l'aménagement et l'équipement ont été entrepris en France métropolitaine avant le 1er janvier 1969  ou dans
+les départements d'outre-mer avant la date d'entrée en vigueur de l'article 51-I de la loi no 75-1328 du 31 décembre 1975
+portant réforme de la politique foncière  selon l'une des modalités suivantes :
+
+a. Réalisation conduite directement par la collectivité publique ou l'établissement public qui a pris l'initiative de la
+création;
+
+b. Réalisation confiée à un établissement public ou concédée à une société d'économie mixte constituée en application de
+l'article L321-1  premier alinéa  du code de l'urbanisme;
+
+c. Réalisation confiée par la collectivité publique ou l'établissement public qui a pris l'initiative de sa création  à un
+organisme public ou privé dans le cadre d'une convention :
+
+Approuvée par le préfet  si cette convention est conforme à une convention type approuvée par décret en conseil d'Etat;
+
+Approuvée par arrêté conjoint du ministre de l'équipement et du logement et du ministre de l'intérieur dans les autres cas.
+
+III. Dans chaque département  les zones dans lesquelles les constructions sont exclues du champ d'application de la taxe
+locale d'équipement  en vertu des I et II, sont inscrites sur une liste arrêtée par le préfet et publiée au recueil des actes
+administratifs du département.
+
+L'inscription des zones visées au I est de droit. Pour les zones visées au II, le préfet apprécie  dans chaque cas  si les
+équipements prévus à l'article 317 quater de l'annexe II au code général des impôts sont bien mis à la charge des
+constructeurs.
+
+(1) Annexe IV, art. 155 A et 155 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 317 quater
+	  - CGIAN4 155 A
+	  - CGIAN4 155 B
+	  - Loi n°75-1328 1975-12-31 ART. 51 I
+	  - Code de l'urbanisme L321-1 AL. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 155 B (P)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 328 D quinquies
+
+(Se reporter au renvoi figurant sous l'article 1585 A-1o-b du code général des impôts).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1585 A 1° b
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
+
+### IMPOTS DIRECTS ET TAXES ASSIMILEES
+
+#### TAXES POUR FRAIS DE CHAMBRES DE COMMERCE ET D'INDUSTRIE.
+
+###### Article 331
+
+Les justifications prévues à l'article 330 sont fournies au service des impôts dans la circonscription duquel sont situés les
+établissements  boutiques ou magasins à raison desquels les intéressés sont passibles de la taxe professionnelle.
+
+La justification de l'inscription au répertoire des métiers est constituée par la production d'une copie sur papier libre
+certifiée conforme par le maire ou par le commissaire de police  du récépissé de la demande d'immatriculation visé à
+l'article 5 de l'arrêté du 13 janvier 1975  relatif à l'organisation et à la tenue du répertoire des métiers.
+
+La justification de la non-inscription sur la liste électorale de la chambre de commerce et d'industrie consiste en une
+attestation délivrée par le greffe du tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1975-01-13 ART. 5
+	  - CGIAN3 330
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+### TAXES SUR LE CHIFFRE D'AFFAIRES *TCA* REDEVANCE SUR L'EDITION DES OUVRAGES DE LIBRAIRIE.
+
+###### Article 331 L
+
+La redevance sur l'édition des ouvrages de librairie prévue par l'article 1609 decies A du code général des impôts est
+établie et perçue selon les modalités ci-après.
+
+Pour l'appréciation de la limite d'exonération de 200 000 F  les éditeurs déclarent chaque année à la recette des impôts dont
+ils relèvent le montant du chiffre d'affaires qu'ils ont réalisé l'année précédente dans leur branche d'activité " édition
+" [*formalité*]. Cette déclaration est souscrite au plus tard à la date prévue au quatrième et cinquième alinéas ci-dessous
+pour le paiement de la première échéance annuelle [*délai*].
+
+Pour les personnes physiques ou morales assimilées à des éditeurs en vertu de l'article 1609 decies B du code précité  le
+chiffre d'affaires de la branche d'activité " édition " s'entend de la     ur valeur, tous droits et taxes compris des
+ouvrages de librairie dédouanés l'année précédente par l'intermédiaire de leur représentant agréé.
+
+La redevance est liquidée et acquittée semestriellement en même temps que les taxes sur le chiffre d'affaires afférentes aux
+opérations de juin et décembre ou  s'il y a lieu  du deuxième et du quatrième trimestres. Pour les redevables placés sous le
+régime du forfait  elle est acquittée à la date prévue pour le paiement des échéances afférentes aux mêmes périodes.
+
+A l'importation  elle est assise et recouvrée par le service des douanes  dans les conditions définies par l'article 66 bis
+du code des douanes et par l'arrêté du directeur général des douanes et droits indirects en date du 5 septembre 1969 modifié
+par l'arrêté du 23 décembre 1975  comme en matière de taxe sur la valeur ajoutée perçue à l'importation.
+
+Sur le montant des encaissements réalisés par les recettes des impôts et par les recettes des douanes au titre de la
+redevance sur l'édition des ouvrages de librairie  il est effectué un prélèvement de 5 % pour frais d'assiette et de
+recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1969-09-05
+	  - Arrêté 1975-12-23
+	  - CGI 1609 decies A, B
+	  - Code des douanes - art. 66 bis (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+### CONTRIBUTIONS INDIRECTES
+
+#### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.
+
+###### Article 332 bis
+
+I. La perception des taxes sur les produits forestiers visées aux articles 1613 et 1618 bis du code général des impôts est
+suspendue jusqu'à décision contraire sur les produits suivants :
+
+1o Bois de trituration feuillus et chutes de scieries de toutes essences  destinés à la fabrication des pâtes et des
+panneaux;
+
+2o Petits bois de conifères non écorcés  dont le diamètre à une distance du gros bout au plus égale à 1,60 m n'excède pas 11
+cm sur écorce  destinés à la fabrication des pâtes et des panneaux.
+
+II. (Abrogé).
+
+III. (Disposition périmée).
+
+IV. La perception des taxes sur les produits forestiers visées aux articles 1613 et 1618 bis du code général des impôts est
+suspendue en totalité  sur les sciages d'essences feuillues et sur les produits d'exploitation forestière provenant
+d'importation. Toutefois  pour les produits d'exploitation forestière d'essence conifère  cette suspension de taxes n'est pas
+applicable aux bois pour sciage  aux bois équarris et aux poteaux de ligne importés en l'état ou obtenus en France à partir
+de bois importés.
+
+V. La perception de la taxe visée à l'article 1618 bis du code général des impôts est suspendue en totalité sur les sciages
+de conifères importés en l'état.
+
+VI. Pour bénéficier de la suspension des taxes sur les bois provenant d'importation  les intéressés doivent justifier  par la
+tenue d'une comptabilité matières  de l'origine et de l'espèce des bois dont il s'agit.
+
+VII. La perception de la taxe visée à l'article 1613 du code général des impôts est suspendue à compter du 1er janvier 1971
+et jusqu'à décision contraire sur les produits ci-dessous énumérés  par référence à la nomenclature générale des produits de
+la direction générale des douanes et droits indirects  lorsqu'ils sont destinés à l'exportation :
+
+1o Bois de mine de conifères et de feuillus (ex. 44-03);
+
+2o Sciages de conifères et de feuillus (ex. 44-05)  à l'exclusion des sciages de chêne (no 44-05-54); toutefois  ces derniers
+bénéficient du régime de la suspension  de la date d'application du décret no 71-628 du 28 juillet 1971 au 31 décembre 1973;
+
+3o Traverses en bois pour voies ferrées (no 44-07);
+
+4o Merrains  même sciés sur les deux faces principales  mais non autrement travaillés (no 44-08).
+
+VIII. Les dispositions du VII sont applicables aux exportations effectuées par des négociants ou des imprégnateurs  sous
+réserve que ceux-ci adressent aux bénéficiaires des dispositions susvisées l'attestation prévue par l'article 275 du code
+général des impôts.
+
+Les dates prises en considération pour l'application des exonérations aux bois exportés sont celles du passage en douane des
+produits considérés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1613
+	  - CGI 1618 bis
+	  - CGI 275
+	  - Décret n°71-628 1971-07-28
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### TAXE SPECIALE SUR LES HUILES.
+
+###### Article 333 E
+
+Les huiles taxables exportées  en l'état ou après incorporation dans des produits destinés à l'alimentation humaine  ouvrent
+droit à remboursement de la taxe spéciale.
+
+Les déclarations d'exportation relatives à des produits destinés à l'alimentation humaine dans lesquels ont été incorporées
+des huiles végétales fluides ou concrètes ou des huiles d'animaux marins doivent mentionner expressément la proportion des
+différentes catégories d'huiles utilisées.
+
+Le remboursement est accordé aux exportateurs qui en font la demande et apportent toutes les justifications nécessaires
+notamment en ce qui concerne la réalité de l'exportation  la destination des produits  les quantités d'huiles taxables
+contenues dans les produits exportés  le paiement antérieur de la taxe afférente auxdites quantités [*conditions*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 333-0 A
+
+1. Les taux de la taxe spéciale sur les huiles végétales  fluides ou concrètes  instituée au profit du budget annexe des
+prestations sociales agricoles [*BAPSA, organisme bénéficiaire*] par l'article 1618 quinquies du code général des impôts sont
+fixés comme suit suit (1) :
+
+Huile d'olive : 0,375 F par kilogramme ou 0,34 F par litre;
+
+Huiles d'arachide et de mais : 0,335 F par kilogramme ou 0,31 F par litre;
+
+Huile de colza : 0,175 F par kilogramme ou 0,160 F par litre;
+
+Autres huiles végétales fluides et huiles d'animaux marins autres que de baleine : 0,29 F par kilogramme ou 0,26 F par litre;
+
+Huiles de coprah et de palmiste : 0,225 F par kilogramme;
+
+Huile de palme et huile de baleine : 0,20 F par kilogramme.
+
+2. Un arrêté (2) du ministre de l'économie et des finances fixe le tarif forfaitaire de la taxe spéciale mentionnée au 1 sur
+les produits alimentaires importés dans lesquels sont incorporées des huiles végétales fluides ou concrètes ou des huiles
+d'animaux marins.
+
+(1) Tarif applicable à compter du 1er janvier 1979. Pour le tarif applicable du 1er juillet au 31 décembre 1978, voir le
+décret n° 78-675 du 28 juin 1978 (J.O. du 29).
+
+(2) Annexe IV, art. 159 ter A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1618 quinquies
+	  - CGIAN4 159 ter A
+	  - Décret n°78-675 1978-06-28
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+	**Abrogé par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 16 (P) JORF 31 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+#### TAXE ADDITIONNELLE AU PRIX DES PLACES DANS LES SALLES DE SPECTACLES CINEMATOGRAPHIQUES.
+
+###### Article 333 bis
+
+Le montant de la taxe additionnelle au prix des places  visée à l'article 1621 du code général des impôts  s'ajoute à la
+valeur de chaque billet déterminée conformément aux règlements en vigueur  et compte non tenu des majorations éventuelles
+pour la location des places.
+
+Les exploitants doivent indiquer au verso de la déclaration de recettes qu'ils sont tenus  en vertu de l'article 15 du décret
+modifié du 28 décembre 1946, d'adresser au centre national de la cinématographie  lors de chaque changement de programme  le
+nombre de places de chaque catégorie sur le prix desquelles ont été perçues les taxes additionnelles  ainsi que le produit
+global de ces taxes [*mentions*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1621
+	  - Décret n°1946-12-28 ART. 15
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### TAXE SPECIALE PERCUE AU PROFIT DU FONDS NATIONAL D'AIDE AU SPORT DE HAUT NIVEAU
+
+###### Article 333 decies
+
+Le prix à retenir pour l'application du tarif s'entend du prix effectif du billet d'entrée tous droits et taxes compris à
+l'exclusion de la taxe spéciale elle-même.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 333 duodecies
+
+Sur le montant des encaissements réalisés par le service des impôts au titre de la taxe spéciale  il est effectué un
+prélèvement de 5 % pour frais d'assiette et de recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-1403 1985-12-30 Finances pour 1986 JORF 31 décembre 1985 :
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: cet article devient sans objet)
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 333 nonies
+
+Pour le contrôle des manifestations sportives donnant lieu au paiement de la taxe spéciale  il est fait application en
+matière de billetterie des obligations prévues pour l'impôt sur les spectacles conformément aux dispositions de l'article
+1564 du code général des impôts  quel que soit le régime de ces manifestations au regard de cet impôt.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1564
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-1403 1985-12-30 Finances pour 1986 JORF 31 décembre 1985 :
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: cet article devient sans objet)
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 333 octies
+
+Les organisateurs de manifestations sportives pour lesquelles il est délivré des billets d'entrée d'un montant supérieur à 25
+F doivent en faire la déclaration  vingt-quatre heures à l'avance [*délai*] au bureau de déclaration de la direction générale
+des impôts le plus proche du lieu de la réunion.
+
+Cette déclaration doit indiquer la qualité et l'adresse de l'organisateur ainsi que la nature  la date et le lieu de la
+manifestation [*mentions*].
+
+Toutefois  les organisateurs permanents peuvent  sur autorisation de l'administration  être dispensés de cette déclaration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 333 undecies
+
+La taxe spéciale est constatée et recouvrée par le service des impôts selon les modalités prévues pour l'impôt sur les
+spectacles  à l'issue de chaque représentation.
+
+Toutefois  il est procédé à ces opérations à l'issue de la dernière manifestation de chaque mois lorsque la taxe est due par
+des organisateurs bénéficiant de la dispense de déclaration prévue à l'article 333 octies  à raison de manifestations ne
+donnant pas lieu au paiement de l'impôt sur les spectacles.
+
+**Nota:**
+
+Loi 84-1208 1984-12-29 art. 84 II Finances pour 1985 : L'article 333 undecies devient sans objet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 333 octies
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi n°85-1403 1985-12-30 Finances pour 1986 JORF 31 décembre 1985 :
+	  - HISTO: cet article devient sans objet)
+
+
+### ENREGISTREMENT
+
+#### CONTRIBUTIONS POUR L'ALIMENTATION DU FONDS COMMUN DES ACCIDENTS DU TRAVAIL AGRICOLE SURVENUS DANS LA METROPOLE
+
+##### CONTRIBUTION DES EMPLOYEURS ASSURES.
+
+###### Article 334
+
+La contribution à la charge des employeurs assurés pour l'alimentation du fonds commun des accidents du travail agricole
+survenus dans la métropole institué par l'article premier du décret no 57-1360 du 30 décembre 1957 est perçue sur les
+quittances des primes ou cotisations d'assurances encaissées au titre de la législation sur les accidents du travail agricole
+par les organismes d'assurances ainsi que par la caisse nationale d'assurances en cas d'accidents.
+
+Le montant de cette contribution doit être indiqué sur les quittances [*mention*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°57-1360 du 30 décembre 1957 - art. 1 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 336
+
+La caisse nationale d'assurances en cas d'accidents verse directement au compte du fonds commun des accidents du travail
+agricole survenus dans la métropole  à l'expiration de chaque trimestre  le montant de la contribution correspondant aux
+primes payées par les assurés et dont l'encaissement a été constaté dans les écritures au cours du trimestre précédent.
+
+Chaque versement est appuyé d'un état indiquant le total des primes encaissées et le montant de la contribution versée
+[*mention*]. Cet état est certifié conforme aux écritures de la caisse nationale; un duplicata en est adressé en même temps
+au ministre de l'agriculture et au ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### FONDS DE GARANTIE DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.
+
+###### Article 340 quinquies
+
+1. Les taux des contributions prévues pour l'alimentation du fonds de garantie des victimes d'accidents d'automobile sont
+fixés comme suit :
+
+Contribution des sociétés d'assurances : 10 % de la totalité des charges du fonds de garantie;
+
+Contribution des assurés : 1 % des primes.
+
+2. La contribution des assurés est perçue sur les primes émises postérieurement au 30 septembre 1952, nettes d'annulation.
+
+Le recouvrement en est effectué pour le compte du fonds de garantie par les sociétés d'assurances et sous leur responsabilité
+(1).
+
+(1) Annexe IV, art. 159 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 quinquies
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### FONDS DE GARANTIE DES VICTIMES D'ACCIDENTS DE CHASSE.
+
+###### Article 340 sexies
+
+1. Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
+corporels de chasse sont les suivants :
+
+Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie.
+
+Contribution forfaitaire des assurés : 0,90 F par personne garantie.
+
+2. Le versement d'acomptes sur leur contribution peut être demandé aux sociétés d'assurances par le fonds de garantie.
+
+3. Le recouvrement de la contribution des assurés est effectué pour le compte du fonds de garantie par les sociétés
+d'assurances et sous leur responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### TAXE PERCUE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.
+
+###### Article 344 bis
+
+Le montant de la taxe prévue à l'article 1635 bis du code général des impôts est perçu à l'occasion du renouvellement de
+l'autorisation de travail, c'est à dire au moment de la remise, au travailleur étranger, de toute carte de travail venue ou
+non à expiration, exception faite des changements de profession et des changements de département.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1635 bis
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 344 quater
+
+Le renouvellement de la carte temporaire de travail ne donne lieu qu'à un seul versement par période d'un an.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°85-155 du 31 janvier 1985 - art. 1 () JORF 2 février 1985
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 344 quinquies
+
+La taxe est acquittée par voie d'apposition sur la carte de travail et au moment de sa remise au travailleur étranger  de
+timbres mobiles d'une série spéciale  dont le service des impôts assure la vente.
+
+Les dépenses relatives à l'impression  à l'approvisionnement et à la débite de ces timbres sont à la charge de l'office
+national d'immigration et sont réglées par un prélèvement sur le produit des ventes.
+
+Un arrêté du ministre de l'économie et des finances fixe le taux et les modalités de répartition de ce prélèvement (1).
+
+(1) Annexe IV, art. 159 sexies
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 sexies
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### *TARIF*.
+
+###### Article 344 ter
+
+Le montant de la taxe prévue à l'article 344 bis est fixé à 30 F.
+
+La taxe est perçue au taux de 12 F pour les ressortissants des parties contractantes à la charte sociale européenne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 344 bis
+
+	**Cité par**:
+
+	  - Code du travail - art. D5221-38 (Ab)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT, IMPOTS DIRECTS, TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES, CONTRIBUTIONS INDIRECTES ET MONOPOLES FISCAUX, IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*
+
+### ASSIETTE ET CONTROLE DE L'IMPOT
+
+#### PROCEDURE DE REGLEMENT SIMPLIFIE.
+
+###### Article 344 J
+
+1° Pour l'application des dispositions de l'article 1649 septies G 3° du code général des impôts, relatif aux conditions
+d'application de la le versement des rappels de droits simples et des intérêts de retard visés au premier alinéa dudit
+article s'effectue sur présentation d'une fiche de paiement préalablement annotée par l'agent chargé de la vérification des
+mentions relatives au comptable compétent à l'identité du débiteur des impôts taxes et intérêts de retard et au montant de la
+dette fiscale;
+
+2° Le versement des droits simples et intérêts de retard est constaté par la délivrance d'un certificat de paiement  qui
+mentionne obligatoirement :
+
+La date et le montant du versement;
+
+La répartition du versement effectué pour chacun des impôts ou taxes et pour chacun des exercices vérifiés en faisant
+apparaître distinctement le montant des droits simples  d'une part  celui des intérêts de retard  d'autre part;
+
+L'adresse du service vérificateur auquel le certificat de paiement doit être présenté;
+
+Le cachet et la signature du ou des comptables compétents;
+
+3° (Abrogé);
+
+4° Les droits simples et intérêts de retard afférents aux impôts directs perçus par voie de règlement simplifié font l'objet
+d'une ordonnance de régularisation délivrée par le directeur des services fiscaux. Le comptable du Trésor chargé du
+recouvrement en opère l'exécution par l'imputation des versements anticipés  objet des certificats de paiement visés au 2°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 septies G 3°
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+### DISPOSITIONS DIVERSES
+
+#### COMMISSIONS ADMINISTRATIVES DES IMPOTS.
+
+###### Article 347
+
+1. La commission départementale prévue à l'article 1651 du code général des impôts est valablement constituée lorsque les
+organismes chargés de désigner les représentants des contribuables ont disposé d'un délai d'un mois pour procéder à cette
+désignation à partir de la demande qui leur a été adressée par le président de la commission ou en ce qui concerne les
+personnes visées à l'article 1653 A-I-3o et 4o du même code  par le directeur des services fiscaux.
+
+La commission se réunit sur la convocation de son président.
+
+Elle délibère valablement à condition qu'il y ait au moins quatre membres présents  y compris le président [*quorum*].
+
+Convoqués dix jours au moins avant la réunion  les contribuables intéressés  ou le maire de la commune intéressée en matière
+d'évaluation des propriétés non bâties  sont invités à se faire entendre  ou à faire parvenir leurs observations écrites. Ils
+peuvent déléguer un mandataire dûment habilité (1).
+
+2. Un agent de la direction générale des impôts  ayant au moins le grade d'inspecteur  remplit les fonctions de secrétaire de
+la commission  avec voix consultative. Un ou plusieurs agents de la même direction générale  ayant au moins le grade
+d'inspecteur peuvent assister aux séances de la commission en qualité de secrétaires adjoints. Ils ont également voix
+consultative.
+
+3. Lorsqu'en matière de taxes sur le chiffre d'affaires la commission prévue à l'article 1651 du code général des impôts est
+saisie d'un litige intéressant un redevable qui relève de l'administration des douanes et droits indirects au regard desdites
+taxes  l'un des secrétaires adjoints de la commission peut être un agent des douanes et droits indirects ayant au moins le
+grade d'inspecteur.
+
+4. Le rapport par lequel l'administration soumet le différend à la commission doit obligatoirement indiquer [*mention*] selon
+le cas le montant du forfait du bénéfice du chiffre d'affaires ou de la valeur vénale que l'intéressé était en dernier lieu
+disposé à accepter.
+
+5. A la demande de l'un de ses membres  la commission peut  si elle l'estime utile  entendre en séance tout fonctionnaire qui
+a pris part à la détermination de la base d'imposition qui fait l'objet du désaccord dont elle est saisie ou  en cas
+d'absence ou de mutation son successeur ou remplaçant.
+
+(1) Voir également art. 1651 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1651
+	  - CGI 1651 bis
+	  - CGI 1653 A I 3°, 4°
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 undecies (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 348
+
+La commission départementale peut se diviser en sections pour la constitution desquelles il peut être fait appel aux membres
+suppléants.
+
+Chaque section doit comprendre :
+
+Un magistrat du tribunal administratif  président ou son suppléant;
+
+Un fonctionnaire de la direction générale des impôts ou  s'il y a lieu  de la direction générale des douanes et droits
+indirects  visé à l'article 1651-2-b du code général des impôts;
+
+Deux membres titulaires ou suppléants représentant chaque catégorie de contribuables.
+
+Les sections connaissent des affaires qui leur sont renvoyées par le président de la commission. Les dispositions de
+l'article 347 leur sont applicables. Toutefois  elles délibèrent valablement lorsque trois membres au moins  y compris le
+président  sont présents [*quorum*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1651 2 b
+	  - CGIAN3 347
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 348 A
+
+1. En matière de bénéfices agricoles forfaitaires  la copie du procès-verbal des travaux de la commission départementale est
+donnée par lettre recommandée avec avis de réception à tous les membres de la commission ayant assisté aux délibérations de
+cet organisme.
+
+Ceux-ci disposent d'un délai de cinq jours pour fournir leurs observations  qui sont annexées au procès-verbal.
+
+2. Le directeur des services agricoles appelé à se faire entendre par la commission départementale conformément à l'article
+66 du code général des impôts peut se faire représenter par un fonctionnaire de son service devant cette commission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 66
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 349
+
+Dans les départements où il existe plusieurs directions des services fiscaux  les représentants de l'administration appelés à
+faire partie de la commission de conciliation instituée par l'article 1653 A du code général des impôts sont désignés par le
+directeur général des impôts.
+
+Plusieurs commissions peuvent  s'il est nécessaire  être instituées dans un même département par un arrêté du ministre de
+l'économie et des finances qui fixe leur siège et leur circonscription. Les membres fonctionnaires de ces commissions sont
+désignés par le directeur général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1653 A
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 350 A
+
+1. Dans le département de la Corse et dans les départements d'outre-mer [*DOM*] les inspecteurs principaux des impôts appelés
+à faire partie de la commission départementale de conciliation instituée par l'article 1653 A du code général des impôts
+peuvent être remplacés par des inspecteurs des impôts.
+
+2. A défaut de chambre de notaires et d'organismes professionnels ou syndicaux visés à l'article 1653 A-I-4o du code général
+des impôts  le notaire et les représentants des contribuables à la commission départementale de conciliation sont désignés
+par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1653 A I 4°
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 350 B
+
+La commission peut entendre toutes les personnes qu'elle croit pouvoir l'éclairer. Elle a la possibilité de se transporter
+sur les lieux ou de déléguer à cet effet un de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R59 B-2
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11,11 +996,555 @@ Version Consolidée au 1979-03-11
 
 ##### Section I : Détermination des bénéfices ou revenus nets des diverses catégories de revenus
 
+##### II : Revenus fonciers
+
+###### Article 2 sexies
+
+Lorsque la durée d'un bail à construction est comprise entre dix-huit et trente ans, le revenu brut foncier correspondant à
+la valeur des constructions remises sans indemnité au bailleur en fin de bail est égal au prix de revient de ces
+constructions, sous déduction d'une décote égale à 8 % par année de bail au-delà de la dix-huitième.
+
+
+
 ##### III : Bénéfices industriels et commerciaux
+
+##### B : Provision pour fluctuation des cours
+
+###### Article 4
+
+Les matières premières susceptibles de donner lieu à la constitution des provisions visées à l'article 3 sont : 
+
+a. Minerais et métaux-Minerai d'antimoine et antimoine, minerai de cuivre et cuivre, minerai d'étain et étain, minerai de
+magnésium, minerai de molybdène, minerai de plomb et plomb, minerai de tungstène, minerai de vanadium, minerai de zinc et
+zinc, cadmium, minerai de chrome, platine et métaux de la mine du platine. 
+
+Textiles-Chanvre, coton, jute, laine, lin et étoupe de lin, schappe, sisal et fibres dures d'importation, soie. 
+
+Graines oléagineuses-Graines de coprah, graines de lin, graines de soja. 
+
+Divers-Amiante, caoutchouc, coke de pétrole, os des Indes, pâtes de bois d'origine étrangère, pétrole brut. 
+
+b. Fèves de cacao, graines de palmiste, graines de ricin, ferrailles, grumes et sciages bruts, pâtes de bois ou de végétaux
+annuels d'origine française, peaux brutes de bovins, équidés, ovins et caprins, poils fins et grossiers utilisés dans
+l'industrie textile. 
+
+c. Argent métal 
+
+d. Or.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 septies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 3 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 5 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 7 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 1 (V)
+
+
+###### Article 5
+
+La provision pour fluctuation des cours est déterminée d'après les quantités des matières énumérées à l'article 4 qui
+existent normalement dans l'entreprise à l'état de matières premières ou de produits demi-finis ou finis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 4 (V)
+
+
+###### Article 6
+
+Pour celles des entreprises visées à l'article 3 qui n'entraient pas déjà dans le champ d'application des provisions pour
+fluctuation des cours à la clôture du dernier exercice arrêté avant le 29 décembre 1959, le stock de base est forfaitairement
+exprimé, pour l'ensemble des matières premières donnant droit à provision, par la moyenne des quantités de matières
+inventoriées à la clôture des exercices 1956 à 1959. 
+
+Le montant total de la provision pour fluctuation des cours susceptible d'être constituée par ces mêmes entreprises est
+limité, à la clôture de chaque exercice, à la différence entre, d'une part, le chiffre obtenu en multipliant les quantités
+constituant le stock de base par la valeur unitaire d'inventaire de chacune de ces matières à la clôture dudit exercice, et
+d'autre part, le produit obtenu en appliquant à la valeur de ce même stock de base, calculée au prix de revient unitaire à la
+date du 30 juin 1959, le rapport existant entre le cours moyen du dollar pendant les six derniers mois de l'exercice
+considéré et son cours à la date susvisée. 
+
+Toutefois, la provision afférente à l'argent métal et la provision afférente à l'or sont calculées dans les conditions
+prévues respectivement aux articles 8 bis et 8 ter. 
+
+En ce qui concerne les matières premières faisant l'objet de cotations sur les marchés internationaux et dont les cours en
+monnaie étrangère sont publiés par l'institut national de la statistique et des études économiques, les entreprises peuvent
+calculer la limite maximale de la provision dans les conditions prévues à l'article 9.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 9 (V)
+
+
+###### Article 7
+
+1. Pour les entreprises qui avaient pour objet principal la première transformation des matières visées au a de l'article 4 à
+la clôture du dernier exercice arrêté avant le 29 décembre 1959, le stock de base est, pour ces matières, forfaitairement
+exprimé par la moyenne des quantités inventoriées à la clôture des exercices 1938,1939,1946 et 1947. 
+
+En ce qui concerne celles de ces entreprises qui ont été créées après le 31 décembre 1946 ou n'ayant pas encore fait
+d'inventaire à cette date ou qui assurent, depuis une date postérieure à celle du dernier bilan arrêté en 1946, la
+transformation à titre principal de matières premières visées au a de l'article 4, la provision pour fluctuation des cours
+est, pour ces matières, calculée en partant des quantités en stock à la clôture des deux premiers exercices d'exploitation. 
+
+Dans le cas de mutation d'entreprise survenue, sans changement dans les conditions d'exploitation, avant la clôture du
+dernier exercice arrêté avant le 29 décembre 1959, le nouvel exploitant peut, en ce qui concerne les matières visées au a de
+l'article 4, faire état du stock de base du cédant. 
+
+2. Les entreprises visées au 1 doivent : 
+
+1° Pour les matières premières énumérées au b de l'article 4, faire état d'un stock de base forfaitairement exprimé par la
+moyenne des quantités de matières inventoriées à la clôture des exercices 1956 à 1959 ; 
+
+2° Pour l'argent métal, faire état d'un stock de base déterminé dans les conditions prévues à l'article 8 bis ; 
+
+3° Pour l'or, faire état d'un stock de base déterminé dans les conditions prévues à l'article 8 ter.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 septies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 9 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 4 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 ter (V)
+
+
+###### Article 8
+
+Sous réserve des dispositions de l'article 9, le montant total de la provision pour fluctuation des cours susceptible d'être
+constituée, à raison des matières premières énumérées au a de l'article 4, par les entreprises visées à l'article 7 est
+limité, à la clôture de chaque exercice, à la différence entre, d'une part, le chiffre obtenu en multipliant les quantités de
+ces matières premières comprises dans le stock de base par la valeur unitaire d'inventaire de chacune de ces matières à la
+clôture dudit exercice et, d'autre part, le produit obtenu en appliquant à la valeur de ces mêmes matières, calculée au prix
+moyen d'inventaire à la clôture des exercices 1945 à 1947, le rapport existant entre le cours moyen du dollar pendant les six
+derniers mois de l'exercice considéré et son cours au 31 décembre 1946. 
+
+Dans le deuxième terme de la différence visée au premier alinéa, les entreprises définies au deuxième alinéa du 1 de
+l'article 7, doivent évaluer leur stock de base d'après le prix moyen d'achat, pendant les années 1945 à 1947, des matières
+premières comprises dans ledit stock, ou, dans le cas de mutation d'entreprise survenue antérieurement à la clôture du
+dernier exercice arrêté avant le 29 décembre 1959, d'après le prix moyen figurant aux inventaires dressés par le cédant à la
+clôture des exercices 1945 à 1947. 
+
+En ce qui concerne les matières premières énumérées au b de l'article 4, les entreprises visées à l'article 7 doivent
+calculer la provision pour fluctuation des cours dans les conditions prévues à l'article 6. 
+
+Pour l'argent métal, les entreprises visées à l'article 7 doivent calculer la provision pour fluctuation des cours dans les
+conditions prévues à l'article 8 bis. 
+
+Pour l'or, les entreprises visées à l'article 7 doivent calculer la provision pour fluctuation des cours dans les conditions
+prévues à l'article 8 ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 4 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 6 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 7 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 9 (V)
+
+
+###### Article 8 bis
+
+1. La quantité d'argent à comprendre dans le stock de base pour le calcul de la provision pour fluctuation des cours est
+égale à la moyenne des quantités de ce métal inventoriées à la clôture des exercices 1963 à 1965.
+
+2. La limite maximale, à la clôture de chaque exercice, de la provision pour fluctuation des cours afférente à l'argent est
+calculée par différence entre, d'une part, le chiffre obtenu en multipliant la quantité de cette matière comprise dans le
+stock de base par la valeur unitaire d'inventaire de ladite matière à la clôture de l'exercice considéré et, d'autre part, le
+produit obtenu en appliquant à la valeur de cette matière, calculée au prix de revient unitaire d'inventaire à la clôture de
+l'exercice 1965, le rapport existant entre le cours moyen du dollar pendant les six derniers mois de l'exercice considéré et
+son cours moyen pendant les six derniers mois de l'exercice 1965.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 6 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 7 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 (V)
+
+
+###### Article 8 ter
+
+1. La quantité d'or à comprendre dans le stock de base pour le calcul de la provision pour fluctuation des cours est égale à
+la moyenne des quantités de ce métal inventoriées à la clôture des exercices 1967 à 1971.
+
+2. La limite maximale, à la clôture de chaque exercice, de la provision pour fluctuation des cours afférente à l'or est
+calculée par différence entre :
+
+D'une part, le chiffre obtenu en multipliant la quantité de cette matière comprise dans le stock de base par la valeur
+unitaire d'inventaire de ladite matière à la clôture de l'exercice considéré ;
+
+D'autre part, le produit obtenu en appliquant à la valeur de cette matière, calculée au prix de revient unitaire d'inventaire
+à la clôture de l'exercice 1971, le rapport existant entre le cours moyen du dollar pendant les six derniers mois de
+l'exercice considéré et son cours moyen pendant les six derniers mois de l'exercice 1971.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 3 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 7 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 (V)
+
+
+###### Article 9
+
+1. En ce qui concerne les matières premières faisant l'objet de cotations sur les marchés internationaux et dont les cours en
+monnaie étrangère sont publiés par l'institut national de la statistique et des études économiques, les entreprises définies
+à l'article 7 peuvent, à la clôture de chaque exercice, calculer, pour chacune de ces matières, la limite maximale de la
+provision dans les conditions ci-après. Cette limite ne peut, pour la matière considérée, excéder la différence entre, d'une
+part, le produit obtenu en multipliant la quantité de cette matière comprise dans le stock de base par la valeur unitaire
+d'inventaire de ladite matière à la clôture dudit exercice, et, d'autre part, le chiffre déterminé en appliquant à ce même
+produit le rapport existant entre le cours moyen mensuel de ladite matière pendant les années 1945 à 1947 et son cours moyen
+mensuel pendant les six derniers mois de l'exercice. 
+
+2. Les entreprises définies à l'article 6 doivent retenir, pour chaque matière, comme premier terme du rapport visé au 1 le
+cours moyen de ladite matière pendant le mois de juin 1959.
+
+3. Les cours qui doivent être retenus pour l'application des 1 et 2 sont, quelle que soit la qualité des matières en stock,
+ceux se rapportant aux matières-types qui sont définies par arrêté du ministre de l'économie et des finances (1) et exprimés
+en monnaie étrangère. 
+
+L'option pour le mode de calcul de la provision prévue au présent article est irrévocable. 
+
+(1) Annexe IV, art. 1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 6 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 7 (V)
+
+
+###### Article 10
+
+Par dérogation aux dispositions des articles 6,7,8 bis et 8 ter, si, pour une catégorie quelconque des matières faisant
+partie du stock de base, la moyenne des quantités existant réellement en stock, à la clôture de trois exercices consécutifs,
+est inférieure ou supérieure de plus de 20 % aux quantités comprises dans ledit stock de base, ce stock est, dès la clôture
+du troisième exercice, fixé, pour la matière considérée, à la moyenne ainsi déterminée. Toutefois, cette règle n'est
+applicable que si les quantités existant en stock à la clôture de chacun des exercices considérés ont été inférieures ou
+supérieures de plus de 10 % à celles qui étaient comprises dans le stock de base. 
+
+Lorsqu'une entreprise, ayant déjà pour objet principal de transformer des matières premières visées à l'article 4, adjoint à
+son industrie la transformation de nouvelles matières également visées audit article et dont la valeur d'inventaire est,
+pendant trois exercices consécutifs, au moins égale au dixième de la valeur globale d'inventaire, à la clôture de ces mêmes
+exercices, des matières pouvant donner lieu à constitution d'une provision, la moyenne quantitative, pour ces trois
+exercices, des nouvelles matières est comprise dans le stock de base. 
+
+En cas de cession d'un établissement ou d'une branche d'activité, le stock de base est immédiatement réduit de manière à ne
+tenir compte que des quantités de matières premières se rapportant aux établissements ou activités conservés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 septies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 4 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 6 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 bis (V)
+
+
+###### Article 10 bis
+
+Par dérogation aux dispositions qui précèdent, le stock de base des entreprises nouvelles ayant arrêté leur premier exercice
+postérieurement au 31 décembre 1959 est forfaitairement exprimé, pour l'ensemble des matières premières visées aux a et b de
+l'article 4, par la moyenne des quantités existant à la clôture des deux premiers exercices d'exploitation.
+
+Sous réserve des dispositions du dernier alinéa de l'article 6, et du 2 de l'article 9, le montant total de la provision pour
+fluctuation des cours susceptible d'être constituée par ces entreprises est limité, à la clôture de chaque exercice, à la
+différence entre, d'une part, le chiffre obtenu en multipliant les quantités de matières constituant le stock de base par la
+valeur unitaire d'inventaire de chacune de ces matières à la clôture dudit exercice, et d'autre part, le produit obtenu en
+appliquant à la valeur de ce même stock, calculée au prix de revient unitaire d'inventaire à la clôture de leur premier
+exercice d'exploitation, le rapport existant entre le cours moyen du dollar pendant les six derniers mois de l'exercice
+considéré et son cours moyen pendant les six derniers mois du premier exercice d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 4, 6, 9
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 septies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 ter (V)
+
+
+###### Article 10 bis A
+
+I. Par dérogation aux dispositions de l'article 8 bis, les entreprises nouvelles ayant arrêté leur premier exercice
+postérieurement au 31 décembre 1965 et dont l'objet principal est de faire subir en France la première transformation soit à
+l'argent seulement, soit à ce métal et à une ou plusieurs autres matières visées aux a et b de l'article 4 sont soumises aux
+dispositions de l'article 10 bis. 
+
+II. Par dérogation aux dispositions de l'article 8 ter, les entreprises nouvelles ayant arrêté leur premier exercice
+postérieurement au 31 décembre 1971 et dont l'objet principal est de faire subir en France la première transformation, soit à
+l'or seulement, soit à ce métal et à une ou plusieurs autres matières visées à l'article 4, sont soumises aux dispositions de
+l'article 10 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 ter (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 3 (V)
+
+
+###### Article 10 quater
+
+La provision pour fluctuation des cours afférente aux matières qui entrent, postérieurement à la clôture du dernier exercice
+arrêté en 1959, dans le stock de base des entreprises, en application des dispositions de l'article 10, est calculée dans les
+conditions fixées à l'article 10 bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis (V)
+
+
+###### Article 10 quinquies
+
+La différence entre la limite maximale de la provision, calculée dans les conditions fixées aux articles qui précèdent et le
+total des provisions déjà constituées au titre des précédents exercices représente la provision qui peut être imputée sur les
+bénéfices de l'exercice.
+
+La provision antérieurement constituée est, s'il y a lieu, ramenée au montant de la limite maximale visée à l'alinéa
+précédent. La différence est rapportée au bénéfice imposable de l'exercice.
+
+
+
+###### Article 10 septies
+
+Les entreprises doivent joindre à la déclaration des résultats du premier exercice sur lequel elles constituent une provision
+pour fluctuation des cours, ainsi que de ceux de chacun des exercices suivants, une note faisant connaître les modalités de
+constitution de la provision, et notamment : 
+
+a. Les quantités des matières visées à l'article 4 et existant dans l'entreprise sous la forme de matières premières, de
+produits demi-finis et de produits finis à la clôture des exercices retenus pour la détermination du stock de base ; 
+
+b. En ce qui concerne les matières énumérées au a de l'article 4 et qui étaient déjà comprises dans le stock de base à la
+clôture du dernier exercice arrêté avant le 29 décembre 1959, les évaluations d'inventaire à la clôture de chacun des
+exercices 1945 à 1947 ou, pour les entreprises visées au deuxième alinéa du 1 de l'article 7, deuxième alinéa, le prix moyen
+d'achat retenu pour les années 1945 à 1947 ; 
+
+c. En ce qui concerne, d'une part, les matières définies au a de l'article 4 qui n'étaient pas déjà comprises dans le stock
+de base à la clôture du dernier exercice arrêté avant le 29 décembre 1959, et d'autre part, les matières énumérées au b de
+l'article 4, le prix de revient unitaire à la date du 30 juin 1959 ou, pour les entreprises visées aux articles 10 bis à 10
+quater, le prix de revient unitaire d'inventaire à la clôture du premier exercice d'exploitation ou de l'exercice y
+assimilé ; 
+
+d. Les quantités de matières visées au a existant à la clôture de l'exercice dont les résultats sont déclarés et leur
+évaluation d'inventaire à la même date ; 
+
+e. Les cours du dollar et, éventuellement, les cours des matières premières sur les marchés internationaux dont il a été fait
+état pour le calcul de la provision. 
+
+Les entreprises désirant bénéficier des dispositions du deuxième alinéa de l'article 10, doivent, en outre, apporter toutes
+justifications de nature à prouver qu'elles remplissent la condition prévue par cette disposition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 4 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 7 (V)
+
+
+###### Article 10 sexies
+
+En cas de cession ou de cessation d'entreprise ou de décès de l'exploitant, les provisions pour fluctuation des cours
+figurant au dernier bilan sont considérées comme un élément du bénéfice immédiatement imposable dans les conditions fixées
+par les articles 201 et le 2 de l'article 204 du code général des impôts.
+
+Toutefois, dans ce cas, les provisions ne sont pas rapportées au bénéfice imposable lorsque l'exploitation du fonds
+d'industrie est continuée dans les conditions prévues à l'article 41 du code général susvisé.
+
+Il en est de même en cas de fusion de sociétés ou d'apport partiel lorsque ces opérations bénéficient des dispositions de
+l'article 210 du même code, et sous réserve que la société absorbante ou nouvelle ou la société bénéficiaire de l'apport
+puisse prétendre, elle-même, à la constitution de provisions pour fluctuation des cours.
+
+L'application des dispositions des deux alinéas précédents est subordonnée à l'obligation, pour les nouveaux exploitants,
+pour la société absorbante ou nouvelle ou pour la société bénéficiaire de l'apport, d'inscrire immédiatement à leur passif la
+provision pour fluctuation des cours figurant dans les écritures du précédent exploitant, des sociétés fusionnées ou de la
+société apporteuse et qui était afférente aux éléments transférés. Cette obligation doit être constatée, le cas échéant, dans
+l'acte de fusion ou d'apport.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 201, 204, 41, 210
+
+
+###### Article 10 ter
+
+Sont assimilées à des entreprises nouvelles, pour le calcul de la provision pour fluctuation des cours et soumises aux
+dispositions de l'article 10 bis, les entreprises dont l'objet principal est :
+
+Soit, depuis une date postérieure à la clôture du dernier exercice arrêté en 1959, de faire subir en France la première
+transformation à des matières premières énumérées aux a et b de l'article 4 ;
+
+Soit, depuis une date postérieure à la clôture du dernier exercice arrêté en 1965, de faire subir en France la première
+transformation soit à l'argent seulement, soit à ce métal et à une ou plusieurs autres matières visées aux a et b de
+l'article 4 précité ;
+
+Soit, depuis une date postérieure à la clôture du dernier exercice arrêté en 1971, de faire subir en France la première
+transformation soit à l'or, seulement, soit à ce métal et à une ou plusieurs autres matières visées audit article 4.
+
+Dans ce cas, les deux premiers exercices ou le premier exercice d'exploitation visés aux articles 10 bis et au I de l'article
+10 bis A s'entendent des deux premiers exercices ou du premier exercice pendant lesquels l'entreprise a eu pour objet
+principal la première transformation en France desdites matières.
+
+Pour l'application des dispositions du dernier alinéa de l'article 6 et du 2 de l'article 9, il est tenu compte du cours
+moyen des matières considérées pendant les six derniers mois du premier exercice susvisé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 4, 6, 9, 10 bis, 10 bis a I
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 3 (V)
+
+
+##### C : Provisions pour hausse des prix
+
+###### Article 10 decies
+
+La provision pour hausse des prix est inscrite au passif du bilan de l'entreprise sous une rubrique spéciale faisant
+ressortir séparément le montant des dotations de chaque exercice.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 duodecies (V)
+
+
+###### Article 10 nonies
+
+1. Pour chaque matière, produit ou approvisionnement, le montant maximal de la dotation pouvant être porté au compte
+"Provisions pour hausse des prix" est déterminé à la clôture de chaque exercice en multipliant les quantités de ladite
+matière ou dudit produit ou approvisionnement existant en stock à la date de cette clôture par la différence entre :
+
+1° La valeur unitaire d'inventaire de la matière, du produit ou de l'approvisionnement à cette date ;
+
+2° Une somme égale à 110 % de sa valeur unitaire d'inventaire à l'ouverture de l'exercice précédent ou, si elle est
+inférieure, de sa valeur unitaire d'inventaire à l'ouverture de l'exercice considéré.
+
+Toutefois, lorsqu'elle est déterminée en partant de la valeur unitaire à l'ouverture de l'exercice précédent, la dotation
+ainsi obtenue est, le cas échéant, diminuée du montant de la dotation effectivement pratiquée à la clôture dudit exercice.
+
+2. Par dérogation aux dispositions du 1, les entreprises existant au 30 juin 1959 doivent, à la clôture du premier et du
+deuxième exercices arrêtés postérieurement à cette date, faire état, dans le deuxième terme de la différence ci-dessus
+définie, d'une somme égale à 110 % du prix de revient unitaire au 30 juin 1959 ou, si elle est inférieure, de la valeur
+unitaire d'inventaire à la clôture de l'exercice en cours à cette dernière date. Lorsqu'elle est déterminée en partant du
+prix de revient unitaire au 30 juin 1959, la dotation ainsi calculée à la clôture du deuxième exercice arrêté postérieurement
+au 30 juin 1959 est, le cas échéant, diminuée du montant de la dotation effectivement pratiquée à la clôture de l'exercice
+précédent.
+
+
+
+###### Article 10 terdecies
+
+1. Les entreprises doivent fournir au service des impôts, à l'appui de la déclaration des résultats de chaque exercice, tous
+renseignements utiles sur les éléments de calcul de la provision pour hausse des prix.
+
+Elles doivent indiquer notamment :
+
+a. Les quantités de chacune des matières et de chacun des produits et approvisionnements existant à la clôture de l'exercice
+considéré et à raison desquels l'entreprise entend pratiquer une provision ;
+
+b. La valeur unitaire d'inventaire de chacun des éléments à la clôture dudit exercice et ses valeurs unitaires d'inventaire à
+l'ouverture et à la clôture de l'exercice précédent ou, pour le premier et le deuxième exercices arrêtés après le 30 juin
+1959, son prix de revient unitaire à cette dernière date et sa valeur unitaire d'inventaire à la clôture de l'exercice en
+cours à la même date ;
+
+c. Le montant de la dotation au compte "Provision" pouvant être pratiquée à la clôture de l'exercice considéré ;
+
+d. Le montant de la dotation effectivement pratiquée ;
+
+e. Et, le cas échéant, le montant de la dotation antérieure qui a été rapportée au bénéfice imposable.
+
+2. Les entreprises dont la durée normale de rotation des stocks est supérieure à trois ans devront joindre à la déclaration
+des résultats du troisième exercice arrêté après le 30 juin 1959 une note faisant connaître les divers éléments ayant servi à
+la détermination de cette durée.
+
+
 
 ##### D : Provisions pour reconstitution des gisements
 
 ##### a : Entreprises de recherches et d'exploitation d'hydrocarbures.
+
+###### Article 10 A
+
+Les entreprises, sociétés et organismes de toute nature qui effectuent la recherche et l'exploitation des hydrocarbures
+liquides ou gazeux dans la France métropolitaine, dans les départements et territoires français d'outre-mer, dans les Etats
+de la Communauté, ainsi qu'en Algérie, au Maroc, en Tunisie, au Togo et au Cameroun sont, à partir des exercices clos en
+1952, autorisés à constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés des provisions pour
+reconstitution des gisements, dans les conditions prévues aux articles 10 B, 10 C et 10 D à 10 F.
+
+**Nota:**
+
+
+
+
 
 ###### Article 10 B
 
@@ -69,6 +1598,4284 @@ déficitaire.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
 
 
+##### b : Entreprises produisant certaines substances minérales solides
+
+##### Provisions constituées à partir de 1972
+
+###### Article 10 C quinquies
+
+I. Le montant de la provision pour reconstitution des gisements de minéraux solides susceptible d'être admise en franchise
+d'impôt à la clôture de chacun des exercices clos en 1972 et ultérieurement ne peut excéder :
+
+- Ni 15 % du montant des ventes des produits marchands extraits des gisements de minerais figurant sur la liste prévue au 1
+de l'article 39 ter B du code général des impôts, exploités par l'entreprise, lorsque ces ventes sont prises en compte pour
+la détermination du bénéfice imposable en France ;
+
+- Ni 50 % du bénéfice net imposable réalisé au cours de l'exercice considéré et provenant de la vente, en l'état ou après
+transformation, de ces mêmes produits.
+
+II. Sont assimilées à des ventes de produits extraits de gisements exploités par l'entreprise les ventes de produits acquis
+par celle-ci auprès de filiales étrangères dans lesquelles elle détient directement ou indirectement 50 % au moins des droits
+de vote.
+
+L'appréciation des droits détenus par l'intermédiaire de filiales s'opère en multipliant successivement, quel que soit le
+degré de filiation, les pourcentages détenus par chaque société mère.
+
+III. Le pourcentage de 50 % peut être abaissé à 20 % sur agrément du ministre de l'économie et des finances, après avis du
+ministre du développement industriel et scientifique, notamment :
+
+- Lorsque la détention d'une participation inférieure à 50 % résulte soit de la législation interne de l'Etat dans lequel la
+société contrôlée est implantée, soit d'accords intervenus entre la France et cet Etat ;
+
+- Lorsque l'entreprise est en mesure d'établir que sa participation bien que minoritaire lui permet d'exercer en fait le
+contrôle de la société exploitante ou de disposer librement de la part de production, au moins égale à 20 %, qui lui revient.
+
+IV. Les produits marchands s'entendent des produits obtenus en faisant subir au minerai les préparations et concentrations
+qui doivent nécessairement être effectuées avant la première vente.
+
+Le montant des ventes de ces produits est déterminé sous déduction des ports facturés aux clients et des taxes françaises qui
+y sont incorporées.
+
+En ce qui concerne les entreprises qui transforment elles-mêmes les produits marchands ci-dessus définis, le montant des
+ventes est calculé en appliquant aux quantités de ces produits compris dans les produits finis vendus au cours de l'exercice
+le prix unitaire moyen de vente, pendant cet exercice, desdits produits marchands.
+
+Au montant des ventes ainsi déterminé s'ajoutent toutes sommes allouées à l'entreprise à titre de subventions ou de
+protection, sous quelque forme que ce soit, et calculées en fonction des quantités de produits extraits de ses gisements.
+
+V. Pour la détermination du bénéfice net imposable, il y a lieu :
+
+- D'une part, d'exclure la fraction des provisions antérieurement constituées qui serait rapportée aux bases de l'impôt
+conformément aux dispositions de l'article 10 E ;
+
+- D'autre part, de déduire le déficit subi au cours d'un exercice dans la métropole et dans les départements d'outre-mer et
+provenant de la vente, en l'état ou après transformation, de produits extraits des gisements de minerais donnant droit à la
+constitution d'une provision, du bénéfice réalisé au cours de l'exercice suivant et provenant des mêmes opérations. Si ce
+bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté
+successivement sur les exercices suivants jusqu'au cinquième exercice qui suit l'exercice déficitaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 ter B 1
+	  - CGIAN3 10 E
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C sexies (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 C bis (P)
+
+
+###### Article 10 C sexies
+
+I. La provision visée à l'article précédent constituée à la clôture d'un exercice doit, avant l'expiration d'un délai de cinq
+ans à partir de la clôture de cet exercice, être utilisée :
+
+a. Soit à tous travaux ou immobilisations nécessaires aux recherches portant sur des gisements ou parties de gisements non
+encore reconnus et concernant les minerais figurant sur la liste visée à l'article 10 C quinquies ;
+
+b. Soit à tous travaux ou immobilisations destinés à améliorer la récupération des substances minérales comprises dans ces
+mêmes minerais ;
+
+c. Soit à l'acquisition de participations dans des sociétés ou organismes ayant pour objet d'effectuer la recherche et
+l'exploitation des minerais figurant sur la liste visée à l'article 10 C quinquies ou d'améliorer la récupération des
+substances minérales comprises dans ces mêmes minerais.
+
+Le terme "participations" s'entend, au sens de l'alinéa précédent, des actions ou des parts d'intérêts ainsi que des sommes
+avancées aux sociétés ou organismes ci-dessus visés et effectivement destinées à être investies par ces sociétés et
+organismes dans des travaux de recherche ou de récupération des substances minérales considérées.
+
+II. Lorsque le remploi de la provision est effectué pour la mise en valeur de gisements situés hors de la France
+métropolitaine, des départements et territoires d'outre-mer [*DOM - TOM*], sa validité est subordonnée à un agrément du
+ministre de l'économie et des finances, après avis du ministre du développement industriel et scientifique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 10 C quinquies
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (V)
+
+
+##### c : Dispositions communes
+
+###### Article 10 D
+
+La provision pour reconstitution des gisements est inscrite au passif du bilan de l'entreprise sous une rubrique spéciale
+faisant ressortir le montant des dotations de chaque exercice.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 A (P)
+
+
+##### G : Réinvestissement des plus-values. Exclusion des acquisitions de biens de caractère somptuaire
+
+###### Article 10 H
+
+Le remploi prévu à l'article 40 du code général des impôts ne peut pas être effectué dans l'acquisition des biens meubles ou
+immeubles de caractère somptuaire énumérés ci-après lorsqu'ils ne sont pas acquis dans l'intérêt de l'ensemble du personnel
+de l'entreprise :
+
+1° Terrains de chasse ou de pêche et toutes autres immobilisations correspondantes ;
+
+2° Résidences de plaisance ou d'agrément, à l'exception des immeubles classés dans les conditions prévues à l'article 1er de
+la loi du 31 décembre 1913 sur les monuments historiques ;
+
+3° Yachts ou bateaux de plaisance à voile ou à moteur ;
+
+4° Voitures de tourisme, pour la fraction de leur prix d'acquisition qui dépasse 20 000 F ;
+
+5° Bijoux, objets d'art, à l'exception des objets mobiliers classés dans les conditions prévues à l'article 14 de la loi du
+31 décembre 1913 susvisée, modifié par l'article unique de la loi n° 46-985 du 10 mai 1946 ;
+
+6° Terrains ou locaux appelés à être affectés à la pratique de sports et installations correspondantes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 40
+	  - Loi n°1913-12-31 art. 1, art. 14
+	  - Loi n°46-985 1946-05-10 art. 1
+
+
+##### H : Application de l'article 238 octies du code général des impôts
+
+###### Article 10 H bis
+
+Les dispositions de l'article 238 octies du code général des impôts cessent de s'appliquer aux profits de construction
+provenant de la cession d'immeubles pour lesquels la délivrance du permis de construire ou le dépôt de la déclaration en
+tenant lieu est postérieur au 31 décembre 1971.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 octies (V)
+
+
+##### J : Subventions - Etablissements hôteliers ou thermaux
+
+###### Article 10 K
+
+Les établissements hôteliers ou thermaux bénéficient des dispositions du 1 de l'article 42 septies du code général des impôts
+en ce qui concerne les dépenses d'équipement et d'entretien prises en charge par les casinos dans les conditions prévues aux
+articles 7 à 15 du décret n° 63-595 du 20 juin 1963.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 42 septies (V)
+
+
+##### K : Révision des bilans (loi n° 59-1472 du 28 décembre 1959)
+
+###### Article 21
+
+Les coefficients prévus pour la révision des bilans des exercices clos le 29 décembre 1959 sont fixés aux chiffres ci-après :
+
+a. En ce qui concerne les biens situés dans la métropole ou dans les départements de la Guadeloupe, de la Guyane et de la
+Martinique :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="77">
+
+ANNÉES
+
+</td>
+      <td width="77">
+
+COEFFICIENT
+
+</td>
+      <td width="77">
+
+ANNÉES
+
+</td>
+      <td width="77">
+
+COEFFICIENT
+
+</td>
+      <td width="77">
+
+ANNÉES
+
+</td>
+      <td width="77">
+
+COEFFICIENT
+
+</td>
+      <td width="77">
+
+ANNÉES
+
+</td>
+      <td width="77">
+
+COEFFICIENT
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1914 et antér
+
+</td>
+      <td valign="top" width="77">
+
+243
+
+</td>
+      <td valign="top" width="77">
+
+1926
+
+</td>
+      <td valign="top" width="77">
+
+35,5
+
+</td>
+      <td width="77" valign="top">
+
+1938
+
+</td>
+      <td width="77" valign="top">
+
+38
+
+</td>
+      <td width="77" valign="top">
+
+1950
+
+</td>
+      <td width="77" valign="top">
+
+1,6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1915
+
+</td>
+      <td width="77" valign="top">
+
+170,1
+
+</td>
+      <td valign="top" width="77">
+
+1927
+
+</td>
+      <td valign="top" width="77">
+
+38,9
+
+</td>
+      <td valign="top" width="77">
+
+1939
+
+</td>
+      <td valign="top" width="77">
+
+36,5
+
+</td>
+      <td valign="top" width="77">
+
+1951
+
+</td>
+      <td valign="top" width="77">
+
+1,25
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1916
+
+</td>
+      <td width="77" valign="top">
+
+129,6
+
+</td>
+      <td width="77" valign="top">
+
+1928
+
+</td>
+      <td valign="top" width="77">
+
+38,9
+
+</td>
+      <td width="77" valign="top">
+
+1940
+
+</td>
+      <td valign="top" width="77">
+
+29,3
+
+</td>
+      <td valign="top" width="77">
+
+1952
+
+</td>
+      <td valign="top" width="77">
+
+1,15
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1917
+
+</td>
+      <td valign="top" width="77">
+
+89,1
+
+</td>
+      <td width="77" valign="top">
+
+1929
+
+</td>
+      <td valign="top" width="77">
+
+39,6
+
+</td>
+      <td valign="top" width="77">
+
+1941
+
+</td>
+      <td valign="top" width="77">
+
+26,8
+
+</td>
+      <td valign="top" width="77">
+
+1953
+
+</td>
+      <td width="77" valign="top">
+
+1,20
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1918
+
+</td>
+      <td width="77" valign="top">
+
+72,9
+
+</td>
+      <td width="77" valign="top">
+
+1930
+
+</td>
+      <td valign="top" width="77">
+
+44,6
+
+</td>
+      <td valign="top" width="77">
+
+1942
+
+</td>
+      <td width="77" valign="top">
+
+24,3
+
+</td>
+      <td valign="top" width="77">
+
+1954
+
+</td>
+      <td width="77" valign="top">
+
+1,25
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1919
+
+</td>
+      <td valign="top" width="77">
+
+70,4
+
+</td>
+      <td valign="top" width="77">
+
+1931
+
+</td>
+      <td valign="top" width="77">
+
+48,6
+
+</td>
+      <td valign="top" width="77">
+
+1943
+
+</td>
+      <td width="77" valign="top">
+
+17,8
+
+</td>
+      <td valign="top" width="77">
+
+1955
+
+</td>
+      <td width="77" valign="top">
+
+1,25
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1920
+
+</td>
+      <td width="77" valign="top">
+
+48,6
+
+</td>
+      <td valign="top" width="77">
+
+1932
+
+</td>
+      <td valign="top" width="77">
+
+56,8
+
+</td>
+      <td width="77" valign="top">
+
+1944
+
+</td>
+      <td width="77" valign="top">
+
+16,3
+
+</td>
+      <td valign="top" width="77">
+
+1956
+
+</td>
+      <td valign="top" width="77">
+
+1,20
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1921
+
+</td>
+      <td width="77" valign="top">
+
+72,9
+
+</td>
+      <td valign="top" width="77">
+
+1933
+
+</td>
+      <td valign="top" width="77">
+
+62,4
+
+</td>
+      <td width="77" valign="top">
+
+1945
+
+</td>
+      <td valign="top" width="77">
+
+8,1
+
+</td>
+      <td width="77" valign="top">
+
+1957
+
+</td>
+      <td width="77" valign="top">
+
+1,15
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1922
+
+</td>
+      <td width="77" valign="top">
+
+78,5
+
+</td>
+      <td valign="top" width="77">
+
+1934
+
+</td>
+      <td width="77" valign="top">
+
+64,8
+
+</td>
+      <td width="77" valign="top">
+
+1946
+
+</td>
+      <td valign="top" width="77">
+
+5,1
+
+</td>
+      <td width="77" valign="top">
+
+1958
+
+</td>
+      <td valign="top" width="77">
+
+1,05
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1923
+
+</td>
+      <td valign="top" width="77">
+
+60,8
+
+</td>
+      <td valign="top" width="77">
+
+1935
+
+</td>
+      <td width="77" valign="top">
+
+72,9
+
+</td>
+      <td valign="top" width="77">
+
+1947
+
+</td>
+      <td width="77" valign="top">
+
+4
+
+</td>
+      <td width="77" valign="top">
+
+1959
+
+</td>
+      <td width="77" valign="top">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1924
+
+</td>
+      <td valign="top" width="77">
+
+51,8
+
+</td>
+      <td width="77" valign="top">
+
+1936
+
+</td>
+      <td width="77" valign="top">
+
+60,8
+
+</td>
+      <td width="77" valign="top">
+
+1948
+
+</td>
+      <td valign="top" width="77">
+
+2,3
+
+</td>
+      <td width="77" valign="top">
+
+</td>
+      <td valign="top" width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1925
+
+</td>
+      <td valign="top" width="77">
+
+46,1
+
+</td>
+      <td width="77" valign="top">
+
+1937
+
+</td>
+      <td valign="top" width="77">
+
+43
+
+</td>
+      <td valign="top" width="77">
+
+1949
+
+</td>
+      <td width="77" valign="top">
+
+1,9
+
+</td>
+      <td width="77" valign="top">
+
+</td>
+      <td valign="top" width="77">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+b. En ce qui concerne les biens situés dans le département de la Réunion :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="77">
+
+ANNÉES
+
+</td>
+      <td width="77">
+
+COEFFICIENT
+
+</td>
+      <td width="77">
+
+ANNÉES
+
+</td>
+      <td width="77">
+
+COEFFICIENT
+
+</td>
+      <td width="77">
+
+ANNÉES
+
+</td>
+      <td width="77">
+
+COEFFICIENT
+
+</td>
+      <td width="77">
+
+ANNÉES
+
+</td>
+      <td width="77">
+
+COEFFICIENT
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1914 et antér
+
+</td>
+      <td valign="top" width="77">
+
+121,5
+
+</td>
+      <td valign="top" width="77">
+
+1926
+
+</td>
+      <td valign="top" width="77">
+
+17,8
+
+</td>
+      <td valign="top" width="77">
+
+1938
+
+</td>
+      <td width="77" valign="top">
+
+19
+
+</td>
+      <td width="77" valign="top">
+
+1950
+
+</td>
+      <td valign="top" width="77">
+
+1,6
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1915
+
+</td>
+      <td width="77" valign="top">
+
+85
+
+</td>
+      <td width="77" valign="top">
+
+1927
+
+</td>
+      <td valign="top" width="77">
+
+19,5
+
+</td>
+      <td width="77" valign="top">
+
+1939
+
+</td>
+      <td width="77" valign="top">
+
+18,3
+
+</td>
+      <td width="77" valign="top">
+
+1951
+
+</td>
+      <td valign="top" width="77">
+
+1,25
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1916
+
+</td>
+      <td width="77" valign="top">
+
+64,9
+
+</td>
+      <td width="77" valign="top">
+
+1928
+
+</td>
+      <td width="77" valign="top">
+
+19,5
+
+</td>
+      <td valign="top" width="77">
+
+1940
+
+</td>
+      <td width="77" valign="top">
+
+14,6
+
+</td>
+      <td width="77" valign="top">
+
+1952
+
+</td>
+      <td valign="top" width="77">
+
+1,15
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1917
+
+</td>
+      <td valign="top" width="77">
+
+44,6
+
+</td>
+      <td width="77" valign="top">
+
+1929
+
+</td>
+      <td width="77" valign="top">
+
+19,9
+
+</td>
+      <td width="77" valign="top">
+
+1941
+
+</td>
+      <td valign="top" width="77">
+
+13,4
+
+</td>
+      <td valign="top" width="77">
+
+1953
+
+</td>
+      <td width="77" valign="top">
+
+1,20
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1918
+
+</td>
+      <td width="77" valign="top">
+
+36,5
+
+</td>
+      <td width="77" valign="top">
+
+1930
+
+</td>
+      <td width="77" valign="top">
+
+22,3
+
+</td>
+      <td valign="top" width="77">
+
+1942
+
+</td>
+      <td width="77" valign="top">
+
+12,1
+
+</td>
+      <td width="77" valign="top">
+
+1954
+
+</td>
+      <td valign="top" width="77">
+
+1,25
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1919
+
+</td>
+      <td width="77" valign="top">
+
+35,3
+
+</td>
+      <td valign="top" width="77">
+
+1931
+
+</td>
+      <td width="77" valign="top">
+
+24,3
+
+</td>
+      <td valign="top" width="77">
+
+1943
+
+</td>
+      <td valign="top" width="77">
+
+8,9
+
+</td>
+      <td valign="top" width="77">
+
+1955
+
+</td>
+      <td valign="top" width="77">
+
+1,25
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1920
+
+</td>
+      <td valign="top" width="77">
+
+24,3
+
+</td>
+      <td valign="top" width="77">
+
+1932
+
+</td>
+      <td width="77" valign="top">
+
+28,4
+
+</td>
+      <td width="77" valign="top">
+
+1944
+
+</td>
+      <td valign="top" width="77">
+
+8,1
+
+</td>
+      <td valign="top" width="77">
+
+1956
+
+</td>
+      <td width="77" valign="top">
+
+1,20
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1921
+
+</td>
+      <td valign="top" width="77">
+
+36,5
+
+</td>
+      <td valign="top" width="77">
+
+1933
+
+</td>
+      <td valign="top" width="77">
+
+31,1
+
+</td>
+      <td valign="top" width="77">
+
+1945
+
+</td>
+      <td width="77" valign="top">
+
+6,9
+
+</td>
+      <td valign="top" width="77">
+
+1957
+
+</td>
+      <td valign="top" width="77">
+
+1,15
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1922
+
+</td>
+      <td width="77" valign="top">
+
+39,3
+
+</td>
+      <td valign="top" width="77">
+
+1934
+
+</td>
+      <td valign="top" width="77">
+
+32,4
+
+</td>
+      <td valign="top" width="77">
+
+1946
+
+</td>
+      <td width="77" valign="top">
+
+4,4
+
+</td>
+      <td valign="top" width="77">
+
+1958
+
+</td>
+      <td width="77" valign="top">
+
+1,05
+
+</td>
+    </tr>
+    <tr>
+      <td width="77" valign="top">
+
+1923
+
+</td>
+      <td valign="top" width="77">
+
+30,4
+
+</td>
+      <td valign="top" width="77">
+
+1935
+
+</td>
+      <td valign="top" width="77">
+
+36,5
+
+</td>
+      <td width="77" valign="top">
+
+1947
+
+</td>
+      <td width="77" valign="top">
+
+3,5
+
+</td>
+      <td valign="top" width="77">
+
+1959
+
+</td>
+      <td valign="top" width="77">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1924
+
+</td>
+      <td valign="top" width="77">
+
+25,9
+
+</td>
+      <td width="77" valign="top">
+
+1936
+
+</td>
+      <td width="77" valign="top">
+
+30,4
+
+</td>
+      <td valign="top" width="77">
+
+1948
+
+</td>
+      <td width="77" valign="top">
+
+2,3
+
+</td>
+      <td valign="top" width="77">
+
+</td>
+      <td valign="top" width="77">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="77">
+
+1925
+
+</td>
+      <td valign="top" width="77">
+
+23,1
+
+</td>
+      <td valign="top" width="77">
+
+1937
+
+</td>
+      <td width="77" valign="top">
+
+21,5
+
+</td>
+      <td valign="top" width="77">
+
+1949
+
+</td>
+      <td width="77" valign="top">
+
+1,9
+
+</td>
+      <td width="77" valign="top">
+
+</td>
+      <td valign="top" width="77">
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 41 unvicies
+
+	**Cite**:
+
+	  - Loi n°59-1472 1959-12-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 D (V)
+
+
+##### M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts
+
+##### 4 : Dispositions diverses
+
+###### Article 38 quaterdecies
+
+En ce qui concerne les entreprises dont le siège est situé hors du territoire de la République française, les renseignements
+à fournir s'entendent exclusivement de ceux afférents aux exploitations sises en France.
+
+
+
+##### P : Détermination du bénéfice des sociétés admises au régime du forfait.
+
+###### Article 38 sexdecies
+
+Le bénéfice forfaitaire des sociétés admises au régime du forfait est déterminé globalement. Il est ensuite réparti entre les
+associés dans les conditions prévues à l'article 8 du code général des impôts.
+
+Toutefois les membres desdites sociétés qui relèvent de l'impôt sur les sociétés sont, en tout état de cause, passibles de
+cet impôt compte tenu de leur quote-part dans les résultats réels accusés par les sociétés dont il s'agit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 8
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+##### V : Bénéfices de l'exploitation agricole
+
+##### B : Détermination et imposition du bénéfice des exploitants soumis au régime du bénéfice réel.
+
+###### Article 38 sexdecies F
+
+Les intérêts des emprunts contractés pour l'acquisition de terres peuvent donner lieu, pour la détermination des bénéfices
+imposables, à une déduction accélérée suivant les modalités et dans les conditions définies ci-après.
+
+1. En plus des intérêts effectivement dus, les exploitants peuvent comprendre dans leurs charges déductibles une somme égale
+à 25 % du montant de ces intérêts, au titre de chacune :
+
+Des cinq premières annuités, lorsque le prêt est d'une durée au moins égale à neuf ans, mais inférieure à douze ans ;
+
+Des six premières annuités, lorsque le prêt est d'une durée au moins égale à douze ans, mais inférieure à quatorze ans ;
+
+Des sept premières annuités, lorsque la durée du prêt est au moins égale à quatorze ans.
+
+Les sommes complémentaires ainsi déduites au titre de chaque année sont rapportées, sur le même nombre d'années et dans
+l'ordre des déductions pratiquées, aux résultats de chacune des années suivant celle au cours de laquelle la dernière
+déduction a été faite.
+
+Lorsqu'un exploitant cesse d'être imposé d'après son bénéfice réel pour être soumis au régime du forfait, les compléments de
+déduction qui n'ont pas encore été réintégrés en vertu de l'alinéa précédent sont ajoutés aux bénéfices forfaitaires de
+l'année considérée et des années suivantes dans l'ordre où ils ont été pratiqués.
+
+En cas de cession ou de cessation totale d'activité ou de location des terres achetées, les déductions excédentaires non
+encore imputées sont rapportées aux résultats de l'exercice clos lors de cette opération.
+
+2. Peuvent seules être prises en considération pour l'application des dispositions du 1 les acquisitions de terres qui
+répondent aux conditions suivantes :
+
+a. Etre faites par l'exploitant preneur en place :
+
+- Soit à l'occasion de l'exercice de son droit de préemption, en vertu d'un bail déclaré ou enregistré depuis au moins deux
+ans ;
+
+- Soit à la suite d'une expropriation ou de l'exercice du droit de reprise par le propriétaire ;
+
+- Soit à l'occasion du versement d'une soulte à des copartageants ;
+
+b. Donner lieu à un prêt d'une durée au moins égale à neuf ans ;
+
+c. Etre d'un montant au moins égal à 100.000 F.
+
+3. Lorsque ces acquisitions ont pour effet de porter la superficie des terres appartenant à l'exploitant au-delà de la
+surface globale maximale prévue pour l'application de la législation sur les cumuls ou lorsque la valeur desdites
+acquisitions excède, dans le deuxième cas prévu au 2, celle des terres dont l'exploitant a été évincé, les compléments de
+déduction prévus au 1 sont réduits à due concurrence.
+
+4. Les exploitants qui ont contracté un emprunt pour l'achat de terres avant la date d'entrée en vigueur des dispositions de
+la loi du 21 décembre 1970 peuvent bénéficier des dispositions du présent article pour la fraction de la période définie au 1
+qui reste à courir à la date d'ouverture du premier exercice au titre duquel ils sont imposés d'après le régime du bénéfice
+réel.
+
+Les compléments de déduction ainsi pratiqués sont rapportés aux bénéfices des années suivant celle au cours de laquelle a été
+opérée la dernière déduction. Ce rapport s'effectue sur le même nombre d'années et dans le même ordre que les déductions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-1199 1970-12-21 Finances pour 1971
+
+
+###### Article 38 sexdecies GA
+
+1  Les plus-values réalisées à l'occasion de la cession de terres ou de bâtiments d'exploitation ne sont pas retenues pour la
+fraction acquise avant le 1er janvier de la première année au titre de laquelle le montant des recettes a dépassé la limite
+du forfait.
+
+L'exonération prévue au premier alinéa est subordonnée à la condition que l'activité ait été exercée à titre principal
+pendant au moins cinq ans et que le bien cédé n'entre pas dans le champ d'application de l'article 691 du code général des
+impôts. A défaut, les dispositions des articles 150 A à 150 S du même code sont applicables.
+
+2  Si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition, dans le patrimoine privé du
+contribuable, il est fait application de l'article 151 septies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 A A CGI 150 S
+	  - CGI 151 septies
+	  - CGI 691
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### Régime simplifié.
+
+###### Article 38 sexdecies JD
+
+Les produits prélevés par l'exploitant à des fins personnelles, dont la valeur est ajoutée aux recettes pour la détermination
+du résultat d'exploitation, sont évalués d'après le cours du jour à la date de clôture de l'exercice dans les conditions
+prévues à l'article 38 sexdecies JC pour les stocks.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies JC
+
+
+##### B : Détermination et imposition du bénéfice des exploitants soumis à un régime réel
+
+###### Article 38 sexdecies E
+
+Les matériels et équipements utilisés par les entreprises agricoles peuvent être amortis suivant un système dégressif dans
+les conditions fixées par le 1 de l'article 39 A du code général des impôts et les dispositions réglementaires prises pour
+son application (1). 
+
+Le même régime est étendu aux bâtiments d'exploitation remplissant les conditions prévues au 2° du 2 de l'article 39 A du
+même code.
+
+**Nota:**
+
+(1) Annexe II, art. 22 à 25.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 A (V)
+
+
+###### Article 38 sexdecies I
+
+I. Le prix de revient des produits de l'exploitation compris dans les stocks peut être déterminé forfaitairement en
+appliquant au cours du jour à la clôture de l'exercice une décote correspondant au bénéfice brut susceptible d'être réalisé
+lors de la vente. Cette décote est appréciée par l'exploitant, sous le contrôle de l'administration.
+
+II. Le prix de revient des produits en cours de fabrication peut être déterminé forfaitairement par référence à des coûts
+standard ou à tous autres éléments statistiques.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
+
+
+##### D : Dispositions applicables en cas de changement de régime d'imposition
+
+##### 1° : Passage du régime des micro-exploitations à un régime réel
+
+###### Article 38 sexdecies M
+
+Les amortissements résiduels sont calculés sur la base des valeurs nettes comptables déterminées conformément à l'article 38
+sexdecies L. 
+
+Ils sont répartis sur la durée d'utilisation restant à courir, telle qu'elle est retenue pour l'application du même article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies L (V)
+
+
+##### 1° : Passage du régime du forfait au régime normal d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies O
+
+Par dérogation aux dispositions qui précèdent, les exploitants qui étaient imposés d'après leur bénéfice réel avant l'entrée
+en vigueur des articles 9 à 11 de la loi n° 70-1199 du 21 décembre 1970 doivent se conformer aux dispositions ci-après :
+
+a. Les immobilisations sont reprises au bilan d'entrée du premier exercice ouvert en 1972 pour leur valeur comptable à la
+clôture de l'exercice précédent. Toutefois, la valeur des immobilisations acquises ou créées avant le 1er janvier 1959 peut
+être déterminée dans les conditions prévues à l'article 38 sexdecies L.
+
+La différence entre cette valeur et celle pour laquelle ces immobilisations figuraient dans le dernier bilan est portée en
+franchise d'impôt à une réserve spéciale.
+
+b. Les stocks sont repris au bilan d'entrée pour leur valeur comptable à la clôture de l'exercice précédent.
+
+Les stocks existant à la clôture du premier exercice ouvert en 1972 ainsi qu'à la clôture des exercices suivants sont évalués
+dans les conditions fixées à l'article 38 sexdecies H. Toutefois, en ce qui concerne les animaux nés dans l'exploitation
+avant la date d'établissement du bilan d'entrée du premier exercice ouvert en 1972, ainsi que pour les valeurs en terre
+existant à la même date, les exploitants peuvent constituer en franchise d'impôt une réserve d'un montant égal au prix de
+revient de ces éléments à la date susvisée. Cette réserve est rattachée aux bénéfices imposables au fur et à mesure des
+ventes des animaux ou des récoltes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies L, 38 sexdecies H
+	  - Loi n°70-1199 1970-12-21 art. 9 à art. 11 Finances pour 1971
+
+	**Abrogé par**:
+
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
+
+
+###### Article 38 sexdecies-0 K
+
+Les exploitants imposés d'après le bénéfice réel peuvent inscrire au bilan d'ouverture du premier exercice soumis à ce régime
+une somme correspondant à la valeur, à la date du changement de régime, des améliorations du fonds représentant le résultat
+des pratiques culturales, lorsque les transactions en usage dans leur région en font état.
+
+Cette valeur est appréciée d'après les usages locaux, et notamment ceux qui sont suivis en matière d'expropriation.
+
+La somme ainsi portée au premier bilan demeure inscrite aux bilans ultérieurs pour le même montant; elle ne peut pas faire
+l'objet d'amortissements.
+
+Lors de la cession des améliorations du fonds, cette somme vient, pour le calcul de la plus-value imposable éventuelle, en
+déduction du prix reçu par le cédant.
+
+
+
+##### 3° : Passage du régime du bénéfice réel au régime du forfait.
+
+###### Article 38 sexdecies OC
+
+En ce qui concerne les exploitants qui passent du régime du bénéfice réel au régime du forfait, les récoltes comprises dans
+le stock de sortie du dernier exercice dont les résultats sont déterminés d'après le régime du bénéfice réel, sont évaluées
+d'après leur valeur à la clôture de cet exercice.
+
+
+
+###### Article 38 sexdecies OD
+
+En cas de passage du régime du bénéfice réel au régime du forfait, la fraction des subventions d'équipement soumises au
+régime de l'article 42 septies du code général des impôts et non encore rapportée aux bases de l'impôt est comprise dans les
+résultats du dernier exercice imposé selon le mode réel. Lorsqu'elle n'est pas utilisée à compenser le déficit d'exploitation
+de l'exercice, elle fait l'objet d'une imposition séparée selon le régime prévu en matière de plus-values.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 42 septies
+
+
+##### E : Obligations des exploitants
+
+##### 1° : Obligations applicables aux régimes réels
+
+###### Article 38 sexdecies QA
+
+Les contribuables dont le montant des recettes excède pour la première fois la limite du forfait sont tenus d'indiquer au
+service des impôts la valeur vénale des terres et bâtiments d'exploitation inscrits à l'actif, au 1er janvier de l'année du
+franchissement de la limite.
+
+Ces renseignements doivent être fournis avant le 31 mars de l'année suivant celle du franchissement de la limite.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
+
+
+##### VI : Traitements, salaires, pensions et rentes viagères
+
+##### Détermination du revenu imposable.
+
+###### Article 38 septdecies
+
+Les dispositions des articles 83-1° bis et 158-6, dernier alinéa, du code général des impôts, qui déterminent le régime
+fiscal applicable, en matière d'impôt sur le revenu, aux cotisations afférentes au régime de retraite complémentaire institué
+par la caisse nationale de prévoyance de la fonction publique et aux arrérages versés par cet organisme, sont étendues au
+régime de retraite complémentaire institué par le comité de gestion des oeuvres sociales des établissements publics
+d'hospitalisation, de soins, de cure et de prévention relevant du ministère des affaires sociales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 6 al. DERNIER
+	  - CGI 83 1° bis
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### VII : Bénéfices des professions non commerciales
+
+##### C : Déclarations spéciales
+
+###### Article 41
+
+Les contribuables placés sous le régime de l'évaluation administrative doivent adresser à l'administration, avant le 1er mars
+de chaque année, une déclaration indiquant pour l'année précédente :
+
+a La nature de l'activité qu'ils exercent;
+
+b Leur ancienneté dans l'exercice de leur profession;
+
+c Le cas échéant, leurs titres universitaires, hospitaliers, diplômes techniques ou autres titres de nature à renseigner
+l'administration sur l'importance de leur situation professionnelle ainsi que, le cas échéant, les tarifs spéciaux qu'ils
+appliquent en raison de ces titres ou d'une situation personnelle particulière;
+
+d Les services réguliers qu'ils assurent moyennant rémunération pour le compte d'entreprises ou de collectivités publiques ou
+privées;
+
+e Le montant de leurs recettes brutes;
+
+f Le nombre de leurs employés ou collaborateurs attitrés et le total des salaires ou autres rémunérations qu'ils ont versés à
+ces employés ou à des collaborateurs attitrés ou non;
+
+g Le montant de leurs loyers professionnels ou privés;
+
+h Le nombre et la puissance de leurs voitures automobiles à usage professionnel ou privé;
+
+i La liste des personnes vivant à leur foyer;
+
+j Le montant des charges sociales patronales obligatoires ainsi que les cotisations dues à titre personnel en application des
+réglementations concernant les allocations familiales, l'assurance vieillesse et l'assurance maladie;
+
+k La date et le prix d'acquisition ainsi que la date et le prix de cession des voitures automobiles à usage professionnel ou
+privé.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 41-0 bis
+
+Les membres des professions libérales et les titulaires de charges et offices qui procèdent à la réévaluation de leurs
+immobilisations sont tenus de fournir, en annexe aux déclarations spéciales dont la production est prévue par les articles 97
+et 101 du code général des impôts, sur un imprimé établi par l'administration, un tableau des immobilisations et des
+amortissements faisant apparaître les augmentations de valeur des immobilisations consécutives à la réévaluation ainsi que
+les suppléments de marge d'amortissements dégagés par cette dernière.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 101
+	  - CGI 97
+
+
+##### VIII : Revenus des capitaux mobiliers
+
+##### A : Amortissement du capital social des sociétés concessionnaires
+
+###### Article 41 bis
+
+Les sociétés qui entendent bénéficier des dispositions du 2° de l'article 112 du code général des impôts, doivent, dans les
+vingt jours de la date à laquelle l'opération d'amortissement a été décidée, déposer au bureau compétent pour l'assiette de
+la retenue à la source sur le revenu des capitaux mobiliers, une demande spéciale accompagnée d'un état détaillé et estimatif
+de tous les biens qui composent l'actif social au jour de la demande, ainsi que de tous les éléments du passif. 
+
+L'estimation de l'actif est faite d'après sa valeur réelle, nonobstant toute évaluation des bilans et autres documents.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 ter (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 112 (V)
+
+
+###### Article 41 quinquies
+
+Pour chaque opération d'amortissement, l'exonération prévue au 2° de l'article 112 du code général des impôts est accordée
+dans la mesure où le capital social ne pourrait se retrouver, compte tenu des amortissements qui ont été déjà effectués en
+franchise d'impôt, au moment où elle est réalisée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 112 (V)
+
+
+###### Article 41 ter
+
+La demande prévue à l'article 41 bis est, en outre, accompagnée : 
+
+a Lorsqu'elle est fondée sur la caducité de tout ou partie de l'actif social, notamment sur son dépérissement progressif,
+d'une déclaration faisant connaître les causes, la nature et l'importance de la moins-value qui doit se produire dans l'actif
+social ; 
+
+b Lorsqu'elle est fondée sur l'obligation de remise en fin de concession à l'autorité concédante de tout ou partie de l'actif
+social, d'une déclaration détaillée et, s'il y a lieu, estimative, d'une part, de l'actif social actuel et, d'autre part, des
+biens à remettre en fin de concession à l'autorité concédante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 bis (V)
+
+
+##### B : Primes de remboursement des obligations et autres emprunts négociables
+
+###### Article 41 decies
+
+Les sociétés, compagnies, entreprises et tous autres assujettis au paiement de la retenue à la source sont tenus de
+communiquer aux agents des impôts, tant au siège social que dans les succursales ou agences, les documents et écritures
+relatifs aux lots et primes de remboursement.
+
+
+
+###### Article 41 duodecies
+
+La déclaration estimative visée à l'article 41 nonies, deuxième alinéa, doit être certifiée et signée par les représentants
+de la personne morale émettrice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 nonies (V)
+
+
+###### Article 41 nonies
+
+Lorsque le taux d'émission ne peut pas être établi conformément à l'article 41 octies, ce taux est représenté par un capital
+formé de vingt fois l'intérêt annuel stipulé, lors de l'émission, au profit du porteur du titre. 
+
+A défaut de stipulation d'intérêts, il est pourvu à la fixation du taux d'émission par une déclaration estimative certifiée
+et signée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 octies (V)
+
+
+###### Article 41 octies
+
+Lorsque les obligations, les effets publics et tous autres titres d'emprunt négociables, dont les primes de remboursement
+sont assujetties à la retenue à la source sur le revenu des capitaux mobiliers, par l'article 118 du code général des impôts,
+ont été émis à un taux unique, ce taux sert de base à la liquidation de l'impôt sur les primes. 
+
+Si le taux d'émission a varié, il est déterminé, pour chaque emprunt, par une moyenne établie en divisant, par le nombre de
+titres correspondant à cet emprunt, le montant brut de l'emprunt total sous la seule déduction des intérêts courus au moment
+de chaque vente. 
+
+A l'égard des emprunts, dont l'émission faite à des taux variables n'est pas terminée, la moyenne est établie d'après la
+situation de l'emprunt au 31 décembre de l'année qui a précédé celle du tirage.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 nonies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 118 (V)
+
+
+###### Article 41 undecies
+
+Les dispositions qui précèdent sont applicables aux obligations, effets publics et titres d'emprunt des sociétés et
+collectivités étrangères désignées au 1°, 2° et 7° de l'article 120 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 decies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 120 (V)
+
+
+##### C : Prélèvement sur les produits de placements à revenu fixe
+
+###### Article 41 duodecies B
+
+Les établissements payeurs sont tenus d'exiger des bénéficiaires des revenus, des présentateurs ou des vendeurs de coupons la
+justification de leur identité et de leur domicile réel ou siège social dans les conditions prévues à l'article 76 de
+l'annexe II au code général des impôts. 
+
+Toutefois, cette justification n'est pas exigée pour les revenus, autres que les produits d'obligations, qui donnent lieu à
+l'application du prélèvement prévu à l'article 125 A du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 76 (V)
+	  - Code général des impôts, CGI. - art. 125 A (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies A (V)
+
+
+###### Article 41 duodecies D
+
+Le prélèvement prévu à l'article 41 duodecies C est également applicable aux produits qui sont payés hors de la France
+métropolitaine et des départements d'outre-mer.
+
+Dans ce cas, le prélèvement est opéré par le débiteur, même s'il n'assure pas lui-même le paiement des revenus.
+
+Il en est de même en ce qui concerne les produits qui sont soumis au prélèvement en vertu des dispositions du II de l'article
+125 A du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 A II
+	  - CGIAN3 41 duodecies C
+
+
+###### Article 41 duodecies E
+
+Dans les cas autres que ceux prévus aux articles 41 duodecies C et 41 duodecies D le prélèvement ne doit être opéré par
+l'établissement payeur que si le bénéficiaire des revenus opte pour son assujettissement à ce prélèvement, dans les
+conditions définies au I et IV de l'article 125 A du code général des impôts. 
+
+L'option, qui est irrévocable, est exercée au plus tard lors de l'encaissement des revenus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies C (V)
+	  - Code général des impôts, CGI. - art. 125 A (V)
+
+
+###### Article 41 duodecies G
+
+Les sociétés visées au 4° de l'article 75 de l'annexe II au code général des impôts sont réputées verser à chacun de leurs
+associés la quote-part des revenus correspondant à ses droits, le jour même où elles ont encaissé lesdits revenus ou ont été
+créditées de leur montant. 
+
+Elles effectuent à la même date le prélèvement prévu à l'article 41 duodecies C sur la quote-part des revenus revenant aux
+associés dont le domicile réel ou le siège social est situé hors de la France métropolitaine et des départements d'outre-
+mer. 
+
+Les dispositions du présent article ne sont pas applicables aux sociétés qui exercent une activité industrielle, commerciale,
+artisanale ou agricole ou une profession non commerciale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 75 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies C (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies M (V)
+
+
+###### Article 41 duodecies H
+
+1 Les obligations émises en France par les organismes étrangers ou internationaux sont assimilées à des obligations
+françaises pour l'application de l'article 125 A du code général des impôts. 
+
+2 Les dispositions de cet article ne sont pas applicables aux obligations que les entreprises françaises ont été autorisées à
+émettre à l'étranger dans les conditions prévues à l'article 131 ter du même code. 
+
+3 En ce qui concerne les obligations françaises et étrangères, l'option prévue au I de l'article 125 A précité ne peut être
+exercée que si l'emprunt n'est pas assorti d'une clause d'indexation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 125 A (V)
+	  - Code général des impôts, CGI. - art. 131 ter (V)
+
+
+##### F : Émission par les sociétés françaises d'obligations à l'étranger. Régime spécial
+
+###### Article 41 quaterdecies
+
+L'autorisation est accordée par le directeur général des impôts.
+
+
+
+###### Article 41 quindecies
+
+Les séries émises antérieurement à la publication au Journal officiel du décret n° 55-486 du 30 avril 1955 peuvent, sur la
+production d'une demande conforme à celle visée à l'article 41 terdecies, bénéficier d'une autorisation dont les effets leur
+sont applicables en ce qui concerne les intérêts échus depuis la date d'entrée en vigueur dudit décret. 
+
+Sous la réserve ci-dessus, le régime institué par le 1 de l'article 131 ter du code général des impôts n'a d'effet pour
+aucune émission qu'à dater de la notification de l'autorisation ministérielle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-486 du 30 avril 1955, v. init.
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 terdecies (V)
+	  - Code général des impôts, CGI. - art. 131 ter (V)
+
+
+###### Article 41 sexdecies
+
+Les titres émis à l'étranger porteront uniformément la mention suivante :
+
+"En application du décret français n° 55-486 du 30 avril 1955 (code général des impôts, art. 131 ter-1), la présente
+obligation est soumise en France au régime fiscal des valeurs mobilières étrangères (décision du directeur général des impôts
+en date du ..)".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 131 ter 1
+	  - Décret n°55-486 1955-04-30
+
+
+###### Article 41 terdecies
+
+Pour être admises à bénéficier du régime fiscal prévu au 1 de l'article 131 ter du code général des impôts, les sociétés,
+compagnies ou entreprises françaises qui se proposent d'émettre à l'étranger des séries spéciales d'obligations, doivent
+déposer au préalable une demande spéciale au ministère de l'économie et des finances (direction générale des impôts).
+
+Cette demande indique la date et les conditions de l'émission ainsi que le nombre, le montant et les numéros des titres à
+émettre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 131 ter 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 quindecies (V)
+
+
+##### X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
+
+###### Article 41 duovicies
+
+Les terrains à usage agricole ou forestier et les terrains supportant une construction sont exclus des dispositions des
+articles 150 A à 150 T du code général des impôts lorsque le prix de cession ou l'indemnité d'expropriation n'excède pas au
+mètre carré :
+
+- 33 F pour les vignobles à appellation contrôlée et les cultures florales;
+
+- 11 F pour les cultures fruitières et maraîchères;
+
+- 9 F pour les vignobles produisant des vins délimités de qualité supérieure;
+
+- 6 F pour les vignobles autres qu'à appellation contrôlée;
+
+- 5 F pour les autres terrains agricoles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 A à CGI 150 T
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### XI : Dispositions communes aux différentes catégories de revenus
+
+##### 4° : Versements à fonds perdus en faveur de la construction
+
+###### Article 41 A
+
+Peuvent, quel que soit leur montant, être compris dans les charges déductibles pour l'établissement de l'impôt sur le revenu
+ou de l'impôt sur les sociétés, les versements à fonds perdus remplissant les conditions spécifiées à l'article 41 B,
+lorsqu'ils bénéficient à des organismes habilités à collecter les versements que font les employeurs en vue de satisfaire à
+l'obligation de participer à la construction instituée par l'article L 313-1 du code de la construction et de l'habitation
+(1) et qu'ils sont effectués par des entreprises industrielles et commerciales, par des contribuables exerçant une profession
+non commerciale et par des entreprises agricoles ayant opté pour le régime de l'imposition d'après le bénéfice réel. 
+
+(1) Voir code de la construction et de l'habitation, article R313-1 à R313-40.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 B (V)
+	  - Code de la construction et de l'habitation. - art. L313-1 (V)
+
+
+###### Article 41 B
+
+Les versements à fonds perdus visés à l'article 41 A doivent remplir les conditions suivantes : 
+
+1° a Lorsqu'ils sont effectués par des employeurs assujettis à la participation à l'effort de construction, les versements
+doivent être considérés comme des investissements valables au regard de la réglementation de la participation des employeurs
+à l'effort de construction ; 
+
+b Lorsqu'ils sont effectués par d'autres employeurs, ils doivent être destinés à permettre la construction d'habitations qui
+doivent respecter les caractéristiques et les prix fixés pour l'octroi des primes à la construction ; 
+
+2° L'entreprise versante doit perdre complètement et définitivement tout droit sur les sommes versées ; 
+
+3° Les dirigeants de l'entreprise versante au sens du 3 de de l'article 39 et de l'article 211 bis du code général des impôts
+et le chef d'entreprise, s'il s'agit d'un exploitant individuel, ainsi que leurs conjoints et leurs enfants non émancipés ne
+doivent retirer aucun avantage de ces versements ; 
+
+4° (Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 A (V)
+	  - Code général des impôts, CGI. - art. 211 bis (V)
+	  - Code général des impôts, CGI. - art. 39 (VT)
+
+
+###### Article 41 D
+
+Les sociétés qui ne sont pas, par elles-mêmes, passibles de l'impôt sur les sociétés ne sont pas comprises dans la liste des
+sociétés et organismes prévue à l'article 39 quinquies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 quinquies
+	  - Code général des impôts, CGI. - art. 39 quinquies (V)
+
+
+##### Section II : Revenu global
+
+##### I : Monuments historiques - Charges déductibles.
+
+###### Article 41 E
+
+Dans la mesure où elles ne sont pas déduites des revenus visés à l'article 29, deuxième alinéa, du code général des impôts,
+les charges foncières afférentes aux immeubles classés monuments historiques ou inscrits à l'inventaire supplémentaire et
+dont le propriétaire se réserve la jouissance peuvent être admises en déduction du revenu global servant de base à l'impôt
+sur le revenu dans les conditions et limites définies aux articles 41 F à 41 I.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 H (P)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 29 (V)
+
+
+###### Article 41 G
+
+Lorsque les travaux de réparation ou d'entretien donnent lieu à l'attribution de subventions, les dépenses correspondantes ne
+sont prises en compte, chaque année, que dans la mesure où elles doivent rester définitivement à la charge du propriétaire
+après déduction de la quote-part y afférente des subventions, quelle que soit la date de versement de celles-ci.
+
+
+
+###### Article 41 I
+
+Pour l'application des articles 41 F et 41 H, un arrêté détermine les conditions auxquelles il doit être satisfait pour que
+l'immeuble soit considéré comme ouvert au public (1). 
+
+(1) Annexe IV, art. 17 ter à 17 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AZB (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 ter (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F (V)
+
+
+###### Article 41 J
+
+Pour bénéficier de la déduction des charges énumérées à l'article 41 F, les propriétaires d'immeubles classés monuments
+historiques ou inscrits à l'inventaire supplémentaire ou faisant l'objet de l'agrément spécial prévu à l'article 41 H sont
+tenus de joindre à la déclaration annuelle de leurs revenus une note indiquant :
+
+Le détail des sommes dont la déduction est demandée;
+
+La date du décret, de l'arrêté ou de la décision qui a, selon le cas, soit classé l'immeuble ou certaines parties de
+l'immeuble sur la liste des monuments historiques, soit décidé son inscription à l'inventaire supplémentaire, soit accordé
+l'agrément spécial.
+
+Pour les monuments classés, elle est accompagnée d'une attestation de l'administration des affaires culturelles certifiant
+que les travaux exécutés ont effectivement le caractère de travaux d'entretien et de réparation et indiquant d'une part, le
+montant du devis correspondant établi par l'architecte en chef des monuments historiques et, d'autre part, le cas échéant, le
+taux de la subvention accordée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 F
+	  - CGIAN3 41 H
+
+
+##### II : Engagements d'épargne à long terme.
+
+###### Article 41 K
+
+Les engagements d'épargne à long terme prévus à l'article 163 bis A du code général des impôts sont constatés par un acte
+écrit. 
+
+Cet acte est passé entre le souscripteur et l'établissement chargé de la tenue du compte d'épargne. Il précise leurs
+obligations et leurs droits. Le souscripteur peut se réserver la possibilité de prendre lui-même les décisions d'achats et de
+ventes de valeurs mobilières ou donner mandat à l'établissement de procéder pour son compte à ces opérations. Dans ce dernier
+cas, il peut révoquer le mandat quand bon lui semble.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 L (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 M (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 163 bis A (V)
+
+
+###### Article 41 L
+
+Le souscripteur doit s'engager à effectuer chaque année, en une ou plusieurs fois, un versement d'un montant fixe, pendant
+une durée au moins égale à celle qui est déterminée par arrêté du ministre de l'économie et des finances (1). 
+
+Ce montant est fixé dans l'acte prévu à l'article 41 K.
+
+Toutefois, cet acte peut réserver au souscripteur la faculté de majorer un ou plusieurs des versements dans la limite de 50 %
+de ce montant annuel, sans que le total des versements ainsi effectués au cours de l'année puisse excéder le plafond prévu
+par la loi. 
+
+(1) Annexe IV, art. 17 sexies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 K (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 M (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 N (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 sexies (V)
+
+
+###### Article 41 M
+
+Les engagements d'épargne à long terme pris en application des dispositions des articles 41 K à 41 V peuvent être prorogés
+pour une ou plusieurs années supplémentaires. 
+
+Toutefois, le bénéfice de cette mesure est subordonné à la condition que la prorogation intervienne pendant l'année précédant
+l'expiration du délai prévu à l'article 41 L.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 L (V)
+
+
+###### Article 41 O
+
+Le souscripteur peut demander à tout moment le transfert de son compte d'épargne et des valeurs mobilières acquises à un
+autre établissement autorisé à ouvrir des comptes d'épargne, sous réserve de l'accord de ce dernier.
+
+En ce cas, le nouvel établissement est substitué à l'ancien dans toutes les obligations résultant du contrat, à compter de la
+date du transfert.
+
+
+
+###### Article 41 P
+
+L'établissement chargé de la tenue du compte d'épargne porte au crédit de ce compte les versements effectués par le
+souscripteur, le montant des produits des valeurs mobilières encaissées et du crédit d'impôt ou de l'avoir fiscal restitué
+par l'administration, les remboursements de valeurs mobilières, ainsi que le montant des ventes de valeurs mobilières et de
+droits détachés de valeurs mobilières. Il porte au débit de ce compte le montant des souscriptions et des achats de valeurs
+mobilières et de droits de souscription ou d'attribution, ainsi que les frais de gestion. Il conserve et gère les valeurs
+mobilières: acquises pour le compte du souscripteur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1979
+
+
+###### Article 41 Q
+
+Les sommes portées au crédit du compte d'épargne doivent être employées en valeurs mobilières dans un délai maximal de six
+mois.
+
+Toutefois, une somme égale à 15 % au plus du montant des versements annuels cumulés peut être conservée en numéraire sans
+limitation de durée.
+
+Les valeurs étrangères, décomptées à leur prix d'acquisition majoré des frais d'achat ne peuvent représenter plus de la
+moitié du même montant.
+
+
+
+###### Article 41 R
+
+Sauf en cas de force majeure ou d'invalidité totale, le souscripteur ne peut demander le remboursement des sommes inscrites
+au crédit du compte d'épargne, ni se faire remettre les valeurs mobilières acquises, ni remettre ces valeurs mobilières en
+nantissement, avant l'expiration de la durée de l'engagement. 
+
+Si ces obligations ne sont pas respectées, les produits précédemment exonérés sont réintégrés dans le revenu imposable dans
+les conditions définies au IV de l'article 163 bis A du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 V (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 163 bis A (V)
+
+
+###### Article 41 S
+
+L'établissement chargé de la tenue du compte d'épargne doit adresser à la direction des services fiscaux de sa résidence avis
+de l'ouverture, de la clôture et du transfert du compte dans les conditions et délai définis à l'article 58, deuxième alinéa,
+de l'annexe II au code général des impôts.
+
+La déclaration d'ouverture du compte est accompagnée d'une copie de l'acte visé à l'article 41 K
+
+Si l'engagement d'épargne est prorogé dans les conditions fixées à l'article 41 M, la copie de l'acte constatant cette
+prorogation est adressée à la direction des services fiscaux dans le délai prévu au premier alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°85-201 1985-02-13 art. 4, article sans objet
+	  - PEREMPTION: Décret n°85-201 du 13 février 1985 - art. 4 ()
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
+###### Article 41 T
+
+L'avoir fiscal et le crédit d'impôt attachés aux revenus portés au crédit du compte d'épargne donnent lieu à la délivrance
+d'un certificat distinct d'avoir fiscal, conformément aux dispositions de l'article 77 de l'annexe II au code général des
+impôts.
+
+Le certificat est établi au nom du souscripteur et porte la désignation du compte d'épargne.
+
+La restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur le certificat est demandée par l'établissement chargé de
+la tenue du compte d'épargne.
+
+Cette demande, accompagnée du certificat, est adressée à la direction des services fiscaux de la résidence de l'établissement
+dans les conditions et délai prévus au II de l'article 94 de la même annexe.
+
+La restitution est opérée au profit de cet établissement, à charge par lui d'inscrire les sommes correspondantes au crédit du
+compte d'épargne.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1979
+
+
+###### Article 41 U
+
+Les produits de valeurs mobilières portés au crédit du compte d'épargne ne donnent pas lieu à l'établissement des relevés de
+coupons prévus à l'article 58 de l'annexe II au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°85-201 1985-02-13 art. 4, article sans objet
+	  - PEREMPTION: Décret n°85-201 du 13 février 1985 - art. 4 ()
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er juillet 1979
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
+###### Article 41 V
+
+1. L'établissement chargé de la tenue du compte d'épargne doit déclarer à la direction des services fiscaux de sa résidence,
+avant le 1er mars de chaque année, le montant des versements effectués par le souscripteur au cours de l'année précédente.
+Lorsque la période annuelle de versement prévue au contrat ne coïncide pas avec l'année civile, la déclaration mentionne les
+versements effectués au cours de la dernière période expirée avant le 1er janvier.
+
+2. Si le souscripteur procède aux opérations de retrait mentionnées à l'article 41 R, l'établissement chargé de la tenue du
+compte d'épargne doit en aviser la direction des services fiscaux de sa résidence dans un délai de deux mois.
+
+Cette déclaration doit être produite, même si le redevable invoque un cas de force majeure ou d'invalidité totale.
+
+3. Les documents permettant de contrôler l'ensemble des opérations enregistrées au compte d'épargne doivent être conservés à
+la disposition de l'administration jusqu'à la fin de la quatrième année suivant celle de l'expiration de l'engagement
+d'épargne.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1979
+
+
+##### III : Présentation et contenu des déclarations
+
+###### Article 42
+
+La déclaration prévue à l'article 170-1 du code général des impôts est rédigée sur des imprimés établis par l'administration
+conformément aux modèles arrêtés par le ministre de l'économie et des finances.
+
+La déclaration comporte notamment l'indication du montant, détaillé par nature de revenu et déterminé selon les modalités
+propres à chacun d'eux, des éléments qui composent le revenu brut global du contribuable.
+
+Elle mentionne séparément le montant des revenus, de quelque nature qu'ils soient, encaissés directement ou indirectement
+dans les territoires d'outre-mer [*TOM*], dans les Etats de la communauté [*CEE*] et à l'étranger.
+
+Les contribuables qui entendent bénéficier des dispositions de l'article 163 du code général des impôts doivent joindre à
+leur déclaration une note indiquant, avec toutes les justifications utiles, le total des revenus dont l'échelonnement est
+demandé, l'origine des revenus et leur répartition sur la période d'échelonnement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163
+	  - CGI 170 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 45
+
+Les déclarations dûment signées sont remises ou adressées par les contribuables au service des impôts du lieu de leur
+résidence ou de leur principal établissement dans le délai prévu à l'article 175 du code général des impôts.
+
+Il en est délivré récépissé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 175
+
+	**Liens**:
+
+	  - HISTO: Edition 1979-07-01
+
+
+##### Section IV : Obligations incombant à certaines sociétés immobilières
+
+###### Article 46 B
+
+I. Les sociétés immobilières visées à l'article 172 bis du code général des impôts sont tenues de remettre au service des
+impôts du lieu de leur principal établissement, dans les trois mois de leur constitution, une déclaration souscrite en double
+exemplaire indiquant : 
+
+1° La dénomination ou raison sociale, la forme juridique, l'objet, la durée, le siège de la société ainsi que le lieu de son
+principal établissement ; 
+
+2° Les nom, prénoms et domicile des dirigeants ou gérants de la société. 
+
+II. Deux exemplaires des statuts sont annexés à cette déclaration. 
+
+III. Lorsque ces indications ont cessé d'être exactes, la déclaration doit être renouvelée dans les trois mois du changement
+intervenu.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 D (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 172 bis (V)
+
+
+###### Article 46 C
+
+I. Indépendamment des renseignements dont la production est déjà prévue par le code général des impôts, les sociétés visées à
+l'article 46 B sont tenues de remettre au service des impôts du lieu de leur principal établissement, avant le 1er mars de
+chaque année, une déclaration indiquant, pour l'année précédente :
+
+a. Les nom, prénoms, adresse des associés, le nombre et le montant des parts dont ils sont titulaires, la date des cessions
+ou acquisitions de parts intervenues en cours d'année, ainsi que l'identité du cédant et du cessionnaire ;
+
+b. La liste des immeubles de la société ;
+
+c. Les nom, prénoms, adresse des personnes, associés ou tiers, qui bénéficient gratuitement de la jouissance de tout ou
+partie de ces immeubles ;
+
+d. La part des revenus des immeubles de la société correspondant aux droits de chacun des associés et déterminée dans les
+conditions prévues aux articles 28 à 31 du code général des impôts. Toutefois, les sociétés dont certains membres relèvent de
+l'impôt sur les sociétés ou comprennent leur part de revenus dans les résultats d'une entreprise industrielle et commerciale
+déterminent la part des bénéfices revenant à ces membres selon les règles définies aux articles 38 et 39 du même code.
+
+II. La déclaration est établie en double exemplaire sur une formule délivrée par l'administration. La procédure de
+vérification de cette déclaration est suivie directement entre le service des impôts et la société.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 28 à 31, 38, 39
+	  - CGIAN3 46 B
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 GB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
+
+
+###### Article 46 D
+
+Les sociétés visées aux articles 46 B et 46 C sont tenues de présenter à toute réquisition du service des impôts tous
+documents comptables ou sociaux, inventaires, copies de lettres, pièces de recettes et de dépenses de nature à justifier
+l'exactitude des renseignements portés sur les déclarations prévues auxdits articles 46 B et 46 C.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 B (V)
+
+
+#### Chapitre I bis : Impôt sur les sociétés
+
+##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs
+
+###### Article 46 quater-0 A
+
+Les dispositions des articles 41 F à 41 J sont applicables pour la détermination de la base de l'impôt sur les sociétés dû
+par les organismes non lucratifs visés au 5 de l'article 206 du code général des impôts à raison des immeubles dont ils se
+réservent la jouissance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F (V)
+	  - Code général des impôts, CGI. - art. 206 (V)
+
+
+##### Section III : Intérêts de livrets supplémentaires de caisses d'épargne
+
+###### Article 46 quater-0 B
+
+L'exonération prévue au a de l'article 208 ter du code général des impôts n'est pas applicable aux intérêts des sommes
+inscrites sur les livrets supplémentaires que les caisses d'épargne ont été autorisées à ouvrir par le décret n° 65-1158 du
+24 décembre 1965.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208 ter a
+	  - Décret n°65-1158 1965-12-24
+
+
+##### Section IV : Modalités d'application du précompte.
+
+###### Article 46 quater-0 C
+
+Toute personne morale française visée à l'article 108 du code général des impôts est tenue de se conformer aux dispositions
+des articles 46 quater-0 D à 46 quater-0 F de la présente annexe en vue de l'application du précompte institué par l'article
+223 sexies du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 108
+	  - CGIAN3 46 quater-0 D à  46 quater-0 F, 223 sexies
+
+
+###### Article 46 quater-0 E
+
+I. Les bénéfices visés à l'article 46 quater-0 D s'entendent, pour chaque exercice, des bénéfices diminués du montant de
+l'impôt sur les sociétés et de la dotation à la réserve légale afférents audit exercice. L'impôt sur les sociétés s'impute
+obligatoirement sur les résultats auxquels il s'applique.
+
+II. Les sommes dont l'imputation est réglée par le II du même article s'entendent du total des revenus distribués et du
+précompte afférent à la distribution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 quater-0 D II
+
+
+###### Article 46 quater-0 F
+
+La personne morale est tenue d'adresser au bureau désigné à l'article 381 T de la présente annexe une déclaration faisant
+connaître les imputations opérées conformément aux dispositions de l'article 46 quater-0 D.
+
+Cette déclaration doit être souscrite dans le mois qui suit la répartition des produits, sur des imprimés fournis par
+l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 381 T, 46 quater-0 D
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+
+##### Section V : Profits de construction
+
+###### Article 46 quater-0 H
+
+En cas de vente d'immeubles à construire, le bénéfice est réputé réalisé à la date de réception de la lettre recommandée
+prévue au I de l'article 46 quater-0 G.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 quater-0 G I
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+##### I : Entreprises de construction de logements.
+
+###### Article 46 quater-0 I
+
+I. Les entreprises désignées à l'article 209 quater A du code général des impôts s'entendent de celles qui construisent ou
+font construire exclusivement en vue de la vente; elles doivent exercer cette activité soit elles-mêmes, soit sous le couvert
+de sociétés civiles immobilières régies par l'article 239 ter dudit code ou de sociétés visées à l'article 1655 ter du même
+code ; qui construisent ou font construire directement.
+
+II. Les investissements que ces entreprises peuvent réaliser, dans la limite de 10 % de leurs fonds propres, s'entendent des
+prises de participation dans des sociétés exerçant l'une des activités suivantes :
+
+- Location d'immeubles bâtis ;
+
+- Fourniture de services étroitement liés à l'activité de construction immobilière ;
+
+- Construction de logements au sens du III de l'article 209 quater A précité ;
+
+- Réalisation de travaux d'aménagement et d'équipement de terrains dans une zone d'action concertée ou toute zone réglementée
+désignée par arrêté du ministre de l'économie et des finances.
+
+La valeur des investissements à retenir pour l'appréciation de la limite de 10 % est présumée égale au prix de revient des
+titres souscrits ou acquis augmenté des sommes mises ou laissées à la disposition de la société sous quelque forme que ce
+soit. Les fonds propres des entreprises s'entendent, à l'exclusion du capital non appelé, des sommes qui figurent aux comptes
+de situation nette du bilan de clôture de l'exercice, augmentées ou diminuées des résultats de cet exercice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quater A III, 239 ter, 1655 ter
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+
+###### Article 46 quater-0 J
+
+I. Les délais de quatre et sept ans mentionnés à l'article 209 quater A du code général des impôts courent depuis la date de
+clôture de l'exercice de réalisation des bénéfices et se décomptent jusqu'à la date de clôture de l'exercice au titre duquel
+la distribution a eu lieu.
+
+II. Lorsque les produits distribués sont prélevés sur des profits de construction ayant fait l'objet d'une taxation
+complémentaire à l'impôt sur les sociétés, le délai de cinq ans prévu à l'article 223 sexies du même code se décompte à
+partir de la date de clôture de l'exercice au titre duquel cette imposition a été établie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quater A, 223 sexies
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 46 quater-0 K
+
+Le montant des impositions complémentaires établies au titre de l'impôt sur les sociétés ou du précompte à raison des
+distributions de profits de construction portés à la réserve spéciale visée au I de l'article 209 quater A du code général
+des impôts s'impute sur cette réserve; cette imputation ne constitue pas un prélèvement au sens du II du même article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quater A I, II
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+##### II : Entreprises dont la construction de logements ne constitue pas l'activité exclusive.
+
+###### Article 46 quater-0 L
+
+I. Les profits de construction réalisés par les entreprises visées à l'article 209 quater B du code général des impôts
+donnent lieu à une imposition complémentaire lorsqu'il est constaté, à la clôture de l'exercice, une insuffisance
+d'investissement définie par la différence entre :
+
+D'une part, le montant global des disponibilités nettes dégagées à compter du 1er janvier 1972 par les opérations de
+construction ou assimilées qui ont été terminées depuis plus de deux ans et dont les profits ne sont pas définitivement
+libérés d'impôt sur les sociétés ;
+
+Et, d'autre part, le total des valeurs d'origine pour lesquelles les biens acquis ou construits en remploi de ces
+disponibilités figurent à l'actif de l'entreprise.
+
+II. Le remploi des disponibilités doit avoir été effectué dans la construction, en vue de la vente ou de la location,
+d'immeubles affectés à l'habitation pour les trois quarts au moins de leur superficie, dans l'achat de terrains destinés à de
+telles constructions ou dans la souscription au capital ou aux augmentations de capital :
+
+- De sociétés immobilières d'investissement et sociétés de gestion qui satisfont aux conditions prévues à l'article 33 de la
+loi n° 63-254 du 15 mars 1963 ;
+
+- De sociétés civiles ayant pour objet la construction en vue de la vente et entrant dans les prévisions de l'article 239 ter
+du code général des impôts ;
+
+- De sociétés de construction soumises aux dispositions de l'article 209 quater A du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quater B, 239 ter, 209 quater A
+	  - Loi n°63-254 du 15 mars 1963 - art. 33, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+
+###### Article 46 quater-0 M
+
+L'insuffisance de réinvestissement constatée conformément à l'article 46 quater-0 L est imputée d'abord sur la fraction
+exonérée des profits de construction réalisés au cours du plus ancien des exercices clos et, ensuite, sur le prix de revient
+des aliénations correspondantes.
+
+L'imputation du surplus s'opère, le cas échéant, suivant les mêmes modalités, sur les disponibilités dégagées par les ventes
+d'immeubles achevés ou assimilées réalisées au cours des exercices ultérieurs.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 quater-0 L
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+
+###### Article 46 quater-0 N
+
+I. Les délais de quatre et sept ans à retenir pour l'imposition complémentaire à l'impôt sur les sociétés s'apprécient à
+compter de la date de clôture de l'exercice en cours lors de la réalisation des profits de construction sur lesquels le
+montant de l'insuffisance est imputé.
+
+II. Le délai de cinq ans prévu à l'article 223 sexies du code général des impôts se décompte à partir de la date de clôture
+de l'exercice d'imposition des profits de construction soumis à taxation complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 sexies
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 46 quater-0 O
+
+Pour l'application des articles 46 quater-0 L et 46 quater-0 N, les entreprises doivent produire, à l'appui de la déclaration
+de résultats prévue à l'article 223 du code général des impôts, un tableau indiquant distinctement le montant global des
+disponibilités à réinvestir pour continuer à bénéficier de la taxation atténuée des profits de construction et le total des
+valeurs d'origine des biens constituant un remploi qui figurent à l'actif du bilan de l'entreprise. Le modèle en est fixé par
+arrêté (1).
+
+(1) Annexe IV art. 23 I bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223
+	  - CGIAN3 46 quater-0 L, 46 quater-0 N
+	  - CGIAN4 23 I bis
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+##### III : Dispositions diverses
+
+###### Article 46 quater-0 P
+
+Lorsqu'une entreprise cesse d'avoir pour seule activité la construction au sens du III de l'article 209 quater A du code
+général des impôts, les profits de construction portés à la réserve spéciale au cours des exercices arrêtés antérieurement à
+la date de modification d'activité sont soumis à l'impôt sur les sociétés selon les modalités fixées à l'article 209 quater B
+du même code et aux articles 46 quater-0 L à 46 quater-0 O, sauf pour l'appréciation de la proportion de la superficie des
+immeubles construits réservée à l'habitation qui reste soumise aux conditions prévues au III de l'article 209 quater A
+précité. Le tableau spécial prévu à l'article 46 quater-0 O doit être produit, à la clôture de l'exercice du changement
+d'activité, pour chacun des exercices concernés.
+
+Les impositions sont établies, au titre de chacun de ces exercices, sous déduction de l'impôt précédemment supporté par ces
+profits lors de leur prélèvement sur la réserve spéciale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quater A III, 209 quater B
+	  - CGIAN3 46 quater-0 L à 46 quater-0 O
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+
+###### Article 46 quater-0 Q
+
+I. Lorsqu'elles comprennent parmi leurs membres une ou plusieurs sociétés de construction au sens de l'article 209 quater A
+du code général des impôts, les sociétés civiles immobilières de construction d'immeubles en vue de la vente doivent procéder
+à l'attribution de leurs résultats à la clôture de chaque exercice.
+
+II. Lorsqu'elles comprennent parmi leurs membres une ou plusieurs sociétés de construction au sens de l'article 209 quater B
+du même code, ces sociétés civiles sont tenues de fournir le tableau spécial prévu à l'article 46 quater-0 O. En ce cas, la
+société de construction doit, dans le tableau qu'elle fournit elle-même, reprendre, en proportion de ses droits, les éléments
+figurant dans les tableaux fournis par la ou les sociétés civiles dont elle est membre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quater A, 209 quater B
+	  - CGIAN3 46 quater-0 O
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
+
+
+###### Article 46 quater-0 R
+
+I. Pour bénéficier du régime défini à l'article 209 quater D du code général des impôts, les bénéfices placés sous le régime
+de l'exonération conditionnelle prévue à l'article 238 octies du même code doivent avoir été préalablement réinvestis selon
+les modalités fixées à ce dernier article. Ils peuvent ensuite être affectés à un sous-compte distinct de la réserve spéciale
+des profits de construction.
+
+Les délais de quatre et sept ans visés à l'article 209 quater D précité se décomptent à partir de la clôture de l'exercice de
+réalisation des profits concernés jusqu'à la clôture de l'exercice au titre duquel la distribution a eu lieu. La date de
+réalisation de ces profits n'est pas prise en considération pour l'exigibilité du précompte prévu à l'article 223 sexies du
+code général des impôts.
+
+II. Les dispositions de l'article 238 octies précité cessent de s'appliquer aux profits réalisés à compter du 1er janvier
+1972.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quater D, 238 octies, 223 sexies
+
+
+#### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
+
+##### Section 001 : Sociétés d'investissement
+
+##### Capital minimal exigé pour l'octroi des avantages fiscaux.
+
+###### Article 46 quater A
+
+Les sociétés d'investissement régies par l'ordonnance n° 45-2710 du 2 novembre 1945 ne peuvent se prévaloir des dispositions
+de l'article 208-1°, 1° bis et 2° du code général des impôts, du chef des bénéfices qu'elles réalisent au cours d'un exercice
+déterminé et des dividendes qu'elles distribuent par prélèvement sur ces bénéfices, que si leur capital, à la clôture dudit
+exercice, n'est pas inférieur au montant minimal prévu aux articles 46 quater B ou 46 quater C.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208 1°, 1° bis, 2°
+	  - CGIAN3 46 quater B
+	  - CGIAN3 46 quater C
+	  - Ordonnance 45-2710 1945-11-02
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 46 quater B
+
+A compter de la publication du décret n° 64-211 du 4 mars 1964, le montant minimal visé à l'article 46 quater A est fixé à 20
+millions de francs pour l'application, aux sociétés régies par le titre II de l'ordonnance n° 45-2710 du 2 novembre 1945, des
+dispositions du 2° de l'article 208 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208
+	  - CGIAN3 46 quater A
+	  - Ordonnance 45-2710 1945-11-02 TITRE II
+	  - Décret n°64-211 1964-03-04
+
+
+###### Article 46 quater C
+
+A compter de la publication du décret n° 64-211 du 4 mars 1964, le montant minimal visé à l'article 46 quater A est fixé,
+pour l'application des dispositions de l'article 208-1° et 1° bis du code général des impôts à 20 millions de francs en ce
+qui concerne les sociétés régies par les titres Ier ou II de l'ordonnance n° 45-2710 du 2 novembre 1945.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208 1°, 1° bis
+	  - CGIAN3 46 quater A
+	  - Ordonnance 45-2710 1945-11-02 TITRE I, TITRE II
+	  - Décret n°64-211 1964-03-04
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble
+
+###### Article 46 quaterdecies
+
+Les personnes morales qui bénéficient de l'exonération d'impôt sur les sociétés prévue à l'article 239 octies du code général
+des impôts sont tenues de joindre à la déclaration des résultats prévue à l'article 223 du même code, une déclaration établie
+sur un imprimé fourni par l'administration indiquant, pour la période d'imposition en cause : 
+
+Les noms, prénoms, adresses des associés qui jouissent gratuitement des biens sociaux ainsi que le nombre de parts ou actions
+dont ces associés sont titulaires ; 
+
+La désignation précise des biens et des périodes au cours desquelles chacun d'eux en a la jouissance ; 
+
+Le montant des dépenses communes, ventilées par catégorie, et leur répartition entre les associés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 223 (V)
+	  - Code général des impôts, CGI. - art. 239 octies (VT)
+
+
+##### Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur
+
+###### Article 47
+
+Les déclarations de commissions, courtages, ristournes et honoraires ainsi que les déclarations de droits d'auteur prévues
+respectivement aux articles 240 et 241 du code général des impôts doivent indiquer, pour les paiements ayant donné lieu à
+l'application de la retenue à la source sur les sommes et produits mentionnés à l'article 182 B du même code et payés à des
+personnes ou des sociétés qui n'ont pas en France d'installation professionnelle permanente, en plus des renseignements
+qu'elles doivent contenir en vertu desdits articles, le montant de ces paiements et le montant des retenues effectuées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. 3 (V)
+
+	**Cite**:
+
+	  - CGI 240, 241, 182 b
+
+
+##### Section II bis : Déclarations concernant les revenus de capitaux mobiliers
+
+##### 1° : Contrats de prêts
+
+###### Article 49 B
+
+1. Les personnes physiques ou morales qui interviennent, à titre de partie ou d'intermédiaire, dans la conclusion des
+contrats de prêts ou dans la rédaction des actes qui les constatent sont tenues de déclarer les noms et adresses du prêteur
+et de l'emprunteur, la date, le montant et les conditions du prêt, notamment sa durée, le taux et la périodicité des intérêts
+ainsi que les modalités de remboursement du principal.
+
+2. Ces dispositions ne sont pas applicables :
+
+a. Aux contrats de prêts qui sont définis par un arrêté du ministre de l'économie et des finances (1) ;
+
+b. Aux contrats de prêts dont le principal n'excède pas un montant fixé par ce même arrêté. Toutefois, lorsque plusieurs
+contrats de prêts sont conclus au cours d'une année au nom d'un même débiteur ou d'un même créancier et que leur total en
+principal dépasse le montant visé ci-dessus, tous les contrats ainsi conclus doivent être déclarés.
+
+3. La déclaration est souscrite par l'intermédiaire ou, en l'absence d'intermédiaire, par le débiteur ; dans la situation
+visée au b du 2, elle est faite, suivant le cas, par le débiteur ou le créancier au nom duquel l'ensemble des contrats ont
+été conclus.
+
+La déclaration est adressée dans le premier mois de chaque année à la direction des services fiscaux du lieu du domicile réel
+ou du principal établissement de la personne physique ou morale déclarante ; elle mentionne les contrats de prêts conclus au
+cours de la précédente année. Elle est établie sur une formule délivrée par l'administration.
+
+(1) Annexe IV, art. 23 L.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 23 L
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 L (V)
+
+
+##### Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts
+
+###### Article 49 bis
+
+Tout remboursement fait depuis le 1er janvier 1960 et portant sur des sommes qui, lors de leur versement à titre d'avances,
+prêts ou acomptes par une personne morale visée à l'article 108 du code général des impôts, ont été considérées comme revenus
+distribués en application du a de l'article 111 dudit code ou de l'article 41 du décret n° 48-1986 du 9 décembre 1948 ouvre
+droit, dans les conditions fixées par les articles 49 ter à 49 sexies, à la restitution au profit du bénéficiaire des
+avances, prêts ou acomptes ou de ses ayants cause, des impositions auxquelles le versement a donné lieu. 
+
+En cas de pluralité d'avances, prêts ou acomptes consentis à un même bénéficiaire, les remboursements partiels s'imputent
+conformément aux dispositions des articles 1253 à 1256 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 ter (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 108 (V)
+	  - Code général des impôts, CGI. - art. 111 (V)
+	  - Code civil - art. 1253 (V)
+
+
+###### Article 49 quater
+
+I. Dans le cas où le bénéficiaire a été assujetti du fait de l'encaissement de l'avance, du prêt ou de l'acompte, à l'impôt
+sur le revenu (1), les impositions qui font l'objet, à raison des sommes remboursées, de la révision prévue à l'article 49
+ter s'entendent :
+
+1° De la taxe proportionnelle et de la surtaxe progressive, si l'avance, le prêt ou l'acompte a été versé entre le 1er
+janvier 1949 et le 31 décembre 1958 ;
+
+2° De la taxe proportionnelle et de l'impôt sur le revenu des personnes physiques, si le versement a eu lieu au cours de
+l'année 1959 ;
+
+3° De la retenue à la source frappant les revenus de capitaux mobiliers et de l'impôt sur le revenu des personnes physiques,
+si le versement a eu lieu entre le 1er janvier 1960 et le 31 décembre 1961 ;
+
+4° De la taxe complémentaire, si le versement a eu lieu entre le 1er janvier 1962 et le 31 décembre 1969 ;
+
+5° De l'impôt sur le revenu (1), si le versement a eu lieu postérieurement au 31 décembre 1961.
+
+II. Dans le cas où le bénéficiaire a été assujetti, du fait de l'encaissement de l'avance, du prêt ou de l'acompte, à l'impôt
+sur les sociétés, les impositions qui font l'objet, à raison des sommes remboursées, de la révision prévue à l'article 49 ter
+s'entendent :
+
+1° De la taxe proportionnelle et de l'impôt sur les sociétés, si l'avance, le prêt ou l'acompte a été versé entre le 1er
+janvier 1949 et le 31 décembre 1959 ;
+
+2° De la retenue à la source frappant les revenus de capitaux mobiliers et de l'impôt sur les sociétés, si le versement a eu
+lieu entre le 1er janvier 1960 et le 31 décembre 1961 ;
+
+3° De l'impôt sur les sociétés, si le versement a eu lieu postérieurement au 31 décembre 1961.
+
+Toutefois, lorsque l'avance, le prêt ou l'acompte a été consenti à une société remplissant, du chef de sa participation dans
+le capital de la société versante, les conditions requises pour se prévaloir des dispositions des articles 145 et 146 du code
+général des impôts, la restitution à opérer, du fait du remboursement, au titre de la taxe proportionnelle ou de la retenue à
+la source, n'est ordonnée que dans la limite de l'excédent de cette taxe ou retenue acquittée par la société versante, sur
+l'imposition de même nature dont la société bénéficiaire a été, le cas échéant, dispensée à raison de ses propres
+distributions en vertu dudit article.
+
+III. Lorsque la révision des bases d'imposition à l'impôt sur le revenu ou à l'impôt sur les sociétés fait apparaître un
+déficit pour l'année ou la période d'imposition en cause, ce déficit peut être reporté, s'il y a lieu, sur les revenus ou
+bénéfices ultérieurs de l'intéressé, selon les règles en vigueur à l'époque pour laquelle le report est sollicité.
+
+(1) A compter du 1er janvier 1971, l'impôt sur le revenu des personnes physiques a pris la dénomination d'impôt sur le
+revenu.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 111, 145, 146
+	  - CGIAN3 49 ter
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quinquies (V)
+
+
+###### Article 49 quinquies
+
+I. La restitution est ordonnée sur la demande de l'intéressé, adressée au directeur des services fiscaux du département dans
+lequel le requérant avait son domicile ou son principal établissement au 1er janvier de l'année de la réclamation.
+
+II. La demande de restitution doit être présentée par l'associé ou par ses ayants cause au plus tard le 31 décembre de
+l'année suivant celle au cours de laquelle le remboursement a été opéré.
+
+III. Les requérants doivent y mentionner, outre la dénomination et le siège de la société, le montant et la date du
+remboursement :
+
+a. Pour la taxe proportionnelle ou la retenue à la source : la recette des impôts où cette imposition a été acquittée, la
+date à laquelle la déclaration ayant servi de base à ladite imposition a été déposée ainsi que le montant de l'avance, du
+prêt ou de l'acompte inclus dans la base d'imposition de la société;
+
+b. Pour la surtaxe progressive ou l'impôt sur le revenu et pour la taxe complémentaire : l'année d'imposition, le montant de
+l'avance, du prêt ou de l'acompte inclus dans le revenu imposable de ladite année ainsi que l'indication de l'article du rôle
+sous lequel l'imposition a été établie et la date à laquelle le rôle a été mis en recouvrement ;
+
+c. Pour l'impôt sur les sociétés : la période d'imposition, le montant de l'avance, du prêt ou de l'acompte inclus dans le
+bénéfice net imposable de ladite période ainsi que, le cas échéant, l'indication de l'article du rôle sous lequel
+l'imposition a été établie et la date à laquelle le rôle a été mis en recouvrement.
+
+A l'appui des renseignements visés aux b ou c, les requérants doivent produire une attestation régulière du comptable
+justifiant du paiement de l'impôt.
+
+IV. Dans le cas visé au dernier alinéa du II de l'article 49 quater, la demande doit mentionner, en outre, tous
+renseignements permettant de déterminer le montant de la taxe proportionnelle ou de la retenue à la source dont la société
+bénéficiaire de l'avance, du prêt ou de l'acompte a été, le cas échéant, dispensée, à raison de ses propres distributions, en
+vertu des articles 145 et 146 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 145, 146, 111
+	  - CGIAN3 49 quater II
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 sexies (V)
+
+
+###### Article 49 ter
+
+I. La somme à restituer en vertu de l'article 49 bis est égale, en ce qui concerne chacune des impositions énumérées à
+l'article 49 quater, à la différence entre : 
+
+D'une part, le montant de l'impôt régulièrement liquidé et effectivement acquitté pour l'année ou l'exercice au titre duquel
+l'acompte, le prêt ou l'avance a été pris en compte pour la détermination de la base d'imposition ; 
+
+D'autre part, le même impôt liquidé en faisant abstraction de l a fraction de l'acompte, prêt ou avance qui a fait l'objet du
+remboursement. 
+
+II. Le décompte prévu au I est opéré sur le principal des droits, à l'exclusion de tous intérêts ou indemnités de retard,
+majorations de droits et amendes fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quater (V)
+
+
+#### Chapitre III : Taxes diverses
+
+##### Section I : Taxe sur les salaires
+
+##### II : Base de la taxe
+
+###### Article 52
+
+Sous réserve des dispositions du 3 de l'article 51, la taxe sur les salaires est calculée, à l'égard des salariés rémunérés
+au pourboire, d'après le chiffre du salaire minimum garanti.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 51 3
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 10 (V) JORF 31 décembre 2000
+	  - PEREMPTION: Loi n°2000-1352 2000-12-30 art. 10 I 5°, V Finances pour 2001 JORF 31 décembre 2000
+	  - HISTO: Edition du 31 mars 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
+
+
+##### III : Dispositions spéciales aux professions relevant du régime agricole au regard des lois sur la sécurité sociale
+
+###### Article 53
+
+Un décret spécial détermine les conditions d'application de la taxe sur les salaires afférente aux salaires payés par les
+employeurs appartenant aux professions qui relèvent du régime agricole au regard des lois sur la sécurité sociale.
+
+
+
+###### Article 53 quater
+
+Les dispositions des articles 53 bis et 53 ter ne sont pas applicables aux organismes professionnels et autres employeurs
+agricoles qui sont établis dans les départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
+
+
+###### Article 53 ter
+
+Les employeurs agricoles autres que ceux visés à l'article 53 bis doivent acquitter la taxe sur les salaires à raison des
+traitements et salaires payés au personnel affecté : 
+
+1° Aux établissements distincts séparés de l'exploitation agricole dans lesquels ils vendent des produits provenant des
+terrains qu'ils exploitent ou du bétail qu'ils y élèvent, qu'ils y entretiennent ou qu'ils y engraissent : 
+
+a. Soit lorsque les ventes sont effectuées suivant des méthodes commerciales en ce qui concerne, notamment, l'agencement
+matériel et la recherche des débouchés ; 
+
+b. Soit lorsque ces ventes ne portent pas exclusivement sur les produits ci-dessus visés ; 
+
+c. Soit lorsque la totalité ou une partie desdits produits a subi une préparation ou une manipulation qui en modifie le
+caractère et qui ne s'impose pas pour les rendre propres à la consommation ou à l'utilisation en l'état ; 
+
+2° Aux établissements dans lesquels la préparation ou la manipulation visée au c du 1 est effectuée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 ter (V)
+
+
+##### Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
+
+###### Article 58 J
+
+La déclaration prévue à l'article 161 de l'annexe II au code général des impôts doit indiquer :
+
+L'année au cours de laquelle devaient être réalisés les investissements ;
+
+Le montant des salaires, traitements, indemnités et émoluments à prendre en considération pour l'assiette des investissements
+dans la construction de logements à réaliser au cours de cette même année ;
+
+La somme totale à investir, compte tenu, le cas échéant, des remboursements et aliénations d'investissements antérieurs ;
+
+Le montant de l'investissement à réaliser en faveur des immigrés d'une part, des autres salariés, d'autre part ;
+
+Le montant des investissements réalisés au cours de l'année considérée, les modalités selon lesquelles ces investissements
+ont été effectués et la date à laquelle les sommes investies ont été effectivement versées ;
+
+Le montant des investissements excédentaires antérieurs qui ont été reportés conformément à l'article L 313-1 du code de la
+construction et de l'habitation et, lorsque ces renseignements n'ont pas déjà été fournis, les modalités suivant lesquelles
+ces investissements ont été effectués et les dates auxquelles les sommes ainsi investies ont été effectivement versées ;
+
+Le montant total des investissements dont il y a lieu de faire état ;
+
+Et, selon le cas, le montant des investissements à reporter sur les périodes ultérieures ou le montant de l'insuffisance
+d'investissement ainsi que la base de la cotisation de 2 % prévue à l'article 235 bis du code général des impôts.
+
+Cette déclaration est établie en double exemplaire sur des imprimés fournis par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 bis
+	  - CGIAN2 161
+	  - Code de la construction L313 1
+
+
+### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
+
+#### Chapitre premier : Taxe sur la valeur ajoutée
+
+##### Section I : Champ d'application
+
+##### I : Opérations obligatoirement imposables
+
+##### A : Animaux de boucherie et de charcuterie
+
+###### Article 65 A
+
+Par animaux de boucherie et de charcuterie, il faut entendre les animaux suivants :
+
+Equidés : chevaux et juments, mulets, mules et bardots, ânes et ânesses, baudets, étalons ;
+
+Bovidés : boeufs et taureaux, vaches, veaux, bouvillons, taurillons et génisses ;
+
+Ovidés : béliers et moutons, brebis et agneaux gris, agneaux de lait ;
+
+Suidés : porcs mâles et femelles, cochons de lait ;
+
+Caprins : boucs et chèvres ainsi que les chevreaux dont le poids après l'abattage est supérieur à 7 kilogrammes de viande
+nette.
+
+
+
+##### B : Prestations de transport
+
+###### Article 68
+
+Pour les prestations de transport désignées au 3° de l'article 259 A du code général des impôts et effectuées partie en
+France, partie hors de France [*à l'étranger*], les transporteurs doivent justifier du prix du transport réalisé en France.
+Lorsque ce prix n'est pas déterminé, il est calculé en appliquant au prix du transport le rapport entre la longueur du
+transport effectué en France et la longueur totale du transport.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 259 A 3°
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### I bis : Opérations imposables sur option
+
+###### Article 70 septies
+
+Par dérogation aux dispositions de l'article 70 sexies les dispositions de l'article 260 B du code général des impôts ne
+s'appliquent pas aux opérations qui ne se rattachent pas spécifiquement au commerce des valeurs et de l'argent et aux
+opérations de crédit-bail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 70 sexies (V)
+	  - Code général des impôts, CGI. - art. 260 B (V)
+
+
+##### II : Opérations exonérées
+
+##### A : Ventes publiques d'oeuvres d'art originales.
+
+###### Article 71
+
+Pour l'application des dispositions de l'article 261-1-3°-a du code général des impôts, sont considérées comme des oeuvres
+d'art originales les réalisations ci-après :
+
+1° Tableaux, peintures, dessins, aquarelles, gouaches, pastels, monotypes, entièrement exécutés de la main de l'artiste;
+
+2° Gravures, estampes et lithographies, tirées en nombre limité directement de planches entièrement exécutées à la main par
+l'artiste, quelle que soit la matière employée;
+
+3° A l'exclusion des articles de bijouterie, d'orfèvrerie et de joaillerie, productions en toutes matières de l'art statuaire
+ou de la sculpture et assemblages, dès lors que ces productions et assemblages sont exécutés entièrement de la main de
+l'artiste; fontes de sculpture à tirage limité à huit exemplaires et contrôlé par l'artiste ou ses ayants droit;
+
+4° Tapisseries tissées entièrement à la main, sur métier de haute ou de basse lisse, ou exécutées à l'aiguille, d'après
+maquettes ou cartons d'artistes, et dont le tirage, limité à huit exemplaires, est contrôlé par l'artiste ou ses ayants
+droit;
+
+5° Exemplaires uniques de céramique, entièrement exécutés de la main de l'artiste et signés par lui;
+
+6° Emaux sur cuivre, entièrement exécutés à la main, dans la limite de huit exemplaires numérotés et comportant la signature
+de l'artiste ou de l'atelier d'art, à l'exclusion des articles de bijouterie, d'orfèvrerie et de joaillerie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 261 1 3° a
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 3 (V) JORF 27 juillet 1991
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 4 (V) JORF 27 juillet 1991
+	  - HISTO: EDITION 1979-07-01
+
+	**Codifié par**:
+
+	  - Décret n°92-836 1992-08-27
+
+	**Cité par**:
+
+	  - Code de commerce - art. L911-8 (V)
+	  - Code de commerce - art. L921-8 (V)
+	  - Code de commerce. - art. L931-11 (V)
+	  - Code de commerce. - art. L951-7 (V)
+
+
+##### B : Presse et impression
+
+###### Article 73
+
+A titre exceptionnel, à la condition toutefois qu'elles ne servent pas directement ou indirectement à la défense d'intérêts
+commerciaux ou professionnels, peuvent bénéficier des avantages fiscaux prévus à l'article 298 septies du code général des
+impôts les publications suivantes :
+
+1° Sous réserve de l'avis favorable du ministre des anciens combattants et victimes de guerre, les publications d'anciens
+combattants, mutilés ou victimes de guerre ;
+
+2° Sous réserve de l'avis favorable du ministre chargé de l'information, les publications ayant pour objet principal
+l'insertion, à titre d'information, des programmes des émissions radiophoniques ;
+
+3° Sous réserve de l'avis favorable du ministre des affaires sociales, les publications syndicales ou corporatives présentant
+un caractère d'intérêt social.
+
+Peuvent également bénéficier de ce régime les publications périodiques publiées par l'administration de l'Etat ou par les
+établissements publics.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 298 septies
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### C : Transports, opérations et services exonérés
+
+###### Article 73 A
+
+Pour bénéficier de l'exonération prévue à l'article 262-I du code général des impôts en ce qui concerne les transports de
+marchandises vers un port ou un aéroport en vue de leur transbordement à destination de l'étranger ou des territoires et
+départements d'outre mer, le transporteur doit présenter une attestation délivrée par le propriétaire de la marchandise, par
+l'expéditeur ou par le commissionnaire de transports, visée par le service des impôts dont ils dépendent et certifiant la
+destination des produits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 262 I
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 73 F
+
+Pour bénéficier de l'exonération prévue aux articles 262-II-10° et 291-II-1° du code général des impôts et relative aux
+transports par route, en provenance et à destination de l'étranger, de marchandises et de voyageurs étrangers circulant en
+groupe d'au moins dix personnes, le transporteur routier doit, lorsque le transport comporte un transbordement dans un port
+ou un aéroport français, présenter une feuille de route comportant le numéro d'immatriculation du véhicule, le parcours
+effectué, la nature et la quantité de la marchandise ou le nombre de voyageurs transportés en groupe. Ce document est visé
+par le service des douanes du point d'entrée et du point de sortie. A défaut, le transport effectué sur le territoire
+français est normalement imposable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 262 II 10°
+	  - CGI 291 II 1°
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### Section II : Assiette de la taxe
+
+##### Régime du chiffre d'affaires réel
+
+###### Article 76
+
+1  En cas d'échange, le chiffre d'affaires imposable est constitué par la valeur des objets reçus en contrepartie de ceux
+livrés, majorée de la soulte.
+
+2  (Abrogé)
+
+3  Pour les ventes d'oeuvres d'art originales visées à l'article 266-1-g du code général des impôts et définies à l'article
+71, le chiffre d'affaires imposable est fixé forfaitairement à 30 % du prix de vente; toutefois, la base imposable peut, sur
+justifications, être constituée par la différence entre le prix de vente et le prix d'achat ou, s'il s'agit de la première
+vente en France d'oeuvres d'art étrangères, par la différence entre le prix de vente et la valeur en douane.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 266 1 g
+	  - CGIAN3 71
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### Section III : Fait générateur et exigibilité de la taxe
+
+##### I : Paiement de la taxe d'après les débits
+
+###### Article 77
+
+1. Les redevables qui effectuent des opérations passibles de la taxe sur la valeur ajoutée pour lesquelles le fait générateur
+est constitué par l'encaissement du prix ou de la rémunération et qui entendent acquitter cette taxe d'après les débits
+doivent en faire la demande auprès du service des impôts dont ils relèvent pour son paiement.
+
+L'autorisation qui leur est accordée s'applique à l'ensemble des opérations réalisées ; elle demeure valable tant que les
+redevables n'expriment pas, par demande écrite, leur désir de revenir au régime du paiement d'après les encaissements.
+
+2. Les redevables autorisés dans les conditions visées ci-dessus à acquitter la taxe sur la valeur ajoutée d'après leurs
+débits doivent en faire mention sur les factures qu'ils délivrent à leurs clients.
+
+
+
+##### II : Entrepreneurs de travaux immobiliers
+
+###### Article 78
+
+1  Les entrepreneurs peuvent acquitter la taxe sur la valeur ajoutée au moment de la livraison, pour les travaux immobiliers
+passibles du taux normal de cette taxe et exécutés dans le cadre d'un marché unique comportant la fourniture de biens meubles
+et l'installation ou l'incorporation à un ouvrage immobilier des matériels et appareils fournis.
+
+2  L'option mentionnée au 1 n'est admise que si la valeur de vente des matériels ou appareils ainsi fournis et indispensables
+au fonctionnement de l'installation ou incorporés à l'ouvrage immobilier excède 50 % du montant total du marché.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 79 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 79
+
+L'option pour le paiement de la taxe lors de la livraison des travaux immobiliers est subordonnée au dépôt, par
+l'entrepreneur, auprès du service des impôts dont il dépend, d'une déclaration par laquelle il prend l'engagement d'acquitter
+la taxe lors de la livraison des travaux immobiliers pour tous les marchés qui sont passés à compter de la date de cette
+déclaration et remplissent les conditions définies à l'article 78. 
+
+Cette déclaration doit être déposée, en ce qui concerne les entreprises nouvelles ou les entreprises ayant modifié leur
+activité, dans les quinze jours de leur installation ou du commencement de leur nouvelle activité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 78 (V)
+
+
+###### Article 80
+
+Pour bénéficier de l'option, l'entrepreneur doit mentionner expressément, dans les contrats établis pour les marchés en
+cause, qu'il a opté pour le paiement de la taxe sur la valeur ajoutée lors de la livraison des travaux immobiliers et
+reproduire cette mention sur toutes les factures ou mémoires afférents à ces marchés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 82 (V)
+
+
+###### Article 81
+
+L'entrepreneur qui exerce l'option ne peut facturer la taxe sur la valeur ajoutée avant que la livraison des travaux ne soit
+intervenue. La livraison s'entend de la remise des ouvrages en la possession du maître de l'ouvrage ; elle ne peut se situer
+postérieurement à l'occupation ou à l'utilisation réelle des locaux et installations.
+
+
+
+###### Article 82
+
+La facturation de la taxe sur la valeur ajoutée à l'occasion de l'encaissement d'un seul acompte précédant la livraison ainsi
+que le défaut d'inscription sur les contrats, factures ou mémoires des mentions prévues à l'article 80 entraînent
+l'annulation de l'option et rendent la taxe immédiatement exigible sur tous les encaissements reçus au titre des marchés en
+cours.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 80 (V)
+
+
+###### Article 83
+
+L'entrepreneur peut renoncer à tout moment à l'option pour le paiement de la taxe lors de la livraison des travaux
+immobiliers. Il est tenu d'en faire la déclaration au service des impôts dont il dépend. La renonciation prend effet à la
+date de cette déclaration et rend exigible le paiement immédiat de la taxe afférente aux encaissements reçus au titre des
+marchés en cours.
+
+
+
+###### Article 84
+
+L'entrepreneur qui a renoncé à l'option ne peut formuler une nouvelle option qu'à l'expiration d'un délai d'un an compté de
+la date de cette renonciation.
+
+
+
+##### Section V : Calcul de la taxe
+
+##### I : Taux
+
+##### A : Taux réduit
+
+##### 1 : Cantines d'entreprises
+
+###### Article 85 bis
+
+L'application du taux réduit de la taxe sur la valeur ajoutée aux recettes provenant de la fourniture des repas dans les
+cantines d'entreprises est subordonnée à la réalisation des conditions suivantes :
+
+Les personnes qui assurent la fourniture des repas doivent être liées aux entreprises avec lesquelles elles traitent par un
+contrat écrit prévoyant les conditions de la fourniture des repas au personnel. Elles doivent, dans le mois de son
+approbation par les parties, déposer un exemplaire de ce contrat auprès du service des impôts dont elles dépendent et de
+celui dont relèvent les entreprises avec lesquelles elles ont contracté ;
+
+Les repas doivent être servis de façon habituelle et au seul personnel de l'entreprise partie au contrat, dans les locaux de
+celle-ci ;
+
+Chaque consommateur doit être en mesure de justifier de son appartenance à l'entreprise ;
+
+Le prix des repas doit être sensiblement inférieur à celui pratiqué par les restaurants similaires ouverts au public ;
+
+Les opérations effectuées dans le cadre de chacun des contrats doivent être comptabilisées distinctement.
+
+
+
+##### C : Taux majoré.
+
+###### Article 89 bis
+
+Les dispositions de l'article 89 ne s'appliquent pas aux biens désignés ci-après :
+
+- films cinématographiques appelés négatifs, contretypes, internégatifs, positifs ou inversibles d'édition, de format égal ou
+supérieur à 16 millimètres.
+
+- appareils cinématographiques de prise de vues pour les films de format égal ou supérieur à 16 millimètres et utilisant un
+magasin susceptible de recevoir des films d'une longueur minimum de soixante mètres ;
+
+- appareils de projection ou de vision de films cinématographiques de format égal ou supérieur à 16 millimètres ;
+
+- films magnétiques pour le son, perforés et de format égal ou supérieur à 16 millimètres (1).
+
+(1) Disposition entrée en vigueur le 1er mai 1978 [*date*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 89
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
+	  - PEREMPTION: Loi n°92-655 1992-07-15 art. 1 JORF 16 juillet 1992
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+
+##### II : Franchise et décote.
+
+###### Article 90
+
+La réduction du montant de la taxe sur la valeur ajoutée prévue à l'article 282-2 du code général des impôts est égale au
+tiers de la différence entre le chiffre limite supérieur prévu audit article et le montant de l'impôt normalement exigible.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 282 2
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 91
+
+Pour les redevables visés à l'article 282-3 du code général des impôts, la taxe à acquitter, application faite de la décote,
+est obtenue en multipliant le montant de l'impôt normalement exigible par une fraction comprenant :
+
+Au numérateur, la différence entre ce montant et le chiffre limite inférieur prévu à l'article 282-2 du code général des
+impôts ;
+
+Au dénominateur, la différence entre le chiffre limite prévu à l'article 282-3 dudit code et le chiffre limite inférieur
+prévu à l'article 282-2 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 282 2, 3
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 92
+
+Pour l'application du régime de la franchise et de la décote aux entreprises qui commencent ou qui cessent leur activité en
+cours d'année, les chiffres limites visés aux articles 90 et 91 sont ajustés au prorata du temps d'exploitation de
+l'entreprise pendant ladite année ; chaque mois est uniformément compté pour trente jours.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 90
+	  - CGIAN3 91
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 93
+
+Le montant de la réduction d'impôt et celui de la taxe à acquitter tels qu'ils résultent des calculs effectués dans les
+conditions prévues aux articles 90 et 91 sont arrondis, le cas échéant, au franc inférieur.
+
+Il en est de même pour les chiffres limites déterminés dans les conditions prévues à l'article 92
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 90
+	  - CGIAN3 91
+	  - CGIAN3 92
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### Section VI : Obligations des redevables
+
+###### Article 95
+
+Les factures établies par les redevables de la taxe sur la valeur ajoutée doivent obligatoirement faire apparaître le taux
+d'imposition légalement applicable à chacun des biens, droits, produits, travaux ou services faisant l'objet de la
+facturation.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°92-1244 1992-11-27 art. 2, art. 3 JORF 28 novembre 1992, en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 J (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 96
+
+Pendant la période allant du premier jour de l'exploitation jusqu'à la date de la conclusion de leur forfait, les entreprises
+nouvelles doivent se conformer aux obligations relatives à la tenue des documents comptables exigés des assujettis imposés
+d'après leur chiffre d'affaires réel.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+	**Cité par**:
+
+	  - Arrêté du 24 juillet 2000 - art. 2 (Ab)
+
+
+###### Article 96 A
+
+Les sociétés de moyens qui bénéficient de l'exonération de la taxe sur la valeur ajoutée prévue à l'article 261 B du code
+général des impôts sont tenues de joindre à leur déclaration de résultat une déclaration établie sur un imprimé fourni par
+l'administration indiquant, pour la période d'imposition en cause : 
+
+Les éléments nécessaires à l'identification des associés et à leurs droits dans le capital social ; 
+
+Le montant des dépenses réparties entre les associés en désignant notamment les achats effectués pour le compte des associés,
+les frais de personnel, les frais afférents aux locaux, au mobilier et au matériel, les frais de bureau et les autres frais
+généraux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 261 B (V)
+
+
+##### Section VIII : Régimes spéciaux
+
+##### Départements d'outre-mer.
+
+###### Article 98
+
+Dans les départements de la Guadeloupe, de la Martinique et de la Réunion :
+
+1° La réduction du montant de la taxe sur la valeur ajoutée prévue à l'article 282-2 du code général des impôts est égale aux
+trois cinquièmes de la différence entre le chiffre limite supérieur prévu audit article affecté du coefficient de réduction
+prévu à l'article 296-b dudit code et le montant de l'impôt normalement exigible;
+
+2° Les chiffres limites à retenir pour l'application de l'article 91 sont affectés des coefficients de réduction prévus à
+l'article 296-b du code général des impôts;
+
+3° Pour l'application du régime de la franchise et de la décote aux entreprises qui commencent ou qui cessent leur activité
+en cours d'année, les chiffres limites visés aux 1° et 2° sont ajustés au prorata du temps d'exploitation de l'entreprise
+pendant ladite année; chaque mois est uniformément compté pour trente jours;
+
+4° Le montant de la réduction d'impôt et celui de la taxe à acquitter tels qu'ils résultent des calculs effectués dans les
+conditions prévues aux 1° et 2° sont arrondis, le cas échéant, au franc inférieur.
+
+Il en est de même pour les chiffres limites déterminés dans les conditions prévues au 3°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 282 2
+	  - CGI 296 b
+	  - CGIAN3 91
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre IV : Redevance sanitaire d'abattage
+
+###### Article 111 quater B
+
+Pour les animaux des espèces bovine, ovine, caprine et pour ceux des espèces chevaline, asine et leurs croisements, le poids
+de viande net est celui des quatre quartiers de l'animal abattu, saigné, dépouillé et éviscéré, défalcation faite :
+
+a  de la tête qui doit être enlevée par section au niveau de l'articulation de l'occiput et de la première vertèbre
+cervicale, la section étant effectuée suivant un plan perpendiculaire au grand axe des vertèbres cervicales;
+
+b  d'une partie des membres sectionnés à l'articulation du genou pour les antérieurs et à celle du jarret pour les
+postérieurs;
+
+c  des organes contenus dans les cavités thoracique, abdominale et pelvienne mais à l'exclusion des rognons et des graisses
+de rognons pour les veaux et les ovins;
+
+d  des organes génitaux et mammaires;
+
+e  pour les gros bovins, du parage des gouttières jugulaires dans la limite de un kilogramme par animal et des graisses
+externes des régions dorsale et latérales sans que cette élimination puisse mettre à nu le tissu musculaire.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°94-520 du 24 juin 1994 - art. 2 () JORF 25 juin 1994
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater C
+
+Pour les animaux de l'espèce porcine, le poids de viande net est celui de l'animal abattu, saigné et éviscéré en carcasse
+entière ou divisée par le milieu, sans la langue, les soies, les sabots et les organes génitaux.
+
+La tête et les pieds sont compris dans le poids de viande net même s'ils ont été détachés de la carcasse avant la pesée.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°94-520 du 24 juin 1994 - art. 2 () JORF 25 juin 1994
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater D
+
+Les volailles s'entendent des coqs, poules, poulets, canards, oies, dindes et pintades.
+
+Le poids de viande net à retenir est celui de la carcasse découpée ou non.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°94-520 du 24 juin 1994 - art. 2 () JORF 25 juin 1994
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater E
+
+Toute partie de l'animal attenant à la carcasse au moment de la pesée est incluse dans le poids de viande net.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°94-520 du 24 juin 1994 - art. 2 () JORF 25 juin 1994
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater F
+
+Pour les animaux autres que les volailles, la pesée doit être effectuée dans l'heure qui suit l'étourdissement de l'animal.
+Le poids de viande net constaté donne lieu à un abattement de 2,5 % pour les viandes provenant des animaux de l'espèce
+porcine et de 2 % pour celles provenant des animaux des espèces bovine, ovine et caprine et des espèces chevaline, asine et
+leurs croisements.
+
+Pour les volailles, la pesée doit être effectuée dans les vingt-quatre heures qui suivent l'abattage pour chacun des lots de
+volailles abattues par un même propriétaire ou pour son compte.
+
+Les quantités de viandes nettes reportées sur la déclaration mentionnée à l'article 111 quater G sont arrondies au kilogramme
+le plus voisin. Elles donnent lieu aux abattements ci-après également arrondis     - de 10 % du poids de viande net pour les
+viandes provenant des animaux de l'espèce porcine pour tenir compte de la tête et des pieds pesés avec la carcasse;
+
+- de 5 % du poids de viande net pour les volailles lorsque le foie et le gésier ont été détachés de la carcasse mais pesés et
+emballés avec celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 111 quater G
+
+	**Abrogé par**:
+
+	  - Décret n°94-520 du 24 juin 1994 - art. 2 () JORF 25 juin 1994
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre IV : Taxe de protection sanitaire et d'organisation des marchés des viandes.
+
+###### Article 111 quater A
+
+La taxe de protection sanitaire et d'organisation des marchés des viandes est perçue par le service des impôts dans tous les
+établissements où il est procédé à l'abattage des animaux en vue de la vente. Elle est assise sur le poids de viande fraîche
+net tel qu'il est défini aux articles 111 quater B à 111 quater E constaté lors de la pesée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 111 quater B
+	  - CGIAN3 111 quater C
+	  - CGIAN3 111 quater D
+	  - CGIAN3 111 quater E
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater H
+
+Les dispositions relatives au forfait prévu en matière de taxes sur le chiffre d'affaires ne sont pas applicables à la taxe
+de protection sanitaire et d'organisation des marchés des viandes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater I
+
+Les saisies totales ou partielles pratiquées par les services d'inspection sanitaire ainsi que les exportations ne donnent
+pas lieu au remboursement de la taxe déjà perçue.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater J
+
+A l'importation, la taxe de protection sanitaire et d'organisation des marchés des viandes est perçue dans les conditions
+prévues à l'article 111 quater K sur les viandes reprises au tableau ci-dessous, déclarées pour la mise à la consommation
+dans le territoire douanier :
+
+------------------------------------------------------------------ :
+NUMEROS      :                                                 :
+
+<table>
+  <tbody><tr>
+    <td> : du tarif     :    DESIGNATION DES MARCHANDISES                 :</td>
+  </tr>
+  <tr>
+    <td> : des douanes  :                                                 :</td>
+  </tr>
+  <tr>
+    <td> :--------------:-------------------------------------------------:</td>
+  </tr>
+  <tr>
+    <td> : 02-01 ex A   : Viandes comestibles des animaux domestiques     :</td>
+  </tr>
+  <tr>
+    <td> :              : repris aux numéros 01-01 à 01-04 inclus,        :</td>
+  </tr>
+  <tr>
+    <td> :              : fraîches, réfrigérées ou congelées.             :</td>
+  </tr>
+  <tr>
+    <td> :              :                                                 :</td>
+  </tr>
+  <tr>
+    <td> : 02-02 A et B : Volailles mortes de basse-cour, comestibles,    :</td>
+  </tr>
+  <tr>
+    <td> :              : fraîches, réfrigérées ou congelées.             :</td>
+  </tr>
+  <tr>
+    <td> :              :                                                 :</td>
+  </tr>
+  <tr>
+    <td> : 02-05        : Lards, graisse de porc et graisse de volaille   :</td>
+  </tr>
+  <tr>
+    <td> :              : non pressées ni fondues, ni extraites, à        :</td>
+  </tr>
+  <tr>
+    <td> :              : l'aide de solvants, frais, réfrigérés, congelés :</td>
+  </tr>
+  <tr>
+    <td> :              : salés ou en saumure, séchés ou fumés.           :</td>
+  </tr>
+  <tr>
+    <td> :              :                                                 :</td>
+  </tr>
+  <tr>
+    <td> : Ex 02-06     : Viandes comestibles des animaux domestiques     :</td>
+  </tr>
+  <tr>
+    <td> :              : repris aux numéros 01-01 à 01-05 inclus, salées :</td>
+  </tr>
+  <tr>
+    <td> :              : ou en saumure, séchées ou fumées.               :</td>
+  </tr>
+  <tr>
+    <td> :              :                                                 :</td>
+  </tr>
+  <tr>
+    <td> :  15-01       : Saindoux, autres graisses de porc et graisses   :</td>
+  </tr>
+  <tr>
+    <td> :              : de volailles, pressés ou fondus ou extraits à   :</td>
+  </tr>
+  <tr>
+    <td> :              : l'aide de solvants.                             :</td>
+  </tr>
+  <tr>
+    <td> :              :                                                 :</td>
+  </tr>
+  <tr>
+    <td> : Ex 16-01     : Saucisses, saucissons et similaires, de viandes :</td>
+  </tr>
+  <tr>
+    <td> :              : d'animaux domestiques repris aux numéros 01-01  :</td>
+  </tr>
+  <tr>
+    <td> :              : à 01-05 inclus.                                 :</td>
+  </tr>
+  <tr>
+    <td> : 16-02 B ex I : Autres préparations et conserves de viandes     :</td>
+  </tr>
+  <tr>
+    <td> :  et ex III   : d'animaux domestiques repris aux numéros 01-01  :</td>
+  </tr>
+  <tr>
+    <td> :              : à 01-05 inclus.                                 :</td>
+  </tr>
+</tbody></table>
+
+==================================================================
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 111 quater K
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater K
+
+La taxe est perçue sur le poids net de la viande, reconnu ou admis par le service des douanes, déduction faite du poids des
+abats.     Ce poids est arrondi au kilogramme le plus voisin pour chaque article de la déclaration de mise à la consommation.
+Il est éventuellement affecté d'un abattement de 5 %, également arrondi, pour les volailles dont le foie et le gésier ont été
+détachés de la carcasse mais pesés et emballés avec celle-ci.
+
+Le taux de la taxe de protection sanitaire et d'organisation des marchés des viandes à retenir pour les préparations et
+conserves de viandes de boucherie, de charcuterie et de volailles (numéros ex 16-01 et 16-02 B ex I et ex III du tarif des
+douanes), dans la composition desquelles entrent des viandes d'espèces animales taxées à des taux différents, est égal à
+celui prévu pour la viande la moins fortement taxée contenue dans lesdites préparations et conserves.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
+
+#### Chapitre premier : Régime du forfait.
+
+###### Article 111 septies
+
+Les entreprises dont le bénéfice ou le chiffre d'affaires imposable est fixé forfaitairement sont tenues de souscrire, avant
+le 16 février de chaque année, au titre de l'année précédente, une déclaration en triple exemplaire contenant les
+renseignements nécessaires à leur identification et à la fixation de leur forfait de bénéfice ou de chiffre d'affaires, tels
+qu'ils sont prévus sur le ou les modèles qui sont fixés par arrêté du ministre de l'économie et des finances (1). Cette
+déclaration est adressée au service désigné par arrêté du directeur général des impôts (2).
+
+(1) Arrêté du 19 novembre 1971 (J.O. des 13 et 14 décembre).
+
+(2) Voir art. 111 duodecies ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1971-11-19
+	  - CGIAN3 111 duodecies
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 111 sexies
+
+Pour l'application du régime d'imposition forfaitaire de bénéfice et de chiffre d'affaires aux entreprises nouvelles et aux
+entreprises qui cessent leur activité en cours d'année, les chiffres annuels déterminés dans les conditions prévues à
+l'article 111 quinquies sont ajustés au prorata du temps d'exploitation de l'entreprise pendant ladite année.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 111 quinquies
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 111 undecies
+
+1. Pour les entreprises soumises au régime du forfait qui cessent leur activité au cours de la première année de la période
+biennale ou, en cas de reconduction tacite, au cours de l'année suivant celle couverte par cette reconduction, les forfaits
+de bénéfice et de chiffre d'affaires sont obligatoirement fixés aux montants des forfaits établis pour l'année précédente,
+ajustés au prorata du temps écoulé du 1er janvier jusqu'au jour où la cessation est devenue effective.
+
+2. Lorsque la cessation intervient au cours de la deuxième année de la période biennale, les forfaits de bénéfice et de
+chiffre d'affaires à retenir sont ceux qui sont fixés pour l'année considérée, réduits au prorata du temps écoulé dans les
+conditions visées au 1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+
 ### Titre III : Contributions indirectes et taxes diverses
 
 #### Chapitre premier : Boissons
@@ -77,7 +5884,335 @@ déficitaire.
 
 ##### A : Production
 
+##### II : Déduction spéciale accordée aux fabricants de mistelles
+
+###### Article 118
+
+Pour l'application de la déduction de 3 % ou de 5 % prévue par l'article 344 du code général des impôts, sont considérées :
+
+1° Comme mistelles blanches, celles fabriquées, soit avec des raisins blancs dont le mutage est effectué sur la vendange
+même, soit avec des moûts de raisins quelconques mutés avant toute fermentation et après séparation, par pressurage immédiat,
+des pulpes, pellicules et rafles ;
+
+2° Comme mistelles rouges, celles qui sont fabriquées dans d'autres conditions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 344
+
+
+###### Article 121
+
+Les renseignements prévus aux 1°, 4° et 6° de l'article 120 peuvent faire l'objet de déclarations complémentaires ou
+rectificatives dès que l'état de la fabrication le permet et, en tout cas, dans le délai maximal de quarante-cinq jours après
+la date de versement de l'alcool. Le volume et la richesse alcoolique doivent, lors du soutirage, être indiqués séparément,
+d'une part, pour les mistelles élaborées, d'autre part, pour les marcs et lies résiduels.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 120
+
+	**Abrogé par**:
+
+	  - Décret n°2001-649 du 16 juillet 2001 - art. 3 () JORF 21 juillet 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
+
+
+###### Article 123
+
+Il est ouvert aux fabricants de mistelles un compte de fabrication tenu, distinctement, par espèce de mistelles préparées
+(blanches ou rouges).
+
+Les charges en sont constituées par l'alcool pur acquis contenu :
+
+1° Dans les vendanges ou les moûts mis en oeuvre ;
+
+2° Dans les esprits versés sur ceux-ci.
+
+Aux sorties est inscrit l'alcool pur contenu :
+
+1° Dans les mistelles obtenues ;
+
+2° Dans les marcs et lies de débourbage lors de leur évacuation à perte, en présence du service, ou de leur envoi à la
+distillation.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2001-649 du 16 juillet 2001 - art. 3 () JORF 21 juillet 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
+
+
+###### Article 124
+
+Le compte de fabrication est réglé par année civile, dans les mêmes conditions que le compte général des spiritueux. Les
+excédents sont pris en charge à la fois audit compte et au compte général des spiritueux ; les manquants sont inscrits aux
+sorties.
+
+La déduction complémentaire est calculée sur les seules quantités d'alcool pur contenues dans les esprits versés sur les
+vendanges ou sur les moûts.
+
+Les chiffres obtenus, qui constituent des maxima, sont cumulés dans la limite des manquants dégagés au compte de fabrication,
+avec la déduction ordinaire de magasin.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2001-649 du 16 juillet 2001 - art. 3 () JORF 21 juillet 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
+
+
 ##### III : Fabrication des boissons de raisins secs.
+
+###### Article 126
+
+Chaque vaisseau porte un numéro d'ordre et l'indication de sa contenance gravés ou peints à l'huile en caractères ayant au
+moins 5 centimètres de hauteur, par les soins et aux frais du fabricant, et il est muni d'une jauge ou d'une échelle en verre
+gradué.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+
+###### Article 128
+
+Si l'administration en fait la demande, un local convenable d'au moins 12 mètres carrés est disposé par le fabricant pour
+servir de bureau aux agents.
+
+Ce local doit être en bon état, convenablement éclairé, meublé, chauffé et répondre à des conditions suffisantes d'hygiène,
+de propreté et de sécurité.
+
+Le loyer en est supporté par l'administration. A défaut de fixation amiable, il est réglé par l'autorité préfectorale, sauf
+recours au tribunal administratif.
+
+Dans les fabriques où un bureau n'est pas jugé nécessaire, les fabricants sont tenus de mettre gratuitement à la disposition
+du service, dans un emplacement convenable, deux chaises, une table avec tiroir fermant à clef et un coffre avec cadenas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+
+###### Article 129
+
+Toute communication avec les maisons voisines non occupées par le fabricant est interdite et doit être scellée.
+
+Il ne peut non plus exister aucune communication intérieure entre une fabrique de boissons de raisins secs et les bâtiments
+dans lesquels l'industriel exercerait la profession de distillateur, fabricant de glucose, fabricant de vinaigre ou
+liquoriste, ou bien ferait le commerce en gros des spiritueux.
+
+Aucun alambic ne peut être installé dans la fabrique.
+
+
+
+###### Article 133
+
+Lorsque la fermentation a lieu sur marcs, la déclaration énonce :
+
+1° Le numéro et la contenance des vaisseaux à utiliser ;
+
+2° Le poids et le volume des fruits à mettre en oeuvre ;
+
+3° L'espèce et la quantité des liquides employés au chargement (eau pure ou eau de lavage) ;
+
+4° Le volume total des quantités mises en fermentation ;
+
+5° La date et l'heure du commencement de l'opération, la date et l'heure présumées de l'entonnement ;
+
+6° La richesse alcoolique estimative du produit à fabriquer.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 134
+
+Lorsque la fermentation n'a pas lieu sur marcs, outre les indications prescrites par l'article 133, le fabricant est tenu
+dans les conditions de délai fixées par l'article 132 de déclarer séparément :
+
+1° L'heure à laquelle aura lieu chacun des soutirages de moût auxquels il se propose de procéder ;
+
+2° Le produit présumé de chacune de ces opérations;
+
+3° Le numéro et la contenance des cuves ou foudres dans lesquels ces moûts seront réunis pour être mis en fermentation et
+l'heure à laquelle cette réunion sera terminée ;
+
+4° L'heure à laquelle auront lieu les opérations de lavage des marcs, la quantité d'eau qui sera employée à ces lavages et
+leur produit présumé, sans que ce produit puisse être inférieur à la quantité d'eau versée ;
+
+5° Le numéro et la contenance des foudres ou cuves dans lesquels ce produit sera versé ;
+
+6° La destination qui doit être donnée au produit.
+
+Les produits des divers soutirages composant une même fabrication doivent être réunis dans les cuves de fermentation dans un
+délai de quatre jours au plus à partir de l'heure fixée pour le commencement de la fabrication.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 132, 133
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+
+###### Article 135
+
+Les fabricants peuvent, en cours de travail, compléter ou rectifier la déclaration primitive par des déclarations
+complémentaires faites dans les conditions de délai déterminées par l'article 132, c'est-à-dire quatre heures ou douze heures
+avant l'opération particulière à laquelle elles se rapportent.
+
+Toute transvasion de liquide en cours de fabrication doit faire, dans les mêmes conditions de délai, l'objet d'une
+déclaration.
+
+Pour les opérations de soutirage prévues par l'article 136, les fabricants inscrivent eux-mêmes sur les ampliations de la
+déclaration, et au moment même où chaque opération est terminée, le produit effectif de cette opération.
+
+Les ampliations des déclarations faites en exécution des articles 132, 133 et 134 et, s'il y a lieu, des déclarations
+complémentaires prévues par le présent article sont représentées à toute réquisition des agents, pendant toute la durée de la
+fabrication.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 132, 133, 134, 136
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+
+###### Article 136
+
+Quel que soit le mode de fabrication adopté, avant de procéder à l'entonnement des produits achevés, le fabricant est tenu
+d'en faire la déclaration dans les mêmes conditions de délai que celles prévues à l'article 132.
+
+Il ne peut être procédé au déchargement des cuves et à l'entonnement qu'autant que la fabrication est complètement achevée et
+que les boissons n'accusent pas une densité supérieure à 1.000 grammes par litre.
+
+Cette opération ne peut avoir lieu que de jour et sans désemparer ; les décharges partielles sont formellement interdites.
+
+Tout liquide en fermentation trouvé en dehors des cuves chargées en vertu d'une déclaration régulière est considéré comme le
+produit d'une fabrication clandestine et saisi par procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 132
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+
+###### Article 137
+
+Le compte de matières premières prévu par l'article 353 du code général des impôts présente :
+
+Aux charges, les quantités de raisins secs reçues en vertu d'acquits-à-caution ou de déclarations régulières et les excédents
+constatés ;
+
+Aux sorties :
+
+1° Les quantités expédiées au dehors après reconnaissance par les agents ;
+
+2° Les quantités employées à la fabrication conformément à la déclaration prescrite par les articles 132 et 143.
+
+Le compte de matières premières peut être réglé par les agents aussi souvent qu'ils le jugent nécessaire.
+
+Tout excédent est saisi par procès-verbal et ajouté aux charges. Tout manquant de raisins secs donne lieu au paiement :
+
+1° Du droit de consommation à raison de 30 litres d'alcool pur par 100 kilogrammes de raisins secs ;
+
+2° De la taxe de fabrication prévue à l'article 353 précité à raison de 3 hectolitres de boissons de raisins secs par 100
+kilogrammes de raisins secs.
+
+Les manquants de matières premières autres que les raisins secs donnent lieu au paiement du droit de consommation sur une
+quantité d'alcool pur correspondant à la richesse saccharine des matières de même nature restant en magasin, et suivant une
+base d'évaluation déterminée comme il est dit à l'article 142.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 353
+	  - CGIAN3 132, 142, 143
+
 
 ###### Article 138
 
@@ -131,6 +6266,806 @@ immédiate du droit de consommation sur l'alcool ;
 	  - Décret n°2004-1070 2004-10-08
 
 
+###### Article 139
+
+Le compte auxiliaire de fabrication est destiné à présenter la situation de chacun des vaisseaux, cuves, foudres, etc., dans
+lesquels sont contenus les produits quelconques en cours de fabrication : macérations de raisins, moûts soutirés ou
+fermentant en présence des marcs, eau de lavage des marcs, etc.
+
+Ce compte est chargé de toutes les quantités de liquides introduites dans ces vaisseaux à la suite des déclarations faites en
+vertu des articles 133, 134 et 135.
+
+Les excédents constatés sont ajoutés aux charges.
+
+Le compte est déchargé des quantités entonnées, soutirées ou transvasées en vertu de déclarations régulières, des manquants
+reconnus en cours de fabrication ou à l'entonnement, des quantités dont la perte est dûment justifiée.
+
+Les manquants constatés au compte auxiliaire de fabrication sont frappés du droit de consommation à raison du degré
+alcoolique des boissons, ou, s'il ne peut être déterminé par suite de la non-fermentation des marcs, à raison du degré
+alcoolique moyen des produits expédiés dans le mois précédent.
+
+Toutefois, dans les fabriques où les marcs sont jetés sans avoir été pressurés, il peut être accordé, pour l'eau retenue par
+les raisins, une déduction dont le taux est fixé par l'administration après expériences contradictoires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 133, 134, 135
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+
+###### Article 141
+
+Les excédents reconnus au cours des vérifications et des inventaires, tant au compte des produits achevés qu'au compte
+auxiliaire de fabrication, sont saisis par procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+
+##### B : Régime économique
+
+##### I : Organisation de l'économie cidricole
+
+###### Article 143 A 1
+
+Les objectifs de production, les conditions de transformation et de commercialisation des fruits à cidre et à poiré et des
+produits énumérés à l'article 143 A sont fixés par des accords interprofessionnels, des conventions de campagne et des
+contrats types dans les conditions prévues par les titres II, III et IV de la loi n° 64-678 du 6 juillet 1964, dont les
+modalités d'application sont précisées par les articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 143 A (V)
+
+
+###### Article 143 A 3
+
+Outre les stipulations prévues par l'article 9, premier alinéa, de la loi n° 64-678 du 6 juillet 1964, la convention de
+campagne fixe notamment le taux des cotisations annuelles.
+
+Le produit de ces cotisations doit être utilisé exclusivement pour les actions d'intérêt commun et en particulier pour les
+dépenses administratives d'application des accords et les études de marchés.
+
+**Nota:**
+
+[La référence à la Loi n° 64-678 du 6 juillet 1964 art. 9 est remplacée par la référence à l'article L631-13 du Code rural,
+voir la Loi n° 98-565 du 8 juillet 1998 art. 2 JORF 9 juillet 1998].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°64-678 1964-07-06 art. 9 al. 1
+
+
+###### Article 143 H
+
+Tout chef, directeur ou gérant d'un établissement industriel, commercial, artisanal ou coopératif ou tout exportateur qui ne
+se conformera pas aux obligations prévues à l'article 143 Z sera puni d'une amende de 160 F à 600 F et pourra en outre être
+condamnée à un emprisonnement de huit jours au plus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 143 Z
+
+
+##### III : Dispositions diverses
+
+##### 2° : Distributeurs et utilisateurs d'alcools d'Etat.
+
+###### Article 145
+
+Toute personne physique ou morale désirant recevoir ou utiliser des alcools de rétrocession doit, sous réserve des cas prévus
+à l'article 146, prendre la position d'entrepositaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 146
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985
+	  - PEREMPTION: Loi - art. 47 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+##### Section II : Vins et cidres
+
+##### B : Régime fiscal
+
+##### Admission en décharge des déchets résultant de la concentration par le froid.
+
+###### Article 173
+
+La déclaration doit mentionner :
+
+1° Les nom, prénoms et domicile du déclarant ;
+
+2° La quantité, la couleur et la richesse alcoolique totale (richesse acquise et richesse en puissance) des vins à
+concentrer ;
+
+3° La nature des vins (vins de coupage, vins de pays, vins bénéficiant d'une appellation d'origine simple ou contrôlée) et
+l'indication, le cas échéant, du nom de pays ou de l'appellation d'origine des vins ;
+
+4° Le lieu, le jour et l'heure du commencement et la durée probable des opérations.
+
+
+
+###### Article 174
+
+A la fin des travaux ou, si ceux-ci durent plus de cinq jours, à la fin de chaque journée, la déclaration prévue à l'article
+173 est complétée par l'indication du volume et de la richesse alcoolique totale des vins obtenus après concentration. 
+
+Lorsque la concentration doit porter successivement sur des vins de coupage, des vins de pays et des vins déclarés sous une
+appellation d'origine, le préparateur est tenu d'inscrire ses opérations sur un registre conforme au modèle établi par
+l'administration et coté et paraphé par le chef de service local. Il mentionne séparément pour les vins de coupage, pour les
+vins de pays et pour les vins déclarés sous une appellation d'origine le volume et la richesse alcoolique totale des vins mis
+en oeuvre et également des vins obtenus après concentration. Le cas échéant, à l'égard des vins déclarés sous appellation
+d'origine, l'inscription doit distinguer, appellation par appellation, les lots de vins en traitement. 
+
+Les diverses catégories de vins, en instance de traitement ou déjà traités, doivent être logées dans des cuves, foudres ou
+vaisseaux distincts, revêtus d'étiquettes libellées en caractères indélébiles et permettant de les identifier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 173 (V)
+
+
+###### Article 178
+
+Quand la concentration de vins est déclarée et opérée régulièrement et dans les limites fixées, la perte de volume subie par
+les vins traités est admise en décharge pour l'assiette du droit de circulation.
+
+
+
+##### Section V : Régimes particuliers
+
+##### I : Réglementation des essences d'absinthe et produits assimilés ou susceptibles de les suppléer
+
+###### Article 178 A
+
+Sont soumis à la réglementation édictée par l'article 514 bis du code général des impôts les essences d'absinthe et produits
+assimilés, les essences d'hysope, d'anis, de badiane, de fenouil et l'anéthol, que ces substances soient en nature ou en
+mélange, concentrées ou non, sous quelque forme qu'elles soient présentées, à l'exclusion : 
+
+1° Des médicaments composés qui figurent à la pharmacopée française ou au formulaire national, ou qui ont obtenu un visa du
+ministère des affaires sociales ; 
+
+2° Des plantes médicinales ou mélanges de plantes médicinales dont la vente par les herboristes est autorisée. 
+
+Les contestations qui peuvent s'élever sur la nature de ces différents produits sont déférées à la commission visée à
+l'article 343 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 L (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 S (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 W (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 X (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 Z (V)
+	  - Livre des procédures fiscales - art. R24-2 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 343 (V)
+	  - Code général des impôts, CGI. - art. 514 bis (V)
+
+
+###### Article 178 B
+
+A l'exception de celles prévues aux articles 178 C, 178 D et 178 AB les prescriptions édictées par les articles 178 A et 178
+E à 178 AA ne s'appliquent pas aux pharmaciens d'officine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 E (V)
+
+
+###### Article 178 C
+
+Sauf autorisation spéciale du ministre des affaires sociales, l'emploi de l'anéthol est interdit dans la fabrication des
+médicaments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 B (V)
+
+
+###### Article 178 F
+
+Quelle que soit leur provenance ou leur destination, les produits visés à l'article 178 A doivent être accompagnés d'acquits-
+à-caution énonçant le numéro et le poids total de chacun des fûts, bidons, caisses, boîtes ou flacons composant le chargement
+ainsi que la nature et le poids des produits contenus dans ces récipients.
+
+L'importateur de ces mêmes produits ne peut obtenir de l'administration des douanes mainlevée de la marchandise que sur
+présentation d'un acquit-à-caution des contributions indirectes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 178 A
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA (V)
+
+
+###### Article 178 N
+
+Les fabricants sont comptables des quantités d'essences fabriquées sur place ou reçues du dehors. Ils sont tenus d'inscrire à
+un compte spécial sur le registre visé à l'article 178 M : 
+
+1° Dès la fin de la fabrication ou dès la réception, les espèces et quantités de produits fabriqués obtenus dans l'usine ou
+reçus du dehors en indiquant, pour ces derniers, le nom de l'expéditeur et l'analyse du titre de mouvement qui a accompagné
+la marchandise ; 
+
+2° Par nature de produits, les quantités expédiées avec les noms et adresses des destinataires, les dates et numéros des
+titres de mouvement ; 
+
+3° S'il y a lieu, par espèces, les quantités utilisées sur place avec indication de la nature de cette utilisation ; 
+
+4° Par nature, celles soumises à rectification ou épuration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 M (V)
+
+
+###### Article 178 Q
+
+Les agents peuvent, à toute époque, procéder à l'inventaire et arrêter la situation du compte. 
+
+Le fabricant est tenu, à cet effet, de fournir les échantillons dans les conditions fixées à l'article 516 du code général
+des impôts. 
+
+Si la vérification fait ressortir un excédent ou un manquant, l'excédent est ajouté aux charges et le manquant est porté en
+décharge. Si l'excédent ou le manquant dépasse 1 % des quantités prises en charge depuis le dernier inventaire, et sauf
+justifications probantes fournies par l'industriel, il est réputé provenir des manoeuvres irrégulières et il est établi un
+procès-verbal en vue de l'application des pénalités encourues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 V (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 W (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 516 (V)
+
+
+###### Article 178 R
+
+Les industriels qui déterpènent ou rectifient des essences d'anis, de badiane ou de fenouil pour obtenir des produits dont le
+point de congélation est inférieur à vingt degrés centigrades peuvent obtenir décharge des déchets de fabrication. Ces
+déchets sont fixés d'un commun accord avec les intéressés, compte tenu des points de congélation respectifs des essences de
+base et des produits achevés. A cet effet, les intéressés sont tenus de mentionner lesdits points de congélation sur le
+registre spécial prévu à l'article 178 M.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 M (V)
+
+
+###### Article 178 S
+
+Pour l'application des dispositions des articles 178 A à 178 R et 178 T à 178 AB, peut seulement être considéré comme anéthol
+le produit obtenu par l'épuration des essences de badiane, de fenouil et d'anis et dont le point de congélation est au moins
+égal à vingt degrés centésimaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 T (V)
+
+
+###### Article 178 T
+
+Les fabricants d'anéthol doivent inscrire sur le registre spécial visé à l'article 178 M, au fur et à mesure des arrivages,
+le poids et le degré de congélation des essences d'anis, de badiane ou de fenouil reçues du dehors et la référence au titre
+de mouvement qui a accompagné la marchandise. 
+
+Les mêmes indications doivent être portées sur le registre pour les essences obtenues sur place et destinées à être
+transformées en anéthol.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 M (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 S (V)
+
+
+###### Article 178 U
+
+Les fabricants sont comptables, en anéthol, des essences de badiane, de fenouil ou d'anis introduites ou fabriquées dans
+leurs établissements. 
+
+Le rendement minimal en anéthol des produits susvisés est fixé forfaitairement à 80 % pour la badiane, à 75 % pour le fenouil
+et à 72 % pour l'anis, avec tolérance de 2 % en moins pour tenir compte des incidents de fabrication et des pertes en
+magasin. 
+
+Tout manquant constaté, supérieur aux limites de cette tolérance, est réputé provenir de manoeuvres irrégulières et il est
+établi un procès verbal en vue de l'application des pénalités encourues. Toutefois, les déchets réels de fabrication peuvent,
+sur justification de l'industriel, être admis en décharge. 
+
+Les excédents de fabrication sont déclarés et pris en charge au compte visé à l'article 178 V.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 V (V)
+
+
+###### Article 178 V
+
+Il est tenu par le service, à l'égard des fabricants et sous les mêmes sanctions, un compte d'entrées et de sorties d'anéthol
+analogue à celui prévu à l'article 178 O. Ce compte peut être arrêté à toute époque. Les fabricants doivent à la demande du
+service fournir les échantillons dans les conditions fixées à l'article 178 Q.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 Q (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 U (V)
+
+
+###### Article 178 W
+
+Les importateurs et les négociants en gros de produits visés à l'article 178 A, qui livrent lesdits produits d'achat aux
+industriels ou aux utilisateurs autorisés par l'article 178 D à les recevoir, sont tenus de souscrire la déclaration prévue à
+l'article 178 L. 
+
+Ils sont comptables des quantités reçues. 
+
+Ils sont tenus d'inscrire toutes leurs réceptions, leurs expéditions et les utilisations sur place sur le registre spécial
+visé à l'article 178 M. 
+
+Il est tenu aux intéressés, dans les conditions indiquées à l'article 178 O, un compte d'entrées et de sorties identique à
+celui tenu chez les fabricants. Ce compte est vérifié et réglé dans les conditions fixées à l'article 178 Q.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 L (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 M (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 Q (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 X (V)
+
+
+###### Article 178 X
+
+A l'exception des fabricants, des importateurs et des négociants en gros, respectivement visés aux articles 178 L et 178 W,
+peuvent seuls recevoir et détenir les produits énumérés à l'article 178 A, les utilisateurs visés à l'article 178 D. Ces
+utilisateurs sont tenus de souscrire la déclaration prévue à l'article 178 L.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 L (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 W (V)
+
+
+###### Article 178 Y
+
+Il est ouvert aux utilisateurs un compte d'entrée et de sortie par nature de produits. 
+
+Ce compte est chargé : 
+
+a. Des quantités existant dans l'usine lors de l'ouverture ou de la reprise des comptes ; 
+
+b. Des quantités reçues de l'extérieur ; 
+
+c. Des excédents constatés aux inventaires. 
+
+Il est déchargé : 
+
+a. Des quantités utilisées sur place et ayant fait l'objet de déclarations de mise en oeuvre ; 
+
+b. De celles additionnées de substances rendant les préparations à obtenir impropres à la consommation de bouche ; 
+
+c. De celles reconnues manquantes aux inventaires. 
+
+Le compte prévu au présent article est suivi et réglé dans les conditions indiquées aux articles 178 O et 178 Q.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 O (V)
+
+
+###### Article 178 Z
+
+Toute mise en oeuvre de produits visés à l'article 178 A doit être précédée d'une déclaration souscrite au moins une heure à
+l'avance et énonçant la nature et le poids des matières de base et la préparation à obtenir. 
+
+Les utilisateurs qui souscrivent tous les jours des déclarations de fabrication peuvent être autorisés à les consigner, dans
+les conditions fixées par le service, sur des registres fournis par eux et conformes au modèle agréé par l'administration.
+Ces registres sont préalablement cotés et paraphés par le chef de service local.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+
+
+##### II : Charbons activés et substances similaires.
+
+###### Article 179
+
+Sont soumis à la réglementation édictée par l'article 514 du code général des impôts les charbons activés tels qu'ils sont
+définis pour l'application du tarif douanier, ainsi que toutes les substances, quelle que soit leur composition ou leur
+dénomination, susceptibles de servir aux mêmes usages que les charbons activés.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 63 [1°] de la loi n° 2008-1443 du 30 décembre 2008.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 514
+
+	**Liens**:
+
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
+
+
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine
+
+##### Section I : Forme et apposition des poinçons
+
+###### Article 183
+
+Les poinçons utilisés tant par les fabricants ou importateurs que par le service de la garantie doivent être conformes aux
+modèles fixés par décret.
+
+Ils sont apposés sur les ouvrages dans les conditions que l'administration détermine.
+
+
+
+###### Article 184
+
+Les poinçons en usage dans les bureaux de garantie portent un signe caractéristique particulier, qui est déterminé par
+l'administration des monnaies. Ce signe est changé toutes les fois qu'il est nécessaire.
+
+
+
+##### Section III : Fonctionnement des bureaux de garantie
+
+###### Article 206
+
+Lorsque la contestation a été soulevée à tort par l'essayeur, les frais de transport sont à la charge de l'administration; au
+cas contraire, ils sont supportés par le propriétaire de l'objet.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
+
+
+###### Article 208
+
+Dans tous les cas, les cornets et boutons d'essai sont remis au propriétaire de la pièce.
+
+
+
+##### Section VI : Frappe des médailles
+
+###### Article 214
+
+Indépendamment des sanctions édictées par la réglementation en vigueur, toute contravention aux dispositions de l'article 213
+peut motiver le retrait de l'autorisation de frapper ou de faire frapper des médailles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 213 (V)
+
+
+#### Chapitre III bis : Régime économique du sucre.
+
+###### Article 219 B
+
+Les fabricants de sucre doivent souscrire chaque année une déclaration de commencement et de fin de fabrication au bureau de
+déclarations mentionné à l'article 219 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 219 A
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 D
+
+Dans chaque sucrerie ou sucrerie-raffinerie, le fabricant doit tenir journellement, pour chaque campagne sucrière, un compte
+général de fabrication. Toutes les quantités portées à ce compte sont exprimées en sucre blanc.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 E
+
+Dans chaque sucrerie, sucrerie-raffinerie ou entreprise au sens de la réglementation économique européenne, il est ouvert,
+pour chaque campagne sucrière, un compte économique. Toutes les quantités portées à ce compte sont exprimées en sucre blanc.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 F
+
+Un compte spécial est ouvert pour les sucres détenus en entrepôts ou magasins généraux. Toutes les quantités portées à ce
+compte sont exprimées en sucre blanc.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 H
+
+Les fabricants de sucre doivent installer, dans les conditions fixées par l'administration, tous moyens de pesage, de
+comptage et de mesurage des sucres et sirops. 
+
+Ils sont également tenus de fournir la main-d'oeuvre et les ustensiles nécessaires pour le pesage, le comptage et le mesurage
+des sucres et sirops lors des exercices, des recensements, des inventaires et autres contrôles de la production.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 I
+
+Pour chaque usine, les fabricants de sucre sont tenus de faire une déclaration des stocks de sucre qu'ils possèdent en
+magasins, silos ou entrepôts à la date du 15 septembre à 0 heure.
+
+Ils indiquent séparément :
+
+Les sucres fabriqués au cours des campagnes précédentes dont la commercialisation est libre ;
+
+Les sucres produits au-delà du quota maximum et non encore exportés ;
+
+Les sucres excédentaires de la campagne précédente reportés sur la nouvelle campagne.
+
+Cette déclaration doit être déposée avant le 20 septembre au bureau de déclarations dans le ressort duquel est située
+l'usine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 N
+
+Les dispositions prévues aux articles 219 A à 219 K sont applicables dans les départements d'outre-mer de la Martinique, de
+la Guadeloupe et de la Réunion, sous réserve des adaptations fixées par arrêté (1) pris après avis de chacun des conseils
+généraux intéressés.
+
+(1) Annexe IV, art. 56 A ter à 56 D ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 219 A à 219 K
+	  - CGIAN4 56 A ter à 56 D ter
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 O
+
+Les modalités d'application des articles 219 A à 219 K seront fixées, en tant que de besoin, par arrêtés conjoints du
+ministre de l'agriculture, du ministre de l'économie et des finances et, le cas échéant, du ministre chargé des départements
+et territoires d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 219 A à 219 K
+
+
 ### Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses
 
 #### Chapitre premier : Boissons
@@ -140,6 +7075,20 @@ immédiate du droit de consommation sur l'alcool ;
 ##### A : Production
 
 ##### II : Déduction spéciale accordée aux fabricants de mistelles.
+
+###### Article 119
+
+Les fabricants de mistelles désireux de bénéficier de la déduction spéciale doivent prendre la position d'entrepositaire.
+
+Le service des impôts peut exiger que les mistelles soient élaborées et conservées, jusqu'à complet achèvement, dans un local
+séparé par la voie publique de tous autres contenant des vins de liqueur ou spiritueux de toute nature.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
 
 ###### Article 120
 
@@ -174,6 +7123,996 @@ lois ou règlements :
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 122
+
+Le versement de l'alcool sur les vendanges ou sur les moûts doit être immédiatement suivi d'un brassage énergique.
+
+Les agents des impôts ont la faculté de prélever gratuitement des échantillons des vendanges et moûts mis en oeuvre, de
+l'alcool versé sur ceux-ci, des mistelles obtenues, ainsi que des lies de débourbage et des marcs résiduels.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### III : Fabrication des boissons de raisins secs.
+
+###### Article 125
+
+Huit jours au moins avant la mise en activité de leur usine, les fabricants de boissons de raisins secs doivent souscrire au
+bureau de déclarations de la direction générale des impôts une déclaration mentionnant :
+
+1° La description des locaux, ateliers, magasins et autres dépendances de l'établissement;
+
+2° L'indication précise et détaillée des différents procédés de fabrication employés;
+
+3° Le régime de l'usine quant aux jours et heures de travail;
+
+4° Le nombre et la capacité des cuves, tonneaux et autres vaisseaux de toute espèce devant être utilisés.
+
+A l'extérieur du bâtiment principal, les mots "fabrique de boissons de raisins secs" doivent être inscrits, en caractères
+apparents.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 127
+
+Il est défendu d'apporter aucune modification aux procédés de fabrication et aux jours et heures de travail déclarés en vertu
+de l'article 125, de changer, modifier ou altérer la contenance des vaisseaux ou d'en établir de nouveaux sans l'avoir
+déclaré au bureau de déclarations de la direction générale des impôts, vingt-quatre heures à l'avance.
+
+Le fabricant peut seulement faire usage desdits vaisseaux lorsque leur contenance a été vérifiée.
+
+Doivent faire une déclaration dans le même délai les fabricants qui veulent cesser définitivement ou suspendre leurs travaux.
+En cas de simple suspension, la reprise de la fabrication doit également être déclarée vingt-quatre heures d'avance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 125
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 131
+
+Toute introduction de raisins secs dans la fabrique doit être justifiée par la représentation d'un acquit-à-caution. 
+
+Toute introduction de matières premières, autres que les raisins, destinées à la fabrication de boissons alcooliques doit
+faire, une heure au moins à l'avance, l'objet d'une déclaration au bureau de déclarations de la direction générale des
+impôts. 
+
+Les quantités introduites sont, après vérification, prises en charge par les agents et emmagasinées dans un ou plusieurs
+locaux spécialement affectés à cet usage. 
+
+Le fabricant doit mettre à la disposition du service la main-d'oeuvre et les instruments nécessaires pour le pesage. 
+
+Les quantités dont l'introduction n'est pas justifiée conformément aux dispositions précédentes sont saisies par procès-
+verbal. 
+
+Les quantités de raisins secs et autres matières premières recélées dans la fabrique ou ailleurs sont considérées comme ayant
+été introduites en fraude.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 132
+
+Chaque fabrication est précédée d'une déclaration souscrite au bureau de déclarations de la direction générale des impôts
+quatre heures d'avance au moins dans les villes où il existe un poste d'agents à demeure, et douze heures dans les campagnes
+[*délai*].
+
+Elle indique si la fermentation doit s'opérer sur les raisins secs, ou isolément après soutirage du produit des trempes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 140
+
+Le compte de magasin des produits achevés est chargé :
+
+1° Des quantités qui, après leur achèvement, sont passées en décharge au compte général de fabrication;
+
+2° Des quantités de boissons de raisins secs provenant d'introductions;
+
+3° Des excédents reconnus dans les recensements.
+
+Les décharges comprennent les quantités expédiées en vertu de déclarations d'enlèvement faites au bureau de déclarations de
+la direction générale des impôts et les manquants.
+
+Aucune décharge ne peut être accordée au compte des produits achevés pour les quantités de boissons de raisins secs
+imparfaites ou avariées que les fabricants déclareraient vouloir remettre en fabrication, à moins que cette opération n'ait
+été préalablement autorisée par une décision spéciale de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 142
+
+Il est tenu, dans les fabriques de boissons de raisins secs, des comptes spéciaux de fabrication et de magasin pour les
+liquides alcooliques visés à l'article 401 du code général des impôts.
+
+La mise en oeuvre des matières premières et l'entonnement doivent être déclarés dans les délais fixés par l'article 132.
+
+Le compte de fabrication est chargé, au minimum, d'une quantité d'alcool correspondant à la richesse saccharine des matières
+mises en oeuvre, suivant une base d'évaluation déterminée de gré à gré par l'administration et le fabricant et, en cas de
+contestation, par la commission visée à l'article 343 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 401, 343
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 143
+
+Lorsque les fabricants travaillent d'une manière continue, et après déclaration faite au bureau de déclarations de la
+direction générale des impôts du nombre de jours pendant lesquels les opérations doivent se poursuivre sans interruption,
+l'administration peut, sur leur demande, et si elle le juge convenable, mettre à leur disposition des registres sur lesquels
+ils inscrivent eux-mêmes, dans les conditions de délai imparties, les déclarations prescrites aux articles 132 à 136.
+
+Les ampliations de ces déclarations doivent être immédiatement détachées et déposées dans une boîte dûment scellés par les
+agents.
+
+Les registres doivent être représentés au service à toute réquisition. L'administration a toujours la faculté de les retirer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 132
+	  - CGIAN3 133
+	  - CGIAN3 134
+	  - CGIAN3 135
+	  - CGIAN3 136
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### B : Régime économique
+
+##### I : Organisation de l'économie cidricole.
+
+###### Article 143 G
+
+Tout réceptionnaire de fruits à cidre ou à poiré, quelle que soit leur destination, doit tenir un registre spécial coté et
+paraphé par un agent des impôts, ou tout autre document agréé par l'administration. Ces documents portent, pour chaque
+opération :
+
+l'indication du nom et de l'adresse du vendeur, du tonnage livré, du prix pratiqué, du mode de règlement employé et
+l'émargement du vendeur. Le paiement par chèque dispense de cet émargement.
+
+Ces documents doivent être tenus à la disposition des agents des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 143 Z (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### C : Régime fiscal.
+
+###### Article 169
+
+Sont exemptées de toute formalité fiscale, la production, la circulation et l'utilisation des alcools méthyliques contenant
+au moins 5 % d'acétone et 3 % des impuretés pyrogénées qui leur donnent une odeur empyreumatique désagréable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 12 mai 1996
+	  - PEREMPTION: Loi n°95-1346 1995-12-30 art. 25-I Finances pour 1995, JORF 31 décembre 1995
+
+
+##### Section II : Vins et cidres
+
+##### B : Régime fiscal
+
+##### Admission en décharge des déchets résultant de la concentration par le froid.
+
+###### Article 172
+
+Quels que soient le lieu où elle est effectuée, la qualité de l'opérateur (viticulteur, cave coopérative ou négociant), les
+pourcentages d'enrichissement alcoolique des boissons et de réduction du volume initial de ces dernières, toute opération de
+congélation de vins, en vue de leur concentration partielle, doit être déclarée, au préalable, au bureau de déclarations de
+la direction générale des impôts dont dépend l'atelier de concentration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 175
+
+A partir du moment où la déclaration de concentration a été souscrite et jusqu'à l'expiration d'un délai de quinze jours
+compté de la date de cessation des travaux, le préparateur est soumis, dans ses ateliers, magasins, caves et celliers, aux
+vérifications des agents des impôts et du service de la répression des fraudes. Il est tenu de leur représenter tous les vins
+en instance ou en cours de traitement, ou déjà traités, existant en sa possession. Les agents peuvent prélever gratuitement
+des échantillons de ces vins.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 176
+
+Les concentrateurs munis d'une autorisation personnelle accordée par le service des impôts peuvent être dispensés de
+souscrire la déclaration prévue à l'article 172, à condition de consigner, avant toute fabrication, les éléments de cette
+déclaration sur un registre fourni par eux, coté et paraphé par le chef de service local des impôts. Ce registre doit être
+représenté à toute réquisition des agents des impôts ou du service de la répression des fraudes. L'autorisation prévue au
+présent article peut être retirée en cas d'abus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 172
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### C : Attestation des comités interprofessionnels.
+
+###### Article 178 bis
+
+La délivrance des titres de mouvement justifiant la sortie des vins doux naturels à appellation d'origine contrôlée des chais
+des récoltants est subordonnée à la production préalable d'un certificat, établi par le comité interprofessionnel des vins
+doux naturels et vins de liqueur à appellation d'origine contrôlée, constatant l'enregistrement des contrats.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°93-1340 du 27 décembre 1993 - art. 1 (V) JORF 28 décembre 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-899 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### Section V : Régimes particuliers
+
+##### Réglementation des essences d'absinthe et produits assimilés ou susceptibles de les suppléer.
+
+###### Article 178 AA
+
+L'administration peut, sur la demande des fabricants, des importateurs, des négociants en gros ou des utilisateurs d'essence
+de badiane, d'anis, de fenouil, d'hysope ou d'anéthol, et après avis du service des laboratoires du ministère de l'économie
+et des finances, dispenser des formalités à la circulation prévues à l'article 178 F les essences additionnées de substances
+dénaturantes et les préparations composées destinées à la fabrication de confiserie, d'extraits alimentaires, de dentifrices,
+de produits de parfumerie et de toilette et d'autres produits similaires, dans lesquelles les essences visées ne constituent
+pas l'élément dominant ou sont additionnées de substances rendant la préparation impropre à la fabrication d'une boisson
+anisée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 178 F
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 AB
+
+Les pharmaciens d'officine sont tenus de déposer au bureau de déclarations de la direction générale des impôts, dès l'arrivée
+des chargements, les acquits-à-caution ayant accompagné les produits visés à l'article 178 A.
+
+Ils peuvent délivrer ces produits seulement aux conditions suivantes :
+
+1° Sous forme de préparations magistrales ou de préparations composées inscrites à la pharmacopée ou au formulaire national;
+
+2° En nature, dans les conditions fixées à l'article 641 du code de la santé publique.
+
+Les pharmaciens d'officine doivent tenir, sur un registre préalablement coté et paraphé par l'inspecteur de la pharmacie, un
+compte d'entrées et de sorties par nature de produits.
+
+Ce compte fait apparaître, d'une part :
+
+a  Les quantités existant dans l'officine lors de l'ouverture ou de la reprise du compte;
+
+b  Les quantités reçues de l'extérieur;
+
+c  Les excédents constatés aux inventaires;
+
+et, d'autre part :
+
+a  Les quantités utilisées sur place ou vendues en nature;
+
+b  Les quantités reconnues manquantes aux inventaires.
+
+Les quantités reçues et les utilisations qui ne donnent pas lieu à inscription à l'ordonnancier sont immédiatement portées au
+compte. Les utilisations et les ventes qui donnent lieu à inscription à l'ordonnancier peuvent n'être transcrites que mois
+par mois.
+
+Les inspecteurs de la pharmacie contrôlent l'utilisation qui est faite des essences, et éventuellement de l'anéthol, dans les
+officines et dans les établissements pharmaceutiques.
+
+Le ministre des affaires sociales informe le ministre de l'économie et des finances de tout abus constaté, en vue de
+permettre l'application, le cas échéant, des dispositions répressives prévues en la matière.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 178 A
+	  - Code de la santé publique 641
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 D (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 D
+
+Il est interdit à tout importateur ou fabricant de produits visés à l'article 178 A de procéder à la vente ou à l'offre à
+titre gratuit desdits produits à toute autre personne que les négociants en gros en faisant le commerce sous le contrôle du
+service des impôts, les fabricants de boissons ayant qualité d'entrepositaire vis-à-vis de ce service, les pharmaciens
+d'officine, les parfumeurs, les fabricants dont l'industrie comporte l'utilisation de telles substances et les négociants
+exportateurs directs.
+
+La revente de ces produits, en nature, sur le marché intérieur est interdite à ces catégories d'acheteurs, exception faite :
+
+1° Des négociants en gros visés ci-dessus, qui peuvent les céder uniquement aux personnes habilitées à les recevoir;
+
+2° Des pharmaciens d'officine sous les réserves indiquées à l'article 178 AB.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 178 A
+	  - CGIAN3 178 AB
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 W (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 X (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 E
+
+Dans les déclarations, sur les titres de mouvement et dans les écritures tenues par le service des impôts, les produits visés
+à l'article 178 A sont inscrits et suivis en poids. Les produits renfermant de l'alcool sont soumis à la réglementation des
+spiritueux et leur teneur globale en essences est exprimée en poids, par litre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 178 A
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 B (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 G
+
+Tout expéditeur de graines d'anis, de badiane et de fenouil, par quantités supérieures à 10 kg, est tenu de se munir au
+bureau de déclarations de la direction générale des impôts d'un laisser-passer indiquant le poids des produits expédiés et
+l'adresse du destinataire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 I (V)
+	  - Livre des procédures fiscales - art. R24-2 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 H
+
+Aucune quantité d'essence d'absinthe ou produits assimilés ne peut circuler autrement que dans des colis, caisses, boîtes ou
+récipients revêtus du plomb des contributions indirectes.
+
+L'intervention du service pour l'apposition des plombs sur les colis expédiés doit être réclamée par une déclaration faite au
+bureau de déclarations de la direction générale des impôts au moins quarante-huit heures à l'avance [*délai*].
+
+Aucune expédition ne peut être faite avant l'apposition des plombs.
+
+Le prix des plombs apposés est remboursé à l'administration par l'expéditeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 J
+
+Dès l'arrivée des chargements, les destinataires sont tenus de souscrire au bureau de déclarations de la direction générale
+des impôts une déclaration d'arrivée et de déposer les acquits-à-caution ayant accompagné les produits. Ils doivent conserver
+les colis intacts, et éventuellement sous plombs, jusqu'à la reconnaissance du service des impôts. Si, après le dépôt des
+acquits au bureau susvisé, le service ne s'est pas présenté dans les vingt-quatre ou les quarante-huit heures [*délai*],
+selon qu'il existe ou non un poste d'agents dans la localité, les destinataires peuvent disposer des produits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 L
+
+Toute personne qui veut se livrer à la fabrication ou à la transformation sous une forme quelconque des produits visés à
+l'article 178 A doit, huit jours au moins avant le commencement des travaux [*délai*], faire au bureau de déclarations de la
+direction générale des impôts une déclaration indiquant [*mentions*] :
+
+1° La situation de la fabrique et des locaux où sont emmagasinés les produits;
+
+2° Le régime de la fabrique quant aux jours et heures de travail;     3° Les espèces et quantités respectives desdits
+produits en sa possession;
+
+4° La nature, la capacité et le numéro de poinçonnement des alambics utilisés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 178 A
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 W (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 X (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 M
+
+Les fabricants d'essences d'absinthe ou de produits assimilés, d'hysope, de badiane, de fenouil et d'anis doivent inscrire
+sur un registre conforme au modèle agréé par le service des impôts et préalablement coté et paraphé par le chef de service
+local :
+
+1° La nature et le poids des matières premières introduites dans l'établissement ou obtenues sur place, avec éventuellement
+indication du nom de l'expéditeur et du titre de mouvement qui a accompagné la marchandise;
+
+2° Avant chaque distillation, la date et l'heure du commencement des travaux, la nature et le poids des matières premières
+mises en oeuvre;
+
+3° Dès le déchargement de l'alambic, et en tout cas, à la fin de chaque fabrication, la date et l'heure de la cessation des
+travaux, les espèces et quantités de produits obtenus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 N (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 R (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 T (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 W (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 O
+
+Il est tenu par le service des impôts pour les fabricants un compte d'entrées et de sorties par nature de produits.
+
+Ce compte est chargé :
+
+a  Des quantités existant dans l'usine lors de l'ouverture ou de la reprise des comptes;
+
+b  Des quantités fabriquées sur place ou reçues de l'extérieur;
+
+c  Des excédents constatés aux inventaires.
+
+Ce compte est déchargé :
+
+a  Des quantités dont la remise en fabrication a été déclarée;
+
+b  Des quantités utilisées sur place à la préparation de boissons alcooliques, de produits alcooliques, alimentaires ou
+industriels;
+
+c  Des quantités enlevées à la fabrique sous couvert de titres de mouvement réguliers;
+
+d  Des quantités additionnées de substances rendant les préparations à obtenir impropres à la consommation de bouche;
+
+e  Des quantités reconnues manquantes aux inventaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 V (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 W (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 Y (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 178 P
+
+Les procédés de dénaturation doivent être agréés par la direction générale des impôts après avis du service des laboratoires
+du ministère de l'économie et des finances.
+
+Les produits additionnés de substances dénaturantes doivent être emmagasinés à part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### Section III : Régimes particuliers
+
+##### Charbons activés et substances similaires.
+
+###### Article 180
+
+La préparation, la réception, la détention, le commerce et l'emploi des substances visées à l'article 179 sont interdits à
+toute personne se livrant, à quelque titre que ce soit, à la fabrication ou au commerce des vins, cidres, vins de liqueur et
+spiritueux composés, à la fabrication, au repassage, au commerce et à l'emploi industriel des eaux-de-vie et alcools en
+nature ou dénaturés.
+
+En cas de nécessités industrielles dûment établies, des autorisations spéciales d'emploi des substances susvisées peuvent
+être accordées par le service des impôts, aux conditions de surveillance qu'il détermine dans chaque cas particulier. Les
+frais de contrôle sont mis à la charge des intéressés dans les conditions fixées par l'article 631 du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 179 CGI 631
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre II : Garantie des matières d'or, d'argent et de platine
+
+##### Section III : Fonctionnement des bureaux de garantie.
+
+###### Article 203
+
+Les ouvrages d'or et d'argent qui, sans être au-dessous du plus bas des titres fixés par la loi, ne sont pas exactement à
+l'un d'eux, sont marqués au titre légal immédiatement inférieur à celui trouvé par l'essai ou sont rompus si le propriétaire
+le préfère.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 204
+
+En cas de contestation sur le titre, il doit être fait une prise d'essai sur l'ouvrage pour être envoyée, sous les cachets du
+fabricant et de l'essayeur, au chef du service des laboratoires du ministère de l'économie et des finances qui le fait
+essayer.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 A (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 205
+
+Pendant ce temps, l'ouvrage présenté est laissé au bureau de garantie sous les cachets de l'essayeur et du fabricant, et,
+lorsque le laboratoire du ministère de l'économie et des finances a fait connaître les résultats de son essai, l'ouvrage est
+définitivement titré et, s'il y a lieu, marqué conformément à ce résultat.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 207
+
+Tout propriétaire d'un ouvrage d'or, de platine ou d'argent portant le poinçon de la garantie peut exercer une action contre
+le fabricant ou l'importateur si le titre réel ne correspond pas à celui indiqué par le poinçon. En cas de doute, il peut
+demander au chef du service des laboratoires du ministère de l'économie et des finances un nouvel essai.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### Section IV : Obligations des redevables.
+
+###### Article 209
+
+Lorsqu'un fabricant meurt, son poinçon est remis, dans les cinquante jours du décès [*délai*], au bureau de garantie dont il
+dépendait, pour y être biffé.
+
+Pendant ce temps, le dépositaire du poinçon est responsable de l'usage qui pourrait en être fait, comme le sont les
+fabricants en exercice.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre III : Droits divers
+
+##### Taxe spéciale sur les sucres et glucoses utilisés à la préparation d'apéritifs à base de vin ou de produits similaires.
+
+###### Article 215
+
+Toute personne désirant se livrer, à l'aide de sucres ou de glucoses, à la fabrication d'apéritifs à base de vin ou de
+produits similaires est tenue de faire, huit jours avant le début de ses opérations, une déclaration indiquant la nature
+ainsi que la dénomination commerciale du produit à fabriquer et présentant la description du local dans lequel seront
+emmagasinés les sucres et glucoses.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 216
+
+Les sucres et glucoses destinés à des fabricants d'apéritifs à base de vin ou de produits similaires doivent parvenir en
+vertu d'acquits-à-caution. Ils sont suivis à un compte tenu par le fabricant lui-même, sans blancs ni ratures, sur un
+registre coté et paraphé par le service des Impôts.
+
+A ce compte sont inscrits, au fur et à mesure des opérations :
+
+1° Aux entrées :
+
+Les quantités de sucres ou de glucoses en la possession des fabricants au moment où ils effectuent la déclaration prévue à
+l'article 215 ;
+
+Les réceptions ultérieures avec l'analyse des titres de mouvement ;
+
+Les excédents constatés lors des inventaires.
+
+2° Aux sorties :
+
+Les quantités passibles de la taxe spéciale visée à l'article 563 du code général des impôts, dont la mise en oeuvre est
+déclarée dans les formes prévues à l'article 218 ;
+
+Les quantités employées à d'autres usages avec le détail de chaque affectation ;
+
+Les manquants constatés lors des inventaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 563
+	  - CGIAN3 215
+	  - CGIAN3 218
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 217
+
+Les agents des impôts peuvent, à toute époque, arrêter le compte et procéder à l'inventaire des quantités existant en
+magasin. Les fabricants sont tenus de mettre à leur disposition les ustensiles et le personnel nécessaires pour cette
+opération et de leur déclarer l'importance des restes.
+
+Les excédents sont ajoutés aux charges et saisis par procès-verbal ; quant aux manquants, ils sont portés en sortie et soumis
+au paiement de la taxe spéciale prévue à l'article 563 du code général des impôts. Toutefois, l'administration peut accorder
+décharge des quantités dont la perte est réguliérement justifiée ou qui ne dépasse pas 1 % des réceptions depuis le précédent
+inventaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 563
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 218
+
+Toute fabrication d'apéritifs à base de vin ou de produits similaires à l'aide de sucres ou de glucoses doit être précédée
+d'une déclaration souscrite vingt-quatre heures à l'avance dans les localités où existe un service des impôts, et soixante-
+douze heures à l'avance partout ailleurs. La déclaration indique l'heure à laquelle doit avoir lieu l'opération, la nature,
+la dénomination commerciale, le volume de la boisson à obtenir ainsi que la quantité d'alcool pur contenue dans cette
+boisson, enfin, le poids de sucre ou de glucose à mettre en oeuvre. Elle peut être contrôlée par les agents des impôts,
+auxquels les contribuables doivent fournir les instruments de pesage nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 219
+
+La taxe spéciale sur les sucres et glucoses utilisés à la préparation des apéritifs à base de vin ou de produits similaires
+est exigible au moment même de l'emploi. Elle peut être acquittée au moyen d'obligations cautionnées dans les conditions
+déterminées par l'article 1698 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1698
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre III bis : Régime économique du sucre.
+
+###### Article 219 A
+
+Les fabricants de sucre sont tenus de souscrire au bureau de déclarations de la direction générale des impôts dans le ressort
+duquel est située la fabrique une déclaration présentant la description de celle-ci et indiquant le nombre et la capacité
+maximale des vaisseaux, silos et magasins de toute nature, destinés à contenir les sucres, sirops, mélasses et autres
+matières saccharines.
+
+En cas de transformation apportée à des usines existantes, une déclaration décrivant les nouvelles installations devra être
+déposée au plus tard quinze jours avant leur entrée en fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 219 K
+
+Les opérations de dénaturation des sucres sont placées sous la surveillance des agents des impôts. Elles doivent être
+déclarées au bureau de déclarations au moins quarante-huit heures à l'avance [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre IV : Monopoles
+
+##### Section II : Allumettes.
+
+###### Article 221 bis
+
+Le monopole d'importation en France métropolitaine est applicable aux allumettes originaires des pays non membres de la
+Communauté économique européenne [*CEE*] et en provenance soit de ces pays, soit des Etats membres de la communauté, sous
+réserve qu'elles n'y aient pas été mises en libre pratique.
+
+Il n'est pas opposable aux allumettes originaires et en provenance des Etats membres de la Communauté économique européenne
+ainsi qu'aux allumettes non originaires de ces Etats qui y ont été mises en libre pratique, sous réserve des dispositions qui
+seraient prises en application du traité instituant cette communauté et compte tenu du traité d'adhésion du 22 janvier 1972.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CEE Traité 1972-01-22
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 221 quater
+
+Les allumettes fabriquées ou importées en France métropolitaine doivent être contenues en nombre au plus égal à 1.000 dans
+des unités de conditionnement adaptées à leur usage, soit en boîtes, soit en pochettes.
+
+Sont considérées comme conditionnées sous forme d'une pochette les allumettes contenues dans une enveloppe unique de nature
+quelconque et obtenues par découpage partiel d'un ou plusieurs éléments de bois, de carton ou de toute autre matière.
+
+La distribution d'unités de conditionnement vides et munies d'un frottoir est interdite.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 221 quinquies
+
+Chaque unité de conditionnement doit porter de façon lisible les indications suivantes (1) :
+
+1) Pays d'origine des allumettes;
+
+2) Contenance moyenne en nombre d'allumettes par unité de conditionnement;
+
+3) a) Vente en France pour les produits vendus aux consommateurs;
+
+b) Distribution en France pour les produits distribués gracieusement aux consommateurs.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 221 ter
+
+La fabrication mentionnée à l'article 576 du code général des impôts s'entend des opérations suivantes effectuées en France
+métropolitaine :
+
+- Fabrication du mélange chimique constituant la tête de l'allumette;
+
+- Apposition de la tête sur la tige de l'allumette;
+
+- Remplissage des boîtes ou, plus généralement, constitution des unités de conditionnement autour des allumettes;
+
+- Apposition du frottoir sur l'unité de conditionnement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 576
+
+	**Abrogé par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 1 () JORF 20 décembre 1995
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 12 mai 1996
+
+
 ### Titre IV : Enregistrement, publicité foncière, timbre
 
 #### Chapitre premier : Droits d'enregistrement et taxe de publicité foncière
@@ -182,11 +8121,160 @@ lois ou règlements :
 
 ##### I : Des formalités
 
+##### A : Champ d'application respectif de la formalité de l'enregistrement et de la formalité fusionnée - Délais
+
+##### 1 : Actes et mutations soumis à la formalité de l'enregistrement. Actes publics et sous seings privés
+
+###### Article 245
+
+Les actes notariés dont la liste est fixée par arrêté du ministre de l'économie et des finances ainsi que les testaments
+olographes déposés en l'étude d'un notaire sont dispensés de la formalité de l'enregistrement sous les conditions indiquées
+audit arrêté (1). Le cas échéant les droits dus sur ces actes sont payés sur états suivant les modalités prévues aux articles
+263 et 384 bis A. 
+
+(1) Annexe IV, art. 60.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 248 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 263 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 384 bis A (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 60 (V)
+
+
+###### Article 246
+
+A l'exclusion des actes auxquels sont annexés des écrits en contravention aux lois d'enregistrement ou de timbre ou qui ont
+été rédigés en conséquence de tels écrits les exploits et autres actes du ministère des huissiers de justice sont dispensés
+de la formalité de l'enregistrement lorsqu'ils sont exonérés de tout droit d'enregistrement.
+
+
+
+###### Article 248
+
+Les dispositions des articles 245 et 246 ne sont pas applicables aux actes assujettis à la formalité fusionnée instituée par
+l'article 647 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 245 (V)
+	  - Code général des impôts, CGI. - art. 647 (V)
+
+
+##### 2 : Actes soumis à la formalité fusionnée de l'enregistrement et de la publicité foncière
+
+###### Article 249
+
+Les actes visés à l'article 647 du code général des impôts, pour lesquels il est impossible de procéder à la formalité
+fusionnée, sont : 
+
+1° Les actes portant sur des immeubles situés en totalité dans les départements de la Moselle, du Bas-Rhin ou du Haut-Rhin ; 
+
+2° Ceux qui ont fait l'objet d'un refus de publier et dont la régularisation ne peut être opérée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 260 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 647 (V)
+
+
+##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
+
+###### Article 250
+
+I. La formalité fusionnée n'est applicable aux actes portant sur des immeubles situés en partie dans les départements de la
+Moselle du Bas-Rhin et du Haut-Rhin que si leur rédacteur réside en dehors de ces trois départements.
+
+II. Les actes et conventions concernant des immeubles situés en totalité dans les départements de la Moselle du Bas-Rhin et
+du Haut-Rhin ou des droits portant sur ces immeubles sont assujettis en toute hypothèse à la formalité et aux droits
+d'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 267 (V)
+
+
 ##### B : Accomplissement des formalités
+
+##### 1 : Bureaux compétents
+
+##### a : Enregistrement
+
+###### Article 250 A
+
+La déclaration prévue à l'article 638 A du code général des impôts doit être déposée :
+
+S'il s'agit de la formation d'une société ou d'un groupement économique à l'une des recettes des impôts dans le ressort
+desquelles les biens apportés sont situés ou si ces biens n'ont pas une assiette matérielle fixe à la recette des impôts du
+siège social ou du domicile de l'un des apporteurs et à défaut de siège social ou de domicile en France auprès de celle
+désignée par l'administration (1).
+
+S'il s'agit des autres opérations visées audit article  à la recette des impôts dans le ressort de laquelle sont situés soit
+le siège statutaire  soit celui de la direction effective  soit le principal établissement de la société ou du groupement
+économique.
+
+(1) Annexe IV, art. 60 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 638 A
+	  - CGIAN4 60 A
+
+
+##### b : Formalité fusionnée
+
+###### Article 251
+
+Lorsqu'un acte concerne des immeubles ou droits immobiliers situés dans le ressort de plusieurs bureaux d'hypothèques  la
+formalité fusionnée est exécutée au bureau où la publicité est requise en premier lieu. Ce bureau est l'un quelconque des
+bureaux intéressés au choix du requérant ; il est indiqué dans chacune des expéditions présentées à la formalité.
+
+
 
 ##### 2 : Modalités d'exécution
 
 ##### a : Enregistrement
+
+###### Article 251 A
+
+I. La déclaration prévue à l'article 638 A du code général des impôts doit préciser la nature et la date de l'opération qui a
+été réalisée par une société ou un groupement d'intérêt économique sans avoir donné lieu à l'établissement d'un acte. 
+
+Lorsque l'opération comporte des apports cette déclaration doit en outre indiquer : 
+
+a. La désignation et le régime fiscal d'une part des apporteurs d'autre part de la société ou du groupement bénéficiaire des
+apports ; 
+
+b. La consistance et l'origine de propriété de ces apports ; 
+
+c. Leur caractère pur et simple ou à titre onéreux ; 
+
+d. La valeur réelle de chacun des éléments apportés et le cas échéant le montant du capital nominal créé. 
+
+II. Cette déclaration doit être produite par la société ou le groupement dans le mois de la réalisation des opérations en
+cause. 
+
+Son dépôt est accompagné du paiement des droits ou taxes exigibles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 638 A (V)
+
 
 ###### Article 252
 
@@ -228,9 +8316,232 @@ en conséquence de tels écrits;
 	  - Décret n°81-866 1981-09-15
 
 
+##### b : Formalité fusionnée
+
+###### Article 253
+
+I. La formalité fusionnée est exécutée au vu de deux expéditions intégrales de l'acte à publier  établies dans les conditions
+fixées par l'article 67-3 introduit dans le décret no 55-1350 du 14 octobre 1955 par l'article 12 du décret no 67-1252 du 22
+décembre 1967.
+
+II. Lorsqu'un acte concerne des immeubles ou droits immobiliers situés dans le ressort de plusieurs bureaux d'hypothèques  la
+formalité fusionnée est opérée au vu d'une expédition intégrale de l'acte et d'un extrait établi dans les conditions fixées
+par l'article 67-3 précité. Les dispositions de l'article 68-1 du décret no 55-1350 du 14 octobre 1955 sont applicables à la
+publicité requise dans les autres bureaux des hypothèques compétents; pour son exécution  les requérants disposent du délai
+supplémentaire global d'un mois prévu à l'article 33 du décret no 55-22 du 4 janvier 1955.
+
+Le bureau où la formalité fusionnée est exécutée perçoit la totalité des droits et taxes exigibles ainsi que  le cas échéant
+les pénalités de retard encourues. Il n'est dû  dans chacun des autres bureaux  que les salaires du conservateur des
+hypothèques.
+
+L'extrait d'acte visé à l'article 860 du code général des impôts est déposé en double exemplaire à la conservation où la
+formalité fusionnée est requise; un exemplaire supplémentaire est remis à chacune des autres conservations intéressées.
+
+III. Quand la formalité fusionnée est applicable à des actes portant sur des immeubles situés en partie dans les départements
+de la Moselle  du Bas-Rhin et du Haut-Rhin  elle est exécutée dans les conditions fixées au II, à la conservation ou à l'une
+des conservations compétentes qui perçoit la totalité des droits et taxes exigibles sur l'acte. Les dispositions du même
+paragraphe sont applicables à la publicité requise dans les autres bureaux des hypothèques en ce qui concerne les immeubles
+situés en dehors des trois départements visés ci-dessus.
+
+IV. Une réquisition de formalité fusionnée est obligatoire en cas de présentation à cette formalité d'actes qui y sont soumis
+facultativement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 860
+	  - Décret n°55-22 du 4 janvier 1955 - art. 33 (M)
+	  - Décret n°55-1350 1955-10-14 ART. 67 3, ART. 68 1
+	  - Décret n°67-1252 1967-12-22 ART. 12
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 254 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 256 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 257 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 254
+
+Pour l'exécution de la formalité fusionnée  les requérants doivent remettre au bureau  en même temps que les pièces visées à
+l'article 253, l'ensemble des documents dont le dépôt était prescrit en matière d'enregistrement et de publicité foncière au
+moment de l'entrée en vigueur du décret no 70-548 du 22 juin 1970. Ces documents sont aménagés  s'il y a lieu  suivant des
+modalités fixées par le directeur général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°70-548 1970-06-22
+
+
+###### Article 255
+
+L'extrait d'acte prévu à l'article 860 du code général des impôts est complété par un projet de liquidation détaillée des
+droits exigibles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 860
+
+
+###### Article 256
+
+Les pièces visées aux articles 253 et 254 et l'extrait d'acte prévu à l'article 860 du code général des impôts peuvent être :
+
+soit remis au bureau compétent ;
+
+soit adressés directement audit bureau par pli postal ordinaire ou recommandé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 860
+	  - CGIAN3 253, 254
+
+
+###### Article 257
+
+La formalité est refusée : 
+
+dans les cas où une telle sanction est prévue par la réglementation en vigueur en matière de publicité foncière ou
+d'enregistrement ; 
+
+en cas d'inobservation des dispositions des articles 253,254 et 255.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 253 (V)
+
+
+###### Article 258
+
+Malgré la notification d'une cause de rejet de la formalité l'acte est réputé enregistré à la date du dépôt et les droits
+sont perçus en conséquence. La publication de l'acte  après régularisation  ne donne pas lieu au versement d'une nouvelle
+taxe.
+
+
+
+###### Article 259
+
+Pour l'exécution de la formalité fusionnée  les conservateurs des hypothèques disposent de la totalité des pouvoirs confiés
+par la loi aux receveurs des impôts.
+
+
+
+##### c : Interdictions.
+
+###### Article 260
+
+Sous réserve des dispositions du 2° de l'article 249 il est fait défense aux receveurs des impôts d'enregistrer les actes
+obligatoirement soumis à la formalité fusionnée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 249 2°
+
+
+##### II : Des impositions
+
+##### Assiette et liquidation
+
+###### Article 263
+
+Sur chaque acte non exempt d'impôt  entrant dans le champ d'application de l'article 245, il est porté la mention suivante  à
+la diligence du notaire :
+
+"Droits d'enregistrement sur état ... F (montant global des droits en chiffres)".
+
+Cette mention peut être apposée en tout ou en partie au moyen d'une griffe ; elle est reproduite sur toutes les expéditions
+ou copies de l'acte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 245
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 245 (V)
+
+
 ##### Section II : Les tarifs et leur application
 
 ##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles
+
+##### 2 : Opérations concourant à la production ou à la livraison d'immeubles
+
+###### Article 266 bis
+
+I. Au plus tard dans les trois mois qui suivent l'expiration du délai de quatre ans visé au II de l'article 691 du code
+général des impôts l'acquéreur doit produire un certificat du maire de la commune de la situation des biens attestant que les
+immeubles créés achevés ou construits en surélévation sont en situation d'être habités ou utilisés dans toutes leurs parties.
+Le certificat précise si les immeubles sont ou non affectés à l'habitation pour les trois quarts au moins de leur superficie
+totale. Il mentionne en outre la date de délivrance du permis de construire la date d'achèvement des travaux et la date de
+délivrance du certificat de conformité.
+
+II. Lorsque le terrain acquis est destiné à la construction d'une maison individuelle et que sa superficie excède 2.500
+mètres carrés l'exonération prévue à l'article 691 du code général des impôts s'applique à une fraction du prix d'acquisition
+égale au rapport existant entre 2.500 mètres carrés et la superficie totale du terrain.
+
+En cas d'acquisition d'un terrain destiné à la construction d'un ensemble de maisons individuelles la limite de 2.500 mètres
+carrés prévue ci-dessus s'applique à chaque maison.
+
+III. Le directeur des impôts du lieu de la situation des immeubles est autorisé à proroger le délai de quatre ans prévu à
+l'article 691 du code général des impôts. La demande de prorogation doit être formulée au plus tard dans le mois qui suit
+l'expiration du délai précédemment imparti.
+
+Lorsqu'il s'agit de la construction d'ensembles à réaliser progressivement par tranches successives  cette prorogation est
+accordée après avis du directeur des services départementaux du ministère de l'équipement et du logement.
+
+Dans les autres cas  la demande de prorogation doit être motivée et énoncer le délai supplémentaire normalement nécessaire à
+la bonne fin des travaux entrepris. La durée de la prorogation susceptible d'être accordée ne peut excéder un an. Elle peut
+être renouvelée dans les mêmes conditions.
+
+Lorsque la prorogation a été accordée  le certificat prévu au I doit être fourni dans les trois mois qui suivent l'expiration
+du délai finalement imparti pour la construction.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 691 II
+
+
+##### 2 bis : Régimes spéciaux institués en faveur de l'agriculture.
+
+###### Article 266 quinquies
+
+Toutefois  pour l'application des dispositions des articles 266 ter et 266 quater aux groupements agricoles d'exploitation en
+commun la surface minimum d'installation et la surface minimale visée à l'article 266 ter sont appréciées en fonction de la
+surface totale mise en valeur par le groupement divisée par le nombre de chefs d'exploitation du groupement au sens de
+l'article 28 du décret n° 64-1193 du 3 décembre 1964.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 266 quater
+	  - CGIAN3 266 ter
+	  - Décret n°64-1193 du 3 décembre 1964 - art. 28 (Ab)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
 
 ##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin
 
@@ -260,11 +8571,4459 @@ II. (Devenu sans objet).
 	  - Loi n°77-1468 du 30 décembre 1977 - art. 1 (V) JORF 31 décembre 1977
 
 
+##### II : Mutations à titre gratuit
+
+##### A : Assiette des droits - Dispositions spéciales aux successions - Règles d'évaluation
+
+##### 1° : Biens sinistrés.
+
+###### Article 268
+
+Les biens visés à l'article 765 du code général des impôts et mentionnés provisoirement pour mémoire dans les déclarations de
+successions en vertu des dispositions de l'article 646 dudit code s'entendent des immeubles  fonds de commerce et meubles
+corporels qui ont été sinistrés par faits de guerre au sens des articles 2, 6 et 7 de la loi n° 46-2389 du 28 octobre 1946,
+modifiée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 765, 646
+	  - Loi n°46-2389 1946-10-28 art. 2, art. 6, art. 7
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 269
+
+Sont régies par les dispositions de la présente section les successions dont dépendent des biens sinistrés au sens de
+l'article 268, ouvertes au cours de la période comprise entre la date du 1er septembre 1939 et suivant le cas :
+
+Celle de l'achèvement  de la reconstruction ou de la reconstitution desdits biens s'ils donnent droit à réparation ;
+
+Celle du paiement aux ayants droit de l'indemnité d'éviction prévue à l'article 19 de la loi n° 46-2389 du 28 octobre 1946 ;
+
+Celle  enfin  de l'entrée en vigueur du décret n° 52-972 du 30 juillet 1952, si les biens ne sont pas indemnisables au titre
+de la législation des dommages de guerre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 268
+	  - Décret n°52-972 1952-07-30
+	  - Loi n°46-2389 1946-10-28 art. 19
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 270
+
+Pour la perception des droits de mutation par décès  les biens ou éléments des biens visés à l'article 765 du code général
+des impôts et dépendant des successions visées à l'article 269 sont évalués dans les conditions fixées par les articles 271 à
+276 ou par l'article 277, suivant qu'ils ouvrent droit à réparation ou qu'ils ne sont pas en mesure  au contraire  de
+bénéficier de la législation relative à la réparation des dommages de guerre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 765
+	  - CGIAN3 269, 271, 272, 273, 274, 275, 276, 277
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 271
+
+Les biens sinistrés ouvrant droit à réparation peuvent être évalués au choix des intéressés :
+
+soit en raison de leur valeur vénale à la date de l'ouverture de la succession et d'après l'état où ils se trouvaient
+immédiatement avant le sinistre ;
+
+soit en ajoutant à la valeur des éléments résiduels de ces biens appréciée à la date de l'ouverture de la succession celle de
+la créance pour réparation des dommages de guerre attachée à ces éléments ou substituée aux biens entièrement détruits et
+déterminée dans les conditions prévues à l'article 272.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 272
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 272
+
+Par dérogation aux dispositions de l'article 760 du code général des impôts  la valeur imposable de la créance visée à
+l'article 271, dernier alinéa  représente une fraction de l'indemnité allouée au titre de la réparation des dommages de
+guerre par les services du ministère de l'équipement et du logement et liquidée à la date de l'ouverture de la succession en
+faisant application  s'il y a lieu des coefficients d'adaptation départementaux utilisés pour revaloriser le coût de la
+reconstruction ou de la reconstitution des biens sinistrés en fonction de l'évolution des prix depuis l'époque de sa
+détermination.
+
+Il est fait abstraction  pour ce calcul  des dispositions de l'article 27 de la loi n° 46-2389 du 28 octobre 1946.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 760
+	  - CGIAN3 271
+	  - Loi n°46-2389 1946-10-28 art. 27
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+
+###### Article 273
+
+1. Sous réserve des dérogations énumérées au 2, la fraction soumise à l'impôt de l'indemnité visée à l'article 272 est fixée
+à :
+
+25 % lorsque les biens sinistrés sont situés dans une commune de plus de 100.000 habitants ;
+
+20 % lorsque les biens sinistrés sont situés dans une commune dont la population est comprise entre 5.000 et 100.000
+habitants ;
+
+15 % lorsque les biens sinistrés sont situés dans une commune dont la population n'excède pas 5.000 habitants.
+
+Toutefois  si les biens sinistrés constituaient  avant le sinistre des éléments d'une exploitation industrielle  commerciale
+artisanale ou professionnelle  la fraction ainsi déterminée de l'indemnité pour réparation de dommages de guerre est majorée
+de 5 %. Si cette utilisation n'était que partielle  cette majoration est opérée dans une proportion correspondante.
+
+2. Par dérogation aux dispositions du 1 :
+
+D'une part  la fraction imposable de l'indemnité est fixée à 15 % lorsque les biens sinistrés constituent des éléments d'une
+exploitation agricole autres que les cultures et peuplements pluriannuels visés à l'article 23 modifié de la loi n° 46-2389
+du 28 octobre 1946, pour lesquels cette fraction est fixée à 50 %.
+
+D'autre part  il est fait totalement abstraction de l'indemnité de reconstitution dans la mesure où elle concerne des biens
+meubles d'usage courant et familial.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 272
+	  - Loi n°46-2389 1946-10-28 art. 23
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 274
+
+Lorsque les biens visés à l'article 268 proviennent à la personne décédée d'une acquisition ayant porté à la fois sur ces
+biens et sur les droits à indemnité y afférents  la valeur imposable desdits biens déterminée dans les conditions fixées par
+les articles 271 à 273, ne peut pas être inférieure au prix d'acquisition versé par le défunt ou ses ayants cause.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 268, 271 à 273
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 275
+
+Lorsque les dommages subis ne donnent droit qu'à l'indemnité d'éviction prévue à l'article 19 de la loi n° 46-2389 du 28
+octobre 1946, les biens sinistrés sont évalués  pour la perception des droits de mutation par décès  en ajoutant  à la valeur
+vénale à la date de l'ouverture de la succession de leurs éléments résiduels  la valeur de reprise par le Trésor  pour
+l'acquit de ces droits  des titres nominatifs remis en paiement de ladite indemnité. Cette valeur de reprise est appréciée
+dans les conditions fixées par l'article 1er (alinéa 2) de la loi n° 48-1313 du 26 août 1948, modifié par l'article 44 de la
+loi n° 51-650 du 24 mai 1951, soit au jour où s'est produit le décès  soit à la date de la décision attributive de
+l'indemnité  si cette décision est postérieure à l'ouverture de la succession.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-2389 1946-10-28 art. 19
+	  - Loi n°48-1313 1948-08-26 art. 1
+	  - Loi n°51-650 1951-05-24 art. 44
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 276
+
+Sous réserve de ce qui est dit aux articles 271 à 273 et 275, l'indemnité ou le droit à indemnité de dommages de guerre est
+exonéré des droits de mutation par décès. L'impôt qui a été perçu sur les sommes encaissées de son vivant par le défunt à
+titre d'acomptes sur l'indemnité s'impute éventuellement sur la taxation des biens dépendant de sa succession  telle qu'elle
+est faite en exécution des dispositions de la présente section.
+
+Toutefois lorsque au jour de l'ouverture de la succession les biens ou éléments des biens visés à l'article 268 ont fait
+l'objet d'une reconstitution partielle le montant des dépenses exposées à cette fin par le défunt est réintégré dans l'actif
+successoral dans la mesure où il excède les acomptes à valoir sur l'indemnité de reconstitution perçus par l'intéressé sauf
+déduction éventuellement du passif correspondant auxdites dépenses.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 271 à 273, 275, 268
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 277
+
+Les biens ou éléments de biens détruits ou endommagés par faits de guerre qui ne donnent pas droit à réparation sont évalués
+pour la perception des droits de mutation par décès  suivant les règles du droit commun applicables à la date de l'ouverture
+de la succession et d'après leur état à la même date.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 278
+
+1. La déclaration complémentaire prévue à l'article 646 du code général des impôts doit être souscrite et les droits
+exigibles doivent être acquittés dans les six mois suivant la date d'entrée en vigueur du décret n° 52-972 du 30 juillet
+1952.
+
+Cependant  les sinistrés ou leurs ayants droit disposent d'un délai supplémentaire expirant au terme d'une période de six
+mois à compter du jour où il aura été statué sur leur demande d'indemnisation  en ce qui concerne les biens détruits ou
+endommagés par faits de guerre ouvrant droit à réparation pour lesquels une décision n'a pas encore été prise au moment de
+l'intervention du décret susvisé du 30 juillet 1952.
+
+2. En toute hypothèse  lorsque les dispositions de la loi n° 46-2389 du 28 octobre 1946 ont été reconnues applicables au
+sinistré ou à ses ayants droit et que la totalité de l'indemnité ne leur a pas été versée avant l'expiration des délais
+prévus à l'alinéa précédent les droits afférents aux biens ou éléments de biens donnant lieu à indemnisation ne deviennent
+exigibles que dans les six mois à compter du paiement du solde de l'indemnité ou le cas échéant dans les six mois de la
+délivrance des titres remis en paiement du solde de l'indemnité.
+
+3. Si le règlement de l'indemnité se fait par remise de titres ceux-ci peuvent être donnés en paiement de la totalité des
+droits simples exigibles. La valeur de reprise de ces titres est appréciée dans les conditions fixées par un arrêté du
+ministre des finances et des affaires économiques et du ministre du budget (1).
+
+4. Par dérogation aux dispositions des 1 et 2, en cas de cession à titre onéreux ou à titre gratuit des biens sinistrés et
+des droits à indemnité qui y sont attachés la déclaration afférente à ces biens et droits doit être souscrite et l'impôt
+correspondant acquitté dans les six mois de la cession.
+
+(1) Annexe IV, art. 198 ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 646
+	  - CGIAN4 198 ter
+	  - Décret n°52-972 1952-07-30
+	  - Loi n°46-2389 1946-10-28
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 279
+
+Les dispositions de la présente section sont applicables aux donations entre vifs de biens détruits ou endommagés par faits
+de guerre ouvrant droit à réparation ainsi que des droits à indemnité y attachés qui ont été ou seront réalisées dans les
+délais visés à l'article 269 en ce qui concerne les successions. Toutefois ces délais sont comptés à partir de l'entrée en
+vigueur de la loi du 14 mars 1942, relative au régime fiscal des donations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 269
+	  - Loi n°1942-03-14
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+##### 2° : Biens frappés d'indisponibilité hors de France
+
+###### Article 280
+
+I. Les titres  sommes  valeurs ou avoirs quelconques dépendant d'une succession et frappés d'indisponibilité hors de France
+par suite de mesures prises par un Gouvernement étranger sont portés pour mémoire dans la déclaration souscrite en vue de la
+perception des droits de mutation par décès.
+
+II. Les biens visés au I font l'objet d'une déclaration complémentaire qui doit être souscrite dans le délai de neuf mois à
+compter de la date à laquelle lesdits biens ou leur représentation sont devenus disponibles ou ont fait l'objet d'une vente
+d'une cession ou d'un transfert volontaire ou forcé. Ils sont évalués à cette dernière date  abstraction faite des fruits
+intérêts dividendes ou autres produits échus postérieurement à l'ouverture de la succession.
+
+Les droits sont liquidés selon le tarif et d'après les règles applicables à la date d'ouverture de la succession et doivent
+être acquittés au moment du dépôt de la déclaration complémentaire.
+
+III. Lorsque les biens visés au I ou leur représentation ne deviennent disponibles ou ne font l'objet d'une vente  d'une
+cession ou d'un transfert que pour partie  les dispositions du II ne sont applicables qu'à concurrence de la fraction devenue
+ainsi disponible ou de celle vendue cédée ou transférée.
+
+
+
+##### Section III : Obligations diverses
+
+##### I : Obligations des officiers publics et ministériels
+
+##### Répertoire des notaires, huissiers et autorités administratives
+
+###### Article 282
+
+Sur le répertoire dont la tenue est prescrite par l'article 867 du code général des impôts les notaires et les huissiers de
+justice portent en regard des indications relatives à chaque acte dispensé de la formalité de l'enregistrement ou de la
+présentation matérielle à cette formalité et donnant lieu à paiement des droits sur état la mention " paiement sur état ",
+suivie du total des droits en chiffres. Toutefois le montant des droits est seul indiqué lorsque ceux-ci sont portés dans une
+colonne spéciale du répertoire intitulée " droits d'enregistrement sur état ".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 867 (V)
+
+
+###### Article 283
+
+Les huissiers de justice peuvent également tenir  en deux parties le répertoire visé à l'article 867 du code général des
+impôts :
+
+la première est réservée aux actes dispensés de la présentation matérielle à la formalité de l'enregistrement ;
+
+la seconde comprend les actes qui continuent à être soumis à la formalité de l'enregistrement à la recette des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 867
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 284 (VD)
+
+
+###### Article 284
+
+I. Les actes soumis à la formalité fusionnée sont portés sur le répertoire visé à l'article 867 du code général des impôts.
+Lorsqu'il est fait usage de la faculté prévue à l'article 283 qui précède ils sont portés sur la partie du répertoire visée
+au dernier alinéa dudit article.
+
+II. Sur ces documents la relation de la formalité fusionnée est constituée par sa date suivie de la lettre "C", abréviation
+des mots "conservation des hypothèques" ; la relation de l'enregistrement est constituée par la date de cette formalité
+suivie de la lettre "R", abréviation des mots "recette des impôts" ou "recette-conservation des hypothèques" suivant le cas.
+
+III. Les documents désignés au I ne sont plus soumis au visa périodique des receveurs des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 867
+	  - CGIAN3 283
+
+
+#### Chapitre II : Droits de timbre
+
+##### Section I : Droits de timbre proprement dits
+
+##### II : Timbre des effets de commerce
+
+##### *MODE DE PAIEMENT*
+
+###### Article 304
+
+Le droit de timbre exigible sur les effets négociables peut être acquitté  soit par l'emploi de machines à timbrer  soit par
+l'apposition de timbres mobiles  soit sur états  dans les conditions fixées par un arrêté du ministre de l'économie et des
+finances (1).
+
+(1) Annexe IV, art. 93 J à 93 L.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
+
+
+##### III : Timbre des quittances
+
+###### Article 308
+
+Le paiement sur états constitue le seul mode de paiement autorisé pour les droits afférents aux tickets de pari mutuel *PMU*.
+
+Les modalités d'application du présent article sont précisées par arrêté du ministre de l'économie et des finances (1).
+
+(1) Annexe IV, art. 99 à 101.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+##### IV : Timbre des contrats de transport
+
+##### A : Dispositions générales
+
+###### Article 313 F
+
+Le timbre des contrats de transport peut être payé :
+
+1° Par l'apposition de timbres mobiles lorsqu'il ne s'applique pas à des transports ferroviaires à des lettres de voiture
+internationales créées en France à des colis postaux ou à des transports autres que les expéditions en groupage assurés par
+la société nationale des chemins de fer français.
+
+2° Sur états lorsqu'il est dû sur :
+
+a. Les bulletins de bagages et les colis postaux par les compagnies de chemins de fer autres que la société nationale des
+chemins de fer français ;
+
+b. Les expéditions en groupage par les entrepreneurs de messageries et autres intermédiaires de transport ;
+
+c. Les transports routiers de marchandises.
+
+Les modalités d'application du présent article sont précisées par arrêté du ministre de l'économie et des finances (1).
+
+(1) Annexe IV, art. 113 à 121 A bis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 113 à 121 A bis
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+##### B : Règles particulières à la société nationale des chemins de fer francais
+
+##### 1° : Paiement à forfait.
+
+###### Article 313 G
+
+Les droits de timbre des contrats de transport autres que les expéditions en groupage à verser par la société nationale des
+chemins de fer français sont obligatoirement payés à forfait en application de l'article 933 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 933
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+##### 2° : Bulletins de dépôt de bagages
+
+###### Article 313 H
+
+Le taux unitaire moyen prévu par l'article 933 du code général des impôts  pour la détermination forfaitaire du montant des
+droits de timbre afférents aux bulletins de dépôt de bagages à verser au Trésor par la société nationale des chemins de fer
+français en application de l'article 927 dudit code  est fixé d'après les résultats d'une période d'épreuve choisie d'un
+commun accord entre le ministre de l'économie et des finances et la société nationale des chemins de fer français. Il est
+obtenu en divisant  par le nombre total des dépôts effectués volontairement ou d'office pendant cette période  le montant des
+droits de timbre exigibles pour la même période  le quotient étant obligatoirement arrondi au millième supérieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 933, 927
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 I
+
+La période d'épreuve ne peut être ni antérieure  ni postérieure de plus d'un an à la date de la demande de fixation ou de
+révision du taux unitaire moyen. Elle est  en principe  de deux mois entiers et consécutifs.
+
+Toutefois  en cas de difficulté sur le choix de ces deux mois elle peut comprendre deux mois entiers quelconques désignés
+l'un par le ministre de l'économie et des finances  l'autre par la société nationale des chemins de fer français.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 J
+
+Pour le calcul du taux moyen  les dépôts et les droits de timbre sont décomptés par les gares au vu du registre à souche
+constatant la prise en charge des colis déposés. Lorsqu'il s'agit de colis mis d'office en dépôt et pour lesquels il n'est
+pas délivré de bulletin au voyageur  ce bulletin doit être annulé et annexé au bulletin d'enregistrement de bagages
+correspondant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 313 K
+
+Le taux unitaire moyen est en principe fixé pour une période de cinq années.
+
+Toutefois il est revisé :
+
+1° D'office  en cas de changement de tarif ou de modification de l'assiette de l'impôt ;
+
+2° Sur demande expresse du ministre de l'économie et des finances ou de la société dans tous les autres cas.
+
+Le nouveau taux résultant de la révision est applicable à compter du premier jour du mois qui suit  soit la date d'entrée en
+vigueur à Paris des dispositions modifiant le tarif ou l'assiette de l'impôt soit la date de la demande de révision.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 L
+
+En cas de révision du taux moyen  la société est tenue de fournir au service des impôts  dans les trois mois de la demande
+qui lui en est faite  un état en double exemplaire indiquant distinctement  pour chaque gare et chaque mois de la période
+d'épreuve :
+
+1° Le nombre total des dépôts ;
+
+2° Le montant global des droits de timbre afférents aux bulletins de dépôt délivrés.
+
+Cet état  signé par le représentant qualifié de la société  est certifié conforme aux résultats de la comptabilité mensuelle.
+
+Le nouveau taux unitaire moyen est fixé  par décision du ministre de l'économie et des finances  dans les trois mois qui
+suivent le dépôt de cet état. Il est applicable rétroactivement à compter de la date prévue à l'article 313 K.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 K
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 M
+
+Le montant des droits à verser au Trésor par la société est déterminé en multipliant par le taux unitaire moyen le nombre
+total des dépôts. Il fait l'objet d'une liquidation pour chaque mois.
+
+Le nombre des dépôts servant de base à cette liquidation est décompté conformément aux prescriptions de l'article 313 J. A
+cet effet une colonne spéciale est ouverte dans les registres et documents de comptabilité de la société.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 J
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 N
+
+Les droits de timbre visés à l'article 313 M sont versés à la recette des impôts désignée par l'administration dans les
+derniers jours du deuxième mois qui suit celui dans lequel les droits ont été perçus ou auraient dû être perçus par la
+société.
+
+A l'appui de ce versement  la société produit un état signé par un de ses représentants qualifiés indiquant le nombre total
+de dépôts effectués pendant le mois y afférent  la quotité du taux unitaire moyen à appliquer et le produit total de l'impôt
+dû au Trésor.
+
+Cet état  certifié conforme aux résultats de la comptabilité mensuelle  est fourni en triple exemplaire. L'un de ces
+exemplaires est remis à la société  revêtu de l'acquit du service des impôts; les deux autres sont conservés à la recette.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 M
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+##### 3° : Récépissés et bulletins d'expédition
+
+###### Article 313 P
+
+Le taux unitaire moyen prévu par l'article 933 du code général des impôts  pour la détermination forfaitaire du montant des
+droits de timbre à verser au Trésor par la société nationale des chemins de fer français  en application des articles 928,
+935 et 938 du même code est fixé d'après les résultats d'une période d'épreuve choisie d'un commun accord entre le ministre
+de l'économie et des finances et la société nationale des chemins de fer français.
+
+Il est obtenu en divisant  par le nombre total des expéditions effectuées pendant cette période  le montant exact des droits
+de timbre y afférents  le quotient étant obligatoirement arrondi au millième supérieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 933, 928, 935, 938
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 313 Q
+
+Pour le calcul du taux unitaire moyen les expéditions et les droits de timbre sont décomptés :
+
+1° En cas de trafic intérieur ou en cas d'expéditions en provenance de l'intérieur et à destination de l'étranger  par les
+gares expéditrices ;
+
+2° En cas d'expéditions de l'étranger sur la France  par les gares destinataires ;
+
+3° En cas de transit international par les gares d'entrée en France lorsqu'il est établi des écritures du régime intérieur
+français et par les gares de sortie de France lorsqu'il est fait usage d'écritures directes internationales.
+
+Il est tenu compte de toutes les expéditions quelles qu'elles soient sans distinction entre celles qui donnent lieu à la
+délivrance d'un récépissé passible de l'impôt et celles pour lesquelles le récépissé est exempt de timbre.
+
+Toutefois  les expéditions comprenant plusieurs wagons et les expéditions contre remboursement ne sont comptées chacune que
+pour une unité.
+
+4° En cas d'expédition de colis postaux en provenance de l'extérieur  par la société nationale des chemins de fer français au
+vu des relevés mensuels et des états récapitulatifs dressés par elle pour le calcul de ses recettes d'après les feuilles de
+route établies par les administrations cédantes dans les conditions prévues par le règlement d'exécution de l'arrangement
+international concernant les colis postaux. Toutefois  pour les colis en transit à destination de la Corse  de la Guadeloupe
+de la Martinique  de la Guyane française et de la Réunion, les expéditions et les droits sont décomptés directement au vu des
+feuilles de route établies par les bureaux d'échange de sortie de la France continentale en vue de la transmission des colis
+à l'administration cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 313 R
+
+Les dispositions des articles 313 I, 313 K et 313 O sont applicables en matière de timbre de récépissés et de bulletins
+d'expéditions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 313 I, 313 K, 313 O
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 S
+
+En cas de révision du taux unitaire moyen la société est tenue de fournir au service des impôts dans les trois mois de la
+demande qui lui en est faite un état en double exemplaire indiquant distinctement pour chaque gare et chaque mois de la
+période d'épreuve :
+
+1° Le nombre total d'expéditions ;
+
+2° Le montant global des droits de timbre y afférent.
+
+Cet état signé par le représentant qualifié de la société  est totalisé et certifié conforme aux résultats de la comptabilité
+mensuelle.
+
+Le nouveau taux unitaire moyen est fixé par décision du ministre de l'économie et des finances  dans les trois mois qui
+suivent le dépôt de cet état. Il est applicable rétroactivement à compter de la date prévue à l'article 313 K.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 K
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 313 S bis
+
+Le montant des droits de timbre à verser au Trésor par la société est déterminé en multipliant par le taux unitaire moyen le
+nombre total d'expéditions. Il fait l'objet d'une liquidation distincte pour chaque mois.
+
+Le nombre des expéditions servant de base à cette liquidation est décompté conformément aux prescriptions de l'article 313 Q.
+A cet effet  une colonne spéciale est ouverte dans les registres et documents de comptabilité de la société.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 Q
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 T
+
+Les droits de timbre visés à l'article 313 S bis sont acquittés à la recette des impôts désignée par l'administration dans
+les conditions suivantes :
+
+Un acompte provisionnel à valoir sur le produit de l'impôt afférent au mois à courir est versé par anticipation le premier de
+chaque mois. Cet acompte est calculé à raison de 85 % du montant total et définitif des droits payés par la société pour le
+mois correspondant de l'année précédente mais sous déduction des excédents de versements qui auraient été reconnus sur les
+mois antérieurs.
+
+Le solde est acquitté dans les soixante-quinze jours qui suivent l'expiration du mois auquel s'applique l'acompte
+provisionnel.
+
+A l'appui du versement pour solde  la société produit un état signé par un de ses représentants qualifiés  indiquant le
+nombre total d'expéditions effectuées pendant le mois y afférent  la quotité du taux unitaire moyen à appliquer  le produit
+total de l'impôt dû au Trésor  le montant de l'acompte provisionnel à déduire et le solde restant dû.
+
+Cet état  totalisé et certifié conforme aux résultats de la comptabilité mensuelle  est fourni en triple exemplaire. L'un de
+ces exemplaires est remis à la société  revêtu de l'acquit du service des impôts  les deux autres sont conservés à la
+recette.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 S bis
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 U
+
+Les dispositions qui précèdent ne s'appliquent pas aux récépissés spéciaux que doivent créer les entrepreneurs de messageries
+ou autres intermédiaires de transports en vertu de l'article 940 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 940
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 V
+
+Les récépissés et bulletins d'expédition pour lesquels les droits sont versés forfaitairement au Trésor restent dispensés de
+l'apposition matérielle du timbre. Mais ils doivent être revêtus en caractères très apparents de la mention imprimée
+suivante :
+
+"Droits de timbre perçus en compte avec le Trésor".
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+##### C : Règles spéciales aux transports par route.
+
+###### Article 313 AA
+
+Le droit de timbre applicable aux lettres de voiture et récépissés prévus à l'article 313 W peut être acquitté par l'emploi
+de machines à timbrer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 W
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 AB
+
+Le récépissé ou la lettre de voiture prévue à l'article 313 W couvre l'expédition jusqu'à la destination indiquée sur ce
+récépissé ou cette lettre de voiture  quel que soit le nombre de transporteurs qui interviennent successivement au cours du
+transport.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 W
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 313 AC
+
+Pour chaque expédition en provenance de l'étranger ou des territoires d'outre-mer et continuée en France il est créé par
+l'entrepreneur le commissionnaire ou l'intermédiaire de transports qui transporte prend en charge ou reçoit les colis à la
+frontière le récépissé prévu aux deuxième et troisième alinéas de l'article 313 W.
+
+L'exemplaire de ce récépissé destiné à l'expéditeur n'est pas créé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 W
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 313 AE
+
+Les personnes et entreprises visées au 1° de l'article 942 du code général des impôts s'entendent de celles qui assurent le
+transport ou la distribution de marchandises à l'intérieur d'une même commune ou dans les communes situées dans un périmètre
+de 20 kilomètres.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 942
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 AF
+
+Les entrepreneurs  commissionnaires et intermédiaires de transports sont tenus de souscrire une déclaration préalable
+d'existence au service des impôts de leur domicile ou de leur siège et  s'il y a lieu  au service des impôts de chacune des
+succursales agences ou dépôts.
+
+Pour les établissements existant au moment de l'entrée en vigueur du décret n° 50-512 du 9 mai 1950, la déclaration doit être
+souscrite dans les trois mois de cette entrée en vigueur.
+
+La déclaration contient :
+
+1° Les nom  prénoms du déclarant ou la raison sociale de l'établissement  s'il s'agit d'une société ;
+
+2° Le domicile ou le siège social de l'établissement ;
+
+3° La dénomination commerciale de l'établissement  s'il y a lieu ;
+
+4° La nature exacte de l'activité exercée;
+
+5° La date du commencement de l'exploitation ou de l'ouverture de la succursale  de l'agence ou du dépôt.
+
+Elle est certifiée  datée et signée par le chef de l'établissement ou en vertu de sa procuration.
+
+Les déclarations qui seront faites au siège des agences et succursales contiennent la désignation de l'établissement
+principal.
+
+En cas de changement de siège  soit de l'établissement principal soit d'une agence ou succursale  de même qu'en cas de
+création d'une agence ou d'une succursale nouvelle  les déclarations préalables en sont faites aux services et dans les
+formes ci-dessus déterminées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°50-512 1950-05-09
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 313 AH
+
+Les entreprises de transports qui  procédant à l'enlèvement de marchandises chez l'expéditeur  les entreposent dans des
+locaux d'où elles sont acheminées sur leur destination définitive  sont dispensées d'établir  au moment de l'enlèvement  le
+récépissé prévu à l'article 313 W. La création de ce document peut être différée jusqu'à la réexpédition des marchandises à
+la condition que la première phase du transport s'effectue dans les limites de la zone de camionnage dans laquelle ces
+entreprises exercent leur activité telle que cette zone est délimitée pour l'application de la réglementation relative aux
+transports routiers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 W
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 W
+
+Lorsqu'à l'occasion d'un transport public routier de marchandises il est établi par destinataire une lettre de voiture dans
+les conditions prévues à l'article 102 du code de commerce  un exemplaire de cette lettre de voiture doit être
+obligatoirement conservé par l'entrepreneur le commissionnaire ou l'intermédiaire de transports.
+
+A défaut de lettre de voiture les entrepreneurs intermédiaires ou commissionnaires de transports sont tenus de créer  pour
+chaque expédition un récépissé extrait d'un registre à souche.
+
+Ce registre énonce tant sur la souche que sur le récépissé  le nom et l'adresse de l'expéditeur la nature le poids et la
+désignation des objets transportés le nom et l'adresse du destinataire le montant et les modalités de paiement du prix du
+transport. Il mentionne en outre si l'expédition est grevée de remboursements.
+
+Les souches du registre sont numérotées; le numéro de la souche est reproduit sur le récépissé correspondant ainsi que sur le
+double établi en vertu de l'article 313 X. Les registres à souches sont numérotés eux-mêmes dans une série propre à chaque
+entreprise. Préalablement à toute utilisation  ils sont enregistrés sous leur numéro sur un carnet qui mentionne la date de
+leur mise en service. Une même expédition ne peut comprendre que le chargement d'un seul véhicule  à moins qu'il ne s'agisse
+d'envois indivisibles ou qu'il n'existe pour certains trafics des prescriptions particulières.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 X
+	  - Code de commerce 102
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 Z
+
+Lorsque l'expédition  confiée initialement à un entrepreneur de transports routiers  à un commissionnaire ou un intermédiaire
+de transports  doit être acheminée par chemin de fer  cet entrepreneur de transports routiers  ce commissionnaire ou cet
+intermédiaire de transports qui a reçu l'ordre d'expédition  dépose à la gare de départ  avec les autres pièces relatives au
+transport  l'exemplaire du récépissé ou le double de la lettre de voiture visés aux articles 313 X et 313 Y et qui doivent
+accompagner la marchandise jusqu'à destination.
+
+La gare de départ appose son timbre à date sur le document en question qu'elle adresse à la gare destinataire en même temps
+que la déclaration d'expédition  le bulletin d'expédition ou la lettre de voiture.
+
+Si le transport fait l'objet d'une opération de groupage régie par l'article 940 du code général des impôts  les exemplaires
+des récépissés ou les doubles des lettres de voiture visés aux articles 313 X et 313 Y sont déposés à la gare de départ en
+même temps que le bordereau détaillé créé en conformité avec les prescriptions dudit article 940, premier alinéa. La gare de
+départ appose son timbre à date sur les documents en question qu'elle adresse à la gare destinataire avec les autres pièces
+relatives à l'expédition collective. Dans cette hypothèse  l'entrepreneur  le commissionnaire ou l'intermédiaire auteur du
+groupage est dispensé de créer les récépissés spéciaux à chaque destinataire prévus au même article 940, deuxième alinéa  et
+d'acquitter l'impôt de timbre correspondant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 940
+	  - CGIAN3 313 X, 313 Y
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+##### D : Expéditions en groupage.
+
+###### Article 313 AI
+
+Pour les expéditions en groupage  l'utilisation de timbres mobiles est subordonnée à une autorisation obtenue dans les mêmes
+conditions que pour le paiement sur états (1).
+
+(1) Voir art. 405 H ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 405 H
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+##### Section II : Droits de délivrance de documents et perceptions diverses
+
+##### I : Cartes d'entrée dans les casinos.
+
+###### Article 313 AR
+
+Le droit de timbre exigible sur les cartes d'entrée dans les casinos est acquitté soit par l'emploi de machines à timbrer
+soit par l'apposition de timbres mobiles.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### II : Cartes d'identité et de séjour (1).
+
+###### Article 313 AS
+
+Le droit de timbre exigible sur les cartes d'identité visées à l'article 947 du code général des impôts peut être payé par
+l'apposition de timbres mobiles.
+
+(1) Voir art. 313 BG ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 947
+	  - CGIAN3 313 BG
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 31 () JORF 31 décembre 1999
+
+
+###### Article 313 AT
+
+Le droit de timbre exigible sur les cartes de séjour des étrangers et sur les cartes spéciales délivrées aux étrangers
+exerçant une profession ne peut être acquitté que par l'apposition de timbres mobiles.
+
+(1) Voir art. 313 BG ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 BG
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 31 () JORF 31 décembre 1999
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+##### IV : Droits d'inscription à certains examens
+
+###### Article 313 AV
+
+Les droits d'inscription aux examens pour lesquels un tel mode de paiement est prévu sont acquittés uniquement par apposition
+de timbres mobiles.
+
+
+
+##### V : Formalités administratives (1).
+
+###### Article 313 AW
+
+L'apposition de timbres mobiles constitue le seul mode de paiement admis pour tous les renouvellements d'autorisations  visas
+ou légalisations donnant ouverture au timbre.
+
+(1) Voir art. 313 BG ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 BG
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 313 AY
+
+Les taxes exigibles pour la délivrance des documents visés à l'article 960 du code général des impôts doivent être acquittées
+par l'apposition de timbres mobiles.
+
+(1) Voir art. 313 BG ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 960
+	  - CGIAN3 313 BG
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 31 () JORF 31 décembre 1999
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+##### VI : Navigation intérieure et navigation maritime de plaisance
+
+###### Article 313 AZ
+
+Les droits de timbre mentionnés à l'article 963 du code général des impôts sont payés uniquement par l'apposition de timbres
+mobiles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 963 (V)
+
+
+##### VII : Passeports et titres de voyage (1).
+
+###### Article 313 BA
+
+Le droit de timbre exigible sur les passeports et pièces assimilées visés aux articles 953 et 954 du code général des impôts
+ne peut être payé que par l'apposition de timbres mobiles. 
+
+(1) Voir art. 313 BG ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 22 décembre 2014 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 953 (V)
+
+
+##### IX : Véhicules à moteur
+
+##### Permis de conduire et certificats d'immatriculation (1).
+
+###### Article 313 BD
+
+Le droit exigible à l'occasion de la délivrance des documents visés à l'article 966 du code général des impôts doit être payé
+par apposition de timbres mobiles.
+
+(1) Voir art. 313 BG ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 966
+	  - CGIAN3 313 BG
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 31 () JORF 31 décembre 1999
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 BE
+
+I. Le droit d'examen pour l'obtention du permis de conduire est acquitté par l'apposition de timbres mobiles.
+
+II. La taxe exigible sur les permis de conduire est payée sur état au moyen de formules sans valeur fiscale revêtues de la
+mention "Taxe payée sur état".
+
+(1) Voir art. 313 BG ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 BG
+
+
+###### Article 313 BF
+
+Les droits et taxes exigibles sur les certificats d'immatriculation des véhicules à moteur  y compris ceux des séries W et
+WW, sont acquittés sur état  dans les conditions fixées par arrêté conjoint du ministre de l'économie et des finances et du
+ministre de l'intérieur (2).
+
+(1) Voir art. 313 BG ci-après.
+
+(2) Annexe IV, art. 198 sexies.
+
+
+
+##### X : Régies de recettes des préfectures et sous-préfectures
+
+###### Article 313 BG
+
+L'emploi des machines à timbrer est autorisé  dans les conditions fixées par arrêté du ministre de l'économie et des finances
+(1) pour le timbrage des documents donnant lieu à la perception des droits de timbre dans les régies de recettes des
+préfectures et sous-préfectures.
+
+(1) Annexe IV, art. 121 KA à 121 KL.
+
+
+
+##### XI : Formules de chèques
+
+###### Article 313 BG bis
+
+Le droit de timbre prévu par l'article 916 A du code général des impôts auquel sont soumises les formules de chèques ne
+répondant pas aux caractéristiques de barrement d'avance et de non-transmissibilité par voie d'endossement est acquitté sur
+la production d'états dans les conditions fixées par arrêté du ministre du budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 916 A (V)
+
+
+###### Article 313 BG ter
+
+La perception du droit de timbre est constatée par l'apposition très apparente, sur chaque formule de chèque qui y est
+soumise, de la mention "Droit de timbre payé sur état".
+
+
+
+##### Section III : Dispositions communes aux sections I et II
+
+###### Article 313 BH
+
+Sans préjudice des dispositions de l'article 313 BI les droits de timbre exigibles sur les écrits en provenance de l'étranger
+sont acquittés uniquement par l'apposition de timbres mobiles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BI (V)
+
+
+###### Article 313 BJ
+
+Toutes les fois qu'un document administratif ou un visa normalement soumis au droit de timbre sont délivrés gratuitement par
+l'autorité compétente, en vertu de textes édictant une immunité d'impôt en cette matière, le motif de la gratuité est
+expressément mentionné.
+
+A défaut de cette mention, l'écrit est considéré comme non timbré.
+
+
+
 ## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes
+
+### Titre premier : Impositions communales
+
+#### Chapitre premier : Impôts directs et taxes assimilées
+
+##### Section I : Taxes foncières sur les propriétés bâties et non bâties
+
+##### a : Exonérations temporaires
+
+##### 1° : Habitations à loyer modéré
+
+###### Article 314
+
+La demande d'exonération de taxe foncière sur les propriétés bâties, visée au II de l'article 1384 du code général des impôts
+doit être déposée à la mairie de la commune où seront effectués les travaux et indiquer la nature du bâtiment sa destination
+et la désignation d'après les documents cadastraux du terrain sur lequel il doit être construit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1384 (V)
+
+
+##### b : Lieu d'imposition
+
+##### Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts
+
+###### Article 317
+
+Pour chaque commune intéressée, l'importance des ouvrages définitifs de génie civil est estimée en prenant en considération
+les ouvrages ou parties d'ouvrages situés sur le territoire de la commune, et compte tenu du prix des terrains occupés par
+ces ouvrages ou parties d'ouvrages.
+
+En ce qui concerne les retenues, le total des éléments entrant en compte - importance du barrage, des ouvrages annexes et
+prix des terrains - est réparti uniformément sur la superficie totale constituée par la surface d'emprise du barrage et la
+surface globale des terrains submergés à la cote normale de retenue.
+
+La répartition entre les communes intéressées est faite proportionnellement à la partie du territoire de chacune d'elles
+occupée par le barrage et les ouvrages annexes, ou submergée par les eaux à la cote normale de retenue.
+
+
+
+###### Article 318
+
+La puissance hydraulique moyenne devenue indisponible est, pour chaque section des cours d'eau intéressés par l'aménagement,
+le produit du débit moyen prélevé par la dénivellation du cours d'eau dans la section considérée.
+
+Pour toute section de cours d'eau située entièrement sur le territoire d'une seule commune, le produit est compté à cette
+commune ; pour toute section de cours d'eau séparant deux communes, le produit est partagé par moitié entre ces deux
+communes.
+
+Pour chaque commune, la puissance hydraulique moyenne devenue indisponible est la somme de produits ou demi-produits qui lui
+sont comptés en application de l'alinéa précédent ; il n'est pas tenu compte de la puissance hydraulique moyenne devenue
+indisponible pour une commune lorsque le débit moyen prélevé est inférieur à 10 % du débit moyen annuel du cours d'eau sur la
+commune considérée.
+
+
+
+###### Article 319
+
+Le pourcentage fixant la répartition, entre les communes intéressées par l'aménagement, de la valeur locative visée à
+l'article 316, sera déterminé comme suit : 
+
+Un premier calcul des pourcentages a1, a2, a3..., a (n) sera effectué suivant les dispositions mentionnées aux articles 316
+et 317 en ce qui concerne le prix des terrains et l'importance des ouvrages définitifs de génie civil ; 
+
+Un deuxième calcul des pourcentages b1, b2, b3..., b (n) sera effectué proportionnellement à la puissance devenue
+indisponible dans chaque commune déterminée comme il est dit à l'article 318 ; 
+
+Le pourcentage final de répartition sera obtenu, pour chaque commune, par la formule : p = 0,5 (a + b).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 316 (V)
+	  - Code général des impôts, CGI. - art. 317 (V)
+
+
+###### Article 320
+
+Les pourcentages fixant la répartition de la valeur locative entre les communes intéressées sont, dans le mois qui suit la
+date de la mise en service, notifiés par l'ingénieur en chef du contrôle à la direction des services fiscaux du département
+dans lequel se trouve l'usine qui utilise la force motrice.
+
+Les pourcentages notifiés avant le 1er novembre d'une année sont retenus à partir de l'année suivante pour l'assiette de la
+taxe foncière sur les propriétés bâties. Il est également fait état de ces pourcentages pour établir les impositions dues au
+titre de l'année de la mise en service.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 (V)
+
+
+##### c : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation
+
+###### Article 321 E
+
+Les constructions nouvelles ainsi que les changements de consistance ou d'affectation des propriétés bâties et non bâties
+sont déclarés par les propriétaires sur des imprimés établis par l'administration conformément aux modèles fixés par le
+ministre de l'économie et des finances.
+
+
+
+###### Article 321 F
+
+Les déclarations de constructions nouvelles sont souscrites dans les conditions prévues à l'article 324 AI.
+
+Lorsqu'elles ont pour objet un changement de consistance ou d'affectation  les déclarations sont limitées à la partie de
+l'immeuble touchée par la modification.
+
+En cas de lotissement, le changement d'affectation est définitivement réalisé à la date de publication de l'arrêté
+préfectoral portant autorisation du lotissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 324 AI
+
+
+###### Article 321 G
+
+Les déclarations sont produites auprès du service des impôts du lieu de situation des biens.
+
+
+
+##### Section III bis : Règles d'évaluation de la valeur locative des biens imposables
+
+##### I : Dispositions communes à toutes les catégories de locaux
+
+###### Article 324 A
+
+Pour l'application de l'article 1494 du code général des impôts on entend : 
+
+1° Par propriété normalement destinée à une utilisation distincte : 
+
+a. En ce qui concerne les biens autres que les établissements industriels l'ensemble des sols terrains et bâtiments qui font
+partie du même groupement topographique et sont normalement destinés à être utilisés par un même occupant en raison de leur
+agencement ; 
+
+b. En ce qui concerne les établissements industriels l'ensemble des sols terrains bâtiments et installations qui concourent à
+une même exploitation et font partie du même groupement topographique. 
+
+2° Par fraction de propriété normalement destinée à une utilisation distincte lorsqu'ils sont situés dans un immeuble
+collectif ou un ensemble immobilier : 
+
+a. Le local normalement destiné à raison de son agencement à être utilisé par un même occupant ; 
+
+b. L'établissement industriel dont les éléments concourent à une même exploitation. 
+
+Est également considéré comme une fraction de propriété l'ensemble des sols terrains bâtiments et parties de bâtiment
+réservés à l'usage commun des occupants. L'immeuble collectif s'entend de toute propriété bâtie normalement aménagée pour
+recevoir au moins deux occupants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AI (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AL (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1494 (V)
+
+
+###### Article 324 B
+
+I. Pour l'application de l'article 1495 du code général des impôts, la date de l'évaluation s'entend du jour de clôture du
+procès-verbal des opérations de révision dans la commune. 
+
+II. Pour l'appréciation de la consistance il est tenu compte de tous les travaux équipements ou éléments d'équipement
+existant au jour de l'évaluation. 
+
+III. Lorsqu'une propriété ou un local a reçu plusieurs affectations principales chaque fraction est évaluée d'après son
+affectation particulière. 
+
+Toutefois un même élément affecté à plusieurs usages est évalué : 
+
+Selon les règles propres aux locaux commerciaux lorsqu'il est utilisé à la fois pour l'exercice d'une activité commerciale ou
+artisanale et pour un autre usage ; 
+
+Selon les règles propres aux locaux professionnels lorsqu'il est utilisé à la fois pour l'exercice d'une profession sans
+caractère agricole commercial artisanal ou industriel et pour l'habitation. 
+
+IV. Lorsqu'une propriété ou un local n'a reçu qu'une affectation principale un même élément utilisé à plusieurs usages est
+évalué suivant les règles propres à la partie principale de la propriété ou du local.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1495 (V)
+
+
+###### Article 324 C
+
+I. Sous réserve des dispositions du 1 du III de l'article 1496 III 1 du code général des impôts, les actes de location à
+retenir pour l'évaluation des propriétés ou fractions de propriétés visées aux articles 324 D à 324 AC s'entendent des baux
+écrits ou locations verbales en cours à la date de référence et conclus librement à des conditions de prix normales. 
+
+II. Le prix du loyer stipulé dans le bail écrit ou la location verbale est modifié en tant que de besoin pour tenir compte : 
+
+D'une part en diminution de la fraction de valeur locative afférente à des éléments non imposables à la taxe foncière des
+propriétés bâties et compris dans la location des charges incombant normalement au locataire et supportées par le
+propriétaire ainsi que des dépenses diverses payées par ce dernier lorsqu'elles sont la contrepartie de prestations fournies
+aux occupants ; 
+
+D'autre part en augmentation des dépenses qui incombent normalement au propriétaire et sont supportées par le locataire ainsi
+que de la plus-value résultant des travaux d'amélioration effectués par ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 D (V)
+	  - Code général des impôts, CGI. - art. 1496 (VT)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 Y (V)
+
+
+##### II : Locaux d'habitation et locaux à usage professionnel
+
+##### A : Décomposition de chaque propriété ou fraction de propriété
+
+###### Article 324 D
+
+I. Dans une propriété affectée à l'habitation ou à un usage professionnel et normalement destinée à une utilisation distincte
+on distingue :
+
+La maison ;
+
+Les dépendances bâties ;
+
+Les dépendances non bâties.
+
+II. La maison qui constitue la partie principale s'entend de l'ensemble des éléments situés à l'intérieur des gros murs du
+corps de bâtiment principal ou qui s'y trouvent reliés par une communication intérieure.
+
+III. Les dépendances bâties bâtiment principal sans communication intérieure avec celui-ci.
+
+IV. Les dépendances non bâties comprennent les cours passages et en général tous les terrains formant une dépendance
+indispensable et immédiate des constructions et servant à celles-ci de voies d'accès ou de dégagement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 Y (V)
+
+
+###### Article 324 E
+
+I. Dans une fraction de propriété affectée à l'habitation ou à un usage professionnel et normalement destinée à une
+utilisation distincte  on distingue :
+
+La partie principale ;
+
+Les éléments bâtis formant dépendances ;
+
+Une quote-part des dépendances non bâties.
+
+II. Dans les immeubles collectifs,la partie principale est constituée par l'ensemble des éléments d'un seul tenant formant à
+l'intérieur des gros murs du même bâtiment une unité d'habitation ou à usage professionnel distincte telle que logement
+appartement bureau professionnel.
+
+III. Dans ces mêmes immeubles,les éléments bâtis formant dépendances comprennent :
+
+D'une part,les éléments situés hors du bâtiment dans lequel se trouve la partie principale ;
+
+D'autre part,les éléments qui  bien que situés dans le même bâtiment que la partie principale à laquelle ils se rattachent
+ne sont pas d'une seule tenue avec celle-ci.
+
+
+
+###### Article 324 F
+
+Les constructions accessoires isolées pour lesquelles il n'existe aucune partie principale de rattachement sur la même
+propriété sont considérées dans tous les cas comme des dépendances bâties.
+
+
+
+##### B : Classification communale des locaux
+
+###### Article 324 G
+
+I. La classification communale consiste à rechercher et à définir par nature de construction (maisons individuelles immeubles
+collectifs  dépendances bâties isolées) les diverses catégories de locaux d'habitation ou à usage professionnel existant dans
+la commune.
+
+II. Pour la classification communale, sont assimilés aux dépendances bâties isolées les dépendances bâties et les éléments
+bâtis formant dépendances qui doivent faire l'objet d'une évaluation distincte en raison de leur nature particulière,
+notamment les éléments de pur agrément ainsi que  dans les immeubles collectifs les garages et les emplacements individuels
+aménagés pour le stationnement des véhicules automobiles.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 H (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 V (V)
+
+
+###### Article 324 H
+
+I-Pour les maisons individuelles et les locaux situés dans un immeuble collectif, la classification communale est établie à
+partir d'une nomenclature-type comportant huit catégories, en adaptant aux normes locales de construction les critères
+généraux mentionnés au tableau ci-après. 
+
+II-Pour les dépendances bâties isolées et les divers éléments visés au II de l'article 324 G, la classification communale est
+établie à partir d'une nomenclature-type spéciale comportant quatre catégories, en adaptant aux normes locales de
+construction les critères généraux décrits au tableau ci-après. 
+
+III-Dans les cas deux cas prévus aux I et II, il peut toutefois être procédé à la création de catégories intermédiaires
+combinant, dans des proportions simples, deux catégories-types. 
+
+IV-Les caractéristiques physiques afférentes à chaque nature et catégorie de locaux retenus lors de la classification
+communale sont inscrites au procès-verbal des opérations de la révision. 
+
+<table>
+    <tbody>
+      <tr>
+        <td width="111" rowspan="2">
+
+CRITÈRES 
+
+à considérer 
+
+</td>
+        <td width="550" colspan="8">
+
+CARACTÉRISTIQUES GÉNÉRALES PROPRES À CHAQUE CATEGORIE DE LOCAUX 
+
+</td>
+      </tr>
+      <tr>
+        <td width="73">
+
+1re catégorie 
+
+</td>
+        <td width="85">
+
+2e catégorie 
+
+</td>
+        <td width="68">
+
+3e catégorie 
+
+</td>
+        <td width="65">
+
+4e catégorie 
+
+</td>
+        <td width="75">
+
+5e catégorie 
+
+</td>
+        <td width="75">
+
+6e catégorie 
+
+</td>
+        <td width="69">
+
+7e catégorie 
+
+</td>
+        <td width="80">
+
+8e catégorie 
+
+</td>
+      </tr>
+      <tr>
+        <td width="111">
+
+1. Caractère architectural de l'immeuble 
+
+</td>
+        <td width="73">
+
+Nettement somptueux 
+
+</td>
+        <td width="85">
+
+Particulièrement soigné 
+
+</td>
+        <td colspan="2" width="133">
+
+Belle apparence 
+
+</td>
+        <td colspan="3" width="218">
+
+Sans caractère particulier 
+
+</td>
+        <td width="80">
+
+Aspect délabré 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="top" width="111">
+
+2. Qualité de la construction 
+
+</td>
+        <td valign="top" width="158" colspan="2">
+
+Excellente 
+
+Matériaux de tout premier ordre ou d'excellente qualité. 
+
+Parfaite habitabilité 
+
+</td>
+        <td width="68" valign="top">
+
+Très bonne 
+
+Matériaux assurant une très bonne habitabilité. 
+
+</td>
+        <td width="139" colspan="2" valign="top">
+
+Bonne 
+
+Mais construction d'une classe et d'une qualité inférieures aux précédentes catégories. 
+
+</td>
+        <td width="75" valign="top">
+
+Courante 
+
+Matériaux utilisés habituellement dans la région, assurant des conditions d'habitabilité normales mais une durée d'existence
+limitée pour les immeubles récents. 
+
+</td>
+        <td valign="top" width="69">
+
+Médiocre 
+
+Construction économique en matériaux bon marché présentant souvent certains vices. 
+
+</td>
+        <td width="80" valign="top">
+
+Particulièrement défectueuse 
+
+Ne présente pas ou ne présente plus les caractères élémentaires d'habitabilité en raison de la nature des matériaux utilisés,
+de la vétusté, etc. 
+
+</td>
+      </tr>
+      <tr>
+        <td width="111" valign="top">
+
+3. Distribution du local : Conception générale 
+
+</td>
+        <td valign="top" width="73">
+
+Très large conception des diverses parties du local. 
+
+(Largeur des baies supérieure à la normale. 
+
+Dans les immeubles collectifs, accès et escaliers communs de larges dimensions). 
+
+</td>
+        <td width="85" valign="top">
+
+Large conception des diverses parties du local. 
+
+(Largeur des baies supérieure à la normale. 
+
+Dans les immeubles collectifs, accès et escaliers communs de larges dimensions). 
+
+</td>
+        <td colspan="2" width="133" valign="top">
+
+Moins d'ampleur que dans les catégories précédentes. 
+
+Les diverses parties du local restent cependant assez spacieuses. Dans les immeubles collectifs, accès communs faciles. 
+
+</td>
+        <td width="75" valign="top">
+
+Faible développement des pièces, dégagements, entrées, etc.. Paliers souvent communs à plus de deux logements. 
+
+</td>
+        <td width="75" valign="top">
+
+Faible développement des pièces, dégagements, entrées, etc. 
+
+Dimensions réduites, même en ce qui concerne les pièces d'habitation, notamment dans les constructions récentes. 
+
+</td>
+        <td valign="top" width="69">
+
+Logement souvent exigu. 
+
+Dégagements généralement sacrifiés dans les immeubles collectifs (accès communs sombres et étroits). 
+
+</td>
+        <td valign="top" width="80">
+      </td></tr>
+      <tr>
+        <td width="111" valign="top">
+
+Pièces de réception (1) 
+
+</td>
+        <td width="158" valign="top" colspan="2">
+
+Présence obligatoire de pièces de réception spacieuses. 
+
+</td>
+        <td colspan="2" valign="top" width="133">
+
+Présence obligatoire de pièces de réception dans les locaux comportant un certain nombre de pièces. 
+
+</td>
+        <td valign="top" width="75">
+
+Existence, en général, d'une pièce de réception :
+
+- dans les locaux anciens dès qu'il y a quatre pièces,
+
+- dans les locaux modernes, quel que soit le nombre de pièces. 
+
+</td>
+        <td colspan="2" valign="top" width="144">
+
+En général, absence de pièces de réception. 
+
+</td>
+        <td valign="top" width="80">
+      </td></tr>
+      <tr>
+        <td width="111" valign="top">
+
+Locaux d'hygiène (1) 
+
+</td>
+        <td colspan="2" width="158" valign="top">
+
+Nombreux locaux d'hygiène bien équipés. 
+
+</td>
+        <td valign="top" width="68">
+
+En général, plusieurs salles d'eau. 
+
+</td>
+        <td valign="top" width="65">
+
+Présence nécessaire d'une salle de bains ou de douches ou d'un cabinet de toilette avec eau courante. 
+
+</td>
+        <td width="75" valign="top">
+
+Présence, au minimum, d'un cabinet de toilette avec eau courante. 
+
+</td>
+        <td valign="top" width="75">
+
+En général :
+
+- absence de locaux d'hygiène dans les immeubles anciens,
+
+- présence d'une salle d'eau dans les immeubles récents. 
+
+</td>
+        <td valign="top" width="69">
+
+Absence très fréquente de locaux d'hygiène. 
+
+</td>
+        <td width="80" valign="top">
+      </td></tr>
+      <tr>
+        <td width="111" valign="top">
+
+4. Equipement : 
+
+</td>
+        <td width="73" valign="top">
+        </td><td width="85" valign="top">
+        </td><td valign="top" width="68">
+        </td><td valign="top" width="65">
+        </td><td valign="top" width="75">
+        </td><td width="75" valign="top">
+        </td><td valign="top" width="69">
+        </td><td width="80" valign="top">
+      </td></tr>
+      <tr>
+        <td valign="top" width="111">
+
+Equipements usuels : 
+
+</td>
+        <td width="73" valign="top">
+        </td><td valign="top" width="85">
+        </td><td valign="top" width="68">
+        </td><td width="65" valign="top">
+        </td><td valign="top" width="75">
+        </td><td valign="top" width="75">
+        </td><td width="69" valign="top">
+
+En général, eau à l'extérieur. 
+
+</td>
+        <td width="80" valign="top">
+      </td></tr>
+      <tr>
+        <td valign="top" width="111">
+
+Eau (1) 
+
+</td>
+        <td colspan="4" valign="top" width="291">
+
+Nombreux postes d'eau courante intérieurs au local. 
+
+</td>
+        <td colspan="2" width="149" valign="top">
+
+Un ou plusieurs postes d'eau intérieurs. 
+
+</td>
+        <td valign="top" width="69">
+        </td><td width="80" valign="top">
+      </td></tr>
+      <tr>
+        <td width="111" valign="top">
+
+WC (1) 
+
+</td>
+        <td width="291" valign="top" colspan="4">
+
+Un ou plusieurs éléments par local. 
+
+</td>
+        <td valign="top" width="75">
+
+WC particuliers généralement intérieurs. 
+
+</td>
+        <td valign="top" width="75">
+
+WC particuliers parfois extérieurs. 
+
+</td>
+        <td width="69" valign="top">
+
+WC Généralement extérieurs. 
+
+</td>
+        <td width="80" valign="top">
+      </td></tr>
+      <tr>
+        <td width="111" valign="top">
+
+Chauffage central 
+
+</td>
+        <td valign="top" colspan="3" width="226">
+
+Présence habituelle. 
+
+</td>
+        <td width="65" valign="top">
+
+Présence fréquente dans les immeubles anciens, habituelle dans les immeubles récents. 
+
+</td>
+        <td valign="top" width="75">
+
+Présence exceptionnelle dans les immeubles anciens, fréquente dans les immeubles récents.
+
+</td>
+        <td width="75" valign="top">
+
+-
+
+</td>
+        <td valign="top" width="69">
+
+-
+
+</td>
+        <td width="80" valign="top">
+
+Absence habituelle de tout équipement, notamment des WC. 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="top" width="111">
+
+Ascenseur 
+
+</td>
+        <td colspan="3" width="226" valign="top">
+
+Présence habituelle. 
+
+</td>
+        <td width="65" valign="top">
+
+Absence fréquente dans les immeubles anciens : présence habituelle dans les immeubles récents de plus de quatre étages. 
+
+</td>
+        <td width="75" valign="top">
+
+Absence de fréquence dans les immeubles anciens : présence habituelle dans les immeubles récents de plus de quatre étages. 
+
+</td>
+        <td valign="top" width="75">
+
+Absence habituelle dans les immeubles anciens : présence habituelle dans les immeubles récents de plus de quatre étages.
+
+</td>
+        <td width="69" valign="top">
+
+-
+
+</td>
+        <td valign="top" width="80">
+
+-
+
+</td>
+      </tr>
+      <tr>
+        <td valign="top" width="111">
+
+Tapis d'escalier, escalier de service 
+
+</td>
+        <td valign="top" colspan="3" width="226">
+
+Présence habituelle (surtout dans les immeubles anciens). 
+
+</td>
+        <td valign="top" width="65">
+
+Absence fréquente.
+
+</td>
+        <td width="75" valign="top">
+
+-
+
+</td>
+        <td valign="top" width="75">
+
+-
+
+</td>
+        <td valign="top" width="69">
+
+-
+
+</td>
+        <td width="80" valign="top">
+
+-
+
+</td>
+      </tr>
+      <tr>
+        <td width="111" valign="top">
+
+Impression d'ensemble (Caractère général de l'habitation) 
+
+</td>
+        <td width="73" valign="top">
+
+Grand luxe 
+
+</td>
+        <td valign="top" width="85">
+
+Luxe 
+
+</td>
+        <td width="68" valign="top">
+
+Très confortable 
+
+</td>
+        <td valign="top" width="65">
+
+Confortable 
+
+</td>
+        <td valign="top" width="75">
+
+Assez confortable 
+
+</td>
+        <td valign="top" width="75">
+
+Ordinaire 
+
+</td>
+        <td width="69" valign="top">
+
+Médiocre 
+
+</td>
+        <td valign="top" width="80">
+
+Très médiocre 
+
+</td>
+      </tr>
+      <tr>
+        <td colspan="9" width="699" valign="top">
+
+(1) Ne pas tenir compte de ce critère pour les locaux affectés exclusivement à usage professionnel. 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+<table>
+    <tbody>
+      <tr>
+        <td width="136" rowspan="2">
+
+CRITÈRES 
+
+à considérer 
+
+</td>
+        <td colspan="4" width="544">
+
+CARACTÉRISTIQUES GÉNÉRALES PROPRES À CHAQUE CATÉGORIE 
+
+</td>
+      </tr>
+      <tr>
+        <td width="136">
+
+A 
+
+</td>
+        <td width="136">
+
+B 
+
+</td>
+        <td width="136">
+
+C 
+
+</td>
+        <td width="136">
+
+D 
+
+</td>
+      </tr>
+      <tr>
+        <td width="136" valign="top">
+
+Qualité de la construction (a titre principal) :
+
+</td>
+        <td valign="top" width="136">
+        </td><td width="136" valign="top">
+        </td><td width="136" valign="top">
+        </td><td valign="top" width="136">
+      </td></tr>
+      <tr>
+        <td width="136" valign="top">
+
+- Murs 
+
+</td>
+        <td width="136" valign="top">
+
+Matériaux de bonne qualité. 
+
+</td>
+        <td valign="top" width="136">
+
+Matériaux ordinaires utilisés habituellement dans la région, le plus souvent mis en œuvre sans recherche et d'une façon
+économique. 
+
+</td>
+        <td valign="top" width="136">
+
+Matériaux bon marché, légers, présentant souvent certains défauts. 
+
+</td>
+        <td valign="top" width="136">
+
+Matériaux de qualité médiocre, parfois même, absence quasi totale de murs (hangars, etc).
+
+</td>
+      </tr>
+      <tr>
+        <td valign="top" width="136">
+
+- Toiture 
+
+</td>
+        <td width="272" valign="top" colspan="2">
+
+Habillement, couverture en matériaux courants. 
+
+</td>
+        <td valign="top" width="272" colspan="2">
+
+Le plus souvent, couverture légère. 
+
+</td>
+      </tr>
+      <tr>
+        <td width="136" valign="top">
+
+Equipement (a titre accessoire) :
+
+</td>
+        <td valign="top" width="136">
+        </td><td valign="top" width="136">
+        </td><td width="136" valign="top">
+        </td><td valign="top" width="136">
+      </td></tr>
+      <tr>
+        <td valign="top" width="136">
+
+- Electricité 
+
+</td>
+        <td width="136" valign="top">
+
+présence habituelle. 
+
+</td>
+        <td valign="top" width="136">
+
+présence assez fréquente. 
+
+</td>
+        <td width="136" valign="top">
+
+présence peu fréquente.
+
+</td>
+        <td width="136" valign="top">
+      </td></tr>
+      <tr>
+        <td valign="top" width="136">
+
+- Eau 
+
+</td>
+        <td width="136" valign="top">
+
+présence habituelle. 
+
+</td>
+        <td width="136" valign="top">
+
+présence assez fréquente. 
+
+</td>
+        <td valign="top" width="136">
+
+présence peu fréquente.
+
+</td>
+        <td valign="top" width="136">
+      </td></tr>
+      <tr>
+        <td valign="top" width="136">
+
+- Chauffage 
+
+</td>
+        <td width="136" valign="top">
+
+présence assez peu fréquente. 
+
+</td>
+        <td valign="top" width="136">
+
+présence exceptionnelle. 
+
+</td>
+        <td width="136" valign="top">
+
+absence habituelle.
+
+</td>
+        <td valign="top" width="136">
+      </td></tr>
+      <tr>
+        <td width="136" valign="top">
+
+- Divers 
+
+</td>
+        <td width="136" valign="top">
+
+selon la nature de l'élément, présence occasionnelle de bac à laver, de fosse de visite pour voiture automobile, etc. 
+
+</td>
+        <td colspan="3" width="408" valign="top">
+
+absence habituelle. 
+
+</td>
+      </tr>
+      <tr>
+        <td width="136" valign="top">
+
+Qualité du service rendu 
+
+</td>
+        <td width="136" valign="top">
+
+bonne protection, fermeture complète et solide. 
+
+</td>
+        <td valign="top" width="136">
+
+protection suffisante, fermeture complète et encore satisfaisante. 
+
+</td>
+        <td width="136" valign="top">
+
+protection sommaire, parfois abris partiellement clos. 
+
+</td>
+        <td valign="top" width="136">
+
+protection des plus rudimentaires. 
+
+</td>
+      </tr>
+      <tr>
+        <td width="136" valign="top">
+
+Impression d'ensemble 
+
+</td>
+        <td width="136" valign="top">
+
+bonne. 
+
+</td>
+        <td width="136" valign="top">
+
+passable. 
+
+</td>
+        <td valign="top" width="136">
+
+médiocre. 
+
+</td>
+        <td valign="top" width="136">
+
+mauvaise. 
+
+</td>
+      </tr>
+      <tr>
+        <td width="680" colspan="5">
+
+Pour le choix de la catégorie, il convient de prendre en considération le fait que les dépendances bâties ne présentent pas
+d'une manière générale, une finition aussi complète que celle des locaux d'habitation ou à usage professionnel.
+
+</td>
+      </tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 G (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 N (V)
+
+
+###### Article 324 I
+
+I. La classification communale des maisons individuelles et des locaux situés dans un immeuble collectif est établie en
+fonction des caractéristiques générales de leur partie principale. 
+
+II. Lorsqu'ils sont situés sur la même propriété que la partie principale dont ils constituent l'accessoire, les dépendances
+bâties et les éléments bâtis formant dépendances autres que ceux visés à l'article 324 G-II sont rangés dans la catégorie à
+laquelle appartient la partie principale. 
+
+Lorsqu'ils sont à usage commun, ils sont rangés dans la catégorie à laquelle appartient la majorité des parties principales
+des locaux qu'ils desservent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 G (V)
+
+
+###### Article 324 J
+
+Des locaux de référence sont choisis par nature de construction pour illustrer chacune des catégories de la classification
+communale et servir de termes de comparaison. Le choix porte,pour chaque catégorie,sur un ou plusieurs locaux
+particulièrement représentatifs de la catégorie,comprenant,le cas échéant,des dépendances bâties et non bâties d'importance
+moyenne par rapport à la généralité des locaux de même nature de la catégorie.
+
+La liste des locaux de référence est inscrite au procès-verbal des opérations de la révision.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 W (V)
+
+
+##### C : Tarifs d'évaluation
+
+##### 1 : Modalités d'établissement
+
+###### Article 324 K
+
+I. Sous réserve des travaux d'homogénéité prévus au premier alinéa du II de l'article 1496 du code général des impôts, les
+tarifs d'évaluation sont obtenus, pour chaque nature et catégorie de locaux d'habitation ou à usage professionnel, en tenant
+compte des loyers annuels des locaux loués librement à des conditions de prix normales et des surfaces pondérées desdits
+locaux, déterminées dans les conditions fixées aux articles 324 L à 324 V. 
+
+II. A défaut d'un nombre suffisant de locations répondant pour une catégorie donnée aux conditions prévues au I, le tarif est
+établi, pour ladite catégorie, par comparaison avec les tarifs qui ont été fixés soit pour les catégories voisines de la même
+commune, soit pour les mêmes catégories ou les catégories voisines d'autres communes présentant du point de vue économique
+des conditions analogues à celles de la commune en cause.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 L (V)
+	  - Code général des impôts, CGI. - art. 1496 (VT)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 W (V)
+
+
+##### 2 : Détermination de la surface pondérée
+
+###### Article 324 L
+
+I. Dans la maison ou la partie principale des locaux des immeubles collectifs,on distingue,le cas échéant :
+
+a. Les pièces, telles que salles à manger, pièces de réception diverses, chambres, pièces à usage professionnel, cuisines, et
+leurs annexes, telles que salles d'eau (salles de bains, de douches ou cabinets de toilette avec eau courante), cabinets
+d'aisance, entrée, couloirs, antichambre, à l'exclusion des éléments énumérés au b ;
+
+b. Les garages, buanderies, caves, greniers, celliers, bûchers et autres éléments de même nature, ainsi que les terrasses et
+toitures-terrasses accessibles.
+
+II. Parmi les dépendances bâties et les éléments bâtis formant dépendances, on distingue, outre des éléments de même nature
+que ceux énumérés au I :
+
+Des éléments de pur agrément, tels que piscines privées, terrains de jeux ;
+
+Et, dans les immeubles collectifs, des emplacements individuels aménagés pour le stationnement des véhicules automobiles.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 N (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 P (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 W (V)
+
+
+###### Article 324 M
+
+La surface pondérée des locaux de référence est déterminée en appliquant à leur surface réelle, mesurée au sol entre murs ou
+séparations et arrondie au mètre carré inférieur, les correctifs prévus aux articles 324 N à 324 S. 
+
+Lorsque le local est affecté à la fois à l'habitation et à usage professionnel, la surface est calculée distinctement en
+fonction de l'affectation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 N (V)
+
+
+###### Article 324 N
+
+La surface des éléments de la maison visés au b du I de l'article 324 L et celle des éléments, autres que les pièces et leurs
+annexes, visés au II du même article sont affectées d'un coefficient de pondération variable de 0,2 à 0,6 pour tenir compte
+du service rendu par chaque élément dans le cadre de la valeur d'usage du local. 
+
+La surface pondérée brute ainsi obtenue est arrondie au mètre carré inférieur. 
+
+Toutefois cette disposition ne s'applique pas aux éléments sus-indiqués qui relèvent de la classification spéciale prévue au
+II de l'article 324 H.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 H (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 L (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 M (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 U (V)
+
+
+###### Article 324 O
+
+La surface totale des pièces et annexes de la maison visées au a du I de l'article 324 L et celle de la partie principale des
+locaux des immeubles collectifs sont affectées d'un coefficient tenant compte de leur importance, fixé pour chacune des
+catégories visées aux articles 324 G et 324 H conformément au barème suivant : 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="79" rowspan="3">
+
+CATÉGORIES 
+
+foncières 
+
+</td>
+      <td colspan="4">
+
+MAISONS INDIVIDUELLES 
+
+</td>
+      <td colspan="4">
+
+LOCAUX DES IMMEUBLES COLLECTIFS 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="89">
+
+1re tranche 
+
+(les 20 premiers mètres carrés) 
+
+Coefficient 
+
+</td>
+      <td width="145" colspan="2">
+
+2e tranche 
+
+</td>
+      <td width="73" rowspan="2">
+
+3e tranche (les mètres carrés suivants) 
+
+Coefficient 
+
+</td>
+      <td width="76" rowspan="2">
+
+1re tranche (les 20 premiers mètres carrés) 
+
+Coefficient 
+
+</td>
+      <td width="145" colspan="2">
+
+2e tranche 
+
+</td>
+      <td width="73" rowspan="2">
+
+3e tranche (les mètres carrés suivants) 
+
+Coefficient 
+
+</td>
+    </tr>
+    <tr>
+      <td width="71">
+
+De 20 mètres carrés à : 
+
+</td>
+      <td width="73">
+
+Coefficient 
+
+</td>
+      <td width="71">
+
+De 20 mètres carrés à : 
+
+</td>
+      <td width="73">
+
+Coefficient 
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+</td>
+      <td width="89">
+
+</td>
+      <td width="71">
+
+m2 
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="76">
+
+</td>
+      <td width="71">
+
+m2 
+
+</td>
+      <td width="73">
+
+</td>
+      <td width="73">
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+1re catégorie 
+
+</td>
+      <td width="89">
+
+3,00 
+
+</td>
+      <td width="71">
+
+400 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+      <td width="76">
+
+2,60 
+
+</td>
+      <td width="71">
+
+350 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+2e catégorie 
+
+</td>
+      <td width="89">
+
+2,50 
+
+</td>
+      <td width="71">
+
+320 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+      <td width="76">
+
+2,20 
+
+</td>
+      <td width="71">
+
+260 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+3e catégorie 
+
+</td>
+      <td width="89">
+
+2,10 
+
+</td>
+      <td width="71">
+
+240 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+      <td width="76">
+
+1,90 
+
+</td>
+      <td width="71">
+
+200 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+4e catégorie 
+
+</td>
+      <td width="89">
+
+1,70 
+
+</td>
+      <td width="71">
+
+160 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+      <td width="76">
+
+1,60 
+
+</td>
+      <td width="71">
+
+140 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+5e catégorie 
+
+</td>
+      <td width="89">
+
+1,45 
+
+</td>
+      <td width="71">
+
+110 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+      <td width="76">
+
+1,35 
+
+</td>
+      <td width="71">
+
+90 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+6e catégorie 
+
+</td>
+      <td width="89">
+
+1,30 
+
+</td>
+      <td width="71">
+
+80 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+      <td width="76">
+
+1,25 
+
+</td>
+      <td width="71">
+
+70 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+7e catégorie 
+
+</td>
+      <td width="89">
+
+1,20 
+
+</td>
+      <td width="71">
+
+60 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+      <td width="76">
+
+1,15 
+
+</td>
+      <td width="71">
+
+50 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+    </tr>
+    <tr>
+      <td width="79">
+
+8e catégorie 
+
+</td>
+      <td width="89">
+
+1,10 
+
+</td>
+      <td width="71">
+
+40 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+      <td width="76">
+
+1,05 
+
+</td>
+      <td width="71">
+
+30 
+
+</td>
+      <td width="73">
+
+0,90 
+
+</td>
+      <td width="73">
+
+0,75 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+La surface ainsi déterminée, arrondie au mètre carré inférieur, est dénommée surface pondérée comparative de la partie
+principale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 G (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 L (V)
+
+
+###### Article 324 P
+
+La surface pondérée comparative de la partie principale augmentée, le cas échéant, en ce qui concerne la maison, de la
+surface pondérée brute des éléments visés au b du I de l'article 324 L, est affectée d'un correctif d'ensemble destiné à
+tenir compte, d'une part, de l'état d'entretien de la partie principale en cause, d'autre part, de sa situation. Ce correctif
+est égal à la somme algébrique des coefficients définis aux articles 324 Q et 324 R. 
+
+La surface pondérée nette ainsi obtenue est arrondie au mètre carré inférieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 L (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 Q (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 U (V)
+
+
+###### Article 324 Q
+
+Le coefficient d'entretien est déterminé conformément au barème ci-dessous :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="529">
+
+ÉTAT D'ENTRETIEN
+
+</td>
+      <td width="151">
+
+COEFFICIENT
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+Bon - Construction n'ayant besoin d'aucune réparation
+
+</td>
+      <td valign="top" width="151">
+
+1,20
+
+</td>
+    </tr>
+    <tr>
+      <td width="529" valign="top">
+
+Assez bon - Construction n'ayant besoin que de petites réparations
+
+</td>
+      <td width="151" valign="top">
+
+1,10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Passable - Construction présentant, malgré un entretien régulier, des défauts permanents dus à la vétusté, sans que ceux-ci
+compromettent les conditions élémentaires d'habitabilité
+
+</td>
+      <td valign="top" width="151">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Médiocre - Construction ayant besoin de réparations d'une certaine importance, encore que localisées
+
+</td>
+      <td valign="top" width="151">
+
+0,90
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="529">
+
+Mauvais - Construction ayant besoin de grosses réparations dans toutes ses parties
+
+</td>
+      <td width="151" valign="top">
+
+0,80
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 P (V)
+
+
+###### Article 324 R
+
+Le coefficient de situation est égal à la somme algébrique de deux coefficients destinés à traduire, le premier, la situation
+générale dans la commune, le second, l'emplacement particulier :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="378">
+
+APPRÉCIATION DE LA SITUATION
+
+(générale ou particulière)
+
+</td>
+      <td width="151">
+
+COEFFICIENT
+
+de situation générale
+
+</td>
+      <td width="151">
+
+COEFFICIENT
+
+de situation particulière
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+Situation excellente, offrant des avantages notoires sans inconvénients marquants
+
+</td>
+      <td valign="top" width="151">
+
++ 0,10
+
+</td>
+      <td width="151" valign="top">
+
++ 0,10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="378">
+
+Situation bonne, offrant des avantages notoires en partie compensés par certains inconvénients
+
+</td>
+      <td valign="top" width="151">
+
++ 0,05
+
+</td>
+      <td width="151" valign="top">
+
++ 0,05
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+Situation ordinaire, n'offrant ni avantages ni inconvénients ou dont les uns et les autres se compensent
+
+</td>
+      <td valign="top" width="151">
+
+0
+
+</td>
+      <td width="151" valign="top">
+
+0
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+Situation médiocre, présentant des inconvénients notoires en partie compensés par certains avantages
+
+</td>
+      <td width="151" valign="top">
+
+- 0,05
+
+</td>
+      <td valign="top" width="151">
+
+- 0,05
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+Situation mauvaise, présentant des inconvénients notoires sans avantages particuliers
+
+</td>
+      <td width="151" valign="top">
+
+- 0,10
+
+</td>
+      <td width="151" valign="top">
+
+- 0,10
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Le coefficient de situation particulière tient compte notamment de la présence ou de l'absence de dépendances non bâties.
+
+
+
+###### Article 324 S
+
+Dans les immeubles collectifs, le correctif d'ensemble applicable à la surface pondérée comparative de la partie principale
+est modifié, le cas échéant, par un correctif destiné à traduire la présence ou l'absence d'ascenseur, conformément au barème
+suivant :
+
+<table>
+  <tbody>
+    <tr>
+      <td width="378" rowspan="2">
+
+NIVEAU DU LOCAL
+
+</td>
+      <td colspan="2" width="302">
+
+COEFFICIENT
+
+</td>
+    </tr>
+    <tr>
+      <td width="151">
+
+Immeuble
+
+avec ascenseur
+
+</td>
+      <td width="151">
+
+Immeuble
+
+sans ascenseur
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+6e et au-dessus
+
+</td>
+      <td width="151" valign="top">
+
++ 0,05
+
+</td>
+      <td width="151" valign="top">
+
+- 0,15
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+5e
+
+</td>
+      <td width="151" valign="top">
+
++ 0,05
+
+</td>
+      <td valign="top" width="151">
+
+- 0,10
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="378">
+
+4e
+
+</td>
+      <td valign="top" width="151">
+
++ 0,05
+
+</td>
+      <td valign="top" width="151">
+
+- 0,05
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+3e
+
+</td>
+      <td valign="top" width="151">
+
++ 0,05
+
+</td>
+      <td valign="top" width="151">
+
+0
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+2e
+
+</td>
+      <td valign="top" width="151">
+
++ 0,05
+
+</td>
+      <td width="151" valign="top">
+
+0
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+1er
+
+</td>
+      <td valign="top" width="151">
+
+0
+
+</td>
+      <td width="151" valign="top">
+
+0
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+Rez-de-chaussée
+
+</td>
+      <td width="151" valign="top">
+
+0
+
+</td>
+      <td valign="top" width="151">
+
+0
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Pour l'application de ce coefficient,l'entresol est compté pour un étage.
+
+
+
+###### Article 324 T
+
+I. La surface pondérée totale de la partie principale est obtenue en ajoutant à sa surface pondérée nette les surfaces
+représentatives des éléments d'équipement en état de fonctionnement. Ces équivalences superficielles sont déterminées
+conformément au barème suivant :
+
+Eau courante : 4 mètres carrés ;
+
+Gaz (en cas d'installation fixe) : 2 mètres carrés ;
+
+Electricité (par installation  quelle que soit l'utilisation du courant) : 2 mètres carrés ;
+
+Installation sanitaire (éviers et w.-c. exclus) :
+
+Par baignoire : 5 mètres carrés ;
+
+Par receveur de douches ou bac à laver : 4 mètres carrés ;
+
+Par lavabo et autre appareil sanitaire : 3 mètres carrés ;
+
+W.-C. particulier (par unité) : 3 mètres carrés ;
+
+Egout (raccordement au réseau d')  par local : 3 mètres carrés ;
+
+Vide-ordures (que celui-ci soit particulier au local ou commun à l'étage) : 3 mètres carrés;
+
+Chauffage central, par pièce et annexe d'hygiène (que l'installation soit particulière au local ou commune aux différents
+locaux de l'immeuble) : 2 mètres carrés.
+
+II. Lorsqu'un local est affecté à la fois à l'habitation et à un usage professionnel, la surface représentative des éléments
+d'équipement est répartie proportionnellement à la surface totale des pièces et des annexes utilisées respectivement pour
+l'habitation et l'activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 B (V)
+
+
+###### Article 324 U
+
+I. La surface pondérée nette des dépendances bâties et celle des éléments bâtis formant dépendances sont déterminées en
+affectant leur surface réelle, ou leur surface pondérée brute s'il s'agit d'éléments visés à l'article 324 N, du correctif
+d'ensemble prévu à l'article 324 P. 
+
+Le résultat est arrondi au mètre carré inférieur. 
+
+II. La surface pondérée des dépendances bâties et celle des éléments bâtis formant dépendances sont obtenues en ajoutant à
+leur surface pondérée nette les surfaces représentatives des éléments d'équipement ci-après énumérés, sous réserve que ceux-
+ci soient en état de fonctionnement. 
+
+Ces équivalences superficielles sont déterminées conformément au barème ci-après : 
+
+Installation sanitaire (éviers et w.-c. exclus) : 
+
+Par baignoire : 5 mètres carrés ; 
+
+Par receveur de douches et bac à laver : 4 mètres carrés ; 
+
+Par lavabo et autre appareil sanitaire : 3 mètres carrés ; 
+
+W.-C. particulier (par unité) : 3 mètres carrés ; 
+
+Chauffage central, par pièce et annexe d'hygiène (que l'installation soit particulière à l'élément en cause ou commune aux
+différents locaux de l'immeuble) : 2 mètres carrés ; 
+
+et, seulement lorsque la dépendance bâtie ou l'élément bâti formant dépendance doit faire l'objet d'une évaluation
+distincte : 
+
+Eau courante : 2 mètres carrés ; 
+
+Electricité (quelle que soit l'utilisation du courant) : 2 mètres carrés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 B (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 N (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 P (V)
+
+
+###### Article 324 V
+
+I. La surface pondérée totale de la propriété ou fraction de propriété est obtenue en ajoutant à la surface pondérée totale
+de la partie principale celle des dépendances bâties et des éléments bâtis formant dépendances. 
+
+II. La surface pondérée totale des pièces indépendantes dans les immeubles collectifs et celle des éléments visés au II de
+l'article 324 G donnent lieu, en toute hypothèse, à l'établissement d'un décompte distinct.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 G (V)
+
+
+##### D : Evaluations individuelles
+
+##### 1 : Evaluation des locaux de référence
+
+###### Article 324 W
+
+Sous réserve de l'harmonisation prévue au deuxième alinéa du I de l'article 1503 du code général des impôts, la valeur
+locative des locaux de référence visés à l'article 324 J est déterminée en appliquant à leur surface pondérée totale,
+calculée conformément aux règles définies aux articles 324 L à 324 V, le tarif correspondant établi dans les conditions
+fixées à l'article 324 K.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 J (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 L (V)
+	  - Code général des impôts, CGI. - art. 1503 (V)
+
+
+##### 2 : Evaluation des autres locaux
+
+###### Article 324 X
+
+I. En vue de leur évaluation, les locaux d'habitation ou à usage professionnel autres que les locaux de référence sont
+classés par comparaison avec les locaux de référence représentatifs des diverses catégories existantes.
+
+II. La valeur locative cadastrale assignée aux locaux classés dans une même catégorie est déterminée, en respectant l'égalité
+proportionnelle des évaluations, par comparaison avec la valeur locative du local ou des locaux choisis pour représenter
+ladite catégorie.
+
+
+
+##### III : Locaux commerciaux et biens divers passibles de la taxe foncière sur les propriétés bâties
+
+##### A : Evaluation d'après les baux écrits ou les locations verbales
+
+###### Article 324 Y
+
+Lorsque les actes visés à l'article 324 C portent sur des locaux dont chacune des parties a reçu une affectation différente,
+la fraction desdits locaux affectée à l'habitation ou à l'exercice d'une profession est évaluée selon les règles prévues par
+les articles 324 D à 324 X ; la valeur locative ainsi obtenue est imputée sur le montant global du bail écrit ou de la
+location verbale pour déterminer la valeur locative du surplus du local.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 D (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 Z (V)
+
+
+##### B : Evaluation par comparaison
+
+###### Article 324 AA
+
+La valeur locative cadastrale des biens loués à des conditions anormales ou occupés par leur propriétaire, occupés par un
+tiers à un titre autre que celui de locataire, vacants ou concédés à titre gratuit est obtenue en appliquant aux données
+relatives à leur consistance - telles que superficie réelle, nombre d'éléments - les valeurs unitaires arrêtées pour le type
+de la catégorie correspondante. Cette valeur est ensuite ajustée pour tenir compte des différences qui peuvent exister entre
+le type considéré et l'immeuble à évaluer, notamment du point de vue de la situation, de la nature de la construction, de son
+état d'entretien, de son aménagement, ainsi que de l'importance plus ou moins grande de ses dépendances bâties et non bâties
+si ces éléments n'ont pas été pris en considération lors de l'appréciation de la consistance.
+
+
+
+###### Article 324 Z
+
+I. L'évaluation par comparaison consiste à attribuer à un immeuble ou à un local donné une valeur locative proportionnelle à
+celle qui a été adoptée pour d'autres biens de même nature pris comme types. 
+
+II. Les types dont il s'agit doivent correspondre aux catégories dans lesquelles peuvent être rangés les biens de la commune
+visés aux articles 324 Y à 324 AC, au regard de l'affectation de la situation de la nature de la construction de son
+importance de son état d'entretien et de son aménagement. 
+
+Ils sont inscrits au procès-verbal des opérations de la révision.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 Y (V)
+
+
+##### C : Evaluation par voie d'appréciation directe
+
+###### Article 324 AB
+
+Lorsque les autres moyens font défaut, il est procédé à l'évaluation directe de l'immeuble en appliquant un taux d'intérêt à
+sa valeur vénale, telle qu'elle serait constatée à la date de référence si l'immeuble était libre de toute location ou
+occupation.
+
+Le taux d'intérêt susvisé est fixé en fonction du taux des placements immobiliers constatés dans la région à la date de
+référence pour des immeubles similaires.
+
+
+
+###### Article 324 AC
+
+En l'absence d'acte et de toute autre donnée récente faisant apparaître une estimation de l'immeuble à évaluer susceptible
+d'être retenue  sa valeur vénale à la date de référence est appréciée d'après la valeur vénale d'autres immeubles d'une
+nature comparable ayant fait l'objet de transactions récentes  situés dans la commune même ou dans une localité présentant du
+point de vue économique une situation analogue à celle de la commune en cause.
+
+La valeur vénale d'un immeuble peut également être obtenue en ajoutant à la valeur vénale du terrain, estimée par comparaison
+avec celle qui ressort de transactions récentes relatives à des terrains à bâtir situés dans une zone comparable, la valeur
+de reconstruction au 1er janvier 1970 dudit immeuble, réduite pour tenir compte, d'une part, de la dépréciation immédiate et,
+d'autre part, du degré de vétusté de l'immeuble et de son état d'entretien, ainsi que de la nature, de l'importance, de
+l'affectation et de la situation de ce bien.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 C (V)
+
+
+##### IV : Etablissements industriels
+
+###### Article 324 AE
+
+Le prix de revient visé à l'article 1499 du code général des impôts s'entend de la valeur d'origine pour laquelle les
+immobilisations doivent être inscrites au bilan en conformité de l'article 38 quinquies de la présente annexe.
+
+Aucune rectification n'est apportée auxdites valeurs au titre des taxes sur le chiffre d'affaires (taxe sur la valeur
+ajoutée) supportées par l'entreprise.
+
+La valeur d'origine à prendre en considération est le prix de revient intégral  avant application des déductions
+exceptionnelles et des amortissements spéciaux autorisés en matière fiscale. Il en est de même pour les immobilisations
+partiellement réévaluées ou amorties en tout ou en partie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1499
+	  - CGIAN3 38 quinquies
+
+
+###### Article 324 AF
+
+Lorsqu'il ne résulte pas des énonciations du bilan, le prix de revient est déterminé, en tant que de besoin, à partir de tous
+documents comptables ou autres pièces justificatives et  à défaut par voie d'évaluation  sous réserve du droit de contrôle de
+l'administration.
+
+
+
+###### Article 324 AG
+
+L'année à retenir pour dégager le prix de revient est celle de la création ou de l'acquisition de l'immobilisation.
+
+Lorsque l'exercice comptable ne coincide pas avec l'année civile et que la date exacte de l'acquisition ou de la création
+n'est pas connue, l'année à retenir est celle de la clôture dudit exercice.
+
+Dans le cas où l'année d'acquisition de certaines immobilisations n'est pas connue comme dans le cas où une ventilation année
+par année des dépenses afférentes aux immobilisations créées ne peut être effectuée, la référence à retenir est la période au
+cours de laquelle les immobilisations ont été acquises ou créées. Le coefficient de réévaluation est alors déterminé en
+divisant le total des coefficients afférents aux années comprises dans ladite période par le nombre de ces années. Ce procédé
+de réévaluation est applicable notamment en ce qui concerne les immobilisations édifiées ou créées par l'entreprise  lorsque
+les dépenses nécessitées par cette édification ou cette création se sont étendues sur plusieurs années.
+
+
+
+##### V : Déclarations à souscrire pour chaque révision
+
+###### Article 324 AH
+
+I. Les déclarations prévues à l'article 1502 du code général des impôts sont souscrites par les débiteurs de la taxe foncière
+sur les propriétés bâties au sens de l'article 1400 de ce code. 
+
+II. Lorsqu'il s'agit d'un établissement industriel dont les biens appartiennent à plusieurs personnes chacune d'elles est
+soumise aux obligations de l'article 1502 précité à raison de l'ensemble des éléments imposables dont elle est propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1400 (V)
+	  - Code général des impôts, CGI. - art. 1502 (V)
+
+
+###### Article 324 AI
+
+I. Les redevables visés à l'article 1502 du code général des impôts sont tenus de souscrire : 
+
+a. Une déclaration par propriété ou fraction de propriété au sens de l'article 324 A, à l'exception des biens réservés à
+l'usage commun des occupants dans les immeubles collectifs ou ensembles immobiliers et qui doivent être déclarés sur la
+formule récapitulative visée au b ; 
+
+b. Une déclaration récapitulative rédigée suivant le cas pour les immeubles collectifs ou ensembles immobiliers : 
+
+Par bâtiment principal, les constructions accessoires ne formant pas dépendances d'un bâtiment principal donné étant
+rattachées au premier de ces bâtiments ; 
+
+Par construction accessoire, si l'immeuble collectif ne comporte aucun bâtiment principal de rattachement. 
+
+II. Dans les immeubles collectifs placés sous le régime de la copropriété ou appartenant aux sociétés civiles immobilières
+dont l'objet est visé à l'article 1655 ter du code général des impôts la déclaration particulière à chacun des locaux des
+services communs-tels que loge de concierge bureau du syndic-faisant l'objet d'un occupation distincte et la déclaration
+récapitulative prévue au I sont souscrites selon le cas par le syndic de copropriété ou la société. 
+
+III. Lorsqu'une propriété ou une fraction de propriété normalement destinée à une utilisation distincte autre qu'un
+établissement industriel est affectée pour partie à l'habitation ou à un usage professionnel et pour le surplus à un autre
+usage il est souscrit une déclaration pour la partie affectée à l'habitation ou à un usage professionnel et une déclaration
+pour le surplus. 
+
+IV. Lorsqu'un établissement industriel comprend des locaux affectés à l'habitation il est souscrit une déclaration
+particulière pour chacun d'eux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 F (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 A (V)
+	  - Code général des impôts, CGI. - art. 1502 (V)
+	  - Code général des impôts, CGI. - art. 1655 ter (V)
+
+
+###### Article 324 AJ
+
+Les déclarations sont établies sur des formules spéciales fournies par l'administration. Les modèles et la teneur de ces
+formules sont fixés par arrêté du ministre de l'économie et des finances (1).
+
+(1) Arrêté du 6 mars 1970 (J.O. du 20).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AL (V)
+
+
+##### VI : Dispositions relatives à l'exécution de la première révision quinquennale des évaluations foncières des propriétés bâties
+
+###### Article 324 AK
+
+La date de référence de la première revision quinquennale des évaluations foncières des propriétés bâties est fixée au 1er
+janvier 1970.
+
+
+
+#### Chapitre premier : Impôts directs et taxes assimiléees
+
+##### Section III : Taxe professionnelle
+
+##### I : Exonération des gîtes ruraux.
+
+###### Article 322 A
+
+Les personnes qui louent de façon saisonnière une partie de leur habitation personnelle  à titre de gîte rural  bénéficient
+de l'exonération de taxe professionnelle prévue à l'article 1459-3o du code général des impôts dans les conditions fixées par
+les articles 322 B à 322 F.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Abrogation directe incorporée dans l'édition du 18 août 1993
+	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
+
+	**Cite**:
+
+	  - CGI 1459 3°
+	  - CGIAN3 322 B, 322 C, 322 D, 322 E, 322 F
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 322 B
+
+Les gîtes ruraux mentionnés à l'article 1459-3o du code général des impôts doivent s'entendre des locaux meublés qui
+remplissent les conditions suivantes :
+
+1o être des logements modestes  sommairement meublés  mais dotés d'un minimum de confort et loués à un prix raisonnable;
+
+2o être destinés à être donnés en location à des familles citadines de condition modeste pour la durée de leur congé annuel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1459 3°
+
+	**Abrogé par**:
+
+	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 322 D
+
+La durée de location des gîtes ruraux ne doit pas excéder six mois par an.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Abrogation directe incorporée dans l'édition du 18 août 1993
+	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 322 E
+
+Les dispositions des articles 322 A à 322 D ne peuvent trouver leur application que dans les communes de moins de 2.000
+habitants agglomérés au chef-lieu. Par exception les gîtes ruraux aménagés à l'aide de subventions du ministre de
+l'agriculture sont susceptibles d'être exonérés de la taxe professionnelle quelle que soit l'importance de la population de
+la localité dans laquelle ils sont situés.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Abrogation directe incorporée dans l'édition du 18 août 1993
+	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
+
+	**Cite**:
+
+	  - CGIAN3 322 A, 322 B, 322 C, 322 D
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 322 F
+
+Les délibérations des conseils généraux tendant à exclure les gîtes ruraux du bénéfice de l'exonération de la taxe
+professionnelle prévu à l'article 322 A doivent concerner l'ensemble des communes du département et intervenir au cours de la
+première session ordinaire. Ces délibérations peuvent être abrogées par la suite dans les mêmes conditions.
+
+Dans un cas comme dans l'autre elles ne trouvent leur application qu'à partir du 1er janvier de l'année suivant celle au
+cours de laquelle elles sont intervenues.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Abrogation directe incorporée dans l'édition du 18 août 1993
+	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
+
+	**Cite**:
+
+	  - CGIAN3 322 A
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre II : Contributions indirectes
+
+##### Section I : Licence des débitants de boissons.
+
+###### Article 327
+
+Le tarif progressif du droit de licence est fixé par les conseils municipaux dans les limites et conditions définies par
+l'article 1568 du code général des impôts  d'après la valeur locative retenue pour l'établissement de la taxe foncière sur
+les propriétés bâties portant sur les débits de boissons.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1568
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+	  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
+
+
+###### Article 328
+
+Pour les établissements où la vente de boissons à consommer sur place ou à emporter ne constitue qu'une des branches de
+l'activité commerciale  et par dérogation à la règle posée à l'article 327, la valeur locative à considérer est fixée
+forfaitairement au tiers de celle retenue pour l'établissement de la taxe foncière sur les propriétés bâties.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 327
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+	  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
+
+
+#### Chapitre III : Enregistrement
+
+##### Section unique : Taxe locale d'équipement
+
+###### Article 328 D bis
+
+Dans le cas où un accord préalable délivré avant le 1er octobre 1968 a prévu la délivrance de l'accord définitif par tranches
+de travaux dans les conditions prévues à l'article 4 du décret no 61-1036 du 13 septembre 1961 (1) et où ledit accord
+définitif pour une ou plusieurs tranches a été également délivré avant le 1er octobre 1968, le constructeur n'est pas
+assujetti à la taxe locale d'équipement et demeure soumis pour la réalisation des tranches ultérieures aux modalités de
+participation aux dépenses d'exécution des équipements publics fixées par l'accord préalable.
+
+(1) Abrogé par l'article 32 du décret n° 70-446 du 28 mai 1970 (Code de l'urbanisme, art. R421-1 à R421-43).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°61-1036 du 13 septembre 1961
+	  - Décret n°70-446 du 28 mai 1970
+	  - Code de l'urbanisme
+
+	**Abrogé par**:
+
+	  - Décret n°2012-88 du 25 janvier 2012 - art. 3
+
+
+###### Article 328 D ter
+
+Dans le cas où le terrain faisant l'objet d'une autorisation de construire est issu d'un lotissement autorisé  en France
+métropolitaine antérieurement au 1er octobre 1968  ou dans les départements d'outre-mer antérieurement à la date d'entrée en
+vigueur de l'article 51-I de la loi no 75-1328 du 31 décembre 1975 portant réforme de la politique foncière le constructeur
+est soumis à la taxe locale d'équipement sous déduction d'une quote-part calculée au prorata de la superficie de son terrain
+de la participation aux dépenses d'exécution des équipements publics qui a pu être mise à la charge du lotisseur.
+
+En aucun cas  il n'est procédé à un remboursement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°75-1328 du 31 décembre 1975
+
+	**Abrogé par**:
+
+	  - Décret n°2012-88 du 25 janvier 2012 - art. 3
+
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
+#### Chapitre premier : Impôts directs et taxes assimilées
+
+##### Section I : Taxe pour frais de chambres de commerce et d'industrie
+
+###### Article 330
+
+Pour bénéficier de l'exonération de la taxe pour frais de chambres de commerce et d'industrie prévue à l'article 1600 du code
+général des impôts,les artisans qui exerçaient leur profession à la date de publication du décret du 24 avril 1940 sont tenus
+de justifier dans la forme prévue à l'article 331, qu'ils sont inscrits au répertoire des métiers et qu'ils ne sont pas
+portés sur la liste électorale de la chambre de commerce et d'industrie.
+
+Les artisans qui ont entrepris l'exercice de leur profession après la publication dudit décret sont tenus seulement de
+justifier  dans la forme prévue à l'article 331, de leur inscription au répertoire des métiers.Ils doivent produire cette
+justification au plus tard le 31 janvier de l'année suivant celle de leur installation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1600
+	  - CGIAN3 331
+	  - Décret n°1940-04-24
+
+
+#### Chapitre I bis : Taxes sur le chiffre d'affaires
+
+##### Section II : Redevance sur l'emploi de la reprographie.
+
+###### Article 331 M
+
+Les entreprises qui commercialisent ou se livrent à elles-mêmes des appareils de reprographie (1) sont considérées comme
+fabricants de ces appareils  lorsqu'en vue de leur donner leur forme définitive ou d'en assurer la présentation commerciale
+elles les ont façonnés transformés ou montés ou ont fait effectuer l'une de ces opérations par des tiers.
+
+Les entreprises soumises à la redevance doivent faire apparaître sur leurs factures  d'une manière distincte  pour chaque
+appareil  le prix net de celui-ci et le montant correspondant de la redevance. Elles doivent également y mentionner que la
+redevance facturée est reversée par leurs soins au Trésor.
+
+Toute personne qui facture la redevance s'en constitue redevable de ce seul fait.
+
+En ce qui concerne les appareils de reprographie importés  la redevance est exigible au moment de la déclaration pour la
+consommation dans le territoire douanier français : elle est due par le déclarant et recouvrée par le service des douanes
+comme en matière de douane.
+
+Sur le montant des encaissements réalisés par les services des impôts et par les services des douanes au titre de la
+redevance sur l'emploi de la reprographie  il est effectué un prélèvement de 5 % pour frais d'assiette et de recouvrement.
+
+(1) Annexe IV, art. 159 AD.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 159 AD
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
 #### Chapitre II : Contributions indirectes
+
+##### Section I : Taxe sur les produits des exploitations forestières.
+
+###### Article 332
+
+Sur le montant des encaissements effectués par le service des impôts au titre des taxes visées aux articles 1613 et 1618 bis
+du code général des impôts  il est effectué un prélèvement de 2 %. Le produit de ce prélèvement est rattaché au budget de
+l'économie et des finances (I. Finances). Il sert à couvrir  dans les limites et conditions déterminées par arrêté du
+ministre de l'économie et des finances et du ministre chargé de la fonction publique  les dépenses de matériel et la
+rémunération des travaux supplémentaires effectués par les personnes participant aux opérations résultant de l'application
+des dispositions desdits articles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1613
+	  - CGI 1618 bis
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi - art. 36 () JORF 30 décembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
+##### Section I bis : Taxe spéciale sur les huiles.
+
+###### Article 333 A
+
+Toute personne qui intervient dans la fabrication ou la distribution des huiles végétales fluides ou concrètes des huiles
+d'animaux marins ou des produits dans lesquels sont incorporées ces huiles est astreinte à la tenue d'une comptabilité
+matières d'un modèle agréé par l'administration chargée de l'assiette et du recouvrement de la taxe spéciale visée à
+l'article 1618 quinquies du code général des impôts.
+
+La comptabilité matières devra permettre de suivre chronologiquement et par produit en quantité et en valeur les huiles
+taxables et les huiles exonérées ou exclues du champ d'application de la taxe spéciale les huiles utilisées dans la
+fabrication de produits alimentaires et de produits non destinés à l'alimentation humaine ainsi que la provenance et la
+destination de ces marchandises.
+
+Cette comptabilité devra le cas échéant contenir tous les éléments permettant de déterminer le rendement des graines fruits
+oléagineux et autres matières premières utilisées dans la fabrication des huiles mentionnées au premier alinéa brutes ou
+consommables ou utilisables en l'état ainsi que par catégorie les quantités d'huiles incorporées dans tous produits
+alimentaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1618 quinquies
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 N
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 B
+
+Toute personne qui vend des huiles mentionnées à l'article 333 A, non consommables ou non utilisables en l'état est tenue de
+mentionner explicitement sur la facture ou tout document accompagnant la livraison la nature et la destination du produit
+justifiant la non-application de la taxe spéciale.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 O
+
+	**Cite**:
+
+	  - CGIAN3 333 A
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 C
+
+Toute personne qui vend à une destination autre que l'alimentation humaine des huiles végétales fluides ou concrètes et des
+huiles d'animaux marins consommables en l'état ou directement utilisables dans la fabrication de tous produits alimentaires
+doit joindre à l'appui de sa comptabilité une attestation de l'acheteur comportant l'engagement d'acquitter la taxe spéciale
+et le cas échéant les pénalités y afférentes si les produits étaient en fait destinés à l'alimentation humaine soit en l'état
+soit après transformation.
+
+Toute personne qui reçoit des huiles mentionnées au premier alinéa est tenue de joindre à l'appui de sa comptabilité une
+facture ou tout autre document délivré par le vendeur ou le livrancier certifiant que la taxe spéciale a été acquittée par la
+personne qui y est nommément désignée.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 P
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 D
+
+Les factures établies par les personnes redevables de la taxe spéciale doivent obligatoirement faire apparaître d'une manière
+distincte par catégorie d'huiles ou de produits le montant de la taxe spéciale et les quantités taxables.
+
+Toute personne qui mentionne la taxe soit sur une facture soit sur tout document accompagnant la livraison soit une
+attestation en est redevable du seul fait de cette mention.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 Q
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 F
+
+Les déclarations d'importation relatives aux huiles végétales fluides ou concrètes ou aux huiles d'animaux marins doivent
+mentionner expressément s'il s'agit ou non de produits destinés à l'alimentation humaine en l'état ou à être incorporés en
+l'état dans tous produits destinés à l'alimentation humaine.
+
+Dans l'affirmative  la taxe spéciale doit être acquittée auprès du service des douanes au moment de la mise à la consommation
+des produits et  dans le cas de revente en France desdits produits  il est fait mention sur les factures de ce paiement.
+
+Dans la négative  la taxe spéciale n'est pas perçue à l'importation  mais le destinataire réel doit s'engager à l'acquitter
+auprès du service des douanes dans le cas où il livrerait en l'état les produits qu'il a reçus destinés à l'alimentation
+humaine ou les incorporerait en l'état dans tous produits destinés à l'alimentation humaine.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 S
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 G
+
+L'administration chargée de l'assiette et du recouvrement de la taxe spéciale pourra dispenser certaines personnes  notamment
+les commerçants détaillants  de tout ou partie des obligations et formalités prévues aux articles 333 A à 333 F.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 U
+
+	**Cite**:
+
+	  - CGIAN3 333 A à CGIAN3 333 F
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
 
 ##### Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles.
 
@@ -292,15 +13051,735 @@ taxe visée à l'article 1618 septies du code général des impôts.
 	  - Décret n°91-866 du 4 septembre 1991 - art. 5 () JORF 6 septembre 1991
 
 
+##### Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques.
+
+###### Article 333 bis A
+
+Les petites exploitations cinématographiques visées à l'article 1621 du code général des impôts sont celles qui enregistrent
+moins de 1.200 entrées hebdomadaires en moyenne pendant une période continue d'une année civile et qui réalisent moins de
+2.400 F de recettes hebdomadaires en moyenne pendant la même période.
+
+Ces deux conditions sont appréciées par salle.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1621
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V ter
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 bis B
+
+L'appartenance d'une salle cinématographique à la petite exploitation est constatée au début de chaque année par le service
+des impôts d'après les résultats de l'année civile précédente. Le nombre moyen d'entrées hebdomadaires et le montant de la
+recette hebdomadaire moyenne sont déterminés abstraction faite des périodes de fermeture.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 o modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V quater
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 bis C
+
+Par dérogation aux dispositions des articles 333 bis A et 333 bis B, le classement est déterminé d'après les résultats
+obtenus au cours de chaque mois de fonctionnement en cas d'ouverture d'une salle en cours d'année ou lorsque la durée
+d'exploitation pendant l'année civile précédente est inférieure à six mois; s'il y a lieu une régularisation est faite en fin
+d'année.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V quinquies
+
+	**Cite**:
+
+	  - CGIAN3 333 bis A
+	  - CGIAN3 333 bis B
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 bis D
+
+Les demandes de classement des salles de spectacles dans la catégorie des petites exploitations cinématographiques sont
+établies dans les conditions fixées par l'administration.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V sexies
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 quater
+
+Lorsqu'un exploitant de salle de spectacles cinématographiques a bénéficié d'une avance sur ses droits à soutien financier
+il ne peut exercer sa faculté d'option avant le début de l'année civile qui suit celle au cours de laquelle l'avance
+consentie a été remboursée.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V octies
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 quinquies
+
+L'option visée à l'article 333 ter ou la dénonciation de cette option doit être notifiée par lettres recommandées adressées
+au directeur général du centre national de la cinématographie et au directeur des services fiscaux.
+
+Le classement d'une salle de spectacles cinématographiques dans la catégorie de la petite exploitation ou son déclassement
+doit être déclaré au centre national de la cinématographie avant le 31 janvier de l'année pour laquelle il s'applique.
+
+La déclaration est établie par l'exploitant; elle est visée par le service des impôts.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V nonies
+
+	**Cite**:
+
+	  - CGIAN3 333 ter
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 septies
+
+La renonciation au bénéfice des dispositions du régime de soutien financier de l'Etat à l'industrie cinématographique ne
+dispense pas les exploitants de salles de spectacles cinématographiques des obligations inhérentes au contrôle des recettes
+et  en particulier de l'envoi au centre national de la cinématographie des bordereaux de recettes.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V undecies
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 sexies
+
+Lorsqu'une salle de spectacles cinématographiques appartenant à la catégorie de la petite exploitation fait l'objet d'un
+déclassement ou lorsque la dénonciation de l'option visée à l'article 333 ter intervient  la taxe spéciale prévue à l'article
+1621 du code général des impôts est à nouveau perçue avec effet du 1er janvier de l'année en cours.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1621
+	  - CGIAN3 333 ter
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V decies
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 ter
+
+1. Les exploitants de salles de spectacles cinématographiques ressortissant à la catégorie de la petite exploitation qui
+renoncent au bénéfice du soutien financier de l'Etat à l'industrie cinématographique doivent faire connaître leur décision au
+plus tard le 31 janvier de chaque année.
+
+Cette option prend effet à compter du 1er janvier et demeure valable pour la durée d'une année. Elle est renouvelable par
+tacite reconduction sauf dénonciation formulée au plus tard le 31 janvier de chaque année.
+
+Pour les entreprises qui exploitent plusieurs salles de spectacles cinématographiques l'option est exercée salle par salle.
+
+2. Lorsque le propriétaire d'un fonds de commerce de théâtre cinématographique n'exploite pas directement ce fonds l'option
+visée au 1 n'est recevable que si elle est exercée conjointement par l'exploitant de la salle et par ce propriétaire.
+
+3. La situation au regard du régime de soutien financier d'une salle de spectacles cinématographiques ressortissant à la
+catégorie de la petite exploitation ne peut être modifiée en cours d'année même dans le cas de changement d'exploitant.
+
+**Nota:**
+
+Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 V septies
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993 édition du 18 août 1993
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre III : Enregistrement
+
+##### Section I : Contributions pour l'alimentation du fonds commun des accidents du travail agricole
+
+##### I : Contribution des employeurs assurés.
+
+###### Article 335
+
+La contribution est payée par les organismes d'assurances à la recette des impôts de leur siège dans les conditions
+suivantes :
+
+Il est versé  sur la base du tarif en vigueur au jour des émissions :
+
+Avant le 20 avril un acompte calculé sur 40 % des primes ou cotisations émises au cours du premier trimestre ;
+
+Avant le 20 juillet, un acompte calculé sur 85 % des primes ou cotisations émises au cours du deuxième trimestre et sur 45 %
+des primes ou cotisations émises au cours du premier trimestre ;
+
+Avant le 20 octobre, un acompte calculé sur 85 % des primes ou cotisations émises au cours du troisième trimestre ;
+
+Avant le 20 janvier, un acompte calculé sur 85 % des primes ou cotisations émises au cours du quatrième trimestre de l'année
+précédente.
+
+Le 15 juin de chaque année au plus tard, il est procédé à une liquidation générale de la contribution due pour l'année
+précédente. La contribution est liquidée d'après le tarif en vigueur pendant l'année considérée  en déduisant du total des
+primes ou cotisations constatées dans les écritures du redevable comme ayant fait l'objet d'une émission de quittances au
+cours de l'année le total des primes ou cotisations constatées dans lesdites écritures comme ayant fait l'objet  au cours de
+la même année  d'une annulation ou d'un remboursement. Dans le cas où une fraction des primes ou cotisations ayant fait
+l'objet d'une émission de quittance  ou d'une annulation ou d'un remboursement se rapporterait à des exercices antérieurs
+une liquidation distincte sera opérée pour chaque exercice sur la base du taux en vigueur pendant cet exercice.
+
+Si, de cette liquidation, et compte tenu des acomptes trimestriels, il résulte un complément de contribution à verser au
+titre des années écoulées il est immédiatement acquitté ; dans le cas contraire, l'excédent versé est imputé sur l'année en
+cours.
+
+Les versements des acomptes trimestriels et la liquidation annuelle sont effectués au vu d'états dont les modèles sont
+déterminés par un arrêté du ministre de l'économie et des finances. Cet arrêté précise en outre les pièces à fournir à
+l'appui de la liquidation annuelle (1).
+
+(1) Annexe IV, art. 159 quater A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 quater A
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 68 () JORF 29 décembre 2001
+	  - HISTO: Edition du 31 mars 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
+
+
+##### III : Dispositions communes.
+
+###### Article 339 bis
+
+Sur le montant des encaissements effectués par le service des impôts en vertu des articles 335 et 336  il est opéré un
+prélèvement de 3 % pour frais d'assiette et de perception.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 335
+	  - CGIAN3 336
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 38 ()
+
+
+## Troisième partie : Dispositions communes aux première et deuxième parties
+
+### Titre premier : Assiette et contrôle de l'impôt
+
+#### Chapitre premier : Obligations des contribuables
+
+##### II : Déclaration des ventes autres que les ventes au détail
+
+###### Article 344 H
+
+Sur demande de l'administration formulée par lettre recommandée avec avis de réception et dans un délai de trente jours  les
+commerçants et artisans non soumis au régime du forfait en ce qui concerne l'imposition de leur bénéfice ou de leur chiffre
+d'affaires sont tenus  à compter du 1er janvier 1963, d'adresser un relevé des ventes autres que les ventes au détail  faites
+à ceux de leurs clients nommément désignés dans la demande susvisée au cours d'une ou plusieurs périodes fixées par
+l'administration. Pour chacune de ces demandes  les périodes ainsi fixées ne peuvent  en aucun cas  excéder pour chaque
+client douze mois au total.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I (V)
+
+
+###### Article 344 I
+
+Le relevé prévu à l'article 344 H doit fournir les mentions relatives à la date et au montant de chaque opération réalisée
+pendant la ou les périodes indiquées, quel que soit le mode de règlement de ces ventes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 H (V)
+
+
+### Titre II : Dispositions diverses
+
+#### Chapitre premier : Commissions administratives des impôts
+
+##### I : Commission communale des impôts directs
+
+###### Article 345
+
+La commission communale des impôts directs prévue à l'article 1650 du code général des impôts se réunit à la demande du
+directeur des services fiscaux ou de son délégué et sur convocation du maire ou de l'adjoint délégué ou  à défaut  du plus
+âgé des commissaires titulaires.
+
+Les membres de la commission délibèrent en commun  à la majorité des suffrages. Ils ne peuvent prendre aucune détermination
+s'ils ne sont au nombre de cinq au moins présents. En cas de partage égal des voix la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1650
+
+
+###### Article 346
+
+La commission des contributions directes instituée à Paris par la loi du 23 frimaire an III, tient lieu dans cette ville de
+la commission prévue à l'article 1650 du code général des impôts.
+
+Cette commission se compose de sept membres qui sont nommés par le préfet de Paris.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1650
+	  - Loi n°23 frimaire an III
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi n°75-1331 1975-12-30 art. 2, art. 33 JORF 3 janvier 1976
+
+
+##### III : Commission départementale de conciliation
+
+###### Article 350 C
+
+Il est alloué aux membres non fonctionnaires des commissions départementales de conciliation une indemnité de 2 F par
+vacation d'une demi-journée avec maximum de deux vacations par jour.
+
+Les membres non fonctionnaires de commissions départementales de conciliation bénéficient, s'il y a lieu, d'indemnités
+journalières pour frais de mission dans les conditions et sur la base des taux prévus par les dispositions réglementaires
+concernant les indemnités de frais de mission allouées aux fonctionnaires et agents de l'Etat classés dans le groupe II.
+
+Ils obtiennent le remboursement de leurs frais réels de transport aux tarifs appliqués d'après ce classement.
+
+
+
+# REGIME ECONOMIQUE
+
+## ORGANISATION DE L'ECONOMIE CIDRICOLE.
+
+###### Article 143 A
+
+La production des fruits à cidre et à poiré est réservée en priorité à la fabrication de produits alimentaires destinés tant
+au marché national qu'à l'exportation. Seul le surplus disponible peut être livré à la distillation d'alcool réservé à
+l'Etat.
+
+Sont considérés comme produits cidricoles alimentaires [*définition*] pour l'application de cette disposition :
+
+a  Les cidres et poirés répondant à la définition donnée par l'article 9 du décret n° 53-978 du 30 septembre 1953;
+
+b  Les jus de pomme ou de poire et les concentrés de jus de pomme ou de poire;
+
+c  Les calvados ou eau-de-vie de cidre ou de poiré ayant reçu une appellation d'origine dans les conditions prévues par les
+textes applicables en la matière.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-978 du 30 septembre 1953 - art. 9 (M)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 143 A 1 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
 # Livre II : Recouvrement de l'impôt
 
 ## Chapitre premier : Paiement de l'impôt
 
 ### Section I : Impôts directs et taxes assimilées
 
+#### I : Rôles et avis d'imposition
+
+##### 1 : Rôles auxiliaires.
+
+###### Article 351
+
+Tout propriétaire ou usufruitier ayant plusieurs locataires ou fermiers dans la même commune, et qui veut en application de
+l'article 1660 du code général des impôts, les charger de payer à son acquit la taxe foncière sur les biens qu'ils tiennent à
+ferme ou à loyer, doit remettre au comptable du Trésor chargé du recouvrement des impôts directs une déclaration indiquant
+sommairement la division de son revenu imposable entre lui et ses fermiers.
+
+Cette déclaration est signée par le propriétaire et par les fermiers.
+
+Si le nombre des fermiers est de plus de trois, la déclaration est transmise au directeur des services fiscaux qui opère la
+division de la taxe et porte, dans un rôle auxiliaire, la somme à payer par chaque fermier.
+
+Il est délivré un avis d'imposition à chacun des locataires ou fermiers compris dans le rôle auxiliaire.
+
+Les frais d'impression, de confection et de distribution de ces avertissements sont payés par les déclarants. Ces frais,
+ainsi que les frais d'impression et de confection des rôles auxiliaires qui sont également à la charge des déclarants, sont
+recouvrés comme en matière de contributions directes.
+
+La quotité de ces frais est fixée ainsi qu'il suit : 
+
+ELEMENT DE BASE : Par article du rôle auxiliaire.
+
+ETABLISSEMENTS DES ROLES et des avis d'imposition :
+
+Allocation totale : 0,05 F.
+
+Répartition de l'allocation totale :
+
+Frais de matériel : 0,03 F.
+
+Frais de personnel : 0,02 F.
+
+DISTRIBUTION des avis d'imposition.
+
+Frais d'affranchissement : 0,07 F.
+
+Indemnités des comptables du Trésor chargés du recouvrement des impôts directs : 0,02 F.
+
+ELEMENT DE BASE : Par cotisation distincte portée au rôle auxiliaire, autre que celle perçue au profit du budget annexe des
+prestations sociales agricoles.
+
+ETABLISSEMENTS DES ROLES et des avis d'imposition :
+
+Allocation totale : 0,05 F.
+
+Répartition de l'allocation totale :
+
+Frais de matériel : 0,03 F.
+
+Frais de personnel : 0,02 F.
+
+DISTRIBUTION des avis d'imposition.
+
+Frais d'affranchissement : 0,07 F.
+
+Indemnités des comptables du Trésor chargés du recouvrement des impôts directs : 0,02 F.
+
+Lorsque l'application des tarifs ci-dessus fait apparaître une somme globale inférieure à 1 F l'allocation pour frais de
+matériel est majorée de manière que le total des frais à percevoir ne soit pas inférieur à cette limite.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1660
+
+	**Abrogé par**:
+
+	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 31 mars 2002
+
+
 #### II : Exigibilité de l'impôt
 
+##### 2 : Impôt sur le revenu
+
+###### Article 357 A
+
+Donnent lieu aux versements d'acomptes prévus par l'article 1664 du code général des impôts les impositions à l'impôt sur le
+revenu pour lesquelles le contribuable a été compris dans les rôles de l'année précédente et qui ont été mises en
+recouvrement au cours de ladite année.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 2
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 357 E (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1664
+
+
+###### Article 357 B
+
+Le montant des versements à effectuer est calculé d'après le montant des impositions correspondantes de l'année précédente
+compte tenu du montant des dégrèvements accordés jusqu'au 31 décembre de ladite année et des cotisations au paiement
+desquelles le contribuable est  à la même date  en droit de surseoir en vertu d'une disposition légale.
+
+Le montant de chaque acompte est arrondi à la dizaine de francs inférieure.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 357 E (V)
+
+
+###### Article 357 C
+
+La succession de tout contribuable qui compris dans les rôles de l'année précédente sera décédé avant le 1er janvier de
+l'année courante est dispensée des versements prévus à l'article 1664 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1664
+
+
+###### Article 357 E
+
+Les versements effectués en vertu des articles 357 A à 357 C sont encaissés par le comptable du Trésor chargé du recouvrement
+des impôts directs détenteur des rôles servant de base auxdits versements ou pour son compte  dans les conditions prévues par
+l'article 1680 du code général des impôts. Le débiteur est tenu  au moment du versement d'indiquer les numéros des rôles et
+des articles dont le montant sert de base au calcul du versement et de fournir toutes précisions utiles sur l'origine des
+déductions que ledit montant aurait pu subir en vertu des dispositions du premier alinéa d l'article 357 B.
+
+Le montant des versements sera ultérieurement imputé en l'acquit des impositions à l'impôt sur le revenu établies  au cours
+de l'année pendant laquelle les versements auront été effectués  à raison des revenus réalisés par le contribuable pendant
+l'année précédente.
+
+Si  par suite d'un changement de domicile  les rôles de l'année courante sont pris en charge par un autre comptable du Trésor
+chargé du recouvrement des impôts directs, le contribuable est tenu de justifier de ses versements au nouveau comptable.
+Faute par lui de satisfaire à cette obligation  le contribuable supportera à sa charge les frais afférents aux poursuites
+exercées pour le recouvrement des impôts en l'acquit desquels auraient dû être imputé les versements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1680
+	  - CGIAN3 357 A, 357 B AL. 1, 357 C
+
+
+###### Article 357 F
+
+Les poursuites visées au 2 de l'article 1664 du code géneral des impôts seront exercées en vertu des rôles servant de base au
+calcul du versement.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1664
+
+
+###### Article 357 G
+
+La majoration  établie par le 1 de l'article 1762 du code général des impôts, pourra faire l'objet de remises ou de
+modérations,dans les conditions qui ont été prévues pour la remise ou la modération de frais de poursuites  en application du
+3 de l'article 1912 dudit code
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1762 1, 1912 3
+
+
 ##### 3 : Impôt sur les sociétés
+
+###### Article 358
+
+L'impôt sur les sociétés est recouvré dans les conditions prévues aux articles 359 à 366.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 359 à CGIAN3 366
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 A bis (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 376 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 380 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 bis (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
 
 ###### Article 361
 
@@ -326,11 +13805,1138 @@ aux droits des commanditaires soit à ceux des associés dont les noms et adress
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 362
+
+Chaque versement est accompagné d'un bordereau-avis unique par exercice  daté et signé de la partie versante et indiquant la
+nature du versement  l'échéance à laquelle il se rapporte  les bases de calcul  ainsi que la désignation et l'adresse du
+principal établissement de l'entreprise.
+
+Le comptable du Trésor chargé du recouvrement des impôts directs annote le bordereau-avis du montant des sommes versées et de
+l'indication de la date du versement  puis le restitue à la partie versante. Cette annotation  qui vaut quittance  dispense
+le comptable du Trésor de remettre à l'intéressé une quittance détachée d'une formule à talon.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 366
+
+Le complément d'impôts à verser qui apparaît, le cas échéant, à la suite du contrôle de la liquidation effectué par le
+service des impôts est recouvré par voie de rôles et exigible  en totalité  dès la mise en recouvrement du rôle. Lors du
+versement du plus prochain acompte, la société doit procéder à la régularisation des versements effectués au titre du ou des
+acomptes antérieurs de l'exercice en cours.
+
+La majoration de 10 % est applicable au complément d'impôt dans les conditions fixées par l'article 1761 du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1761
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+
+
+##### 6 : Taxe sur les salaires
+
+##### a : Remise au Trésor de la taxe sur les salaires
+
+###### Article 369
+
+1. Les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un mois déterminé doivent
+être versées dans les quinze premiers jours du mois suivant [*délai de paiement*] à la caisse du comptable du Trésor du lieu
+du domicile de la personne ou du siège de l'établissement ou du bureau qui a payé les rémunérations soumises à la taxe sur
+les salaires.
+
+Lorsque le montant mensuel total de ces sommes n'excède pas 500 F, le versement peut n'être effectué que dans les quinze
+premiers jours de chaque trimestre civil pour le trimestre écoulé. Si le montant mensuel desdites sommes vient à excéder 500
+F, les sommes dues depuis le début du trimestre en cours doivent être versées dans les quinze premiers jours du mois suivant.
+
+Toutefois  lorsque le montant des sommes dues au Trésor ne dépasse pas  pour le trimestre civil  le chiffre de 500 F, le
+versement peut n'être effectué que dans les quinze premiers jours de chaque année pour l'année précédente. Si le montant
+trimestriel desdites sommes vient à excéder 500 F, les sommes dues depuis le début de l'année ou depuis la fin de la période
+à laquelle s'appliquait le dernier versement doivent être versées dans les quinze premiers jours du mois suivant.
+
+Dans le cas de transfert de domicile  d'établissement ou de bureau hors du ressort de la circonscription de la perception
+ainsi que dans le cas de cession ou de cessation d'entreprise  le versement doit être immédiatement effectué.
+
+En cas de décès de l'employeur  ce versement doit être effectué dans les quinze premiers jours du mois suivant le décès.
+
+2. Le montant du versement est arrondi au franc le plus voisin toute fraction inférieure à 50 centimes étant négligée et
+toute fraction égale ou supérieure à 50 centimes étant comptée pour un franc.
+
+3. Chaque versement est accompagné d'un bordereau-avis fourni par l'administration  daté et signé par la partie versante  et
+indiquant notamment la désignation  la profession et l'adresse de la personne association ou organisme à qui incombe le
+versement  la période à laquelle s'applique ce versement  le montant des rémunérations payées au cours de cette période et le
+montant de la taxe sur les salaires versée [*mentions*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 374 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### b : Disposition spéciale aux professions relevant du régime agricole au regard des lois sur la sécurité sociale.
+
+###### Article 370
+
+Un décret spécial détermine les conditions d'application de la taxe sur les salaires afférente aux salaires payés par les
+employeurs appartenant aux professions qui relèvent du régime agricole au regard des lois sur la sécurité sociale (1).
+
+(1) Voir Art. 53 bis à 53 quater ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 53 bis à 53 quater
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
+##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques
+
+###### Article 374
+
+1. Les sommes dues au titre de la taxe sur les salaires pour des rémunérations à la charge de l'Etat et des collectivités ou
+établissements publics sont versées trimestriellement au Trésor.
+
+Lorsque les rémunérations sont imputées sur le budget général de l'Etat ou sur les budgets annexes  le montant de la taxe sur
+les salaires est déterminé à raison de 4,25 % du montant des crédits ouverts pour le paiement de ces rémunérations.
+
+En ce qui concerne les offices et établissements publics autonomes de l'Etat ainsi que les établissements publics
+départementaux et communaux redevables de la taxe sur les salaires  le montant de la taxe est déterminé dans les conditions
+fixées à l'article 51.
+
+2. (Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 51
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
+
+
+##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs
+
+###### Article 381 Q
+
+Les dispositions des articles 1908 à 1918, 1952 et 1953 du code général des impôts sont applicables au recouvrement de la
+retenue à la source perçue en vertu de l'article 119 bis dudit code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1908 à 1918, 1952, 1953, 119 bis
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### 10 : Prélèvement sur les produits de placements à revenu fixes.
+
+###### Article 381 S
+
+1. Les sommes retenues au cours de chaque mois  au titre du prélèvement prévu par l'article 125 A du code général des impôts
+sont versées au Trésor dans le mois suivant [*délai, date de paiement*] (1).
+
+Sous réserve des dispositions du 3, le versement est fait à la recette des impôts du lieu de l'établissement payeur.
+
+2. Chaque versement est accompagné du dépôt d'une déclaration établie en double exemplaire sur une formule délivrée par
+l'administration [*formalité obligatoire*].
+
+3. Un arrêté détermine la nature et le contenu des documents que les établissements payeurs doivent établir et conserver à la
+disposition de l'administration en vue du contrôle (2).
+
+Il fixe les conditions dans lesquelles le prélèvement opéré par ces établissements peut faire l'objet de versements globaux
+(3).
+
+(1) Disposition nouvelle s'appliquant aux retenues effectuées à compter du 1er mai 1978.
+
+(2) Annexe IV, art. 17 B et 17 C.
+
+(3) Annexe IV, art. 188 I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 125 A
+	  - CGIAN4 17 B
+	  - CGIAN4 17 C
+	  - CGIAN4 188 I
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies A (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### 11 : Précompte exigible sur certaines distributions.
+
+###### Article 381 T
+
+Lorsqu'il est exigible, le précompte institué par l'article 223 sexies du code général des impôts doit être versé à la
+recette des impôts du lieu où la personne morale est imposée à l'impôt sur les sociétés ou, à défaut, du lieu de son
+principal établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 sexies
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+
+##### 12 : Participation des employeurs au développement de la formation professionnelle continue
+
+###### Article 381 U
+
+Le versement dû au Trésor public par les centres de formation conventionnés en application de l'article 235 ter HA du code
+général des impôts, doit être effectué dans le mois qui suit la date d'échéance de la convention.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 10-II-2° et III de la loi n° 2014-288 du 5 mars 2014.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 V (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 X (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 235 ter HA
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 381 V
+
+Les versements prévus à l'article 381 U doivent être accompagnés d'un bordereau de versement établi en double exemplaire qui
+doit indiquer, outre la désignation et l'adresse du déclarant : 
+
+1° La nature juridique et le montant des versements reçus des employeurs ; 
+
+2° Le montant des dépenses de formation exposées en contrepartie des fonds ainsi reçus ; 
+
+3° Le montant du versement à effectuer.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 10-II-2° et III de la loi n° 2014-288 du 5 mars 2014.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 U (P)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 W (P)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 381 W
+
+Le bordereau de versement prévu à l'article 381 V doit être remis à la recette des impôts compétente. Cette recette est celle
+du lieu :
+
+de souscription de la déclaration des résultats pour les organismes de formation à but lucratif  ainsi que pour les
+dispensateurs de formation dont l'activité revêt un caractère non commercial ;
+
+du domicile ou du siège social pour les organismes de formation à but non lucratif et les fonds d'assurance-formation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 381 V
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 X (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+#### III : Paiement de l'impôt
+
+###### Article 382
+
+Les contributions directes et les taxes assimilées peuvent être acquittées dans les bureaux de poste au moyen d'un mandat
+spécial appelé mandat-contributions (1). Le reçu de la poste est libératoire s'il est délivré en échange d'un mandat-
+contributions régulièrement établi.
+
+Ne sont pas réclamés au contribuable les frais des actes de poursuites signifiés à une date postérieure à celle du mandat qui
+solde la dette exigible.
+
+(1) Pour le paiement par chèque, voir annexe IV, art. 199 à 202 et 204.
+
+
+
+###### Article 383
+
+1. Tout versement d'impôt donne obligatoirement lieu à la délivrance d'une quittance extraite du journal à souche
+réglementaire; les comptables du Trésor chargés du recouvrement des impôts directs doivent  en outre  émarger les paiements
+sur leurs rôles à mesure qu'il leur en est fait.
+
+2. Quittance par duplicata est remise gratuitement par le comptable du Trésor au contribuable qui en fait la demande pour
+justifier du paiement de ses impôts.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 13
+
+
+###### Article 383 bis
+
+1. Dans le cas de cession soit d'une entreprise industrielle commerciale artisanale ou minière soit d'une charge ou d'un
+office d'une entreprise ou du droit d'exercer une profession non commerciale le cessionnaire est solidairement responsable
+avec le cédant dans les conditions et limites fixées par les 1,2 et 4 de l'article 1684 du code général des impôts, du
+paiement de l'impôt sur le revenu afférent aux bénéfices ou revenus réalisés par ce dernier redevable. 
+
+2. Le propriétaire d'un fonds de commerce est solidairement responsable avec l'exploitant dans les conditions fixées par les
+3 et 4 de l'article 1684 du code précité, du paiement de l'impôt sur le revenu afférent aux bénéfices provenant de
+l'exploitation de ce fonds.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 383 ter (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1684 (V)
+
+
+###### Article 383 ter
+
+Le montant de l'impôt dont le paiement peut être réclamé au cessionnaire ou au propriétaire en vertu de l'article 383 bis est
+déterminé forfaitairement en appliquant à la cotisation assignée au cédant ou à l'exploitant le rapport existant entre le
+montant des bénéfices ou revenus visés audit article et le montant du revenu global ayant servi de base à la cotisation
+considérée augmenté le cas échéant des charges déduites de ce revenu en application de l'article 156 du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 383 bis (V)
+
+
+### Section II : Taxes sur le chiffre d'affaires et taxes assimilées
+
+#### I : Obligations cautionnées.
+
+###### Article 384
+
+Les obligations visées à l'article 1692 du code général des impôts peuvent être souscrites à deux  trois ou quatre mois
+d'échéance.
+
+Ces obligations donnent lieu au calcul de l'intérêt de crédit et de la remise spéciale visés à l'article 1698 dudit code.
+Toutefois les taux d'intérêt de crédit fixés en vertu dudit article 1698 peuvent être réduits par arrêté ministériel en ce
+qui concerne spécialement les obligations cautionnées établies en application de l'article 1692 susvisé.
+
+Si les obligations ne sont pas apurées à l'échéance  le Trésor poursuit immédiatement  outre le recouvrement des droits
+garantis  le paiement des intérêts de ces droits  calculés d'après le taux de l'intérêt légal et ce  à partir du jour de
+ladite échéance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1698, 1692
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 26 () JORF 27 mars 2004
+
+
+#### II : Régime spécial du forfait.
+
+###### Article 384 A
+
+I. Les redevables forfaitaires acquittent l'impôt par douzième tous les mois  aux dates prévues à l'article 39 de l'annexe IV
+au code général des impôts pour le dépôt des déclarations; toutefois lorsque le montant de l'impôt exigible mensuellement est
+inférieur au chiffre prévu à l'article 287-1 dudit code  ils sont admis à se libérer par quart tous les trois mois.
+
+II. Les versements provisionnels effectués  pendant la période qui précède la conclusion du forfait  par les redevables
+placés sous le régime du forfait de chiffre d'affaires sont imputés sur l'impôt dû au titre de la même période à raison du
+forfait nouvellement conclu.
+
+Lorsque ces versements font apparaître un excédent  celui-ci est imputé sur l'impôt dû au titre de la première échéance et
+éventuellement  des échéances ultérieures suivant la date de fixation définitive du forfait.
+
+Lorsque ces versements sont insuffisants  le complément d'impôt exigible doit être versé en même temps que l'impôt dû au
+titre de la première échéance forfaitaire suivant la date prévue à l'alinéa précédent.
+
+III. Les versements provisionnels effectués  pendant la période allant du premier jour de l'exploitation jusqu'à la date de
+la conclusion de leur forfait  par les entreprises nouvelles soumises à l'obligation prévue à l'article 96 sont calculés sur
+la base de leur chiffre d'affaires réel  compte tenu des déductions auxquelles elles peuvent prétendre.
+
+IV. Lorsqu'ils déterminent eux-mêmes le montant de leurs versements  les redevables placés sous le régime du forfait de
+chiffre d'affaires doivent produire un bulletin du modèle fixé par l'administration indiquant les éléments de leur décompte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 287 1
+	  - CGIAN3 96
+	  - CGIAN4 39
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### II bis : Dispositions particulières à certains transports
+
+###### Article 384 A bis
+
+I. Pour les transports par route ou par navigation intérieure en provenance ou à destination de l'étranger  effectués par des
+entreprises n'ayant pas d'établissement en France  la perception de la taxe sur la valeur ajoutée applicable à la partie du
+service utilisée en France est opérée lors du passage en douane.
+
+II. Pour les transports maritimes ou par voies d'eau intérieures effectués d'un point à un autre du territoire métropolitain
+par des entreprises étrangères n'ayant pas d'établissement en France  la perception de la taxe sur la valeur ajoutée [*TVA*]
+est opérée lors du passage en douane selon les règles  garanties et sanctions prévues en matière douanière.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
 ### Section III : Enregistrement, publicité foncière, timbre
+
+#### 0I : Paiement sur états
+
+##### Actes notariés
+
+###### Article 384 bis A
+
+Les droits éventuellement exigibles sur les actes visés à l'article 245 sont versés à la recette des impôts compétente dans
+les vingt premiers jours du mois suivant celui de la rédaction des actes. A l'appui de ce versement, les notaires déposent,
+en double exemplaire  un état comportant les indications suivantes :
+
+Mois auquel se rapporte le versement;
+
+Pour chaque taux ou nature de droits  nombre d'actes rédigés pendant le mois considéré et total des droits correspondants;
+
+Montant global des droits payés sur états.
+
+L'un des exemplaires de l'état est conservé au bureau; l'autre est rendu au déposant après avoir été revêtu des références de
+la recette.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 245
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 245 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 60 (V)
+
+
+##### Actes extra-judiciaires.
+
+###### Article 384 quinquies
+
+Au cours du mois suivant celui pendant lequel les actes visés à l'article 252-I ont été rédigés  les huissiers de justice
+déposent à la recette des impôts de leur résidence un état en double exemplaire dont le modèle est fixé par le directeur
+général des impôts et qui comporte notamment le nombre d'actes soumis au droit fixe rédigés pendant le mois considéré  ainsi
+que le total des droits exigibles. Le montant de ces droits est versé en même temps au bureau.
+
+L'un des exemplaires de l'état  revêtu des références de la recette  est rendu au déposant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 252 I
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### 0II : Formalité fusionnée
+
+###### Article 384 quinquies A
+
+L'expédition rendue au déposant après accomplissement de la formalité fusionnée est revêtue par le conservateur des
+hypothèques d'une mention attestant l'exécution de la formalité ainsi que le paiement des sommes dues. Il y est exprimé la
+date de la formalité ainsi que la référence du dépôt  le volume et le numéro du registre où le document se trouve enliassé.
+Le total des sommes perçues est inscrit en toutes lettres.
+
+
+
+#### I : Taxe spéciale sur les conventions d'assurances
+
+###### Article 385
+
+Pour les conventions conclues avec des assureurs français ou avec des assureurs étrangers ayant en France un établissement
+une agence une succursale ou un représentant responsable  la taxe est perçue pour le compte du Trésor  par l'assureur ou par
+son représentant responsable [*redevable*] ou par l'apériteur de la police si le contrat est souscrit par plusieurs assureurs
+et versée par lui à la recette des impôts du lieu de son principal établissement.
+
+La taxe est liquidée sur le montant des primes et autres sommes stipulées au profit de l'assureur qui font l'objet d'une
+émission de quittance au cours de chaque période de deux mois  déduction faite des annulations et remboursements constatés au
+cours de la même période. Elle est versée dans les quarante-cinq jours qui suivent la fin du deuxième mois (1).
+
+Un arrêté du ministre de l'économie et des finances précise les documents à fournir par les assureurs à l'appui de leurs
+versements (1).
+
+(1) Annexe IV, art. 196 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 196 A
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 387 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 390 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 387
+
+Pour les sociétés ou compagnies d'assurances maritimes ayant plusieurs agences, chaque agence est considérée, pour
+l'application de l'article 385, comme étant un redevable distinct, à moins que la société ou compagnie n'ait indiqué, dans
+les déclarations prévues à l'article 1003, deuxième alinéa, du code général des impôts qu'elle entend se soumettre au régime
+habituel des autres sociétés ou compagnies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 385 (V)
+	  - Code général des impôts, CGI. - art. 1003 (V)
+
+
+###### Article 388
+
+Pour les conventions avec des assureurs étrangers n'ayant en France ni établissement  ni agence  ni succursale  ni
+représentant responsable  conclues par l'intermédiaire d'un courtier ou de toute autre personne qui  résidant en France
+prête habituellement ou occasionnellement son entremise pour des opérations d'assurances  la taxe est perçue pour le compte
+du Trésor  par l'intermédiaire  pour toute la durée ferme de la convention  et versée par lui à la recette des impôts de sa
+résidence  sauf  s'il y a lieu  son recours contre l'assureur; le versement est effectué dans les vingt premiers jours du
+trimestre qui suit celui au cours duquel la convention est conclue [*délai, date de paiement*], sur production du relevé du
+répertoire prévu à l'article 1002 du code général des impôts.
+
+Toutefois  pour les conventions qui  ayant  une durée ferme excédant une année  comportent la stipulation  au profit de
+l'assureur  de sommes ou accessoires venant à l'échéance au cours des années autres que la première  la taxe peut être
+fractionnée par année  si  les parties l'ayant requis  il est fait mention de cette réquisition sur le répertoire prévu à
+l'article 1002 du code général des impôts et sur le relevé dudit répertoire. L'intermédiaire n'est alors tenu au paiement que
+de la taxe afférente aux sommes stipulées en faveur de l'assureur et de leurs accessoires qui viennent à échéance au cours de
+la première année.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1002
+
+	**Cité par**:
+
+	  - Code des assurances - art. A421-2 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 389
+
+La redevance prévue aux articles 992-II et 993-II du code général des impôts est versée au Trésor par les caisses
+d'assurances  dans les conditions fixées par le ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 992 II
+	  - CGI 993 II
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
+
+
+###### Article 390
+
+Dans les autres cas que ceux visés aux articles 385 à 389, ainsi que pour les années ou périodes pour lesquelles  dans les
+cas visés à l'article 388, l'intermédiaire n'est pas tenu au paiement de la taxe la taxe est versée par l'assuré à la recette
+des impôts du lieu de son domicile ou de sa résidence ou du lieu de la situation matérielle ou présumée du risque suivant les
+distinctions résultant de l'article 1000 du code général des impôts dans les trois premiers mois de l'année qui suit celle où
+se place chaque échéance des sommes stipulées au profit de l'assureur [*délai, date de paiement*] sur déclaration faisant
+connaître la date la nature et la durée de la convention l'assureur le montant du capital assuré celui des sommes stipulées
+au profit de l'assureur et de leurs accessoires et la date de leurs échéances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1000
+	  - CGIAN3 385
+	  - CGIAN3 386
+	  - CGIAN3 387
+	  - CGIAN3 388
+	  - CGIAN3 389
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### II : Paiement en valeurs du Trésor
+
+##### Droits de mutation à titre gratuit et à titre onéreux.
+
+###### Article 391
+
+Sous réserve de l'application des dispositions de l'article 392 la valeur de reprise des rentes et valeurs du Trésor qui
+peuvent être remises en paiement des droits de mutation par décès [*succession*] est fixée de la façon suivante :
+
+1° En ce qui concerne les rentes et valeurs du Trésor admises à la cote officielle de la Bourse de Paris :
+
+Au premier cours coté en bourse le cinquième jour de bourse précédant la date de la déclaration de la succession au service
+des impôts;
+
+2° et 3° (Dispositions périmées).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 392
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 392
+
+I. Les titres de l'emprunt 4,5 % 1973 à capital garanti émis en exécution du décret no 73-967 du 16 octobre 1973 sont admis
+en paiement des droits d'enregistrement ou de la taxe de publicité foncière sur les mutations à titre onéreux et à titre
+gratuit (1).
+
+II. La valeur de reprise des titres remis en paiement est calculée dans les conditions suivantes :
+
+Chaque année  deux arrêtés du ministre de l'économie et des finances fixent les valeurs auxquelles sont repris les titres
+admis en paiement des droits de mutation. Ces arrêtés sont publiés au Journal officiel  l'un avant le 31 mai pour fixer la
+valeur de reprise des titres admis en paiement entre le 1er juin et le 30 novembre  l'autre avant le 30 novembre pour fixer
+la valeur de reprise des titres admis en paiement entre le 1er décembre et le 31 mai. Les titres tirés au sort le deuxième
+lundi de mars et payables à partir du 1er juin sont remboursables sur la base de la valeur de reprise en paiement fixée par
+l'arrêté à intervenir avant le 31 mai.
+
+En aucun cas  la valeur de reprise de ces titres n'est inférieure à 250 F.
+
+(1) Voir toutefois art. 398.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 398
+	  - Décret n°73-967 1973-10-16
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 394
+
+Pour l'application des articles 391 et 392, les titre nominatifs ne sont acceptés en paiement que s'ils sont immatriculés
+soit au nom du défunt  soit au nom du débiteur de l'impôt.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 391
+	  - CGIAN3 392
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### III : Paiement fractionné ou différé des droits
+
+##### A : Mutations de jouissance.
+
+###### Article 395
+
+I. Lorsque la durée en est limitée  les baux écrits de fonds de commerce et de clientèles sont soumis gratuitement à la
+formalité de l'enregistrement.
+
+Le droit afférent à ces baux et aux baux écrits d'immeubles autres que ceux visés à l'article 395 bis est perçu annuellement
+au vu d'une déclaration souscrite par le bailleur.
+
+II. Le droit afférent aux mutations verbales de jouissance d'immeubles ou de clientèles civiles ainsi qu'aux prorogations
+conventionnelles ou légales de jouissance des mêmes biens non constatées par un acte est perçu annuellement au vu d'une
+déclaration souscrite par le bailleur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 395 bis
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1998
+
+
+###### Article 395 bis
+
+Les baux de biens ruraux s'entendent des baux écrits à durée limitée qui portent sur des immeubles bâtis ou non bâtis
+principalement affectés à l'exploitation agricole.
+
+En ce qui les concerne  le droit proportionnel d'enregistrement est fractionné :
+
+s'il s'agit d'un bail à durée fixe  en autant de paiements qu'il y a de périodes triennales dans la durée du bail ;
+
+s'il s'agit d'un bail à périodes  en autant de paiements que le bail comporte de périodes.
+
+Chaque paiement représente le droit afférent au loyer et aux charges stipulés pour la période à laquelle il s'applique ou
+éventuellement  à la valeur locative réelle  pour cette période  du bien loué  sauf aux parties  si le bail est à périodes et
+si la période dépasse trois ans  à requérir le fractionnement prévu ci-dessus.
+
+Le droit afférent à la première période du bail est seul acquitté lors de l'enregistrement de l'acte  celui afférent aux
+périodes suivantes est payé dans le mois du commencement de la nouvelle période à la diligence du propriétaire et du
+locataire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 395 quater
+
+Dans tous les cas où son paiement est subordonné au dépôt d'une déclaration ou fait l'objet d'un fractionnement  le droit
+d'enregistrement exigible sur les mutations de jouissance est liquidé au tarif en vigueur au premier jour de la période
+d'imposition.
+
+Les déclarations prévues aux articles 395 et 395 ter sont souscrites sur des formules délivrées par l'administration. Un
+arrêté du ministre de l'économie et des finances fixe les délais et autres modalités de production de ces déclarations (1).
+
+(1) Annexe IV, art. 61 à 65.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 395, 395 ter
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 395 ter
+
+Le droit proportionnel d'enregistrement exigible sur les locations de droits de pêche et de droits de chasse est acquitté
+annuellement dans les conditions suivantes :
+
+lorsque la location résulte d'un acte écrit  la première annuité est perçue au moment de l'enregistrement de l'acte ;
+
+lorsque la location ne résulte pas d'un acte écrit  elle doit être déclarée par le bailleur dans le délai d'un mois à compter
+de la conclusion du contrat au bureau des impôts compétent de la situation des biens. La première annuité du droit est
+acquittée  au moment de cette déclaration  par le bailleur  sauf son recours contre le preneur ;
+
+les annuités autres que la première sont acquittées par le preneur dans le mois du commencement de chaque nouvelle période
+au bureau des impôts précité.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+##### B : Mutations de propriété ou apports en société
+
+##### 1 : Champ d'application
+
+###### Article 397
+
+Le crédit de paiement différé prévu par l'article 1717 du code général des impôts est applicable aux droits d'enregistrement
+exigibles en raison des mutations par décès :
+
+1° qui comportent dévolution de biens en nue-propriété ;
+
+2° qui donnent lieu à l'attribution préférentielle prévue à l'article 832-1 du code civil ou à la réduction prévue à
+l'article 868 du même code  dans les conditions fixées par l'article 1722 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1717, 1722 bis
+	  - Code civil - art. 832-1 (M)
+	  - Code civil - art. 868 (T)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
+
+
+##### 2 : Dispositions générales
+
+###### Article 398
+
+Le crédit de paiement fractionné ou différé des impositions exigibles en raison des opérations mentionnées aux articles 396
+et 397 porte sur le principal des droits à l'exclusion des indemnités de retard qui peuvent être encourues ainsi que de tous
+droits et pénalités susceptibles d'être réclamés du fait d'insuffisances ou d'omissions.
+
+Il ne peut être accordé si le paiement des droits est effectué par remise des titres de l'emprunt 4,5 % 1973 à capital
+garanti émis en exécution du décret no 73-967 du 16 octobre 1973.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 396
+	  - CGIAN3 397
+	  - Décret n°73-967 1973-10-16
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 399
+
+La demande de crédit doit être soit formulée au pied de l'acte ou de la déclaration soumis à formalité soit jointe à l'un ou
+l'autre de ces documents. 
+
+Elle doit contenir une offre de garanties suffisantes que le débiteur de l'impôt s'engage à constituer à ses frais et dans
+les conditions et délais fixés à l'article 400.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 400 (V)
+
+
+###### Article 400
+
+Les garanties peuvent consister soit en des sûretés réelles d'une valeur au moins égale au montant des sommes au paiement
+desquelles il est sursis  soit en un engagement solidaire souscrit par une ou plusieurs personnes physiques ou morales
+agréées comme caution par le comptable des impôts.
+
+Les garanties doivent être constituées dans un délai de trois mois à compter de la date de la demande d'admission au crédit.
+Le comptable des impôts statue sur cette demande dans le même délai.
+
+Le comptable des impôts peut, à tout moment, si cela lui paraît nécessaire, exiger un complément de garanties. Ces garanties
+complémentaires doivent être constituées par le bénéficiaire du crédit dans un délai d'un mois compté de la demande qui lui
+est adressée à cet effet  par lettre recommandée avec avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 399 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 403 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1998-12-15 12C-5-98
+
+
+###### Article 404
+
+Les droits ayant fait l'objet de l'octroi du crédit peuvent être acquittés par anticipation. Dans cette hypothèse, les
+intérêts ne sont dus que jusqu'au jour du paiement des droits.
+
+
+
+##### 3 : Dispositions particulières
+
+##### 1° : Mutations par décès
+
+###### Article 404 B
+
+Le paiement différé prévu à l'article 397 est limité à la fraction des droits correspondant :
+
+soit à la valeur imposable de la nue-propriété s'il s'agit du cas prévu au 1° de cet article ;
+
+soit au montant des soultes ou récompenses payables à terme s'il s'agit des cas prévus au 2° du même article.
+
+Les dispositions de l'article 404 A, premier alinéa  sont applicables.
+
+Par dérogation à l'article 401, le bénéficiaire du paiement différé peut, dans le cas prévu au 1° de l'article 397 être
+dispensé du paiement des intérêts  à la condition que les droits de mutation par décès soient assis sur la valeur imposable
+au jour de l'ouverture de la succession  de la propriété entière des biens qu'il a recueillis.
+
+Le paiement des droits peut être différé jusqu'à l'expiration d'un délai qui ne peut excéder six mois comptés :
+
+soit de la date de la réunion de l'usufruit à la nue-propriété ou de la cession totale ou partielle de cette dernière ;
+
+soit du terme du délai imparti à l'attributaire, le légataire ou le donataire pour le paiement des sommes dont il est
+débiteur envers ses cohéritiers.
+
+La cession totale ou partielle par le légataire  le donataire ou l'attributaire du bien qui lui a été légué  donné ou
+attribué entraîne l'exigibilité immédiate des droits en suspens.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 397, 401, 404
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
+
+
+##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires
+
+###### Article 404 D
+
+Les droits et taxes dont le paiement est fractionné en application des dispositions du 3° de l'article 396 sont acquittés en
+cinq annuités égales. 
+
+L'aliénation autrement qu'à titre gratuit des biens acquis avec le bénéfice du fractionnement entraîne l'exigibilité
+immédiate des droits en suspens.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
+
+
+##### 4° : Offices ministériels
+
+###### Article 404 E
+
+Les droits et taxes dont le paiement est fractionné en application du 4° de l'article 396 sont acquittés en cinq annuités
+égales. 
+
+La cession ou la suppression de l'office attributaire, ainsi que la démission ou la destitution de son titulaire entraînent
+l'exigibilité immédiate des droits et taxes en suspens.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
+
+
+##### 5° : Rapatriés d'outre-mer et migrants ruraux
+
+###### Article 404 F
+
+Le fractionnement prévu au 5° de l'article 396 est limité aux droits et taxes exigibles sur la partie de la valeur imposable
+correspondant au montant du prêt consenti à l'acquéreur. 
+
+L'acquéreur doit à l'appui de sa demande d'admission au crédit produire une attestation de l'établissement prêteur indiquant
+la nature et le montant du prêt consenti. 
+
+Par dérogation aux dispositions de l'article 401, le fractionnement ne donne pas lieu au versement d'intérêts. 
+
+Les droits et taxes exigibles sont acquittés en cinq annuités égales. 
+
+Les dispositions de l'article 404 D, deuxième alinéa sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 401 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
+
+
+###### Article 404 G
+
+Les crédits de paiement fractionné ou différé en cours à la date d'entrée en vigueur du décret n° 77-498 du 11 mai 1977 sont
+maintenus de plein droit dans les conditions prévues aux articles 398 à 404 F.    Les intérêts exigibles sont calculés soit
+d'après le taux de l'intérêt légal qui était applicable le jour où les crédits ont été demandés  soit sur demande expresse du
+bénéficiaire du crédit d'après les taux de l'intérêt légal en vigueur au cours de la période à laquelle les intérêts se
+rapportent.
+
+L'option pour ce dernier mode de calcul doit être effectuée au plus tard lors de la première échéance postérieure à l'entrée
+en vigueur du présent décret. Elle est irrévocable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 398 à 404 F
+	  - Décret n°77-498 1977-05-11
+
+	**Abrogé par**:
+
+	  - Décret n°96-616 du 10 juillet 1996 - art. 2 () JORF 12 juillet 1996
+	  - Décret n°96-616 du 10 juillet 1996 - art. 4 (V) JORF 12 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 11 avril 1997
+
 
 #### V : Droits de timbre
 
+##### B : Paiement par emploi de machines à timbrer
+
+###### Article 405 B
+
+Les machines destinées à apposer les empreintes représentatives des divers droits de timbre perçus par le service des impôts
+doivent être agréées par le directeur général des impôts dans les conditions fixées par arrêté du ministre de l'économie et
+des finances (1).
+
+Les empreintes doivent être apposées dans les mêmes délais et aux mêmes emplacements que les timbres mobiles qu'elles
+remplacent.
+
+(1) Annexe IV, art. 71 à 75.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 71, 72, 73, 74, 75
+
+
 ##### C : Paiement par apposition de timbres mobiles
+
+###### Article 405 C
+
+Les timbres destinés à constater le paiement des droits dus sur les contrats de transport routier de marchandises  les
+expéditions en groupage et les permis de chasser en ce qui concerne le droit de visa font l'objet de séries spéciales
+distinctes pour chaque catégorie de documents.
+
+Tous les autres timbres sont d'une série unique.
+
+Les timbres des séries spéciales utilisées pour les contrats de transport se composent de deux types d'empreintes : une
+vignette portant l'indication du prix et une ou plusieurs estampilles de contrôle.
+
+Pour les expéditions en groupage, il peut être créé des timbres collectifs.
+
+
 
 ###### Article 405 D
 
@@ -360,15 +14966,347 @@ Ils sont immédiatement oblitérés.
 	  - Décret n°81-866 1981-09-15
 
 
+###### Article 405 E
+
+Par dérogation à l'article 405 D, les agents des postes chargés du recouvrement des effets négociables venant de l'étranger
+et payables en France sont autorisés à apposer sur ces écrits  au moment de l'encaissement seulement  les timbres mobiles
+représentant les droits à percevoir.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 405 D
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+##### D : Paiement au moyen du visa pour timbre
+
+###### Article 405 G
+
+Le visa pour timbre est donné au comptant ou en débet.
+
+Le visa pour timbre au comptant est effectué par les comptables des impôts qui peuvent y suppléer au moyen de l'apposition de
+timbres mobiles.
+
+
+
+##### E : Paiement de l'impôt sur états
+
+###### Article 405 H
+
+Lorsqu'il est facultatif, le paiement sur états est subordonné à une autorisation de l'administration, essentiellement
+révocable, et qui prend fin de plein droit à chaque changement d'exploitant. 
+
+La demande est présentée au service des impôts dont dépend le domicile le siège social ou le principal établissement du
+redevable. Elle indique le lieu où sont tenus les documents que celui-ci doit conserver dans les conditions fixées par les
+arrêtés d'application en vue du contrôle de l'administration. Lorsque ces documents sont établis et conservés dans des
+établissements distincts l'administration peut inviter l'intéressé à déposer une demande auprès du service des impôts du lieu
+de chacun de ces établissements. 
+
+Cette demande doit également comporter : 
+
+l'engagement par le demandeur de se soumettre aux conditions imposées par les articles 405 I et 406, les arrêtés
+d'application ou l'autorisation elle-même ; 
+
+pour les pouvoirs l'engagement par la société demanderesse d'acquitter pour le compte des mandants les droits de timbre
+exigibles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 405 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 (V)
+
+
+###### Article 406
+
+1. Dans tous les cas où le droit de timbre est payé sur états le recouvrement à défaut de versement dans les délais et dans
+les formes prescrites est poursuivi comme en matière de timbre.
+
+2. Dans cette même hypothèse si le redevable découvre des erreurs ou omissions les droits se rapportant à ces erreurs ou
+omissions font l'objet d'un état spécial détaillé en double exemplaire indiquant les différences en plus ou en moins. Cet
+état est fourni avec celui du mois pendant lequel ces erreurs ou omissions ont été constatées.
+
+Si des vérifications effectuées par l'administration il résulte un complément de droits au profit du Trésor ce complément est
+acquitté immédiatement. Dans le cas où la vérification ferait ressortir un excédent dans les versements effectués cet
+excédent serait imputé sur le montant du plus prochain versement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 405 H (V)
+
+
+#### VI : Taxes sur les véhicules à moteur
+
+##### Taxes sur les véhicules des sociétés
+
+###### Article 406 bis
+
+I. La procédure du paiement sur déclaration  prévue à l'article 887 du code général des impôts pour la contribution du timbre
+est applicable à la taxe sur les véhicules des sociétés visée à l'article 1010 du même code.
+
+La déclaration  souscrite sur des imprimés fournis par l'administration  est déposée  dans les deux premiers mois de chaque
+période d'imposition [*délai*] à la recette des impôts du lieu où doit être établie la déclaration de résultats de
+l'entreprise.
+
+L'impôt exigible est acquitté  lors du dépôt de cette déclaration par les moyens de paiement ordinaires.
+
+II. (Disposition périmée).
+
+III. Pour chaque période annuelle d'imposition  la taxe est liquidée par trimestre  en fonction du nombre et de la puissance
+fiscale des véhicules possédés ou utilisés par la personne morale au premier jour du trimestre.
+
+En ce qui concerne toutefois les véhicules loués  la taxe n'est due que si la durée de la location excède une période d'un
+mois civil ou de trente jours consécutifs. Elle est due au titre d'un seul trimestre si la durée de la location n'excède pas
+trois mois civils consécutifs ou quatre-vingt-dix jours consécutifs.
+
+IV. Le montant de la taxe due pour un trimestre et au titre d'un véhicule est égal au quart du taux annuel fixé à l'article
+1010 du code général des impôts.
+
+V. La taxe est payable en une seule fois  dans les conditions prévues au I, à l'expiration de la période d'imposition définie
+à l'article 310 E de l'annexe II au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1010
+	  - CGI 887
+	  - CGIAN2 310 E
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+## Chapitre I bis : Pénalités
+
+### Section II : Dispositions communes
+
+#### II : Infractions aux règles de la facturation
+
+##### Mise sous séquestre de l'entreprise de l'auteur du délit
+
+###### Article 406 A 13
+
+Les règles fixées par les articles 1 à 5,7 à 9,11 et 12 de l'arrêté validé du 23 novembre 1940 modifié par l'arrêté du 14
+septembre 1942 et l'arrêté du 11 janvier 1946 sont applicables aux séquestres ordonnés en application de l'article 1751 du
+code général des impôts dans la mesure où elles ne sont pas contraires aux dispositions de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1751 (V)
+
+
+###### Article 406 A 14
+
+La requête présentée par le service des domaines pour obtenir l'autorisation  prévue à l'article 9 de l'arrêté du 23 novembre
+1940, de continuer l'exploitation d'établissements commerciaux  industriels ou agricoles  doit obligatoirement faire état de
+l'avis du chef de service départemental de l'administration qui a provoqué la mise sous séquestre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1940-11-23 art. 9
+
+
+###### Article 406 A 15
+
+La mainlevée du séquestre peut être ordonnée par le juge d'instruction ou par le tribunal correctionnel, saisis, en tout état
+de la procédure  sur réquisitions du procureur de la République ou à la demande de l'intéressé. Elle peut l'être également
+hors le cas de saisine du juge d'instruction ou du tribunal correctionnel  par le président du tribunal  statuant en référé
+dans les conditions prévues aux articles 485 et 486 du nouveau code de procédure civile.
+
+Les réquisitions du parquet sont prises à la demande du directeur départemental de l'administration qui a provoqué la mise
+sous séquestre  dans le cas où aucune décision définitive n'est intervenue sur l'action publique  et à la demande du
+trésorier-payeur général dans le cas de décision définitive  jusqu'à et après l'exécution de cette décision.
+
+
+
+###### Article 406 A 16
+
+La clôture des opérations de séquestre est prononcée dans tous les cas par le président du tribunal de grande instance du
+domicile ou du siège social de la personne physique ou morale intéressée.
+
+
+
+#### III : Intérêts excédentaires.
+
+###### Article 406 A 16 A
+
+L'interdiction visée à l'article 1756 bis du code général des impôts s'appliquera pour tout paiement qui interviendra à
+compter du 1er novembre 1956 et qui portera sur des intérêts courus depuis la même date.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1756 bis
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 406 A 16 F
+
+Le pouvoir de statuer sur les demandes formées par les contrevenants à l'effet d'obtenir la remise des amendes encourues est
+réservé au ministre de l'économie et des finances. Ses décisions sont prises sur propositions conjointes du directeur général
+des impôts et du directeur du Trésor.
+
+
+
+### Section III : Dispositions particulières
+
+#### III : Droits d'enregistrement
+
+###### Article 406 A 27
+
+Lorsqu'un acte a fait l'objet d'un refus de publier et que la régularisation ne peut être opérée, aucune pénalité
+sanctionnant le retard dans l'exécution de la formalité de l'enregistrement n'est exigible si celle-ci est requise dans le
+délai prévu pour la formalité fusionnée.
+
+Pour le calcul de ce délai  il est fait abstraction de la période comprise entre le dépôt de l'acte refusé au bureau des
+hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient dans le mois de la notification du refus.
+
+
+
+## Chapitre II : Procédures
+
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects
+
+###### Article 416
+
+Les autres frais accessoires, tels que frais de transport de l'huissier, salaires des afficheurs, frais d'insertion dans les
+journaux sont supportés par le Trésor, les communes ou les établissements publics au profit desquels les poursuites sont
+exercées.
+
+
+
 ## Chapitre III : Dégrèvements et restitutions d'impôts
+
+### Section I : Juridiction contentieuse
+
+#### B : Disposition particulière aux droits d'enregistrement.
+
+###### Article 416 E
+
+Le rejet définitif de la formalité de publicité foncière ne constitue pas une cause de restitution des droits
+d'enregistrement régulièrement perçus.
+
+
 
 ### Section II : Juridiction gracieuse
 
 #### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs
 
+##### 1 : Cotes irrécouvrables
+
+###### Article 426
+
+Les comptables du Trésor chargés du recouvrement des impôts directs peuvent, chaque année à partir de celle qui suit la mise
+en recouvrement du rôle et dans les délais et conditions fixés par des instructions ministérielles, demander l'admission en
+non-valeurs des cotes irrecouvrables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-446 du 7 mai 2008 - art. 1 (V)
+	  - Décret n°2008-446 du 7 mai 2008 - art. 2 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 428 (V)
+
+
+###### Article 427
+
+L'instruction des demandes est faite par le service chargé de l'assiette des impôts et taxes figurant sur les états.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°99-889 du 21 octobre 1999 - art. 2 () JORF 22 octobre 1999
+
+
 ##### 2 : Sursis de versement et décharge de responsabilité
 
+##### a : Sursis de versement
+
+###### Article 430
+
+Les demandes de sursis de versement peuvent être présentées alors même que les cotes qu'elles visent n'auraient pas encore
+été portées sur des états de cotes irrecouvrables.
+
+
+
+###### Article 431
+
+Le sursis de versement est accordé pour une année.
+
+Il est susceptible d'être renouvelé sur demande ultérieure du comptable du Trésor chargé du recouvrement des impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 432 (V)
+
+
+##### b : Décharge de responsabilité
+
+###### Article 433
+
+Peuvent seules faire l'objet de demandes en décharge ou en atténuation de responsabilité les cotes qui, ayant figuré sur des
+états de cotes irrecouvrables, ont été rejetées desdits états.
+
+
+
+###### Article 436
+
+La responsabilité du comptable du Trésor chargé du recouvrement des impôts directs peut être dégagée en totalité ou en
+partie.
+
+Pour l'appréciation de cette responsabilité, il est tenu compte, notamment, des difficultés du recouvrement propres au poste
+géré, de la situation du service et du montant de l'indemnité allouée au comptable du Trésor en vertu de l'article 51 de la
+loi du 10 mars 1925, sans qu'il y ait lieu, cependant, en cas de faute ou de négligence grave, de maintenir les sommes
+laissées à la charge du comptable dans les limites de ladite indemnité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°1925-03-10 art. 51
+
+
 ##### c : Dispositions communes
+
+###### Article 439
+
+Les demandes de sursis de versement, ainsi que les demandes en décharge ou en atténuation de responsabilité présentées, en
+vertu des dispositions qui précèdent, par les comptables du Trésor chargés du recouvrement des impôts directs, ont un effet
+suspensif.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
 
 ###### Article 442
 
@@ -394,5 +15332,1539 @@ n'auraient pas versées.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 444
+
+La commission centrale appelée à donner son avis sur les demandes dans les cas prévus à l'article 435 est composée ainsi
+qu'il suit :
+
+Un inspecteur général des finances, président ;
+
+L'agent judiciaire du Trésor public ;
+
+Un sous-directeur de la direction de la comptabilité publique ;
+
+Un représentant de la direction générale des impôts ;
+
+Un directeur des services fiscaux désigné par le directeur général des impôts ;
+
+Un trésorier-payeur général désigné par le directeur de la comptabilité publique ;
+
+Un comptable du Trésor chargé du recouvrement des impôts directs désigné par le directeur de la comptabilité publique.
+
+Le président  absent ou empêché  est remplacé par l'agent judiciaire du Trésor public.
+
+En cas de partage égal des voix  la voix du président est prépondérante.    Un administrateur civil de la direction de la
+comptabilité publique remplit les fonctions de secrétaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 435
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+
+# RECOUVREMENT DE L'IMPOT
+
+## PAIEMENT DE L'IMPOT
+
+### IMPOTS DIRECTS ET TAXES ASSIMILEES.
+
+###### Article 359
+
+L'impôt sur les sociétés donne lieu au versement d'acomptes pour chaque période servant de base aux impositions  dans les
+conditions fixées par l'article 1668 du code général des impôts  le premier de ces acomptes étant celui dont l'échéance
+consécutive au commencement de ladite période  en est le plus rapprochée.
+
+Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus  les sociétés pour lesquelles le montant de l'impôt sur
+les sociétés correspondant aux bénéfices de référence définis à l'article 360 n'excède pas 100 F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1668
+	  - CGIAN3 360
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 360
+
+Les acomptes sont calculés par la société et versés par elle sans avis d'imposition dans les vingt premiers jours des mois de
+février mai août et novembre de chaque année [*délai,date de paiement*] à la caisse du comptable du Trésor chargé du
+recouvrement des impôts directs du lieu d'imposition défini par l'article 218 A du code général des impôts. Lorsqu'une
+société modifie le lieu de son principal établissement après l'échéance du premier acompte afférent à un exercice déterminé
+les acomptes subséquents doivent être versés à la caisse du comptable du Trésor habilité à percevoir le premier acompte.
+
+Chacun des premier et quatrième acomptes est égal [*montant*] au quart de l'impôt calculé sur les quatre cinquièmes des
+bénéfices imposables déterminés d'après les résultats du plus récent exercice clos à la date de son échéance ou lorsqu'aucun
+exercice n'a été clos au cours d'une année d'après les résultats de la dernière période d'imposition.
+
+Chacun des deuxième et troisième acomptes est égal au quart de l'impôt calculé sur le montant total des bénéfices définis à
+l'alinéa précédent.
+
+Toutefois  en cas d'exercice d'une durée inférieure ou supérieure à un an  les acomptes sont calculés sur la base des
+bénéfices rapportés à une période de douze mois.
+
+Par dérogation aux dispositions du deuxième alinéa  l'acompte dont l'échéance est comprise entre la date de clôture d'un
+exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé à l'article 223-1, deuxième alinéa
+du code général des impôts  est calculé  s'il y a lieu  sur les quatre cinquièmes des bénéfices afférents à l'exercice ou à
+la période d'imposition précédente et dont le délai de déclaration est expiré. Le montant de cet acompte est régularisé sur
+la base des résultats du dernier exercice ou de la dernière période d'imposition lors du versement du plus prochain acompte.
+
+Le montant des acomptes est arrondi au franc inférieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 218 A
+	  - CGI 223 1 AL. 2
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies M (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 377 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YZH (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY septies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies Q (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies X (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YC (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YO (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 363
+
+La société  qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur aux cotisations
+dont elle sera finalement redevable pour cet exercice  peut se dispenser d'effectuer de nouveaux versements d'acomptes en
+remettant au comptable du Trésor chargé du recouvrement des impôts directs  quinze jours avant la date d'exigibilité du
+prochain versement à effectuer une déclaration datée et signée.
+
+Si  par la suite  cette déclaration est reconnue inexacte de plus du dixième la majoration de 10 % [*sanction, pénalité*],
+visée à l'article 364, sera appliquée aux sommes qui n'auront pas été versées aux échéances prévues.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 364
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 381 K
+
+En ce qui concerne les emprunts à revenu fixe visés aux articles 118 et 119 du code général des impôts  l'impôt  avancé sur
+les produits courus pendant chaque trimestre  conformément à l'article 1673 du code général des impôts  est versé dans les
+vingt premiers jours des mois de janvier  avril  juillet et octobre de chaque année à la recette des impôts compétente.
+
+L'impôt est versé aux mêmes dates et à la même recette pour les lots et primes de remboursement mis en paiement au cours du
+trimestre précédent.
+
+A l'appui du versement  il est remis :
+
+a. Un état indiquant [*mentions*] :
+
+1o Le nombre des titres amortis;
+
+2o Le taux d'émission de ces titres déterminé conformément aux dispositions des articles 41 octies à 41 duodecies ci-dessus;
+
+3o Le cas échéant  le prix de rachat en bourse de ces mêmes titres;
+
+4o Le montant des lots et des primes revenant aux titres amortis;
+
+5o La somme sur laquelle la retenue à la source est exigible.
+
+b. Et  s'il y a lieu  une copie du procès-verbal de tirage au sort des titres amortis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 118
+	  - CGI 119
+	  - CGI 1673
+	  - CGIAN3 41 octies A CGIAN3 41 duodecies
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 381 KB (VT)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 188 J (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 381 O
+
+Les erreurs commises dans le calcul des acomptes du solde de liquidation des majorations les omissions totales ou partielles
+constatées dans l'assiette de la retenue à la source afférente aux revenus des valeurs mobilières peuvent être réparées
+jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle les versements étaient exigibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 381 X
+
+A défaut d'exécution spontanée des versements prévus à l'article 381 U, il est fait application par les agents commissionnés
+chargés du contrôle de la participation des employeurs  de la procédure décrite à l'article 163 quindecies de l'annexe II au
+code général des impôts. Cette procédure est également applicable aux versements indiqués aux articles 1783 quater et 1783
+quinquies du même code.
+
+La caisse du comptable des impôts compétente pour recevoir les versements résultant de la procédure prévue à l'alinéa
+précédent est celle définie à l'article 381 W.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1783 quater
+	  - CGI 1783 quinquies
+	  - CGIAN2 163 quindecies
+	  - CGIAN3 381 U
+	  - CGIAN3 381 W
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 383 quater
+
+1. L'imputation de la déduction visée aux articles 244 quinquies et 244 septies du code général des impôts peut être opérée à
+compter de la remise au comptable de la déclaration et des pièces justificatives prévues à l'article 49 undecies de la
+présente annexe.
+
+Si la pièce visée à l'article 49 undecies-1-c fait défaut la demande d'imputation ne peut être prise en considération qu'à
+concurrence de la valeur hors taxe des biens ouvrant droit à déduction.
+
+Sauf avis contraire du redevable l'imputation est effectuée par le comptable du Trésor au fur et à mesure de l'exigibilité de
+l'impôt désigné dans la déclaration.
+
+2. Les sociétés qui ont demandé l'imputation de la déduction pour investissement sur l'impôt sur les sociétés peuvent
+reporter cette déduction sur le précompte ou inversement à la condition d'en aviser le comptable auquel a été adressée la
+déclaration prévue à l'article 49 undecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quinquies
+	  - CGI 244 septies
+	  - CGIAN3 49 undecies 1 c
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 383 quinquies
+
+Lorsque l'investissement est réalisé par une société dont les bénéfices sont imposés dans les conditions prévues à l'article
+8 du code général des impôts  la déduction pour investissement est répartie entre les associés ou participants  en proportion
+de leurs droits dans les bénéfices sociaux à la date de la réalisation de l'investissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 8
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 383 septies
+
+Lorsque la déduction opérée est reconnue non fondée en tout ou en partie les droits dont le paiement a été éludé sont
+recouvrés suivant les procédures avec les garanties et sous les sanctions applicables à l'impôt sur lequel l'imputation a été
+faite.
+
+Le rôle ou l'avis de mise en recouvrement correspondant est émis dans les conditions et délais prévus à l'article 1966 du
+code général des impôts au titre de l'année au cours de laquelle l'imputation litigieuse a été pratiquée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1966
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 383 sexies
+
+En cas de changement d'exploitant  les déductions pour investissement non encore imputées peuvent être utilisées  sur sa
+demande  par le nouvel exploitant  lorsque l'exploitation est continuée dans les conditions prévues à l'article 41 du code
+général des impôts.
+
+Il en est de même lorsque les biens ouvrant droit à la déduction font l'objet d'un apport soumis au régime fiscal des fusions
+défini aux articles 210 A à 210 C du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 210 A
+	  - CGI 210 B
+	  - CGI 210 C
+	  - CGI 41
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.
+
+###### Article 384 C
+
+1. L'IMPUTATION DE LA DEDUCTION POUR INVESTISSEMENT SUR LA TAXE SUR LA VALEUR AJOUTEE, PREVUE PAR L'ARTICLE 244 NONIES DU
+CODE GENERAL DES IMPOTS, EST REGIE PAR LES DISPOSITIONS DES ARTICLES 383 QUATER A 383 SEPTIES DE LA PRESENTE ANNEXE, SOUS
+RESERVE DES DISPOSITIONS DES 2 ET 3.
+
+2. LORSQUE L'OPTION VISEE A L'ARTICLE 244 NONIES DU CODE GENERAL DES IMPOTS EST EXERCEE PAR UNE PERSONNE MORALE OU UN
+ORGANISME DONT LES BENEFICES SONT IMPOSES DANS LES CONDITIONS PREVUES A L'ARTICLE 8 DU MEME CODE LES DISPOSITIONS DE
+L'ARTICLE 383 QUINQUIES DE LA PRESENTE ANNEXE NE SONT PAS APPLICABLES ET L'IMPUTATION NE PEUT ETRE OPEREE QUE PAR LA PERSONNE
+MORALE OU L'ORGANISME INTERESSE 3 . L'IMPUTATION DE LA DEDUCTION POUR INVESTISSEMENT EST OPEREE SUR LA TAXE SUR LA VALEUR
+AJOUTEE DONT L'ENTREPRISE EST REDEVABLE APRES AVOIR EFFECTUE LES DEDUCTIONS AUXQUELLES ELLE PEUT PRETENDRE CONFORMEMENT AUX
+DISPOSITIONS PRISES EN APPLICATION DES ARTICLES 271 ET 273 DU CODE GENERAL DES IMPOTS.
+
+POUR BENEFICIER DE CETTE IMPUTATION, LES ENTREPRISES SONT TENUES DE JOINDRE A LA DECLARATION PREVUE A L'ARTICLE 287-1 DU CODE
+PRECITE UNE DEMANDE SPECIALE D'IMPUTATION CONFORME AU MODELE PRESCRIT PAR L'ADMINISTRATION.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 nonies
+	  - CGI 271
+	  - CGI 273
+	  - CGI 287 1
+	  - CGI 8
+	  - CGIAN3 383 quater
+	  - CGIAN3 383 quinquies
+	  - CGIAN3 383 septies
+	  - CGIAN3 383 sexies
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+	  - SPEC_APPLI: LE TITRE  : IMPUTATION SUR LA TAXE SUR LA VALEUR AJOUTEE DE LA  DEDUCTION FISCALE POUR INVESTISSEMENT EST SUPPRIME
+
+
+### ENREGISTREMENT - PUBLICITE FONCIERE.
+
+###### Article 396
+
+Le crédit de paiement fractionné prévu à l'article 1717 du code général des impôts est applicable aux droits
+d'enregistrement, à la taxe de publicité foncière et aux taxes additionnelles exigibles en raison :
+
+1° des mutations par décès ;
+
+2° des apports en société prévus aux articles 809-I-3° 809-II et 812-I-1° et 2° du code précité ;
+
+3° des acquisitions effectuées dans le cadre des dispositions de l'article 88 de la loi n° 67-563 du 13 juillet 1967 sur le
+règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes; 4° des paiements d'indemnités
+entre officiers publics et ministériels par suite de suppression d'offices ;
+
+5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article
+30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis
+dans le cadre des dispositions de l'article 686 du code rural au profit d'agriculteurs dont la qualité de migrant a été
+reconnue par le ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1717
+	  - CGI 809 I 3°, II
+	  - CGI 812 I 1°, 2
+	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
+	  - Code rural 686
+
+	**Cité par**:
+
+	  - Arrêté du 3 septembre 2009 (V)
+	  - Arrêté du 3 septembre 2009 - art. 2 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 398 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 401
+
+Les droits et taxes dont le paiement est fractionné ou différé donnent lieu au versement d'intérêts dont le taux est égal au
+taux de l'escompte pratiqué par la Banque de France au jour de la demande de crédit. Ce taux est applicable pendant toute la
+durée du crédit.
+
+Les intérêts sont acquittés :
+
+s'il s'agit d'un paiement fractionné  lors du versement de chaque fraction  à laquelle ils s'ajoutent;
+
+s'il s'agit d'un paiement différé  annuellement  le premier terme venant à échéance un an après l'expiration du délai imparti
+pour souscrire la déclaration de succession.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 403 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GA (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 402
+
+Le premier versement des droits dont le paiement fractionné est autorisé doit être effectué au moment de l'accomplissement de
+la formalité fusionnée ou de l'enregistrement.
+
+Les fractions suivantes sont exigibles selon un échéancier établi pour chacun des droits concernés  dans les conditions
+fixées aux articles 404 A à 404 G.
+
+Leur paiement doit intervenir dans le mois suivant chaque échéance [*date, délai*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 404 A
+	  - CGIAN3 404 B
+	  - CGIAN3 404 C
+	  - CGIAN3 404 D
+	  - CGIAN3 404 E
+	  - CGIAN3 404 F
+	  - CGIAN3 404 G
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 403
+
+Le redevable est déchu du bénéfice du crédit [*déchéance*] :
+
+en cas de défaut de constitution des garanties ou du complément de garanties dans les délais respectivement impartis à
+l'article 400;     en cas de retard dans le paiement de l'un quelconque des termes échus.
+
+La déchéance entraîne l'exigibilité immédiate des droits en suspens  majorés de l'indemnité de retard prévue à l'article 1727
+du code général des impôts. Cette indemnité est exclusive de l'intérêt prévu à l'article 401.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1727
+	  - CGIAN3 400
+	  - CGIAN3 401
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 404 A
+
+Les garanties fournies en contrepartie du fractionnement prévu à l'article 396-1o peuvent  outre les formes énumérées à
+l'article 400, revêtir celle de l'hypothèque légale prévue à l'article 1929-2 du code général des impôts.
+
+Les droits sont acquittés en plusieurs versements égaux  dont le premier a lieu dans les conditions fixées à l'article 402 et
+le dernier au plus tard cinq ans après l'expiration du délai imparti pour souscrire la déclaration de succession.
+
+Les versements sont fixés au nombre de deux lorsque les droits n'excèdent pas 5 % du montant taxable des parts recueillies
+soit par tous les cohéritiers solidaires  soit pour chacun des légataires ou donataires; de quatre  lorsque ces droits
+n'excèdent pas 10 % du même montant et ainsi de suite en augmentant de deux le nombre des versements chaque fois que les
+droits dépassent un nouveau multiple de 5 %, mais sans que le nombre des versements  à intervalle de six mois au plus  puisse
+être supérieur à dix.
+
+Pour les droits à la charge des héritiers en ligne directe et du conjoint du défunt  le délai maximal prévu au deuxième
+alinéa est porté à dix ans  et le nombre des versements est doublé sans pouvoir toutefois dépasser vingt  lorsque l'actif
+héréditaire comprend  à concurrence de 50 % au moins  des biens non liquides énumérés ci-après :
+
+Brevets d'invention;
+
+Clientèles;
+
+Créances non exigibles au décès;
+
+Droits d'auteur;
+
+Fonds de commerce y compris le matériel et les marchandises qui en dépendent;
+
+Immeubles;
+
+Matériels agricoles  bestiaux et récoltes;
+
+Offices ministériels;
+
+Parts d'intér ts dans des sociétés dont le capital n'est pas divisé en actions;
+
+Valeurs mobilières non cotées en Bourse.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1929 2
+	  - CGIAN3 396 1°
+	  - CGIAN3 400
+	  - CGIAN3 402
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 402 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 404 C
+
+Les droits et taxes exigibles sur les apports en société et dont le paiement est fractionné en application des dispositions
+de l'article 396-2o sont acquittés en trois annuités égales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 396 2°
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+### DROITS DE TIMBRE.
+
+###### Article 405 F
+
+Lorsqu'elle est manuscrite  l'oblitération s'effectue par l'apposition à l'encre indélébile  en travers de chaque timbre  de
+la date de l'oblitération et de la signature de l'un quelconque des redevables ou de l'autorité administrative.
+
+Cette oblitération manuscrite peut  tre remplacée par l'apposition à l'encre grasse :
+
+soit d'un cachet faisant connaître le nom ou la raison sociale du contribuable et la date de l'oblitération;
+
+soit du cachet réglementaire à date de l'autorité ou du fonctionnaire compétent.
+
+Dans tous les cas  l'oblitération est faite de telle manière  qu'elle figure partie sur le timbre mobile et partie sur le
+papier ou le document passible du droit.
+
+Pour les affiches  l'oblitération peut aussi être constituée par l'inscription sur les timbres d'une ou de plusieurs lignes
+du texte.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 405 I
+
+Les droits sont perçus par les redevables bénéficiant de l'autorisation  sous leur responsabilité et à leurs risques et
+périls.
+
+La perception de l'impôt est constatée par l'apposition  très apparente  d'une formule comprenant :
+
+la mention " droit de timbre payé sur état ";
+
+la date de l'autorisation  lorsque celle-ci est nécessaire.
+
+L'apposition de cette formule n'est pas obligatoire lorsqu'il s'agit des droits visés aux articles 306-2o et 313 F-3o-b ou
+des droits dus sur les tickets de pari mutuel ou sur les bulletins de bagages délivrés par les compagnies de chemins de fer
+autres que la société nationale des chemins de fer français.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 306 2°
+	  - CGIAN3 313 F 3° b
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 405 H (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H ter (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+## PENALITES.
+
+###### Article 406 A 12
+
+La mise sous séquestre  totale ou partielle  des biens des personnes à l'encontre desquelles des poursuites sont exercées
+pour des infractions visées à l'article 1751-1 du code général des impôts est prononcée  dans les conditions fixées par cet
+article  à la demande du chef de service départemental de l'administration pour le compte de laquelle sont engagées ces
+poursuites.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1751 1
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 406 A 16 B
+
+Les infractions aux dispositions de l'article 17 de la loi no 56-760 du 2 août 1956 sont constatées  comme en matière de
+timbre :
+
+Par les trésoriers-payeurs généraux  les receveurs particuliers des finances ou leurs préposés;
+
+Par les agents des impôts.
+
+Les procès-verbaux sont dressés à la requête du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+	**Cite**:
+
+	  - Loi n°56-760 du 2 août 1956 - art. 17, v. init.
+
+
+###### Article 406 A 16 bis
+
+L'indemnité de retard exigible en vertu de l'article 1759 ter-1 du code général des impôts est décomptée depuis le mois de
+l'imputation contestée jusqu'au mois de la mise en recouvrement du rôle ou de la notification de l'avis de mise en
+recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1759 ter 1
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 406 A 16 C
+
+En ce qui concerne les établissements relevant de la compétence du conseil national du crédit par application des lois des 13
+et 14 juin 1941 et 2 décembre 1945, les infractions aux dispositions de l'article 17 de la loi no 56-760 du 2 août 1956
+peuvent également être constatées  dans les formes prévues à l'article 406 A 16 B, par les inspecteurs de la banque de France
+spécialement habilités à cet effet par le gouverneur de la banque de France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 406 A 16 B
+	  - Loi n°1941-06-13
+	  - Loi n°1941-06-14
+	  - Loi n°1945-12-02
+	  - Loi n°56-760 du 2 août 1956 - art. 17, v. init.
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+	**Abrogé par**:
+
+	  - Loi n°84-46 1984-01-24 art. 90 JORF 25 janvier 1984
+
+
+###### Article 406 A 16 D
+
+Les amendes fiscales sanctionnant les infractions visées à l'article 406 A 16 B sont recouvrées comme en matière de timbre et
+notamment  suivant les dispositions prévues aux articles 1915 à 1918, 1947, 1952, 1953 et 1956-1 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1915
+	  - CGI 1916
+	  - CGI 1917
+	  - CGI 1918
+	  - CGI 1947
+	  - CGI 1952
+	  - CGI 1953
+	  - CGI 1956 1
+	  - CGIAN3 406 A 16 B
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 406 A 16 E
+
+L'action du Trésor pour la constatation des infractions mentionnées à l'article 406 A 16 B est prescrite [*prescription*] à
+l'expiration du délai prévu à l'article 1976, deuxième alinéa du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1976 AL. 2
+	  - CGIAN3 406 A 16 B
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+## PROCEDURES.
+
+###### Article 415
+
+Sont à la charge des redevables poursuivis les frais accessoires ci-après :
+
+Frais d'ouverture des portes;
+
+Notification au saisi en cas de saisie-exécution hors de son domicile et en son absence;
+
+Notification au maire ou au parquet dans les cas prévus par les articles 656, 659, 660, 684 et 691 du nouveau code de
+procédure civile;
+
+Remise des actes sous enveloppe;
+
+Copie supplémentaire au mari en cas de poursuites contre la femme;    Levée des états d'inscriptions grevant les fonds de
+commerce;
+
+Dénonciation de la saisie-exécution aux créanciers inscrits sur les fonds de commerce;
+
+Dénonciation de la saisie-brandon au garde-champêtre non présent à la saisie;
+
+Récolement lorsque le gardien a obtenu décharge et qu'un nouveau gardien est établi;
+
+Sommation au saisissant de faire vendre dans la huitaine les objets saisis;
+
+Frais de garde des meubles ou récoltes saisis;
+
+Frais de transport des objets saisis;
+
+Honoraires du commissaire-priseur sur le produit de la vente;
+
+Allocation due  en dehors du cas de saisie interrompue  lorsque après déplacement de l'agent de poursuites  l'acte de
+poursuites n'est pas effectué à raison d'un incident provenant du fait de la partie qui devait être poursuivie.
+
+Ces frais sont comptés aux redevables en conformité du tarif des huissiers de justice  des agents huissiers du Trésor ou des
+commissaires-priseurs suivant que les poursuites sont faites par un huissier de justice  un agent huissier du Trésor ou un
+commissaire-priseur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de procédure civile 684 NOUVEAU
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS
+
+### JURIDICTION CONTENTIEUSE.
+
+###### Article 416 A
+
+Lorsque des garanties autres que celles qui sont prévues aux articles 1952 et 1953 du code général des impôts sont offertes
+elles ne peuvent être acceptées  sur la proposition du comptable chargé du recouvrement  que par le trésorier-payeur général
+ou par le receveur général des finances  trésorier-payeur général de la région parisienne s'il s'agit d'impôts directs perçus
+par voie de rôle et par le directeur des services fiscaux s'il s'agit d'autres impôts droits ou taxes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1952
+	  - CGI 1953
+
+	**Nouveaux textes**:
+
+	  - CGI R277-3
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 416 B
+
+Un arrêté du ministre de l'économie et des finances (1) détermine les conditions dans lesquelles les valeurs mobilières
+peuvent être constituées en garantie et notamment la nature de ces valeurs  ainsi que le montant pour lequel elles sont
+admises  ce montant étant calculé d'après le dernier cours coté au jour du dépôt.
+
+(1) Annexe IV, art. 207 A à 207 N
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R277-6
+
+	**Cite**:
+
+	  - CGIAN4 207 A à CGIAN4 207 N
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 416 C
+
+Le contribuable peut être admis par le comptable chargé du recouvrement  à toute époque  à remplacer la garantie qu'il a
+constituée par l'une des autres garanties prévues à l'article 416 A, d'une valeur au moins égale.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R277-4
+
+	**Cite**:
+
+	  - CGIAN3 416 A
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 416 D
+
+A défaut de constitution de garantie dans les conditions prévues par les articles 416 A à 416 C, le contribuable qui a
+réclamé le bénéfice des dispositions des articles 1952 et 1953 du code général des impôts peut  en cas de saisie de matériel
+ou de marchandises indispensables à l'exercice de sa profession  être autorisé  soit par le trésorier-payeur général ou par
+le receveur général des finances trésorier-payeur général de la région parisienne  soit par le directeur des services fiscaux
+après avis du comptable chargé du recouvrement  à vendre des objets saisis  à charge par lui soit de les remplacer par des
+objets de valeur au moins égale  soit d'en consigner le prix de vente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1952
+	  - CGI 1953
+	  - CGIAN3 416 A
+	  - CGIAN3 416 B
+	  - CGIAN3 416 C
+
+	**Nouveaux textes**:
+
+	  - CGI R277-5
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+### JURIDICTION GRACIEUSE.
+
+###### Article 417
+
+Les demandes tendant à obtenir à titre gracieux soit une remise ou une modération  soit une transaction doivent être
+adressées au service des impôts dont dépend le lieu de l'imposition. Elles doivent contenir les indications nécessaires pour
+identifier l'imposition en cause et  le cas échéant  être accompagnées soit de l'avis d'imposition  d'une copie de cet avis
+ou d'un extrait de rôle  soit de l'avis de mise en recouvrement ou d'une copie de cet avis relatif à ladite imposition.
+
+Elles ne sont pas soumises au droit de timbre.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R247-1
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 418
+
+Les demandes sont instruites par l'agent des impôts compétent.
+
+En matière d'impôts directs et à l'exception de celles qui concernent les impôts sur les revenus et les amendes fiscales
+elles sont soumises à l'avis du maire.
+
+En toute matière fiscale  et nonobstant les dispositions des articles 419 et 419 A  le directeur des services fiscaux peut
+statuer sans instruction préalable sur les demandes de transaction et de remise ou modération qui  en l'état des procédures
+en cours à l'époque où elles sont formées  ne peuvent être favorablement accueillies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 419
+	  - CGIAN3 419 A
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R247-2 (al. 1 et 3 du CGIAN3 418)
+
+
+###### Article 419
+
+Sous réserve des dispositions de l'article 419 A, le pouvoir de statuer sur les demandes des contribuables tendant à une
+transaction remise ou modération est dévolu :
+
+au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
+n'excèdent pas 200.000 F par cote exercice ou affaire selon la nature des impôts;
+
+au directeur régional ou au directeur des services fiscaux chargé d'une direction spécialisée pour les affaires relatives à
+des impositions établies à l'initiative des agents placés sous son autorité lorsque les sommes faisant l'objet de la demande
+n'excèdent pas 300.000 F par cote exercice ou affaire;
+
+au directeur général lorsque les sommes faisant l'objet de la demande n'excèdent pas 500.000 F par cote exercice ou affaire;
+
+au ministre dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R247-4
+
+	**Cite**:
+
+	  - CGIAN3 419
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 419 A
+
+Le pouvoir de statuer sur les demandes tendant à une transaction remise ou modération en matière de contributions indirectes
+est exercé :
+
+par le directeur des services fiscaux lorsque les droits ou la valeur qui servent de base au calcul des pénalités ou en
+l'absence d'une telle base le montant des amendes n'excèdent pas 200.000 F et qu'en outre le montant des droits effectivement
+fraudés ne dépasse pas le quart de ce chiffre;
+
+par le directeur général quel que soit le montant des amendes lorsque le montant des droits effectivement fraudés ne dépasse
+pas 100.000 F;
+
+par le ministre dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R247-5
+
+	**Cité par**:
+
+	  - Décret n°80-591 du 24 juillet 1980 - art. 2 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 419 B
+
+Par dérogation aux dispositions des articles 419 et 419 A, le directeur général des impôts est compétent pour statuer sur les
+demandes qui relèveraient normalement de la compétence du ministre lorsqu'elles sont présentées soit pour un contribuable en
+état de règlement judiciaire dans les conditions prévues à l'article 69 de la loi no 67-563 du 13 juillet 1967, soit par un
+redevable admis au bénéfice de la suspension provisoire des poursuites prévue par l'ordonnance no 67-820 du 23 septembre
+1967.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R247-6
+
+	**Cite**:
+
+	  - CGIAN3 419
+	  - CGIAN3 419 A
+	  - Loi n°67-563 du 13 juillet 1967 - art. 69 (Ab)
+	  - Ordonnance 67-820 1967-09-23
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 420
+
+Les décisions prises par le directeur des services fiscaux ou le directeur régional sont susceptibles de recours devant le
+directeur général.
+
+Les décisions rendues par le directeur général ou par le ministre peuvent faire l'objet de recours devant les mêmes autorités
+mais seulement si des faits nouveaux sont invoqués.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R247-7
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 421
+
+Des remises ou modérations d'impôts directs ou en toute matière fiscale de pénalités peuvent être prononcées des transactions
+peuvent être consenties sur l'initiative du service des impôts dans les limites et conditions fixées par le directeur général
+des impôts après avis du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R247-8
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 422
+
+Les décisions prises en vertu des articles 419 à 421 sont notifiées aux intéressés dans les conditions fixées par l'article
+2009 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 2009
+	  - CGIAN3 419
+	  - CGIAN3 419 A
+	  - CGIAN3 419 B
+	  - CGIAN3 420
+	  - CGIAN3 421
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 422 A
+
+Les dispositions des articles 417 à 422 ne sont pas applicables aux demandes tendant à obtenir à titre gracieux une remise ou
+une modération des pénalités afférentes à l'assiette de la taxe locale d'équipement. Ces demandes doivent être adressées au
+ministère chargé de l'urbanisme  qui statue.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 417, 418, 419 A, 419 B, 420, 421,422
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 423
+
+Les tiers qui  par application des dispositions du code général des impôts ou de toutes autres dispositions des lois fiscales
+sont tenus de payer l'impôt en l'acquit des redevables  peuvent soumettre à la juridiction gracieuse une demande tendant à
+être dispensés de l'obligation qu'ils assument en vertu des dispositions précitées.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 424
+
+1. En ce qui concerne les impôts recouvrés par les comptables directs du Trésor  la demande est adressée au trésorier-payeur
+général dont dépend le lieu d'imposition.
+
+Après examen de la demande  le trésorier-payeur général prend l'avis du directeur des services fiscaux.
+
+2. En ce qui concerne les impôts recouvrés par les comptables de la direction générale des impôts  la demande est adressée au
+directeur des services fiscaux dont dépend le comptable chargé du recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R427-10 (1 du CGIAN3 424)
+	  - Livre des procédures fiscales R427-11 (2 du CGIAN3 424)
+
+
+###### Article 425
+
+1. En matière d'impôts recouvrés par les comptables directs du Trésor le trésorier-payeur général statue lorsque le versement
+dont le requérant demande à être dispensé n'excède pas par cote le montant des sommes dont l'admission en non-valeurs peut
+être prononcée par le directeur des services fiscaux en vertu de l'article 428 et que son avis concorde avec celui du chef de
+service consulté.
+
+Le directeur de la comptabilité publique statue :
+
+lorsque s'agissant de sommes n'excédant pas les limites de la compétence du trésorier-payeur général l'avis de ce dernier ne
+concorde pas avec celui du directeur des services fiscaux et qu'ayant été saisies de l'affaire en raison de ce désaccord la
+direction de la comptabilité publique et la direction générale des impôts ont émis des avis concordants;
+
+lorsque s'agissant de sommes excédant les limites de la compétence du trésorier-payeur général la direction de la
+comptabilité publique et la direction générale des impôts ont émis des avis concordants.
+
+Le ministre statue après avis du comité des remises et transactions quel que soit le montant des sommes dues lorsque les avis
+émis par la direction de la comptabilité publique et la direction générale des impôts ne sont pas concordants.
+
+2. En ce qui concerne les impôts recouvrés par les comptables de la direction générale des impôts le pouvoir de statuer est
+dévolu :
+
+au directeur des services fiscaux lorsque les sommes faisant l'objet de la demande n'excèdent pas 200.000 F par exercice ou
+affaire selon la nature des impôts;
+
+au directeur général après avis du conseil d'administration lorsque les sommes faisant l'objet de la demande n'excèdent pas
+500.000 F par exercice ou affaire;
+
+au ministre après avis du comité des remises et transactions dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 428
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R427-10 (1 du CGIAN3 425)
+	  - Livre des procédures fiscales R427-11 (2 du CGIAN3 425)
+
+
+###### Article 428
+
+Le pouvoir de statuer est dévolu :
+
+au directeur des services fiscaux [*autorité compétente*] lorsque les sommes dont l'admission en non-valeurs est demandée
+n'excèdent pas 200.000 F par cote;
+
+au directeur général des impôts  d'accord avec le directeur de la comptabilité publique  lorsqu'il s'agit de sommes excédant
+les limites de compétence du directeur des services fiscaux;
+
+au ministre  après avis du comité des remises et transactions  en cas de désaccord entre le directeur général des impôts et
+le directeur de la comptabilité publique.
+
+Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 429
+
+En dehors des cas de remises de débet  les comptables du Trésor responsables du recouvrement des contributions directes  dont
+ils ont pris les rôles en charge  et tenus de justifier de leur entière réalisation dans le délai fixé par les lois et
+règlements en vigueur ne peuvent être dispensés de verser  en tout ou en partie  de leurs deniers personnels  les cotes ou
+fractions de cotes et les frais de poursuites y afférents  non recouvrés dans le délai prévu pour l'apurement des rôles  ni
+admis en non-valeurs  que s'ils ont obtenu soit un sursis de versement  soit la décharge ou l'atténuation de leur
+responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 430 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 432 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 432
+
+Le préfet [*autorité compétente*] statue sur les demandes de sursis de versement. Il se prononce au vu des avis émis par le
+trésorier-payeur général et par le directeur des services fiscaux lorsque ces avis sont concordants et dans le cas contraire
+après avoir pris l'avis de la commission départementale prévue à l'article 443.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 443
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 434
+
+Le préfet [*autorité compétente*] statue sur les demandes en décharge ou en atténuation de responsabilité à moins que la cote
+visée ou l'une des cotes visées s'il s'agit d'un contribuable pour lequel plusieurs cotes sont en cause n'excède la somme de
+100.000 F.
+
+Il se prononce au vu des avis émis par le trésorier-payeur général et par le directeur des services fiscaux  lorsque ces avis
+sont concordants et  dans le cas contraire  après avoir pris l'avis de la commission départementale prévue à l'article 443.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 12 février 2015 - art. 3 (V)
+
+	**Cite**:
+
+	  - CGIAN3 443
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 435
+
+Le ministre de l'économie et des finances [*autorité compétente*] statue sur les demandes en décharge ou en atténuation de
+responsabilité lorsqu'il s'agit de cotes dont le montant excède les limites de la compétence du préfet telle qu'elle est
+fixée à l'article 434.
+
+Il se prononce au vu des avis émis par la direction générale des impôts et la direction de la comptabilité publique  lorsque
+ces avis sont concordants et  dans le cas contraire  après avoir pris l'avis de la commission centrale prévue à l'article
+444.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 434
+	  - CGIAN3 444
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 437
+
+Si la demande en décharge ou en atténuation de responsabilité est rejetée du fait que le recouvrement de la cote paraît
+susceptible d'être ultérieurement obtenu  l'autorité qui statue peut accorder d'office au comptable du Trésor  sur avis
+concordants des chefs des services de l'assiette et du recouvrement  un sursis de versement renouvelable dans les conditions
+prévues aux articles 431 et 432.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 431
+	  - CGIAN3 432
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 438
+
+Les décisions préfectorales prises sur les demandes en décharge ou en atténuation de responsabilité et qui n'auront pas fait
+l'objet d'un recours dans les conditions fixées à l'article 440, deviendront définitives si  dans les six mois de leur
+notification au comptable du Trésor  elles n'ont pas été annulées ou réformées par le ministre statuant dans les formes
+prévues à l'article 435, deuxième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 435 AL. 2
+	  - CGIAN3 440
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 440
+
+Les comptables du Trésor chargés du recouvrement des impôts directs  ainsi que les comptables supérieurs dont la
+responsabilité pécuniaire est en jeu  sont admis à se pourvoir devant le ministre de l'économie et des finances contre les
+décisions préfectorales rejetant les demandes de sursis de versement ou les demandes en décharge ou en atténuation de
+responsabilité.
+
+Le recours a un effet suspensif.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 441
+
+Les recours prévus à l'article 440 sont instruits comme les demandes en décharge ou en atténuation de responsabilité relevant
+directement de la compétence du ministre de l'économie et des finances.
+
+La décision du ministre est notifiée par la voie hiérarchique aux comptables intéressés et au directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 340
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 443
+
+La commission départementale appelée à donner son avis sur les demandes dans les cas prévus par les articles 432 et 434 est
+composée ainsi qu'il suit [*composition*]:
+
+Le préfet ou son représentant  président;
+
+Le trésorier-payeur général ou le receveur général des finances trésorier-payeur général de la région parisienne  ou son
+représentant;
+
+Le directeur des services fiscaux  ou son représentant;
+
+Un inspecteur des impôts désigné par le directeur des services fiscaux;
+
+Un comptable du Trésor chargé du recouvrement des impôts directs désigné par le receveur général des finances  trésorier-
+payeur général de la région parisienne  ou par le trésorier-payeur général.
+
+En cas de partage égal des voix  la voix du président est prépondérante.
+
+Un inspecteur de la trésorerie générale remplit les fonctions de secrétaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 432
+	  - CGIAN3 434
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 444 A
+
+Le directeur des services fiscaux ou le directeur régional peut dans les conditions fixées par le directeur général des
+impôts déléguer son pouvoir de décision aux agents placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGI R247-9
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 445
+
+En matière d'impôts directs recouvrés par les comptables du      r  Trésor, les remises et modérations accordées en vertu des
+articles 417 à 422 ainsi que les cotes ou portions de cotes allouées en non-valeurs en vertu des articles 426 à 428 ou pour
+lesquelles le comptable chargé du recouvrement a obtenu la décharge ou l'atténuation de sa responsabilité dans les conditions
+prévues aux articles 433 à 441 font l'objet de certificats qui sont établis par le directeur des services fiscaux pour servir
+de pièces justificatives aux agents du service du recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 417 A CGIAN3 422
+	  - CGIAN3 426 A CGIAN3 428
+	  - CGIAN3 433 A CGIAN3 441
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 446
+
+Les dispositions des articles 417 à 444 ne sont pas applicables aux taxes qui ne sont assimilées aux contributions directes
+que pour le recouvrement et non pour la présentation  l'instruction et le jugement des réclamations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 417 A CGIAN3 444
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+## DROIT DE COMMUNICATION.
+
+###### Article 446 quater
+
+Sans préjudice des dispositions de l'article 2002 bis du code général des impôts  les originaux des documents produits à
+l'appui de la déclaration prévue à l'article 49 undecies de la présente annexe doivent être conservés et représentés  jusqu'à
+l'expiration du délai de répétition  à toute réquisition des agents de la direction générale des impôts visés à l'article 406
+bis de l'annexe II au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 2002 bis
+	  - CGIAN2 406 bis
+	  - CGIAN3 49 undecies
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+## SECRET PROFESSIONNEL.
+
+###### Article 447
+
+Les extraits visés à l'article 2011 du code général des impôts donnent lieu  au profit des titulaires des recettes locales ou
+des recettes auxiliaires ou des gérants de bureaux auxiliaires des impôts  au paiement de 0,10 F par extrait et  en cas de
+recherche  de 0,20 F par année indiquée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 2011
+
+	**Nouveaux textes**:
+
+	  - CGI R107-1
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 448
+
+Les agents des impôts appelés à délivrer des extraits de leurs registres dans les conditions prévues à l'article 2012 du code
+général des impôts sont autorisés à percevoir :
+
+1o 0,40 F, pour recherches de chaque année indiquée  jusqu'à la sixième inclusivement  et 0,20 F pour chacune des autres
+années au-delà de la sixième  sans qu'en aucun cas la rémunération puisse de ce chef  excéder 5 F;
+
+2o Une somme calculée conformément au tarif des honoraires dus aux notaires à l'occasion de la délivrance d'expéditions aux
+particuliers, pour chaque extrait ou copie d'enregistrement ou d'acte déposé outre le papier timbré tout rôle commencé étant
+dû en entier.
+
+Ils ne peuvent rien exiger au-delà.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 2012
+
+	**Nouveaux textes**:
+
+	  - CGI R106-1
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
 
 
