@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-08-10
+Version Consolidée au 1987-09-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -24779,7 +24779,7 @@ Chacun des premier et quatrième acomptes est égal [*montant*] à 10 p. 100 du 
 résultats du plus récent exercice clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année
 d'après les résultats de la dernière période d'imposition.
 
-Chacun des deuxième et troisième acomptes est égal à 12,5 p. 100 du bénéfice imposable défini.
+Chacun des deuxième et troisième acomptes est égal à 11 p. 100 du bénéfice imposable défini [*(1)*].
 
 Toutefois  en cas d'exercice d'une durée inférieure ou supérieure à un an  les acomptes sont calculés sur la base des
 bénéfices rapportés à une période de douze mois.
@@ -24792,16 +24792,22 @@ résultats du dernier exercice ou de la dernière période d'imposition lors du 
 
 Le montant des acomptes est arrondi au franc inférieur.
 
+[*(1) cette disposition s'applique aux acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1988.*]
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 218 A
-	  - CGI 223 1 AL. 2
+	  - CGI 223 1 al. 2
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-416 1987-06-17 art. 66
 
 	**Modifié par**:
 
-	  - Décret n°86-869 du 29 juillet 1986 - art. 1 (V) JORF 30 juillet 1986
+	  - Décret n°87-794 du 24 septembre 1987 - art. 1 (V) JORF 30 septembre 1987
 
 	**Cité par**:
 
