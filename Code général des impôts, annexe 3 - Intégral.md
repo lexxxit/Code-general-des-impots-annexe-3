@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-12-24
+Version Consolidée au 1987-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4093,6 +4093,84 @@ impôts. "
 
 
 ##### D : Obligations des employeurs
+
+###### Article 39
+
+La déclaration mentionnée à l'article 87 du code général des impôts doit comporter, par établissement, les indications
+suivantes :
+
+1° Concernant le déclarant :
+
+a) Les nom et prénoms ou raison sociale, adresse et numéro SIRET. Les entreprises à établissements multiples indiquent
+l'établissement qui a déposé la déclaration de résultats ;
+
+b) L'effectif au dernier jour ouvrable de l'année précédente ;
+
+c) Le montant de la taxe sur les salaires ;
+
+2° Concernant chaque salarié rétribué l'année précédente :
+
+a) Son identification : nom patronymique, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance ;
+
+b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
+
+c) La nature, la période et les conditions d'exercice de l'emploi ;
+
+d) Le montant des sommes payées pendant l'année en distinguant ;
+
+- le montant brut des rémunérations entendu au sens des articles 231 et suivants du code général des impôts ;
+
+- le total des versements en argent et en nature après déduction des cotisations ouvrières aux assurances sociales et au
+chômage et des retenues pour la retraite ;
+
+- la valeur et le type des avantages en nature ;
+
+- le montant des indemnités pour frais d'emploi et des remboursements de frais, avec indication de leur caractère forfaitaire
+ou réel ou de leur prise en charge directe par l'employeur ;
+
+- le montant des sommes versées au titre des chèques vacances.
+
+e) Le taux de la déduction supplémentaire à laquelle la profession exercée ouvre droit, le cas échéant, ainsi que l'option
+choisie par l'entreprise pour l'assiette des taxes assises sur les salaires ;
+
+f) Le montant de la retenue effectuée au titre de l'impôt sur le revenu en application de l'article 182 A du code général des
+impôts ;
+
+g) Lorsque l'établissement est assujetti à la taxe sur les salaires :
+
+- le montant brut servant de base à la taxe ;
+
+- l'assiette des taux majorés ;
+
+- les renseignements utiles à la liquidation de la taxe lorsque le salarié a été payé par plusieurs établissements dépendant
+d'une même entreprise ;
+
+3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. 3 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39-0 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 M bis (V)
+
+	**Cite**:
+
+	  - CGI 87, 182 A, 231
+
+	**Modifié par**:
+
+	  - Décret n°87-1159 du 24 décembre 1987 - art. 1 (V) JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
 
 ###### Article 39 B
 
@@ -10185,7 +10263,158 @@ Les opérations effectuées dans le cadre de chacun des contrats doivent être c
 
 
 
+##### B : Taux intermédiaire
+
+##### Prestations de services de caractère social, culturel ou répondant à des besoins courants.
+
+###### Article 88
+
+La liste des prestations de services de caractère social, culturel ou qui répondent, en raison de leur nature et de leur
+prix, à des besoins courants, prévue à l'article 280-2-b du code général des impôts est fixée ainsi qu'il suit :
+
+Soins donnés par les établissements hospitaliers, dispensaires, cliniques, homes d'enfants, maisons de repos, de
+convalescence ou de retraite, pouponnières, établissements thermaux ou de thalassothérapie, à l'exclusion des soins de beauté
+et de ceux qui ne présentent pas un caractère médical;
+
+Locations de radium à usage médical;
+
+Soins de coiffure fournis par les salons qui ne sont pas classés dans la première catégorie;
+
+Droits d'entrée dans les établissements de bains-douches;
+
+Droits d'entrée dans les piscines, stades, gymnases;
+
+Opérations de blanchisserie, teinturerie et nettoyage de linge et vêtements;
+
+Location de linge;
+
+Services assurés par les entreprises de pompes funèbres à l'occasion des inhumations et transports funéraires;
+
+Enseignement général, agricole, ménager, professionnel ou artistique;
+
+Droits d'entrée pour la visite des musées, monuments et grottes, sites et parcs aménagés autres que les parcs zoologiques,
+botaniques et les parcs à décors animés qui illustrent un thème culturel passibles du taux réduit (1);
+
+Locations d'emplacements sur les terrains de camping qui ne bénéficient pas du taux réduit (2);
+
+Services d'enlèvement et de destruction des ordures ménagères;
+
+Opérations de désinfection;
+
+Locations de compteurs de gaz et d'électricité;
+
+Opérations de déménagement;
+
+Services rendus par les administrateurs de biens et syndics de copropriété pour la gestion des immeubles bâtis;
+
+Opérations relevant de l'agence de location ou de l'activité d'intermédiaire en transactions immobilières;
+
+Location de vêtements de travail;
+
+Services consistant dans la fourniture de spectacles;
+
+Réparations de chaussures;
+
+Services inscrits au tarif interministériel des prestations sanitaires;
+
+Services rendus par les chaînes et groupements d'achats à leurs membres qui ne font pas l'objet d'une rémunération propre,
+mais sont couverts par une cotisation non proportionnelle au montant des livraisons faites aux adhérents;
+
+Prestations de chauffage des bâtiments;
+
+Transports de lettres, télégrammes et colis postaux effectués pour le compte de l'administration des postes et
+télécommunications, quel que soit le moyen de transport utilisé;
+
+Locations d'emplacements de vente non aménagés consenties aux usagers dans les marchés d'intérêt national;
+
+Opérations effectuées par les adjudicataires, concessionnaires et fermiers de droits communaux dans le cadre du contrat qui
+les lie aux collectivités publiques, à l'exclusion de toute opération accessoire à cette activité;
+
+Prestations de services relatives aux insertions d'annonces de demandes d'emploi dans les journaux et publications qui
+bénéficient des avantages fiscaux prévus à l'article 298 septies du code général des impôts
+
+1)  Voir code général des impôts, art. 279-b ter.
+
+2)  Voir code général des impôts, art. 279-a ter.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 279 a, b ter
+	  - CGI 280 2 b
+	  - CGI 298 septies
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 22 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ##### C : Taux majoré.
+
+###### Article 89
+
+Le taux majoré de la taxe sur la valeur ajoutée s'applique aux opérations d'achat, d'importation, de vente, de livraison, de
+commission, de courtage ou de façon portant sur les biens, neufs ou d'occasion, désignés ci-après :
+
+1° Ouvrages composés en entier ou en partie de perles fines, perles de culture, pierres précieuses, gemmes naturelles,
+pierres synthétiques ou reconstituées, de platine, d'or et d'argent;
+
+(Sans objet , 18 août 1993).
+
+2° Sous réserve des dispositions de l'article 89 bis, diapositives, vues stéréoscopiques et films cinématographiques;
+surfaces sensibles, à l'exception de celles qui sont destinées à la réalisation de matrices d'impression par tous procédés
+photomécaniques; appareils de prise de vues, de projection ou de vision; pièces détachées, éléments constitutifs et
+accessoires de ces appareils, matériels et fournitures;
+
+(Sans objet, 18 août 1993).
+
+3° Electrophones, tourne-disques, magnétophones, machines à dicter, récepteurs de radio, ainsi que tous appareils
+d'enregistrement ou de reproduction du son ou de l'image, à l'exception des simples récepteurs de télévision ; sous réserve
+des dispositions de l'article 281 bis J du code général des impôts, disques, bandes, cassettes, films sonores, supports de
+son ou d'image; éléments constitutifs, pièces détachées et accessoires de ces appareils ou supports;
+
+(Sans objet, 18 août 1993).
+
+4° (Abrogé).
+
+5° (Devenu sans objet).
+
+6° Tabacs ;
+
+(Sans objet, 18 août 1993).
+
+7° (Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 280 2 j
+	  - CGI 281 bis F
+	  - CGI 281 bis J
+	  - CGI 89 bis
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
+	  - PEREMPTION: Loi n°92-655 1992-07-15 art. 1 JORF 16 juillet 1992
+	  - PEREMPTION: Loi n°92-1476 1992-12-31 art. 35 4 Finances rectificative pour 1992 JORF 5 janvier 1993
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 20 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-1127 1993-09-24
+
 
 ###### Article 89 bis
 
@@ -10782,6 +11011,45 @@ net tel qu'il est défini aux articles 111 quater B à 111 quater E constaté lo
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 111 quater G
+
+Toute personne qui, habituellement ou occasionnellement, se livre, pour son compte ou pour le compte de tiers, aux opérations
+d'abattage en vue de la vente de volailles ou d'animaux mentionnés à l'article 320 bis G du code général des impôts doit :
+
+1° Souscrire, préalablement à toute opération, une déclaration d'existence auprès du service des impôts dont dépend le lieu
+d'abattage;     2° Tenir un registre permettant de dégager, jour par jour, et sans blanc ni rature, les éléments nécessaires
+à la constatation, à la liquidation et au contrôle de la taxe de protection sanitaire et d'organisation des marchés des
+viandes;     3° Déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des impôts et
+comportant les indications nécessaires à l'assiette et à la perception de la taxe.     Cette déclaration doit être remise par
+chaque redevable à la recette des impôts dont dépend le lieu d'abattage avant le 25 du    s mois suivant celui au cours
+duquel les opérations imposables ont été réalisées. La taxe doit être acquittée dans le même délai. Lorsque son montant est
+inférieur à 1.000 F par mois, les redevables sont admis à déposer leur déclaration et à payer la taxe correspondante par
+trimestre.     Lors du dépôt de la déclaration, un relevé des éléments figurant sur cette dernière doit être adressé par
+chaque redevable au directeur départemental de l'agriculture et de la forêt.    " Les obligations prévues aux 1° et 2° ne
+s'appliquent pas aux personnes assujetties à la taxe sur la valeur ajoutée qui sont astreintes aux obligations prévues par
+l'article 1649 ter C du code général des impôts et par ses textes d'application. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 ter C
+	  - CGI 320 bis G
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater L (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA (V)
 
 
 ###### Article 111 quater H
