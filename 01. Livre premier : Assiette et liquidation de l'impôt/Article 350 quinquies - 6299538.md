@@ -13,8 +13,7 @@ La direction générale des douanes et droits indirects reçoit :
 dispositions de cet article avec la direction générale de la concurrence, de la consommation et de la répression des
 fraudes ;
 
-5° La déclaration et détient le registre spécial mentionnés au premier alinéa de l'article 422 du code général des impôts.
-Cette administration reçoit également la déclaration prévue au deuxième alinéa du même article ;
+5° (sans objet).
 
 6° La déclaration prévue à l'article 424 du code général des impôts et procède aux visites mentionnées audit article ;
 
@@ -24,7 +23,7 @@ Cette administration reçoit également la déclaration prévue au deuxième ali
 prescrits au deuxième alinéa du même article ;
 
 9° Les déclarations et exerce les compétences mentionnées au premier alinéa de l'article 425 du code général des impôts ainsi
-qu'aux articles 308, 343, 455, 483, 502 et 1565 du même code ;
+qu'aux articles 308, 343, 455, 502 et 1565 du même code ;
 
 10° La déclaration mentionnée à l'article 1565 quinquies du code général des impôts ;
 
@@ -34,16 +33,17 @@ qu'aux articles 308, 343, 455, 483, 502 et 1565 du même code ;
 
 	**Cite**:
 
-	  - CGI 303, 413, 312, 327, 329, 501, 511, 626, 415, 422, 424, 571, 425, 308, 343, 455, 483, 502, 1565, 1565 quinquies
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - CGI 303, 413, 312, 327, 329, 501, 511, 626, 415, 424, 571, 425, 308, 343, 455, 502, 1565, 1565 quinquies
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2004
 
 	**Modifié par**:
 
-	  - Loi - art. 27 (V) JORF 31 décembre 2002
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 12 () JORF 27 mars 2004
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08

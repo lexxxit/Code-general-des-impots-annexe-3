@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-08-24
+Version Consolidée au 2004-08-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -121,11 +121,11 @@ conclusion du bail.
 ###### Article 2 octies
 
 Pour l'application de l'article 15 ter du code général des impôts, les montants annuels des ressources du locataire sont
-limités à 17 600 euros en région Ile-de-France et à 16 080 euros dans les autres régions pour une personne seule. Ces
+limités à 17 900 euros en région Ile-de-France et à 16 360 euros dans les autres régions pour une personne seule. Ces
 montants sont doublés pour un couple marié.
 
 Ces montants s'entendent des revenus nets de frais professionnels du locataire figurant sur son avis d'imposition établi au
-titre des revenus de 2002.
+titre des revenus de 2003.
 
 **Liens relatifs à cet article**
 
@@ -133,23 +133,23 @@ titre des revenus de 2002.
 
 	  - CGI 15 ter
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
 	**Modifié par**:
 
-	  - Loi - art. 2 () JORF 31 décembre 2002
+	  - Loi - art. 2 (V) JORF 31 décembre 2003
 
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
+	  - Décret n°2004-1070 2004-10-08
 
 
 ###### Article 2 septies
 
-Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder 97
-euros annuels par mètre carré de surface habitable en région Ile-de-France et 87 euros annuels par mètre carré de surface
+Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder 101
+euros annuels par mètre carré de surface habitable en région Ile-de-France et 90 euros annuels par mètre carré de surface
 habitable dans les autres régions.
 
 Pendant la durée mentionnée à l'article 15 ter déjà cité, l'augmentation annuelle du loyer ne peut être supérieure à celle de
@@ -164,15 +164,15 @@ l'indice national mesurant le coût de la construction publié par l'Institut na
 
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2004-1070 2004-10-08
 
 	**Modifié par**:
 
-	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### 2° : Mise aux normes des bâtiments agricoles. Déduction des dépenses d'amélioration et de construction
@@ -222,11 +222,11 @@ montant, ainsi que la désignation des immeubles sur lesquels ils sont réalisé
 Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 3 avril et le 31 décembre 2003, les plafonds de loyer mensuel, charges non comprises, sont
-fixés à 14,4 Euros par mètre carré en zone A, 9,4 Euros en zone B et 6,8 Euros en zone C. Les plafonds sont relevés chaque
-année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de l'indice national
-mesurant le coût de la construction publiée par l'Institut national de la statistique et des études économiques. La moyenne
-mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui précède la date de référence.
+a) Pour les baux conclus en 2004, les plafonds de loyer mensuel, charges non comprises, sont fixés à 14,77 Euros par mètre
+carré en zone A, 9,64 Euros en zone B et 6,98 Euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
+la même proportion que la variation de la moyenne sur quatre trimestres de l'indice national mesurant le coût de la
+construction publiée par l'Institut national de la statistique et des études économiques. La moyenne mentionnée ci-dessus est
+celle des quatre derniers indices connus au 1er novembre qui précède la date de référence.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement.
@@ -239,7 +239,7 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2003, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2004, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION du foyer locataire :
 
@@ -247,11 +247,11 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Zone A : 27 446 euros
+Zone A : 28 892 euros
 
-Zone B : 21 211 euros
+Zone B : 22 329 euros
 
-Zone C : 18 560 euros
+Zone C : 19 538 euros
 
 COMPOSITION du foyer locataire :
 
@@ -259,11 +259,11 @@ Couple marié
 
 LIEU DE LA LOCATION
 
-Zone A : 41 018 euros
+Zone A : 43 180 euros
 
-Zone B : 28 325 euros
+Zone B : 29 818 euros
 
-Zone C : 24 947 euros
+Zone C : 26 262 euros
 
 COMPOSITION du foyer locataire :
 
@@ -271,11 +271,11 @@ Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 49 307 euros
+Zone A : 51 905 euros
 
-Zone B : 34 064 euros
+Zone B : 35 859 euros
 
-Zone C : 29 867 euros
+Zone C : 31 441 euros
 
 COMPOSITION du foyer locataire :
 
@@ -283,11 +283,11 @@ Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 59 063 euros
+Zone A : 62 176 euros
 
-Zone B : 41 122 euros
+Zone B : 43 289 euros
 
-Zone C : 36 146 euros
+Zone C : 38 051 euros
 
 COMPOSITION du foyer locataire :
 
@@ -295,11 +295,11 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 69 919 euros
+Zone A : 73 604 euros
 
-Zone B : 48 374 euros
+Zone B : 50 923 euros
 
-Zone C : 42 425 euros
+Zone C : 44 661 euros
 
 COMPOSITION du foyer locataire :
 
@@ -307,11 +307,11 @@ Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 78 678 euros
+Zone A : 82 824 euros
 
-Zone B : 54 514 euros
+Zone B : 57 387 euros
 
-Zone C : 47 856 euros
+Zone C : 50 378 euros
 
 COMPOSITION du foyer locataire :
 
@@ -319,11 +319,11 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Zone A : + 8 766 euros
+Zone A : + 9 228 euros
 
-Zone B : + 6 080 euros
+Zone B : + 6 400 euros
 
-Zone C : + 5 433 euros
+Zone C : + 5 719 euros
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
 Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
@@ -332,6 +332,14 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 196 B du code général des impôts.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Cité par**:
 
@@ -358,13 +366,9 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code de la construction et de l'habitation. - art. R331-10 (M)
 	  - Code de la construction et de l'habitation. - art. R353-16 (M)
 
-	**Modifié par**:
-
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
-
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 2 duodecies A
@@ -372,10 +376,9 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 Pour l'application du quatrième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a.  Pour les baux conclus, reconduits ou renouvelés entre le 3 avril 2003 et le 31 décembre 2003, les plafonds de loyer
-mensuel, charges non comprises, sont fixés à 8,3 Euros par mètre carré en zone A, 4,7 Euros en zone B et 4,2 Euros en zone C.
-Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à
-l'article 2 duodecies.
+a.  Pour les baux conclus, reconduits ou renouvelés en 2004, les plafonds de loyer mensuel, charges non comprises, sont fixés
+à 8,52 Euros par mètre carré en zone A, 4,82 Euros en zone B et 4,31 Euros en zone C. Les plafonds sont relevés chaque année,
+au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article 2 duodecies.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
@@ -385,77 +388,77 @@ b. Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle pour
 laquelle la location à ce locataire ouvre droit pour la première fois à la déduction forfaitaire majorée.
 
-Pour les baux conclus, reconduits ou renouvelés en 2003, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus, reconduits ou renouvelés en 2004, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule
 
 LIEU DE LA LOCATION
 
-Zone A : 13 723 
+Zone A : 14 446 
 
-Zone B : 10 606 
+Zone B : 11 165 
 
-Zone C :  9 280 
+Zone C :  9 769 
 
 COMPOSITION DU FOYER LOCATAIRE : Couple marié
 
 LIEU DE LA LOCATION
 
-Zone A : 20 509 
+Zone A : 21 590 
 
-Zone B : 14 162 
+Zone B : 14 909 
 
-Zone C : 12 474 
+Zone C : 13 131 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 24 654
+Zone A : 25 953
 
-Zone B : 17 032 
+Zone B : 17 930 
 
-Zone C : 14 934 
+Zone C : 15 721 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 29 532
+Zone A : 31 088
 
-Zone B : 20 561 
+Zone B : 21 645 
 
-Zone C : 18 074 
+Zone C : 19 026 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 34 960
+Zone A : 36 802
 
-Zone B : 24 187 
+Zone B : 25 462 
 
-Zone C : 21 213 
+Zone C : 22 331 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 39 339
+Zone A : 41 412
 
-Zone B : 27 257 
+Zone B : 28 694 
 
-Zone C : 23 928 
+Zone C : 25 189 
 
 COMPOSITION DU FOYER LOCATAIRE : Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Zone A : + 4 383
+Zone A : + 4 614
 
-Zone B : + 3 040 
+Zone B : + 3 200 
 
-Zone C : + 2 717 
+Zone C : + 2 860 
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
 l'article 2 duodecies.
@@ -469,9 +472,13 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	  - CGI 31, 2 duodecies, 1417, 196 à 196 B
 
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
 	**Modifié par**:
 
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 
 ###### Article 2 novodecies
@@ -1317,9 +1324,9 @@ le sous-locataire.
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2003, les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 12,9 euros par mètre carré en zone I bis, 11,4 euros en zone I, 8,8 euros en zone II et 8,3 euros en zone III.
-Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2004, les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 13,24 euros par mètre carré en zone I bis, 11,70 euros en zone I, 9,03 euros en zone II et 8,52 euros en zone
+III. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à
 l'article 2 duodecies.
 
 Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
@@ -1337,11 +1344,11 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2004-1070 2004-10-08
 
 	**Modifié par**:
 
-	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Cité par**:
 
@@ -1350,15 +1357,15 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 2 terdecies A
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
-mensuel, charges non comprises, sont fixés, pour les baux conclus en 2003, à 18 Euros par mètre carré en zone A, 12,5 Euros
-en zone B et 9 Euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les
-plafonds de loyer prévus à l'article 2 duodecies.
+mensuel, charges non comprises, sont fixés, pour les baux conclus en 2004, à 18,47 Euros par mètre carré en zone A, 12,83
+Euros en zone B et 9,23 Euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités
+que les plafonds de loyer prévus à l'article 2 duodecies.
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
@@ -1378,13 +1385,17 @@ l'application de l'article 2 duodecies.
 	  - CGI 31
 	  - CGIAN3 2 duodecies
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2003-1219 2003-12-19 art. 1 C JORF 21 décembre 2003
+	  - Décret n°2004-1070 2004-10-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 2 vicies
@@ -2440,47 +2451,56 @@ Dispositions devenues sans objet en conséquence de l'article 26-I [f] de la loi
 ###### Article 10 C sexies
 
 I. La provision visée à l'article précédent constituée à la clôture d'un exercice doit, avant l'expiration d'un délai de cinq
-ans à partir de la clôture de cet exercice, être utilisée :
+ans à partir de la clôture de cet exercice, être utilisée : 
 
 a. Soit à tous travaux ou immobilisations nécessaires aux recherches portant sur des gisements ou parties de gisements non
-encore reconnus et concernant les minerais figurant sur la liste visée à l'article 10 C quinquies ;
+encore reconnus et concernant les minerais figurant sur la liste visée à l'article 10 C quinquies ; 
 
 b. Soit à tous travaux ou immobilisations destinés à améliorer la récupération des substances minérales comprises dans ces
-mêmes minerais ;
+mêmes minerais ; 
 
 c. Soit à l'acquisition de participations dans des sociétés ou organismes ayant pour objet d'effectuer la recherche et
 l'exploitation des minerais figurant sur la liste visée à l'article 10 C quinquies ou d'améliorer la récupération des
-substances minérales comprises dans ces mêmes minerais.
+substances minérales comprises dans ces mêmes minerais. 
 
-Le terme "participations" s'entend, au sens du c, des actions ou des parts d'intérêts ainsi que des sommes avancées aux
+Le terme " participations " s'entend, au sens du c, des actions ou des parts d'intérêts ainsi que des sommes avancées aux
 sociétés ou organismes ci-dessus visés et effectivement destinées à être investies par ces sociétés et organismes dans des
-travaux de recherche ou de récupération des substances minérales considérées.
+travaux de recherche ou de récupération des substances minérales considérées. 
 
 II. Lorsque le remploi de la provision est effectué pour la mise en valeur de gisements situés hors de la France
-métropolitaine, des départements et territoires d'outre-mer, sa validité est subordonnée à un agrément du ministre de
-l'économie et des finances, après avis du ministre du développement industriel et scientifique.
+métropolitaine, des départements d'outre-mer, de Saint-Pierre-et-Miquelon, de Mayotte, de Nouvelle-Calédonie, de Polynésie
+française, des îles Wallis et Futuna et des Terres australes et antarctiques françaises, sa validité est subordonnée à un
+agrément du ministre de l'économie et des finances, après avis du ministre du développement industriel et scientifique.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN3 10 C quinquies
+	  - Loi n°76-1212 du 24 décembre 1976 - art. 1 (Ab) JORF 28 décembre 1976
+	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
+	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
+	  - Loi n°2003-660 2003-07-21 art. 61 I JORF 22 juillet 2003
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2004-1070 2004-10-08
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
 
 
 ##### c : Dispositions communes
@@ -2687,38 +2707,34 @@ opérations de crédit ou de crédit-bail au profit des entreprises.
 
 ###### Article 10 GA bis
 
-I. - Les éléments figurant au bilan de départ mentionné au III de l'article 39 octies B du code général des impôts doivent
-être retenus pour la valeur, exprimée en monnaie locale, qu'ils comportaient au regard de la législation fiscale française à
-la date d'ouverture de l'exercice au cours duquel l'entreprise française acquiert le capital.
+I.-Les éléments figurant au bilan de départ mentionné au III de l'article 39 octies D du code général des impôts doivent être
+retenus pour la valeur, exprimée en monnaie locale, qu'ils comportaient au regard de la législation fiscale française à la
+date d'ouverture de l'exercice au cours duquel l'entreprise française acquiert le capital. 
 
 Les immobilisations sont inscrites au bilan pour leur valeur d'origine. Le compte d'amortissement correspondant à chaque
 immobilisation amortissable est crédité du montant total des amortissements qui auraient été admis en déduction en
-application des règles fiscales françaises depuis la date d'acquisition du bien par la filiale étrangère.
+application des règles fiscales françaises depuis la date d'acquisition du bien par la filiale étrangère. 
 
 Les immobilisations dont la durée d'utilisation n'est pas achevée continuent à être amorties d'après la valeur d'origine et
-selon les mêmes modalités que celles qui sont retenues pour le calcul des amortissements mentionnés au deuxième alinéa.
+selon les mêmes modalités que celles qui sont retenues pour le calcul des amortissements mentionnés au deuxième alinéa. 
 
-II. - Les éléments du bilan de départ et des bilans suivants qui correspondent à des établissements ou à des participations
-dans des filiales qui ont pour objet l'activité de commercialisation définie au I de l'article 39 octies B du code général
-des impôts et qui sont situés dans un autre Etat que celui du siège de la filiale mentionnée à cet article sont inscrits dans
-des comptes spéciaux.
+II.-Les éléments du bilan de départ et des bilans suivants qui correspondent à des établissements ou à des participations
+dans des filiales qui ont pour objet l'activité de commercialisation définie au I et au IV de l'article 39 octies D du code
+général des impôts et qui sont situés dans un autre Etat que celui du siège de la filiale mentionnée à cet article sont
+inscrits dans des comptes spéciaux. 
 
 Les provisions et charges à payer qui ne sont pas déductibles du résultat en application des dispositions du code général des
 impôts sont inscrites distinctement au passif du bilan de la filiale étrangère.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 39 octies B I, III
+	  - Ordonnance 2004-281 2004-03-25 art. 1 1 JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2004-1070 2004-10-08
 
 	**Cité par**:
 
@@ -2726,59 +2742,56 @@ impôts sont inscrites distinctement au passif du bilan de la filiale étrangèr
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quinquies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA ter (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 39 octies D (VT)
 
 
 ###### Article 10 GA quater
 
-Les entreprises qui constituent des provisions en application des dispositions des articles 39 octies A ou 39 octies B du
-code général des impôts doivent joindre à leur déclaration de résultats de chaque exercice :
+Les entreprises qui constituent des provisions en application des dispositions de l'article 39 octies A du code général des
+impôts doivent joindre à leur déclaration de résultats de chaque exercice : 
 
 Pour les filiales situées dans un Etat qui n'est pas membre de la Communauté européenne, un bilan dont la traduction est
-certifiée par un traducteur juré ;
+certifiée par un traducteur juré ; 
 
 Pour chacune des filiales situées dans un Etat de la Communauté européenne, outre le bilan de départ établi dans les
-conditions prévues à l'article 10 GA bis :
+conditions prévues à l'article 10 GA bis : 
 
 a) Un bilan et un compte de résultats des comptes sociaux, certifiés par un commissaire aux comptes de l'Etat
-d'implantation ;
+d'implantation ; 
 
-b) Un bilan et un compte de résultats déterminés dans les conditions prévues à l'article 10 GA ter ;
+b) Un bilan et un compte de résultats déterminés dans les conditions prévues à l'article 10 GA ter ; 
 
 c) Des états faisant apparaître le détail des immobilisations, amortissements et provisions figurant au bilan de la filiale
-étrangère, tel qu'il est défini au b ;
+étrangère, tel qu'il est défini au b ; 
 
 d) Un état détaillé des rectifications apportées au résultat étranger pour le rendre conforme aux dispositions du code
-général des impôts ;
+général des impôts ; 
 
-e) Un état mentionnant la répartition du capital à la clôture de chaque exercice de la filiale.
+e) Un état mentionnant la répartition du capital à la clôture de chaque exercice de la filiale. 
 
 Ces renseignements sont présentés sur des documents conformes au modèle établi par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 39 octies A, 39 octies B
-	  - CGIAN3 10 GA bis, 10 GA ter
-
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1993
+	  - Ordonnance 2004-281 2004-03-25 art. 1 1 JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-1070 2004-10-08
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA ter (V)
+	  - Code général des impôts, CGI. - art. 39 octies A (VT)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA sexies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 10 GA quinquies
@@ -2828,34 +2841,33 @@ II. Les documents mentionnés au a de l'article 10 GA quater sont, en outre, cer
 
 ###### Article 10 GA ter
 
-Les résultats de la filiale étrangère mentionnés au III de l'article 39 octies B du code général des impôts s'entendent des
+Les résultats de la filiale étrangère mentionnés au III de l'article 39 octies D du code général des impôts s'entendent des
 pertes subies et des bénéfices réalisés, au titre de l'activité définie au I du même article, dans l'Etat où est situé le
-siège de cette filiale.
+siège de cette filiale. 
 
 Pour la détermination de ces pertes ou bénéfices, il n'est pas tenu compte des plus-values ou moins-values résultant de la
-cession d'immobilisations.
+cession d'immobilisations. 
 
 De même, les résultats des opérations effectuées par les établissements ou filiales mentionnés au II de l'article 10 GA bis
-ainsi que les charges ou produits résultant de leur détention ne sont pas pris en considération.
+ainsi que les charges ou produits résultant de leur détention ne sont pas pris en considération. 
 
 Les résultats mentionnés au premier alinéa sont convertis en euros sur la base du taux de change en vigueur à la clôture de
 l'exercice de la filiale étrangère.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 39 octies B
-	  - CGIAN3 10 GA bis
-
 	**Modifié par**:
 
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Ordonnance 2004-281 2004-03-25 art. 1 1 JORF 27 mars 2004
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2004-1070 2004-10-08
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA bis (V)
+	  - Code général des impôts, CGI. - art. 39 octies D (VT)
 
 	**Cité par**:
 
@@ -8895,7 +8907,7 @@ Ces renseignements  sont mentionnés sur la déclaration prévue au 1 de l'artic
 ###### Article 41 DC
 
 Pour l'application du I de l'article 15 bis, du III de l'article 35 bis et de l'article 92 L du code général des impôts, le
-prix de location ne doit pas excéder 58 euros annuels par mètre carré habitable en région Ile-de-France, et 48 euros annuels
+prix de location ne doit pas excéder 60 euros annuels par mètre carré habitable en région Ile-de-France, et 50 euros annuels
 par mètre carré habitable dans les autres régions.
 
 Ces prix sont révisés chaque année le 1er janvier en fonction de la variation annuelle de l'indice national mesurant le coût
@@ -8908,17 +8920,22 @@ l'indice est celle du deuxième trimestre de l'année précédente.
 
 	  - CGI 15 bis, 35 bis, 92 L
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2003-298 2003-03-31
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Loi - art. 11 (V) JORF 29 décembre 2001
 
 	**Modifié par**:
 
-	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - Décret n°2005-330 2005-04-06
 
 
 ###### Article 41 DD
@@ -9903,8 +9920,8 @@ Les contribuables doivent également déclarer, séparément, les revenus visés
 du 1 de l'article 49 F.
 
 La déclaration mentionne séparément le montant des revenus, de quelque nature qu'ils soient, encaissés directement ou
-indirectement en Polynésie française, à Saint-Pierre-et-Miquelon, aux îles Wallis et Futuna et dans les Terres australes et
-antarctiques françaises et à l'étranger.
+indirectement à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et
+Futuna et dans les Terres australes et antarctiques françaises et à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -9913,36 +9930,38 @@ antarctiques françaises et à l'étranger.
 	  - CGI 170, 234 nonies
 	  - CGIAN3 49 F
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Modifié par**:
+
+	  - Loi n°76-1212 du 24 décembre 1976 - art. 1 (Ab) JORF 28 décembre 1976
+	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
+	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
+
 	**Codifié par**:
 
-	  - Décret n°2004-304 2004-03-26
+	  - Décret n°2004-1070 2004-10-08
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Modifié par**:
-
-	  - Loi n°2003-660 2003-07-21 art. 61 JORF 22 juillet 2003
-	  - Loi n°95-880 1995-08-04 art. 14 JORF 5 août 1995
-
 
 ###### Article 43
 
-Les déclarants doivent fournir toutes indications nécessaires au sujet de leur situation et de leurs charges de famille.
+Les déclarants doivent fournir toutes indications nécessaires au sujet de leur situation et de leurs charges de famille. 
 
-Ils doivent également, pour avoir droit au bénéfice des déductions ou des réductions d'impôt prévues aux articles 156, 199
-sexies et 199 septies du code général des impôts, produire l'état des charges à retenir pour déterminer le revenu imposable
-ou le montant des réductions d'impôt.
+Ils doivent également, pour avoir droit au bénéfice des déductions ou des réductions d'impôt prévues aux articles 156 et 199
+septies du code général des impôts, produire l'état des charges à retenir pour déterminer le revenu imposable ou le montant
+des réductions d'impôt. 
 
 Cet état précise, au sujet des dettes contractées et des rentes payées à titre obligatoire et gratuit, le nom et le domicile
 du créancier, la date du titre constatant la créance et la nature de ce titre comportant, s'il y a lieu, l'indication du nom
 et de la résidence de l'officier public qui a dressé l'acte ou de la juridiction dont émane le jugement, enfin le chiffre des
-intérêts ou arrérages annuels.
+intérêts ou arrérages annuels. 
 
 En ce qui concerne les intérêts des dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou
 l'amélioration des propriétés et dont la déduction est demandée pour la détermination des revenus nets des propriétés
@@ -9951,25 +9970,22 @@ alinéa.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 156, 199 sexies, 199 septies
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 2 (V) JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2004-1070 2004-10-08
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (P)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 156 (V)
+	  - Code général des impôts, CGI. - art. 199 septies (V)
 
 
 ###### Article 45
@@ -10461,14 +10477,14 @@ déclaration de revenus de l'année au cours de laquelle le bail est signé.
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants :
 
-1. Pour les baux conclus en 2003, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2004, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 126 euros dans les départements d'outre-mer et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même
+1° 129 euros dans les départements d'outre-mer et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même
 proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun
 des quatre départements d'outre-mer ;
 
-2° 169 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à
+2° 172 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à
 Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même
 proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie
 française et de la Nouvelle-Calédonie.
@@ -10514,7 +10530,7 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 55 163 
 
-Personne seule ou couple marié ayant quatre enfants à charge
+Personne seule ou couple marié ayant quatre personnes à charge
 
 58 737 
 
@@ -10542,9 +10558,13 @@ c) Des ressources du sous-locataire.
 
 	  - CGI 199 undecies A, 196 à 196 B
 
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
 	**Modifié par**:
 
-	  - Décret n°2004-523 du 10 juin 2004 - art. 1 () JORF 12 juin 2004
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Cité par**:
 
@@ -10661,7 +10681,7 @@ d) La date d'achèvement du logement ou de son acquisition si elle est postérie
 2. Une copie de la notification de l'arrêté délivrant le permis de construire lorsqu'il s'agit d'un logement que le
 contribuable fait construire.
 
-3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au dernier alinéa du 6 de l'article 199 undecies
+3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au septième alinéa du 6 de l'article 199 undecies
 A du code général des impôts, selon le cas, soit une attestation du constructeur, du vendeur ou de l'entreprise ayant procédé
 à l'installation des équipements de production d'énergie utilisant une source d'énergie renouvelable et comportant l'adresse
 de réalisation des travaux ainsi que la désignation de ces équipements, soit une facture de ces équipements comportant, outre
@@ -10683,8 +10703,8 @@ contribuable fait construire ;
 visée au premier alinéa du 2 de l'article 46 AG duodecies lorsque la location est consentie dans les conditions du 2° du 6 de
 l'article 199 undecies A du code général des impôts.
 
-5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des dispositions du dernier alinéa du 6 de l'article
-199 undecies A du code général des impôts.
+5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des dispositions du septième alinéa du 6 de
+l'article 199 undecies A du code général des impôts.
 
 Si un bail n'est pas signé à la date de souscription de la déclaration susvisée, les documents énumérés aux 1, 3 et 4 sont
 joints à la déclaration de l'année au cours de laquelle le bail est signé. Il en est de même en cas de changement de
@@ -10718,9 +10738,13 @@ leur est applicable, les modalités de calcul de la réduction d'impôt.
 	  - CGI 199 undecies A, 289
 	  - CGIAN3 46 AG duodecies, 46 AG terdecies A, 46 AG undecies à 46 AG terdecies
 
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
 	**Modifié par**:
 
-	  - Décret n°2004-523 du 10 juin 2004 - art. 1 () JORF 12 juin 2004
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Cité par**:
 
@@ -12159,367 +12183,7 @@ titres est différente.
 
 ##### Section V : Profits de construction
 
-###### Article 46 quater-0 G
-
-I. Pour l'application des articles 209 quater A et 209 quater B du code général des impôts, les immeubles sont considérés
-comme achevés à la date de réception par le maire de la lettre recommandée prévue à l'article R. 460-2 du code de
-l'urbanisme.
-
-II. Les ventes d'immeubles à construire définies à l'article 1601-1 du code civil sont assimilées à des ventes d'immeubles
-achevés au sens du I lorsque les conditions prévues aux articles L. 261-1 à L. 261-22 et R. 261-1 à R. 261-33 du code de la
-construction et de l'habitation ont été respectées. Il en est de même des cessions d'actions ou de parts de sociétés visées à
-l'article 1655 ter du code général des impôts effectuées en conformité avec les articles 167 et 168 de l'annexe II à ce code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 quater A, 209 quater B, 1655 ter
-	  - CGIAN2 167, 168
-	  - Code civil - art. 1601-1 (V)
-	  - Code de l'urbanisme - art. R460-2 (M)
-	  - Code de la construction et de l'habitation L261-1 à L261-22, R261-1 à R261-33
-
-	**Modifié par**:
-
-	  - Décret n°84-225 1984-03-29 art. 2 JORF 31 mars 1984
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1992
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-###### Article 46 quater-0 H
-
-En cas de vente d'immeubles à construire, le bénéfice est réputé réalisé à la date de réception de la lettre recommandée
-prévue au I de l'article 46 quater-0 G.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 46 quater-0 G I
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-##### I : Entreprises de construction de logements.
-
-###### Article 46 quater-0 I
-
-I. Les entreprises désignées à l'article 209 quater A du code général des impôts s'entendent de celles qui construisent ou
-font construire exclusivement en vue de la vente; elles doivent exercer cette activité soit elles-mêmes, soit sous le couvert
-de sociétés civiles immobilières régies par l'article 239 ter dudit code ou de sociétés visées à l'article 1655 ter du même
-code ; qui construisent ou font construire directement.
-
-II. Les investissements que ces entreprises peuvent réaliser, dans la limite de 10 % de leurs fonds propres, s'entendent des
-prises de participation dans des sociétés exerçant l'une des activités suivantes :
-
-- Location d'immeubles bâtis ;
-
-- Fourniture de services étroitement liés à l'activité de construction immobilière ;
-
-- Construction de logements au sens du III de l'article 209 quater A précité ;
-
-- Réalisation de travaux d'aménagement et d'équipement de terrains dans une zone d'action concertée ou toute zone réglementée
-désignée par arrêté du ministre de l'économie et des finances.
-
-La valeur des investissements à retenir pour l'appréciation de la limite de 10 % est présumée égale au prix de revient des
-titres souscrits ou acquis augmenté des sommes mises ou laissées à la disposition de la société sous quelque forme que ce
-soit. Les fonds propres des entreprises s'entendent, à l'exclusion du capital non appelé, des sommes qui figurent aux comptes
-de situation nette du bilan de clôture de l'exercice, augmentées ou diminuées des résultats de cet exercice.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 quater A III, 239 ter, 1655 ter
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-###### Article 46 quater-0 J
-
-I. Les délais de quatre et sept ans mentionnés à l'article 209 quater A du code général des impôts courent depuis la date de
-clôture de l'exercice de réalisation des bénéfices et se décomptent jusqu'à la date de clôture de l'exercice au titre duquel
-la distribution a eu lieu.
-
-II. Lorsque les produits distribués sont prélevés sur des profits de construction ayant fait l'objet d'une taxation
-complémentaire à l'impôt sur les sociétés, le délai de cinq ans prévu à l'article 223 sexies du même code se décompte à
-partir de la date de clôture de l'exercice au titre duquel cette imposition a été établie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 quater A, 223 sexies
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 46 quater-0 K
-
-Le montant des impositions complémentaires établies au titre de l'impôt sur les sociétés ou du précompte à raison des
-distributions de profits de construction portés à la réserve spéciale visée au I de l'article 209 quater A du code général
-des impôts s'impute sur cette réserve; cette imputation ne constitue pas un prélèvement au sens du II du même article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 quater A I, II
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-##### II : Entreprises dont la construction de logements ne constitue pas l'activité exclusive.
-
-###### Article 46 quater-0 L
-
-I. Les profits de construction réalisés par les entreprises visées à l'article 209 quater B du code général des impôts
-donnent lieu à une imposition complémentaire lorsqu'il est constaté, à la clôture de l'exercice, une insuffisance
-d'investissement définie par la différence entre :
-
-D'une part, le montant global des disponibilités nettes dégagées à compter du 1er janvier 1972 par les opérations de
-construction ou assimilées qui ont été terminées depuis plus de deux ans et dont les profits ne sont pas définitivement
-libérés d'impôt sur les sociétés ;
-
-Et, d'autre part, le total des valeurs d'origine pour lesquelles les biens acquis ou construits en remploi de ces
-disponibilités figurent à l'actif de l'entreprise.
-
-II. Le remploi des disponibilités doit avoir été effectué dans la construction, en vue de la vente ou de la location,
-d'immeubles affectés à l'habitation pour les trois quarts au moins de leur superficie, dans l'achat de terrains destinés à de
-telles constructions ou dans la souscription au capital ou aux augmentations de capital :
-
-- De sociétés immobilières d'investissement et sociétés de gestion qui satisfont aux conditions prévues à l'article 33 de la
-loi n° 63-254 du 15 mars 1963 ;
-
-- De sociétés civiles ayant pour objet la construction en vue de la vente et entrant dans les prévisions de l'article 239 ter
-du code général des impôts ;
-
-- De sociétés de construction soumises aux dispositions de l'article 209 quater A du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 quater B, 239 ter, 209 quater A
-	  - Loi n°63-254 du 15 mars 1963 - art. 33, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-
-###### Article 46 quater-0 M
-
-L'insuffisance de réinvestissement constatée conformément à l'article 46 quater-0 L est imputée d'abord sur la fraction
-exonérée des profits de construction réalisés au cours du plus ancien des exercices clos et, ensuite, sur le prix de revient
-des aliénations correspondantes.
-
-L'imputation du surplus s'opère, le cas échéant, suivant les mêmes modalités, sur les disponibilités dégagées par les ventes
-d'immeubles achevés ou assimilées réalisées au cours des exercices ultérieurs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 46 quater-0 L
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 46 quater-0 N
-
-I. Les délais de quatre et sept ans à retenir pour l'imposition complémentaire à l'impôt sur les sociétés s'apprécient à
-compter de la date de clôture de l'exercice en cours lors de la réalisation des profits de construction sur lesquels le
-montant de l'insuffisance est imputé.
-
-II. Le délai de cinq ans prévu à l'article 223 sexies du code général des impôts se décompte à partir de la date de clôture
-de l'exercice d'imposition des profits de construction soumis à taxation complémentaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 sexies
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 46 quater-0 O
-
-Pour l'application des articles 46 quater-0 L et 46 quater-0 N, les entreprises doivent produire, à l'appui de la déclaration
-de résultats prévue à l'article 223 du code général des impôts, un tableau indiquant distinctement le montant global des
-disponibilités à réinvestir pour continuer à bénéficier de la taxation atténuée des profits de construction et le total des
-valeurs d'origine des biens constituant un remploi qui figurent à l'actif du bilan de l'entreprise. Le modèle en est fixé par
-arrêté (1).
-
-(1) Annexe IV art. 23 I bis.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223
-	  - CGIAN3 46 quater-0 L, 46 quater-0 N
-	  - CGIAN4 23 I bis
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
 ##### III : Dispositions diverses
-
-###### Article 46 quater-0 P
-
-Lorsqu'une entreprise cesse d'avoir pour seule activité la construction au sens du III de l'article 209 quater A du code
-général des impôts, les profits de construction portés à la réserve spéciale au cours des exercices arrêtés antérieurement à
-la date de modification d'activité sont soumis à l'impôt sur les sociétés selon les modalités fixées à l'article 209 quater B
-du même code et aux articles 46 quater-0 L à 46 quater-0 O, sauf pour l'appréciation de la proportion de la superficie des
-immeubles construits réservée à l'habitation qui reste soumise aux conditions prévues au III de l'article 209 quater A
-précité. Le tableau spécial prévu à l'article 46 quater-0 O doit être produit, à la clôture de l'exercice du changement
-d'activité, pour chacun des exercices concernés.
-
-Les impositions sont établies, au titre de chacun de ces exercices, sous déduction de l'impôt précédemment supporté par ces
-profits lors de leur prélèvement sur la réserve spéciale.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 quater A III, 209 quater B
-	  - CGIAN3 46 quater-0 L à 46 quater-0 O
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 46 quater-0 Q
-
-I. Lorsqu'elles comprennent parmi leurs membres une ou plusieurs sociétés de construction au sens de l'article 209 quater A
-du code général des impôts, les sociétés civiles immobilières de construction d'immeubles en vue de la vente doivent procéder
-à l'attribution de leurs résultats à la clôture de chaque exercice.
-
-II. Lorsqu'elles comprennent parmi leurs membres une ou plusieurs sociétés de construction au sens de l'article 209 quater B
-du même code, ces sociétés civiles sont tenues de fournir le tableau spécial prévu à l'article 46 quater-0 O. En ce cas, la
-société de construction doit, dans le tableau qu'elle fournit elle-même, reprendre, en proportion de ses droits, les éléments
-figurant dans les tableaux fournis par la ou les sociétés civiles dont elle est membre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 quater A, 209 quater B
-	  - CGIAN3 46 quater-0 O
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
-
 
 ###### Article 46 quater-0 R
 
@@ -15382,7 +15046,7 @@ Ils prévoient également qu'aucune aide ne peut être consentie au profit d'une
 avec les donateurs, les membres ou le personnel de l'organisme qui est associé à la prise de décision.
 
 Ils prévoient en outre que les organismes s'engagent à accorder des aides compatibles avec le règlement (CE) n° 70/2001 de la
-Commission du 12 janvier 2001 susvisé. Ce règlement est annexé à leurs statuts.
+Commission du 12 janvier 2001. Ce règlement est annexé à leurs statuts.
 
 **Liens relatifs à cet article**
 
@@ -15390,9 +15054,13 @@ Commission du 12 janvier 2001 susvisé. Ce règlement est annexé à leurs statu
 
 	  - CGI 238 bis
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-213 du 9 mars 2004 - art. 1 () JORF 12 mars 2004
+	  - Décret n°2004-1070 2004-10-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Cité par**:
 
@@ -15401,7 +15069,7 @@ Commission du 12 janvier 2001 susvisé. Ce règlement est annexé à leurs statu
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quindecies N
@@ -15460,8 +15128,8 @@ Un organisme mentionné au 4 de l'article 238 bis peut agir en tant qu'interméd
 financiers qui verseraient des aides rémunérées à condition de ne percevoir aucune rémunération à ce titre.
 
 Les entreprises sont informées par l'organisme de la conformité de l'aide accordée au règlement (CE) n° 70/2001 de la
-Commission du 12 janvier 2001 susvisé lorsque celui-ci leur notifie l'aide. La décision leur notifiant l'octroi de l'aide
-précise que ce règlement est à leur disposition au siège de l'organisme.
+Commission du 12 janvier 2001 lorsque celui-ci leur notifie l'aide. La décision leur notifiant l'octroi de l'aide précise que
+ce règlement est à leur disposition au siège de l'organisme.
 
 **Liens relatifs à cet article**
 
@@ -15470,9 +15138,13 @@ précise que ce règlement est à leur disposition au siège de l'organisme.
 	  - CGI 238 bis
 	  - CGIAN3 46 quindecies M à 46 quindecies Q
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-213 du 9 mars 2004 - art. 1 () JORF 12 mars 2004
+	  - Décret n°2004-1070 2004-10-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Cité par**:
 
@@ -15480,7 +15152,7 @@ précise que ce règlement est à leur disposition au siège de l'organisme.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quindecies P
@@ -15489,8 +15161,7 @@ Les organismes agréés adressent chaque année à l'autorité qui a délivré l
 des sommes recueillies précisant l'utilisation de ces sommes et fournissent les renseignements relatifs aux entreprises
 aidées de nature à prouver qu'elles entrent effectivement dans le champ d'application du dispositif défini au 4 de l'article
 238 bis du code général des impôts. Ils communiquent également annuellement à cette même autorité tous renseignements
-permettant de garantir la conformité des aides accordées au règlement CE n° 70/2001 de la Commission du 12 janvier 2001
-susvisé.
+permettant de garantir la conformité des aides accordées au règlement CE n° 70/2001 de la Commission du 12 janvier 2001.
 
 Ces organismes adressent leurs comptes et leur bilan annuels certifiés par un commissaire aux comptes ainsi que leur rapport
 d'activité approuvé par l'assemblée générale au directeur des services fiscaux ayant délivré l'agrément.
@@ -15501,13 +15172,17 @@ d'activité approuvé par l'assemblée générale au directeur des services fisc
 
 	  - CGI 238 bis
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-213 du 9 mars 2004 - art. 1 () JORF 12 mars 2004
+	  - Décret n°2004-1070 2004-10-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quindecies Q
@@ -22197,642 +21872,6 @@ des pulpes, pellicules et rafles ;
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B (V)
 
 
-##### III : Fabrication des boissons de raisins secs.
-
-###### Article 125
-
-Huit jours au moins avant la mise en activité de leur usine, les fabricants de boissons de raisins secs doivent souscrire au
-bureau de déclarations de la direction générale des douanes et droits indirects une déclaration mentionnant :
-
-1° La description des locaux, ateliers, magasins et autres dépendances de l'établissement ;
-
-2° L'indication précise et détaillée des différents procédés de fabrication employés ;
-
-3° Le régime de l'usine quant aux jours et heures de travail ;
-
-4° Le nombre et la capacité des cuves, tonneaux et autres vaisseaux de toute espèce devant être utilisés. 
-
-A l'extérieur du bâtiment principal, les mots "fabrique de boissons de raisins secs" doivent être inscrits, en caractères
-apparents.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 4 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-
-###### Article 126
-
-Chaque vaisseau porte un numéro d'ordre et l'indication de sa contenance gravés ou peints à l'huile en caractères ayant au
-moins 5 centimètres de hauteur, par les soins et aux frais du fabricant, et il est muni d'une jauge ou d'une échelle en verre
-gradué.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 127
-
-Il est défendu d'apporter aucune modification aux procédés de fabrication et aux jours et heures de travail déclarés en vertu
-de l'article 125, de changer, modifier ou altérer la contenance des vaisseaux ou d'en établir de nouveaux sans l'avoir
-déclaré au bureau de déclarations de la direction générale des douanes et droits indirects, vingt-quatre heures à l'avance. 
-
-Le fabricant peut seulement faire usage desdits vaisseaux lorsque leur contenance a été vérifiée. 
-
-Doivent faire une déclaration dans le même délai les fabricants qui veulent cesser définitivement ou suspendre leurs travaux.
-En cas de simple suspension, la reprise de la fabrication doit également être déclarée vingt-quatre heures d'avance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 125
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 4 JORF 5 janvier 1993
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 128
-
-Si l'administration en fait la demande, un local convenable d'au moins 12 mètres carrés est disposé par le fabricant pour
-servir de bureau aux agents.
-
-Ce local doit être en bon état, convenablement éclairé, meublé, chauffé et répondre à des conditions suffisantes d'hygiène,
-de propreté et de sécurité.
-
-Le loyer en est supporté par l'administration. A défaut de fixation amiable, il est réglé par l'autorité préfectorale, sauf
-recours au tribunal administratif.
-
-Dans les fabriques où un bureau n'est pas jugé nécessaire, les fabricants sont tenus de mettre gratuitement à la disposition
-du service, dans un emplacement convenable, deux chaises, une table avec tiroir fermant à clef et un coffre avec cadenas.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-
-###### Article 129
-
-Toute communication avec les maisons voisines non occupées par le fabricant est interdite et doit être scellée.
-
-Il ne peut non plus exister aucune communication intérieure entre une fabrique de boissons de raisins secs et les bâtiments
-dans lesquels l'industriel exercerait la profession de distillateur, fabricant de glucose ou liquoriste, ou bien ferait le
-commerce en gros des spiritueux.
-
-Aucun alambic ne peut être installé dans la fabrique.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 131
-
-Toute introduction de raisins secs dans la fabrique doit être justifiée par la représentation d'un document mentionné au I de
-l'article 302 M du code général des impôts.
-
-Toute introduction de matières premières, autres que les raisins, destinées à la fabrication de boissons alcooliques doit
-faire, une heure au moins à l'avance, l'objet d'une déclaration au bureau de déclarations de la direction générale des
-douanes et droits indirects.
-
-Les quantités introduites sont, après vérification, prises en charge par les agents et emmagasinées dans un ou plusieurs
-locaux spécialement affectés à cet usage.
-
-Le fabricant doit mettre à la disposition du service la main-d'oeuvre et les instruments nécessaires pour le pesage.
-
-Les quantités dont l'introduction n'est pas justifiée conformément aux dispositions précédentes sont saisies par procès-
-verbal.
-
-Les quantités de raisins secs et autres matières premières recélées dans la fabrique ou ailleurs sont considérées comme ayant
-été introduites en fraude.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 M
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 31 mars 2000
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 132
-
-Chaque fabrication est précédée d'une déclaration souscrite au bureau de déclarations de la direction générale des douanes et
-droits indirects quatre heures d'avance au moins dans les villes où il existe un poste d'agents à demeure, et douze heures
-dans les campagnes.
-
-Elle indique si la fermentation doit s'opérer sur les raisins secs, ou isolément après soutirage du produit des trempes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 4 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 133
-
-Lorsque la fermentation a lieu sur marcs, la déclaration énonce :
-
-1° Le numéro et la contenance des vaisseaux à utiliser ;
-
-2° Le poids et le volume des fruits à mettre en oeuvre ;
-
-3° L'espèce et la quantité des liquides employés au chargement (eau pure ou eau de lavage) ;
-
-4° Le volume total des quantités mises en fermentation ;
-
-5° La date et l'heure du commencement de l'opération, la date et l'heure présumées de l'entonnement ;
-
-6° La richesse alcoolique estimative du produit à fabriquer.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 134
-
-Lorsque la fermentation n'a pas lieu sur marcs, outre les indications prescrites par l'article 133, le fabricant est tenu
-dans les conditions de délai fixées par l'article 132 de déclarer séparément :
-
-1° L'heure à laquelle aura lieu chacun des soutirages de moût auxquels il se propose de procéder ;
-
-2° Le produit présumé de chacune de ces opérations;
-
-3° Le numéro et la contenance des cuves ou foudres dans lesquels ces moûts seront réunis pour être mis en fermentation et
-l'heure à laquelle cette réunion sera terminée ;
-
-4° L'heure à laquelle auront lieu les opérations de lavage des marcs, la quantité d'eau qui sera employée à ces lavages et
-leur produit présumé, sans que ce produit puisse être inférieur à la quantité d'eau versée ;
-
-5° Le numéro et la contenance des foudres ou cuves dans lesquels ce produit sera versé ;
-
-6° La destination qui doit être donnée au produit.
-
-Les produits des divers soutirages composant une même fabrication doivent être réunis dans les cuves de fermentation dans un
-délai de quatre jours au plus à partir de l'heure fixée pour le commencement de la fabrication.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 132, 133
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-
-###### Article 135
-
-Les fabricants peuvent, en cours de travail, compléter ou rectifier la déclaration primitive par des déclarations
-complémentaires faites dans les conditions de délai déterminées par l'article 132, c'est-à-dire quatre heures ou douze heures
-avant l'opération particulière à laquelle elles se rapportent.
-
-Toute transvasion de liquide en cours de fabrication doit faire, dans les mêmes conditions de délai, l'objet d'une
-déclaration.
-
-Pour les opérations de soutirage prévues par l'article 136, les fabricants inscrivent eux-mêmes sur les ampliations de la
-déclaration, et au moment même où chaque opération est terminée, le produit effectif de cette opération.
-
-Les ampliations des déclarations faites en exécution des articles 132, 133 et 134 et, s'il y a lieu, des déclarations
-complémentaires prévues par le présent article sont représentées à toute réquisition des agents, pendant toute la durée de la
-fabrication.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 132, 133, 134, 136
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 136
-
-Quel que soit le mode de fabrication adopté, avant de procéder à l'entonnement des produits achevés, le fabricant est tenu
-d'en faire la déclaration dans les mêmes conditions de délai que celles prévues à l'article 132.
-
-Il ne peut être procédé au déchargement des cuves et à l'entonnement qu'autant que la fabrication est complètement achevée et
-que les boissons n'accusent pas une densité supérieure à 1.000 grammes par litre.
-
-Cette opération ne peut avoir lieu que de jour et sans désemparer ; les décharges partielles sont formellement interdites.
-
-Tout liquide en fermentation trouvé en dehors des cuves chargées en vertu d'une déclaration régulière est considéré comme le
-produit d'une fabrication clandestine et saisi par procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 132
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-
-###### Article 137
-
-Le compte de matières premières prévu par l'article 353 du code général des impôts présente :
-
-Aux charges, les quantités de raisins secs reçues en vertu de documents mentionnés au I de l'article 302 M du code général
-des impôts ou de déclarations régulières et les excédents constatés ;
-
-Aux sorties :
-
-1° Les quantités expédiées au dehors après reconnaissance par les agents ;
-
-2° Les quantités employées à la fabrication conformément à la déclaration prescrite par les articles 132 et 143.
-
-Le compte de matières premières peut être réglé par les agents aussi souvent qu'ils le jugent nécessaire.
-
-Tout excédent est saisi par procès-verbal et ajouté aux charges. Tout manquant de raisins secs donne lieu au paiement :
-
-1° Du droit de consommation à raison de 30 litres d'alcool pur par 100 kilogrammes de raisins secs ;
-
-2° De la taxe de fabrication prévue à l'article 353 précité à raison de 3 hectolitres de boissons de raisins secs par 100
-kilogrammes de raisins secs.
-
-Les manquants de matières premières autres que les raisins secs donnent lieu au paiement du droit de consommation sur une
-quantité d'alcool pur correspondant à la richesse saccharine des matières de même nature restant en magasin, et suivant une
-base d'évaluation déterminée comme il est dit à l'article 142.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 353, 302 M, 132, 143, 142
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 138
-
-Le compte général de fabrication est suivi pour le volume et pour le titre alcoométrique volumique.
-
-Il est chargé au minimum :
-
-1° D'une quantité de boissons de raisins secs correspondant à la quantité de raisins secs mis en oeuvre, à raisin de 3
-hectolitres de boissons par 100 kilogrammes de raisins secs ;
-
-2° D'une quantité d'alcool correspondant à la quantité de raisins secs mis en oeuvre, à raison de 30 litres d'alcool pur par
-100 kilogrammes de raisins secs.
-
-Les excédents en volume ou en alcool constatés dans les cuves de fermentation ou à l'entonnement sont ajoutés aux charges.
-
-Le compte général est déchargé :
-
-a. En ce qui concerne le volume :
-
-1° Des quantités de boissons, excédents compris, qui, dès l'achèvement de chaque fabrication, sont portées à l'état de
-produits comme passibles du droit de fabrication ;
-
-2° Des pertes matérielles dûment constatées.
-
-b. En ce qui concerne les titres alcoométriques volumiques :
-
-1° Des quantités d'alcool qui, après l'achèvement de chaque fabrication, sont prises en charge au compte définitif des
-produits achevés ;
-
-2° Des manquants constatés, soit à l'entonnement, soit en cours de fabrication et qui ont donné lieu à la constatation
-immédiate du droit de consommation sur l'alcool ;
-
-3° Des quantités d'alcool correspondant aux pertes matérielles dûment constatées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-200 1979-03-05 art. 3 JORF 11 mars 1979
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 139
-
-Le compte auxiliaire de fabrication est destiné à présenter la situation de chacun des vaisseaux, cuves, foudres, etc., dans
-lesquels sont contenus les produits quelconques en cours de fabrication : macérations de raisins, moûts soutirés ou
-fermentant en présence des marcs, eau de lavage des marcs, etc.
-
-Ce compte est chargé de toutes les quantités de liquides introduites dans ces vaisseaux à la suite des déclarations faites en
-vertu des articles 133, 134 et 135.
-
-Les excédents constatés sont ajoutés aux charges.
-
-Le compte est déchargé des quantités entonnées, soutirées ou transvasées en vertu de déclarations régulières, des manquants
-reconnus en cours de fabrication ou à l'entonnement, des quantités dont la perte est dûment justifiée.
-
-Les manquants constatés au compte auxiliaire de fabrication sont frappés du droit de consommation à raison du degré
-alcoolique des boissons, ou, s'il ne peut être déterminé par suite de la non-fermentation des marcs, à raison du degré
-alcoolique moyen des produits expédiés dans le mois précédent.
-
-Toutefois, dans les fabriques où les marcs sont jetés sans avoir été pressurés, il peut être accordé, pour l'eau retenue par
-les raisins, une déduction dont le taux est fixé par l'administration après expériences contradictoires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 133, 134, 135
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-
-###### Article 140
-
-Le compte de magasin des produits achevés est chargé :
-
-1° Des quantités qui, après leur achèvement, sont passées en décharge au compte général de fabrication ; 
-
-2° Des quantités de boissons de raisins secs provenant d'introductions ; 
-
-3° Des excédents reconnus dans les recensements. 
-
-Les décharges comprennent les quantités expédiées en vertu de déclarations d'enlèvement faites au bureau de déclarations de
-la direction générale des douanes et droits indirects et les manquants.
-
-Aucune décharge ne peut être accordée au compte des produits achevés pour les quantités de boissons de raisins secs
-imparfaites ou avariées que les fabricants déclareraient vouloir remettre en fabrication, à moins que cette opération n'ait
-été préalablement autorisée par une décision spéciale de l'administration.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 4 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 141
-
-Les excédents reconnus au cours des vérifications et des inventaires, tant au compte des produits achevés qu'au compte
-auxiliaire de fabrication, sont saisis par procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-
-###### Article 142
-
-Il est tenu, dans les fabriques de boissons de raisins secs, des comptes spéciaux de fabrication et de magasin pour les
-liquides alcooliques visés au I de l'article 401 du code général des impôts.
-
-La mise en oeuvre des matières premières et l'entonnement doivent être déclarés dans les délais fixés par l'article 132.
-
-Le compte de fabrication est chargé, au minimum, d'une quantité d'alcool correspondant à la richesse saccharine des matières
-mises en oeuvre, suivant une base d'évaluation déterminée de gré à gré par l'administration et le fabricant et, en cas de
-contestation, par la commission visée à l'article 343 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 401, 343
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-	  - HISTO: Edition du 31 août 2004
-
-	**Modifié par**:
-
-	  - Loi - art. 25 () JORF 31 décembre 1995
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-
-###### Article 143
-
-Lorsque les fabricants travaillent d'une manière continue, et après déclaration faite au bureau de déclarations de la
-direction générale des douanes et droits indirects du nombre de jours pendant lesquels les opérations doivent se poursuivre
-sans interruption, l'administration peut, sur leur demande, et si elle le juge convenable, mettre à leur disposition des
-registres sur lesquels ils inscrivent eux-mêmes, dans les conditions de délai imparties, les déclarations prescrites aux
-articles 132 à 136. 
-
-Les ampliations de ces déclarations doivent être immédiatement détachées et déposées dans une boîte dûment scellés par les
-agents.
-
-Les registres doivent être représentés au service à toute réquisition. L'administration a toujours la faculté de les retirer.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 132 à 136
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 4 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
-
-
 ##### B : Régime économique
 
 ##### I : Organisation de l'économie cidricole
@@ -24914,14 +23953,26 @@ généraux intéressés.
 ###### Article 219 O
 
 Les modalités d'application des articles 219 A à 219 K seront fixées, en tant que de besoin, par arrêtés conjoints du
-ministre de l'agriculture, du ministre de l'économie et des finances et, le cas échéant, du ministre chargé des départements
-et territoires d'outre-mer.
+ministre de l'agriculture, du ministre de l'économie et des finances et, le cas échéant, du ministre chargé de l'outre-mer.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGIAN3 219 A à 219 K
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 
 #### Chapitre III ter : Régime économique de l'isoglucose.
@@ -25234,99 +24285,166 @@ finis élaborés à partir du sirop d'inuline en leur possession.
 
 ###### Article 244 decies
 
-1. Les débitants de tabac visés au premier alinéa de l'article 568 gèrent personnellement des débits de tabac qui sont
-classés en trois catégories : les débits de tabac ordinaires, les débits de tabac spéciaux et les débits de tabac
-temporaires.
+Les débits de tabac temporaires sont exclusivement destinés à vendre au détail des tabacs manufacturés à l'occasion de
+manifestations publiques se tenant dans des enceintes non librement accessibles au public. Il ne peut être créé de débit de
+tabac temporaire dans des manifestations à caractère culturel ou sportif.
 
-Les débitants de tabac sont des personnes physiques. A l'exception des gérants de débits de tabac temporaires, ils sont liés
-à l'administration des douanes et droits indirects par un contrat d'une durée de trois ans. A l'issue de cette période, le
-contrat est renouvelé par tacite reconduction par période de trois ans. Il peut être résilié par l'administration des douanes
-et droits indirects si le débitant de tabac ne respecte pas l'une des obligations fixées aux 4, 5 et b, e, f, g, h, i du 6 du
-présent article ainsi que dans le contrat mentionné à cet alinéa ou s'il est sous curatelle ou s'il ne jouit plus de ses
-droits civiques ou s'il est reconnu inapte à l'exercice de la profession de débitant de tabac par un médecin agréé par la
-direction départementale des affaires sanitaires et sociales.
+**Liens relatifs à cet article**
 
-Le contrat fixe notamment les charges d'emploi des débitants de tabac telles que les missions de service public qui peuvent
-leur être confiées par l'Etat ou les collectivités locales.
+	**Anciens textes**:
 
-2. Aucune limite d'âge n'est imposée pour être débitant de tabac, sous réserve de disposer de la capacité civile de
-contracter.
+	  - CGIAN3 244 quaterdecies
 
-3. Une même personne physique ne peut gérer qu'un seul débit de tabac ordinaire.
+	**Modifié par**:
 
-4. Il est interdit aux débitants de tabac de vendre ou stocker des tabacs manufacturés dans des distributeurs automatiques
-installés à l'intérieur ou à l'extérieur de leur établissement.
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
-5. Les débitants de tabac ne peuvent vendre du tabac qu'aux clients présents dans l'enceinte du débit.
+	**Abrogé par**:
 
-Il leur est interdit de vendre du tabac par correspondance ou par réseaux informatiques et de modifier la composition ou la
-présentation des tabacs manufacturés qu'ils vendent.
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
 
-6. Ne peut être débitant de tabac que la personne qui remplit les conditions suivantes :
 
-a) Etre de nationalité française ou ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
-l'accord sur l'Espace économique européen ;
+###### Article 244 duodecies
 
-b) Présenter des garanties d'honorabilité, appréciées au vu du bulletin n° 2 du casier judiciaire, notamment ne pas avoir été
-l'auteur de faits contraires à l'honneur ou à la probité ayant donné lieu à une condamnation pénale ou ne pas avoir fait
-l'objet d'une sanction fiscale ou douanière dans les trois années précédant la date de candidature à la gérance ;
+I. - Conformément au a du I de l'article 244 undecies, le gérant en exercice d'un débit de tabac ordinaire qui présente un
+successeur au directeur régional des douanes et droits indirects doit remplir les conditions suivantes :
 
-c) Etre majeur et ne pas être sous tutelle ou curatelle ;
+1. Sauf dérogations prévues au III, avoir géré le débit de tabac pendant une durée minimale de trois ans à compter de la date
+de sa prise de fonction et ne pas avoir manqué à ses obligations durant cette période ;
 
-d) Justifier de son aptitude physique ;
+2. Etre en mesure d'apurer l'ensemble de ses dettes fiscales et douanières, sauf en cas de mise en oeuvre de procédures
+collectives ;
 
-e) Disposer d'un local situé dans le périmètre d'adjudication retenu, après avis consultatif de l'organisation citée au
-premier alinéa du 3 du III de l'article 244 quinquedecies, par l'administration des douanes et droits indirects pour
-l'implantation du débit ;
+3. Présenter les garanties visées au b du 6 de l'article 244 sexies ;
 
-f) Respecter la règle de non-cumul d'emplois, de rémunération et de retraites en application de l'article 1er du décret du 29
-octobre 1936, modifié par l'article 51-1 de la loi n° 63-156 du 23 février 1963 portant loi de finances pour 1963 ;
+4. Les conditions prévues aux 1 à 3 du I ne s'appliquent pas lorsque le successeur est présenté par un liquidateur.
 
-g) Ne pas gérer un autre débit de tabac ou ne pas être suppléant d'un débitant en exercice ou associé dans une société en nom
-collectif propriétaire d'un commerce annexé à un débit de tabac, à l'exception des gérants de débits de tabac spéciaux et
-temporaires ;
+II. - La présentation du successeur au directeur régional des douanes et droits indirects doit être effectuée avant la vente
+du fonds de commerce associé au débit de tabac.
 
-h) Avoir la pleine et entière propriété du fonds de commerce annexé au débit de tabac, à l'exception des gérants des débits
-de tabac spéciaux ;
+En cas de résiliation du contrat par le directeur régional des douanes et droits indirects, le débitant peut ne pas être
+autorisé à présenter un successeur.
 
-i) Exploiter le fonds de commerce annexé sous la forme juridique soit de l'exploitation individuelle, soit de la société en
-nom collectif ;
+III. - Il peut être dérogé à la condition de durée minimale d'exercice de trois ans, citée au 1 du I, dans les cas suivants :
 
-j) Jouir de ses droits civiques dans l'Etat dont elle est ressortissante ;
+1. Force majeure (sinistres tels qu'un tremblement de terre, une inondation, un incendie...) ;
 
-k) Etre en situation régulière au regard des obligations de service national de l'Etat dont elle est ressortissante.
+2. Décès ou incapacité du gérant :
+
+Son suppléant ou à défaut son conjoint ou ses héritiers en ligne directe au premier degré peuvent présenter un successeur ou
+poursuivre la gérance du débit de tabac, soit à titre provisoire au moyen de la signature d'un avenant au contrat prévu au
+deuxième alinéa du 1 de l'article 244 sexies, le temps de présenter un successeur, soit à titre définitif. Dans ce dernier
+cas, un nouveau contrat est signé sous réserve de respecter les conditions fixées au 6 de l'article 244 sexies et au 3 du II
+de l'article 244 septies et de produire les renseignements et documents cités au 1 du IV de l'article 244 undecies ;
+
+3. Etat de santé du gérant :
+
+Dans ce cas, le débitant passe une visite médicale devant un médecin agréé par la direction départementale des affaires
+sanitaires et sociales afin d'être reconnu inapte à l'exercice de la profession de débitant de tabac.
+
+IV. - A réception des lettres du cédant et du candidat, le directeur régional des douanes et droits indirects accuse
+réception par écrit de leurs requêtes et transmet au candidat un dossier de candidature.
+
+Le candidat doit renvoyer son dossier complété dans les deux mois, à compter de la date de sa réception, sous peine d'abandon
+de la procédure.
+
+Il signe le contrat mentionné au deuxième alinéa du 1 de l'article 244 sexies avec le directeur régional des douanes et
+droits indirects concerné dans les conditions et selon les modalités fixées au 4 du IV de l'article 244 undecies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 568
-	  - CGIAN3 244 quinquedecies
-	  - Décret n°1936-10-29 art. 1
+	  - CGI 244 undecies, 244 sexies, 244 septies
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 244 sexies
+	  - CGIAN3 244 sexdecies
 
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
 
 
-###### Article 244 duodecies
+###### Article 244 nonies
+
+I. - Les débits de tabac spéciaux sont implantés sur :
+
+1. Le domaine public concédé du secteur des transports comprenant le réseau ferré, le réseau aéroportuaire, les aires de
+repos du réseau autoroutier non librement accessibles aux riverains dudit réseau, le réseau portuaire fluvial et maritime ;
+
+2. Le domaine public autre que celui du secteur des transports, concédé ou géré en régie.
+
+II. - Ils peuvent être également implantés dans des enceintes non librement accessibles au public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 244 terdecies
+
+	**Créé par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
+
+
+###### Article 244 novodecies
+
+La revente des tabacs manufacturés par le revendeur s'effectue selon les modalités suivantes :
+
+1. Le revendeur est tenu de payer, directement et à l'enlèvement du tabac, le gérant du débit de tabac de rattachement lors
+de chaque approvisionnement ;
+
+2. Le revendeur ne peut recevoir directement ou indirectement, pour l'achat des tabacs manufacturés auprès du débit de tabac
+de rattachement ou leur vente dans son établissement, aucune gratification, récompense ou présent de quelque personne que ce
+soit ;
+
+3. Le revendeur ou son représentant dûment mandaté doit transporter les tabacs, sous sa seule responsabilité, entre le débit
+de tabac de rattachement et son établissement, sous couvert d'un carnet de revente délivré pour l'approvisionnement auprès du
+débit de rattachement.
+
+L'achat, l'établissement et la délivrance des carnets de revente incombent exclusivement au débit de tabac de rattachement.
+Le carnet de revente est établi au nom propre du revendeur. Il est personnel et incessible.
+
+S'agissant des cigares, conformément au III de l'article 244 septdecies, le revendeur doit détenir un deuxième carnet de
+revente. Dans ce cas, le carnet est exclusivement réservé à l'approvisionnement des cigares.
+
+Le carnet de revente est présenté par le revendeur à toute réquisition des agents des douanes et droits indirects. Il doit
+être conservé par le revendeur pendant six ans à compter de la date de la dernière opération qui y est inscrite conformément
+aux dispositions de l'article L. 102 B du livre des procédures fiscales.
+
+Un arrêté des ministres chargés de la santé et du budget fixe le contenu, la présentation et les conditions et modalités de
+fonctionnement du carnet de revente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 244 septdecies
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Anciens textes**:
+
+	  - CGIAN3 244 tervicies
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
+
+
+###### Article 244 octies
 
 1. Le gérant d'un débit de tabac exploite ce débit dans un local dont l'agencement est adapté à la vente des tabacs
 manufacturés. Pour ce faire, le local doit obligatoirement disposer d'un mobilier destiné à présenter les tabacs manufacturés
@@ -25359,31 +24477,22 @@ dangereux pour la moralité publique ou injurieux à l'égard des pouvoirs publi
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 244 octies
+	  - CGIAN3 244 duodecies
 
 	**Créé par**:
 
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
-
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
 
 
-###### Article 244 duovicies
+###### Article 244 octodecies
 
-I. - Pour être revendeur, le représentant légal mentionné au deuxième alinéa du I de l'article 244 unvicies transmet une
+I. - Pour être revendeur, le représentant légal mentionné au cinquième alinéa du I de l'article 244 septdecies transmet une
 déclaration d'engagement au directeur régional des douanes et droits indirects dans la circonscription duquel l'établissement
 qu'il représente est situé.
 
@@ -25397,32 +24506,54 @@ III. - Les revendeurs bénéficient d'une information sur le monopole de vente a
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 octodecies
-
 	**Cite**:
 
-	  - CGIAN3 244 unvicies
+	  - CGI 244 septdecies
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
+	  - CGIAN3 244 duovicies
 
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
+	**Abrogé par**:
 
-###### Article 244 novodecies
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
+
+
+###### Article 244 quaterdecies
+
+Le candidat à la gérance d'un débit de tabac ordinaire, selon la procédure de l'adjudication, de la présentation de
+successeur ou de la permutation, ne peut entrer en fonction et être autorisé par l'administration des douanes et droits
+indirects à approvisionner son point de vente en tabac, qu'après signature du contrat visé au deuxième alinéa du 1 de
+l'article 244 sexies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 sexies
+
+	**Anciens textes**:
+
+	  - CGIAN3 244 octodecies
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
+
+
+###### Article 244 quindecies
 
 1. La gérance d'un débit de tabac spécial est attribuée :
 
-a) Dans les cas visés au I de l'article 244 terdecies, au candidat titulaire exclusif d'un contrat de concession d'occupation
+a) Dans les cas visés au I de l'article 244 nonies, au candidat titulaire exclusif d'un contrat de concession d'occupation
 d'un emplacement du domaine public ou au responsable du domaine public géré en régie ;
 
 b) Dans les cas visés au II du même article, au candidat titulaire exclusif d'un droit d'exercice d'une activité commerciale
@@ -25430,7 +24561,7 @@ dans une enceinte non librement accessible au public.
 
 2. Le candidat à la gérance d'un débit de tabac spécial, retenu selon la procédure visée au 1, ne peut entrer en fonction et
 être autorisé à approvisionner son point de vente en tabac qu'après signature du contrat mentionné au deuxième alinéa du 1 de
-l'article 244 decies conjointement avec le directeur général des douanes et droits indirects. Ledit contrat est établi en
+l'article 244 sexies conjointement avec le directeur général des douanes et droits indirects. Ledit contrat est établi en
 deux exemplaires. Le premier est conservé par l'administration des douanes et droits indirects et le second par le débitant
 de tabac.
 
@@ -25439,342 +24570,106 @@ débitant de tabac.
 
 4. En cas de force majeure ou de circonstances exceptionnelles, un débit de tabac spécial peut être fermé ou déplacé sur
 décision du directeur général des douanes et droits indirects et sous réserve du respect des dispositions de l'article 244
-terdecies.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 quindecies
-
-	**Cite**:
-
-	  - CGIAN3 244 terdecies, 244 decies
-
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 244 octodecies
-
-Le candidat à la gérance d'un débit de tabac ordinaire, selon la procédure de l'adjudication, de la présentation de
-successeur ou de la permutation, ne peut entrer en fonction et être autorisé par l'administration des douanes et droits
-indirects à approvisionner son point de vente en tabac, qu'après signature du contrat visé au deuxième alinéa du 1 de
-l'article 244 decies.
+nonies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 244 decies
+	  - CGI 244 nonies, 244 sexies
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 244 quaterdecies
+	  - CGIAN3 244 novodecies
 
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 244 quaterdecies
-
-Les débits de tabac temporaires sont exclusivement destinés à vendre au détail des tabacs manufacturés à l'occasion de
-manifestations publiques se tenant dans des enceintes non librement accessibles au public. Il ne peut être créé de débit de
-tabac temporaire dans des manifestations à caractère culturel ou sportif.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 decies
-
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 244 quatervicies
-
-Le non-respect par le revendeur des dispositions prévues aux articles 244 unvicies à 244 tervicies entraîne le retrait de la
-faculté de revendre des tabacs manufacturés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 244 unvicies à 244 tervicies
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 vicies
-
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
 
 
 ###### Article 244 septdecies
 
-Conformément au b du I de l'article 244 quinquedecies, l'attribution de la gérance d'un débit de tabac ordinaire par
-permutation s'effectue aux conditions suivantes :
+I. - Les revendeurs, mentionnés au premier alinéa de l'article 568 du code général des impôts, sont les établissements
+suivants :
 
-1. La permutation entre époux est possible à n'importe quel moment de la gérance, à condition que le comportement du débitant
-n'appelle aucun reproche tant sur le plan professionnel que sur le plan pénal et que le fonds de commerce soit la propriété
-de la communauté conjugale ;
+1. Débit de boissons à consommer sur place, titulaire d'une licence de troisième ou quatrième catégorie effectivement
+exploitée ou un restaurant titulaire d'une "licence restaurant" proprement dite, conformément au code de la santé publique ;
 
-2. Pendant les trois premières années de la gérance, à compter de la signature du contrat mentionné au deuxième alinéa du 1
-de l'article 244 decies, la permutation entre associés d'une société en nom collectif est possible uniquement entre les
-associés qui étaient membres de la société en nom collectif au moment de la signature du contrat de gérance. La permutation
-ne peut se faire qu'après cession de parts conduisant au changement de l'associé majoritaire ;
+2. Station-service implantée sur le réseau autoroutier, les liaisons assurant la continuité du réseau autoroutier, les voies
+express ou les voies rapides en milieu urbain ou toute station-service pour les départements de Corse ;
 
-3. Le candidat à la gérance lors d'une permutation entre époux ou entre associés signe le contrat visé au 2 avec le directeur
-régional des douanes et droits indirects concerné dans les conditions et selon les modalités fixées au D du IV de l'article
-244 quinquedecies. Il n'a pas toutefois à fournir le renseignement et les justificatifs visés aux 3, 9 et 10 du A du IV du
-même article.
+3. Etablissement militaire, pénitentiaire ou accueillant une population dont la liberté d'aller et venir est restreinte, à
+l'exclusion des établissements de santé, et notamment ceux qui sont habilités à recevoir des personnes hospitalisées sous
+contrainte.
 
-Le cas échéant, le nouveau gérant s'engage à poursuivre le paiement de la soumission jusqu'au terme prévu par le cahier des
-charges.
+Le représentant légal de ces établissements s'engage à respecter les obligations propres à la revente de tabac définies au
+présent article et aux articles 244 octodecies et 244 novodecies.
+
+II. - A l'exception des cas visés au III, les revendeurs doivent s'approvisionner en tabacs manufacturés exclusivement auprès
+d'un débit de tabac ordinaire permanent tel que défini au 1 du I de l'article 244 septies, ci-après dénommé "débit de tabac
+de rattachement", le plus proche de leur établissement, ci-après dénommé "établissement revendeur".
+
+Le débit de tabac de rattachement est déterminé par le revendeur, qui calcule la distance exacte en mètres entre l'entrée
+principale de son établissement et celle du débit de tabac de rattachement, sur la base du chemin le plus court entre ces
+deux établissements, par toute voie publique de circulation y compris celle publique ou privée accessible uniquement aux
+piétons. Pour être prises en compte, les voies privées doivent être ouvertes au public en journée.
+
+Il appartient au revendeur de s'assurer que le débit de tabac de rattachement ainsi déterminé reste le plus proche de son
+établissement. Si tel n'est plus le cas, le revendeur définit son nouveau débit de tabac de rattachement selon la même
+méthode.
+
+Le revendeur justifie à toute réquisition des agents de l'administration des douanes et droits indirects et par tout moyen
+que ces agents jugeraient utile que son débit de rattachement est le plus proche de l'établissement où il pratique la
+revente.
+
+En cas de fermeture annuelle du débit de tabac de rattachement, le revendeur peut s'approvisionner exceptionnellement auprès
+d'un autre débit de tabac ordinaire permanent que son débit de tabac de rattachement ; cet autre débit de tabac ordinaire
+permanent est le deuxième débit le plus proche ouvert, déterminé selon les modalités fixées au deuxième alinéa.
+
+III. - Pour les cigares, le revendeur peut s'approvisionner auprès de tout débit de tabac. Cette disposition s'applique
+aussi, pour tous les tabacs manufacturés, au revendeur établi sur le domaine public concédé visé au 1 du I de l'article 244
+nonies. Dans ces deux cas, ce débit de tabac constitue le "débit de tabac de rattachement" du revendeur. Les dispositions
+prévues au I de l'article 244 octodecies et à l'article 244 novodecies s'appliquent également à ce débit de tabac de
+rattachement.
+
+IV. - Les revendeurs ne vendent des tabacs manufacturés qu'aux seuls clients, usagers ou personnels de leur établissement, au
+titre d'un service complémentaire à l'activité principale de cet établissement.
+
+Les revendeurs sont tenus de proposer à la clientèle, aux usagers et personnels de leur établissement des tabacs manufacturés
+d'au moins trois fabricants de leur choix. Ils ne peuvent passer un contrat d'exclusivité avec un fabricant ou un fournisseur
+de tabacs manufacturés.
+
+Les revendeurs ne peuvent exposer dans leur établissement les tabacs à la vue de leur clientèle, de leurs usagers et de leurs
+personnels. Ils ne peuvent modifier la composition ou la présentation des tabacs manufacturés qu'ils revendent.
+
+V. - Il est interdit aux revendeurs de vendre ou stocker des tabacs manufacturés dans des distributeurs automatiques
+installés à l'intérieur ou à l'extérieur de leur établissement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 244 quinquedecies, 244 decies
+	  - CGI 568
+	  - CGIAN3 244 octodecies, 244 novodecies, 244 septies, 244 nonies
 
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 terdecies
-
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 244 sexdecies
-
-I. - Conformément au a du I de l'article 244 quinquedecies, le gérant en exercice d'un débit de tabac ordinaire qui présente
-un successeur au directeur régional des douanes et droits indirects doit remplir les conditions suivantes :
-
-1. Sauf dérogations prévues au III, avoir géré le débit de tabac pendant une durée minimale de trois ans à compter de la date
-de sa prise de fonction et ne pas avoir manqué à ses obligations durant cette période ;
-
-2. Etre en mesure d'apurer l'ensemble de ses dettes fiscales et douanières, sauf en cas de mise en oeuvre de procédures
-collectives ;
-
-3. Présenter les garanties visées au b du 6 de l'article 244 decies ;
-
-4. Les conditions prévues aux 1 à 3 du présent I ne s'appliquent pas lorsque le successeur est présenté par un liquidateur.
-
-II. - La présentation du successeur au directeur régional des douanes et droits indirects doit être effectuée avant la vente
-du fonds de commerce associé au débit de tabac.
-
-En cas de résiliation du contrat par le directeur régional des douanes et droits indirects, le débitant peut ne pas être
-autorisé à présenter un successeur.
-
-III. - Il peut être dérogé à la condition de durée minimale d'exercice de trois ans, citée au 1 du I, dans les cas suivants :
-
-1. Force majeure (sinistres tels qu'un tremblement de terre, une inondation, un incendie...) ;
-
-2. Décès ou incapacité du gérant :
-
-Son suppléant ou à défaut son conjoint ou ses héritiers en ligne directe au premier degré peuvent présenter un successeur ou
-poursuivre la gérance du débit de tabac, soit à titre provisoire au moyen de la signature d'un avenant au contrat prévu au
-deuxième alinéa du 1 de l'article 244 decies, le temps de présenter un successeur, soit à titre définitif. Dans ce dernier
-cas, un nouveau contrat est signé sous réserve de respecter les conditions fixées au 6 de l'article 244 decies et au 3 du II
-de l'article 244 undecies et de produire les renseignements et documents cités au A du IV de l'article 244 quinquedecies ;
-
-3. Etat de santé du gérant :
-
-Dans ce cas, le débitant passe une visite médicale devant un médecin agréé par la direction départementale des affaires
-sanitaires et sociales afin d'être reconnu inapte à l'exercice de la profession de débitant de tabac.
-
-IV. - A réception des lettres du cédant et du candidat, le directeur régional des douanes et droits indirects accuse
-réception par écrit de leurs requêtes et transmet au candidat un dossier de candidature.
-
-Le candidat doit renvoyer son dossier complété dans les deux mois, à compter de la date de sa réception, sous peine d'abandon
-de la procédure.
-
-Il signe le contrat mentionné au deuxième alinéa du 1 de l'article 244 decies avec le directeur régional des douanes et
-droits indirects concerné dans les conditions et selon les modalités fixées au D du IV de l'article 244 quinquedecies.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 duodecies
-
-	**Cite**:
-
-	  - CGIAN3 244 quinquedecies, 244 decies, 244 undecies
-
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 244 terdecies
-
-I. - Les débits de tabac spéciaux sont implantés sur :
-
-1. Le domaine public concédé du secteur des transports comprenant le réseau ferré, le réseau aéroportuaire, les aires de
-repos du réseau autoroutier non librement accessibles aux riverains dudit réseau, le réseau portuaire fluvial et maritime ;
-
-2. Le domaine public autre que celui du secteur des transports, concédé ou géré en régie.
-
-II. - Ils peuvent être également implantés dans des enceintes non librement accessibles au public.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 nonies
-
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 244 tervicies
-
-La revente des tabacs manufacturés par le revendeur s'effectue selon les modalités suivantes :
-
-1. Le revendeur est tenu de payer, directement et à l'enlèvement du tabac, le gérant du débit de tabac de rattachement lors
-de chaque approvisionnement ;
-
-2. Le revendeur ne peut recevoir directement ou indirectement, pour l'achat des tabacs manufacturés auprès du débit de tabac
-de rattachement ou leur vente dans son établissement, aucune gratification, récompense ou présent de quelque personne que ce
-soit ;
-
-3. Le revendeur ou son représentant dûment mandaté doit transporter les tabacs, sous sa seule responsabilité, entre le débit
-de tabac de rattachement et son établissement, sous couvert d'un carnet de revente délivré pour l'approvisionnement auprès du
-débit de rattachement.
-
-L'achat, l'établissement et la délivrance des carnets de revente incombent exclusivement au débit de tabac de rattachement.
-Le carnet de revente est établi au nom propre du revendeur. Il est personnel et incessible.
-
-S'agissant des cigares, conformément au III de l'article 244 unvicies, le revendeur doit détenir un deuxième carnet de
-revente. Dans ce cas, le carnet est exclusivement réservé à l'approvisionnement des cigares.
-
-Le carnet de revente est présenté par le revendeur à toute réquisition des agents des douanes et droits indirects. Il doit
-être conservé par le revendeur pendant six ans à compter de la date de la dernière opération qui y est inscrite conformément
-aux dispositions de l'article L. 102 B du livre des procédures fiscales.
-
-Un arrêté des ministres chargés de la santé et du budget fixe le contenu, la présentation et les conditions et modalités de
-fonctionnement du carnet de revente.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 novodecies
-
-	**Cite**:
+	**Anciens textes**:
 
 	  - CGIAN3 244 unvicies
-	  - Livre des procédures fiscales - art. L102 B (M)
 
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
+	**Abrogé par**:
 
-###### Article 244 undecies
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
+
+
+###### Article 244 septies
 
 Les débits de tabac ordinaires sont soit permanents, soit saisonniers.
 
@@ -25788,19 +24683,19 @@ périodes de l'année où la population afflue dans des points touristiques du t
 montagne.
 
 II. - 1. Le gérant d'un débit de tabac ordinaire peut exploiter un commerce annexé au point de vente tabac dans les
-conditions fixées au i du 6 de l'article 244 decies. En cas d'exploitation en société en nom collectif, tous les associés
+conditions fixées au i du 6 de l'article 244 sexies. En cas d'exploitation en société en nom collectif, tous les associés
 doivent être des personnes physiques et l'associé désigné pour exploiter le débit de tabac ordinaire doit obligatoirement
 être associé majoritaire et en être nommé gérant.
 
 2. Pour les gérants d'un débit de tabac ordinaire, il peut être dérogé aux conditions visées aux h et i du 6 de l'article 244
-decies en cas de :
+sexies en cas de :
 
 a) Location-gérance ou "gérance libre" émanant d'une commune ou d'un groupement de communes en zone rurale, ou d'un
 particulier dans les zones de revitalisation rurale précisées par le décret n° 96-119 du 14 février 1996 ;
 
 b) Exploitation de magasins franchisés en zone de revitalisation rurale citée au a.
 
-3. Préalablement à la signature du contrat mentionné au deuxième alinéa du 1 de l'article 244 decies, le candidat à la
+3. Préalablement à la signature du contrat mentionné au deuxième alinéa du 1 de l'article 244 sexies, le candidat à la
 gérance d'un débit de tabac ordinaire doit :
 
 a) Suivre un stage de formation professionnelle. A cet effet, il doit produire au service compétent de l'administration des
@@ -25826,159 +24721,223 @@ d'affaires inférieur à 15 000 Euros par an ;
 c) Si le candidat à la gérance reprend le seul débit de tabac d'une commune de moins de 750 habitants et s'il répond à au
 moins deux des trois conditions suivantes :
 
-- il a exercé la fonction de suppléant d'un débit de tabac pendant au moins douze ans ;
+1° il a exercé la fonction de suppléant d'un débit de tabac pendant au moins douze ans ;
 
-- il a plus de soixante ans ;
+2° il a plus de soixante ans ;
 
-- le chiffre d'affaires du débit de tabac est inférieur ou égal à 45 000 Euros par an.
+3° le chiffre d'affaires du débit de tabac est inférieur ou égal à 45 000 Euros par an.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 244 decies
+	  - CGIAN3 244 sexies
 	  - Décret n°96-119 1996-02-14
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 244 septies
+	  - CGIAN3 244 undecies
 
-	**Créé par**:
+	**Cité par**:
 
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
+	  - Décret n°63-1104 du 30 octobre 1963 - art. 1 (V)
+	  - Décret n°2006-156 du 13 février 2006 - art. 1 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2004-1070 2004-10-08
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
 	  - HISTO: Edition du 31 août 2004
 
 
-###### Article 244 unvicies
+###### Article 244 sexdecies
 
-I. - Les revendeurs, mentionnés au premier alinéa de l'article 568 du présent code, sont les établissements suivants :
+Les modalités et conditions de création, de fonctionnement, de transfert des débits de tabac ainsi que le modèle et le
+contenu du contrat mentionné au deuxième alinéa du 1 de l'article 244 sexies et du cahier des charges prévu au 2 du II de
+l'article 244 undecies sont définis par arrêté des ministres chargés de la santé et du budget.
 
-1. Débit de boissons à consommer sur place, titulaire d'une licence de troisième ou quatrième catégorie effectivement
-exploitée ou un restaurant titulaire d'une "licence restaurant" proprement dite, conformément au code de la santé publique ;
+**Liens relatifs à cet article**
 
-2. Station-service implantée sur le réseau autoroutier, les liaisons assurant la continuité du réseau autoroutier, les voies
-express ou les voies rapides en milieu urbain ou toute station-service pour les départements de Corse ;
+	**Cite**:
 
-3. Etablissement militaire, pénitentiaire ou accueillant une population dont la liberté d'aller et venir est restreinte, à
-l'exclusion des établissements de santé, et notamment ceux qui sont habilités à recevoir des personnes hospitalisées sous
-contrainte.
+	  - CGI 244 sexies, 244 undecies
 
-Le représentant légal de ces établissements s'engage à respecter les obligations propres à la revente de tabac définies au
-présent article et aux articles 244 duovicies et 244 tervicies.
+	**Anciens textes**:
 
-II. - A l'exception des cas visés au III, les revendeurs doivent s'approvisionner en tabacs manufacturés exclusivement auprès
-d'un débit de tabac ordinaire permanent tel que défini au 1 du I de l'article 244 undecies, ci-après dénommé "débit de tabac
-de rattachement", le plus proche de leur établissement, ci-après dénommé "établissement revendeur".
+	  - CGIAN3 244 vicies
 
-Le débit de tabac de rattachement est déterminé par le revendeur, qui calcule la distance exacte en mètres entre l'entrée
-principale de son établissement et celle du débit de tabac de rattachement, sur la base du chemin le plus court entre ces
-deux établissements, par toute voie publique de circulation y compris celle publique ou privée accessible uniquement aux
-piétons. Pour être prises en compte, les voies privées doivent être ouvertes au public en journée.
+	**Modifié par**:
 
-Il appartient au revendeur de s'assurer que le débit de tabac de rattachement ainsi déterminé reste le plus proche de son
-établissement. Si tel n'est plus le cas, le revendeur définit son nouveau débit de tabac de rattachement selon la même
-méthode.
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
-Le revendeur justifie à toute réquisition des agents de l'administration des douanes et droits indirects et par tout moyen
-que ces agents jugeraient utile que son débit de rattachement est le plus proche de l'établissement où il pratique la
-revente.
+	**Abrogé par**:
 
-En cas de fermeture annuelle du débit de tabac de rattachement, le revendeur peut s'approvisionner exceptionnellement auprès
-d'un autre débit de tabac ordinaire permanent que son débit de tabac de rattachement ; cet autre débit de tabac ordinaire
-permanent est le deuxième débit le plus proche ouvert, déterminé selon les modalités fixées au deuxième alinéa.
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
 
-III. - Pour les cigares, le revendeur peut s'approvisionner auprès de tout débit de tabac. Cette disposition s'applique
-aussi, pour tous les tabacs manufacturés, au revendeur établi sur le domaine public concédé visé au 1 du I de l'article 244
-terdecies. Dans ces deux cas, ce débit de tabac constitue le "débit de tabac de rattachement" du revendeur. Les dispositions
-prévues au I de l'article 244 duovicies et à l'article 244 tervicies s'appliquent également à ce débit de tabac de
-rattachement.
 
-IV. - Les revendeurs ne vendent des tabacs manufacturés qu'aux seuls clients, usagers ou personnels de leur établissement, au
-titre d'un service complémentaire à l'activité principale de cet établissement.
+###### Article 244 sexies
 
-Les revendeurs sont tenus de proposer à la clientèle, aux usagers et personnels de leur établissement des tabacs manufacturés
-d'au moins trois fabricants de leur choix. Ils ne peuvent passer un contrat d'exclusivité avec un fabricant ou un fournisseur
-de tabacs manufacturés.
+1. Les débitants de tabac visés au premier alinéa de l'article 568 gèrent personnellement des débits de tabac qui sont
+classés en trois catégories : les débits de tabac ordinaires, les débits de tabac spéciaux et les débits de tabac
+temporaires.
 
-Les revendeurs ne peuvent exposer dans leur établissement les tabacs à la vue de leur clientèle, de leurs usagers et de leurs
-personnels. Ils ne peuvent modifier la composition ou la présentation des tabacs manufacturés qu'ils revendent.
+Les débitants de tabac sont des personnes physiques. A l'exception des gérants de débits de tabac temporaires, ils sont liés
+à l'administration des douanes et droits indirects par un contrat d'une durée de trois ans. A l'issue de cette période, le
+contrat est renouvelé par tacite reconduction par période de trois ans. Il peut être résilié par l'administration des douanes
+et droits indirects si le débitant de tabac ne respecte pas l'une des obligations fixées aux 4, 5 et b, e, f, g, h, i du 6
+ainsi que dans le contrat mentionné à cet alinéa ou s'il est sous curatelle ou s'il ne jouit plus de ses droits civiques ou
+s'il est reconnu inapte à l'exercice de la profession de débitant de tabac par un médecin agréé par la direction
+départementale des affaires sanitaires et sociales.
 
-V. - Il est interdit aux revendeurs de vendre ou stocker des tabacs manufacturés dans des distributeurs automatiques
+Le contrat fixe notamment les charges d'emploi des débitants de tabac telles que les missions de service public qui peuvent
+leur être confiées par l'Etat ou les collectivités locales.
+
+2. Aucune limite d'âge n'est imposée pour être débitant de tabac, sous réserve de disposer de la capacité civile de
+contracter.
+
+3. Une même personne physique ne peut gérer qu'un seul débit de tabac ordinaire.
+
+4. Il est interdit aux débitants de tabac de vendre ou stocker des tabacs manufacturés dans des distributeurs automatiques
 installés à l'intérieur ou à l'extérieur de leur établissement.
+
+5. Les débitants de tabac ne peuvent vendre du tabac qu'aux clients présents dans l'enceinte du débit.
+
+Il leur est interdit de vendre du tabac par correspondance ou par réseaux informatiques et de modifier la composition ou la
+présentation des tabacs manufacturés qu'ils vendent.
+
+6. Ne peut être débitant de tabac que la personne qui remplit les conditions suivantes :
+
+a) Etre de nationalité française ou ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen ;
+
+b) Présenter des garanties d'honorabilité, appréciées au vu du bulletin n° 2 du casier judiciaire, notamment ne pas avoir été
+l'auteur de faits contraires à l'honneur ou à la probité ayant donné lieu à une condamnation pénale ou ne pas avoir fait
+l'objet d'une sanction fiscale ou douanière dans les trois années précédant la date de candidature à la gérance ;
+
+c) Etre majeur et ne pas être sous tutelle ou curatelle ;
+
+d) Justifier de son aptitude physique ;
+
+e) Disposer d'un local situé dans le périmètre d'adjudication retenu, après avis consultatif de l'organisation citée au
+premier alinéa du 3 du III de l'article 244 undecies, par l'administration des douanes et droits indirects pour
+l'implantation du débit ;
+
+f) Respecter la règle de non-cumul d'emplois, de rémunération et de retraites en application de l'article 1er du décret du 29
+octobre 1936, modifié par l'article 51-1 de la loi n° 63-156 du 23 février 1963 portant loi de finances pour 1963 ;
+
+g) Ne pas gérer un autre débit de tabac ou ne pas être suppléant d'un débitant en exercice ou associé dans une société en nom
+collectif propriétaire d'un commerce annexé à un débit de tabac, à l'exception des gérants de débits de tabac spéciaux et
+temporaires ;
+
+h) Avoir la pleine et entière propriété du fonds de commerce annexé au débit de tabac, à l'exception des gérants des débits
+de tabac spéciaux ;
+
+i) Exploiter le fonds de commerce annexé sous la forme juridique soit de l'exploitation individuelle, soit de la société en
+nom collectif ;
+
+j) Jouir de ses droits civiques dans l'Etat dont elle est ressortissante ;
+
+k) Etre en situation régulière au regard des obligations de service national de l'Etat dont elle est ressortissante.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 568
-	  - CGIAN3 244 duovicies, 244 tervicies, 244 undecies, 244 terdecies
+	  - CGIAN3 244 undecies
+	  - Décret n°1936-10-29 art. 1
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 244 septdecies
-
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
+	  - CGIAN3 244 decies
 
 	**Codifié par**:
 
 	  - Décret n°2004-1070 2004-10-08
 
-	**Transféré par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-
-###### Article 244 vicies
-
-Les modalités et conditions de création, de fonctionnement, de transfert des débits de tabac ainsi que le modèle et le
-contenu du contrat mentionné au deuxième alinéa du 1 de l'article 244 decies et du cahier des charges prévu au 2 du II de
-l'article 244 quinquedecies sont définis par arrêté des ministres chargés de la santé et du budget.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 244 decies, 244 quinquedecies
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 244 sexdecies
-
 	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
 	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 244 terdecies
+
+Conformément au b du I de l'article 244 undecies, l'attribution de la gérance d'un débit de tabac ordinaire par permutation
+s'effectue aux conditions suivantes :
+
+1. La permutation entre époux est possible à n'importe quel moment de la gérance, à condition que le comportement du débitant
+n'appelle aucun reproche tant sur le plan professionnel que sur le plan pénal et que le fonds de commerce soit la propriété
+de la communauté conjugale ;
+
+2. Pendant les trois premières années de la gérance, à compter de la signature du contrat mentionné au deuxième alinéa du 1
+de l'article 244 sexies, la permutation entre associés d'une société en nom collectif est possible uniquement entre les
+associés qui étaient membres de la société en nom collectif au moment de la signature du contrat de gérance. La permutation
+ne peut se faire qu'après cession de parts conduisant au changement de l'associé majoritaire ;
+
+3. Le candidat à la gérance lors d'une permutation entre époux ou entre associés signe le contrat visé au 2 avec le directeur
+régional des douanes et droits indirects concerné dans les conditions et selon les modalités fixées au 4 du IV de l'article
+244 undecies. Il n'a pas toutefois à fournir le renseignement et les justificatifs visés aux c, i et j du 1 du IV du même
+article.
+
+Le cas échéant, le nouveau gérant s'engage à poursuivre le paiement de la soumission jusqu'au terme prévu par le cahier des
+charges.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 undecies, 244 sexies
+
+	**Anciens textes**:
+
+	  - CGIAN3 244 septdecies
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
+
+
+###### Article 244 vicies
+
+Le non-respect par le revendeur des dispositions prévues aux articles 244 septdecies à 244 novodecies entraîne le retrait de
+la faculté de revendre des tabacs manufacturés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 septdecies à 244 novodecies
+
+	**Anciens textes**:
+
+	  - CGIAN3 244 quatervicies
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
 
 
 #### Chapitre VI : Tabac
 
-###### Article 244 quinquedecies
+###### Article 244 undecies
 
 I. - L'attribution de la gérance d'un débit de tabac ordinaire s'effectue par voie d'adjudication, sauf en cas :
 
@@ -25990,8 +24949,8 @@ b) De permutation entre époux ou entre associés d'une société en nom collect
 II. - En cas de recours à la procédure de mise en adjudication :
 
 1. Le candidat retenu est celui qui s'engage à payer annuellement le montant le plus élevé de la redevance à laquelle est
-tenu tout gérant de débit de tabac ordinaire, conformément au premier alinéa de l'article 568. Cet engagement est ci-après
-dénommé "soumission".
+tenu tout gérant de débit de tabac ordinaire, conformément au premier alinéa de l'article 568 du code général des impôts. Cet
+engagement est ci-après dénommé "soumission".
 
 2. Le directeur régional des douanes et droits indirects met à la disposition du public un cahier des charges contenant des
 indications spécifiques liées à l'adjudication, notamment : périmètre dans lequel doit être implanté le futur débit, montant
@@ -26050,46 +25009,46 @@ réception. Il est procédé à nouveau à l'opération visée au premier aliné
 
 4. Le procès-verbal de séance est signé par l'ensemble des participants mentionnés au premier alinéa du 3.
 
-IV. - A. - Le candidat retenu conformément au 1 du II doit fournir les renseignements et les documents suivants dans les dix
+IV. - 1. - Le candidat retenu conformément au 1 du II doit fournir les renseignements et les documents suivants dans les dix
 jours ouvrés à compter de la date de notification du résultat de l'ouverture des plis :
 
-1. Copie de sa carte d'identité ou de son passeport, ou autre justificatif de sa qualité de ressortissant d'un Etat membre de
+a. Copie de sa carte d'identité ou de son passeport, ou autre justificatif de sa qualité de ressortissant d'un Etat membre de
 la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 
-2. Certificat médical, établi aux frais du candidat, attestant l'aptitude à l'exercice de la profession de débitant de tabac,
+b. Certificat médical, établi aux frais du candidat, attestant l'aptitude à l'exercice de la profession de débitant de tabac,
 délivré par un médecin généraliste agréé par la direction départementale des affaires sanitaires et sociales ;
 
-3. Activité du commerce associé au débit de tabac ;
+c. Activité du commerce associé au débit de tabac ;
 
-4. Profession exercée jusqu'alors ;
+d. Profession exercée jusqu'alors ;
 
-5. Engagement écrit sur l'honneur de respecter les règles de non-cumul d'emplois et de rémunérations définies par le décret
+e. Engagement écrit sur l'honneur de respecter les règles de non-cumul d'emplois et de rémunérations définies par le décret
 du 29 octobre 1936 relatif aux cumuls d'emplois, de rémunérations et de retraites, et par la loi n° 63-156 du 23 février
 1963 ;
 
-6. Pour les agents titulaires de la fonction publique, justificatifs de mise en disponibilité, de cessation d'activité, ou de
+f. Pour les agents titulaires de la fonction publique, justificatifs de mise en disponibilité, de cessation d'activité, ou de
 mise en oeuvre des conditions particulières prévues par l'article 7 du décret du 29 octobre 1936 ;
 
-7. Déclaration écrite attestant sur l'honneur que le candidat n'est pas gérant d'un autre débit de tabac et s'engage à
+g. Déclaration écrite attestant sur l'honneur que le candidat n'est pas gérant d'un autre débit de tabac et s'engage à
 exploiter personnellement le débit de tabac et qu'il n'est pas associé dans une société en nom collectif propriétaire d'un
 commerce annexé à un débit de tabac ;
 
-8. Si le conjoint est gérant d'un autre débit de tabac, déclaration écrite attestant sur l'honneur que les époux ne seront
+h. Si le conjoint est gérant d'un autre débit de tabac, déclaration écrite attestant sur l'honneur que les époux ne seront
 pas suppléants l'un de l'autre, et les justificatifs relatifs à la propriété des fonds de commerce associés ;
 
-9. Un bail, une promesse de bail, une copie de l'acte de propriété ou un compromis de l'acte d'achat pour le local où est
+i. Un bail, une promesse de bail, une copie de l'acte de propriété ou un compromis de l'acte d'achat pour le local où est
 envisagée l'exploitation du débit de tabac ;
 
-10. Une copie de l'acte de propriété du fonds de commerce auquel est associé le débit de tabac ou, à défaut, une copie d'un
+j. Une copie de l'acte de propriété du fonds de commerce auquel est associé le débit de tabac ou, à défaut, une copie d'un
 acte juridique attestant que le candidat sera propriétaire dudit fonds.
 
-B. - Si le candidat retenu ne fournit pas l'un ou plusieurs des renseignements ou documents demandés en application du A, sa
+2. - Si le candidat retenu ne fournit pas l'un ou plusieurs des renseignements ou documents demandés en application du 1, sa
 candidature est rejetée par le directeur régional des douanes et droits indirects. Dans ce cas, le candidat ayant déposé la
 deuxième soumission la plus forte est invité par courrier avec accusé de réception à fournir les mêmes renseignements et
 documents dans les dix jours ouvrés à compter de la date de réception dudit courrier du directeur régional des douanes et
 droits indirects. Cette procédure est répétée en tant que de besoin.
 
-C. - Le candidat retenu s'engage à verser, pendant ses trois premières années d'activité, une redevance annuelle
+3. - Le candidat retenu s'engage à verser, pendant ses trois premières années d'activité, une redevance annuelle
 correspondant, au minimum, au montant de la soumission cachetée offerte.
 
 Si le gérant veut cesser l'exploitation du débit de tabac dont la gérance lui a été concédée avant l'expiration du délai de
@@ -26097,11 +25056,11 @@ trois ans visé au premier alinéa, il verse à l'administration des douanes et 
 prorata du nombre de mois à courir depuis la date de cessation d'exploitation jusqu'à la date d'expiration dudit délai,
 excepté en cas de force majeure.
 
-D. - Le candidat retenu qui remplit les conditions pour être débitant de tabac visées au 6 de l'article 244 decies, qui a
-fourni les renseignements et documents cités au A et qui respecte les obligations visées au 3 du II de l'article 244
-undecies, signe le contrat mentionné au deuxième alinéa du 1 de l'article 244 decies avec le directeur régional des douanes
-et droits indirects concerné. Ledit contrat est établi en deux exemplaires. Le premier est conservé par le directeur régional
-des douanes et droits indirects et le second par le débitant de tabac.
+4. - Le candidat retenu qui remplit les conditions pour être débitant de tabac visées au 6 de l'article 244 sexies, qui a
+fourni les renseignements et documents cités au 1 et qui respecte les obligations visées au 3 du II de l'article 244 septies,
+signe le contrat mentionné au deuxième alinéa du 1 de l'article 244 sexies avec le directeur régional des douanes et droits
+indirects concerné. Ledit contrat est établi en deux exemplaires. Le premier est conservé par le directeur régional des
+douanes et droits indirects et le second par le débitant de tabac.
 
 **Liens relatifs à cet article**
 
@@ -26109,30 +25068,25 @@ des douanes et droits indirects et le second par le débitant de tabac.
 
 	  - CGI 568
 	  - CGI 899, 905 à 907
-	  - CGIAN3 244 decies, 244 undecies
+	  - CGIAN3 244 sexies, 244 septies
 	  - Décret n°1936-10-29 art. 7
 	  - Loi n°63-156 1963-02-23
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 244 undecies
+	  - CGIAN3 244 quinquedecies
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
+	  - HISTO: Edition du 31 août 2004
 
 	**Codifié par**:
 
 	  - Décret n°2004-1070 2004-10-08
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -33013,36 +31967,46 @@ pendant la ou les périodes indiquées, quel que soit le mode de règlement de c
 
 1. La déclaration des sommes, titres ou valeurs, prévue au premier alinéa de l'article 1649 quater A du code général des
 impôts, est déposée par les personnes physiques, pour leur compte ou pour celui d'autrui, auprès de l'administration des
-douanes, y compris pour les transferts en provenance ou à destination de la Principauté de Monaco.
+douanes, y compris pour les transferts en provenance ou à destination de la Principauté de Monaco. 
 
-2. En cas de transfert vers ou en provenance des territoires d'outre-mer ou des collectivités territoriales de Mayotte ou
-Saint-Pierre-et-Miquelon, les personnes physiques déclarent à l'administration des douanes les sommes, titres ou valeurs
-objet des transferts qu'elles réalisent pour leur propre compte ou pour celui d'autrui, lorsqu'ils sont égaux ou supérieurs à
-7 600 euros.
+2. En cas de transfert vers ou en provenance de Nouvelle-Calédonie, de la Polynésie française, des îles Wallis et Futuna et
+des Terres australes et antarctiques françaises ou des collectivités territoriales de Mayotte ou Saint-Pierre-et-Miquelon,
+les personnes physiques déclarent à l'administration des douanes les sommes, titres ou valeurs objet des transferts qu'elles
+réalisent pour leur propre compte ou pour celui d'autrui, lorsqu'ils sont égaux ou supérieurs à 7 600 €. 
 
-3. Les dispositions des 1 et 2 sont applicables aux envois postaux.
+3. Les dispositions des 1 et 2 sont applicables aux envois postaux. 
 
 4. Les sommes, titres ou valeurs visés aux 1 et 2 sont définis par arrêté pris par le ministre délégué au budget.
 
+**Nota:**
+
+Dispositions devenues sans objet en conséquence des articles 5-I-87° et 7 du décret n° 2005-1007 du 2 août 2005.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 quater A
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
+	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
+	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
+	  - Loi n°2003-660 2003-07-21 art. 61 II JORF 22 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies A (P)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies B (P)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 quater A
 
 
 #### Chapitre I ter : Transmission des déclarations professionnelles par voie électronique
@@ -33055,7 +32019,7 @@ impôts, l'émetteur doit posséder la qualité de "partenaire EDI".
 Est "partenaire EDI" au sens de l'article 344 I ter toute personne qui conclut avec la direction générale des impôts une
 convention conforme au modèle défini par arrêté du ministre chargé du budget, pris après avis de la Commission nationale de
 l'informatique et des libertés. Seules peuvent conclure une telle convention les personnes qui justifient être à jour de
-leurs obligations fiscales au sens de l'article 54 du code des marchés publics.
+leurs obligations fiscales au sens de l'article 43 du code des marchés publics.
 
 Cette convention prévoit les modalités de transmission et les mesures et systèmes destinés à assurer la sécurité des
 transmissions et traitements. Elle précise les conditions dans lesquelles il est recouru au chiffrement des informations
@@ -33063,22 +32027,27 @@ transmises.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: 2004)
+	  - HISTO: Edition du 31 août 2004
+
 	**Cite**:
 
 	  - CGIAN3 344 I ter
-	  - Code des marchés publics 54
+	  - Code des marchés publics 43
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1036 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
+	  - décret 2004-15 2004-01-07 art. 11 art. 2 JORF 8 janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
 
 	**Cité par**:
 
 	  - Décret n°2012-432 du 30 mars 2012 - art. 151 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 344 I ter
@@ -33634,92 +32603,96 @@ En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 20
 
 ###### Article 350 nonies
 
-La direction générale des douanes et droits indirects :
+La direction générale des douanes et droits indirects : 
 
-1° Délivre et contrôle les registres à souche de laissez-passer mentionnés au deuxième alinéa du 2° de l'article 441 du code
-général des impôts ;
+1° (sans objet). 
 
 2° Délivre les documents mentionnés au II de l'article 302 M du code général des impôts en application de l'article 468 du
-même code ;
+même code ; 
 
-3° (sans objet)
+3° (sans objet). 
 
-4° (sans objet).
+4° (sans objet). 
 
 5° Accède à la comptabilité des organisateurs de réunions sportives en application du c du 3° de l'article 1561 du code
 général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 441, 302 M, 468, 1561
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 12 () JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2004-1070 2004-10-08
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 29 août 2001
+	  - Code général des impôts, CGI. - art. 1561 (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
+	  - Code général des impôts, CGI. - art. 468 (V)
 
 
 ###### Article 350 quater
 
-I. - La direction générale des douanes et droits indirects exerce les compétences prévues :
+I.-La direction générale des douanes et droits indirects exerce les compétences prévues : 
 
-1° Aux articles 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies du code général des impôts ; 
+1° Aux articles 306,321,412,426,427,450,454,1562,1565 septies du code général des impôts ; 
 
-2° Au premier alinéa de l'article 444 du code général des impôts ;
+2° Au premier alinéa de l'article 444 du code général des impôts ; 
 
-3° (Dispositions devenues sans objet).
+3° (Dispositions devenues sans objet). 
 
-4° A l'article 570 du code général des impôts ;
+4° A l'article 570 du code général des impôts ; 
 
-5° A l'article 625 du code général des impôts.
+5° A l'article 625 du code général des impôts. 
 
 Les préfets ou sous-préfets désignent les fonctionnaires publics habilités à coter et parapher les registres prévus au
-premier alinéa du même article.
+premier alinéa du même article. 
 
-II. La direction générale des douanes et droits indirects exerce :
+II. La direction générale des douanes et droits indirects exerce : 
 
-1° Les attributions prévues à l'article 319 du code général des impôts ;
+1° Les attributions prévues à l'article 319 du code général des impôts ; 
 
-2° (Dispositions devenues sans objet).
+2° (Dispositions devenues sans objet). 
 
-3° Le monopole de vente au détail mentionné au premier alinéa de l'article 568 du code général des impôts.
+3° Le monopole de vente au détail mentionné au premier alinéa de l'article 568 du code général des impôts. 
 
-III. La direction générale des douanes et droits indirects est compétente :
+III. La direction générale des douanes et droits indirects est compétente : 
 
 1° Pour consulter le registre spécial dont la présentation peut être exigée en application de l'article 304 du code général
-des impôts ;
+des impôts ; 
 
-2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ;
+2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ; 
 
-3° Pour recevoir après saisie les ouvrages d'or ou contenant de l'or, d'argent et de platine en application de l'article 541
-du code général des impôts.
+3° (sans objet)
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies, 444, 570, 625, 319, 568, 304, 330, 541
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 13 () JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2004-1070 2004-10-08
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2003
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
+	  - Code général des impôts, CGI. - art. 1562 (V)
+	  - Code général des impôts, CGI. - art. 1565 septies (V)
+	  - Code général des impôts, CGI. - art. 304 (V)
+	  - Code général des impôts, CGI. - art. 306 (V)
+	  - Code général des impôts, CGI. - art. 319 (V)
+	  - Code général des impôts, CGI. - art. 321 (V)
+	  - Code général des impôts, CGI. - art. 412 (V)
+	  - Code général des impôts, CGI. - art. 426 (V)
+	  - Code général des impôts, CGI. - art. 444 (V)
+	  - Code général des impôts, CGI. - art. 450 (V)
+	  - Code général des impôts, CGI. - art. 454 (V)
+	  - Code général des impôts, CGI. - art. 570 (V)
+	  - Code général des impôts, CGI. - art. 625 (V)
 
 
 ###### Article 350 quinquies
@@ -33737,8 +32710,7 @@ La direction générale des douanes et droits indirects reçoit :
 dispositions de cet article avec la direction générale de la concurrence, de la consommation et de la répression des
 fraudes ;
 
-5° La déclaration et détient le registre spécial mentionnés au premier alinéa de l'article 422 du code général des impôts.
-Cette administration reçoit également la déclaration prévue au deuxième alinéa du même article ;
+5° (sans objet).
 
 6° La déclaration prévue à l'article 424 du code général des impôts et procède aux visites mentionnées audit article ;
 
@@ -33748,7 +32720,7 @@ Cette administration reçoit également la déclaration prévue au deuxième ali
 prescrits au deuxième alinéa du même article ;
 
 9° Les déclarations et exerce les compétences mentionnées au premier alinéa de l'article 425 du code général des impôts ainsi
-qu'aux articles 308, 343, 455, 483, 502 et 1565 du même code ;
+qu'aux articles 308, 343, 455, 502 et 1565 du même code ;
 
 10° La déclaration mentionnée à l'article 1565 quinquies du code général des impôts ;
 
@@ -33758,19 +32730,20 @@ qu'aux articles 308, 343, 455, 483, 502 et 1565 du même code ;
 
 	**Cite**:
 
-	  - CGI 303, 413, 312, 327, 329, 501, 511, 626, 415, 422, 424, 571, 425, 308, 343, 455, 483, 502, 1565, 1565 quinquies
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - CGI 303, 413, 312, 327, 329, 501, 511, 626, 415, 424, 571, 425, 308, 343, 455, 502, 1565, 1565 quinquies
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2004
 
 	**Modifié par**:
 
-	  - Loi - art. 27 (V) JORF 31 décembre 2002
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 12 () JORF 27 mars 2004
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
 
 
 ###### Article 350 septies
@@ -34071,7 +33044,7 @@ II. - Pour bénéficier des délais de paiement mentionnés au I, les contribuab
 les pièces justifiant le montant des revenus.
 
 Les contribuables qui ont fait l'objet d'une procédure d'imposition d'office en ce qui concerne l'impôt sur le revenu faisant
-l'objet de la demande de délais de paiement ne peuvent bénéficier des dispositions de cet article.
+l'objet de la demande de délais de paiement ne peuvent bénéficier des dispositions du I.
 
 III. - Les délais de paiement prévus au I courent à compter du mois de la demande et jusqu'au 31 mars de l'année suivant
 celle de la mise en recouvrement de l'imposition.
@@ -34080,17 +33053,22 @@ Le comptable du Trésor établit un contrat en double exemplaire qui fixe l'éch
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: 2004)
+	  - HISTO: Edition du 31 août 2004
+
 	**Cite**:
 
 	  - CGI 1
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-77 du 21 janvier 2004 - art. 1 () JORF 22 janvier 2004
+	  - Décret n°2004-1070 2004-10-08
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 
 ##### 3 : Impôt sur les sociétés
@@ -35888,40 +34866,6 @@ impôts.
 
 
 ### Section II : Taxes sur le chiffre d'affaires et taxes assimilées
-
-#### I : Obligations cautionnées.
-
-###### Article 384
-
-Les obligations visées à l'article 1692 du code général des impôts peuvent être souscrites à deux  trois ou quatre mois
-d'échéance.
-
-Ces obligations donnent lieu au calcul de l'intérêt de crédit et de la remise spéciale visés à l'article 1698 dudit code.
-Toutefois les taux d'intérêt de crédit fixés en vertu dudit article 1698 peuvent être réduits par arrêté ministériel en ce
-qui concerne spécialement les obligations cautionnées établies en application de l'article 1692 susvisé.
-
-Si les obligations ne sont pas apurées à l'échéance  le Trésor poursuit immédiatement  outre le recouvrement des droits
-garantis  le paiement des intérêts de ces droits  calculés d'après le taux de l'intérêt légal et ce  à partir du jour de
-ladite échéance.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1698, 1692
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 26 () JORF 27 mars 2004
-
 
 #### II bis : Dispositions particulières à certains transports
 

@@ -4,8 +4,7 @@ Les organismes agréés adressent chaque année à l'autorité qui a délivré l
 des sommes recueillies précisant l'utilisation de ces sommes et fournissent les renseignements relatifs aux entreprises
 aidées de nature à prouver qu'elles entrent effectivement dans le champ d'application du dispositif défini au 4 de l'article
 238 bis du code général des impôts. Ils communiquent également annuellement à cette même autorité tous renseignements
-permettant de garantir la conformité des aides accordées au règlement CE n° 70/2001 de la Commission du 12 janvier 2001
-susvisé.
+permettant de garantir la conformité des aides accordées au règlement CE n° 70/2001 de la Commission du 12 janvier 2001.
 
 Ces organismes adressent leurs comptes et leur bilan annuels certifiés par un commissaire aux comptes ainsi que leur rapport
 d'activité approuvé par l'assemblée générale au directeur des services fiscaux ayant délivré l'agrément.
@@ -16,10 +15,14 @@ d'activité approuvé par l'assemblée générale au directeur des services fisc
 
 	  - CGI 238 bis
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-213 du 9 mars 2004 - art. 1 () JORF 12 mars 2004
+	  - Décret n°2004-1070 2004-10-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004

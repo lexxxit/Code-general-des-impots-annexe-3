@@ -11,8 +11,8 @@ Un organisme mentionné au 4 de l'article 238 bis peut agir en tant qu'interméd
 financiers qui verseraient des aides rémunérées à condition de ne percevoir aucune rémunération à ce titre.
 
 Les entreprises sont informées par l'organisme de la conformité de l'aide accordée au règlement (CE) n° 70/2001 de la
-Commission du 12 janvier 2001 susvisé lorsque celui-ci leur notifie l'aide. La décision leur notifiant l'octroi de l'aide
-précise que ce règlement est à leur disposition au siège de l'organisme.
+Commission du 12 janvier 2001 lorsque celui-ci leur notifie l'aide. La décision leur notifiant l'octroi de l'aide précise que
+ce règlement est à leur disposition au siège de l'organisme.
 
 **Liens relatifs à cet article**
 
@@ -21,9 +21,13 @@ précise que ce règlement est à leur disposition au siège de l'organisme.
 	  - CGI 238 bis
 	  - CGIAN3 46 quindecies M à 46 quindecies Q
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-213 du 9 mars 2004 - art. 1 () JORF 12 mars 2004
+	  - Décret n°2004-1070 2004-10-08
+
+	**Modifié par**:
+
+	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
 	**Cité par**:
 
@@ -31,4 +35,4 @@ précise que ce règlement est à leur disposition au siège de l'organisme.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 août 2004

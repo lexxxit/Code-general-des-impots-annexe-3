@@ -1,32 +1,22 @@
 # Article 244 vicies
 
-Les modalités et conditions de création, de fonctionnement, de transfert des débits de tabac ainsi que le modèle et le
-contenu du contrat mentionné au deuxième alinéa du 1 de l'article 244 decies et du cahier des charges prévu au 2 du II de
-l'article 244 quinquedecies sont définis par arrêté des ministres chargés de la santé et du budget.
+Le non-respect par le revendeur des dispositions prévues aux articles 244 septdecies à 244 novodecies entraîne le retrait de
+la faculté de revendre des tabacs manufacturés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 244 decies, 244 quinquedecies
+	  - CGI 244 septdecies à 244 novodecies
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 244 sexdecies
+	  - CGIAN3 244 quatervicies
 
-	**Créé par**:
-
-	  - Décret n°2004-68 du 16 janvier 2004 - art. 1 () JORF 18 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007

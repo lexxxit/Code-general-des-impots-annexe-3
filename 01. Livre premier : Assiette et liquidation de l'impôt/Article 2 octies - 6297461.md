@@ -1,11 +1,11 @@
 # Article 2 octies
 
 Pour l'application de l'article 15 ter du code général des impôts, les montants annuels des ressources du locataire sont
-limités à 17 600 euros en région Ile-de-France et à 16 080 euros dans les autres régions pour une personne seule. Ces
+limités à 17 900 euros en région Ile-de-France et à 16 360 euros dans les autres régions pour une personne seule. Ces
 montants sont doublés pour un couple marié.
 
 Ces montants s'entendent des revenus nets de frais professionnels du locataire figurant sur son avis d'imposition établi au
-titre des revenus de 2002.
+titre des revenus de 2003.
 
 **Liens relatifs à cet article**
 
@@ -13,14 +13,14 @@ titre des revenus de 2002.
 
 	  - CGI 15 ter
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
 	**Modifié par**:
 
-	  - Loi - art. 2 () JORF 31 décembre 2002
+	  - Loi - art. 2 (V) JORF 31 décembre 2003
 
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
+	  - Décret n°2004-1070 2004-10-08
