@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-02-18
+Version Consolidée au 1986-02-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -891,6 +891,34 @@ des entreprises.
 	**Modifié par**:
 
 	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+
+##### F : Amortissement exceptionnel - Construction d'immeubles industriels et commerciaux.
+
+###### Article 10 GB
+
+L'agrément prévu au premier alinéa du I de l'article 39 quinquies D du code général des impôts est délivré aprés avis du
+comité interministériel des aides à la localisation des activités institué par l'article 9 du décret n° 82-379 du 6 mai 1982.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 quinquies D, I al. 1er
+	  - Décret n°82-379 du 6 mai 1982 - art. 9 (M)
+
+	**Créé par**:
+
+	  - Décret n°86-225 du 14 février 1986 - art. 2 (V) JORF 20 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°90-798 1990-09-10
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
 
 
 ##### G : Réinvestissement des plus-values. Exclusion des acquisitions de biens de caractère somptuaire
