@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2003-12-30
+Version Consolidée au 2004-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5072,33 +5072,29 @@ du forfait.
 
 L'exonération prévue au premier alinéa est subordonnée à la condition que l'activité ait été exercée à titre principal
 pendant au moins cinq ans et que le bien cédé n'entre pas dans le champ d'application du A de l'article 1594-0 G du code
-général des impôts. A défaut, les dispositions des articles 150 A à 150 S du même code sont applicables.
+général des impôts. A défaut, les dispositions des articles 150 U à 150 VH du même code sont applicables.
 
 Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du II de l'article L. 13-15 du code de
 l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du A
 de l'article 1594-0 G du code général des impôts.
 
 2. Si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition, dans le patrimoine privé du
-contribuable, il est fait application de l'article 151 septies du code général des impôts.
+contribuable, il est fait application de l'article 151 sexies du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 150 A à 150 S, 151 septies, 1594-0 G
+	  - CGI 150 U à 150 VH, 151 sexies, 1594-0 G
 	  - Code de l'expropriation L13-15
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
 
 	**Modifié par**:
 
-	  - Décret n°99-382 1999-05-18 art. 39 I 23 Finances pour 1999 JORF 31 décembre 1998
+	  - Décret n°2003-1386 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 38 sexdecies GB
@@ -6029,53 +6025,6 @@ résulte des dispositions précitées.
 
 
 ##### VI : Traitements, salaires, pensions et rentes viagères
-
-##### A : Heures supplémentaires et complémentaires
-
-###### Article 38 septdecies
-
-Les dispositions du 1° bis de l'article 83 et du septième alinéa du 6 de l'article 158 du code général des impôts, qui
-déterminent le régime fiscal applicable, en matière d'impôt sur le revenu, aux cotisations afférentes au régime de retraite
-complémentaire institué par la caisse nationale de prévoyance de la fonction publique et aux arrérages versés par cet
-organisme, sont étendues au régime de retraite complémentaire institué par le comité de gestion des oeuvres sociales des
-établissements publics d'hospitalisation, de soins, de cure et de prévention relevant du ministère des affaires sociales.
-
-A compter de l'imposition des revenus de 1989, elles sont également étendues aux cotisations et aux arrérages versés dans le
-cadre du régime de retraite complémentaire institué par l'Union nationale des mutuelles retraite des instituteurs et des
-fonctionnaires de l'éducation nationale et de la fonction publique puis, à compter de son transfert, géré par l'Union
-mutualiste retraite. Toutefois, les arrérages qui correspondent aux cotisations versées au régime institué par l'Union
-nationale des mutuelles retraite des instituteurs et des fonctionnaires de l'éducation nationale et de la fonction publique
-avant le 1er janvier 1989 demeurent soumis au régime fiscal des rentes viagères constituées à titre onéreux défini au 6 de
-l'article 158 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 83, 158 6
-
-	**Modifié par**:
-
-	  - Décret n°2002-1474 du 20 décembre 2002 - art. 1 () JORF 21 décembre 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 111 (V) JORF 22 août 2003
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 1er janvier 2004
-	  - TXT_ASSOCIE: Instruction 2003-03-24 5F-10-03
-
 
 ##### B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires
 
@@ -8428,44 +8377,6 @@ obligations définies aux articles 41 sexdecies A à 41 sexdecies F.
 
 ##### X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
 
-###### Article 41 duovicies
-
-Les terrains à usage agricole ou forestier et les terrains supportant une construction sont exclus des dispositions des
-articles 150 A à 150 T du code général des impôts lorsque le prix de cession ou l'indemnité d'expropriation n'excède pas au
-mètre carré :
-
-3,96 euros pour les vignobles à appellation contrôlée et les cultures florales ;
-
-1,37 euro pour les cultures fruitières et maraîchères ;
-
-1,07 euro pour les vignobles produisant des vins délimités de qualité supérieure ;
-
-0,76 euro pour les vignobles autres qu'à appellation contrôlée ;
-
-0,61 euro pour les autres terrains agricoles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 A à CGI 150 T
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1386 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
-
-
 ###### Article 41 duovicies D
 
 En cas de rachat de parts, le gérant d'un fonds commun de placement ou le dépositaire des actifs du fonds agissant pour le
@@ -8638,6 +8549,63 @@ d. (abrogé)
 	  - HISTO: Edition du 31 mars 2001
 
 
+###### Article 41 duovicies H
+
+Pour l'application du III de l'article 150 VA du code général des impôts, les frais supportés par le vendeur à l'occasion de
+la cession ne peuvent être admis en diminution du prix de cession que si leur montant est justifié. Ils s'entendent
+exclusivement : 
+
+1° Des frais versés à un intermédiaire ou à un mandataire ; 
+
+2° Des frais liés aux certifications et diagnostics rendus obligatoires par la législation en vigueur au jour de la
+cession ; 
+
+3° Des indemnités d'éviction versées au preneur par le propriétaire qui vend le bien loué libre d'occupation ; 
+
+4° Des honoraires versés à un architecte à raison de travaux permettant d'obtenir un accord préalable à un permis de
+construire ; 
+
+5° Des frais exposés par le vendeur d'un immeuble en vue d'obtenir d'un créancier la mainlevée de l'hypothèque grevant cet
+immeuble.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1386 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 VA (V)
+
+
+###### Article 41 duovicies I
+
+I.-Pour l'application du II de l'article 150 VB du code général des impôts, les frais supportés par le vendeur à l'occasion
+de l'acquisition du bien cédé ne peuvent être admis en majoration du prix d'acquisition que si leur montant est justifié. Ils
+s'entendent exclusivement : 
+
+1° Lorsque le bien ou le droit cédé a été acquis à titre gratuit, des droits de mutation payés et des frais d'acte et de
+déclaration afférents à ce bien ou droit, ainsi que, le cas échéant, des frais de timbre et de publicité foncière. Les droits
+de mutation sont pris en compte à proportion de la fraction de leur valeur représentative des biens ou droits ; 
+
+2° Lorsque le bien ou le droit cédé a été acquis à titre onéreux, des frais et coûts du contrat tels qu'ils sont prévus à
+l'article 1699 du code civil et des droits d'enregistrement ou de la TVA supportés effectivement par le contribuable. 
+
+II.-Lorsque la cession porte sur une partie d'un bien ou sur un droit immobilier, les frais d'acquisition sont pris en compte
+dans la même proportion que le prix d'acquisition lui-même.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1386 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 VB (V)
+
+
 ##### X quater : Report d'imposition de la plus-value constatée lors de la levée de l'option d'achat d'un immeuble acquis en crédit-bail et précédemment donné en sous-location
 
 ###### Article 41 novovicies
@@ -8732,7 +8700,7 @@ répertoire national des établissements (numéro SIRET).
 
 ###### Article 41-0 A
 
-I. Pour l'application du quatrième alinéa de l'article 151 septies du code général des impôts, les travaux agricoles et
+I. Pour l'application du deuxième alinéa du V de l'article 151 septies du code général des impôts, les travaux agricoles et
 forestiers sont définis comme suit :
 
 1° Travaux agricoles :
@@ -8759,15 +8727,15 @@ carbonisation ;
 
 e) Enlèvement jusqu'aux aires de chargement.
 
-II. 1° Constituent des matériels agricoles ou forestiers au sens du quatrième alinéa de l'article 151 septies du même code,
-les biens d'équipement qui sont exclusivement affectés à la réalisation des travaux visés au I ;
+II. 1° Constituent des matériels agricoles ou forestiers au sens du deuxième alinéa du V de l'article 151 septies du même
+code, les biens d'équipement qui sont exclusivement affectés à la réalisation des travaux visés au I ;
 
 2° Les entrepreneurs de travaux agricoles ou forestiers s'entendent de ceux qui effectuent à titre principal, pour le compte
-des exploitants agricoles ou forestiers, les travaux énumérés au I. Cette activité doit procurer à l'entreprise plus de 50 p.
-100 de son chiffre d'affaires annuel.
+de tiers exploitants agricoles ou forestiers les travaux énumérés au I. Cette activité doit procurer à l'entreprise plus de
+50 % de ses recettes annuelles.
 
-III. La limite de 152 600 euros visée au quatrième alinéa de l'article 151 septies précité s'entend du chiffre d'affaires
-total de l'entreprise.
+III. Le montant des recettes prises en compte pour l'application du deuxième alinéa du V de l'article 151 septies précité
+s'entend du montant total des recettes de l'entreprise.
 
 **Liens relatifs à cet article**
 
@@ -8777,12 +8745,11 @@ total de l'entreprise.
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2003-1193 du 12 décembre 2003 - art. 1 () JORF 14 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### 3° : Plus-values réalisées à l'occasion d'apports en sociétés
@@ -9948,7 +9915,8 @@ Les contribuables doivent également déclarer, séparément, les revenus visés
 du 1 de l'article 49 F.
 
 La déclaration mentionne séparément le montant des revenus, de quelque nature qu'ils soient, encaissés directement ou
-indirectement dans les territoires d'outre-mer, dans les Etats de la communauté et à l'étranger.
+indirectement en Polynésie française, à Saint-Pierre-et-Miquelon, aux îles Wallis et Futuna et dans les Terres australes et
+antarctiques françaises et à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -9957,9 +9925,9 @@ indirectement dans les territoires d'outre-mer, dans les Etats de la communauté
 	  - CGI 170, 234 nonies
 	  - CGIAN3 49 F
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
+	  - Décret n°2004-304 2004-03-26
 
 	**Cité par**:
 
@@ -9967,7 +9935,12 @@ indirectement dans les territoires d'outre-mer, dans les Etats de la communauté
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Modifié par**:
+
+	  - Loi n°2003-660 2003-07-21 art. 61 JORF 22 juillet 2003
+	  - Loi n°95-880 1995-08-04 art. 14 JORF 5 août 1995
 
 
 ###### Article 43
@@ -15261,7 +15234,7 @@ ont bénéficié d'une exonération conditionnelle d'impôt sur le revenu et qui
 par la loi, deviennent imposables à l'impôt sur le revenu.
 
 Les revenus des placements visés au troisième alinéa doivent également être mentionnés séparément, lorsque la contribution
-sociale généralisée leur a déjà été appliquée sur le fondement du II de l'article 1600-0 D du code général des impôts.
+sociale généralisée leur a déjà été appliquée sur le fondement du II de l'article L. 136-7 du code de la sécurité sociale.
 
 2. Lorsque les revenus ou les gains sont libérés de l'impôt sur le revenu par application d'un prélèvement, la déclaration
 comporte l'indication de celui-ci ainsi que le montant du revenu brut ou du gain qui lui a servi de base.
@@ -15273,20 +15246,24 @@ exonérés de l'impôt sur le revenu sont déclarés pour leur montant net.
 
 	**Cite**:
 
-	  - CGI 125 A, 1600-0 D, 1600-0 J, 242 ter
+	  - CGI 125 A, 1600-0 J, 242 ter
+	  - Code de la sécurité sociale. - art. L136-7 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2004-304 du 26 mars 2004 - art. 3 () JORF 30 mars 2004
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 42 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 49 G
@@ -16700,27 +16677,28 @@ centre de formation des personnels communaux et des caisses des écoles, les per
 organismes, qui payent des rémunérations et ne sont pas assujettis à la taxe sur la valeur ajoutée ou ne l'ont pas été sur 90
 % au moins de leur chiffre d'affaires au titre de l'année civile précédant celle du paiement desdites rémunérations, sont
 tenus, en exécution de l'article 231 du code général des impôts et dans les conditions prévues aux articles 51 à 53 quater,
-369, 370 et 374, d'acquitter une taxe égale à 4,25 % du montant de ces rémunérations.
+369 et 374, d'acquitter une taxe égale à 4,25 % du montant de ces rémunérations.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 231
-	  - CGIAN3 51, 52, 53, 53 bis, 53 ter, 53 quater, 369, 370, 374
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - CGIAN3 51 à 53 quater, 369, 374
 
 	**Modifié par**:
 
-	  - Loi - art. 10 (V) JORF 31 décembre 2000
-	  - Loi n°2000-1352 2000-12-30 art. 10 I 1°, V Finances pour 2001 JORF 31 décembre 2000
+	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+	**Liens**:
+
+	  - DISJONCTION: Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### II : Base de la taxe
@@ -20217,37 +20195,6 @@ détachés de la carcasse mais pesés et emballés avec celle-ci.
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater P (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater Q (V)
-
-
-#### Chapitre VII : Taxe sur les achats de viandes.
-
-###### Article 111 quater T
-
-La taxe sur les achats de viandes prévue à l'article 302 bis ZD du code général des impôts est déclarée et liquidée sur les
-déclarations visées à l'article 287 du même code. Elle est acquittée lors du dépôt de ces déclarations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 bis ZD, 287
-
-	**Créé par**:
-
-	  - Décret n°97-92 du 28 janvier 1997 - art. 1 () JORF 4 février 1997
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Loi - art. 89 (V) JORF 31 décembre 2003
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -24763,13 +24710,23 @@ modalités fixées par le directeur général des impôts.
 ###### Article 255
 
 L'extrait d'acte prévu à l'article 860 du code général des impôts est complété par un projet de liquidation détaillée des
-droits exigibles.
+droits exigibles. Il comprend, le cas échéant, les mentions prévues au III de l'article 150 VG du code général des imp<cb>ts.
+
+</cb>
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 860
+	  - CGI 860, 150 VG
+
+	**Modifié par**:
+
+	  - Décret n°2003-1386 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 256
@@ -26186,46 +26143,6 @@ au centre des impôts des non-résidents.
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
-
-
-#### Chapitre IV : Régimes spéciaux et exonérations de portée générale.
-
-###### Article 313 BR bis
-
-Le droit de timbre sur requête peut être acquitté :
-
-a) Par l'emploi de machines à timbrer ;
-
-b) Par l'apposition de timbres mobiles ;
-
-c) Sur la production d'états.
-
-Les modalités d'application du présent article sont précisées par arrêté du ministre du budget (1).
-
-(1) Voir les articles 71 et 93 H quater C à 93 H quater E de l'annexe IV.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 71, 93 H quater C à 93 H quater E
-
-	**Créé par**:
-
-	  - Décret n°94-1143 du 26 décembre 1994 - art. 1 () JORF 28 décembre 1994
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 2 (V) JORF 24 décembre 2003
 
 
 ## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes
@@ -30936,7 +30853,7 @@ déclarations et documents se rapportant aux taxes, contributions et redevances 
 sur la valeur ajoutée ;
 
 5° Aux déclarations de taxes et participations assises sur les salaires prévues aux articles 229, 235 ter J, 235 ter KD du
-code précité et 161 de l'annexe II au même code ;
+code précité, 161 de l'annexe II et 369 de l'annexe III au même code ;
 
 6° A la déclaration de cotisation minimum de taxe professionnelle prévue au IV de l'article 1647 E du même code ;
 
@@ -30969,15 +30886,11 @@ terdecies.
 
 	  - CGI 172, 223, 209 B, 287, 1647 E, 172 bis, 229, 235 ter KD, 235 ter J, 990 F, 336 bis, 991, 978, 1010, 231 ter, 406 terdecies, 46 C, 235 ter X, 235 ter Y
 	  - CGIAN2 102 Z, 161
-	  - CGIAN3 344-0 A, 46 quater-0 F
+	  - CGIAN3 344-0 A, 46 quater-0 F, 369
 
 	**Modifié par**:
 
-	  - Loi n°2002-1575 2002-12-30 art. 83 1° Finances pour 2003 JORF 31 décembre 2002
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Cité par**:
 
@@ -30985,7 +30898,7 @@ terdecies.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 344-0 C
@@ -33070,62 +32983,67 @@ l'article 366 AA est recouvré dans les conditions définies à cet article.
 
 ###### Article 369
 
-1. Les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées pendant un mois déterminé doivent
-être versées dans les quinze premiers jours du mois suivant à la caisse du comptable du Trésor du lieu du domicile de la
-personne ou du siège de l'établissement ou du bureau qui a payé les rémunérations soumises à la taxe sur les salaires.
+1. Sous réserve des dispositions de l'article 406 terdecies, les sommes dues au titre de la taxe sur les salaires sont
+versées au comptable de la direction générale des impôts du lieu dont relève le siège de l'entreprise ou le principal
+établissement ou le domicile de l'employeur.
 
-Lorsque le montant mensuel total de ces sommes n'excède pas 334 euros, le versement peut n'être effectué que dans les quinze
-premiers jours de chaque trimestre civil pour le trimestre écoulé. Si le montant mensuel desdites sommes vient à excéder 334
-euros, les sommes dues depuis le début du trimestre en cours doivent être versées dans les quinze premiers jours du mois
-suivant.
+Lorsque le montant total de la taxe sur les salaires acquittée l'année précédente :
 
-Dans le cas de transfert de domicile, d'établissement ou de bureau hors du ressort de la circonscription de la perception,
-ainsi que dans le cas de cession ou de cessation d'entreprise, le versement doit être immédiatement effectué.
+a) Est inférieur à 1 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
+rémunérations payées pendant l'année en cours dans les quinze premiers jours de l'année suivante ;
 
-En cas de décès de l'employeur, ce versement doit être effectué dans les quinze premiers jours du mois suivant le décès.
+b) Est compris entre 1 000 Euros et 4 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires
+à raison des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ;
 
-2. (Abrogé).
+c) Est supérieur à 4 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
+rémunérations payées pendant un mois déterminé dans les quinze premiers jours du mois suivant.
 
-3. Chaque versement est accompagné d'un bordereau-avis fourni par l'administration daté et signé par la partie versante, et
-indiquant notamment la désignation, la profession et l'adresse de la personne, association ou organisme à qui incombe le
-versement, la période à laquelle s'applique ce versement et le montant de la taxe sur les salaires versés.
+Toutefois, si les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées depuis le 1er janvier de
+l'année en cours sont supérieures à 10 000 Euros, les employeurs versent la totalité de ces sommes dans les quinze premiers
+jours du mois suivant le dépassement de ce seuil. Le versement des échéances restantes jusqu'à la fin de l'année s'effectue
+mensuellement.
 
-En outre, une déclaration annuelle permettant la liquidation et la régularisation de la taxe sur les salaires fournie par
-l'administration est déposée, datée et signée par l'employeur, au lieu fixé au 1 au plus tard le 15 janvier de l'année qui
-suit celle au titre de laquelle la taxe est due.
+2. Chaque versement, mensuel ou trimestriel, est accompagné d'un relevé dont le modèle est fixé par l'administration, daté et
+signé par l'employeur et indiquant notamment sa désignation, sa profession et son adresse, la période à laquelle s'applique
+ce versement et le montant de la taxe sur les salaires versés.
 
-Cette déclaration indique, notamment, la désignation, la profession et l'adresse de la personne, association ou organisme
-redevable de la taxe, le montant des rémunérations versées au cours de l'année concernée, le montant de la taxe
-correspondante, le montant des sommes déjà versées mensuellement ou trimestriellement au titre de la même année ainsi que, le
-cas échéant, l'insuffisance ou l'excédent de versement constaté pour l'année.
+3. Une déclaration annuelle permettant la liquidation et la régularisation de la taxe sur les salaires, dont le modèle est
+fixé par l'administration, est déposée, datée et signée par l'employeur, au lieu fixé au 1 au plus tard le 15 janvier de
+l'année qui suit celle au titre de laquelle la taxe est due.
 
-4. Les redevables qui estiment que le montant annuel de leur taxe sur les salaires n'excédera pas celui de la franchise en
+Cette déclaration indique, notamment, la désignation, la profession et l'adresse de l'employeur, le montant des rémunérations
+versées au cours de l'année concernée, le montant de la taxe correspondante, le montant des sommes restant dues ou devant
+être restituées après déduction, le cas échéant, des sommes déjà versées mensuellement ou trimestriellement au titre de la
+même année.
+
+Elle est accompagnée, le cas échéant, de l'impôt ou du complément d'impôt exigible au titre de cette même année.
+
+4. En cas de :
+
+a) Transfert du siège, du principal établissement ou du domicile, les versements s'effectuent auprès du comptable des impôts
+dont dépend la nouvelle adresse ;
+
+b) Cession ou de cessation d'activité, l'employeur est tenu de souscrire dans les soixante jours, et au plus tard le 15
+janvier de l'année suivante, la déclaration prévue au 3 accompagnée du paiement y afférent ;
+
+c) Décès de l'employeur, la déclaration visée au 3 s'effectue dans les six mois du décès et au plus tard le 15 janvier de
+l'année suivante accompagnée du versement y afférent.
+
+5. Les redevables qui estiment que le montant annuel de leur taxe sur les salaires n'excédera pas celui de la franchise en
 impôt prévue au deuxième alinéa de l'article 1679 du code général des impôts ou de l'abattement mentionné à l'article 1679 A
-du même code ne sont pas tenus de déposer chaque mois ou trimestre le bordereau-avis mentionné au premier alinéa du 3. Les
-redevables dont le montant annuel de taxe sur les salaires n'excède pas ces mêmes franchise ou abattement sont dispensés du
-dépôt de la déclaration annuelle mentionnée au deuxième alinéa du 3.
-
-5. Pour les employeurs qui, dans les conditions prévues à l'article 406 terdecies, ont opté pour le paiement de la taxe sur
-les salaires auprès du comptable du service des grandes entreprises, la taxe due au titre de chaque période fait l'objet d'un
-versement unique pour l'ensemble des établissements concernés.
-
-Ces redevables sont dispensés du dépôt des bordereaux-avis mentionnés au premier alinéa du 3. Ils déposent la déclaration
-annuelle permettant la liquidation et la régularisation pour l'ensemble de leurs établissements auprès du comptable du
-service des grandes entreprises, dans les conditions et selon les modalités prévues aux deuxième et troisième alinéas du 3.
+du même code ne sont pas tenus de déposer chaque mois ou trimestre le relevé mentionné au 2. Les redevables dont le montant
+annuel de taxe sur les salaires n'excède pas ces mêmes franchise ou abattement sont dispensés du dépôt de la déclaration
+mentionnée au 3.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1679, 1679 A, 406 terdecies
+	  - CGI 406 terdecies, 1679, 1679 A
 
 	**Modifié par**:
 
-	  - Décret n°2001-1313 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-1313 du 28 décembre 2001 - art. 3 (V)
+	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Cité par**:
 
@@ -33133,29 +33051,10 @@ service des grandes entreprises, dans les conditions et selon les modalités pr�
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 374 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 
-
-##### b : Disposition spéciale aux professions relevant du régime agricole au regard des lois sur la sécurité sociale.
-
-###### Article 370
-
-Un décret spécial détermine les conditions d'application de la taxe sur les salaires afférente aux salaires payés par les
-employeurs appartenant aux professions qui relèvent du régime agricole au regard des lois sur la sécurité sociale (1).
-
-(1) Voir Art. 53 bis à 53 quater ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 53 bis à 53 quater
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2004
+	  - TXT_ASSOCIE: Instruction 2001-04-25 5L-3-01
 
 
 ##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques
@@ -33163,13 +33062,13 @@ employeurs appartenant aux professions qui relèvent du régime agricole au rega
 ###### Article 374
 
 1. Les sommes dues au titre de la taxe sur les salaires pour des rémunérations à la charge de l'Etat et des collectivités ou
-établissements publics sont versées trimestriellement au Trésor.
+établissements publics sont versées trimestriellement au comptable de la direction générale des impôts.
 
-Lorsque les rémunérations sont imputées sur le budget général de l'Etat ou sur les budgets annexes  le montant de la taxe sur
+Lorsque les rémunérations sont imputées sur le budget général de l'Etat ou sur les budgets annexes, le montant de la taxe sur
 les salaires est déterminé à raison de 4,25 % du montant des crédits ouverts pour le paiement de ces rémunérations.
 
 En ce qui concerne les offices et établissements publics autonomes de l'Etat ainsi que les établissements publics
-départementaux et communaux redevables de la taxe sur les salaires  le montant de la taxe est déterminé dans les conditions
+départementaux et communaux redevables de la taxe sur les salaires, le montant de la taxe est déterminé dans les conditions
 fixées à l'article 51.
 
 2. (Abrogé).
@@ -33180,9 +33079,17 @@ fixées à l'article 51.
 
 	  - CGIAN3 51
 
+	**Modifié par**:
+
+	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### 7 : Contribution annuelle sur les revenus locatifs
@@ -35439,13 +35346,11 @@ sur les sociétés prévues respectivement aux articles 223 septies, 234 nonies,
 impôts, à la taxe professionnelle et à la cotisation minimum citées au 6° de l'article 344-0 B de même qu'aux taxes
 additionnelles et annexes à cette taxe ainsi qu'aux impôts et taxes mentionnés aux 2° à 5° et 7° à 15° de l'article 344-0 B.
 
-Elles s'appliquent en outre, sur option de l'entreprise, à la taxe sur les salaires prévue à l'article 231 du code précité,
-aux taxes foncières sur les propriétés bâties et non bâties et à leurs taxes additionnelles et annexes recouvrées dans les
-mêmes conditions. L'option s'applique aux cotisations dues au titre de l'ensemble des établissements et immeubles de
-l'entreprise. Formulée par écrit avant le 30 novembre d'une année, l'option prend effet le 1er janvier de l'année suivante,
-pour une durée de cinq ans, renouvelable par tacite reconduction à défaut de dénonciation trente jours au moins avant
-l'expiration de la période. En matière de taxe sur les salaires, l'option s'applique aux versements dus au titre des salaires
-versés à compter de la date d'effet de l'option.
+Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
+leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique aux cotisations dues au titre
+de l'ensemble des établissements et immeubles de l'entreprise. Formulée par écrit avant le 30 novembre d'une année, l'option
+prend effet le 1er janvier de l'année suivante, pour une durée de cinq ans, renouvelable par tacite reconduction à défaut de
+dénonciation trente jours au moins avant l'expiration de la période.
 
 III. - Les dispositions des I et II s'appliquent aux paiements dans les mêmes conditions que celles prévues à l'article 344-0
 C. Toutefois, les impositions mentionnées au II dues au titre d'une période antérieure à la date à compter de laquelle le
@@ -35463,12 +35368,12 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 	**Cite**:
 
-	  - CGI 223 septies, 234 nonies, 235 ter ZA, 235 ter ZC, 231
+	  - CGI 223 septies, 234 nonies, 235 ter ZA, 235 ter ZC
 	  - CGIAN3 344-0 A, 344-0 B, 344-0 C
 
 	**Modifié par**:
 
-	  - Décret n°2001-1260 du 21 décembre 2001 - art. 1 () JORF 28 décembre 2001
+	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Cité par**:
 
@@ -35478,7 +35383,7 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2004
 	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
 
 

@@ -9,13 +9,11 @@ sur les sociétés prévues respectivement aux articles 223 septies, 234 nonies,
 impôts, à la taxe professionnelle et à la cotisation minimum citées au 6° de l'article 344-0 B de même qu'aux taxes
 additionnelles et annexes à cette taxe ainsi qu'aux impôts et taxes mentionnés aux 2° à 5° et 7° à 15° de l'article 344-0 B.
 
-Elles s'appliquent en outre, sur option de l'entreprise, à la taxe sur les salaires prévue à l'article 231 du code précité,
-aux taxes foncières sur les propriétés bâties et non bâties et à leurs taxes additionnelles et annexes recouvrées dans les
-mêmes conditions. L'option s'applique aux cotisations dues au titre de l'ensemble des établissements et immeubles de
-l'entreprise. Formulée par écrit avant le 30 novembre d'une année, l'option prend effet le 1er janvier de l'année suivante,
-pour une durée de cinq ans, renouvelable par tacite reconduction à défaut de dénonciation trente jours au moins avant
-l'expiration de la période. En matière de taxe sur les salaires, l'option s'applique aux versements dus au titre des salaires
-versés à compter de la date d'effet de l'option.
+Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
+leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique aux cotisations dues au titre
+de l'ensemble des établissements et immeubles de l'entreprise. Formulée par écrit avant le 30 novembre d'une année, l'option
+prend effet le 1er janvier de l'année suivante, pour une durée de cinq ans, renouvelable par tacite reconduction à défaut de
+dénonciation trente jours au moins avant l'expiration de la période.
 
 III. - Les dispositions des I et II s'appliquent aux paiements dans les mêmes conditions que celles prévues à l'article 344-0
 C. Toutefois, les impositions mentionnées au II dues au titre d'une période antérieure à la date à compter de laquelle le
@@ -33,12 +31,12 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 	**Cite**:
 
-	  - CGI 223 septies, 234 nonies, 235 ter ZA, 235 ter ZC, 231
+	  - CGI 223 septies, 234 nonies, 235 ter ZA, 235 ter ZC
 	  - CGIAN3 344-0 A, 344-0 B, 344-0 C
 
 	**Modifié par**:
 
-	  - Décret n°2001-1260 du 21 décembre 2001 - art. 1 () JORF 28 décembre 2001
+	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
 
 	**Cité par**:
 
@@ -48,5 +46,5 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2004
 	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
