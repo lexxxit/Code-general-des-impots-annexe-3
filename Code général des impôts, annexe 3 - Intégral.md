@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-03-31
+Version Consolidée au 1984-05-27
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -11887,6 +11887,36 @@ héritiers, légataires, ou donataires domiciliés hors de France.
 	**Modifié par**:
 
 	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 janvier 1983
+
+
+##### B : Régimes spéciaux et exonérations
+
+###### Article 281 A
+
+Lorsqu'une donation comprend des biens visés au 4° du 1 ou au 3° du 2 de l'article 793 du code général des impôts, les
+parties indiquent dans l'acte, en plus des renseignements énumérés à l'article 784 du même code, si de tels biens ont fait
+l'objet de donations antérieurs consenties par le même donateur au même donataire (1). 
+
+(1) Dispositions applicables à compter de l'entrée en vigueur du décret n° 84-396 du 25 mai 1984 (J. O. du 27).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-396 du 25 mai 1984 - art. 1 (V) JORF 27 mai 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 C (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 784 (V)
+	  - Code général des impôts, CGI. - art. 793 (VT)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 ##### Section III : Obligations diverses
