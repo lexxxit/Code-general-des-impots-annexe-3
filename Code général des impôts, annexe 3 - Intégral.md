@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-01-08
+Version Consolidée au 1988-01-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9578,6 +9578,55 @@ ceux qui influent sur le résultat d'entreprises exploitées en France.
 	  - Loi - art. 15 (V) JORF 31 décembre 2002
 
 
+#### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III
+
+##### Section II : Dispositions spéciales applicables aux opérations de nationalisation
+
+###### Article 65
+
+La liste des intermédiaires agréés prévue à l'article 248 C du code général des impôts est fixée comme suit : 
+
+Les sociétés de bourse ; 
+
+La Banque française du commerce extérieur ; 
+
+La Banque de France ; 
+
+Les établissements de crédit ;
+
+La Caisse centrale des banques populaires et les banques populaires agréées par leur chambre syndicale ; 
+
+La Caisse centrale de crédit coopératif ; 
+
+La Caisse centrale de crédit mutuel et les caisses départementales et interdépartementales de crédit mutuel ; 
+
+La Caisse des dépôts et consignations ; 
+
+La Caisse nationale de crédit agricole et les caisses régionales de crédit agricole mutuel ; 
+
+Le Crédit foncier communal d'Alsace et de Lorraine ; 
+
+Le Crédit foncier de France ;
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 248 C
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
 
 #### Chapitre premier : Taxe sur la valeur ajoutée
@@ -9639,6 +9688,37 @@ opérations de crédit-bail.
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 70 sexies (V)
 	  - Code général des impôts, CGI. - art. 260 B (V)
+
+
+###### Article 70 sexies
+
+Pour l'application de l'article 260 B du code général des impôts, les activités bancaires ou financières s'entendent des
+activités exercées par les établissements de crédit, les sociétés de bourse, changeurs, escompteurs et remisiers.
+
+Il en est de même des opérations se rattachant aux activités énumérées au premier alinéa et réalisées par des personnes non
+visées à cet alinéa lorsqu'elles constituent l'activité principale de ces personnes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 260 B
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 70 septies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
 
 
 ##### II : Opérations exonérées
