@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-06-02
+Version Consolidée au 2004-06-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7900,28 +7900,23 @@ Les contribuables qui réalisent en France, directement ou par personne interpos
 d'instruments financiers ou de marchandises doivent, pour l'application de l'article 97 du code général des impôts, déclarer
 distinctement sur une formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette
 relevant des régimes définis respectivement aux articles 150 quinquies, 150 sexies et 150 octies du code général des impôts
-ainsi que les éléments nécessaires à leur détermination.
+ainsi que les éléments nécessaires à leur détermination. 
 
-Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des cinq années antérieures sont tenus
+Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des dix années antérieures sont tenus
 d'indiquer sur cette déclaration le détail des pertes reportées par année et par nature de profit.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-522 du 9 juin 2004 - art. 1 () JORF 12 juin 2004
+
 	**Cite**:
 
-	  - CGI 97, 150 quinquies, 150 sexies, 150 octies
-
-	**Créé par**:
-
-	  - Décret n°92-306 du 30 mars 1992 - art. 2 (V) JORF 1er avril 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
+	  - Code général des impôts, CGI. - art. 150 octies (V)
+	  - Code général des impôts, CGI. - art. 150 quinquies (V)
+	  - Code général des impôts, CGI. - art. 150 sexies (V)
+	  - Code général des impôts, CGI. - art. 97 (V)
 
 
 ###### Article 41 septdecies J
@@ -8014,28 +8009,25 @@ de clôture définitive de la position ouverte par ce contrat.
 Les contribuables qui réalisent, directement ou par personne interposée, des opérations imposables en application de
 l'article 150 nonies du code général des impôts doivent, pour l'application de l'article 97 du même code, déclarer sur une
 formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette ainsi que les éléments
-nécessaires à leur détermination.
+nécessaires à leur détermination. 
 
-Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des cinq années antérieures sont tenus
+Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des dix années antérieures sont tenus
 d'indiquer sur cette déclaration le détail par année des pertes reportées.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-522 du 9 juin 2004 - art. 1 () JORF 12 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
+
 	**Cite**:
 
-	  - CGI 150 nonies, 97
-
-	**Créé par**:
-
-	  - Décret n°92-234 du 11 mars 1992 - art. 2 (V) JORF 15 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
+	  - Code général des impôts, CGI. - art. 150 nonies
+	  - Code général des impôts, CGI. - art. 97
 
 
 ###### Article 41 septdecies N
@@ -8126,28 +8118,25 @@ intervient à la date de clôture de la position ouverte par ce bon.
 Les contribuables qui réalisent, directement ou par personne interposée, des opérations imposables en application de
 l'article 150 decies du code général des impôts doivent, pour l'application de l'article 97 du code déjà cité, déclarer sur
 une formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette ainsi que les
-éléments nécessaires à leur détermination.
+éléments nécessaires à leur détermination. 
 
-Les contribuables qui demandent à bénéficier d'un report de pertes subies au cours des cinq années antérieures sont tenus
+Les contribuables qui demandent à bénéficier d'un report de pertes subies au cours des dix années antérieures sont tenus
 d'indiquer sur cette déclaration le détail par année des pertes reportées.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-522 du 9 juin 2004 - art. 1 () JORF 12 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
+
 	**Cite**:
 
-	  - CGI 150 decies, 97
-
-	**Créé par**:
-
-	  - Décret n°92-605 du 30 juin 1992 - art. 2 (V) JORF 4 juillet 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
+	  - Code général des impôts, CGI. - art. 150 decies
+	  - Code général des impôts, CGI. - art. 97
 
 
 ###### Article 41 septdecies R
@@ -8212,29 +8201,25 @@ quote-part des profits et des pertes correspondant aux droits de chacun de ses m
 Les contribuables qui réalisent en France, directement ou par personne interposée, des opérations imposables en application
 de l'article 150 undecies du code général des impôts doivent, pour l'application de l'article 97 du même code, déclarer sur
 une formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette ainsi que les
-éléments nécessaires à leur détermination.
+éléments nécessaires à leur détermination. 
 
-Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des cinq années antérieures sont tenus
+Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des dix années antérieures sont tenus
 d'indiquer sur cette déclaration le détail par année des pertes reportées.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-522 du 9 juin 2004 - art. 1 () JORF 12 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
+
 	**Cite**:
 
-	  - CGI 150 undecies, 97
-
-	**Créé par**:
-
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
+	  - Code général des impôts, CGI. - art. 150 undecies
+	  - Code général des impôts, CGI. - art. 97
 
 
 ###### Article 41 septdecies U
@@ -10361,13 +10346,14 @@ ressources du locataire ne peuvent excéder les limites suivantes :
 1. Pour les baux conclus en 2003, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 126 euros dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
-année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
-consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° 126 euros dans les départements d'outre-mer et à Mayotte. Ce plafond est révisé chaque année le 1er janvier dans la même
+proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun
+des quatre départements d'outre-mer ;
 
-2° 169 euros dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond
-est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des
-indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 169 euros en Polynésie française, en Nouvelle-Calédonie, dans les îles Wallis et Futuna et les Terres australes et
+antarctiques françaises et à Saint-Pierre-et-Miquelon. Ce plafond est révisé chaque année le 1er janvier dans la même
+proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie
+française et de la Nouvelle-Calédonie.
 
 Pour le calcul de ces plafonds, il est fait application de la dernière variation annuelle publiée par l'Institut national de
 la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
@@ -10375,17 +10361,44 @@ la statistique et des études économiques au 1er décembre de l'année qui pré
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2003, les plafonds annuels de ressources sont fixés à :
+Pour les baux conclus en 2004, les plafonds annuels de ressources sont les suivants :
 
-1°  22 330 euros pour une personne seule et 44 660 euros pour un couple marié soumis à imposition commune dans les
-départements d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 2 584 euros par personne à
-charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 452 euros par enfant à
-partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+COMPOSITION DU FOYER LOCATAIRE
 
-2° 22 446 euros pour une personne seule et 44 892 euros pour un couple marié soumis à imposition commune dans les territoires
-d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 2 597 euros par personne
-à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 470 Euros par enfant à
-partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+PLAFOND ANNUEL de ressources (en euros)
+
+Personne seule
+
+25 000 
+
+Couple marié
+
+46 239 
+
+Personne seule ou couple marié ayant une personne à charge
+
+48 914 
+
+Personne seule ou couple marié ayant deux personnes à charge
+
+51 589 
+
+Personne seule ou couple marié ayant trois personnes à charge
+
+55 163 
+
+Personne seule ou couple marié ayant quatre enfants à charge
+
+58 737 
+
+Majoration par personne à charge à partir de la cinquième
+
++ 3 750 
+
+Ces plafonds sont relevés chaque année selon les modalités définies au 1.
+
+Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
+196 B du code général des impôts.
 
 3. Dans le cas mentionné au troisième alinéa du 4 de l'article 199 undecies du code général des impôts, les conditions
 prévues au 1 et au 2 s'apprécient en tenant compte du montant :
@@ -10420,8 +10433,7 @@ services fiscaux auprès de laquelle la société souscrit sa déclaration de r�
 
 La société délivre en double exemplaire à chaque souscripteur un document attestant que la location et, le cas échéant, la
 sous-location remplissent les conditions prévues par le présent article. Le souscripteur en joint un exemplaire à sa
-déclaration de revenus de l'année au cours de laquelle le bail est signé.    (Ces dispositions s'appliquent aux
-investissements réalisés jusqu'au 31 décembre 2000).
+déclaration de revenus de l'année au cours de laquelle le bail est signé.
 
 **Liens relatifs à cet article**
 
@@ -10429,17 +10441,19 @@ investissements réalisés jusqu'au 31 décembre 2000).
 
 	  - CGI 199 undecies, 196 à 196 B
 
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
 	**Modifié par**:
 
-	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
+	  - Décret n°2004-523 du 10 juin 2004 - art. 1 () JORF 12 juin 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - PEREMPTION: Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 AG duodecies
@@ -10450,23 +10464,23 @@ du locataire sont les suivants :
 1. Pour les baux conclus en 2003, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 126 euros dans les départements d'outre-mer et dans la collectivité départementale de Mayotte. Ce plafond est révisé
-chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des
-prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° 126 euros dans les départements d'outre-mer et à Mayotte. Ce plafond est révisé chaque année, le 1er janvier, dans la même
+proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation hors tabac de chacun
+des quatre départements d'outre-mer ;
 
-2° 169 euros dans les territoires d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-
-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la
-moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 169 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à
+Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même
+proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie
+française et de la Nouvelle-Calédonie.
 
 Pour le calcul des plafonds, il est fait application :
 
-a) Dans les départements d'outre-mer et dans la collectivité départementale de Mayotte, de la dernière variation annuelle
-publiée par l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de
-la conclusion du bail ;
+a) Dans les départements d'outre-mer et à Mayotte, de la dernière variation annuelle publiée par l'Institut national de la
+statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail ;
 
-b) Dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon, de la dernière
-variation annuelle publiée par l'Institut de la statistique de la Polynésie française au 1er décembre de l'année qui précède
-celle de la conclusion du bail ;
+b)  En Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises et à Saint-
+Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut de la statistique de la Polynésie française au
+1er décembre de l'année qui précède celle de la conclusion du bail ;
 
 c) En Nouvelle-Calédonie, de la dernière variation annuelle publiée par l'Institut territorial de la statistique et des
 études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
@@ -10474,17 +10488,44 @@ c) En Nouvelle-Calédonie, de la dernière variation annuelle publiée par l'Ins
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2003, les plafonds annuels de ressources sont fixés à :
+Pour les baux conclus en 2004, les plafonds annuels de ressources sont les suivants :
 
-1° 22 330 euros pour une personne seule et 44 660 euros pour un couple marié soumis à imposition commune dans les
-départements d'outre-mer et dans la collectivité départementale de Mayotte. Ces sommes sont majorées de 2 584 euros par
-personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 452 euros par
-enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1 ;
+COMPOSITION DU FOYER LOCATAIRE
 
-2° 22 446 euros pour une personne seule et 44 892 euros pour un couple marié soumis à imposition commune dans les territoires
-d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ces sommes sont majorées
-de 2 597 euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée
-à 3 470 euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+PLAFOND ANNUEL de ressources (en euros)
+
+Personne seule
+
+25 000 
+
+Couple marié
+
+46 239 
+
+Personne seule ou couple marié ayant une personne à charge
+
+48 914 
+
+Personne seule ou couple marié ayant deux personnes à charge
+
+51 589 
+
+Personne seule ou couple marié ayant trois personnes à charge
+
+55 163 
+
+Personne seule ou couple marié ayant quatre enfants à charge
+
+58 737 
+
+Majoration par personne à charge à partir de la cinquième
+
++ 3 750 
+
+Ces plafonds sont relevés chaque année selon les modalités définies au 1.
+
+Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
+196 B du code général des impôts.
 
 3. Dans le cas mentionné au troisième alinéa du 7 de l'article 199 undecies A du code général des impôts, les conditions
 prévues au 1 et au 2 s'apprécient en tenant compte du montant :
@@ -10501,13 +10542,9 @@ c) Des ressources du sous-locataire.
 
 	  - CGI 199 undecies A, 196 à 196 B
 
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
 	**Modifié par**:
 
-	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
+	  - Décret n°2004-523 du 10 juin 2004 - art. 1 () JORF 12 juin 2004
 
 	**Cité par**:
 
@@ -10522,7 +10559,7 @@ c) Des ressources du sous-locataire.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 AG nonies
@@ -10624,6 +10661,13 @@ d) La date d'achèvement du logement ou de son acquisition si elle est postérie
 2. Une copie de la notification de l'arrêté délivrant le permis de construire lorsqu'il s'agit d'un logement que le
 contribuable fait construire.
 
+3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au dernier alinéa du 6 de l'article 199 undecies
+A du code général des impôts, selon le cas, soit une attestation du constructeur, du vendeur ou de l'entreprise ayant procédé
+à l'installation des équipements de production d'énergie utilisant une source d'énergie renouvelable et comportant l'adresse
+de réalisation des travaux ainsi que la désignation de ces équipements, soit une facture de ces équipements comportant, outre
+les mentions prévues à l'article 289 du code général des impôts, l'adresse de réalisation des travaux, leur nature ainsi que
+la désignation et le montant des équipements.
+
 II. - Lorsque le logement neuf est destiné à la location :
 
 1. L'engagement prévu au b du 2 ou au 1° du 6 de l'article 199 undecies A du code général des impôts qui comporte les
@@ -10639,11 +10683,22 @@ contribuable fait construire ;
 visée au premier alinéa du 2 de l'article 46 AG duodecies lorsque la location est consentie dans les conditions du 2° du 6 de
 l'article 199 undecies A du code général des impôts.
 
+5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des dispositions du dernier alinéa du 6 de l'article
+199 undecies A du code général des impôts.
+
 Si un bail n'est pas signé à la date de souscription de la déclaration susvisée, les documents énumérés aux 1, 3 et 4 sont
 joints à la déclaration de l'année au cours de laquelle le bail est signé. Il en est de même en cas de changement de
 locataire ou de sous-locataire pendant la durée de l'engagement mentionné au 1.
 
-III. - Lorsque le logement est construit par une société, les obligations déclaratives prévues au II incombent à la société.
+III. - Lorsque le logement qui fait l'objet des travaux définis à l'article 46 AG terdecies A est destiné à devenir son
+habitation principale ou à être loué, l'engagement prévu au e du 2 de l'article 199 undecies A du code général des impôts
+comporte les éléments définis aux a, b, c, d du 1 du I.
+
+Il comporte également la date d'achèvement des travaux et la copie des factures des entreprises ayant réalisé les travaux qui
+précisent, outre les mentions prévues à l'article 289 du code général des impôts, l'adresse de réalisation des travaux, leur
+nature et leur montant.
+
+IV. - Lorsque le logement est construit par une société, les obligations déclaratives prévues au II incombent à la société.
 Les documents sont adressés avec la déclaration d'achèvement dans les six mois de l'achèvement du logement à la direction des
 services fiscaux auprès de laquelle la société souscrit sa déclaration de résultats.
 
@@ -10651,16 +10706,21 @@ La société délivre en double exemplaire à chaque souscripteur un document at
 sous-location remplissent les conditions prévues aux articles 46 AG undecies à 46 AG terdecies. Le souscripteur en joint un
 exemplaire à sa déclaration de revenus de l'année au cours de laquelle le bail est signé.
 
+V. - Pour bénéficier de l'avantage fiscal prévu à l'article 199 undecies A du code général des impôts, les contribuables sont
+tenus de joindre à la déclaration de revenus de chacune des années ouvrant droit au bénéfice de la réduction d'impôt une note
+annexe établie sur un imprimé fourni par l'administration et comportant, selon la nature des investissements et le taux qui
+leur est applicable, les modalités de calcul de la réduction d'impôt.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 199 undecies A
-	  - CGIAN3 46 AG duodecies, 46 AG undecies à 46 AG terdecies
+	  - CGI 199 undecies A, 289
+	  - CGIAN3 46 AG duodecies, 46 AG terdecies A, 46 AG undecies à 46 AG terdecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2001-1373 du 31 décembre 2001 - art. 1 () JORF 1er janvier 2002
+	  - Décret n°2004-523 du 10 juin 2004 - art. 1 () JORF 12 juin 2004
 
 	**Cité par**:
 
@@ -10669,7 +10729,7 @@ exemplaire à sa déclaration de revenus de l'année au cours de laquelle le bai
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 AG quindecies
@@ -10858,6 +10918,28 @@ mètres carrés.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2002
+
+
+###### Article 46 AG terdecies A
+
+Pour l'application du e du 2 de l'article 199 undecies A du code général des impôts, les travaux de réhabilitation des
+logements s'entendent des travaux de modification ou de remise en état du gros oeuvre ou des travaux d'aménagement interne
+qui, par leur nature, équivalent à de la reconstruction, ainsi que des travaux d'amélioration qui leur sont indissociables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-523 du 10 juin 2004 - art. 1 () JORF 12 juin 2004
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG quaterdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 undecies A (V)
 
 
 ###### Article 46 AG undecies
