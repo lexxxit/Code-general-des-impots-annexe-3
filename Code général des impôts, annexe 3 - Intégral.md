@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-02-05
+Version Consolidée au 1984-02-23
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -17738,6 +17738,135 @@ fixées à l'article 51.
 
 
 ##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs
+
+###### Article 381 KA
+
+Les revenus des obligations qui font l'objet d'une gestion collective selon les modalités prévues à l'article 3 du décret n°
+83-872 du 30 septembre 1983 fixant les conditions d'application des articles 5 à 7 de la loi n° 83-607 du 8 juillet 1983
+portant diverses dispositions à la fiscalité des entreprises et à l'épargne industrielle donnent lieu à l'application de la
+retenue à la source prévue à l'article 119 bis-1 du code général des impôts dans les conditions fixées aux articles 381 KB à
+381 KE.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 bis 1
+	  - CGIAN3 381 KB à 381 KE
+	  - Loi n°83-607 1983-07-08 art. 5 à art. 7
+	  - Décret n°83-872 du 30 septembre 1983 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-121 du 22 février 1984 - art. 1 (V) JORF 23 février 1984
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 381 KB
+
+1° Les établissements émetteurs sont autorisés à suspendre le versement des acomptes prévus à l'article 1673 du code général
+des impôts et à l'article 381 K, à concurrence de la retenue à la source calculée sur les intérêts courus des obligations
+qui, dès leur émission, sont inscrites à l'actif d'une gestion collective en emploi des sommes apportées par les titulaires
+de comptes pour le développement industriel (Codevi) ;
+
+2° A chaque échéance des intérêts de ces obligations, l'établissement émetteur compare les termes suivants :
+
+- le nombre de ces obligations au titre desquelles les versements d'acomptes de retenue à la source ont été suspendus ;
+
+- le nombre de ces obligations qui font effectivement l'objet d'une gestion collective.
+
+Lorsque le premier terme est supérieur au second, l'établissement émetteur verse la retenue à la source afférente aux
+obligations excédentaires à la recette des impôts dont il dépend dans les vingt jours qui suivent le trimestre civil au cours
+duquel les intérêts ont été payés.
+
+Dans le cas contraire, la retenue à la source afférente au surplus d'obligations gérées collectivement est restituée à
+l'établissement émetteur ;
+
+3° Au cours des douze mois suivant chaque échéance, l'établissement émetteur verse à la recette des impôts dont il dépend les
+acomptes de la retenue à la source afférente aux obligations qui, à cette échéance, ne faisaient pas l'objet d'une gestion
+collective ;
+
+4° L'établissement émetteur verse à l'établissement chargé de la gestion collective, en même temps que l'intérêt met, la
+retenue à la source afférente aux obligations inscrites à son actif et représentative des acomptes dont les versements ont
+été suspendus. Les sommes correspondantes sont portées au crédit Codevi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1673
+	  - CGIAN3 381 K
+
+	**Créé par**:
+
+	  - Décret n°84-121 1984-02-22 art. 2 JORF 23 février 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 381 KD
+
+Le versement d'intérêts à une gestion collective ne peut donner lieu à l'établissement d'un certificat de crédit d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-121 du 22 février 1984 - art. 4 (V) JORF 23 février 1984
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 381 KE
+
+Les établissements chargés de la gestion collective des obligations visées à l'article 381 KA fournissent aux établissements
+émetteurs à l'échéance des intérêts afférents à ces obligations, pour chaque emprunt :
+
+- le nombre des obligations faisant l'objet d'une gestion collective ;
+
+- le montant des intérêts échus afférents à ces obligations.
+
+Les établissements émetteurs des obligations visées à l'article précité déposent à la recette des impôts dont ils dépendent,
+dans les vingt jours suivant le trimestre civil au cours duquel les intérêts ont été payés, un état mentionnant pour chaque
+emprunt :
+
+- le nombre d'obligations faisant l'objet à l'échéance d'une gestion collective et le taux de l'emprunt correspondant ;
+
+- le montant total des intérêts payés lors de cette échéance ;
+
+- le nombre d'obligations faisant l'objet d'une gestion collective à l'échéance précédente ;
+
+- le montant de la retenue à la source à verser au Trésor ou restituable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 381 KA
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-121 du 22 février 1984 - art. 5 (V) JORF 23 février 1984
+
 
 ###### Article 381 Q
 
