@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1982-02-20
+Version Consolidée au 1982-04-10
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -9042,6 +9042,133 @@ déclarées au bureau de déclarations au moins quarante-huit heures à l'avance
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+#### Chapitre III ter : Régime économique de l'isoglucose.
+
+###### Article 219 P
+
+Les fabricants d'isoglucose sont tenus de souscrire au bureau de déclarations de la direction générale des impôts dans le
+ressort duquel est située la fabrique [*lieu*] une déclaration présentant [*mentions*] la description et le plan de masse de
+celle-ci et indiquant le nombre et la capacité maximale des cuves, vaisseaux et magasins de toute nature destinés à contenir
+l'isoglucose et ses matières premières [*obligation de souscription*]. 
+
+En cas d'ouverture de nouvelles usines ou de transformations apportées à des usines existantes, une déclaration décrivant les
+nouvelles installations doit être déposée au plus tard quinze jours avant leur entrée en fonctionnement [*date limite de
+dépôt*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 1 (V) JORF 10 AVRIL 1982
+
+
+###### Article 219 Q
+
+Les fabricants d'isoglucose sont tenus de présenter aux agents des impôts les matières premières destinées à être mises en
+oeuvre pour la production d'isoglucose, l'isoglucose ainsi que les produits finis élaborés à partir d'isoglucose en leur
+possession [*obligation*] (1). 
+
+(1) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L27 et R27-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L27
+	  - CGI R27-1
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 2 (V) JORF 10 AVRIL 1982
+
+
+###### Article 219 T
+
+Avant le 20 de chaque mois [*date limite de dépôt*], les fabricants d'isoglucose sont tenus de faire parvenir, au bureau de
+déclarations de la direction générale des impôts dans le ressort duquel est située la fabrique, une déclaration de leur
+fabrication du mois précédent exprimée en poids réel et en matière sèche effective [*obligation*]. 
+
+Chaque année et avant le 5 juillet, les fabricants d'isoglucose doivent adresser au même bureau une déclaration des stocks de
+produits finis qu'ils détiennent en magasin ou entrepôt à la date du 1er juillet à zéro heure. Cette déclaration est
+également exprimée en poids réel et matière sèche effective.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 5 (V) JORF 10 AVRIL 1982
+
+
+###### Article 219 U
+
+Les agents des impôts procèdent en début et en fin de campagne de fabrication à l'inventaire des quantités d'isoglucose
+existantes (1).
+
+Pour l'application de l'article L. 51 du livre des procédures fiscales, les rapprochements auxquels donne lieu
+l'établissement de l'inventaire, entre le compte de fabrication prévu par l'article 219 R et la comptabilité commerciale,
+constituent des opérations déterminées. 
+
+(1) Voir également livre des procédures fiscales, art. R27-2.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L51
+	  - CGI R27-2
+	  - CGIAN3 219 R
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 6 (V) JORF 10 AVRIL 1982
+
+
+###### Article 219 V
+
+Les dispositions des articles 423 à 427 du code général des impôts concernant la détention et la circulation des sucres sont
+applicables à l'isoglucose.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 423
+	  - CGI 424
+	  - CGI 425
+	  - CGI 426
+	  - CGI 427
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°95-1281 1995-12-11
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 7 (V) JORF 10 AVRIL 1982
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995, article sans objet
+	  - HISTO: Edition du 27 octobre 1995
 
 
 #### Chapitre IV : Monopoles
