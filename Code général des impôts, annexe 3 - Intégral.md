@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-12-31
+Version Consolidée au 1981-01-27
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -15981,6 +15981,27 @@ L'instruction des demandes est faite par le service chargé de l'assiette des im
 
 ##### 2 : Sursis de versement et décharge de responsabilité
 
+###### Article 429
+
+En dehors des cas de remises de débet, les comptables du Trésor responsables, du recouvrement des contributions directes,
+dont ils on pris les rôles en charge, et tenus de justifier de leur entière réalisation, ne peuvent être dispensés de verser,
+en tout ou en partie, de leurs deniers personnels, les cotes ou fractions de cotes et les frais de poursuites y afférents,
+non recouvrés au 31 décembre de la quatrième année suivant celle de la mise en recouvrement des rôles ni admis en non-valeurs
+que s'ils ont obtenu soit un sursis de versement, soit la décharge ou l'atténuation de leur responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-58 du 23 janvier 1981 - art. 1 (V) JORF 27 janvier 1981
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 430 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 432 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
+
+
 ##### a : Sursis de versement
 
 ###### Article 430
@@ -16001,6 +16022,21 @@ Il est susceptible d'être renouvelé sur demande ultérieure du comptable du Tr
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 432 (V)
+
+
+###### Article 432
+
+Le trésorier-payeur général statue sur les les demandes de sursis de versement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-58 du 23 janvier 1981 - art. 1 (V) JORF 27 JANVIER 1981
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
 
 
 ##### b : Décharge de responsabilité
@@ -16029,6 +16065,30 @@ laissées à la charge du comptable dans les limites de ladite indemnité.
 	  - Loi n°1925-03-10 art. 51
 
 
+###### Article 437
+
+Si la demande en décharge ou en atténuation de responsabilité est rejetée du fait que le recouvrement de la cote paraît
+susceptible d'être ultérieurement obtenu, un sursis de versement peut être accordé d'office au comptable chargé du
+recouvrement.
+
+Ce sursis de versement est accordé par le ministre lorsque la décision de rejet a été prise par ses soins en vertu de
+l'article 435 ou par le trésorier-payeur général lorsque cette décision est prise en application de l'article 434.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 434, 435
+
+	**Modifié par**:
+
+	  - Décret n°81-58 du 23 janvier 1981 - art. 1 (V) JORF 27 janvier 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+
 ##### c : Dispositions communes
 
 ###### Article 439
@@ -16042,6 +16102,26 @@ suspensif.
 	**Abrogé par**:
 
 	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+
+###### Article 441
+
+Les comptables du Trésor chargés du recouvrement des impôts directs ainsi que les receveurs particuliers des finances sont
+admis à se pourvoir devant le ministre du budget contre les décisions rejetant les demandes de sursis de versement.
+
+Le recours a un effet suspensif.
+
+La décision du ministre est notifiée par la voie hiérarchique aux comptables intéressés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 340
+
+	**Modifié par**:
+
+	  - Décret n°81-58 du 23 janvier 1981 - art. 1 (V) JORF 27 janvier 1981
 
 
 ###### Article 442
@@ -17282,49 +17362,6 @@ Les décisions sont notifiées au service du recouvrement par le directeur des s
 	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
 
 
-###### Article 429
-
-En dehors des cas de remises de débet  les comptables du Trésor responsables du recouvrement des contributions directes  dont
-ils ont pris les rôles en charge  et tenus de justifier de leur entière réalisation dans le délai fixé par les lois et
-règlements en vigueur ne peuvent être dispensés de verser  en tout ou en partie  de leurs deniers personnels  les cotes ou
-fractions de cotes et les frais de poursuites y afférents  non recouvrés dans le délai prévu pour l'apurement des rôles  ni
-admis en non-valeurs  que s'ils ont obtenu soit un sursis de versement  soit la décharge ou l'atténuation de leur
-responsabilité.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 430 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 432 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 432
-
-Le préfet [*autorité compétente*] statue sur les demandes de sursis de versement. Il se prononce au vu des avis émis par le
-trésorier-payeur général et par le directeur des services fiscaux lorsque ces avis sont concordants et dans le cas contraire
-après avoir pris l'avis de la commission départementale prévue à l'article 443.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 443
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 434
 
 Le préfet [*autorité compétente*] statue sur les demandes en décharge ou en atténuation de responsabilité à moins que la cote
@@ -17371,25 +17408,6 @@ ces avis sont concordants et  dans le cas contraire  après avoir pris l'avis de
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 437
-
-Si la demande en décharge ou en atténuation de responsabilité est rejetée du fait que le recouvrement de la cote paraît
-susceptible d'être ultérieurement obtenu  l'autorité qui statue peut accorder d'office au comptable du Trésor  sur avis
-concordants des chefs des services de l'assiette et du recouvrement  un sursis de versement renouvelable dans les conditions
-prévues aux articles 431 et 432.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 431
-	  - CGIAN3 432
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 438
 
 Les décisions préfectorales prises sur les demandes en décharge ou en atténuation de responsabilité et qui n'auront pas fait
@@ -17411,46 +17429,30 @@ prévues à l'article 435, deuxième alinéa.
 
 ###### Article 440
 
-Les comptables du Trésor chargés du recouvrement des impôts directs  ainsi que les comptables supérieurs dont la
-responsabilité pécuniaire est en jeu  sont admis à se pourvoir devant le ministre de l'économie et des finances contre les
-décisions préfectorales rejetant les demandes de sursis de versement ou les demandes en décharge ou en atténuation de
-responsabilité.
+Les comptables du Trésor chargés du recouvrement des impôts directs, ainsi que les comptables centralisateurs dont la
+responsabilité pécuniaire est en jeu, sont admis à se pourvoir devant le ministre du budget contre les décisions
+préfectorales rejetant les demandes en décharge ou en atténuation de responsabilité.
 
-Le recours a un effet suspensif.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 441
-
-Les recours prévus à l'article 440 sont instruits comme les demandes en décharge ou en atténuation de responsabilité relevant
-directement de la compétence du ministre de l'économie et des finances.
+Le recours a un effet suspensif et est instruit comme les demandes initiales relevant directement de la compétence du
+ministre du budget.
 
 La décision du ministre est notifiée par la voie hiérarchique aux comptables intéressés et au directeur des services fiscaux.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN3 340
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-58 du 23 janvier 1981 - art. 1 (V) JORF 27 JANVIER 1981
 
 
 ###### Article 443
 
-La commission départementale appelée à donner son avis sur les demandes dans les cas prévus par les articles 432 et 434 est
-composée ainsi qu'il suit [*composition*]:
+La commission départementale appelée à donner son avis sur les demandes en décharge ou en atténuation de responsabilité est
+composée ainsi qu'il suit :
 
 Le préfet ou son représentant  président;
 
-Le trésorier-payeur général ou le receveur général des finances trésorier-payeur général de la région parisienne  ou son
+Le trésorier-payeur général ou le receveur général des finances trésorier-payeur général de la région d'Ile-de-France ou son
 représentant;
 
 Le directeur des services fiscaux  ou son représentant;
@@ -17471,9 +17473,13 @@ Un inspecteur de la trésorerie générale remplit les fonctions de secrétaire.
 	  - CGIAN3 432
 	  - CGIAN3 434
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°76-394 1976-05-06 ART. 1 JORF 7 MAI 1976
 
 
 ###### Article 444 A
