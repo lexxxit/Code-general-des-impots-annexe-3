@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-10-19
+Version Consolidée au 1985-12-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18936,8 +18936,7 @@ Ils obtiennent le remboursement de leurs frais réels de transport aux tarifs ap
 ###### Article 143 A
 
 La production des fruits à cidre et à poiré est réservée en priorité à la fabrication de produits alimentaires destinés tant
-au marché national qu'à l'exportation. Seul le surplus disponible peut être livré à la distillation d'alcool réservé à
-l'Etat.
+au marché national qu'à l'exportation.
 
 Sont considérés comme produits cidricoles alimentaires [*définition*] pour l'application de cette disposition :
 
@@ -18954,13 +18953,17 @@ textes applicables en la matière.
 
 	  - Décret n°53-978 du 30 septembre 1953 - art. 9 (M)
 
+	**Modifié par**:
+
+	  - Décret n°85-1319 du 12 décembre 1985 - art. 1 (V) JORF 14 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 143 A 1 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 # Livre II : Recouvrement de l'impôt
@@ -21475,6 +21478,31 @@ L'instruction des demandes est faite par le service chargé de l'assiette des im
 	  - Décret n°99-889 du 21 octobre 1999 - art. 2 () JORF 22 octobre 1999
 
 
+###### Article 428
+
+Le pouvoir de statuer est dévolu :
+
+au directeur des services fiscaux [*autorité compétente*] lorsque les sommes dont l'admission en non-valeurs est demandée
+n'excèdent pas 750.000 F par cote;
+
+au directeur général des impôts  d'accord avec le directeur de  a la comptabilité publique  lorsqu'il s'agit de sommes
+excédant les limites de compétence du directeur des services fiscaux;
+
+au ministre, en cas de désaccord entre le directeur général des impôts et le directeur de la comptabilité publique.
+
+Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-1318 du 12 décembre 1985 - art. 2 (V) JORF 14 décembre 1985
+
+
 ##### 2 : Sursis de versement et décharge de responsabilité
 
 ###### Article 429
@@ -21957,35 +21985,6 @@ commissaire-priseur.
 ## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS
 
 ### JURIDICTION GRACIEUSE.
-
-###### Article 428
-
-Le pouvoir de statuer est dévolu :
-
-au directeur des services fiscaux [*autorité compétente*] lorsque les sommes dont l'admission en non-valeurs est demandée
-n'excèdent pas 400.000 F par cote;
-
-au directeur général des impôts  d'accord avec le directeur de  a la comptabilité publique  lorsqu'il s'agit de sommes
-excédant les limites de compétence du directeur des services fiscaux;
-
-au ministre, en cas de désaccord entre le directeur général des impôts et le directeur de la comptabilité publique.
-
-Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Cité par**:
-
-	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
-
 
 ###### Article 434
 
