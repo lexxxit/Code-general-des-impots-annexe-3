@@ -1,0 +1,39 @@
+# Article 46 quater-0 D
+
+I  Les distributions qui n'ouvrent pas droit à l'avoir fiscal prévu à l'article 158 bis du code général des impôts sont
+prélevés, par priorité, sur les bénéfices soumis à l'impôt sur les sociétés ou exonérés de cet impôt au titre du dernier
+exercice clos et, en cas d'insuffisance de ces bénéfices, sur ceux des exercices antérieurs les plus récents.
+
+II  Les distributions qui ouvrent droit à l'avoir fiscal sont prélevées ensuite dans l'ordre suivant :
+
+D'abord, sur les bénéfices disponibles qui ont été soumis à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa
+du I de l'article 219 du code déjà cité au titre du dernier exercice clos;
+
+Puis, sur les bénéfices disponibles qui ont été imposés à ce même taux au titre d'exercices antérieurs clos depuis cinq ans
+au plus;
+
+Enfin, sur tous autres bénéfices ou réserves disponibles.
+
+Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis cinq ans au plus, des produits de
+participations ouvrant droit au régime des sociétés mères, les distributions peuvent être librement imputées sur ces
+produits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 bis
+	  - CGI 219 I al. 2
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGIAN3 46 QUATER-O E
+
+	**Modifié par**:
+
+	  - Loi n°75-1347 du 31 décembre 1975 - art. 1 () JORF 4 janvier 1976
+	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-07-11
+Version Consolidée au 1986-07-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5716,6 +5716,47 @@ des articles 46 quater-0 D à 46 quater-0 F de la présente annexe en vue de l'a
 	  - CGIAN3 46 quater-0 D à  46 quater-0 F, 223 sexies
 
 
+###### Article 46 quater-0 D
+
+I  Les distributions qui n'ouvrent pas droit à l'avoir fiscal prévu à l'article 158 bis du code général des impôts sont
+prélevés, par priorité, sur les bénéfices soumis à l'impôt sur les sociétés ou exonérés de cet impôt au titre du dernier
+exercice clos et, en cas d'insuffisance de ces bénéfices, sur ceux des exercices antérieurs les plus récents.
+
+II  Les distributions qui ouvrent droit à l'avoir fiscal sont prélevées ensuite dans l'ordre suivant :
+
+D'abord, sur les bénéfices disponibles qui ont été soumis à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa
+du I de l'article 219 du code déjà cité au titre du dernier exercice clos;
+
+Puis, sur les bénéfices disponibles qui ont été imposés à ce même taux au titre d'exercices antérieurs clos depuis cinq ans
+au plus;
+
+Enfin, sur tous autres bénéfices ou réserves disponibles.
+
+Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis cinq ans au plus, des produits de
+participations ouvrant droit au régime des sociétés mères, les distributions peuvent être librement imputées sur ces
+produits.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 bis
+	  - CGI 219 I al. 2
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGIAN3 46 QUATER-O E
+
+	**Modifié par**:
+
+	  - Loi n°75-1347 du 31 décembre 1975 - art. 1 () JORF 4 janvier 1976
+	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 ###### Article 46 quater-0 E
 
 I. Les bénéfices visés à l'article 46 quater-0 D s'entendent, pour chaque exercice, des bénéfices diminués du montant de
@@ -6256,6 +6297,46 @@ l'administration.
 
 ##### Sociétés agréées au régime du bénéfice consolidé.
 
+###### Article 46 quater-0 X
+
+Lorsqu'une société agréée visée à l'article 209 quinquies du code général des impôts opte pour le report en arrière des
+déficits prévu au I de l'article 220 quinquies du même code :
+
+1° Le bénéfice ou le déficit constaté au titre d'un exercice s'entend du résultat d'ensemble, défini à l'article 116 de
+l'annexe II au même code, que cette société a déclaré au titre de ce même exercice ;
+
+2° Le déficit d'un exercice ne peut être imputé sur le bénéfice d'un exercice clos antérieurement que dans la limite du plus
+petit des deux montants suivants :
+
+La fraction non distribuée de ce bénéfice ;
+
+Ou le montant obtenu en appliquant à ce même bénéfice un pourcentage égal à IF/IS ; à cet égard, IS est égal à la dette
+d'impôt sur les sociétés, au taux normal prévu au deuxième alinéa du I de l'article 219 du code général des impôts, pour
+l'exercice considéré ; IF est la part de cette dette qui a été acquittée sans utilisation des crédits mentionnés à l'article
+122 de l'annexe II au code précité.
+
+**Nota:**
+
+[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 4 JORF 10 avril 1990*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quinquies
+	  - CGI 220 quinquies I
+	  - CGIAN2 116
+	  - CGIAN2 122
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+
 ###### Article 46 quater-0 XB
 
 Lorsqu'une filiale dont les résultats sont pris en compte pour la détermination du résultat d'ensemble défini à l'article 46
@@ -6287,6 +6368,43 @@ imputables et remboursables au titre du même exercice.
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
+
+
+##### II : Sociétés agréées au régime de l'intégration fiscale.
+
+###### Article 46 quater-0 YC
+
+La société agréée mentionnée à l'article 46 quater-0 Y peut, dans le respect des dispositions prévues à l'article 46 quater-0
+YA, utiliser pour le paiement de l'impôt sur les sociétés les créances constatées par des filiales au titre d'exercices
+précédant celui à compter duquel leur résultat a été pris en compte pour la détermination de son résultat d'ensemble.
+
+Toutefois, cette utilisation ne peut intervenir que si le résultat de la filiale détenant la créance utilisée, pris en compte
+en application de l'article 209 sexies du code général des impôts, est positif et dans une limite égale au produit de ce
+résultat par le taux normal de l'impôt sur les sociétés prévu au deuxième alinéa du I de l'article 219 du code précité.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 68 A de la loi n° 87-1060 du 30 décembre 1987.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 sexies, 219
+	  - CGIAN3 46 quater-0 Y, 46 quater-0 YA
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 1
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 
 ##### Sociétés agréées au régime de l'intégration fiscale.
@@ -6529,6 +6647,32 @@ Le montant des dépenses communes, ventilées par catégorie, et leur répartiti
 
 ##### Section 0I ter : Déductions fiscales en faveur de certains investissements réalisés outre-mer.
 
+###### Article 46 quaterdecies A
+
+Les investissements productifs que les entreprises soumises à l'impôt sur les sociétés ou assujetties à un régime réel
+d'imposition peuvent, déduire de leurs résultats imposables en vertu de l'article 238 bis HA-I du code général des impôts
+s'entendent des acquisitions ou créations d'immobilisations neuves, amortissables, affectées aux opérations professionnelles
+des établissements exploités dans les départements d'outre-mer [*DOM*] et appartenant aux secteurs d'activité de l'industrie,
+de la pêche, de l'h<cb>tellerie, du tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics,
+des transports et de l'artisanat.
+
+</cb>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HA I
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 ###### Article 46 quaterdecies B
 
 Les activités qui relèvent du secteur industriel sont celles qui concourent directement à l'élaboration ou à la
@@ -6550,6 +6694,98 @@ liste fixée par arrêté du ministre du budget (1).
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+###### Article 46 quaterdecies E
+
+Les souscriptions dont la déduction est autorisée par le II de l'article 238 bis HA du code général des impôts ou qui ouvrent
+droit à la réduction d'impôt prévue à l'article 199 undecies du même code s'entendent des souscriptions en numéraire au
+capital des sociétés de développement régional des départements d'outre-mer et des entreprises passibles de l'impôt sur les
+sociétés exploitées dans les départements d'outre-mer et qui exercent exclusivement leur activité dans le secteur industriel
+au sens de l'article 46 quaterdecies B ou dans les secteurs de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelle,
+de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat.
+
+La valeur d'origine des éléments d'actif autres que ceux nécessaires à l'exercice de l'activité ouvrant droit à déduction ne
+doit pas excéder 10 % du montant total de l'actif brut de la société.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies
+	  - CGI 238 bis HA II
+	  - CGIAN3 46 quaterdecies B
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet  1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 46 quaterdecies G
+
+Lorsqu'un contribuable entend bénéficier de la déduction prévue par le II de l'article 238 bis HA du code général des impôts
+ou de la réduction d'impôt prévue par l'article 199 undecies du même code à raison de la souscription d'actions ou de parts
+d'une société mentionnée à l'article 46 quaterdecies E, il fait connaître son intention à cette société au plus tard le 31
+décembre de l'année de la souscription [*date limite*]. Si la souscription a été reçue par un intermédiaire agréé au sens de
+l'article 75-0 J de l'annexe II au code précité le contribuable fait connaître à cet intermédiaire son intention de
+bénéficier de la déduction ou de la réduction d'impôt.
+
+Dans ce cas, la société ou l'intermédiaire agréé délivre au contribuable une attestation indiquant [*mentions*] le montant
+des fonds versés, la date du versement, le nombre des parts ou actions souscrites et, le cas échéant, leurs numéros. 
+
+L'attestation précise qu'elle est délivrée pour l'application des dispositions du II de l'article 238 bis HA du code général
+des impôt et de l'article 199 undecies du même code et que la société bénéficiaire de l'apport exerce son activité dans les
+conditions prévues à l'article 46 quaterdecies E.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies
+	  - CGI 238 bis HA II
+	  - CGIAN2 75-0 J
+	  - CGIAN3 46 quaterdecies E
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 46 quaterdecies I
+
+Les souscriptions qui donnent lieu à l'établissement de l'attestation prévue à l'article 46 quaterdecies G ne sont pas
+susceptibles d'ouvrir droit à la détaxation du revenu investi en actions prévue par l'article 163 sexies du code général des
+impôts. 
+
+Les sociétés bénéficiaires des apports ou les intermédiaires agréés qui ont reçu des souscriptions au titre desquelles le
+souscripteur a déclaré se placer sous le régime de déduction prévu par le II de l'article 238 bis HA du code général des
+impôts et l'article 199 undecies du même code ne prennent pas en compte ces opérations pour le calcul du solde annuel des
+acquisitions et des cessions à faire figurer sur les états qu'ils délivrent pour l'application du régime de détaxation du
+revenu investi en actions en vertu de l'article 163 sexies du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 sexies
+	  - CGI 199 undecies CGIAN3 46 quaterdecies G
+	  - CGI 238 bis HA II
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF du 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer
@@ -6601,6 +6837,56 @@ Si l'immobilisation fait l'objet d'un contrat de crédit-bail, la déduction est
 
 	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quaterdecies F
+
+Si les actions ou parts souscrites figurent à l'actif d'une entreprise, celle-ci pratique la déduction sur ses résultats
+imposables, déterminés avant tout autre déduction ou abattement, de l'exercice au cours duquel les fonds ont été versés. 
+
+En cas de versements échelonnés, ceux-ci sont pris en compte au titre de chacun des exercices ou années au cours desquels ils
+ont été effectués.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quaterdecies H
+
+Pour bénéficier de la déduction de leurs souscriptions ou de la réduction d'impôt à laquelle celles-ci ouvrent droit, les
+contribuables joignent, selon le cas, à leur déclaration de bénéfices ou de revenus l'attestation qui leur a été remise
+conformément à l'article 46 quaterdecies G.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 quaterdecies G
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
 
 
 ##### Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur
