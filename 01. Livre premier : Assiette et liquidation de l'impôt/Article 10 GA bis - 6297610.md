@@ -9,7 +9,7 @@ immobilisation amortissable est crédité du montant total des amortissements qu
 application des règles fiscales françaises depuis la date d'acquisition du bien par la filiale étrangère.
 
 Les immobilisations dont la durée d'utilisation n'est pas achevée continuent à être amorties d'après la valeur d'origine et
-selon les mêmes modalités que celles qui sont retenues pour le calcul des amortissements mentionnés à l'alinéa précédent.
+selon les mêmes modalités que celles qui sont retenues pour le calcul des amortissements mentionnés au deuxième alinéa.
 
 II. - Les éléments du bilan de départ et des bilans suivants qui correspondent à des établissements ou à des participations
 dans des filiales qui ont pour objet l'activité de commercialisation définie au I de l'article 39 octies B du code général
@@ -25,13 +25,13 @@ impôts sont inscrites distinctement au passif du bilan de la filiale étrangèr
 
 	  - CGI 39 octies B I, III
 
-	**Modifié par**:
-
-	  - Décret n°88-593 du 6 mai 1988 - art. 1 (V) JORF 8 mai 1988
-
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2002-923 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Cité par**:
 
@@ -41,4 +41,4 @@ impôts sont inscrites distinctement au passif du bilan de la filiale étrangèr
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2002

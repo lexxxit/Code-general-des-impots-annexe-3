@@ -33,7 +33,7 @@ dessus, en application des dispositions du troisième alinéa de l'article 223 R
 
 8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies et 44 decies du code général
 des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme
-d'ensemble exonérés en application du III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies du code
+d'ensemble exonérés en application du III de l'article 44 octies et du neuvième alinéa du I de l'article 44 decies du code
 général des impôts.
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
@@ -47,12 +47,12 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002

@@ -13,13 +13,13 @@ c. Soit à l'acquisition de participations dans des sociétés ou organismes aya
 l'exploitation des minerais figurant sur la liste visée à l'article 10 C quinquies ou d'améliorer la récupération des
 substances minérales comprises dans ces mêmes minerais.
 
-Le terme "participations" s'entend, au sens de l'alinéa précédent, des actions ou des parts d'intérêts ainsi que des sommes
-avancées aux sociétés ou organismes ci-dessus visés et effectivement destinées à être investies par ces sociétés et
-organismes dans des travaux de recherche ou de récupération des substances minérales considérées.
+Le terme "participations" s'entend, au sens du c, des actions ou des parts d'intérêts ainsi que des sommes avancées aux
+sociétés ou organismes ci-dessus visés et effectivement destinées à être investies par ces sociétés et organismes dans des
+travaux de recherche ou de récupération des substances minérales considérées.
 
 II. Lorsque le remploi de la provision est effectué pour la mise en valeur de gisements situés hors de la France
-métropolitaine, des départements et territoires d'outre-mer [*DOM - TOM*], sa validité est subordonnée à un agrément du
-ministre de l'économie et des finances, après avis du ministre du développement industriel et scientifique.
+métropolitaine, des départements et territoires d'outre-mer, sa validité est subordonnée à un agrément du ministre de
+l'économie et des finances, après avis du ministre du développement industriel et scientifique.
 
 **Liens relatifs à cet article**
 
@@ -27,6 +27,18 @@ ministre de l'économie et des finances, après avis du ministre du développeme
 
 	  - CGIAN3 10 C quinquies
 
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002

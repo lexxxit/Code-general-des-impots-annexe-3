@@ -1,8 +1,8 @@
 # Article 2 quaterdecies
 
-I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables
-sont tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle a pris effet la location dont les
-revenus peuvent bénéficier de la déduction forfaitaire majorée :
+I. - Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables sont
+tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle a pris effet la location dont les revenus
+peuvent bénéficier de la déduction forfaitaire majorée :
 
 1° Une note annexe, établie sur un imprimé fourni par l'administration, qui comporte les éléments suivants :
 
@@ -37,17 +37,13 @@ titre de l'avant-dernière année précédant celle de la signature du contrat d
 	  - CGIAN3 2 duodecies
 	  - Décret n°99-244 1999-03-29
 
-	**Créé par**:
-
-	  - Décret n°99-244 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
-
 	**Codifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°99-382 du 18 mai 1999 - art. 3 () JORF 20 mai 1999
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Cité par**:
 
@@ -56,4 +52,4 @@ titre de l'avant-dernière année précédant celle de la signature du contrat d
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2002

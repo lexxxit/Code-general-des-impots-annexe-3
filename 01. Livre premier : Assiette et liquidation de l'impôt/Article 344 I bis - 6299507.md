@@ -7,7 +7,7 @@ douanes, y compris pour les transferts en provenance ou à destination de la Pri
 2. En cas de transfert vers ou en provenance des territoires d'outre-mer ou des collectivités territoriales de Mayotte ou
 Saint-Pierre-et-Miquelon, les personnes physiques déclarent à l'administration des douanes les sommes, titres ou valeurs
 objet des transferts qu'elles réalisent pour leur propre compte ou pour celui d'autrui, lorsqu'ils sont égaux ou supérieurs à
-50 000 F.
+7 600 euros.
 
 3. Les dispositions des 1 et 2 sont applicables aux envois postaux.
 
@@ -19,22 +19,16 @@ objet des transferts qu'elles réalisent pour leur propre compte ou pour celui d
 
 	  - CGI 1649 quater A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-1119 du 18 décembre 1990 - art. 1 (Ab) JORF 19 décembre 1990
-	  - Décret n°90-1119 du 18 décembre 1990 - art. 2 (Ab) JORF 19 décembre 1990
-	  - Décret n°90-1119 du 18 décembre 1990 - art. 3 (Ab) JORF 19 décembre 1990
-	  - Décret n°90-1119 du 18 décembre 1990 - art. 4 (Ab) JORF 19 décembre 1990
+	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°91-883 1991-09-09
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies A (P)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies B (P)
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991

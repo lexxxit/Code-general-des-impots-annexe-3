@@ -7,12 +7,12 @@ mentionnés à l'article 381 bis.
 
 	**Cite**:
 
-	  - CGI 378, 379, 381, 380, 381 bis
+	  - CGIAN3 378, 379, 381, 380, 381 bis
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
+	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002

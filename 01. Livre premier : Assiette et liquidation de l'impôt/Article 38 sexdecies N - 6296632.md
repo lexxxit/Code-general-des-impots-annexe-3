@@ -1,24 +1,15 @@
 # Article 38 sexdecies N
 
-I. Les récoltes comprises dans le stock d'entrée du premier exercice dont les résultats sont déterminés selon le régime
-normal d'imposition d'après le bénéfice réel sont évaluées d'après leur valeur au 31 décembre de l'année au cours de laquelle
-elles ont été levées.
-
-Elles sont reprises pour la même valeur dans les inventaires suivants, dans la mesure où elles n'ont pas encore été vendues.
-
-II. (Transféré sous l'article 38 sexdecies OC).
+En cas de passage du régime du forfait à un régime réel d'imposition, les recettes et les dépenses se rapportant à des
+créances et à des dettes nées sous le régime du forfait ne sont pas retenues pour la détermination du bénéfice selon un
+régime réel.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 38 sexdecies OC
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-
 	**Modifié par**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1

@@ -6,10 +6,10 @@ Pour l'application des premier et deuxième alinéas du I de l'article 220 quinq
 taux normal prévu au deuxième alinéa du I de l'article 219 du code précité ;
 
 1° bis : Le bénéfice constaté au titre d'un exercice s'entend du bénéfice fiscal déclaré qui a été soumis à l'impôt sur les
-sociétés au taux normal prévu au deuxième alinéa du I de l'article 219 du code général des impôts, à l'exclusion de la
-fraction de ce bénéfice qui a été distribuée, de celle qui a donné lieu à un impôt payé au moyen d'avoirs fiscaux ou de
-crédits d'impôt et de celle qui a été prise en compte pour la détermination du crédit d'impôt prévu aux articles 220 quater
-et 220 quater A du même code ;
+sociétés indifféremment aux taux prévus au deuxième alinéa et au b du I de l'article 219 du code général des impôts, à
+l'exclusion de la fraction de ce bénéfice qui a été distribuée, de celle qui a donné lieu à un impôt payé au moyen d'avoirs
+fiscaux ou de crédits d'impôt et de celle qui a été prise en compte pour la détermination du crédit d'impôt prévu aux
+articles 220 quater et 220 quater A du même code ;
 
 2° La fraction non distribuée du bénéfice défini au 1° bis est obtenue en déduisant de ce bénéfice le montant des
 distributions effectuées par prélèvement sur ce même bénéfice ;
@@ -25,8 +25,8 @@ continue d'être reportable dans les conditions prévues au I de l'article 209 d
 
 	**Modifié par**:
 
-	  - Décret n°90-315 du 9 avril 1990 - art. 1 () JORF 10 avril 1990
+	  - Décret n°2001-306 du 4 avril 2001 - art. 4 () JORF 10 avril 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2002

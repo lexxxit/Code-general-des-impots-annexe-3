@@ -10,28 +10,25 @@ cession d'immobilisations.
 De même, les résultats des opérations effectuées par les établissements ou filiales mentionnés au II de l'article 10 GA bis
 ainsi que les charges ou produits résultant de leur détention ne sont pas pris en considération.
 
-Les résultats mentionnés au premier alinéa sont convertis en francs français sur la base du taux de change en vigueur à la
-clôture de l'exercice de la filiale étrangère.
+Les résultats mentionnés au premier alinéa sont convertis en euros sur la base du taux de change en vigueur à la clôture de
+l'exercice de la filiale étrangère.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 39 octies B I, III
-	  - CGIAN3 10 GA bis II
+	  - CGI 39 octies B
+	  - CGIAN3 10 GA bis
 
 	**Modifié par**:
 
-	  - Décret n°88-593 du 6 mai 1988 - art. 2 (V) JORF 8 mai 1988
+	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quater (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988

@@ -2,7 +2,7 @@
 
 Pour la première année, la déduction calculée sur les bases d'amortissement mentionnées à l'article 2 novodecies est admise
 dans la proportion existant entre, d'une part, le nombre de mois décompté à partir de celui mentionné aux premier, deuxième
-et septième alinéas du g du 1° du I de l'article 31 du code général des impôts jusqu'à la fin de l'année, et, d'autre part,
+et neuvième alinéas du g du 1° du I de l'article 31 du code général des impôts jusqu'à la fin de l'année, et, d'autre part,
 le nombre 12.
 
 Lorsque la déduction au titre de l'amortissement prend fin en cours d'année, elle est admise dans la proportion existant
@@ -11,7 +11,7 @@ d'amortissement et, d'autre part, le nombre 12.
 
 Lorsque le taux d'amortissement est réduit de 8 % à 2,5 % en cours d'année, chaque période est décomptée selon les modalités
 définies aux premier et deuxième alinéas. Il en est de même l'année de reprise de l'engagement par le conjoint survivant
-prévue aux cinquième et huitième alinéas du g du 1° du I de l'article 31 du code général des impôts.
+prévue aux cinquième et dixième alinéas du g du 1° du I de l'article 31 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -20,10 +20,14 @@ prévue aux cinquième et huitième alinéas du g du 1° du I de l'article 31 du
 	  - CGI 31
 	  - CGIAN3 2 novodecies
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°99-244 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Décret n°2002-923 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2002

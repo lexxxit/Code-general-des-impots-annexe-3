@@ -18,7 +18,16 @@ l'expiration de la période. En matière de taxe sur les salaires, l'option s'ap
 versés à compter de la date d'effet de l'option.
 
 III. - Les dispositions des I et II s'appliquent aux paiements dans les mêmes conditions que celles prévues à l'article 344-0
-C.
+C. Toutefois, les impositions mentionnées au II dues au titre d'une période antérieure à la date à compter de laquelle le
+redevable relève du service chargé des grandes entreprises peuvent être établies et recouvrées par ce même service.
+
+IV. - Par exception aux dispositions des articles 344-0 A à 344-0 C et des I et II, les rôles, autres que ceux relatifs aux
+impôts locaux et à leurs taxes additionnelles et annexes, ou avis de mise en recouvrement émis en vue du recouvrement des
+impositions qui ont fait l'objet, ou auraient dû faire l'objet, d'une déclaration ou d'un paiement auprès du service chargé
+des grandes entreprises, sont établis soit par ce service, soit par le service déconcentré dans le ressort duquel est situé
+le lieu d'imposition. Ces dispositions s'appliquent également au rôle ou à l'avis de mise en recouvrement émis par le service
+chargé des grandes entreprises en vue du recouvrement d'une imposition qui aurait dû faire l'objet d'une déclaration ou d'un
+paiement auprès du service déconcentré dans le ressort duquel est situé le lieu d'imposition.
 
 **Liens relatifs à cet article**
 
@@ -27,17 +36,17 @@ C.
 	  - CGI 223 septies, 234 nonies, 235 ter ZA, 235 ter ZC, 231
 	  - CGIAN3 344-0 A, 344-0 B, 344-0 C
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1218 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-1218 du 13 décembre 2000 - art. 2 (V)
-	  - HISTO: Edition du 31 mars 2001
+	  - Décret n°2001-1260 du 21 décembre 2001 - art. 1 () JORF 28 décembre 2001
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
+	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02

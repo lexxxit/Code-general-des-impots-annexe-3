@@ -10,8 +10,9 @@ b. Le tableau des immobilisations et des amortissements et le compte simplifié 
 code général des impôts sont reportés sur le livre d'inventaire ;
 
 c. La déclaration annuelle des résultats qui est faite sur un imprimé établi par l'administration comporte un compte
-simplifié de résultat fiscal et un tableau des immobilisations et des amortissements ; les pièces annexes mentionnées au II
-de l'article 38 ne sont pas produites, à l'exception, pour les sociétés, des listes prévues aux 1° et 2° du deuxième alinéa.
+simplifié de résultat fiscal, un tableau des immobilisations et des amortissements, un relevé des provisions et un état des
+provisions non déductibles ; les pièces annexes mentionnées au II de l'article 38 ne sont pas produites, à l'exception, pour
+les sociétés, des listes prévues aux 1° et 2°.
 
 **Liens relatifs à cet article**
 
@@ -22,7 +23,12 @@ de l'article 38 ne sont pas produites, à l'exception, pour les sociétés, des 
 
 	**Modifié par**:
 
-	  - Décret n°2000-270 du 21 mars 2000 - art. 2 () JORF 24 mars 2000
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
 
 	**Cité par**:
 
@@ -31,4 +37,4 @@ de l'article 38 ne sont pas produites, à l'exception, pour les sociétés, des 
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002

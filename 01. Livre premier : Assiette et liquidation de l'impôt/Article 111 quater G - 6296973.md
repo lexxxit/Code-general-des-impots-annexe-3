@@ -15,7 +15,7 @@ indications nécessaires à l'assiette et à la perception de la redevance.
 
 Cette déclaration doit être remise par chaque redevable à la recette des impôts dont dépend le lieu d'abattage ou de
 traitement du gibier sauvage avant le 25 du mois suivant celui au cours duquel les opérations imposables ont été réalisées.
-La redevance doit être acquittée dans le même délai. Lorsque son montant est inférieur à 1 000 F par mois, les redevables
+La redevance doit être acquittée dans le même délai. Lorsque son montant est inférieur à 150 euros par mois, les redevables
 sont admis à déposer leur déclaration et à payer la redevance correspondante par trimestre.
 
 Lors du dépôt de la déclaration, le redevable adresse au directeur départemental de l'agriculture et de la forêt un relevé
@@ -29,17 +29,18 @@ d'application.
 
 	**Cite**:
 
-	  - CGI 1649 ter C
+	  - CGI 286 quater
 
 	**Modifié par**:
 
-	  - Décret n°98-334 du 29 avril 1998 - art. 1 () JORF 7 mai 1998
+	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater L (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999

@@ -4,11 +4,12 @@ I. Les immeubles bâtis ou non bâtis appartenant à l'exploitant et utilisés p
 obligatoirement inscrits à l'actif du bilan.
 
 Toutefois, le redevable peut demander de conserver les terres dans son patrimoine privé, à la condition de faire connaître
-son choix au plus tard lors de la déclaration des résultats du troisième exercice au titre duquel il est imposé d'après le
-régime du bénéfice réel.
+son choix au plus tard lors de la déclaration des résultats du troisième exercice au titre duquel il est imposé d'après un
+régime de bénéfice réel.
 
 L'option ainsi exercée s'applique à la totalité des terres dont l'exploitant est propriétaire, ou qu'il acquiert pendant la
-durée de l'option. Elle est valable quinze ans et renouvelable tacitement au terme de chaque période de quinze ans.
+durée de l'option. Elle est valable quinze exercices et renouvelable tacitement au terme de chaque période de quinze
+exercices.
 
 L'exploitant peut renoncer à l'option pour l'ensemble des terres qu'il acquiert à titre onéreux pendant le délai restant à
 courir jusqu'à l'expiration de cette période. Cette renonciation doit être formulée lors de la déclaration de résultat de
@@ -18,8 +19,9 @@ La maison d'habitation dont l'exploitant est propriétaire peut être inscrite �
 l'exploitation et qu'elle ne présente pas le caractère d'une maison de maître.
 
 II. Peuvent être considérés comme des immobilisations amortissables les équidés et les bovidés utilisés comme animaux de
-trait ou affectés exclusivement à la reproduction ainsi que les chevaux de course mis à l'entraînement et âgés de deux ans au
-moins au sens de la réglementation des courses.
+trait ou affectés exclusivement à la reproduction ainsi que les chevaux de course mis à l'entrainement et les chevaux de
+concours soumis à un entraînement en vue de la compétition, âgés de deux ans au moins au sens de la réglementation des
+courses.
 
 Lorsque l'exploitant est assujetti à la taxe sur la valeur ajoutée, l'application de cette disposition est subordonnée à la
 condition qu'il exerce le même choix pour l'établissement de cette taxe.
@@ -30,8 +32,8 @@ Tous les autres animaux, y compris ceux nés dans l'exploitation, sont obligatoi
 
 	**Modifié par**:
 
-	  - Décret n°88-196 du 26 février 1988 - art. 1 (V) JORF 28 février 1988
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2002

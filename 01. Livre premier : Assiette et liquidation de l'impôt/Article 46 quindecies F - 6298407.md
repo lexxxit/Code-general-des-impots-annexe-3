@@ -4,7 +4,7 @@ Les sociétés de réalisation mentionnées au a de l'article 238 bis HG du code
 oeuvre cinématographique ou audiovisuelle une attestation indiquant que l'oeuvre remplit les conditions prévues pour l'octroi
 de l'agrément mentionné à l'article 238 bis HE du même code.
 
-Le ministre de la culture délivre, à la demande des sociétés concernées, les attestations visées à l'alinéa précédent.
+Le ministre de la culture délivre, à la demande des sociétés concernées, les attestations visées au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -12,14 +12,14 @@ Le ministre de la culture délivre, à la demande des sociétés concernées, le
 
 	  - CGI 238 bis HE, 238 bis HG
 
-	**Créé par**:
-
-	  - Décret n°85-982 du 17 septembre 1985 - art. 7 (V) JORF 18 septembre 1985
-
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2002-923 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 2002

@@ -17,8 +17,8 @@ d) Le nombre des titres souscrits, le montant et la date de leur souscription ;
 e) La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de
 capital.
 
-Cet état doit préciser que la société remplit les conditions mentionnées aux a, b et c du deuxième alinéa du I de l'article
-199 terdecies-0 A du code général des impôts.
+Cet état doit préciser que la société remplit les conditions mentionnées aux a, b et c du I de l'article 199 terdecies-0 A du
+code général des impôts.
 
 II. Pour bénéficier de la réduction d'impôt, le contribuable joint à sa déclaration de revenus les documents qui lui ont été
 remis conformément au I.
@@ -42,12 +42,12 @@ apports en numéraire.
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 102 (V) JORF 1er juin 1997
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002

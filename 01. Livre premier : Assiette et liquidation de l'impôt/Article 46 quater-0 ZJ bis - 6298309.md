@@ -30,7 +30,7 @@ b) La somme ainsi calculée est imputée sur le déficit encore reportable subi 
 c) La partie du déficit qui demeure imputable dans les conditions prévues au 5 de l'article 223 I du code général des impôts
 est réduite à due concurrence.
 
-Les règles mentionnées au premier alinéa s'appliquent également à la fraction du déficit qui correspond à des amortissements
+Les règles mentionnées aux a, b et c s'appliquent également à la fraction du déficit qui correspond à des amortissements
 réputés différés en période déficitaire.
 
 **Liens relatifs à cet article**
@@ -39,11 +39,15 @@ réputés différés en période déficitaire.
 
 	  - CGI 223 I, 223 L, 209, 223, 223 R
 
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
+
 	**Modifié par**:
 
-	  - Décret n°96-893 du 10 octobre 1996 - art. 1 () JORF 13 octobre 1996
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2002
 	  - TXT_ASSOCIE: Instruction 1997-05-30 4H-4-97

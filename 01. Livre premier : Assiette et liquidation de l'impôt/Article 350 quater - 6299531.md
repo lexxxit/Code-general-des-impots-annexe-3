@@ -2,11 +2,11 @@
 
 I. - La direction générale des douanes et droits indirects exerce les compétences prévues :
 
-1° Aux articles 306, 321, 412, 426, 427, 450, 454, 560, 1562, 1565 septies du code général des impôts ; 
+1° Aux articles 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies du code général des impôts ; 
 
 2° Au premier alinéa de l'article 444 du code général des impôts ;
 
-3° A l'article 511 bis du code général des impôts.
+3° A l'article 511 bis du code général des impôts ;
 
 4° A l'article 570 du code général des impôts ;
 
@@ -19,7 +19,7 @@ II. La direction générale des douanes et droits indirects exerce :
 
 1° Les attributions prévues à l'article 319 du code général des impôts ;
 
-2° (Sans objet).
+2° (Dispositions devenues sans objet).
 
 3° Le monopole de vente au détail mentionné au premier alinéa de l'article 568 du code général des impôts.
 
@@ -37,16 +37,16 @@ du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 306, 321, 412, 426, 427, 450, 454, 560, 1562, 1565 septies, 444, 511 bis, 570, 625, 319, 568, 304, 330, 541
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
+	  - CGI 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies, 444, 511 bis, 570, 625, 319, 568, 304, 330, 541
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002
+
+	**Modifié par**:
+
+	  - Loi - art. 60 (V) JORF 29 décembre 2001
+
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06

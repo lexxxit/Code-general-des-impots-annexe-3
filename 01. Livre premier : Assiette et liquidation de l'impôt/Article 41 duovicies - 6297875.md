@@ -4,15 +4,15 @@ Les terrains à usage agricole ou forestier et les terrains supportant une const
 articles 150 A à 150 T du code général des impôts lorsque le prix de cession ou l'indemnité d'expropriation n'excède pas au
 mètre carré :
 
-26 F pour les vignobles à appellation contrôlée et les cultures florales;
+3,96 euros pour les vignobles à appellation contrôlée et les cultures florales ;
 
-9 F pour les cultures fruitières et maraîchères;
+1,37 euro pour les cultures fruitières et maraîchères ;
 
-7 F pour les vignobles produisant des vins délimités de qualité supérieure;
+1,07 euro pour les vignobles produisant des vins délimités de qualité supérieure ;
 
-5 F pour les vignobles autres qu'à appellation contrôlée;
+0,76 euro pour les vignobles autres qu'à appellation contrôlée ;
 
-4 F pour les autres terrains agricoles.
+0,61 euro pour les autres terrains agricoles.
 
 **Liens relatifs à cet article**
 
@@ -20,6 +20,17 @@ mètre carré :
 
 	  - CGI 150 A à CGI 150 T
 
+	**Abrogé par**:
+
+	  - Décret n°2003-1386 du 31 décembre 2003 - art. 2 (V) JORF 1er janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 31 mars 2002
+
 	**Modifié par**:
 
-	  - Décret n°91-334 du 4 avril 1991 - art. 1 () JORF 6 avril 1991
+	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
+	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002

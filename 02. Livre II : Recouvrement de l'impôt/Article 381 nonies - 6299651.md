@@ -7,10 +7,14 @@ désignation et l'adresse du siège de la direction de la personne morale ou de 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
+	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002

@@ -10,9 +10,9 @@ cette annuité, sur la valeur nette que l'immobilisation amortissable avait, du 
 société du groupe qui a effectué la première cession à une autre société du même groupe. Cette dernière valeur est, le cas
 échéant, diminuée des amortissements différés en contravention aux dispositions de l'article 39 B du code déjà cité.
 
-En cas de cessions successives d'un même bien à l'intérieur du groupe, les valeurs nettes mentionnées à l'alinéa précédent
-sont diminuées, lors de chaque cession, d'une somme égale aux amortissements calculés sur ces mêmes valeurs et admis en
-déduction du résultat d'ensemble depuis la précédente cession.
+En cas de cessions successives d'un même bien à l'intérieur du groupe, les valeurs nettes mentionnées au premier alinéa sont
+diminuées, lors de chaque cession, d'une somme égale aux amortissements calculés sur ces mêmes valeurs et admis en déduction
+du résultat d'ensemble depuis la précédente cession.
 
 2. Comprendre dans le résultat ou plus-value ou moins-value nette à long terme d'ensemble de l'exercice de cession hors du
 groupe d'une immobilisation la plus-value ou la moins-value calculée par différence entre :
@@ -46,9 +46,13 @@ Pour une immobilisation non amortissable, son prix d'acquisition par la sociét�
 
 	  - CGI 223 F, 39 B, 210 A
 
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
+
 	**Modifié par**:
 
-	  - Décret n°90-552 du 3 juillet 1990 - art. 2 (V) JORF 5 juillet 1990
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Cité par**:
 
@@ -56,4 +60,4 @@ Pour une immobilisation non amortissable, son prix d'acquisition par la sociét�
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2002

@@ -1,14 +1,14 @@
 # Article 2 duodecies
 
-Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
-de ressources du locataire sont les suivants :
+Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
+ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2001, les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 67 F par mètre carré en zone I bis, 57 F en zone I, 37 F en zone II et 32 F en zone III. Les plafonds sont
-relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de
-l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique et des études
-économiques. La moyenne mentionnée ci-dessus est celle du dernier indice connu à la date de référence et des indices des
-trois trimestres qui précèdent.
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2002, les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 11 euros par mètre carré en zone I bis, 9,5 euros en zone I, 6 euros en zone II et 5,5 euros en zone III. Les
+plafonds sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre
+trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique et des
+études économiques. La moyenne mentionnée ci-dessus est celle du dernier indice connu à la date de référence et des indices
+des trois trimestres qui précèdent.
 
 Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
 logement.
@@ -17,11 +17,11 @@ La surface à prendre en compte pour l'appréciation du plafond de loyer s'enten
 R. 111-2 du code de la construction et de l'habitation, augmentée de la moitié, dans la limite de 8 mètres carrés par
 logement, de la surface des annexes mentionnées aux articles R. 353-16 et R. 331-10 du même code ;
 
-b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du V de l'article 1417 du code général
-des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du
-contrat de location.
+b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
+général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
+signature du contrat de location.
 
-Pour les baux conclus en 2001, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2002, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION du foyer locataire :
 
@@ -29,9 +29,9 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 120 150
+Ile-de-France : 19 058 euros
 
-Province (en francs) : 100 310 
+Province : 15 911 euros
 
 COMPOSITION du foyer locataire :
 
@@ -39,9 +39,9 @@ Couple marié
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 197 460
+Ile-de-France : 31 321 euros
 
-Province (en francs) : 153 590 
+Province : 24 362 euros
 
 COMPOSITION du foyer locataire :
 
@@ -49,9 +49,9 @@ Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 237 170
+Ile-de-France : 37 620 euros
 
-Province (en francs) : 183 880 
+Province : 29 167 euros
 
 COMPOSITION du foyer locataire :
 
@@ -59,9 +59,9 @@ Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 283 130
+Ile-de-France : 44 910 euros
 
-Province (en francs) : 222 540 
+Province : 35 299 euros
 
 COMPOSITION du foyer locataire :
 
@@ -69,9 +69,9 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 335 380
+Ile-de-France : 53 197 euros
 
-Province (en francs) : 261 200 
+Province : 41 431 euros
 
 COMPOSITION du foyer locataire :
 
@@ -79,9 +79,9 @@ Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 377 160
+Ile-de-France : 59 824 euros
 
-Province (en francs) : 294 630 
+Province : 46 734 euros
 
 COMPOSITION du foyer locataire :
 
@@ -89,9 +89,9 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : + 42 840
+Ile-de-France : + 6 796 euros
 
-Province (en francs) : + 33 440 
+Province : + 5 305 euros
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
 Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
@@ -100,6 +100,23 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 196 B du code général des impôts.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31, 1417, 196 à 196 B
+	  - Code de la construction et de l'habitation R111-2, R353-16, R331-10
+	  - Code de la construction et de l'habitation. - art. R331-10 (M)
+	  - Code de la construction et de l'habitation. - art. R353-16 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-656 2000-07-13 art. 11 IV Finances rectificative pour 2000 JORF 14 juillet 2000
+	  - Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
 
 	**Cité par**:
 
@@ -119,21 +136,6 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies B (V)
 
-	**Cite**:
-
-	  - CGI 31, 1417, 196 à 196 B
-	  - Code de la construction et de l'habitation R111-2, R353-16, R331-10
-	  - Code de la construction et de l'habitation. - art. R331-10 (M)
-	  - Code de la construction et de l'habitation. - art. R353-16 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Modifié par**:
-
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 mars 2002

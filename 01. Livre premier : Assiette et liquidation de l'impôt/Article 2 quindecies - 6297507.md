@@ -37,10 +37,9 @@ Si le logement n'est pas loué au moment du dépôt de la déclaration des reven
 son acquisition ou si elle est postérieure, les documents mentionnés aux 2° et 3° sont joints à la déclaration des revenus de
 l'année en cours de laquelle le bail est signé.
 
-II. - L'engagement de location prévu au 1 du sixième alinéa du g du 1° du I de l'article 31 du code général des impôts doit
-être formulé dans une note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un
-modèle fixé par l'administration et comportant l'indication des modalités de décompte de la déduction au titre de
-l'amortissement.
+II. - L'engagement de location prévu au 1 du g du 1° du I de l'article 31 du code général des impôts doit être formulé dans
+une note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par
+l'administration et comportant l'indication des modalités de décompte de la déduction au titre de l'amortissement.
 
 III. - L'option prévue au cinquième alinéa du g du 1° du I de l'article 31 du code général des impôts doit être formulée dans
 une note établie conformément à un modèle fixé par l'administration, qui doit être jointe à la déclaration des revenus
@@ -64,9 +63,13 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 	  - CGIAN3 2 terdecies
 	  - Code de l'urbanisme - art. R421-40 (Ab)
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°99-244 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Décret n°2002-923 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Cité par**:
 
@@ -77,4 +80,4 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2002

@@ -1,7 +1,7 @@
 # Article 38 septdecies
 
-Les dispositions du 1° bis de l'article 83 et du dernier alinéa de l'article 158 du code général des impôts, qui déterminent
-le régime fiscal applicable, en matière d'impôt sur le revenu, aux cotisations afférentes au régime de retraite
+Les dispositions du 1° bis de l'article 83 et du septième alinéa du 6 de l'article 158 du code général des impôts, qui
+déterminent le régime fiscal applicable, en matière d'impôt sur le revenu, aux cotisations afférentes au régime de retraite
 complémentaire institué par la caisse nationale de prévoyance de la fonction publique et aux arrérages versés par cet
 organisme, sont étendues au régime de retraite complémentaire institué par le comité de gestion des oeuvres sociales des
 établissements publics d'hospitalisation, de soins, de cure et de prévention relevant du ministère des affaires sociales.
@@ -18,14 +18,13 @@ titre onéreux défini au 6 de l'article 158 du code général des impôts.
 
 	  - CGI 83, 158 6
 
-	**Modifié par**:
-
-	  - Décret n°89-543 du 4 août 1989 - art. 1 (V) JORF 5 août 1989
-	  - Décret n°89-543 du 4 août 1989 - art. 2 (V) JORF 5 août 1989
-
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°2002-923 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
 
 	**Cité par**:
 
@@ -33,4 +32,4 @@ titre onéreux défini au 6 de l'article 158 du code général des impôts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 2002
