@@ -1,16 +1,16 @@
 # Article 46 quater-0 D
 
-I  Les distributions qui n'ouvrent pas droit à l'avoir fiscal prévu à l'article 158 bis du code général des impôts sont
+I. Les distributions qui n'ouvrent pas droit à l'avoir fiscal prévu à l'article 158 bis du code général des impôts sont
 prélevés, par priorité, sur les bénéfices soumis à l'impôt sur les sociétés ou exonérés de cet impôt au titre du dernier
 exercice clos et, en cas d'insuffisance de ces bénéfices, sur ceux des exercices antérieurs les plus récents.
 
-II  Les distributions qui ouvrent droit à l'avoir fiscal sont prélevées ensuite dans l'ordre suivant :
+II. Les distributions qui ouvrent droit à l'avoir fiscal sont prélevées ensuite dans l'ordre suivant :
 
 D'abord, sur les bénéfices disponibles qui ont été soumis à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa
 du I de l'article 219 du code déjà cité au titre du dernier exercice clos;
 
 Puis, sur les bénéfices disponibles qui ont été imposés à ce même taux au titre d'exercices antérieurs clos depuis cinq ans
-au plus;
+au plus ;
 
 Enfin, sur tous autres bénéfices ou réserves disponibles.
 
@@ -18,24 +18,18 @@ Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis c
 participations ouvrant droit au régime des sociétés mères, les distributions peuvent être librement imputées sur ces
 produits.
 
-III Les distributions provenant de résultats qui ont été compris dans le résultat d'ensemble, mentionnés à l'article 223 H du
-code déjà cité, sont prélevés en suivant l'ordre prévu au II.
+III Abrogé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 158 bis
-	  - CGI 219 I al. 2 CGI 223 H
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+	  - CGI 158 bis, 219 I
 
 	**Modifié par**:
 
-	  - Décret n°88-318 du 28 mars 1988 - art. 6 () JORF 8 avril 1988
+	  - Décret n°92-527 du 15 juin 1992 - art. 4 () JORF 17 juin 1992
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - HISTO: Edition du 4 juillet 1992

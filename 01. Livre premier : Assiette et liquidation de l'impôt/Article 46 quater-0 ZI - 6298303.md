@@ -1,43 +1,29 @@
 # Article 46 quater-0 ZI
 
-I. - L'imposition forfaitaire annuelle due par les sociétés du groupe et dont la société mère est redevable en application de
+I. L'imposition forfaitaire annuelle due par les sociétés du groupe et dont la société mère est redevable en application de
 l'article 223 A du code général des impôts est payée au comptable du Trésor du lieu d'imposition de cette dernière société.
 Chaque paiement est accompagné d'un document conforme à un modèle fixé par l'administration et qui comporte notamment le
 montant de l'imposition forfaitaire annuelle dû par chaque société du groupe.
 
-" II. - En cas de sortie du groupe d'une société, le montant de l'imposition forfaitaire annuelle de cette société payé par
-la société mère au titre des deux années antérieures à celle de la sortie du groupe qui n'a pu être imputé sur l'impôt sur
-les sociétés dû sur le résultat d'ensemble du fait des résultats dégagés par la société qui sort du groupe peut être imputé,
-dans les conditions prévues à l'article 220 A du code général des impôts, sur l'impôt dû par cette société.
+II. (Abrogé).
 
-" III. - La société mère doit joindre à la déclaration du résultat d'ensemble un état, conforme à un modèle établi par
+III. La société mère doit joindre à la déclaration du résultat d'ensemble un état, conforme à un modèle établi par
 l'administration, qui fait apparaître les cotisations d'imposition forfaitaire annuelle payées au titre de l'année de clôture
-de l'exercice, le montant imputable de celles-ci, celui des cotisations des deux années antérieures et le montant
-effectivement imputé sur l'impôt dû sur le résultat d'ensemble de l'exercice.
+de l'exercice, le montant des cotisations des deux années antérieures et le montant imputé sur l'impôt dû sur le résultat
+d'ensemble de l'exercice.
 
-" Cet état mentionne le montant de l'imposition forfaitaire annuelle de la ou des sociétés qui sortent du groupe qui a été
-payé par la société mère et qui est susceptible d'être imputé sur l'impôt dû par ces sociétés.
-
-" Cet état est également transmis par la société mère au comptable du Trésor de son lieu d'imposition.
-
-" Le même état est joint par la société qui est sortie du groupe en annexe à la déclaration de résultats de l'exercice de
-sortie. "
+Cet état est également transmis par la société mère au comptable du Trésor de son lieu d'imposition.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 220
 	  - CGI 223 A
+
+	**Modifié par**:
+
+	  - Décret n°92-527 du 15 juin 1992 - art. 2 () JORF 17 juin 1992
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
-
-	**Créé par**:
-
-	  - Décret n°88-318 du 28 mars 1988 - art. 7 (V) JORF 8 avril 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - HISTO: Edition du 4 juillet 1992
