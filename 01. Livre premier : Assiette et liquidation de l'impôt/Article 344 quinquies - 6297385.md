@@ -6,20 +6,16 @@ vente.
 Les dépenses relatives à l'impression  à l'approvisionnement et à la débite de ces timbres sont à la charge de l'office  des
 migrations internationales et sont réglées par un prélèvement sur le produit des ventes.
 
-Un arrêté du ministre chargé des finances fixe le taux et les modalités de répartition de ce prélèvement (1).
-
-(1) Annexe IV, art. 159 sexies
-
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - CGIAN4 159 sexies
+	  - HISTO: Edition du 24 juin 1991
 
 	**Modifié par**:
 
-	  - Décret n°88-24 du 7 janvier 1988 - art. 1 (V) JORF 8 janvier 1988
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°91-883 1991-09-09

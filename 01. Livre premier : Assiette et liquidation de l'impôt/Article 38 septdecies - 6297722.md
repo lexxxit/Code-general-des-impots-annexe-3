@@ -1,17 +1,31 @@
 # Article 38 septdecies
 
-Les dispositions des articles 83-1° bis et 158-6, dernier alinéa, du code général des impôts, qui déterminent le régime
-fiscal applicable, en matière d'impôt sur le revenu, aux cotisations afférentes au régime de retraite complémentaire institué
-par la caisse nationale de prévoyance de la fonction publique et aux arrérages versés par cet organisme, sont étendues au
-régime de retraite complémentaire institué par le comité de gestion des oeuvres sociales des établissements publics
-d'hospitalisation, de soins, de cure et de prévention relevant du ministère des affaires sociales.
+Les dispositions du 1° bis de l'article 83 et du dernier alinéa de l'article 158 du code général des impôts, qui déterminent
+le régime fiscal applicable, en matière d'impôt sur le revenu, aux cotisations afférentes au régime de retraite
+complémentaire institué par la caisse nationale de prévoyance de la fonction publique et aux arrérages versés par cet
+organisme, sont étendues au régime de retraite complémentaire institué par le comité de gestion des oeuvres sociales des
+établissements publics d'hospitalisation, de soins, de cure et de prévention relevant du ministère des affaires sociales.
+
+A compter de l'imposition des revenus de 1989, elles sont également étendues aux cotisations et aux arrérages versés dans le
+cadre du régime de retraite complémentaire institué par l'Union nationale des mutuelles retraite des instituteurs et des
+fonctionnaires de l'éducation nationale et de la fonction publique. Toutefois, les arrérages qui correspondent aux
+cotisations versées à ce régime avant le 1er janvier 1989 demeurent soumis au régime fiscal des rentes viagères constituées à
+titre onéreux défini au 6 de l'article 158 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 158 6 al. DERNIER
-	  - CGI 83 1° bis
+	  - CGI 83, 158 6
+
+	**Modifié par**:
+
+	  - Décret n°89-543 du 4 août 1989 - art. 1 (V) JORF 5 août 1989
+	  - Décret n°89-543 du 4 août 1989 - art. 2 (V) JORF 5 août 1989
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 	**Cité par**:
 
@@ -19,4 +33,4 @@ d'hospitalisation, de soins, de cure et de prévention relevant du ministère de
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991

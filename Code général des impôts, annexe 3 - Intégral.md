@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-05-17
+Version Consolidée au 1991-06-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2527,6 +2527,33 @@ Le compte de résultat dont la production est prévue à l'article 38 est prése
 	  - Décret n°84-184 du 14 mars 1984 - art. 3 (V) JORF 17 mars 1984
 
 
+###### Article 38 B
+
+Pour l'application du 9 de l'article 38 du code général des impôts, les entreprises joignent à la déclaration de leurs
+résultats de chaque exercice un état établi sur un document conforme au modèle fixé par l'administration.
+
+Cet état mentionne notamment, pour chaque participation, le prix d'acquisition, la valeur réelle, la valeur d'équivalence et
+le montant de la dépréciation définie au douzième alinéa du 5° du 1 de l'article 39 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 38, 39
+
+	**Créé par**:
+
+	  - Décret n°90-149 1990-05-16 art. 1 JORF 22 mai 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
 ##### M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts
 
 ##### 2 : Définitions
@@ -2847,6 +2874,76 @@ L'attestation est établie sur papier libre conformément au modèle fixé par l
 	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 
+##### 2 : Crédit-bail mobilier, immobilier et sur les éléments incorporels amortissables d'un fonds de commerce ou d'un fonds artisanal
+
+###### Article 38 quindecies F
+
+Le locataire d'un bien loué dans les conditions prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966
+et au 3° du même article en ce qu'il concerne les éléments incorporels amortissables d'un fonds de commerce ou d'un fonds
+artisanal, qui cède le contrat de crédit-bail ou le bien acquis à l'échéance d'un tel contrat, joint à la déclaration de
+résultats de l'exercice en cours lors de la cession un état établi sur un document conforme au modèle fixé par
+l'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+	**Cite**:
+
+	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
+
+	**Créé par**:
+
+	  - Décret n°90-420 1990-05-16 art. 1 JORF 22 mai 1990
+	  - Décret n°91-471 du 14 mai 1991 - art. 2 () JORF 17 mai 1991
+	  - Décret n°91-471 du 14 mai 1991 - art. 3 (V) JORF 17 mai 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
+###### Article 38 quindecies G
+
+Pour l'application de l'article 39 duodecies A du code général des impôts, l'acquéreur des droits afférents à un contrat de
+crédit-bail conclu dans les conditions prévues au 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966, joint à la
+déclaration de résultats de l'exercice en cours lors de l'acquisition un état établi sur un document conforme au modèle fixé
+par l'administration. Cet état comporte notamment les renseignements nécessaires à la ventilation du prix d'acquisition des
+droits entre sa fraction représentative des constructions et celle représentative du terrain.
+
+L'entreprise qui détient à l'ouverture du premier exercice clos à compter du 31 décembre 1990 des droits mentionnés à
+l'alinéa précédent acquis auprès d'un précédent locataire joint à la déclaration de résultats de cet exercice un état
+analogue à celui défini au même alinéa.
+
+Cet état est produit également pour les droits détenus à l'ouverture du premier exercice clos à compter du 1er janvier 1989
+ou du 31 décembre 1989 selon que l'entreprise relève de l'impôt sur le revenu ou de l'impôt sur les sociétés ainsi que pour
+les droits acquis au cours de cet exercice ou des exercices suivants clos avant le 31 décembre 1990, si ces droits ont fait
+l'objet d'une levée d'option d'achat au cours de cette période.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 duodecies A
+	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
+
+	**Créé par**:
+
+	  - Décret n°90-420 1990-05-16 art. 1 JORF 22 mai 1990
+	  - Décret n°91-471 du 14 mai 1991 - art. 2 () JORF 17 mai 1991
+	  - Décret n°91-471 du 14 mai 1991 - art. 3 (V) JORF 17 mai 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition 24 juin 1991
+
+
 ##### P : Détermination du bénéfice des sociétés admises au régime du forfait.
 
 ###### Article 38 sexdecies
@@ -2871,6 +2968,74 @@ cet impôt compte tenu de leur quote-part dans les résultats réels accusés pa
 	**Codifié par**:
 
 	  - Décret n°99-382 1999-05-18
+
+
+##### Q : Régime super-simplifié de comptabilité.
+
+###### Article 38 sexdecies-00 A
+
+L'option pour la comptabilité super-simplifiée prévue à l'article 302 septies A ter A du code général des impôts est exercée,
+au titre de chaque exercice, sur la déclaration de résultats prévue à l'article 53 A du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-1249 du 31 décembre 1990 - art. 1 (V) JORF 3 janvier 1991
+	  - Décret n°90-1249 du 31 décembre 1990 - art. 2 (V) JORF 3 janvier 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 septies A ter A (V)
+	  - Code général des impôts, CGI. - art. 53 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-01-14 4G-1-00
+	  - TXT_ASSOCIE: Instruction 2001-02-01 4G-1-01
+	  - TXT_ASSOCIE: Instruction 2002-01-28 4G-1-02
+	  - TXT_ASSOCIE: Instruction 2003-01-13 4G-1-03
+
+
+###### Article 38 sexdecies-00 B
+
+Pour l'application du premier alinéa du 2 de l'article 302 septies A ter A du code général des impôts, les exploitants
+exercent, au titre de chaque exercice, l'option pour la déduction forfaitaire des dépenses relatives aux carburants sur un
+état joint à leur déclaration de résultats. Cet état mentionne également : 
+
+Le type et l'immatriculation du ou des véhicules concernés ; 
+
+Le nombre total de kilomètres parcourus en distinguant ceux effectués pour les besoins de l'entreprise ; 
+
+Le montant forfaitaire des frais de carburant ; 
+
+Les modalités de comptabilisation de ces frais.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-1249 du 31 décembre 1990 - art. 1 (V) JORF 3 janvier 1991
+	  - Décret n°90-1249 du 31 décembre 1990 - art. 2 (V) JORF 3 janvier 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 septies A ter A (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-01-14 4G-1-00
+	  - TXT_ASSOCIE: Instruction 2000-02-01 4G-1-01
+	  - TXT_ASSOCIE: Instruction 2002-01-28 4G-1-02
+	  - TXT_ASSOCIE: Instruction 2003-01-13 4G-1-03
 
 
 ##### IV : Rémunérations visées à l'article 62 du code général des impôts
@@ -3156,10 +3321,10 @@ E à 38 sexdecies GA, 38 sexdecies OK, 38 sexdecies P à 38 sexdecies QA.
 
 Les stocks sont évalués de la manière suivante :
 
-1° Les matières premières achetées sont évaluées à leur prix de revient;
+1° Les matières premières achetées sont évaluées à leur prix de revient ;
 
 2° Les autres produits et les animaux sont estimés en appliquant au cours du jour à la date de l'inventaire une décote de 20
-%; ce taux est porté à 30 % pour les bovins et les produits de la viticulture.
+% ; ce taux est porté à 30 % pour les bovins et les produits de la viticulture.
 
 En outre, la variation de prix à retenir entre la date d'ouverture et de clôture d'un même exercice est limitée à 20 %.
 Toutefois l'exploitant peut renoncer à cette limitation; ce choix doit être effectué au plus tard dans le délai de
@@ -3176,11 +3341,9 @@ Les choix prévus aux deux alinéas précédents se reconduisent tacitement par 
 notifiée au service des impôts dans le délai de dépôt de la déclaration des résultats du dernier exercice de chaque période
 d'option.
 
-Les exploitants agricoles qui pratiquent la déduction prévue à l'article 72 D du code général des impôts renoncent
-définitivement aux dispositions prévues au troisième alinéa du présent article pour les stocks qui auraient pu y ouvrir droit
-[*(1)*].
-
-[*(1) Dispositions applicables aux exercices clos à compter du 1er janvier 1986*].
+Les exploitants agricoles qui pratiquent la déduction prévue au premier alinéa du I de l'article 72 D du code général des
+impôts renoncent définitivement aux dispositions prévues au troisième alinéa du présent article pour les stocks qui auraient
+pu y ouvrir droit.
 
 **Liens relatifs à cet article**
 
@@ -3190,13 +3353,17 @@ définitivement aux dispositions prévues au troisième alinéa du présent arti
 
 	**Modifié par**:
 
-	  - Décret n°87-183 1987-03-17 art. 1 JORF 21 mars 1987
+	  - Décret n°91-883 du 9 septembre 1991 - art. 3 () JORF 10 septembre 1991
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 F (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies JD (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 38 sexdecies JD
@@ -4091,22 +4258,36 @@ sexdecies S.
 
 ##### VI : Traitements, salaires, pensions et rentes viagères
 
-##### Détermination du revenu imposable.
+##### A : Heures supplémentaires et complémentaires
 
 ###### Article 38 septdecies
 
-Les dispositions des articles 83-1° bis et 158-6, dernier alinéa, du code général des impôts, qui déterminent le régime
-fiscal applicable, en matière d'impôt sur le revenu, aux cotisations afférentes au régime de retraite complémentaire institué
-par la caisse nationale de prévoyance de la fonction publique et aux arrérages versés par cet organisme, sont étendues au
-régime de retraite complémentaire institué par le comité de gestion des oeuvres sociales des établissements publics
-d'hospitalisation, de soins, de cure et de prévention relevant du ministère des affaires sociales.
+Les dispositions du 1° bis de l'article 83 et du dernier alinéa de l'article 158 du code général des impôts, qui déterminent
+le régime fiscal applicable, en matière d'impôt sur le revenu, aux cotisations afférentes au régime de retraite
+complémentaire institué par la caisse nationale de prévoyance de la fonction publique et aux arrérages versés par cet
+organisme, sont étendues au régime de retraite complémentaire institué par le comité de gestion des oeuvres sociales des
+établissements publics d'hospitalisation, de soins, de cure et de prévention relevant du ministère des affaires sociales.
+
+A compter de l'imposition des revenus de 1989, elles sont également étendues aux cotisations et aux arrérages versés dans le
+cadre du régime de retraite complémentaire institué par l'Union nationale des mutuelles retraite des instituteurs et des
+fonctionnaires de l'éducation nationale et de la fonction publique. Toutefois, les arrérages qui correspondent aux
+cotisations versées à ce régime avant le 1er janvier 1989 demeurent soumis au régime fiscal des rentes viagères constituées à
+titre onéreux défini au 6 de l'article 158 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 158 6 al. DERNIER
-	  - CGI 83 1° bis
+	  - CGI 83, 158 6
+
+	**Modifié par**:
+
+	  - Décret n°89-543 du 4 août 1989 - art. 1 (V) JORF 5 août 1989
+	  - Décret n°89-543 du 4 août 1989 - art. 2 (V) JORF 5 août 1989
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 	**Cité par**:
 
@@ -4114,7 +4295,7 @@ d'hospitalisation, de soins, de cure et de prévention relevant du ministère de
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires
@@ -6202,6 +6383,187 @@ sociétés et organismes prévue à l'article 39 quinquies du code général des
 	  - Code général des impôts, CGI. - art. 39 quinquies (V)
 
 
+##### 4° : Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.
+
+###### Article 41 DD
+
+Les modalités d'agrément prévues au II de l'article 15 bis, au troisième alinéa du III de l'article 35 bis et au deuxième
+alinéa de l'article 92 L du code général des impôts visant la mise en oeuvre du droit au logement sont les suivantes :
+
+1. Peuvent être agréés par le représentant de l'Etat dans le département les organismes sans but lucratif dont l'un des
+objets est de contribuer au logement des personnes défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai
+1990 par la mise à leur disposition de logements.
+
+L'organisme doit justifier d'une compétence dans le domaine de l'action sociale et d'une expérience en matière d'insertion
+sociale ou de logement des personnes défavorisées.
+
+2. L'agrément est accordé par décision du préfet pour une dur ée indéterminée. En cas de manquements graves de l'organisme
+agréé à ses obligations, et après que celui-ci a été mis en mesure de présenter ses observations, le retrait de l'agrément
+peut être prononcé par le représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 L, 15 bis, 35 bis
+	  - Loi n°90-449 1990-05-31 art. 1
+
+	**Créé par**:
+
+	  - Décret n°90-783 du 3 septembre 1990 - art. 2 (V) JORF 6 septembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+##### 6° : Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.
+
+###### Article 41 DE
+
+Les contribuables exonérés de l'impôt sur le revenu en application du I de l'article 15 bis, des premier et deuxième alinéas
+du III de l'article 35 bis et du premier alinéa de l'article 92 L du code général des impôts sont tenus d'adresser au service
+des impôts au titre de l'année au cours de laquelle est conclu le contrat de location ou de sous-location du logement :
+
+1° Une note comportant les éléments suivants :
+
+- l'adresse et la superficie du logement concerné ;
+
+- l'identité du locataire ou sous-locataire ;
+
+- le montant du loyer ;
+
+- la date d'effet et la durée du contrat ;
+
+2° Selon le cas, une copie :
+
+- de la décision d'attribution au locataire ou sous-locataire du revenu minimum d'insertion ;
+
+- de la décision d'attribution au locataire ou sous-locataire de la bourse à caractère social ;
+
+- de la décision d'agrément de l'organisme sans but lucratif qui met le logement à la disposition de personnes défavorisées ;
+
+3° Une copie du contrat de location ou de sous-location ;
+
+4° Une attestation de conformité du logement aux normes fixées par l'article 74 T de l'annexe II au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 L, 15 bis, 35 bis
+	  - CGIAN2 74 T
+
+	**Créé par**:
+
+	  - Décret n°90-991 du 31 octobre 1990 - art. 1 (V) JORF 8 novembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 24 juin 1991
+
+	**Abrogé par**:
+
+	  - Loi - art. 11 (V) JORF 29 décembre 2001
+
+
+###### Article 41 DF
+
+Les contribuables exonérés de l'impôt sur le revenu en application du I de l'article 15 bis du code général des impôts
+joignent les documents mentionnés à l'article 41 DE à leur déclaration de revenus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 15 bis
+	  - CGIAN3 41 DE
+
+	**Créé par**:
+
+	  - Décret n°90-991 du 31 octobre 1990 - art. 2 (V) JORF 8 novembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 24 juin 1991
+
+	**Abrogé par**:
+
+	  - Loi - art. 11 (V) JORF 29 décembre 2001
+
+
+###### Article 41 DG
+
+Les contribuables exonérés de l'impôt sur le revenu en application des premier et deuxième alinéas du III de l'article 35 bis
+et du premier alinéa de l'article 92 L du code général des impôts adressent les documents mentionnés à l'article 41 DE au
+service des impôts dont dépend le lieu d'exercice de l'activité ou le principal établissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 L, 35 bis
+	  - CGIAN3 41 DE
+
+	**Créé par**:
+
+	  - Décret n°90-991 du 31 octobre 1990 - art. 3 (V) JORF 8 novembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 24 juin 1991
+
+	**Abrogé par**:
+
+	  - Loi - art. 11 (V) JORF 29 décembre 2001
+
+
+##### Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.
+
+###### Article 41 DC
+
+Pour l'application du I de l'article 15 bis, du III de l'article 35 bis et de l'article 92 L du code général des impôts, le
+prix de location ne doit pas excéder 290 F annuels par mètre carré habitable en région Ile-de-France, et 241 F annuels par
+mètre carré habitable dans les autres régions.
+
+Ces prix sont révisés chaque année le 1er janvier en fonction de la variation annuelle de l'indice national mesurant le coût
+de la construction publié par l'Institut national de la statistique et des études économiques. La date de référence de
+l'indice est celle du deuxième trimestre de l'année précédente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 15 bis, 35 bis, 92 L
+
+	**Créé par**:
+
+	  - Décret n°90-783 du 3 septembre 1990 - art. 1 (V) JORF 6 septembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
 ##### Section II : Revenu global
 
 ##### I : Monuments historiques - Charges déductibles.
@@ -8132,6 +8494,31 @@ l'administration.
 	  - HISTO: Edition du 1er janvier 2005
 
 
+###### Article 46 quater-0 FA
+
+Les distributions qui sont exonérées de précompte en application du 8° du 3 de l'article 223 sexies du code général des
+impôts sont prélevées sur les bénéfices dans les conditions prévues au I de l'article 46 quater-0 D.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 sexies
+	  - CGIAN3 46 quater-0 D
+
+	**Créé par**:
+
+	  - Décret n°90-834 du 18 septembre 1990 - art. 1 (V) JORF 22 septembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
 ##### Section V : Profits de construction
 
 ###### Article 46 quater-0 G
@@ -8619,27 +9006,27 @@ du salarié ou de son conjoint si la cession intervient lors de la création de 
 
 ###### Article 46 quater-0 RD
 
-Les salariés retenus pour l'appréciation de l'effectif de vingt salariés mentionné au b du II de l'article 220 quater A du
-code général des impôts sont les salariés qui bénéficient d'un contrat de travail à durée indéterminée ou d'une durée de six
-mois au moins. Cet effectif est calculé en tenant compte de la durée de présence de ces personnes pendant l'exercice. "
+Les salariés retenus pour l'appréciation de l'effectif de salariés mentionné au b du II de l'article 220 quater A du code
+général des impôts sont les salariés qui bénéficient d'un contrat de travail à durée indéterminée ou d'une durée de six mois
+au moins. Cet effectif est calculé en tenant compte de la durée de présence de ces personnes pendant l'exercice.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220 quater A II b
 
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
 
-	**Créé par**:
-
-	  - Décret n°87-991 du 13 novembre 1987 - art. 5 (V) JORF 14 novembre 1987
-
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°91-883 1991-09-09
+
+	**Modifié par**:
+
+	  - Décret n°91-883 du 9 septembre 1991 - art. 3 () JORF 10 septembre 1991
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quater A (V)
 
 
 ###### Article 46 quater-0 RE
@@ -9838,7 +10225,8 @@ déclaration en double exemplaire.
 
 2. La déclaration dûment signée est remise au service des impôts du lieu mentionné à l'article 218 A du code général des
 impôts au plus tard le dernier jour du mois qui suit la mise en paiement des distributions. Toutefois, les sociétés
-étrangères produisent la déclaration dans les délais visés au deuxième alinéa du 1 de l'article 223 du même code.
+étrangères produisent pour chaque exercice la déclaration dans les délais visés au deuxième alinéa du 1 de l'article 223 du
+même code.
 
 **Liens relatifs à cet article**
 
@@ -9846,13 +10234,18 @@ impôts au plus tard le dernier jour du mois qui suit la mise en paiement des di
 
 	  - CGI 219 1 c, 38 I bis, 223 A, 218 A, 223 1 al. 2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-886 1989-12-14 art. 2 JORF 15 décembre 1989
+	  - Décret n°90-561 du 4 juillet 1990 - art. 4 () JORF 6 juillet 1990
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992
 
 
 ###### Article 46 quater-0 ZW
@@ -9867,6 +10260,11 @@ Cette déclaration dûment signée est remise au service des impôts du lieu men
 impôts au plus tard à l'expiration du neuvième mois qui suit celui de l'ouverture de l'exercice au cours duquel les
 distributions ont été mises en paiement.
 
+1 bis. Lorsqu'une société est sortie du groupe et a procédé à une nouvelle liquidation du supplément d'impôt sur les sociétés
+dans les conditions mentionnées au 3 de l'article 223 N du code général des impôts, la société mère effectue, le cas échéant,
+la régularisation de la déclaration prévue au 1 au plus tard le dernier jour du mois qui suit la clôture de l'exercice de
+sortie.
+
 2. La déclaration dont la production est prévue à l'article 223 Q du code général des impôts mentionne les sommes réputées
 distribuées par les sociétés du groupe en application des articles 109 à 115 ter du même code.
 
@@ -9877,16 +10275,83 @@ distribuées par les sociétés du groupe en application des articles 109 à 115
 	  - CGI 109 à 115 ter
 	  - CGI 218 A
 	  - CGI 223 A
+	  - CGI 223 N
 	  - CGI 223 Q
+	  - CGIAN3 46 quater-0 ZV
+
+	**Modifié par**:
+
+	  - Décret n°90-561 du 4 juillet 1990 - art. 3 () JORF 6 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992
+
+
+###### Article 46 quater-0 ZX
+
+Si, en application du 3 de l'article 223 N du code général des impôts, une société qui n'est plus membre d'un groupe procède
+à une nouvelle liquidation du supplément d'impôt sur les sociétés à raison des distributions mises en paiement au cours de
+l'exercice de sortie, elle souscrit pour ces distributions une déclaration mentionnée à l'article 46 quater-0 ZV au plus tard
+le dernier jour du mois qui suit la date de clôture de cet exercice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 N
 	  - CGIAN3 46 quater-0 ZV
 
 	**Créé par**:
 
-	  - Décret n°89-886 1989-12-14 art. 4 JORF 15 décembre 1989
+	  - Décret n°90-561 du 4 juillet 1990 - art. 2 (V) JORF 6 juillet 1990
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992
+	  - HISTO: Edition du 27 octobre 1995
+
+
+###### Article 46 quater-0 ZY
+
+Pour l'application des dispositions du troisième alinéa du d du I de l'article 219 du code général des impôts, les sociétés
+et coopératives à capital variable souscrivent une déclaration spéciale rédigée d'après un modèle établi par l'administration
+permettant de déterminer et contrôler l'assiette du supplément d'impôt sur les sociétés.
+
+Pour chaque exercice, cette déclaration est remise au service des impôts du lieu mentionné à l'article 218 A du code général
+des impôts au plus tard à la date prévue au deuxième alinéa du 4 de l'article 1668 du même code pour le paiement du
+supplément d'impôt sur les sociétés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219, 218 A, 1668
+
+	**Créé par**:
+
+	  - Décret n°90-561 du 4 juillet 1990 - art. 1 (V) JORF 6 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -11418,6 +11883,26 @@ professionnelle dont dépend l'entreprise.
 	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 
+###### Article 49 septies-0 T
+
+Pour l'application du c du II de l'article 244 quater C du code général des impôts, le nombre de salariés de l'entreprise est
+calculé dans les conditions prévues à l'article 235 ter D du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater C, 235 ter D
+
+	**Créé par**:
+
+	  - Décret n°91-441 du 14 mai 1991 - art. 2 (V) JORF 17 mai 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
 ##### Section V bis : Crédit d'impôt pour dépenses de formation.
 
 ###### Article 49 septies S
@@ -11446,6 +11931,321 @@ d'impôt est calculé par rapport au montant des salaires de l'année précéden
 	**Codifié par**:
 
 	  - Décret n°2007-484 2007-03-30
+
+
+##### Section V ter : Crédit d'impôt pour accroissement de la durée d'utilisation des équipements et pour réduction de la durée hebdomadaire de travail.
+
+###### Article 49 septies V
+
+Pour pouvoir être certifiés en application du I de l'article 244 quater E du code général des impôts, les accords collectifs
+d'entreprise ou d'établissement doivent satisfaire aux conditions du chapitre II du titre III du livre Ier du code du travail
+et contenir notamment les indications suivantes :
+
+Importance de la réduction de la durée hebdomadaire effective de travail, ancien et nouvel horaires collectifs applicables
+dans l'entreprise, l'établissement ou la partie d'établissement concerné ;
+
+Nombre de salariés de l'entreprise concernés par la réduction de la durée du travail ; désignation du poste de travail ou de
+l'emploi occupé par ces salariés ;
+
+Date d'entrée en vigueur de l'opération.
+
+Au texte de l'accord précité est jointe une déclaration de l'employeur précisant soit les modalités du maintien de la durée
+d'utilisation des équipements, soit les modalités de l'accroissement de la durée d'utilisation des équipements dans les
+conditions prévues au a du II de l'article 244 quater E précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater E
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 1 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 1
+
+Pour pouvoir être certifié en application du I de l'article 244 quater E du code général des impôts, l'engagement de
+l'employeur doit comporter, outre les indications et la déclaration prévues à l'article 49 septies V, le procès-verbal de la
+réunion de consultation du comité d'entreprise ou, à défaut, des délégués du personnel sur l'opération envisagée ou le
+procès-verbal de carence, prévu aux articles L. 423-18 et L. 433-13 du code du travail, ainsi que le procès-verbal établi au
+terme de la négociation annuelle obligatoire prévu à l'article L. 132-29 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater E, 49 septies V
+	  - Code du travail - art. L132-29 (M)
+	  - Code du travail - art. L423-18 (M)
+	  - Code du travail - art. L433-13 (M)
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 2 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 2
+
+La certification fait l'objet d'une décision du ministre chargé de l'emploi ou de son représentant après avis :
+
+De la commission permanente du Comité supérieur de l'emploi ;
+
+Ou du comité régional de la formation professionnelle, de la promotion sociale et de l'emploi ;
+
+Ou du comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 3 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 3
+
+Pour l'application du III de l'article 244 quater E du code général des impôts, la demande d'agrément, déposée préalablement
+à l'opération, doit comporter notamment les indications suivantes :
+
+Durée hebdomadaire du travail et horaire collectif ;
+
+Nombre de salariés de l'entreprise concernés, désignation du poste de travail ou de l'emploi occupé par ces salariés ;
+
+Détermination de la durée d'utilisation des équipements dans l'établissement et par rapport aux normes professionnelles ;
+
+Le cas échéant, procès-verbal de consultation des institutions représentatives du personnel, ou procès-verbal de carence
+prévu aux articles L. 423-18 et L. 433-13 du code du travail ;
+
+Date d'entrée en vigueur de l'opération.
+
+L'agrément est donné par décision conjointe du ministre chargé du budget et du ministre chargé de l'emploi, ou de leurs
+représentants, après avis de la commission ou du comité mentionné à l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater E
+	  - Code du travail - art. L423-18 (M)
+	  - Code du travail - art. L433-13 (M)
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 4 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 4
+
+Dans les cas prévus aux articles 49 septies V, 49 septies V 1 et 40 septies V 3, une expertise préalable visant notamment à
+apprécier la durée d'utilisation des équipements peut être effectuée à l'initiative du ministre chargé de l'emploi ou de son
+représentant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 49 septies V, 40 septies V 1, 49 septies V 3
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 5 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 5
+
+Pour l'application du I de l'article 244 quater E du code général des impôts, sont considérées comme employant au moins dix
+salariés les entreprises occupant des salariés dont le nombre moyen mensuel est au moins égal à dix au cours de la période au
+titre de laquelle le crédit d'impôt est calculé.
+
+Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif du
+personnel au prorata du rapport entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée légale de
+travail ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie dans l'établissement ou la partie
+d'établissement où il est employé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater E
+	  - Code du travail - art. L212-4-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 6 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 6
+
+Pour le calcul du crédit d'impôt, les périodes de chômage partiel et de cessation d'activité due à un conflit collectif du
+travail ne sont pas prises en compte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 7 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 7
+
+Un arrêté du ministre chargé de l'emploi fixe le modèle de l'attestation annuelle mentionnée au VI de l'article 244 quater E
+du code général des impôts.
+
+Lorsque le crédit résultant de plusieurs opérations réalisées dans un ou plusieurs établissements s'impute sur l'impôt dû au
+titre d'une même année ou d'un même exercice, l'attestation prévue au VI de l'article précité mentionne les données
+concernant ces diverses opérations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater E
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 8 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 8
+
+Les entreprises doivent joindre à la déclaration annuelle de résultat qu'elles sont tenues de déposer en vertu des articles
+53 A, 223-1, 223 A et 302 septies A bis du code général des impôts, outre l'attestation mentionnée à l'article 49 septies V
+7, une déclaration spéciale pour le calcul du crédit d'impôt pour accroissement de la durée d'utilisation des équipements et
+réduction de la durée hebdomadaire du travail. Une copie de la déclaration spéciale est adressée, dans le même délai que
+celui prévu pour le dépôt de la déclaration de résultat, à la direction départementale du travail et de l'emploi dont dépend
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 53 A, 223 1, 223 A, 302 septies A bis, 49 septies V 7
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 9 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 49 septies V 9
+
+Le crédit d'impôt est imputé sur l'impôt dû après les prélèvements non libératoires et les crédits d'impôt non restituables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-607 du 12 juillet 1990 - art. 12 (V) JORF 13 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### Section VI : Indemnités de congé payé
@@ -11594,6 +12394,29 @@ transferts de salariés avec maintien du contrat de travail.
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 octies (V)
+
+
+##### Section VII : Opérations de crédit-bail
+
+###### Article 49 octies E
+
+Pour l'application des articles 239 sexies B et 239 sexies C du code général des impôts, le locataire acquéreur joint une
+attestation délivrée par l'organisme bailleur à la déclaration de résultats de l'exercice en cours lors de l'acquisition de
+l'immeuble. Cette attestation est établie sur un document conforme au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-420 du 16 mai 1990 - art. 2 (V) JORF 22 mai 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 239 sexies B (V)
 
 
 #### Chapitre III : Taxes diverses
@@ -12892,8 +13715,8 @@ Services assurés par les entreprises de pompes funèbres à l'occasion des inhu
 
 Enseignement général, agricole, ménager, professionnel ou artistique;
 
-Droits d'entrée pour la visite des musées, monuments et grottes, sites et parcs aménagés autres que les parcs zoologiques,
-botaniques et les parcs à décors animés qui illustrent un thème culturel passibles du taux réduit (1);
+Droits d'entrée pour la visite des parcs aménagés autres que les parcs zoologiques, botaniques et les parcs à décors animés
+qui illustrent un thème culturel passibles du taux réduit (1);
 
 Locations d'emplacements sur les terrains de camping qui ne bénéficient pas du taux réduit (2);
 
@@ -12933,25 +13756,30 @@ les lie aux collectivités publiques, à l'exclusion de toute opération accesso
 Prestations de services relatives aux insertions d'annonces de demandes d'emploi dans les journaux et publications qui
 bénéficient des avantages fiscaux prévus à l'article 298 septies du code général des impôts
 
-1)  Voir code général des impôts, art. 279-b ter.
+(1) Voir code général des impôts, art. 279-b ter et 279 b nonies.
 
-2)  Voir code général des impôts, art. 279-a ter.
+(2) Voir code général des impôts, art. 279-a ter.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 279 a, b ter
+	  - CGI 279
 	  - CGI 280 2 b
 	  - CGI 298 septies
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 22 () JORF 31 décembre 1987
+	  - Loi - art. 37 () JORF 30 décembre 1990
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 11 (V) JORF 27 juillet 1991
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-1127 1993-09-24
 
 
 ##### C : Taux majoré.
@@ -13099,11 +13927,11 @@ scénographie.
 	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre 1985
 
 
-##### II : Franchise et décote.
+##### II : Atténuations d'impôt
 
 ###### Article 90
 
-La réduction du montant de la taxe sur la valeur ajoutée prévue à l'article 282-2 du code général des impôts est égale au
+La réduction du montant de la taxe sur la valeur ajoutée prévue au 2 de l'article 282 du code général des impôts est égale au
 tiers de la différence entre le chiffre limite supérieur prévu audit article et le montant de l'impôt normalement exigible.
 
 **Liens relatifs à cet article**
@@ -13112,21 +13940,32 @@ tiers de la différence entre le chiffre limite supérieur prévu audit article 
 
 	  - CGI 282 2
 
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°99-382 1999-05-18
+
+	**Modifié par**:
+
+	  - Décret n°91-883 du 9 septembre 1991 - art. 3 () JORF 10 septembre 1991
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 1999
 
 
 ###### Article 91
 
-Pour les redevables visés à l'article 282-3 du code général des impôts, la taxe à acquitter, application faite de la décote,
-est obtenue en multipliant le montant de l'impôt normalement exigible par une fraction comprenant :
+Pour les redevables visés au 3 de l'article 282 du code général des impôts, la taxe à acquitter, application faite de la
+décote, est obtenue en multipliant le montant de l'impôt normalement exigible par une fraction comprenant :
 
-Au numérateur, la différence entre ce montant et le chiffre limite inférieur prévu à l'article 282-2 du code général des
+Au numérateur, la différence entre ce montant et le chiffre limite inférieur prévu au 2 de l'article 282 du code général des
 impôts ;
 
-Au dénominateur, la différence entre le chiffre limite prévu à l'article 282-3 dudit code et le chiffre limite inférieur
-prévu à l'article 282-2 du même code.
+Au dénominateur, la différence entre le chiffre limite prévu au 3 de l'article 282 dudit code et le chiffre limite inférieur
+prévu au 2 de l'article 282 du même code.
 
 **Liens relatifs à cet article**
 
@@ -13134,9 +13973,20 @@ prévu à l'article 282-2 du même code.
 
 	  - CGI 282 2, 3
 
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°99-382 1999-05-18
+
+	**Modifié par**:
+
+	  - Décret n°91-883 du 9 septembre 1991 - art. 3 () JORF 10 septembre 1991
+
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
 
 
 ###### Article 92
@@ -13149,12 +13999,22 @@ l'entreprise pendant ladite année ; chaque mois est uniformément compté pour 
 
 	**Cite**:
 
-	  - CGIAN3 90
-	  - CGIAN3 91
+	  - CGIAN3 90, 91
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°99-382 1999-05-18
+
+	**Modifié par**:
+
+	  - Décret n°91-883 du 9 septembre 1991 - art. 3 () JORF 10 septembre 1991
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 1999
 
 
 ###### Article 93
@@ -13162,19 +14022,28 @@ l'entreprise pendant ladite année ; chaque mois est uniformément compté pour 
 Le montant de la réduction d'impôt et celui de la taxe à acquitter tels qu'ils résultent des calculs effectués dans les
 conditions prévues aux articles 90 et 91 sont arrondis, le cas échéant, au franc inférieur.
 
-Il en est de même pour les chiffres limites déterminés dans les conditions prévues à l'article 92
+Il en est de même pour les chiffres limites déterminés dans les conditions prévues à l'article 92.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 90
-	  - CGIAN3 91
-	  - CGIAN3 92
+	  - CGIAN3 90, 91, 92
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°99-382 1999-05-18
+
+	**Modifié par**:
+
+	  - Décret n°91-883 du 9 septembre 1991 - art. 3 () JORF 10 septembre 1991
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 1999
 
 
 ##### Section VI : Obligations des redevables
@@ -13373,28 +14242,139 @@ Ils doivent conserver les bandes de contrôle pendant six ans et les présenter 
 	  - Décret n°81-866 1981-09-15
 
 
-##### Entreprises de spectacles.
+##### 2° : Factures transmises par voie télématique
 
-###### Article 96 E
+###### Article 96 F
 
-Les infractions aux dispositions des articles 96 B à 96 D sont recherchées, constatées et poursuivies comme en matière de
-contributions indirectes.
+Les informations mentionnées au deuxième alinéa du I de l'article 289 bis du code général des impôts sont restituées sur tout
+support. La restitution porte sur l'intégralité du message transmis.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 96 B
-	  - CGIAN3 96 C
-	  - CGIAN3 96 D
+	  - CGI 289 bis
 
 	**Créé par**:
 
-	  - Décret n°80-824 du 17 octobre 1980 - art. 4 (V) JORF 21 OCTOBRE 1980
+	  - Décret n°91-579 du 20 juin 1991 - art. 1 (V) JORF 22 juin 1991
 
 	**Codifié par**:
 
 	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 96 G
+
+Le directeur chargé de la direction des vérifications nationales et internationales se prononce sur les demandes
+d'autorisation et les déclarations prévues au II de l'article 289 bis du code général des impôts. En cas d'empêchement ou
+absence, il peut déléguer sa signature à un agent ayant au moins le grade de directeur divisionnaire des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 289 bis
+
+	**Créé par**:
+
+	  - Décret n°91-579 du 20 juin 1991 - art. 2 (V) JORF 22 juin 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Abrogé par**:
+
+	  - Décret n°99-337 du 3 mai 1999 - art. 1 () JORF 4 mai 1999
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 H (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 septies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 96 H
+
+La liste récapitulative des messages prévue au III de l'article 289 bis du code général des impôts comporte au minimum les
+mentions suivantes :
+
+a) Pour ce qui concerne les informations relatives aux factures :
+
+La date et le numéro de la facture ;
+
+La date et l'heure d'émission ou de réception de la facture ;
+
+Un numéro de réception ;
+
+Les montants hors taxes et toutes taxes de la transaction ainsi que le code monnaie lorsque la facture n'est pas libellée en
+francs français ;
+
+Les identifiants de l'émetteur et du récepteur donnés par le système de télétransmission ;
+
+b) Pour ce qui concerne les informations relatives au système de télétransmission :
+
+La date d'édition de la liste ;
+
+La version du logiciel utilisée.
+
+L'édition de cette liste intervient lors de chaque télétransmission ou au moins une fois par jour lorsqu'il y a eu
+télétransmission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 289 bis
+
+	**Créé par**:
+
+	  - Décret n°91-579 du 20 juin 1991 - art. 3 (V) JORF 22 juin 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 96 I
+
+Les fonctionnaires titulaires des corps de catégorie A ou B des services extérieurs de la direction générale des impôts sont
+habilités à procéder aux visites mentionnées au IV de l'article 289 bis du code général des impôts dès lors qu'ils sont
+affectés au service visé à l'article 96 G ou à la direction nationale d'enquêtes fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 décembre 2010 - art. 1 (V)
+
+	**Cite**:
+
+	  - CGI 289 bis, 96 G
+
+	**Créé par**:
+
+	  - Décret n°91-579 1991-06-20 art. 4 JORF 22 juin 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ##### Section VIII : Régimes spéciaux
@@ -13838,6 +14818,186 @@ viandes d'espèces animales différentes est égal à celui prévu pour la viand
 	**Abrogé par**:
 
 	  - Décret n°94-520 du 24 juin 1994 - art. 2 () JORF 25 juin 1994
+
+
+#### Chapitre V : Redevance sanitaire de découpage
+
+###### Article 111 quater L
+
+La redevance sanitaire de découpage, dont le fait générateur est constitué par les opérations de découpage de viande avec os
+ou l'enlèvement chez l'abatteur ou le tiers abatteur des viandes à découper, est perçue par le service des impôts auprès des
+mêmes personnes et selon les mêmes modalités que la redevance sanitaire d'abattage, conformément aux dispositions des
+articles 111 quater A, 111 quater G et 111 quater H.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 111 quater A, 111 quater G, 111 quater H
+
+	**Créé par**:
+
+	  - Décret n°91-296 du 20 mars 1991 - art. 2 (V) JORF 22 mars 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
+###### Article 111 quater M
+
+Pour les espèces dont la viande est susceptible d'être livrée au consommateur final en carcasse sans avoir subi d'opération
+de découpage, le tarif de la redevance sanitaire de découpage tient compte du taux de découpage constaté pour les viandes
+provenant des espèces considérées la pénultième année qui précède celle pour laquelle il s'applique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-296 du 20 mars 1991 - art. 3 (V) JORF 22 mars 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 111 quater N
+
+Les saisies totales ou partielles pratiquées dans les abattoirs par les services d'inspection sanitaire et les viandes qui
+font l'objet d'achats effectués par les organismes d'intervention ne donnent pas lieu à la perception de la redevance
+sanitaire de découpage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-296 du 20 mars 1991 - art. 4 (V) JORF 22 mars 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+
+###### Article 111 quater O
+
+La redevance sanitaire de découpage n'est pas due pour les viandes en carcasse de toutes espèces, les viandes en carcasse,
+demi-carcasse ou demi-carcasse découpée en un maximum de trois morceaux de gros ou de quartiers des espèces bovine, ovine,
+caprine, porcine et des espèces chevaline, asine ou leurs croisements qui sont exportées vers les pays tiers ou expédiées
+vers les Etats membres de la Communauté économique européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-296 du 20 mars 1991 - art. 5 (V) JORF 22 mars 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
+###### Article 111 quater P
+
+A l'importation en provenance des pays autres que ceux appartenant à la Communauté économique européenne, la redevance
+sanitaire de découpage est perçue dans les conditions prévues à l'article 111 quater R sur les viandes reprise au tableau
+visé à l'article 111 quater J déclarées pour la mise à la consommation dans le territoire douanier.
+
+Le tarif de la redevance sanitaire de découpage à retenir pour les préparations et conserves de viandes de boucherie, de
+charcuterie et de volailles (numéro ex 1601 et ex 1602 du tarif des douanes) dans la composition desquelles entrent des
+viandes d'espèces animales différentes est égal à celui prévu pour la viande dont le tarif est le plus faible.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 111 quater R, 111 quater J
+
+	**Créé par**:
+
+	  - Décret n°91-296 du 20 mars 1991 - art. 6 (V) JORF 22 mars 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater R (V)
+
+
+###### Article 111 quater Q
+
+A l'importation des Etats membres de la Communauté économique européenne, la redevance sanitaire de découpage est perçue dans
+les conditions prévues à l'article 111 quater R sur les viandes en carcasse, demi-carcasse ou demi-carcasse découpée en un
+maximum de trois morceaux de gros ou quartiers des animaux des espèces bovine, ovine, caprine, porcine et des espèces
+chevaline, asine ou leurs croisements, reprises au tableau ci-dessous :
+
+Numéro du tarif des douanes : Désignation des marchandises
+
+Ex 0201 : Viandes des animaux domestiques de l'espèce bovine fraîches ou réfrigérées.
+
+Ex 0202 : Viandes des animaux domestiques de l'espèce bovine congelées.
+
+Ex 0203 : Viandes des animaux domestiques de l'espèce porcine fraîches, réfrigérées ou congelées.
+
+Ex 0204 : Viandes des animaux domestiques des espèces ovine, caprine, fraîches, réfrigérées ou congelées.
+
+Ex 0205-00-00 : Viandes des animaux domestiques des espèces chevaline, asine, mulassière, fraîches, réfrigérées ou congelées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 111 quater R
+
+	**Créé par**:
+
+	  - Décret n°91-296 du 20 mars 1991 - art. 7 (V) JORF 22 mars 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater R (V)
+
+
+###### Article 111 quater R
+
+La redevance perçue aux articles 111 quater P et 111 quater Q est perçue sur le poids net de la viande, reconnu ou admis par
+le service des douanes, déduction faite du poids des abats.
+
+Ce poids est arrondi au kilogramme le plus voisin pour chaque article de la déclaration de mise à la consommation. Il est
+éventuellement affecté d'un abattement de 5 p. 100 également arrondi, pour les volailles dont le foie et le gésier ont été
+détachés de la carcasse mais pesés et emballés avec celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 111 quater P, 111 quater Q
+
+	**Créé par**:
+
+	  - Décret n°91-296 du 20 mars 1991 - art. 8 (V) JORF 22 mars 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater P (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater Q (V)
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
@@ -19057,18 +20217,19 @@ susvisé du 4 janvier 1955.
 Le tarif des salaires exigibles pour les réquisitions déposées en vue de la délivrance des renseignements hypothécaires
 sommaires visés au I de l'article 42-1 du décret n° 55-1350 modifié du 14 octobre 1955, est fixé comme suit :
 
-1° Réquisitions ne comportant pas la désignation des immeubles :
+1° Réquisitions ne comportant pas la désignation des immeubles ou demandes de prorogation afférentes à ce type de
+réquisition :
 
 - 40 F par personne individuellement désignée dans la demande.
 
-2° Réquisitions formulées sans indication de personne :
+2° Réquisitions formulées sans indication de personne ou demandes de prorogation afférentes à ce type de réquisitions :
 
-- 40 F pour celles portant sur cinq immeubles au maximum et 10 F par immeuble au-delà du cinquième.
+- 40 F pour celles portant sur cinq immeubles au maximum et 10 F par immeuble au-delà du cinquième. Est considéré comme
+immeuble [*définition*] chaque îlot de propriété ou parcelle cadastrale ou chaque lot de copropriété pour les biens faisant
+l'objet d'un état descriptif de division ou d'un document analogue.
 
-Est considéré comme immeuble [*définition*] chaque îlot de propriété ou parcelle cadastrale ou chaque lot de copropriété pour
-les biens faisant l'objet d'un état descriptif de division ou d'un document analogue.
-
-3° Réquisitions comportant à la fois la désignation individuelle des immeubles et des personnes :
+3° Réquisitions comportant à la fois la désignation individuelle des immeubles et des personnes ou demandes de prorogation
+afférentes à ce type de réquisitions :
 
 - 40 F pour celles formulées du chef de trois personnes au maximum et portant sur cinq immeubles au maximum.
 
@@ -19078,10 +20239,7 @@ Il est perçu en sus de ce tarif :
 
 -  2 F par immeuble au-delà du cinquième.
 
-4° Demande de prorogation de la période de certification d'une réquisition antérieure sommaire ou sommaire urgente hors
-formalité ;
-
-- 40 F par demande de prorogation.
+4° (Abrogé).
 
 **Liens relatifs à cet article**
 
@@ -19092,7 +20250,12 @@ formalité ;
 
 	**Modifié par**:
 
-	  - Décret n°85-842 du 5 août 1985 - art. 3 (V) JORF 9 août 1985 en vigueur le 1er octobre 1985
+	  - Décret n°90-592 du 5 juillet 1990 - art. 1 (V) JORF 11 juillet 1990
+	  - Décret n°90-592 du 5 juillet 1990 - art. 3 (V) JORF 11 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 289
@@ -19137,25 +20300,32 @@ Le tarif des salaires exigibles lors de la demande de délivrance des copies des
 
 1° Copies intégrales de documents :
 
-- 30 F par bordereau d'inscription demandé ;
+- 40 F par bordereau d'inscription demandé ;
 
-- 80 F par publication demandée.
+- 100 F par publication demandée(1).
 
-Lorsque le requérant n'indique pas les références aux documents, il sera perçu un acompte provisionnel de 80 F, non
+Lorsque le requérant n'indique pas les références aux documents, il sera perçu un acompte provisionnel de 100 F, non
 remboursable.
 
-Dans l'hypothèse où le salaire calculé sur la base du tarif ci-avant est, lors de la délivrance des copies, supérieur à 80 F,
-le complément sera réclamé au requérant.
+Dans l'hypothèse où le salaire calculé sur la base du tarif ci-avant est, lors de la délivrance des copies, supérieur à 100
+F, le complément sera réclamé au requérant.
 
 2° Extraits littéraux de documents :
 
-- 30 F par extrait littéral demandé.
+- 40 F par extrait littéral demandé (1).
+
+(1) Date d'effet le 1er septembre 1990.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°85-842 du 5 août 1985 - art. 5 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+	  - Décret n°90-592 du 5 juillet 1990 - art. 2 (V) JORF 11 juillet 1990
+	  - Décret n°90-592 du 5 juillet 1990 - art. 3 (V) JORF 11 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 291 bis
@@ -20267,20 +21437,20 @@ de timbres mobiles.
 
 ###### Article 313 AW
 
-L'apposition de timbres mobiles constitue le seul mode de paiement admis pour tous les renouvellements d'autorisations  visas
-ou légalisations donnant ouverture au timbre.
+L'apposition de timbres mobiles constitue le seul mode de paiement admis pour tous les renouvellements d'autorisations
+donnant ouverture au timbre.
 
 (1) Voir art. 313 BG ci-après.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN3 313 BG
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 12 (P) JORF 31 décembre 1985
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 313 AY
@@ -23780,6 +24950,47 @@ code général des impôts est fixé à 4,05 % (1).
 	  - HISTO: Edition du 31 mars 1999
 
 
+#### Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées
+
+##### Section II : Redevance sur l'emploi de la reprographie
+
+###### Article 331 M
+
+Les entreprises qui commercialisent ou se livrent à elles-mêmes des appareils de reprographie (1) sont considérées comme
+fabricants de ces appareils  lorsqu'en vue de leur donner leur forme définitive ou d'en assurer la présentation commerciale
+elles les ont façonnés transformés ou montés ou ont fait effectuer l'une de ces opérations par des tiers.
+
+Les entreprises soumises à la redevance doivent faire apparaître sur leurs factures, d'une manière distincte, pour chaque
+appareil, le prix net de celui-ci et le montant correspondant de la redevance. Elles doivent également y mentionner que la
+redevance facturée est reversée par leurs soins au Trésor.
+
+Toute personne qui facture la redevance s'en constitue redevable de ce seul fait.
+
+En ce qui concerne les appareils de reprographie importés, la redevance est exigible au moment de la déclaration pour la
+consommation dans le territoire douanier français : elle est due par le déclarant et recouvrée par le service des douanes
+comme en matière de douane.
+
+(1) Annexe IV, art. 159 AD.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 159 AD
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+
 #### Chapitre I bis : Taxes sur le chiffre d'affaires
 
 ##### Section I : Redevance sur l'édition des ouvrages de librairie.
@@ -23795,8 +25006,8 @@ ils relèvent le montant du chiffre d'affaires qu'ils ont réalisé l'année pr�
 pour le paiement de la première échéance annuelle [*délai*].
 
 Pour les personnes physiques ou morales assimilées à des éditeurs en vertu de l'article 1609 decies B du code précité  le
-chiffre d'affaires de la branche d'activité " édition " s'entend de la     ur valeur, tous droits et taxes compris des
-ouvrages de librairie dédouanés l'année précédente par l'intermédiaire de leur représentant agréé.
+chiffre d'affaires de la branche d'activité " édition " s'entend de la   ur valeur, tous droits et taxes compris des ouvrages
+de librairie dédouanés l'année précédente par l'intermédiaire de leur représentant agréé.
 
 La redevance est liquidée et acquittée semestriellement en même temps que les taxes sur le chiffre d'affaires afférentes aux
 opérations de juin et décembre ou  s'il y a lieu  du deuxième et du quatrième trimestres. Pour les redevables placés sous le
@@ -23805,10 +25016,6 @@ régime du forfait  elle est acquittée à la date prévue pour le paiement des 
 A l'importation  elle est assise et recouvrée par le service des douanes  dans les conditions définies par l'article 66 bis
 du code des douanes et par l'arrêté du directeur général des douanes et droits indirects en date du 5 septembre 1969 modifié
 par l'arrêté du 23 décembre 1975  comme en matière de taxe sur la valeur ajoutée perçue à l'importation.
-
-Sur le montant des encaissements réalisés par les recettes des impôts et par les recettes des douanes au titre de la
-redevance sur l'édition des ouvrages de librairie  il est effectué un prélèvement de 5 % pour frais d'assiette et de
-recouvrement.
 
 **Liens relatifs à cet article**
 
@@ -23819,159 +25026,16 @@ recouvrement.
 	  - CGI 1609 decies A, B
 	  - Code des douanes - art. 66 bis (V)
 
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 24 () JORF 31 DECEMBRE 1981
-
-
-##### Section II : Redevance sur l'emploi de la reprographie.
-
-###### Article 331 M
-
-Les entreprises qui commercialisent ou se livrent à elles-mêmes des appareils de reprographie (1) sont considérées comme
-fabricants de ces appareils  lorsqu'en vue de leur donner leur forme définitive ou d'en assurer la présentation commerciale
-elles les ont façonnés transformés ou montés ou ont fait effectuer l'une de ces opérations par des tiers.
-
-Les entreprises soumises à la redevance doivent faire apparaître sur leurs factures  d'une manière distincte  pour chaque
-appareil  le prix net de celui-ci et le montant correspondant de la redevance. Elles doivent également y mentionner que la
-redevance facturée est reversée par leurs soins au Trésor.
-
-Toute personne qui facture la redevance s'en constitue redevable de ce seul fait.
-
-En ce qui concerne les appareils de reprographie importés  la redevance est exigible au moment de la déclaration pour la
-consommation dans le territoire douanier français : elle est due par le déclarant et recouvrée par le service des douanes
-comme en matière de douane.
-
-Sur le montant des encaissements réalisés par les services des impôts et par les services des douanes au titre de la
-redevance sur l'emploi de la reprographie  il est effectué un prélèvement de 5 % pour frais d'assiette et de recouvrement.
-
-(1) Annexe IV, art. 159 AD.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 159 AD
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-#### Chapitre II : Contributions indirectes
-
-##### Section I : Taxe sur les produits des exploitations forestières.
-
-###### Article 332
-
-Sur le montant des encaissements effectués par le service des impôts au titre des taxes visées aux articles 1613 et 1618 bis
-du code général des impôts  il est effectué un prélèvement de 2 %. Le produit de ce prélèvement est rattaché au budget de
-l'économie et des finances (I. Finances). Il sert à couvrir  dans les limites et conditions déterminées par arrêté du
-ministre de l'économie et des finances et du ministre chargé de la fonction publique  les dépenses de matériel et la
-rémunération des travaux supplémentaires effectués par les personnes participant aux opérations résultant de l'application
-des dispositions desdits articles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1613
-	  - CGI 1618 bis
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi - art. 36 () JORF 30 décembre 1990
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
 
 	**Codifié par**:
 
 	  - Décret n°91-883 1991-09-09
 
 
-###### Article 332 bis
-
-I. La perception des taxes sur les produits forestiers visées aux articles 1613 et 1618 bis du code général des impôts est
-suspendue jusqu'à décision contraire sur les produits suivants :
-
-1° Bois de trituration et chutes de scierie de toutes essences, destinés à la fabrication de pâtes et de panneaux.
-
-2° (Abrogé).
-
-II. (Abrogé).
-
-III. (Disposition périmée).
-
-IV. A l'importation, la perception de la taxe prévue à l'article 1613 du code général des impôts est suspendue partiellement
-jusqu'au 31 décembre 1990, son taux étant ramené à 1 p. 100 sur les bois tropicaux ci-dessous énumérés, par référence à la
-nomenclature tarifaire de la direction générale des douanes et des droits indirects :
-
-1° Les bois d'okoumé bruts, même écorcés ou simplement dégrossis (4403.34.100) ;
-
-2° Les bois d'okoumé sciés ou dédossés longitudinalement, tranchés ou déroulés, même rabotés, poncés ou collés par jointure
-digitale, d'une épaisseur excédant 6 millimètres (compris dans les positions tarifaires 4407.22.10.0 à 4407.22.90.0).
-
-V. A l'importation, la perception de la taxe prévue à l'article 1618 bis du code général des impôts est suspendue en totalité
-jusqu'au 31 décembre 1990 pour les bois tropicaux énumérés ci-après par référence à la nomenclature tarifaire de la direction
-générale des douanes et droits indirects :
-
-" 1° Les bois bruts, même écorcés, désaubiérés ou équarris (4403.31.00.0 à 4403.35.90.0 et les bois tropicaux contenus dans
-la position 4403.99.90.9) ;
-
-" 2° Les bois sciés ou dédossés longitudinalement, tranchés ou déroulés, même rabotés, poncés ou collés par jointure digitale
-d'une épaisseur excédant 6 millimètres (4407.21.10.0 à 4407.23.90.0 et les bois tropicaux contenus dans la position
-4407.99.99.0) ;
-
-" 3° Les bois tropicaux (y compris les lames et frises à parquet, non assemblées) profilés (languetés, rainés, bouvetés,
-feuillurés, chanfreinés joints en V, moulurés, arrondis ou similaires) tout au long d'une ou plusieurs rives ou faces, même
-rabotés, poncés ou collés par jointure digitale, contenus dans la position 4409.20.99.0. "
-
-VI. Pour bénéficier de la suspension des taxes sur les bois provenant d'importation, les intéressés doivent justifier, par la
-tenue d'une comptabilité matières, de l'origine et de l'espèce des bois dont il s'agit.
-
-VII. La perception de la taxe prévue à l'article 1613 du code général des impôts est suspendue en totalité jusqu'au 31
-décembre 1990 sur les produits ci-dessous énumérés, par référence à la nomenclature tarifaire de la direction générale des
-douanes et droits indirects, lorsqu'ils sont destinés à l'exportation :
-
-1° Les bois de mine (4403.20002) ;
-
-2° Les bois feuillus et résineux sciés ou dédossés longitudinalement, tranchés ou déroulés même rabotés, poncés ou collés par
-jointure digitale, d'une épaisseur supérieure à 6 millimètres (44.07) ;
-
-3° Les traverses en bois pour voies ferrées ou similaires (44.06) ;
-
-4° Les merrains, même sciés sur les deux faces principales, mais non autrement travaillés (4416.00.100).
-
-VIII. Les dispositions du VII sont applicables aux exportations effectuées par des négociants ou des imprégnateurs, sous
-réserve que ceux-ci adressent aux bénéficiaires des dispositions susvisées l'attestation prévue par l'article 275 du code
-général des impôts.
-
-Les dates prises en considération pour l'application des exonérations aux bois exportés sont celles du passage en douane des
-produits considérés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1613
-	  - CGI 1618 bis
-	  - CGI 275
-
-	**Modifié par**:
-
-	  - Décret n°90-4 du 2 janvier 1990 - art. 1 (V) JORF 3 janvier 1190
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10 Décret 91-883 1991-09-09
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 36 () JORF 30 décembre 1990
-
+#### Chapitre II : Contributions indirectes
 
 ##### Section I bis : Taxe spéciale sur les huiles.
 
@@ -24236,32 +25300,6 @@ concerne la destination des produits, les quantités utilisées et le paiement a
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
-
-
-##### Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles.
-
-###### Article 333 H
-
-Les farines, semoules et gruaux exportés ainsi que les farines utilisées pour la fabrication d'amidon sont exonérés de la
-taxe visée à l'article 1618 septies du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1618 septies
-
-	**Créé par**:
-
-	  - Décret n°78-525 1978-03-20 art. 1 JORF 7 avril 1978 rectificatif JORF 24 juin 1978
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°90-1169 du 29 décembre 1990 - art. 50 (V) JORF 30 décembre 1990
-
-	**Abrogé par**:
-
-	  - Décret n°91-866 du 4 septembre 1991 - art. 5 () JORF 6 septembre 1991
 
 
 ##### Section I quater : Taxe sur le colza, navette, tournesol perçue au profit du budget annexe des prestations sociales agricoles
@@ -24732,26 +25770,6 @@ l'agriculture et au ministre de l'économie et des finances.
 	  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
 
 
-##### III : Dispositions communes.
-
-###### Article 339 bis
-
-Sur le montant des encaissements effectués par le service des impôts en vertu des articles 335 et 336  il est opéré un
-prélèvement de 3 % pour frais d'assiette et de perception.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 335
-	  - CGIAN3 336
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 38 ()
-
-
 ##### Section 1 quater : Fonds de garantie contre les accidents de circulation et de chasse.
 
 ###### Article 340 quinquies
@@ -24879,23 +25897,19 @@ vente.
 Les dépenses relatives à l'impression  à l'approvisionnement et à la débite de ces timbres sont à la charge de l'office  des
 migrations internationales et sont réglées par un prélèvement sur le produit des ventes.
 
-Un arrêté du ministre chargé des finances fixe le taux et les modalités de répartition de ce prélèvement (1).
-
-(1) Annexe IV, art. 159 sexies
-
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - CGIAN4 159 sexies
+	  - HISTO: Edition du 24 juin 1991
 
 	**Modifié par**:
 
-	  - Décret n°88-24 du 7 janvier 1988 - art. 1 (V) JORF 8 janvier 1988
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°91-883 1991-09-09
 
 
 ###### Article 344 ter
@@ -24931,6 +25945,95 @@ ressortissants des parties contractantes à la charte sociale européenne.
 ### Titre premier : Assiette et contrôle de l'impôt
 
 #### Chapitre premier : Obligations des contribuables
+
+##### 0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger
+
+###### Article 344 A
+
+I. Les comptes à déclarer en application du deuxième alinéa de l'article 1649 A du code général des impôts sont ceux ouverts
+auprès de toute personne de droit privé ou public qui reçoit habituellement en dépôt des valeurs mobilières, titres ou
+espèces. 
+
+II. Les personnes physiques joignent la déclaration de compte à la déclaration annuelle de leurs revenus. Chaque compte à
+usage privé, professionnel ou à usage privé et professionnel doit être mentionné distinctement. 
+
+Les associations et sociétés n'ayant pas la forme commerciale joignent leur déclaration de compte à la déclaration annuelle
+de leur revenu ou de leur résultat. 
+
+III. La déclaration de compte mentionnée au II porte sur le ou les comptes ouverts, utilisés ou clos, au cours de l'année ou
+de l'exercice par le déclarant, l'un des membres de son foyer fiscal ou une personne rattachée à ce foyer. 
+
+Un compte est réputé avoir été utilisé par l'une des personnes visées au premier alinéa dès lors que celle-ci a effectué au
+moins une opération de crédit ou de débit pendant la période visée par la déclaration, qu'elle soit titulaire du compte ou
+qu'elle ait agi par procuration, soit pour elle-même, soit au profit d'une personne ayant la qualité de résident.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-150 du 7 février 1991 - art. 1 (V) JORF 9 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 B (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 A (V)
+
+
+###### Article 344 B
+
+I. La déclaration de compte visée à l'article 344 A mentionne :
+
+- la désignation et l'adresse de la personne dépositaire ou gestionnaire auprès de laquelle le compte est ouvert ;
+
+- la désignation du compte : numéro, nature, usage et type du compte ;
+
+- la date d'ouverture et/ ou de clôture du compte au cours de la période au titre de laquelle la déclaration est effectuée ;
+
+- les éléments d'identification du déclarant. Ce dernier précise les éléments d'identification du titulaire du compte,
+lorsqu'il agit en qualité de bénéficiaire d'une procuration dans les conditions visées au deuxième alinéa du III de l'article
+344 A de représentant d'un tel bénéficiaire ou du titulaire du compte. Lorsque le déclarant agit en tant que représentant du
+bénéficiaire de la procuration, il indique également les éléments d'identification de ce dernier. 
+
+II. Les éléments d'identification prévus au I sont, pour chaque compte, les suivants : 
+
+1. Pour les personnes physiques : 
+
+a) Les noms, prénoms, date et lieu de naissance et adresse lorsqu'elles agissent en qualité de particulier ou comme
+représentant du titulaire du compte ou du bénéficiaire d'une procuration dans les conditions visées au deuxième alinéa du III
+de l'article 344 A ; 
+
+b) Lorsqu'elles agissent en qualité d'exploitant d'une activité donnant lieu à une déclaration spécifique de résultats, elles
+précisent, en sus des éléments visés au a, l'adresse du lieu d'activité et, s'il y a lieu, le numéro SIRET et l'appellation
+sous laquelle est exercée l'activité. 
+
+2. Pour les personnes morales : leur dénomination ou raison sociale, leur forme juridique, leur numéro SIRET et l'adresse de
+leur siège social ou de leur principal établissement. 
+
+La déclaration de compte comporte également l'adresse du ou des titulaires ainsi que l'adresse du ou des bénéficiaires d'une
+procuration qui a été communiquée au dépositaire ou gestionnaire du compte étranger lorsque cette adresse diffère de celle
+qui doit être indiquée en application des dispositions précédentes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-150 du 7 février 1991 - art. 1 (V) JORF 9 février 1991
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 A (V)
+
 
 ##### I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes
 
@@ -25041,6 +26144,50 @@ pendant la ou les périodes indiquées, quel que soit le mode de règlement de c
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 H (V)
+
+
+#### Chapitre I bis : Déclaration des transferts de sommes, titres ou valeurs
+
+###### Article 344 I bis
+
+1. La déclaration des sommes, titres ou valeurs, prévue au premier alinéa de l'article 1649 quater A du code général des
+impôts, est déposée par les personnes physiques, pour leur compte ou pour celui d'autrui, auprès de l'administration des
+douanes, y compris pour les transferts en provenance ou à destination de la Principauté de Monaco.
+
+2. En cas de transfert vers ou en provenance des territoires d'outre-mer ou des collectivités territoriales de Mayotte ou
+Saint-Pierre-et-Miquelon, les personnes physiques déclarent à l'administration des douanes les sommes, titres ou valeurs
+objet des transferts qu'elles réalisent pour leur propre compte ou pour celui d'autrui, lorsqu'ils sont égaux ou supérieurs à
+50 000 F.
+
+3. Les dispositions des 1 et 2 sont applicables aux envois postaux.
+
+4. Les sommes, titres ou valeurs visés aux 1 et 2 sont définis par arrêté pris par le ministre délégué au budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 quater A
+
+	**Créé par**:
+
+	  - Décret n°90-1119 du 18 décembre 1990 - art. 1 (Ab) JORF 19 décembre 1990
+	  - Décret n°90-1119 du 18 décembre 1990 - art. 2 (Ab) JORF 19 décembre 1990
+	  - Décret n°90-1119 du 18 décembre 1990 - art. 3 (Ab) JORF 19 décembre 1990
+	  - Décret n°90-1119 du 18 décembre 1990 - art. 4 (Ab) JORF 19 décembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies A (P)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies B (P)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 #### Chapitre II : Centres de gestion agréés
@@ -25241,26 +26388,6 @@ s'ils ne sont au nombre de cinq au moins présents. En cas de partage égal des 
 	**Cite**:
 
 	  - CGI 1650
-
-
-###### Article 346
-
-La commission des contributions directes instituée à Paris par la loi du 23 frimaire an III, tient lieu dans cette ville de
-la commission prévue à l'article 1650 du code général des impôts.
-
-Cette commission se compose de sept membres qui sont nommés par le préfet de Paris.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1650
-	  - Loi n°23 frimaire an III
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°75-1331 1975-12-30 art. 2, art. 33 JORF 3 janvier 1976
 
 
 ##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires
@@ -25926,6 +27053,43 @@ l'expiration de la quatrième année suivant celle au cours de laquelle le verse
 	  - Loi n°68-1145 1968-12-20 art. 1 Finances rectificative pour 1968 JORF 21 décembre 1968
 
 
+###### Article 365 bis
+
+1 Si le supplément d'impôt sur les sociétés prévu au c du I de l'article 219 du code général des impôts n'a pas été
+intégralement versé le 15 du mois suivant celui au cours duquel il était exigible, la majoration de 10 p. 100 visée à
+l'article 1762 du même code est appliquée aux sommes non réglées.
+
+Lorsque la liquidation du supplément d'impôt n'a pas été faite par la société ou que cette liquidation a été opérée d'après
+une assiette inférieure à celle qui a été mentionnée sur la déclaration souscrite en application du 1 de l'article 46
+quater-0 ZV, la majoration de 10 p. 100 est calculée en tenant compte du montant porté dans cette déclaration.
+
+2  Les dispositions mentionnées aux 4 et 5 de l'article 365 sont transposables au supplément d'impôt sur les sociétés et à la
+majoration de 10 p. 100 correspondante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1762
+	  - CGI 219 I c
+	  - CGI 365 4, 5
+	  - CGIAN3 46 quater-0 ZV
+
+	**Créé par**:
+
+	  - Décret n°90-561 du 4 juillet 1990 - art. 5 () JORF 6 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1993
+
+
 ###### Article 366
 
 Le complément d'impôts à verser qui apparaît, le cas échéant, à la suite du contrôle de la liquidation effectué par le
@@ -25945,6 +27109,33 @@ impôts.
 	**Abrogé par**:
 
 	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+
+
+###### Article 366 A
+
+Le paiement du supplément d'impôt sur les sociétés prévu au c du I de l'article 219 du code général des impôts est effectué à
+la caisse du comptable du Trésor du lieu d'imposition défini par l'article 218 A du même code au vu d'un bordereau-avis. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 218 A
+	  - CGI 219 I c
+
+	**Créé par**:
+
+	  - Décret n°89-886 du 14 décembre 1989 - art. 5 (V) JORF 15 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1993
 
 
 ##### 6 : Taxe sur les salaires
@@ -26601,9 +27792,8 @@ ladite échéance.
 
 ###### Article 384 A
 
-I. Les redevables forfaitaires acquittent l'impôt par douzième tous les mois  aux dates prévues à l'article 39 de l'annexe IV
-au code général des impôts pour le dépôt des déclarations; toutefois lorsque le montant de l'impôt exigible mensuellement est
-inférieur au chiffre prévu à l'article 287-1 dudit code  ils sont admis à se libérer par quart tous les trois mois.
+I. Les redevables forfaitaires acquittent l'impôt par trimestre aux dates prévues à l'article 39-1 (2°) de l'annexe IV au
+code général des impôts.
 
 II. Les versements provisionnels effectués  pendant la période qui précède la conclusion du forfait  par les redevables
 placés sous le régime du forfait de chiffre d'affaires sont imputés sur l'impôt dû au titre de la même période à raison du
@@ -26626,13 +27816,24 @@ chiffre d'affaires doivent produire un bulletin du modèle fixé par l'administr
 
 	**Cite**:
 
-	  - CGI 287 1
 	  - CGIAN3 96
 	  - CGIAN4 39
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Modifié par**:
+
+	  - Loi - art. 26 () JORF 30 décembre 1990
+	  - Loi n°90-1168 1990-12-29 art. 26 II 1, 2 Finances pour 1991 JORF 30 décembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°99-382 1999-05-18
 
 
 #### II bis : Dispositions particulières à certains transports
@@ -27886,7 +29087,8 @@ L'impôt exigible est acquitté  lors du dépôt de cette déclaration par les m
 II. (Disposition périmée).
 
 III. Pour chaque période annuelle d'imposition  la taxe est liquidée par trimestre  en fonction du nombre et de la puissance
-fiscale des véhicules possédés ou utilisés par la personne morale au premier jour du trimestre.
+fiscale des véhicules possédés ou utilisés par la personne morale au premier jour du trimestre ou au cours de ce trimestre
+pour les véhicules pris en location.
 
 En ce qui concerne toutefois les véhicules loués  la taxe n'est due que si la durée de la location excède une période d'un
 mois civil ou de trente jours consécutifs. Elle est due au titre d'un seul trimestre si la durée de la location n'excède pas
@@ -27902,13 +29104,21 @@ V. La taxe est payable en une seule fois  dans les conditions prévues au I, à 
 
 	**Cite**:
 
-	  - CGI 1010
-	  - CGI 887
+	  - CGI 1010, 887
 	  - CGIAN2 310 E
+
+	**Modifié par**:
+
+	  - Décret n°70-687 1970-07-30 art. 1 à 3 JORF 1er août 1970
+	  - Loi n°74-1129 du 30 décembre 1974 - art. 5 (P) JORF 31 décembre 1974
+
+	**Codifié par**:
+
+	  - Décret n°91-883 1991-09-09
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 24 juin 1991
 
 
 #### VII : Taxe locale d'équipement

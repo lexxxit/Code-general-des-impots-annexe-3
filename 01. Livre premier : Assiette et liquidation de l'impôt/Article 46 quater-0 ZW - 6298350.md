@@ -10,6 +10,11 @@ Cette déclaration dûment signée est remise au service des impôts du lieu men
 impôts au plus tard à l'expiration du neuvième mois qui suit celui de l'ouverture de l'exercice au cours duquel les
 distributions ont été mises en paiement.
 
+1 bis. Lorsqu'une société est sortie du groupe et a procédé à une nouvelle liquidation du supplément d'impôt sur les sociétés
+dans les conditions mentionnées au 3 de l'article 223 N du code général des impôts, la société mère effectue, le cas échéant,
+la régularisation de la déclaration prévue au 1 au plus tard le dernier jour du mois qui suit la clôture de l'exercice de
+sortie.
+
 2. La déclaration dont la production est prévue à l'article 223 Q du code général des impôts mentionne les sommes réputées
 distribuées par les sociétés du groupe en application des articles 109 à 115 ter du même code.
 
@@ -20,13 +25,20 @@ distribuées par les sociétés du groupe en application des articles 109 à 115
 	  - CGI 109 à 115 ter
 	  - CGI 218 A
 	  - CGI 223 A
+	  - CGI 223 N
 	  - CGI 223 Q
 	  - CGIAN3 46 quater-0 ZV
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-886 1989-12-14 art. 4 JORF 15 décembre 1989
+	  - Décret n°90-561 du 4 juillet 1990 - art. 3 () JORF 6 juillet 1990
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992

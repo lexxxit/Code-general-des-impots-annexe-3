@@ -10,7 +10,8 @@ déclaration en double exemplaire.
 
 2. La déclaration dûment signée est remise au service des impôts du lieu mentionné à l'article 218 A du code général des
 impôts au plus tard le dernier jour du mois qui suit la mise en paiement des distributions. Toutefois, les sociétés
-étrangères produisent la déclaration dans les délais visés au deuxième alinéa du 1 de l'article 223 du même code.
+étrangères produisent pour chaque exercice la déclaration dans les délais visés au deuxième alinéa du 1 de l'article 223 du
+même code.
 
 **Liens relatifs à cet article**
 
@@ -18,10 +19,15 @@ impôts au plus tard le dernier jour du mois qui suit la mise en paiement des di
 
 	  - CGI 219 1 c, 38 I bis, 223 A, 218 A, 223 1 al. 2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-886 1989-12-14 art. 2 JORF 15 décembre 1989
+	  - Décret n°90-561 du 4 juillet 1990 - art. 4 () JORF 6 juillet 1990
 
 	**Codifié par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°91-883 1991-09-09
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992
