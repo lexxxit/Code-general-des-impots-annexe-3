@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-04-16
+Version Consolidée au 1988-04-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9686,6 +9686,32 @@ dans les conditions prévues à l'article R. 45 B-1 du livre des procédures fis
 
 ##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.
 
+###### Article 49 septies I
+
+Pour la détermination des dépenses de recherche visées à l'article 244 quater B-II-a , b et f du code général des impôts, il
+y a lieu d retenir : 
+
+a. Les dotations aux amortissements fiscalement déductibles, y compris les amortissements pratiqués au cours de l'exercice et
+réputés différés en période déficitaire ; 
+
+b. Au titre des dépenses de personnel, les rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure
+où celles-ci correspondent à des cotisations sociales obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater B II a, b
+
+	**Modifié par**:
+
+	  - Décret n°88-378 du 15 avril 1988 - art. 1 (V) JORF 21 avril 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+
+
 ###### Article 49 septies J
 
 Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt est calculé par comparaison
@@ -9724,6 +9750,68 @@ variation de l'indice moyen annuel des prix à la consommation.
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+
+
+###### Article 49 septies M
+
+Les entreprises doivent exercer l'option pour le crédit d'impôt au plus tard lors du dépôt de la déclaration de résultat du
+premier exercice de la période pour laquelle elles désirent bénéficier de ce crédit.
+
+L'option résulte du dépôt de la déclaration spéciale [*obligation*] prévue pour le calcul du crédit d'impôt qui devra être
+annexée à la déclaration annuelle de résultat que les entreprises sont tenues de déposer en vertu soit de l'article 53 A,
+soit de l'article 223-1 du code général des impôts. Une copie de la déclaration spéciale doit être adressée dans le même
+délai à la direction du développement scientifique et technologique et de l'innovation du ministère chargé de la recherche et
+de la technologie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 1
+	  - CGI 53 A
+
+	**Modifié par**:
+
+	  - Décret n°88-378 du 15 avril 1988 - art. 2 (V) JORF 21 avril 1988
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L131-3 (Ab)
+	  - Code de la recherche - art. L511-3 (V)
+
+
+###### Article 49 septies O
+
+Les dispositions des articles 49 septies F à 49 septies N sont applicables pour la détermination du crédit d'impôt prévu au V
+de l'article 244 quater B du code général des impôts.
+
+Toutefois, les entreprises nouvelles peuvent opter pour ce crédit d'impôt au plus tard lors du calcul du calcul du crédit
+d'impôt afférent à l'année de création.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater B V
+	  - CGIAN3 49 septies F à CGIAN3 49 septies N
+
+	**Créé par**:
+
+	  - Décret n°83-378 1988-04-15 art. 2, art. 3 JORF 21 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°93-11271 1993-09-24
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### Section VI : Indemnités de congé payé
