@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2001-12-28
+Version Consolidée au 2002-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6534,10 +6534,10 @@ pour les produits de source étrangère par Etat d'origine de ces produits ;
 
 Ce report peut provenir : 
 
-Soit de l'arrondissement au centime inférieur de la somme attribuée à chaque part ; 
+Soit de l'arrondissement au centime d'euro inférieur de la somme attribuée à chaque part ; 
 
 Soit, en cas d'encaissement de lots et primes de remboursement d'obligations émises en France, de l'utilisation totale ou
-partielle par le fonds de la faculté qui lui est offerte par l'article 21, troisième alinéa, de la loi n° 79-594 du 13
+partielle par le fonds de la faculté qui lui est offerte par le troisième alinéa par l'article 21 de la loi n° 79-594 du 13
 juillet 1979, d'en différer la distribution de deux ans ; 
 
 3° Le montant global des avoirs fiscaux et crédits d'impôt mentionnés sur les certificats délivrés au fonds pendant
@@ -6551,7 +6551,7 @@ siège social hors de France et étaient placés hors du champ d'application d'u
 sur les revenus ; ce montant est éventuellement ventilé comme il est dit au 3° ; 
 
 5° Le montant des avoirs fiscaux attachés aux dividendes de sociétés françaises dont l'utilisation n'est pas admise en vertu
-de la limitation prévue au troisième alinéa du I de l'article 158 bis et à l'article 209 bis du code général des impôts ; 
+de la limitation prévue au cinquième alinéa du I de l'article 158 bis et à l'article 209 bis du code général des impôts ; 
 
 6° La fraction des avoirs fiscaux et crédits d'impôt attachés aux produits encaissés par le fonds commun au cours de
 l'exercice, qui n'a pu être transférée aux propriétaires de parts pour tout autre motif que celui mentionné au 5°. 
@@ -6574,21 +6574,22 @@ ou valeurs réparties.
 
 	**Cite**:
 
-	  - CGI 158 bis AL. 3
-	  - CGI 209 bis
-	  - Loi n°79-594 1979-07-13 ART. 21 AL. 3
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - CGI 158 bis, 209 bis
+	  - Loi n°79-594 du 13 juillet 1979 - art. 21 (Ab)
 
 	**Modifié par**:
 
-	  - Loi - art. 41 (V) JORF 31 décembre 1998
+	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 31 mars 2002
 
 	**Codifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2002-923 2002-06-06
 
 	**Cité par**:
 
@@ -7791,6 +7792,8 @@ Ces renseignements  sont mentionnés sur la déclaration prévue au 1 de l'artic
 
 
 ##### 6° : Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.
+
+##### 6° :
 
 ###### Article 41 DC
 
@@ -9243,6 +9246,48 @@ l'année au cours de laquelle le bail est signé.
 	  - HISTO: Edition du 31 mars 2002
 
 
+###### Article 46 AGA
+
+Pour l'application du 3° du premier alinéa de l'article 199 decies B du code général des impôts, les montants annuels du
+loyer et des ressources du locataire ne peuvent excéder les limites suivantes :
+
+1. Pour les baux conclus entre le 1er janvier et le 31 décembre 2001, les plafonds de loyer, charges non comprises, sont
+fixés à 139 euros annuels par mètre carré de surface habitable en région Ile-de-France et 99 euros annuels par mètre carré de
+surface habitable dans les autres régions. Ces plafonds sont relevés chaque année le 1er janvier dans la même proportion que
+l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études
+économiques. La date de référence de l'indice est celle du deuxième trimestre de l'année précédente.
+
+2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
+établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
+
+Les plafonds annuels de ressources sont fixés, pour une personne seule, à 25690 euros en région Ile-de-France et à 19870
+euros dans les autres régions pour les revenus 2001.
+
+Ces montants sont doublés pour un couple marié. Ils sont relevés chaque année dans la même proportion que la limite
+supérieure de la première tranche du barème de l'impôt sur le revenu. Les montants obtenus sont arrondis, s'il y a lieu, à la
+dizaine d'euros supérieure.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 decies B
+
+	**Modifié par**:
+
+	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - HISTO: Edition du 31 mars 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
+
+
 ###### Article 46 AGC
 
 Pour l'application de l'article 199 decies D du code général des impôts, les contribuables sont tenus de joindre à leur
@@ -9468,48 +9513,6 @@ II. - Les dispositions du II et du III de l'article 46 AGD s'appliquent au prés
 	**Cité par**:
 
 	  - Code du tourisme. - art. D421-3 (V)
-
-
-##### 2° : Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations.
-
-###### Article 46 AGA
-
-Pour l'application du 3° du premier alinéa de l'article 199 decies B du code général des impôts, les montants annuels du
-loyer et des ressources du locataire ne peuvent excéder les limites suivantes :
-
-1. Pour les baux conclus entre le 1er janvier et le 31 décembre 2001, les plafonds de loyer, charges non comprises, sont
-fixés à 867 F annuels par mètre carré de surface habitable en région Ile-de-France et 616 F annuels par mètre carré de
-surface habitable dans les autres régions. Ces plafonds sont relevés chaque année le 1er janvier dans la même proportion que
-l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études
-économiques. La date de référence de l'indice est celle du deuxième trimestre de l'année précédente.
-
-2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
-établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
-
-Les plafonds annuels de ressources sont fixés, pour une personne seule, à 165 850 F en région Ile-de-France et à 128 280 F
-dans les autres régions pour les revenus 2000.
-
-Ces montants sont doublés pour un couple marié. Ils sont relevés chaque année dans la même proportion que la limite
-supérieure de la première tranche du barème de l'impôt sur le revenu. Les montants obtenus sont arrondis, s'il y a lieu, à la
-centaine de francs supérieure.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 decies B
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-	**Modifié par**:
-
-	  - Loi - art. 2 () JORF 31 décembre 2000
 
 
 ##### 3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer
@@ -17122,53 +17125,55 @@ scénographie.
 
 ###### Article 95 A
 
-I. - Pour l'application de l'article 287 du code général des impôts, les représentants désignés en vertu du III de l'article
-289 A du même code doivent souscrire auprès du service des impôts un état trimestriel comportant les informations suivantes :
+I.-Pour l'application de l'article 287 du code général des impôts, les représentants désignés en vertu du III de l'article
+289 A du même code doivent souscrire auprès du service des impôts un état trimestriel comportant les informations
+suivantes : 
 
 1. Le nom ou la dénomination et l'adresse du représentant, et le numéro d'identification à la taxe sur la valeur ajoutée sous
-lesquels sont effectuées les opérations visées au III de l'article 289 A du code général des impôts ;
+lesquels sont effectuées les opérations visées au III de l'article 289 A du code général des impôts ; 
 
-2. Pour les opérations visées au 4 du II de l'article 277 A du code général des impôts :
+2. Pour les opérations visées au 4 du II de l'article 277 A du code général des impôts : 
 
-a) Le nom ou la dénomination et l'adresse de la personne qui a désigné le représentant ainsi que, le cas échéant, son numéro
-d'identification à la taxe sur la valeur ajoutée dans un autre Etat membre de la Communauté européenne ;
+a) Le nom ou la dénomination et l'adresse de la personne qui a désigné le représentant ; 
 
 b) La nature du bien et le montant de l'opération qui aurait dû être soumise à la taxe sur la valeur ajoutée lors de la
-sortie du bien de l'entrepôt, et la contre-valeur en francs lorsque ce montant est exprimé en devises ;
+sortie du bien de l'entrepôt, et la contre-valeur en euros lorsque ce montant est exprimé en devises ; 
 
 c) Le montant de la livraison exonérée en vertu du I de l'article 262 ter du code général des impôts ou de l'exportation
-avec, dans ce dernier cas, la référence de la déclaration d'exportation et la contre-valeur en francs lorsque ce montant est
-exprimé en devises ;
+avec, dans ce dernier cas, la référence de la déclaration d'exportation et la contre-valeur en euros lorsque ce montant est
+exprimé en devises ; 
 
-3. Pour les opérations visées au 4° du III de l'article 291 du code général des impôts :
+3. Pour les opérations visées au 4° du III de l'article 291 du code général des impôts : 
 
-a) Le nom ou la dénomination, l'adresse et le numéro d'identification à la taxe sur la valeur ajoutée dans un autre Etat
-membre de la Communauté européenne de la personne qui a désigné le représentant ;
+a) Le nom ou la dénomination et l'adresse de la personne qui a désigné le représentant ; 
 
-b) La nature du bien, le montant de l'importation et la contre-valeur en francs lorsque ce montant est exprimé en devises, et
-la référence de la déclaration d'importation ;
+b) La nature du bien, le montant de l'importation et la contre-valeur en euros lorsque ce montant est exprimé en devises, et
+la référence de la déclaration d'importation ; 
 
 c) La nature du bien et le montant de la livraison exonérée en vertu du I de l'article 262 ter du code général des impôts, et
-la contre-valeur en francs lorsque ce montant est exprimé en devises.
+la contre-valeur en euros lorsque ce montant est exprimé en devises. 
 
-II. - L'état mentionné au I est souscrit par le représentant, pour l'ensemble des opérations pour lesquelles il a été
-désigné, sur support papier ou informatique selon les modalités prévues par l'administration, au plus tard le 25 du mois qui
-suit chaque trimestre civil.
+II.-L'état mentionné au I est souscrit par le représentant, pour l'ensemble des opérations pour lesquelles il a été désigné,
+sur support papier ou informatique selon les modalités prévues par l'administration, au plus tard le 25 du mois qui suit
+chaque trimestre civil.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 287, 289 A, 277 A, 262 ter, 291
-
-	**Créé par**:
-
-	  - Décret n°96-738 du 20 août 1996 - art. 1 (V) JORF 22 août 1996
+	  - Décret n°2002-28 du 8 janvier 2002 - art. 3 () JORF 9 janvier 2002 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1997-12-02 3A-1-98
+	  - SPEC_APPLI: Décret n°2002-28 du 8 janvier 2002 - art. 7, v. init.
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 262 ter (V)
+	  - Code général des impôts, CGI. - art. 277 A (V)
+	  - Code général des impôts, CGI. - art. 287 (V)
+	  - Code général des impôts, CGI. - art. 289 A (V)
+	  - Code général des impôts, CGI. - art. 291 (V)
 
 
 ###### Article 96 A
@@ -28148,7 +28153,7 @@ Les demandes de classement des salles de spectacles dans la catégorie des petit
 
 Les petites exploitations cinématographiques visées à l'article 1609 duovicies du code général des impôts sont celles qui
 enregistrent moins de 1.200 entrées hebdomadaires en moyenne pendant une période continue d'une année civile et qui réalisent
-moins de 2.400 F de recettes hebdomadaires en moyenne pendant la même période.
+moins de 370 euros de recettes hebdomadaires en moyenne pendant la même période.
 
 Ces deux conditions sont appréciées par salle.
 
@@ -28158,17 +28163,20 @@ Ces deux conditions sont appréciées par salle.
 
 	  - CGI 1609 duovicies
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°93-1127 1993-09-24
-
-	**Créé par**:
-
-	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Loi - art. 52 () JORF 29 décembre 2001
+	  - SPEC_APPLI: Loi n°2001-1276 2001-12-28 art. 52 I
+
+	**Codifié par**:
+
+	  - Décret n°2002-923 2002-06-06
 
 
 ###### Article 331 V undecies
@@ -28591,43 +28599,6 @@ terdecies.
 	  - CGI 172, 223, 209 B, 287, 229, 1647 E, 1477, 172 bis, 235 ter X, 990 F, 335, 991, 978, 1010, 231 ter, 235 ter J, 235 ter KD, 46 C, 235 ter Y
 	  - CGIAN2 102 Z, 161
 	  - CGIAN3 344-0 A, 46 quater-0 F, 406 terdecies
-
-	**Créé par**:
-
-	  - Décret n°2000-1218 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-1218 du 13 décembre 2000 - art. 2 (V)
-	  - HISTO: Edition du 31 mars 2001
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
-
-
-##### 001 : Déclarations souscrites auprès de la Direction des grandes entreprises.
-
-###### Article 344-0 C
-
-Les dispositions des articles 344-0 A et 344-0 B s'appliquent aux déclarations qui doivent être souscrites à compter du début
-du deuxième exercice suivant celui à la clôture duquel l'une au moins des conditions prévues aux 1° à 4° de l'article 344-0 A
-est remplie.
-
-Les sociétés qui entrent dans un groupe ayant opté pour le régime fiscal prévu à l'article 223 A du code général des impôts
-dont les membres relèvent du service des grandes entreprises mentionné au premier alinéa de l'article 344-0 A doivent elles-
-mêmes satisfaire à leurs obligations déclaratives auprès de ce service à compter du début de l'exercice suivant celui de leur
-entrée dans ce groupe.
-
-Les dispositions des articles 344-0 A et 344-0 B continuent à s'appliquer pendant les trois exercices suivant celui à la
-clôture duquel les conditions ont cessé d'être remplies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 A
-	  - CGIAN3 344-0 A, 344-0 B
 
 	**Créé par**:
 
@@ -29869,86 +29840,6 @@ ces liens.
 
 ### Section I : Impôts directs et taxes assimilées
 
-#### I : Rôles et avis d'imposition
-
-##### 1 : Rôles auxiliaires.
-
-###### Article 351
-
-Tout propriétaire ou usufruitier ayant plusieurs locataires ou fermiers dans la même commune, et qui veut en application de
-l'article 1660 du code général des impôts, les charger de payer à son acquit la taxe foncière sur les biens qu'ils tiennent à
-ferme ou à loyer, doit remettre au comptable du Trésor chargé du recouvrement des impôts directs une déclaration indiquant
-sommairement la division de son revenu imposable entre lui et ses fermiers.
-
-Cette déclaration est signée par le propriétaire et par les fermiers.
-
-Si le nombre des fermiers est de plus de trois, la déclaration est transmise au directeur des services fiscaux qui opère la
-division de la taxe et porte, dans un rôle auxiliaire, la somme à payer par chaque fermier.
-
-Il est délivré un avis d'imposition à chacun des locataires ou fermiers compris dans le rôle auxiliaire.
-
-Les frais d'impression, de confection et de distribution de ces avertissements sont payés par les déclarants. Ces frais,
-ainsi que les frais d'impression et de confection des rôles auxiliaires qui sont également à la charge des déclarants, sont
-recouvrés comme en matière de contributions directes.
-
-La quotité de ces frais est fixée ainsi qu'il suit : 
-
-ELEMENT DE BASE : Par article du rôle auxiliaire.
-
-ETABLISSEMENTS DES ROLES et des avis d'imposition :
-
-Allocation totale : 0,05 F.
-
-Répartition de l'allocation totale :
-
-Frais de matériel : 0,03 F.
-
-Frais de personnel : 0,02 F.
-
-DISTRIBUTION des avis d'imposition.
-
-Frais d'affranchissement : 0,07 F.
-
-Indemnités des comptables du Trésor chargés du recouvrement des impôts directs : 0,02 F.
-
-ELEMENT DE BASE : Par cotisation distincte portée au rôle auxiliaire, autre que celle perçue au profit du budget annexe des
-prestations sociales agricoles.
-
-ETABLISSEMENTS DES ROLES et des avis d'imposition :
-
-Allocation totale : 0,05 F.
-
-Répartition de l'allocation totale :
-
-Frais de matériel : 0,03 F.
-
-Frais de personnel : 0,02 F.
-
-DISTRIBUTION des avis d'imposition.
-
-Frais d'affranchissement : 0,07 F.
-
-Indemnités des comptables du Trésor chargés du recouvrement des impôts directs : 0,02 F.
-
-Lorsque l'application des tarifs ci-dessus fait apparaître une somme globale inférieure à 1 F l'allocation pour frais de
-matériel est majorée de manière que le total des frais à percevoir ne soit pas inférieur à cette limite.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1660
-
-	**Abrogé par**:
-
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
-
-
 #### II : Exigibilité de l'impôt
 
 ##### 2 : Impôt sur le revenu
@@ -30668,42 +30559,58 @@ l'article 366 AA est recouvré dans les conditions définies à cet article.
 être versées dans les quinze premiers jours du mois suivant à la caisse du comptable du Trésor du lieu du domicile de la
 personne ou du siège de l'établissement ou du bureau qui a payé les rémunérations soumises à la taxe sur les salaires.
 
-Lorsque le montant mensuel total de ces sommes n'excède pas 1000 F, le versement peut n'être effectué que dans les quinze
-premiers jours de chaque trimestre civil pour le trimestre écoulé. Si le montant mensuel desdites sommes vient à excéder 1000
-F, les sommes dues depuis le début du trimestre en cours doivent être versées dans les quinze premiers jours du mois suivant.
+Lorsque le montant mensuel total de ces sommes n'excède pas 334 euros, le versement peut n'être effectué que dans les quinze
+premiers jours de chaque trimestre civil pour le trimestre écoulé. Si le montant mensuel desdites sommes vient à excéder 334
+euros, les sommes dues depuis le début du trimestre en cours doivent être versées dans les quinze premiers jours du mois
+suivant.
 
-Dans le cas de transfert de domicile  d'établissement ou de bureau hors du ressort de la circonscription de la perception
+Dans le cas de transfert de domicile, d'établissement ou de bureau hors du ressort de la circonscription de la perception,
 ainsi que dans le cas de cession ou de cessation d'entreprise, le versement doit être immédiatement effectué.
 
-En cas de décès de l'employeur  ce versement doit être effectué dans les quinze premiers jours du mois suivant le décès.
+En cas de décès de l'employeur, ce versement doit être effectué dans les quinze premiers jours du mois suivant le décès.
 
 2. (Abrogé).
 
 3. Chaque versement est accompagné d'un bordereau-avis fourni par l'administration daté et signé par la partie versante, et
-indiquant notamment la désignation, la profession et l'adresse de la personne association ou organisme à qui incombe le
-versement, la période à laquelle s'applique ce versement, le montant des rémunérations payées au cours de cette période et le
-montant de la taxe sur les salaires versés.
+indiquant notamment la désignation, la profession et l'adresse de la personne, association ou organisme à qui incombe le
+versement, la période à laquelle s'applique ce versement et le montant de la taxe sur les salaires versés.
+
+En outre, une déclaration annuelle permettant la liquidation et la régularisation de la taxe sur les salaires fournie par
+l'administration est déposée, datée et signée par l'employeur, au lieu fixé au 1 au plus tard le 15 janvier de l'année qui
+suit celle au titre de laquelle la taxe est due.
+
+Cette déclaration indique, notamment, la désignation, la profession et l'adresse de la personne, association ou organisme
+redevable de la taxe, le montant des rémunérations versées au cours de l'année concernée, le montant de la taxe
+correspondante, le montant des sommes déjà versées mensuellement ou trimestriellement au titre de la même année ainsi que, le
+cas échéant, l'insuffisance ou l'excédent de versement constaté pour l'année.
 
 4. Les redevables qui estiment que le montant annuel de leur taxe sur les salaires n'excédera pas celui de la franchise en
 impôt prévue au deuxième alinéa de l'article 1679 du code général des impôts ou de l'abattement mentionné à l'article 1679 A
-du même code ne sont pas tenus de déposer chaque mois ou trimestre le bordereau-avis mentionné au 3. Ils doivent cependant
-dans tous les cas produire le bordereau-avis portant régularisation de la taxe due au titre de l'année.
+du même code ne sont pas tenus de déposer chaque mois ou trimestre le bordereau-avis mentionné au premier alinéa du 3. Les
+redevables dont le montant annuel de taxe sur les salaires n'excède pas ces mêmes franchise ou abattement sont dispensés du
+dépôt de la déclaration annuelle mentionnée au deuxième alinéa du 3.
+
+5. Pour les employeurs qui, dans les conditions prévues à l'article 406 terdecies, ont opté pour le paiement de la taxe sur
+les salaires auprès du comptable du service des grandes entreprises, la taxe due au titre de chaque période fait l'objet d'un
+versement unique pour l'ensemble des établissements concernés.
+
+Ces redevables sont dispensés du dépôt des bordereaux-avis mentionnés au premier alinéa du 3. Ils déposent la déclaration
+annuelle permettant la liquidation et la régularisation pour l'ensemble de leurs établissements auprès du comptable du
+service des grandes entreprises, dans les conditions et selon les modalités prévues aux deuxième et troisième alinéas du 3.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1679, 1679 A
+	  - CGI 1679, 1679 A, 406 terdecies
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2001-1313 du 28 décembre 2001 - art. 1 () JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance n°2001-766 du 29 août 2001 - art. 14 (V)
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 2001-04-25 5L-3-01
+	  - SPEC_APPLI: Décret n°2001-1313 du 28 décembre 2001 - art. 3 (V)
 
 	**Cité par**:
 

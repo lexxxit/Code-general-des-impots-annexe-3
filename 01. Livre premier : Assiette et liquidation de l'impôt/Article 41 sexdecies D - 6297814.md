@@ -11,10 +11,10 @@ pour les produits de source étrangère par Etat d'origine de ces produits ;
 
 Ce report peut provenir : 
 
-Soit de l'arrondissement au centime inférieur de la somme attribuée à chaque part ; 
+Soit de l'arrondissement au centime d'euro inférieur de la somme attribuée à chaque part ; 
 
 Soit, en cas d'encaissement de lots et primes de remboursement d'obligations émises en France, de l'utilisation totale ou
-partielle par le fonds de la faculté qui lui est offerte par l'article 21, troisième alinéa, de la loi n° 79-594 du 13
+partielle par le fonds de la faculté qui lui est offerte par le troisième alinéa par l'article 21 de la loi n° 79-594 du 13
 juillet 1979, d'en différer la distribution de deux ans ; 
 
 3° Le montant global des avoirs fiscaux et crédits d'impôt mentionnés sur les certificats délivrés au fonds pendant
@@ -28,7 +28,7 @@ siège social hors de France et étaient placés hors du champ d'application d'u
 sur les revenus ; ce montant est éventuellement ventilé comme il est dit au 3° ; 
 
 5° Le montant des avoirs fiscaux attachés aux dividendes de sociétés françaises dont l'utilisation n'est pas admise en vertu
-de la limitation prévue au troisième alinéa du I de l'article 158 bis et à l'article 209 bis du code général des impôts ; 
+de la limitation prévue au cinquième alinéa du I de l'article 158 bis et à l'article 209 bis du code général des impôts ; 
 
 6° La fraction des avoirs fiscaux et crédits d'impôt attachés aux produits encaissés par le fonds commun au cours de
 l'exercice, qui n'a pu être transférée aux propriétaires de parts pour tout autre motif que celui mentionné au 5°. 
@@ -51,21 +51,22 @@ ou valeurs réparties.
 
 	**Cite**:
 
-	  - CGI 158 bis AL. 3
-	  - CGI 209 bis
-	  - Loi n°79-594 1979-07-13 ART. 21 AL. 3
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - CGI 158 bis, 209 bis
+	  - Loi n°79-594 du 13 juillet 1979 - art. 21 (Ab)
 
 	**Modifié par**:
 
-	  - Loi - art. 41 (V) JORF 31 décembre 1998
+	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 31 mars 2002
 
 	**Codifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2002-923 2002-06-06
 
 	**Cité par**:
 
