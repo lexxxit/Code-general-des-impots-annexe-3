@@ -16,7 +16,8 @@ résultats pour la détermination du résultat d'ensemble.
 c) Le cas échéant, le document visé au premier alinéa du c du 6 de l'article 223 L du code général des impôts, qui comporte
 la liste et les attestations précédemment mentionnées.
 
-2. Avant la clôture de chacun des exercices arrêtés au cours de la période de validité de l'option :
+2. Au plus tard à l'expiration du délai de dépôt de la déclaration de résultat de chacun des exercices arrêtés au cours de la
+période de validité de l'option :
 
 a) La liste mentionnée au a du 1, mise à jour pour l'exercice suivant ;
 
@@ -31,25 +32,15 @@ l'origine de la détention en cause.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 A, 223 L
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
-	  - HISTO: Edition du 27 octobre 1995
-
 	**Modifié par**:
 
-	  - Décret n°94-1063 du 6 décembre 1994 - art. 1 () JORF 13 décembre 1994
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2004-591 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZE (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZM (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
