@@ -6,19 +6,7 @@ déficits prévu au I de l'article 220 quinquies du même code :
 1° Le bénéfice ou le déficit constaté au titre d'un exercice s'entend du résultat d'ensemble, défini à l'article 116 de
 l'annexe II au même code, que cette société a déclaré au titre de ce même exercice ;
 
-2° Le déficit d'un exercice ne peut être imputé sur le bénéfice d'un exercice clos antérieurement que dans la limite du plus
-petit des deux montants suivants :
-
-La fraction non distribuée de ce bénéfice ;
-
-Ou le montant obtenu en appliquant à ce même bénéfice un pourcentage égal à IF/IS ; à cet égard, IS est égal à la dette
-d'impôt sur les sociétés, au taux normal prévu au deuxième alinéa du I de l'article 219 du code général des impôts, pour
-l'exercice considéré ; IF est la part de cette dette qui a été acquittée sans utilisation des crédits mentionnés à l'article
-122 de l'annexe II au code précité.
-
-**Nota:**
-
-[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 4 JORF 10 avril 1990*]
+2° Le bénéfice d'ensemble est retenu dans les limites fixées au 1° bis de l'article 46 quater-0 S.
 
 **Liens relatifs à cet article**
 
@@ -27,12 +15,8 @@ l'exercice considéré ; IF est la part de cette dette qui a été acquittée sa
 	  - CGI 209 quinquies
 	  - CGI 220 quinquies I
 	  - CGIAN2 116
-	  - CGIAN2 122
+	  - CGIAN3 46 quater-0 S 1° bis
 
 	**Modifié par**:
 
-	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°90-315 du 9 avril 1990 - art. 4 (V) JORF 10 avril 1990, modification directe incorporée dans l'édition du 15 juin 1990

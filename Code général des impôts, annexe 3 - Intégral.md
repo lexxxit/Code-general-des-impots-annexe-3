@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-04-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8740,63 +8740,34 @@ du paiement des intérêts dont le montant sert de base au calcul du crédit d'i
 
 Pour l'application des premier et deuxième alinéas du I de l'article 220 quinquies du code général des impôts :
 
-1° Le bénéfice ou le déficit constaté au titre d'un exercice s'entend du résultat fiscal déclaré passible de l'impôt sur les
-sociétés au taux normal prévu au deuxième alinéa du I de l'article 219 du code précité ;    2° La fraction non distribuée du
-bénéfice défini au 1° est obtenue en déduisant de ce bénéfice le montant des distributions effectuées par prélèvement sur ce
-même bénéfice ;
+1° Le déficit constaté au titre d'un exercice s'entend du résultat fiscal déclaré passible de l'impôt sur les sociétés au
+taux normal prévu au deuxième alinéa du I de l'article 219 du code précité ;
+
+1° bis : Le bénéfice constaté au titre d'un exercice s'entend du bénéfice fiscal déclaré qui a été soumis à l'impôt sur les
+sociétés au taux normal prévu au deuxième alinéa du I de l'article 219 du code général des impôts, à l'exclusion de la
+fraction de ce bénéfice qui a été distribuée, de celle qui a donné lieu à un impôt payé au moyen d'avoirs fiscaux ou de
+crédits d'impôt et de celle qui a été prise en compte pour la détermination du crédit d'impôt prévu aux articles 220 quater
+et 220 quater A du même code ;
+
+2° La fraction non distribuée du bénéfice défini au 1° bis est obtenue en déduisant de ce bénéfice le montant des
+distributions effectuées par prélèvement sur ce même bénéfice ;
 
 3° Seule la fraction du déficit qui n'a pu être imputée sur les bénéfices des exercices précédant l'exercice déficitaire
 continue d'être reportable dans les conditions prévues au I de l'article 209 du code général des impôts.
 
-**Nota:**
-
-[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 1 JORF 10 avril 1990*]
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 209 I
-	  - CGI 220 quinquies I al. 1, al. 2
+	  - CGI 220 quinquies I, 209 I, 220 quater, 220 quater A, 219
 
 	**Modifié par**:
 
-	  - Loi n°87-416 du 17 juin 1987 - art. 66 (V) JORF 18 juin 1987
+	  - Décret n°90-315 du 9 avril 1990 - art. 1 () JORF 10 avril 1990
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 46 quater-0 T
-
-Pour l'application du sixième alinéa du I de l'article 220 quinquies du code général des impôts : 
-
-1° Les immobilisations servant au calcul de l'investissement net sont retenues pour leur valeur d'origine ; pour les biens
-cédés ou mis hors service, cette valeur est diminuée des amortissements pratiqués par l'entreprise ; 
-
-2° Les immobilisations dont la propriété a, soit au cours de l'exercice au titre duquel l'option a été exercée, soit au cours
-de ce dernier exercice et des deux exercices précédents, a été transférée par voie d'apport, de fusion, de scission ou de
-cession d'actif n'entrent pas en compte pour le calcul de l'investissement net ; 3° Les amortissements dont le total est
-comparé au montant de l'investissement net s'entendent des amortissements pour dépréciation et des amortissements
-dérogatoires pratiqués au titre de l'une ou l'autre des deux périodes visées au 2°. 4° La dette d'impôt   s'entend de l'impôt
-sur les sociétés dû, au taux de droit commun ou à un taux réduit, à raison des bénéfices déclarés au titre des trois
-exercices précédant l'exercice déficitaire, augmenté, le cas échéant, des majorations pour défaut de paiement ou paiement
-tardif de cet impôt.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220 quinquies I al. 6
-
-	**Modifié par**:
-
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 4 () JORF 31 décembre 1985
-
-	**Abrogé par**:
-
-	  - Décret n°90-315 du 9 avril 1990 - art. 2 (V) JORF 10 avril 1990, modification directe incorporée dans l'édition du 15 juin 1990
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article 46 quater-0 U
@@ -8854,29 +8825,30 @@ s'entendent de celles qui entrent dans les prévisions de l'article 210 A du mê
 
 I. L'entreprise qui exerce l'option prévue au premier alinéa du I de l'article 220 quinquies du code général des impôts doit
 joindre à la déclaration de résultat de l'exercice au titre duquel cette option a été exercée une déclaration conforme au
-modèle fixé par l'administration [*formalité obligatoire*].
+modèle fixé par l'administration.
+
+Lorsque cette déclaration est déposée par une société qui a fait l'objet d'un rachat dans les conditions prévues aux articles
+220 quater ou 220 quater A du code général des impôts, elle est accompagnée d'un document attestant le montant du crédit
+d'impôt obtenu par la société constituée pour le rachat, au titre de l'exercice qui suit celui au cours duquel a été réalisé
+le bénéfice sur lequel un déficit est reporté en arrière.
 
 II. En cas d'utilisation de la créance pour le paiement de l'impôt sur les sociétés ou de cession dans les conditions prévues
 au cinquième alinéa de l'article précité, l'entreprise doit produire l'état de suivi qui lui a été remis, à sa demande, par
 l'administration.
 
-**Nota:**
-
-[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 3 JORF 10 avril 1990*]
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 220 quinquies I al. 1, al. 5
+	  - CGI 220 quinquies, 220 quater, 220 quater A
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 4 () JORF 31 décembre 1985
+	  - Décret n°90-315 du 9 avril 1990 - art. 3 (V) JORF 10 avril 1990
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - HISTO: Edition du 15 juin 1990
 
 
 ##### Sociétés agréées au régime du bénéfice consolidé.
@@ -8889,19 +8861,7 @@ déficits prévu au I de l'article 220 quinquies du même code :
 1° Le bénéfice ou le déficit constaté au titre d'un exercice s'entend du résultat d'ensemble, défini à l'article 116 de
 l'annexe II au même code, que cette société a déclaré au titre de ce même exercice ;
 
-2° Le déficit d'un exercice ne peut être imputé sur le bénéfice d'un exercice clos antérieurement que dans la limite du plus
-petit des deux montants suivants :
-
-La fraction non distribuée de ce bénéfice ;
-
-Ou le montant obtenu en appliquant à ce même bénéfice un pourcentage égal à IF/IS ; à cet égard, IS est égal à la dette
-d'impôt sur les sociétés, au taux normal prévu au deuxième alinéa du I de l'article 219 du code général des impôts, pour
-l'exercice considéré ; IF est la part de cette dette qui a été acquittée sans utilisation des crédits mentionnés à l'article
-122 de l'annexe II au code précité.
-
-**Nota:**
-
-[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 4 JORF 10 avril 1990*]
+2° Le bénéfice d'ensemble est retenu dans les limites fixées au 1° bis de l'article 46 quater-0 S.
 
 **Liens relatifs à cet article**
 
@@ -8910,15 +8870,11 @@ l'exercice considéré ; IF est la part de cette dette qui a été acquittée sa
 	  - CGI 209 quinquies
 	  - CGI 220 quinquies I
 	  - CGIAN2 116
-	  - CGIAN2 122
+	  - CGIAN3 46 quater-0 S 1° bis
 
 	**Modifié par**:
 
-	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°90-315 du 9 avril 1990 - art. 4 (V) JORF 10 avril 1990, modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article 46 quater-0 XB
@@ -8983,6 +8939,39 @@ déficits en cause.
 
 
 ##### II : Sociétés agréées au régime de l'intégration fiscale.
+
+###### Article 46 quater-0 Y
+
+Lorsqu'une société agréée visée à l'article 209 sexies du code général des impôts opte pour le report en arrière des déficits
+prévu au I de l'article 220 quinquies du même code :
+
+1° Le bénéfice ou le déficit constaté au titre d'un exercice s'entend du résultat d'ensemble de cette société, égal à la
+somme algébrique de son résultat propre et de ceux de ses filiales prises en compte ;
+
+2° (Abrogé).
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 68 A de la loi n° 87-1060 du 30 décembre 1987.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 quinquies I, 209 sexies
+
+	**Modifié par**:
+
+	  - Décret n°90-315 du 9 avril 1990 - art. 2 (V) JORF 10 avril 1990
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YA (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
 
 ###### Article 46 quater-0 YA
 
@@ -9078,43 +9067,6 @@ Modifications effectuées en conséquence de l'article 68 A de la loi n° 87-106
 	**Modifié par**:
 
 	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
-
-
-##### Sociétés agréées au régime de l'intégration fiscale.
-
-###### Article 46 quater-0 Y
-
-Lorsqu'une société agréée visée à l'article 209 sexies du code général des impôts opte pour le report en arrière des déficits
-prévu au I de l'article 220 quinquies du même code :
-
-1° Le bénéfice ou le déficit constaté au titre d'un exercice s'entend [*définition*] du résultat d'ensemble de cette société,
-égal à la somme algébrique de son résultat propre et de ceux de ses filiales prises en compte ;
-
-2° La condition d'investissement s'apprécie en retenant le montant total des investissements nets en biens amortissables et
-des amortissements pratiqués par les sociétés dont le résultat est pris en compte.
-
-**Nota:**
-
-[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 2 JORF 10 avril 1990*]
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 sexies
-	  - CGI 220 quinquies I
-
-	**Créé par**:
-
-	  - Décret n°85-598 du 10 juin 1985 - art. 4 (V) JORF 14 juin 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YA (V)
 
 
 ##### Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural

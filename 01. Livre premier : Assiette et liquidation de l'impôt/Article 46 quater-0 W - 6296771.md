@@ -2,26 +2,27 @@
 
 I. L'entreprise qui exerce l'option prévue au premier alinéa du I de l'article 220 quinquies du code général des impôts doit
 joindre à la déclaration de résultat de l'exercice au titre duquel cette option a été exercée une déclaration conforme au
-modèle fixé par l'administration [*formalité obligatoire*].
+modèle fixé par l'administration.
+
+Lorsque cette déclaration est déposée par une société qui a fait l'objet d'un rachat dans les conditions prévues aux articles
+220 quater ou 220 quater A du code général des impôts, elle est accompagnée d'un document attestant le montant du crédit
+d'impôt obtenu par la société constituée pour le rachat, au titre de l'exercice qui suit celui au cours duquel a été réalisé
+le bénéfice sur lequel un déficit est reporté en arrière.
 
 II. En cas d'utilisation de la créance pour le paiement de l'impôt sur les sociétés ou de cession dans les conditions prévues
 au cinquième alinéa de l'article précité, l'entreprise doit produire l'état de suivi qui lui a été remis, à sa demande, par
 l'administration.
 
-**Nota:**
-
-[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 3 JORF 10 avril 1990*]
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 220 quinquies I al. 1, al. 5
+	  - CGI 220 quinquies, 220 quater, 220 quater A
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 4 () JORF 31 décembre 1985
+	  - Décret n°90-315 du 9 avril 1990 - art. 3 (V) JORF 10 avril 1990
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - HISTO: Edition du 15 juin 1990
