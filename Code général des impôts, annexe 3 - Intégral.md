@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1979-07-01
+Version Consolidée au 1980-01-19
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -4830,6 +4830,35 @@ majorations de droits et amendes fiscales.
 #### Chapitre III : Taxes diverses
 
 ##### Section I : Taxe sur les salaires
+
+##### I : Champ d'application.
+
+###### Article 50
+
+A l'exception des collectivités locales et de leurs groupements, des services départementaux de lutte contre l'incendie, des
+bureaux d'aide sociale dotés d'une personnalité propre lorsqu'ils sont subventionnés par les collectivités locales, du centre
+de formation des personnels communaux et des caisses des écoles, les personnes physiques et morales, associations et
+organismes, qui payent des traitements, salaires, indemnités et émoluments et ne sont pas assujettis à la taxe sur la valeur
+ajoutée ou ne l'ont pas été sur 90 % au moins de leur chiffre d'affaires au titre de l'année civile précédant celle du
+paiement desdites rémunérations, sont tenus, en exécution de l'article 231 du code général des impôts et dans les conditions
+prévues aux articles 51 à 53 quater, 369, 370 et 374 ci-dessous, d'acquitter une taxe égale à 4,25 % du montant de ces
+traitements, salaires, indemnités et émoluments.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 231
+	  - CGIAN3 51, 52, 53, 53 bis, 53 ter, 53 quater, 369, 370, 374
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 24 (P) JORF 19 janvier 1980
+
 
 ##### II : Base de la taxe
 
@@ -15023,6 +15052,40 @@ exigibles.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 (V)
 
 
+###### Article 405 I
+
+Les droits sont perçus par les redevables bénéficiant de l'autorisation  sous leur responsabilité et à leurs risques et
+périls.
+
+La perception de l'impôt est constatée par l'apposition, très apparente, d'une formule comprenant :
+
+la mention "droit de timbre payé sur état" ;
+
+la date de l'autorisation, lorsque celle-ci est nécessaire.
+
+L'apposition de cette formule n'est pas obligatoire lorsqu'il s'agit des droits prévus au b du 2° de l'article 313 F ou des
+droits dus sur les tickets de pari mutuel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 313 F 2° b
+
+	**Modifié par**:
+
+	  - Loi n°80-30 du 18 janvier 1980 - art. 17 (P) JORF 19 janvier 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 405 H (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H ter (V)
+
+
 ###### Article 406
 
 1. Dans tous les cas où le droit de timbre est payé sur états le recouvrement à défaut de versement dans les délais et dans
@@ -15915,38 +15978,6 @@ Pour les affiches  l'oblitération peut aussi être constituée par l'inscriptio
 du texte.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 405 I
-
-Les droits sont perçus par les redevables bénéficiant de l'autorisation  sous leur responsabilité et à leurs risques et
-périls.
-
-La perception de l'impôt est constatée par l'apposition  très apparente  d'une formule comprenant :
-
-la mention " droit de timbre payé sur état ";
-
-la date de l'autorisation  lorsque celle-ci est nécessaire.
-
-L'apposition de cette formule n'est pas obligatoire lorsqu'il s'agit des droits visés aux articles 306-2o et 313 F-3o-b ou
-des droits dus sur les tickets de pari mutuel ou sur les bulletins de bagages délivrés par les compagnies de chemins de fer
-autres que la société nationale des chemins de fer français.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 306 2°
-	  - CGIAN3 313 F 3° b
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 405 H (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H ter (V)
 
 	**Liens**:
 
