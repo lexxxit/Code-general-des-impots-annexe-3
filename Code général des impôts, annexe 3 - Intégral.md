@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-07-19
+Version Consolidée au 1985-08-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12983,6 +12983,51 @@ octobre 1955; à défaut du même versement les états et certificats établis s
 	**Modifié par**:
 
 	  - Décret n°81-721 du 24 juillet 1981 - art. 7 (V) JORF 29 JUILLET 1981
+
+
+##### 2 : Salaires fixes.
+
+###### Article 288
+
+Le tarif des salaires exigibles pour les réquisitions déposées en vue de la délivrance des renseignements hypothécaires
+sommaires visés au I de l'article 42-1 du décret n° 55-1350 modifié du 14 octobre 1955, est fixé comme suit :
+
+1° Réquisitions ne comportant pas la désignation des immeubles :
+
+- 40 F par personne individuellement désignée dans la demande.
+
+2° Réquisitions formulées sans indication de personne :
+
+- 40 F pour celles portant sur cinq immeubles au maximum et 10 F par immeuble au-delà du cinquième.
+
+Est considéré comme immeuble [*définition*] chaque îlot de propriété ou parcelle cadastrale ou chaque lot de copropriété pour
+les biens faisant l'objet d'un état descriptif de division ou d'un document analogue.
+
+3° Réquisitions comportant à la fois la désignation individuelle des immeubles et des personnes :
+
+- 40 F pour celles formulées du chef de trois personnes au maximum et portant sur cinq immeubles au maximum.
+
+Il est perçu en sus de ce tarif :
+
+- 10 F par personne indiquée au-delà de la troisième ;
+
+-  2 F par immeuble au-delà du cinquième.
+
+4° Demande de prorogation de la période de certification d'une réquisition antérieure sommaire ou sommaire urgente hors
+formalité ;
+
+- 40 F par demande de prorogation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1350 1955-10-14 art. 42-1 I
+	  - Loi n°1855-03-23 ART. 4
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 3 (V) JORF 9 août 1985 en vigueur le 1er octobre 1985
 
 
 #### Chapitre II : Droits de timbre
