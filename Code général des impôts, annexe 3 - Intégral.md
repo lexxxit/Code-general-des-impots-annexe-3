@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-01-22
+Version Consolidée au 2004-02-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16557,6 +16557,78 @@ dépend l'entreprise propriétaire des biens.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 244 quater E (V)
+
+
+##### Section V quinquies : Réduction d'impôt pour versement de dons aux oeuvres et organismes d'intérêt général prévue à l'article 238 bis du code général des impôts
+
+###### Article 49 septies X
+
+Pour l'application des dispositions de l'article 238 bis du code général des impôts, les entreprises doivent annexer une
+déclaration spéciale à la déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation
+des dépenses ouvrant droit à réduction d'impôt et mentionnées à l'article précité.
+
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
+comptable chargé du recouvrement de l'impôt sur les sociétés lors du versement du solde de cet impôt. Par exception, les
+sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, hormis les sociétés
+mères, doivent annexer la déclaration spéciale à leur déclaration de résultat de l'exercice ou de la période d'imposition en
+cours lors de la réalisation des dépenses mentionnées à l'article précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis, 223 A
+
+	**Créé par**:
+
+	  - Décret n°2004-185 du 24 février 2004 - art. 1 () JORF 27 février 2004
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies QC (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 49 septies XA
+
+1. Pour l'application des dispositions de l'article 200 bis du code général des impôts, les personnes physiques titulaires de
+la réduction d'impôt doivent joindre à leur déclaration de revenus ou à leur déclaration de résultat de l'exercice, s'il
+s'agit d'exploitant individuel, un état de suivi conforme à un modèle établi par l'administration.
+
+2. Pour l'application des dispositions de l'article 220 E du code général des impôts, les personnes morales passibles de
+l'impôt sur les sociétés doivent déposer auprès du comptable chargé du recouvrement de l'impôt sur les sociétés, lors du
+versement du solde de cet impôt, un état de suivi conforme à un modèle établi par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis, 200 bis, 220 E
+
+	**Créé par**:
+
+	  - Décret n°2004-185 du 24 février 2004 - art. 1 () JORF 27 février 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 49 septies XB
+
+La réduction d'impôt correspondant aux versements de dons aux oeuvres et organismes d'intérêt général effectués au cours de
+l'année ou de l'exercice au titre duquel l'impôt est calculé est utilisée en paiement de cet impôt avant les réductions
+d'impôt de même nature calculées au titre d'années ou d'exercices antérieurs. Lorsque le redevable dispose de réductions
+d'impôts reportables, celles-ci s'imputent par ordre d'ancienneté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-185 du 24 février 2004 - art. 1 () JORF 27 février 2004
 
 
 ##### Section VI : Indemnités de congé payé
