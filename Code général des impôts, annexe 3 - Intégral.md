@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1993-03-26
+Version Consolidée au 1993-03-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12941,6 +12941,32 @@ des opérations réalisées en France.
 	  - HISTO: Edition du 10 juillet 1983
 
 
+###### Article 49 septies I
+
+Pour la détermination des dépenses de recherche visées aux a, b, f et au 2° du h du II de l'article 244 quater B du code
+général des impôts, il y a lieu de retenir : 
+
+a. Les dotations aux amortissements fiscalement déductibles, y compris les amortissements pratiqués au cours de l'exercice et
+réputés différés en période déficitaire ; 
+
+b. Au titre des dépenses de personnel, les rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure
+où celles-ci correspondent à des cotisations sociales obligatoires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater B II
+
+	**Modifié par**:
+
+	  - Décret n°93-506 du 25 mars 1993 - art. 1 () JORF 27 mars 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 49 septies I bis
 
 Les réunions officielles de normalisation visées au 3° du g du II de l'article 244 quater B du code général des impôts sont
@@ -12975,6 +13001,22 @@ l'Organisation internationale de normalisation et la Commission électro-techniq
 	  - Décret n°92-836 1992-08-27
 
 
+###### Article 49 septies J
+
+Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt est calculé par comparaison
+entre les dépenses de l'année civile et la moyenne des dépenses des deux années civiles précédentes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°93-506 du 25 mars 1993 - art. 2 () JORF 27 mars 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 49 septies L
 
 Le crédit d'impôt en faveur de la recherche est imputé sur l'impôt dû après les prélèvements non libératoires et les autres
@@ -12994,6 +13036,41 @@ crédits d'impôt.
 
 	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
 	  - HISTO: Edition du 10 juillet 1983
+
+
+###### Article 49 septies M
+
+Les entreprises doivent exercer l'option pour le crédit d'impôt au plus tard lors du dépôt de la déclaration de résultat du
+premier exercice de la période pour laquelle elles désirent bénéficier de ce crédit.
+
+Toutefois, les entreprises nouvelles et les entreprises qui exposent pour la première fois des dépenses de recherche peuvent
+opter au plus tard à la date limite de dépôt de la déclaration de résultat du premier exercice clos à compter du 31 décembre
+de l'année de création ou de l'année au cours de laquelle ont été exposées les premières dépenses de recherche.
+
+L'option résulte du dépôt de la déclaration spéciale prévue pour le calcul du crédit d'impôt qui devra être annexée à la
+déclaration annuelle de résultat que les entreprises sont tenues de déposer en vertu de l'article 53 A du code général des
+impôts ou du 1 de l'article 223 du même code. Une copie de la déclaration spéciale doit être adressée dans le même délai à la
+direction du développement scientifique et technologique et de l'innovation du ministère chargé de la recherche et de la
+technologie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 1, 53 A
+
+	**Modifié par**:
+
+	  - Décret n°93-506 du 25 mars 1993 - art. 4 () JORF 27 mars 1993
+
+	**Cité par**:
+
+	  - Code de la recherche - art. L131-3 (Ab)
+	  - Code de la recherche - art. L511-3 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 49 septies N
@@ -13022,102 +13099,17 @@ dans les conditions prévues à l'article R. 45 B-1 du livre des procédures fis
 
 ##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.
 
-###### Article 49 septies I
-
-Pour la détermination des dépenses de recherche visées à l'article 244 quater B-II-a , b et f du code général des impôts, il
-y a lieu d retenir : 
-
-a. Les dotations aux amortissements fiscalement déductibles, y compris les amortissements pratiqués au cours de l'exercice et
-réputés différés en période déficitaire ; 
-
-b. Au titre des dépenses de personnel, les rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure
-où celles-ci correspondent à des cotisations sociales obligatoires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quater B II a, b
-
-	**Modifié par**:
-
-	  - Décret n°88-378 du 15 avril 1988 - art. 1 (V) JORF 21 avril 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
-
-
-###### Article 49 septies J
-
-Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt est calculé par comparaison
-entre les dépenses de deux années civiles successives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°83-475 du 10 juin 1983 - art. 7 (V) JORF 12 JUIN 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
-
-
 ###### Article 49 septies K
 
-Pour le calcul du crédit d'impôt, les dépenses de recherche de l'année précédente sont revalorisées en fonction de la
+Pour le calcul du crédit d'impôt, les dépenses de recherche des deux années précédentes sont revalorisées en fonction de la
 variation de l'indice moyen annuel des prix à la consommation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°83-475 du 10 juin 1983 - art. 5 (V) JORF 12 JUIN 1983
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
-
-
-###### Article 49 septies M
-
-Les entreprises doivent exercer l'option pour le crédit d'impôt au plus tard lors du dépôt de la déclaration de résultat du
-premier exercice de la période pour laquelle elles désirent bénéficier de ce crédit.
-
-L'option résulte du dépôt de la déclaration spéciale [*obligation*] prévue pour le calcul du crédit d'impôt qui devra être
-annexée à la déclaration annuelle de résultat que les entreprises sont tenues de déposer en vertu soit de l'article 53 A,
-soit de l'article 223-1 du code général des impôts. Une copie de la déclaration spéciale doit être adressée dans le même
-délai à la direction du développement scientifique et technologique et de l'innovation du ministère chargé de la recherche et
-de la technologie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 1
-	  - CGI 53 A
-
 	**Modifié par**:
 
-	  - Décret n°88-378 du 15 avril 1988 - art. 2 (V) JORF 21 avril 1988
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
-
-	**Cité par**:
-
-	  - Code de la recherche - art. L131-3 (Ab)
-	  - Code de la recherche - art. L511-3 (V)
+	  - Décret n°93-506 du 25 mars 1993 - art. 3 () JORF 27 mars 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 49 septies O
