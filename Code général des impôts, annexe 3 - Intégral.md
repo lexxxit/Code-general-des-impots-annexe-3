@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1981-12-31
+Version Consolidée au 1982-01-01
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -757,15 +757,15 @@ La taxe est perçue au taux de 12 F pour les ressortissants des parties contract
 
 ### ASSIETTE ET CONTROLE DE L'IMPOT
 
-#### PROCEDURE DE REGLEMENT SIMPLIFIE.
+#### PROCEDURE DE REGLEMENT PARTICULIERE
 
 ###### Article 344 J
 
-1° Pour l'application des dispositions de l'article 1649 septies G 3° du code général des impôts, relatif aux conditions
-d'application de la le versement des rappels de droits simples et des intérêts de retard visés au premier alinéa dudit
-article s'effectue sur présentation d'une fiche de paiement préalablement annotée par l'agent chargé de la vérification des
-mentions relatives au comptable compétent à l'identité du débiteur des impôts taxes et intérêts de retard et au montant de la
-dette fiscale;
+1° Pour l'application des dispositions de l'article L. 62 du livre des procédures fiscales relatif aux conditions
+d'application de la procédure de règlement particulière, le versement des rappels de droits simples et des intérêts de retard
+visés au premier alinéa dudit article s'effectue sur présentation d'une fiche de paiement préalablement annotée par l'agent
+chargé de la vérification des mentions relatives au comptable compétent à l'identité du débiteur des impôts taxes et intérêts
+de retard et au montant de la dette fiscale;
 
 2° Le versement des droits simples et intérêts de retard est constaté par la délivrance d'un certificat de paiement  qui
 mentionne obligatoirement :
@@ -789,11 +789,21 @@ recouvrement en opère l'exécution par l'imputation des versements anticipés  
 
 	**Cite**:
 
-	  - CGI 1649 septies G 3°
+	  - CGI L62
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
+
+	**Transféré par**:
+
+	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R62-1 (1° du CGIAN3 344 J)
+	  - Livre des procédures fiscales R62-2 (2° du CGIAN3 344 J)
+	  - Livre des procédures fiscales R62-3 (3° du CGIAN3 344 J)
 
 
 ### DISPOSITIONS DIVERSES
@@ -895,17 +905,23 @@ cet organisme.
 Ceux-ci disposent d'un délai de cinq jours pour fournir leurs observations  qui sont annexées au procès-verbal.
 
 2. Le directeur des services agricoles appelé à se faire entendre par la commission départementale conformément à l'article
-66 du code général des impôts peut se faire représenter par un fonctionnaire de son service devant cette commission.
+R. 1-2 du livre des procédures fiscales peut se faire représenter par un fonctionnaire de son service devant cette
+commission.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - CGI R*1-2
+	  - CGI R1-3
+
 	**Cite**:
 
-	  - CGI 66
+	  - CGI R1-2
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 349
@@ -3309,6 +3325,35 @@ Ces renseignements doivent être fournis avant le 31 mars de l'année suivant ce
 	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 
+##### F : Cultures agréées dans les départements d'outre-mer
+
+###### Article 38 sexdecies T
+
+I. Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, l'exonération d'impôt sur le
+revenu est accordée à compter du 1er janvier de l'année suivant celle de l'exécution des travaux. Pour en bénéficier, le
+contribuable doit formuler une réclamation après la mise en recouvrement du rôle de ladite année, dans le délai prévu à
+l'article R. 196-1 du livre des procédures fiscales.
+
+Lorsque la réclamation est présentée après l'expiration de ce délai, mais au cours des cinq premières années de la période
+pour laquelle l'exonération est prévue, elle donne lieu à exonération pour la fraction de ladite période restant à courir à
+partir du 1er janvier de l'année de sa présentation.
+
+II. L'avantage fiscal prévu au I est supprimé de plein droit lorsque les parcelles précédemment exonérées cessent d'être
+affectées à des cultures agréées ou d'être exploitées dans les conditions fixées par l'arrêté d'agrément prévu à l'article 38
+sexdecies S.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 38 sexdecies S
+	  - Livre des procédures fiscales R196-1
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ##### VI : Traitements, salaires, pensions et rentes viagères
 
 ##### Détermination du revenu imposable.
@@ -3425,6 +3470,21 @@ L'estimation de l'actif est faite d'après sa valeur réelle, nonobstant toute �
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 112 (V)
+
+
+###### Article 41 quater
+
+En cas de contestation sur les déclarations estimatives prévues aux articles 41 bis et 41 ter, la procédure instituée par le
+2 de l'article 667 du code général des impôts pour la saisine de la commission départementale de conciliation et l'article L.
+55 du livre des procédures fiscales relatif à la procédure de redressement contradictoire est applicable.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 667
+	  - CGIAN3 41 bis, 41 ter
+	  - Livre des procédures fiscales - art. L55 (M)
 
 
 ###### Article 41 quinquies
@@ -5222,6 +5282,23 @@ vertu des articles 145 et 146 du code général des impôts.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 sexies (V)
 
 
+###### Article 49 sexies
+
+Pour autant qu'elles ne sont pas contraires à celles de l'article 49 quinquies, les dispositions prévues au titre III du
+livre des procédures fiscales en ce qui concerne les formes et délais de réclamation, la procédure devant le tribunal
+administratif et les dégrèvements d'office, sont applicables aux demandes définies à l'article précité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quinquies (V)
+
+
 ###### Article 49 ter
 
 I. La somme à restituer en vertu de l'article 49 bis est égale, en ce qui concerne chacune des impositions énumérées à
@@ -6109,6 +6186,49 @@ Il en est de même pour les chiffres limites déterminés dans les conditions pr
 	  - HISTO: EDITION 1979-07-01
 
 
+##### Section IX : Exploitants agricoles
+
+###### Article 98 bis
+
+1  Les exploitants agricoles qui bénéficient du régime du remboursement forfaitaire prévu aux articles 298 bis, 298 quater et
+298 quinquies du code général des impôts peuvent, pour leurs ventes de fruits et légumes, recevoir mandat de leurs clients
+redevables de la taxe sur la valeur ajoutée de rédiger en leur lieu et place les attestations qu'ils doivent joindre à la
+déclaration annuelle prévue à l'article 266-I de l'annexe II au code général des impôts.
+
+2  Le mandat doit être donné par écrit et figurer soit sur un document valable pour une année civile, soit sur les bulletins
+d'achat que les acheteurs délivrent à leurs fournisseurs exploitants agricoles. En ce dernier cas, le mandat ne concerne que
+les produits faisant l'objet des bulletins sur lesquels il figure.
+
+3  Les clients qui donnent le mandat prévu au 1 ne peuvent pas délivrer, pour l'année considérée, l'attestation annuelle
+prévue par l'article 290 bis du code général des impôts.
+
+4  Les exploitants agricoles visés au 1 établissent une attestation pour chaque client redevable de la taxe sur la valeur
+ajoutée. Cette attestation doit reprendre les bulletins d'achat ou les bons de livraison que ce client leur a délivrés au
+cours de l'année précédente en application de l'article 290 bis du code général des impôts; elle se substitue à celle prévue
+par ce texte et est opposable au client qu'elle concerne.
+
+5  Les exploitants agricoles visés au 1 doivent conserver les bulletins d'achat ou les bons de livraison correspondant aux
+attestations qu'ils ont établies eux-mêmes, pendant le délai prévu à l'article L. 82 du livre des procédures fiscales et les
+représenter à toute demande des agents de l'administration des impôts.
+
+6  Les attestations annuelles rédigées par les exploitants agricoles sont conformes au modèle indiqué par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 290 bis
+	  - CGI 298 bis
+	  - CGI 298 quater
+	  - CGI 298 quinquies
+	  - CGI L82
+	  - CGIAN2 266 I
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 #### Chapitre IV : Redevance sanitaire d'abattage
 
 ###### Article 111 quater B
@@ -6404,6 +6524,59 @@ celui prévu pour la viande la moins fortement taxée contenue dans lesdites pr�
 
 #### Chapitre premier : Régime du forfait.
 
+###### Article 111 duodecies
+
+Les déclarations sont adressées séparément aux services respectivement chargés de la fixation du forfait de bénéfice et du
+forfait de chiffre d'affaires, jusqu'à la date, fixée par décret, à partir de laquelle les forfaits sont conclus
+conjointement et pour les mêmes périodes (1).
+
+(1) Voir également livre des procédures fiscales, art. L. 6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 quater
+	  - CGIAN3 111 octies, 111 nonies, 111 decies
+	  - Livre des procédures fiscales - art. L6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+
+###### Article 111 octies
+
+L'administration procède, d'après les renseignements dont elle dispose et ceux qu'elle peut être amenée à réclamer à
+l'entreprise, à à l'évaluation du bénéfice que celle-ci peut produire normalement et des éléments qui concourent à la
+détermination du montant de la taxe sur la valeur ajoutée et des taxes assimilées (1).
+
+(1) Voir également livre des procédures fiscales, art. R. 5-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 sexies, 282 I
+	  - Livre des procédures fiscales - art. R5-1 (P)
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+
 ###### Article 111 septies
 
 Les entreprises dont le bénéfice ou le chiffre d'affaires imposable est fixé forfaitairement sont tenues de souscrire, avant
@@ -6453,6 +6626,28 @@ l'article 111 quinquies sont ajustés au prorata du temps d'exploitation de l'en
 	**Codifié par**:
 
 	  - Décret n°99-382 1999-05-18
+
+
+###### Article 111 terdecies
+
+Lorsque, en application de l'article L. 6 du livre des procédures fiscales, les forfaits de bénéfice et de chiffre d'affaires
+sont conclus pour les mêmes périodes, la dénonciation de ces forfaits est globale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L6 (Ab)
 
 
 ###### Article 111 undecies
@@ -7158,6 +7353,30 @@ présentation d'un acquit-à-caution des contributions indirectes.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 AA (V)
+
+
+###### Article 178 I
+
+Les dispositions des articles 451,454 et 455 du code général des impôts et des articles L. 24 et L. 25 du livre des
+procédures fiscales sont applicables aux transports des produits visés aux articles 178 A et 178 G. 
+
+En outre, pour les expéditions d'essences d'absinthe ou produits assimilés, les transporteurs sont tenus de représenter les
+scellements intacts, à toute réquisition des personnes habilitées à verbaliser, à l'instant même de la réquisition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°97-661 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 G (V)
+	  - Code général des impôts, CGI. - art. 451 (V)
+	  - Code général des impôts, CGI. - art. 454 (V)
+	  - Livre des procédures fiscales - art. L24 (V)
 
 
 ###### Article 178 N
@@ -8478,6 +8697,54 @@ impôts.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 181
+
+Toute personne qui veut fabriquer, soit en vue de la vente, soit pour ses propres besoins, ou exercer le commerce des
+substances actives définies à l'article 179 doit, huit jours au moins avant le commencement de ses opérations, en faire la
+déclaration au bureau de déclarations de la direction générale des impôts de sa résidence.
+
+La cessation, la suspension ou la reprise des opérations portant sur lesdites substances est déclarée quarante-huit heures au
+moins à l'avance [*délai*]    Les personnes désignées au premier alinéa sont tenues de présenter aux agents des impôts leur
+comptabilité et tous documents annexes et de leur fournir les justifications nécessaires à l'exercice de leur contrôle. Ces
+divers documents doivent être conservés pendant le délai prévu à l'article L. 82 du livre des procédures fiscales (1).
+
+(1) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L. 26 et L. 27.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L26
+	  - CGI L27
+	  - CGI L82
+	  - CGIAN3 179
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 182
+
+Aucune vente ou livraison de substances soumises à la réglementation ne peut être effectuée à destination des personnes
+visées à l'article 180, si l'acheteur ou le destinataire n'est pas en mesure de représenter un certificat établi par le
+service des impôts attestant qu'il est autorisé à faire emploi de ces substances.
+
+Ces certificats sont conservés par le vendeur ou l'expéditeur desdites substances pendant le délai prévu à l'article L. 82 du
+livre des procédures fiscales et présentés à toute réquisition des fonctionnaires des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN3 180
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 #### Chapitre II : Garantie des matières d'or, d'argent et de platine
 
 ##### Section II : Organisation des bureaux de garantie.
@@ -8738,6 +9005,53 @@ déposée au plus tard quinze jours avant leur entrée en fonctionnement.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 219 C
+
+Les fabricants de sucre sont tenus de présenter aux agents des impôts les matières saccharifères, les sucres, sirops,
+mélasses et autres matières saccharines en leur possession (1).
+
+(1) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L. 26 et L. 27.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L26
+	  - CGI L27
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 219 J
+
+Les agents des impôts procédent, en début et en fin de campagne de fabrication, à l'inventaire des quantités de sucre
+existantes.
+
+Ils peuvent en outre procéder à tous autres inventaires qui leur paraissent nécessaires.
+
+Pour l'application de l'article L. 51 du livre des procédures fiscales relatif aux vérifications de comptabilité, les
+rapprochements, auxquels donne lieu l'établissement de l'inventaire, entre les comptes prévus aux articles 219 D à 219 F et
+la comptabilité commerciale, constituent des "opérations déterminées".
+
+A l'issue des inventaires ou contrôles, tout excédent est ajouté aux charges du compte général de fabrication visé à
+l'article 219 D et tout manquant est ajouté aux décharges du même compte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L51
+	  - CGIAN3 219 D
+	  - CGIAN3 219 E
+	  - CGIAN3 219 F
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 219 K
@@ -10214,6 +10528,27 @@ exemplaires est remis à la société  revêtu de l'acquit du service des impôt
 	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
+##### Bulletins de dépôt de bagages.
+
+###### Article 313 O
+
+Tous les documents de comptabilité ou autres nécessaires pour la vérification des états établis en vue du paiement des droits
+de timbre, sont conservés par la société pendant le délai prévu à l'article L. 82 du livre des procédures fiscales (1).
+
+(1) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. R. 37-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGI R37-1
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ##### 3° : Récépissés et bulletins d'expédition
 
 ###### Article 313 P
@@ -10572,6 +10907,30 @@ formes ci-dessus déterminées.
 	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
+###### Article 313 AG
+
+Les entrepreneurs  commissionnaires et intermédiaires de transports  ainsi que les expéditeurs et les destinataires,
+lorsqu'ils sont soumis au droit de communication réglementé par le livre II, chapitre VII, du code général des impôts doivent
+conserver pendant le délai prévu à l'article L. 82 du livre des procédures fiscales tous les documents de comptabilité et
+autres nécessaires à la vérification de l'administration et notamment sans que cette énonciation soit limitative les lettres
+de voitures les souches du registre prévu à l'article 313 W et les récépissés extraits de ce registre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN3 313 W
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R37-1
+
+
 ###### Article 313 AH
 
 Les entreprises de transports qui  procédant à l'enlèvement de marchandises chez l'expéditeur  les entreposent dans des
@@ -10627,6 +10986,56 @@ d'envois indivisibles ou qu'il n'existe pour certains trafics des prescriptions 
 
 	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 313 X
+
+Le récépissé visé à l'article 313 W est établi en double exemplaire. L'un de ces exemplaires est remis à l'expéditeur,
+l'autre accompagne l'expédition et est remis au destinataire (1).
+
+(1) Voir également livre des procédures fiscales, art. R. 24-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 W
+	  - Livre des procédures fiscales - art. R24-3 (M)
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - HISTO: Edition du 31 mars 2000
+
+
+###### Article 313 Y
+
+Lorsqu'une lettre de voiture a été établie dans les conditions prévues à l'article 313 W, premier alinéa  un double de cette
+lettre accompagne l'expédition.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 W
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R24-3 (al. 2 du CGIAN3 313 Y)
 
 	**Codifié par**:
 
@@ -15058,6 +15467,29 @@ le comptable du Trésor de remettre à l'intéressé une quittance détachée d'
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 364
+
+1. Si l'un des acomptes prévus à l'article 360 n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il
+est devenu exigible la majoration de 10 % [*sanction, pénalité*] , visée à l'article 1762 du code général des impôts est
+appliquée aux sommes non réglées.
+
+2. Le recouvrement des acomptes ou fractions d'acomptes non réglés et de la majoration de 10 % correspondante est poursuivi,
+le cas échéant, en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général. Les dispositions du titre
+IV du livre des procédures fiscales concernant les impôts dont le recouvrement incombe aux comptables du Trésor, sont
+applicables.
+
+3. Les omissions totales ou partielles constatées dans l'établissement de ce titre ainsi que les erreurs commises dans le
+calcul des acomptes ou de la majoration peuvent être réparées jusqu'à l'expiration de la quatrième année suivant celle au
+cours de laquelle les versements étaient exigibles [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1762
+	  - CGIAN3 360
+
+
 ###### Article 366
 
 Le complément d'impôts à verser qui apparaît, le cas échéant, à la suite du contrôle de la liquidation effectué par le
@@ -15180,18 +15612,23 @@ fixées à l'article 51.
 
 ###### Article 381 Q
 
-Les dispositions des articles 1908 à 1918, 1952 et 1953 du code général des impôts sont applicables au recouvrement de la
-retenue à la source perçue en vertu de l'article 119 bis dudit code.
+Les dispositions relatives au recouvrement prévues au titre IV du livre des procédures fiscales pour les impôts recouvrés par
+les comptables de la direction générale des impôts sont applicables au recouvrement de la retenue à la source perçue en vertu
+de l'article 119 bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1908 à 1918, 1952, 1953, 119 bis
+	  - CGI 119 bis
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 20 juillet 1984
 
 
 ##### 10 : Prélèvement sur les produits de placements à revenu fixes.
@@ -16462,6 +16899,52 @@ compter du 1er novembre 1956 et qui portera sur des intérêts courus depuis la 
 	  - HISTO: Edition du 1er janvier 2006
 
 
+###### Article 406 A 16 D
+
+Les amendes fiscales sanctionnant les infractions visées à l'article 406 A 16 B sont recouvrées comme en matière de timbre
+(1).
+
+(1) Voir titre IV du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 406 A 16 B
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+
+###### Article 406 A 16 E
+
+L'action du Trésor pour la constatation des infractions mentionnées à l'article 406 A 16 B est prescrite à l'expiration du
+délai prévu au deuxième alinéa de l'article L. 188 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 406 A 16 B
+	  - Livre des procédures fiscales - art. L188 (V)
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
+	  - HISTO: Edition du 1er janvier 1982
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+
 ###### Article 406 A 16 F
 
 Le pouvoir de statuer sur les demandes formées par les contrevenants à l'effet d'obtenir la remise des amendes encourues est
@@ -16748,6 +17231,28 @@ comptabilité publique remplit les fonctions de secrétaire.
 	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
+#### D : Dispositions particulières aux impôts directs
+
+###### Article 445
+
+En matière d'impôts directs recouvrés par les comptables du  Trésor, les remises et modérations accordées à titre gracieux
+ainsi que les cotes ou portions de cotes allouées en non-valeurs ou pour lesquelles le comptable chargé du recouvrement a
+obtenu la décharge ou l'atténuation de sa responsabilité font l'objet de certificats qui sont établis par le directeur des
+services fiscaux pour servir de pièces justificatives aux agents du service du recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 417 A CGIAN3 422
+	  - CGIAN3 426 A CGIAN3 428
+	  - CGIAN3 433 A CGIAN3 441
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 # RECOUVREMENT DE L'IMPOT
 
 ## PAIEMENT DE L'IMPOT
@@ -16852,46 +17357,6 @@ visée à l'article 364, sera appliquée aux sommes qui n'auront pas été vers�
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 364
-
-1. Si l'un des acomptes prévus à l'article 360 n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il
-est devenu exigible la majoration de 10 % [*sanction, pénalité*] , visée à l'article 1762 du code général des impôts est
-appliquée aux sommes non réglées.
-
-2. Le recouvrement des acomptes ou fractions d'acomptes non réglés et de la majoration de 10 % correspondante est poursuivi
-le cas échéant  dans les conditions prévues par les articles 1842, 1843, 1844, 1846, 1848, 1908 à 1912 du code général des
-impôts  en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général.
-
-3. Les omissions totales ou partielles constatées dans l'établissement de ce titre ainsi que les erreurs commises dans le
-calcul des acomptes ou de la majoration peuvent être réparées jusqu'à l'expiration de la quatrième année suivant celle au
-cours de laquelle les versements étaient exigibles [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1762
-	  - CGI 1842
-	  - CGI 1843
-	  - CGI 1844
-	  - CGI 1846
-	  - CGI 1848
-	  - CGI 1908
-	  - CGI 1909
-	  - CGI 1910
-	  - CGI 1911
-	  - CGI 1912
-	  - CGIAN3 360
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R254-1
-
-
 ###### Article 365
 
 1. La liquidation de l'impôt est faite par la société et le montant  arrondi au franc inférieur  en est versé par elle sans
@@ -16915,8 +17380,9 @@ inférieur à celui qui a été compris dans la déclaration souscrite en exécu
 la majoration de 10 % est calculée en tenant compte du bénéfice porté dans la déclaration susvisée.
 
 4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation et de la majoration de 10 % correspondante est
-poursuivi le cas échéant  dans les conditions prévues par les articles 1842, 1843, 1844, 1846, 1848 et 1908 à 1912 du code
-général des impôts  en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général.
+poursuivi, le cas échéant, en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général. Les
+dispositions du titre IV du livre des procédures fiscales concernant les impôts dont le recouvrement incombe aux comptables
+du Trésor, sont applicables.
 
 Dans la mesure où le service du recouvrement n'est pas à même d'en déterminer le montant  la majoration de 10 % est recouvrée
 en vertu d'un rôle émis par le directeur des services fiscaux.
@@ -16943,13 +17409,9 @@ l'expiration de la quatrième année suivant celle au cours de laquelle le verse
 	  - CGI 218 A
 	  - CGI 223 1
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R254-1 (4 al. 1 du CGIAN3 365)
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 381 K
@@ -16994,23 +17456,6 @@ b. Et  s'il y a lieu  une copie du procès-verbal de tirage au sort des titres a
 	**Codifié par**:
 
 	  - Décret n°84-875 1984-10-01
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 381 O
-
-Les erreurs commises dans le calcul des acomptes du solde de liquidation des majorations les omissions totales ou partielles
-constatées dans l'assiette de la retenue à la source afférente aux revenus des valeurs mobilières peuvent être réparées
-jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle les versements étaient exigibles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
 
 	**Liens**:
 
@@ -17306,29 +17751,27 @@ du texte.
 
 ###### Article 406 ter
 
-Un avis d'imposition est adressé par le service des impôts au titulaire initial de l'autorisation de construire  redevable de
-la taxe locale d'équipement. Cet avis mentionne les bases de calcul  le montant et les dates limites de paiement de la taxe.
+Un avis établi par le service de l'équipement est adresssé par le service des impôts au titulaire initial de l'autorisation
+de construire, redevable de la taxe locale d'équipement. Cet avis mentionne les bases de calcul le montant et les dates
+limites de paiement de la taxe.
 
 Les redevables tenus solidairement au paiement de la taxe en vertu de l'article 1929-4 du code général des impôts sont
 recherchés en paiement  soit par voie d'avis de mise en recouvrement collectif soit par voie de mise en demeure dans les
-conditions fixées par les articles 1915 à 1918 du même code.
+conditions fixées au titre IV du livre des procédures fiscales pour les impôts recouvrés par les comptables de la direction
+générale des impôts.
 
 Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
-d'équipement  elle doit en informer sans délai le directeur des services fiscaux.
+d'équipement, elle doit en informer sans délai le directeur des services fiscaux.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1915
-	  - CGI 1916
-	  - CGI 1917
-	  - CGI 1918
 	  - CGI 1929 4
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°81-866 1981-09-15
 
 
 ## PENALITES.
@@ -17399,47 +17842,6 @@ spécialement habilités à cet effet par le gouverneur de la banque de France.
 	  - Loi n°84-46 1984-01-24 art. 90 JORF 25 janvier 1984
 
 
-###### Article 406 A 16 D
-
-Les amendes fiscales sanctionnant les infractions visées à l'article 406 A 16 B sont recouvrées comme en matière de timbre et
-notamment  suivant les dispositions prévues aux articles 1915 à 1918, 1947, 1952, 1953 et 1956-1 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1915
-	  - CGI 1916
-	  - CGI 1917
-	  - CGI 1918
-	  - CGI 1947
-	  - CGI 1952
-	  - CGI 1953
-	  - CGI 1956 1
-	  - CGIAN3 406 A 16 B
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 406 A 16 E
-
-L'action du Trésor pour la constatation des infractions mentionnées à l'article 406 A 16 B est prescrite [*prescription*] à
-l'expiration du délai prévu à l'article 1976, deuxième alinéa du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1976 AL. 2
-	  - CGIAN3 406 A 16 B
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ## PROCEDURES.
 
 ###### Article 415
@@ -17492,391 +17894,7 @@ commissaire-priseur.
 
 ## DEGREVEMENTS ET RESTITUTIONS D'IMPOTS
 
-### JURIDICTION CONTENTIEUSE.
-
-###### Article 416 A
-
-Lorsque des garanties autres que celles qui sont prévues aux articles 1952 et 1953 du code général des impôts sont offertes
-elles ne peuvent être acceptées  sur la proposition du comptable chargé du recouvrement  que par le trésorier-payeur général
-ou par le receveur général des finances  trésorier-payeur général de la région parisienne s'il s'agit d'impôts directs perçus
-par voie de rôle et par le directeur des services fiscaux s'il s'agit d'autres impôts droits ou taxes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1952
-	  - CGI 1953
-
-	**Nouveaux textes**:
-
-	  - CGI R277-3
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 416 B
-
-Un arrêté du ministre de l'économie et des finances (1) détermine les conditions dans lesquelles les valeurs mobilières
-peuvent être constituées en garantie et notamment la nature de ces valeurs  ainsi que le montant pour lequel elles sont
-admises  ce montant étant calculé d'après le dernier cours coté au jour du dépôt.
-
-(1) Annexe IV, art. 207 A à 207 N
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R277-6
-
-	**Cite**:
-
-	  - CGIAN4 207 A à CGIAN4 207 N
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 416 C
-
-Le contribuable peut être admis par le comptable chargé du recouvrement  à toute époque  à remplacer la garantie qu'il a
-constituée par l'une des autres garanties prévues à l'article 416 A, d'une valeur au moins égale.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R277-4
-
-	**Cite**:
-
-	  - CGIAN3 416 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 416 D
-
-A défaut de constitution de garantie dans les conditions prévues par les articles 416 A à 416 C, le contribuable qui a
-réclamé le bénéfice des dispositions des articles 1952 et 1953 du code général des impôts peut  en cas de saisie de matériel
-ou de marchandises indispensables à l'exercice de sa profession  être autorisé  soit par le trésorier-payeur général ou par
-le receveur général des finances trésorier-payeur général de la région parisienne  soit par le directeur des services fiscaux
-après avis du comptable chargé du recouvrement  à vendre des objets saisis  à charge par lui soit de les remplacer par des
-objets de valeur au moins égale  soit d'en consigner le prix de vente.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1952
-	  - CGI 1953
-	  - CGIAN3 416 A
-	  - CGIAN3 416 B
-	  - CGIAN3 416 C
-
-	**Nouveaux textes**:
-
-	  - CGI R277-5
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ### JURIDICTION GRACIEUSE.
-
-###### Article 417
-
-Les demandes tendant à obtenir à titre gracieux soit une remise ou une modération  soit une transaction doivent être
-adressées au service des impôts dont dépend le lieu de l'imposition. Elles doivent contenir les indications nécessaires pour
-identifier l'imposition en cause et  le cas échéant  être accompagnées soit de l'avis d'imposition  d'une copie de cet avis
-ou d'un extrait de rôle  soit de l'avis de mise en recouvrement ou d'une copie de cet avis relatif à ladite imposition.
-
-Elles ne sont pas soumises au droit de timbre.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 418
-
-Les demandes sont instruites par l'agent des impôts compétent.
-
-En matière d'impôts directs et à l'exception de celles qui concernent les impôts sur les revenus et les amendes fiscales
-elles sont soumises à l'avis du maire.
-
-En toute matière fiscale  et nonobstant les dispositions des articles 419 et 419 A  le directeur des services fiscaux peut
-statuer sans instruction préalable sur les demandes de transaction et de remise ou modération qui  en l'état des procédures
-en cours à l'époque où elles sont formées  ne peuvent être favorablement accueillies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 419
-	  - CGIAN3 419 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R247-2 (al. 1 et 3 du CGIAN3 418)
-
-
-###### Article 419
-
-Sous réserve des dispositions de l'article 419 A, le pouvoir de statuer sur les demandes des contribuables tendant à une
-transaction remise ou modération est dévolu :
-
-au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 200.000 F par cote exercice ou affaire selon la nature des impôts;
-
-au directeur régional ou au directeur des services fiscaux chargé d'une direction spécialisée pour les affaires relatives à
-des impositions établies à l'initiative des agents placés sous son autorité lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 300.000 F par cote exercice ou affaire;
-
-au directeur général lorsque les sommes faisant l'objet de la demande n'excèdent pas 500.000 F par cote exercice ou affaire;
-
-au ministre dans les autres cas.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-4
-
-	**Cite**:
-
-	  - CGIAN3 419
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 419 A
-
-Le pouvoir de statuer sur les demandes tendant à une transaction remise ou modération en matière de contributions indirectes
-est exercé :
-
-par le directeur des services fiscaux lorsque les droits ou la valeur qui servent de base au calcul des pénalités ou en
-l'absence d'une telle base le montant des amendes n'excèdent pas 200.000 F et qu'en outre le montant des droits effectivement
-fraudés ne dépasse pas le quart de ce chiffre;
-
-par le directeur général quel que soit le montant des amendes lorsque le montant des droits effectivement fraudés ne dépasse
-pas 100.000 F;
-
-par le ministre dans les autres cas.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-5
-
-	**Cité par**:
-
-	  - Décret n°80-591 du 24 juillet 1980 - art. 2 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 419 B
-
-Par dérogation aux dispositions des articles 419 et 419 A, le directeur général des impôts est compétent pour statuer sur les
-demandes qui relèveraient normalement de la compétence du ministre lorsqu'elles sont présentées soit pour un contribuable en
-état de règlement judiciaire dans les conditions prévues à l'article 69 de la loi no 67-563 du 13 juillet 1967, soit par un
-redevable admis au bénéfice de la suspension provisoire des poursuites prévue par l'ordonnance no 67-820 du 23 septembre
-1967.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-6
-
-	**Cite**:
-
-	  - CGIAN3 419
-	  - CGIAN3 419 A
-	  - Loi n°67-563 du 13 juillet 1967 - art. 69 (Ab)
-	  - Ordonnance 67-820 1967-09-23
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 420
-
-Les décisions prises par le directeur des services fiscaux ou le directeur régional sont susceptibles de recours devant le
-directeur général.
-
-Les décisions rendues par le directeur général ou par le ministre peuvent faire l'objet de recours devant les mêmes autorités
-mais seulement si des faits nouveaux sont invoqués.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-7
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 421
-
-Des remises ou modérations d'impôts directs ou en toute matière fiscale de pénalités peuvent être prononcées des transactions
-peuvent être consenties sur l'initiative du service des impôts dans les limites et conditions fixées par le directeur général
-des impôts après avis du conseil d'administration.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-8
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 422
-
-Les décisions prises en vertu des articles 419 à 421 sont notifiées aux intéressés dans les conditions fixées par l'article
-2009 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2009
-	  - CGIAN3 419
-	  - CGIAN3 419 A
-	  - CGIAN3 419 B
-	  - CGIAN3 420
-	  - CGIAN3 421
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 422 A
-
-Les dispositions des articles 417 à 422 ne sont pas applicables aux demandes tendant à obtenir à titre gracieux une remise ou
-une modération des pénalités afférentes à l'assiette de la taxe locale d'équipement. Ces demandes doivent être adressées au
-ministère chargé de l'urbanisme  qui statue.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 417, 418, 419 A, 419 B, 420, 421,422
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 423
-
-Les tiers qui  par application des dispositions du code général des impôts ou de toutes autres dispositions des lois fiscales
-sont tenus de payer l'impôt en l'acquit des redevables  peuvent soumettre à la juridiction gracieuse une demande tendant à
-être dispensés de l'obligation qu'ils assument en vertu des dispositions précitées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 424
-
-1. En ce qui concerne les impôts recouvrés par les comptables directs du Trésor  la demande est adressée au trésorier-payeur
-général dont dépend le lieu d'imposition.
-
-Après examen de la demande  le trésorier-payeur général prend l'avis du directeur des services fiscaux.
-
-2. En ce qui concerne les impôts recouvrés par les comptables de la direction générale des impôts  la demande est adressée au
-directeur des services fiscaux dont dépend le comptable chargé du recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R427-10 (1 du CGIAN3 424)
-	  - Livre des procédures fiscales R427-11 (2 du CGIAN3 424)
-
-
-###### Article 425
-
-1. En matière d'impôts recouvrés par les comptables directs du Trésor le trésorier-payeur général statue lorsque le versement
-dont le requérant demande à être dispensé n'excède pas par cote le montant des sommes dont l'admission en non-valeurs peut
-être prononcée par le directeur des services fiscaux en vertu de l'article 428 et que son avis concorde avec celui du chef de
-service consulté.
-
-Le directeur de la comptabilité publique statue :
-
-lorsque s'agissant de sommes n'excédant pas les limites de la compétence du trésorier-payeur général l'avis de ce dernier ne
-concorde pas avec celui du directeur des services fiscaux et qu'ayant été saisies de l'affaire en raison de ce désaccord la
-direction de la comptabilité publique et la direction générale des impôts ont émis des avis concordants;
-
-lorsque s'agissant de sommes excédant les limites de la compétence du trésorier-payeur général la direction de la
-comptabilité publique et la direction générale des impôts ont émis des avis concordants.
-
-Le ministre statue après avis du comité des remises et transactions quel que soit le montant des sommes dues lorsque les avis
-émis par la direction de la comptabilité publique et la direction générale des impôts ne sont pas concordants.
-
-2. En ce qui concerne les impôts recouvrés par les comptables de la direction générale des impôts le pouvoir de statuer est
-dévolu :
-
-au directeur des services fiscaux lorsque les sommes faisant l'objet de la demande n'excèdent pas 200.000 F par exercice ou
-affaire selon la nature des impôts;
-
-au directeur général après avis du conseil d'administration lorsque les sommes faisant l'objet de la demande n'excèdent pas
-500.000 F par exercice ou affaire;
-
-au ministre après avis du comité des remises et transactions dans les autres cas.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 428
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R427-10 (1 du CGIAN3 425)
-	  - Livre des procédures fiscales R427-11 (2 du CGIAN3 425)
-
 
 ###### Article 428
 
@@ -18022,110 +18040,5 @@ Un inspecteur de la trésorerie générale remplit les fonctions de secrétaire.
 	**Modifié par**:
 
 	  - Loi n°76-394 1976-05-06 ART. 1 JORF 7 MAI 1976
-
-
-###### Article 444 A
-
-Le directeur des services fiscaux ou le directeur régional peut dans les conditions fixées par le directeur général des
-impôts déléguer son pouvoir de décision aux agents placés sous son autorité.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R247-9
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 445
-
-En matière d'impôts directs recouvrés par les comptables du      r  Trésor, les remises et modérations accordées en vertu des
-articles 417 à 422 ainsi que les cotes ou portions de cotes allouées en non-valeurs en vertu des articles 426 à 428 ou pour
-lesquelles le comptable chargé du recouvrement a obtenu la décharge ou l'atténuation de sa responsabilité dans les conditions
-prévues aux articles 433 à 441 font l'objet de certificats qui sont établis par le directeur des services fiscaux pour servir
-de pièces justificatives aux agents du service du recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 417 A CGIAN3 422
-	  - CGIAN3 426 A CGIAN3 428
-	  - CGIAN3 433 A CGIAN3 441
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 446
-
-Les dispositions des articles 417 à 444 ne sont pas applicables aux taxes qui ne sont assimilées aux contributions directes
-que pour le recouvrement et non pour la présentation  l'instruction et le jugement des réclamations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 417 A CGIAN3 444
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## SECRET PROFESSIONNEL.
-
-###### Article 447
-
-Les extraits visés à l'article 2011 du code général des impôts donnent lieu  au profit des titulaires des recettes locales ou
-des recettes auxiliaires ou des gérants de bureaux auxiliaires des impôts  au paiement de 0,10 F par extrait et  en cas de
-recherche  de 0,20 F par année indiquée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2011
-
-	**Nouveaux textes**:
-
-	  - CGI R107-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 448
-
-Les agents des impôts appelés à délivrer des extraits de leurs registres dans les conditions prévues à l'article 2012 du code
-général des impôts sont autorisés à percevoir :
-
-1o 0,40 F, pour recherches de chaque année indiquée  jusqu'à la sixième inclusivement  et 0,20 F pour chacune des autres
-années au-delà de la sixième  sans qu'en aucun cas la rémunération puisse de ce chef  excéder 5 F;
-
-2o Une somme calculée conformément au tarif des honoraires dus aux notaires à l'occasion de la délivrance d'expéditions aux
-particuliers, pour chaque extrait ou copie d'enregistrement ou d'acte déposé outre le papier timbré tout rôle commencé étant
-dû en entier.
-
-Ils ne peuvent rien exiger au-delà.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2012
-
-	**Nouveaux textes**:
-
-	  - CGI R106-1
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
