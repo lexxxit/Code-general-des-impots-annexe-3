@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-03-16
+Version Consolidée au 1986-03-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2456,6 +2456,45 @@ fournir les copies des informations et des logiciels.
 	**Liens**:
 
 	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
+
+
+##### O : Opérations de crédit-bail
+
+##### 1 : Crédit-bail sur fonds de commerce, fonds artisanal ou sur l'un de leurs éléments incorporels non amortissables
+
+###### Article 38 quindecies E
+
+Le locataire d'un fonds de commerce ou d'un établissement artisanal loué dans les conditions prévues au 3° de l'article 1er
+de la loi n° 66-445 du 2 juillet 1966 doit joindre une attestation délivrée par l'entreprise bailleresse à la déclaration de
+résultat de l'exercice au cours duquel le contrat de crédit-bail a été conclu.
+
+Cette attestation comporte les renseignements suivants :
+
+L'identité et l'adresse du locataire ;
+
+La date et la durée du contrat ;
+
+Le prix convenu pour l'acceptation de la promesse unilatérale de vente prévue au contrat ;
+
+Pour chaque échéance le montant des loyers dus et la quote-part de ces loyers prise en compte pour la fixation de ce prix ;
+
+Les modalités stipulées en cas de résiliation du contrat ou de non-acceptation de la promesse unilatérale de vente.
+
+L'attestation est établie sur papier libre conformément au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°66-455 1966-07-02 art. 1 3°
+
+	**Créé par**:
+
+	  - Décret n°86-547 du 14 mars 1986 - art. 1 (V) JORF 18 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### P : Détermination du bénéfice des sociétés admises au régime du forfait.
@@ -14421,6 +14460,35 @@ L'exemplaire de ce récépissé destiné à l'expéditeur n'est pas créé.
 
 	  - HISTO: Edition du 31 mars 2000
 	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+
+###### Article 313 AD
+
+Les dispositions qui précèdent ne sont pas applicables aux expéditions d'un poids ne dépassant pas 50 kilogrammes
+acheminées :
+
+Soit par des véhicules effectuant à titre principal un transport public de voyageurs ;
+
+Soit par des véhicules effectuant uniquement des transports publics de marchandises et circulant  selon des horaires
+réguliers sur des itinéraires déterminés  dans les zones courtes prévues à l'article 14 du décret n° 86-567 du 14 mars 1986.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-567 1986-03-14 art. 14 JORF 18 mars 1986
+
+	**Cite**:
+
+	  - Décret n°86-567 1986-03-14 art. 25 III
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 313 AE
