@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-12-28
+Version Consolidée au 1986-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2738,6 +2738,30 @@ sont évalués suivant les règles définies aux articles 38 nonies et 38 decies
 
 
 ##### Régime simplifié.
+
+###### Article 38 sexdecies JA
+
+Sous réserve des adaptations prévues aux articles 38 sexdecies JC et 38 sexdecies JD, et  de celles mentionnées aux articles
+38 sexdecies OB, 38 sexdecies OE, 38 sexdecies OF, 38 sexdecies RB et 38 sexdecies RC, le bénéfice des exploitants agricoles
+soumis au régime simplifié prévu à l'article 69-II du code général des impôts est déterminé et imposé selon les modalités
+prévues pour la détermination du bénéfice réel par les articles 38 sexdecies C, 38 sexdecies D-I et les articles 38 sexdecies
+E à 38 sexdecies GA, 38 sexdecies OK, 38 sexdecies P à 38 sexdecies QA.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 69 II
+	  - CGIAN3 38 sexdecies OB, 38 sexdecies OE, 38 sexdecies OF, 38 sexdecies JC, 38 sexdecies JD, 38 sexdecies RB, 38 sexdecies RC, 38 sexdecies C, 38 sexdecies D I, 38 sexdecies E, 38 sexdecies F, 38 sexdecies GA, 38 sexdecies-0K, 38 sexdecies P, 38 sexde
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 21 () JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
 
 ###### Article 38 sexdecies JD
 
@@ -5800,6 +5824,40 @@ fournies en plusieurs exemplaires.
 
 
 ##### Section III : Calcul de l'impôt
+
+##### Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations.
+
+###### Article 46 AA
+
+I. L'engagement prévu au quatrième alinéa du I de l'article 199 nonies du code général des impôts est constaté lors du dépôt
+de la déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé et fait l'objet
+d'une note annexe comportant les éléments suivants :
+
+Identité et adresse du contribuable ;
+
+Adresse de l'immeuble concerné ;
+
+Prix de revient ou prix d'acquisition de l'immeuble accompagné des justificatifs ;
+
+Date d'achèvement de l'immeuble et de sa première location le cas échéant.
+
+II. Pendant la durée de l'engagement, les bénéficiaires de la réduction d'impôt joignent à chacune des déclarations de
+revenus une note indiquant le nom des locataires de l'immeuble.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 nonies
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 23 () JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
 
 ##### 2° : Réduction d'impôt pour certains investissements dans des résidences de tourisme
 
@@ -12223,6 +12281,23 @@ au moins 5 % d'acétone et 3 % des impuretés pyrogénées qui leur donnent une 
 	  - PEREMPTION: Loi n°95-1346 1995-12-30 art. 25-I Finances pour 1995, JORF 31 décembre 1995
 
 
+###### Article 169 A
+
+Le tarif de 405 F du droit de fabrication s'applique aux alcoolats et extraits alcooliques parfumés non consommables en
+l'état ainsi qu'aux spiritueux dénaturés lorsque ces produits sont obtenus selon un procédé agréé par l'administration et
+qu'ils sont livrés à des utilisateurs professionnels pour l'élaboration de préparations alimentaires solides à usage humain.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 9 () JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ##### Section II : Vins et cidres
 
 ##### B : Régime fiscal
@@ -15089,6 +15164,41 @@ ouverture, en sus des salaires visés à l'article 288, à une majoration de 50 
 #### Chapitre II : Droits de timbre
 
 ##### Section I : Droits de timbre proprement dits
+
+##### I : Timbre de dimension
+
+###### Article 301
+
+Le droit de timbre de dimension peut être acquitté :
+
+par l'emploi de machines à timbrer ;
+
+par l'apposition de timbres mobiles ;
+
+sur la production d'états.
+
+Les modalités d'application du présent article sont précisées par arrêté du ministre de l'économie et des finances (1).
+
+(1) Annexe IV, art. 93 à 93 H quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 93 A à 93 H quinquies
+
+	**Modifié par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 71 (V)
+
 
 ##### II : Timbre des effets de commerce
 
