@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-12-31
+Version Consolidée au 1984-01-07
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -18898,6 +18898,65 @@ V. La taxe est payable en une seule fois  dans les conditions prévues au I, à 
 	  - HISTO: EDITION 1979-07-01
 
 
+#### VII : Taxe locale d'équipement
+
+###### Article 406 nonies
+
+Les réclamations des redevables de la taxe locale d'équipement sont recevables jusqu'au 31 décembre [*date limite*] de la
+deuxième année  suivant celle du versement de la taxe ou de la notification d'un avis de mise en recouvrement s'il a été
+procédé à cette notification.
+
+Dans les situations définies à l'article 1723 quinquies du code général des impôts  les réclamations sont recevables jusqu'au
+31 décembre de la deuxième année suivant celle soit de la péremption du permis de construire soit de la démolition des
+constructions en vertu d'une décision de justice soit de la modification apportée au permis de construire ou à l'autorisation
+tacite de construire.
+
+Les réclamations relatives au recouvrement de la taxe sont adressées au service des impôts. Toutes les autres réclamations
+sont adressées au responsable du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas d'application de
+l'article R424-1 du code de l'urbanisme, au maire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1723 quinquies
+	  - Code de l'urbanisme R424-1
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 22 (V) JORF 30 décembre 1977
+	  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
+###### Article 406 ter
+
+(Devenu sans objet)    Les redevables tenus solidairement au paiement de la taxe locale d'équipement en vertu de l'article
+1929-4 du code général des impôts sont recherchés en paiement soit par voie d'avis de mise en recouvrement collectif soit par
+voie de mise en demeure dans les conditions fixées au titre IV du livre des procédures fiscales pour les impôts recouvrés par
+les comptables de la direction générale des impôts.
+
+Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
+d'équipement, elle doit en informer sans délai le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1929 4
+
+	**Modifié par**:
+
+	  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+
 ## Chapitre I bis : Pénalités
 
 ### Section II : Dispositions communes
@@ -19772,33 +19831,6 @@ Les dispositions prévues au troisième alinéa de l'article 404 A sont applicab
 	**Abrogé par**:
 
 	  - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
-
-
-### DROITS DE TIMBRE.
-
-###### Article 406 ter
-
-Un avis établi par le service de l'équipement est adresssé par le service des impôts au titulaire initial de l'autorisation
-de construire, redevable de la taxe locale d'équipement. Cet avis mentionne les bases de calcul le montant et les dates
-limites de paiement de la taxe.
-
-Les redevables tenus solidairement au paiement de la taxe en vertu de l'article 1929-4 du code général des impôts sont
-recherchés en paiement  soit par voie d'avis de mise en recouvrement collectif soit par voie de mise en demeure dans les
-conditions fixées au titre IV du livre des procédures fiscales pour les impôts recouvrés par les comptables de la direction
-générale des impôts.
-
-Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
-d'équipement, elle doit en informer sans délai le directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1929 4
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
 
 
 ## PENALITES.
