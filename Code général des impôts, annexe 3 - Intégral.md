@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-01-07
+Version Consolidée au 1984-01-25
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -1709,6 +1709,29 @@ c. Et, le cas échéant, le montant des sommes utilisées dans les conditions pr
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+##### E : Provisions pour investissement à l'étranger
+
+###### Article 10 GA
+
+Les dispositions de l'article 39 octies A du Code général des impôts sont applicables aux établissements de crédit
+enregistrés parr le conseil national du crédit et habilités à effectuer des opérations de crédit ou de crédit-bail au profit
+des entreprises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 octies A
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
 ##### G : Réinvestissement des plus-values. Exclusion des acquisitions de biens de caractère somptuaire
@@ -4329,6 +4352,26 @@ L'option, qui est irrévocable, est exercée au plus tard lors de l'encaissement
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies C (V)
 	  - Code général des impôts, CGI. - art. 125 A (V)
+
+
+###### Article 41 duodecies F
+
+Lorsqu'il a été appliqué aux produits des bons de caisse émis par les établissements de crédit, le prélèvement tient lieu de
+la retenue à la source prévue au I de l'article 1678 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1678 bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 41 duodecies G
@@ -19034,6 +19077,40 @@ compter du 1er novembre 1956 et qui portera sur des intérêts courus depuis la 
 	  - HISTO: Edition du 1er janvier 2006
 
 
+###### Article 406 A 16 B
+
+Les infractions aux dispositions de l'article 1756 bis du code général des impôts sont constatées, comme en matière de
+timbre :
+
+Par les trésoriers-payeurs généraux, les receveurs particuliers des finances ou leurs préposés ;
+
+Par les agents des impôts ;
+
+Par les inspecteurs de la banque de France spécialement habilités à cet effet par le gouverneur de la banque de France.
+
+Les procès-verbaux sont dressés à la requête du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1756 bis
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 20 juillet 1984
+	  - PEREMPTION: Ordonnance n°2005-429 du 6 mai 2005 - art. 49 () JORF 7 mai 2005
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 90 JORF 25 janvier 1984
+
+
 ###### Article 406 A 16 D
 
 Les amendes fiscales sanctionnant les infractions visées à l'article 406 A 16 B sont recouvrées comme en matière de timbre
@@ -19851,54 +19928,6 @@ poursuites.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 406 A 16 B
-
-Les infractions aux dispositions de l'article 17 de la loi no 56-760 du 2 août 1956 sont constatées  comme en matière de
-timbre :
-
-Par les trésoriers-payeurs généraux  les receveurs particuliers des finances ou leurs préposés;
-
-Par les agents des impôts.
-
-Les procès-verbaux sont dressés à la requête du ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Cite**:
-
-	  - Loi n°56-760 du 2 août 1956 - art. 17, v. init.
-
-
-###### Article 406 A 16 C
-
-En ce qui concerne les établissements relevant de la compétence du conseil national du crédit par application des lois des 13
-et 14 juin 1941 et 2 décembre 1945, les infractions aux dispositions de l'article 17 de la loi no 56-760 du 2 août 1956
-peuvent également être constatées  dans les formes prévues à l'article 406 A 16 B, par les inspecteurs de la banque de France
-spécialement habilités à cet effet par le gouverneur de la banque de France.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 406 A 16 B
-	  - Loi n°1941-06-13
-	  - Loi n°1941-06-14
-	  - Loi n°1945-12-02
-	  - Loi n°56-760 du 2 août 1956 - art. 17, v. init.
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°84-46 1984-01-24 art. 90 JORF 25 janvier 1984
 
 
 ## PROCEDURES.
