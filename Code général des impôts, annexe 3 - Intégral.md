@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1981-10-03
+Version Consolidée au 1981-12-31
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -319,48 +319,6 @@ code général des impôts est fixé à 3,40 %.
 	  - Décret n°81-866 1981-09-15
 
 
-### TAXES SUR LE CHIFFRE D'AFFAIRES *TCA* REDEVANCE SUR L'EDITION DES OUVRAGES DE LIBRAIRIE.
-
-###### Article 331 L
-
-La redevance sur l'édition des ouvrages de librairie prévue par l'article 1609 decies A du code général des impôts est
-établie et perçue selon les modalités ci-après.
-
-Pour l'appréciation de la limite d'exonération de 200 000 F  les éditeurs déclarent chaque année à la recette des impôts dont
-ils relèvent le montant du chiffre d'affaires qu'ils ont réalisé l'année précédente dans leur branche d'activité " édition
-" [*formalité*]. Cette déclaration est souscrite au plus tard à la date prévue au quatrième et cinquième alinéas ci-dessous
-pour le paiement de la première échéance annuelle [*délai*].
-
-Pour les personnes physiques ou morales assimilées à des éditeurs en vertu de l'article 1609 decies B du code précité  le
-chiffre d'affaires de la branche d'activité " édition " s'entend de la     ur valeur, tous droits et taxes compris des
-ouvrages de librairie dédouanés l'année précédente par l'intermédiaire de leur représentant agréé.
-
-La redevance est liquidée et acquittée semestriellement en même temps que les taxes sur le chiffre d'affaires afférentes aux
-opérations de juin et décembre ou  s'il y a lieu  du deuxième et du quatrième trimestres. Pour les redevables placés sous le
-régime du forfait  elle est acquittée à la date prévue pour le paiement des échéances afférentes aux mêmes périodes.
-
-A l'importation  elle est assise et recouvrée par le service des douanes  dans les conditions définies par l'article 66 bis
-du code des douanes et par l'arrêté du directeur général des douanes et droits indirects en date du 5 septembre 1969 modifié
-par l'arrêté du 23 décembre 1975  comme en matière de taxe sur la valeur ajoutée perçue à l'importation.
-
-Sur le montant des encaissements réalisés par les recettes des impôts et par les recettes des douanes au titre de la
-redevance sur l'édition des ouvrages de librairie  il est effectué un prélèvement de 5 % pour frais d'assiette et de
-recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1969-09-05
-	  - Arrêté 1975-12-23
-	  - CGI 1609 decies A, B
-	  - Code des douanes - art. 66 bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ### CONTRIBUTIONS INDIRECTES
 
 #### TAXE SUR LES PRODUITS DES EXPLOITATIONS FORESTIERES.
@@ -381,50 +339,35 @@ II. (Abrogé).
 III. (Disposition périmée).
 
 IV. La perception de la taxe prévue à l'article 1613 du Code général des impôts est suspendue en totalité jusqu'au 31
-décembre 1981 sur les produits ci-dessous énumérés par référence à la nomenclature tarifaire de la direction générale des
+décembre 1982 sur les produits ci-dessous énumérés par référence à la nomenclature tarifaire de la direction générale des
 douanes et droits indirects lorsqu'ils proviennent d'importation :
 
-1° Les bois bruts, même écorcés ou simplement dégrossis (44-03), à l'exception :
+1° Les bois bruts, même écorcés ou simplement dégrossis :
 
-- des bois bruts de chêne (44-03-710), hêtre (44-03-730), peuplier (44-03-740), noyer (44-03-750) et autres essences
-feuillues tempérées (44-03-790) pour lesquels la taxe est suspendue partiellement, son taux étant ramené à 2,35 % ;
+- d'okoumé (44-03-210), de limba (44-03-220), d'obéché (44-03-230) de sipo (44-03-240), de makoré (44-03-250), de lauan
+(44-03-281), de méranti (44-03-282), de niangon (44-03-283), de framiré (44-03-282), de sapelli (44-03-285), de samba
+(44-03-286), de kotibé (44-03-287), de bossé (44-03-288), et d'autres bois tropicaux de feuillus (44-03-289) ;
 
-- des bois bruts pour sciage de conifères, lorsqu'ils ne sont ni imprégnés, ni injectés, ni enduits (ex 44-03-400 et ex
-44-03-401) ;
+2° Les bois tropicaux, simplement équarris (44-04-200) ;
 
-- des poteaux, pieux et pilotis bruts de conifères, lorsqu'ils ne sont ni imprégnés, ni injectés, ni enduits (ex 44-03-520 et
-ex 44-03-540) ;
+3° Les bois simplement sciés longitudinalement, tranchés ou déroulés, d'une épaisseur supérieure à 5 mm :
 
-2° Les bois simplement équarris (44-04), à l'exception des bois de conifères, lorsqu'ils ne sont ni imprégnés, ni injectés,
-ni enduits (ex 44-04-910) ;
-
-3° Les bois simplement sciés longitudinalement, tranchés ou déroulés, d'une épaisseur supérieure à 5 mm (44-05), à
-l'exception :
-
-- des bois de chêne (44-05-710), hêtre (44-05-730), peuplier (44-05-740), noyer (44-05-750) et autres essences feuillues
-tempérées (44-05-790) pour lesquels la taxe est suspendue partiellement, son taux étant ramené à 2,35 % ;
-
-- des bois de conifères (44-05-200, 44-05-400 et 44-05-401) ;
+- de limba (44-05-310), de sipo (44-05-330), d'okoumé (44-05-390), de lauan (44-05-391), de méranti (44-05-392), de niangon
+(44-05-393), de framiré (44-05-394), de sapelli (44-05-395), de samba (44-05-396), de bossé (44-05-398), et d'autres bois
+tropicaux de feuillus (44-05-399) ;
 
 4° Les traverses en bois pour voies ferrées (44-07), à l'exception des traverses en bois de conifères lorsqu'elles ne sont ni
 imprégnées ni injectées (44-07-900) ;
 
-5° Les merrains, même sciés sur les deux faces principales, mais non autrement travaillés (44-22-200) ;
+5° Les bois rabotés d'essences feuillues tropicales (ex 44-13).
 
-6° Les bois rabotés (ex 44-13), à l'exception :
-
-Des bois de chêne, hêtre, peuplier, noyer et autres essences feuillues tempérées (ex 44-13-500) pour lesquels la taxe est
-suspendue partiellement, son taux étant ramené à 2,35 % ;
-
-Des bois de conifères (ex 44-13-300).
-
-V. La perception de la taxe prévue à l'article 1618 bis du code général des impôts est suspendue en totalité jusqu'au 31
-décembre 1981, sur les produits ci-dessous énumérés par référence à la nomenclature tarifaire de la direction générale des
+V. La perception de la taxe visée à l'article 1618 bis du code général des impôts est suspendue en totalité jusqu'au 31
+décembre 1982 sur les produits ci-dessous énumérés par référence à la nomenclature tarifaire de la direction générale des
 douanes et droits indirects lorsqu'ils proviennent d'importation :
 
 1° Les bois bruts, même écorcés ou simplement dégrossis (44-03), à l'exception :
 
-- des bois bruts pour sciages de conifères lorsqu'ils ne sont ni imprégnés, ni injectés, ni enduits (ex 44-03-400 et
+- des bois bruts pour sciages de conifères lorsqu'ils ne sont ni imprégnés, ni injectés, ni enduits (ex 44-03-400 et ex
 44-03-401) ;
 
 - des poteaux, pieux et pilotis bruts de conifères lorsqu'ils ne sont ni imprégnés, ni injectés, ni enduits (ex 44-03-520 et
@@ -433,18 +376,20 @@ ex 44-03-540) ;
 2° Les bois simplement équarris (44-04), à l'exception des bois de conifères lorsqu'ils ne sont ni imprégnés, ni injectés, ni
 enduits (ex 44-04-910) ;
 
-3° Les bois simplement sciés longitudinalement, tranchés ou déroulés, d'une épaisseur supérieure à 5 mm (44-05) ;
+3° Les bois simplement sciés longitudinalement, tranchés ou déroulés, d'une épaisseur supérieure à 5 mm (44-05), à
+l'exception des bois de conifères (44-05-200, 44-05-400 et 44-05-401) ;
 
-4° Les traverses en bois pour voies ferrées (44-07) ;
+4° Les traverses en bois pour voies ferrées (44-07), à l'exception des traverses en bois de conifères lorsqu'elles ne sont ni
+imprégnées, ni injectées (44-07-900) ;
 
-5° Les merrains, même sciés sur les deux faces principales, mais non autrement travaillés (44-22-200), les bois rabotés (ex
-44-13) et les pavés en bois (ex 44-28-999).
+5° Les merrains, même sciés sur les deux faces principales, mais non autrement travaillés (44-22-200), les pavés en bois (ex
+44-28-999) et les bois rabotés (ex 44-13), à l'exception des bois de conifères (ex 44-13-300).
 
 VI. Pour bénéficier de la suspension des taxes sur les bois provenant d'importation, les intéressés doivent justifier, par la
 tenue d'une comptabilité matières, de l'origine et de l'espèce des bois dont il s'agit.
 
 VII. A. La perception de la taxe prévue à l'article 1613 du code général des impôts est suspendue en totalité jusqu'au 31
-décembre 1981 sur les produits ci-dessous énumérés, par référence à la nomenclature tarifaire de la direction générale des
+décembre 1982 sur les produits ci-dessous énumérés, par référence à la nomenclature tarifaire de la direction générale des
 douanes et droits indirects, lorsqu'ils sont destinés à l'exportation :
 
 1° Bois de mine de conifères et de feuillus (44-03-510 et 44-03-910) ;
@@ -453,7 +398,7 @@ douanes et droits indirects, lorsqu'ils sont destinés à l'exportation :
 
 3° Merrains, même sciés sur les deux faces principales, mais non autrement travaillés (44-22-200).
 
-B. La perception de la taxe prévue à l'article 1613 du même code est suspendue partiellement jusqu'au 31 décembre 1981 et le
+B. La perception de la taxe prévue à l'article 1613 du même code est suspendue partiellement jusqu'au 31 décembre 1982 et le
 taux de celle-ci est ramené à 1 % sur les sciages de conifères et de feuillus destinés à l'exportation.
 
 VIII. Les dispositions du VII sont applicables aux exportations effectuées par des négociants ou des imprégnateurs, sous
@@ -474,9 +419,13 @@ produits considérés.
 
 	**Modifié par**:
 
-	  - Décret n°81-419 du 28 avril 1981 - art. 1 (V) JORF 30 AVRIL 1981
-	  - Décret n°81-419 du 28 avril 1981 - art. 2 (V) JORF 30 AVRIL 1981
-	  - Décret n°81-419 du 28 avril 1981 - art. 3 (V) JORF 30 AVRIL 1981
+	  - Décret n°81-1175 du 30 décembre 1981 - art. 1 (V) JORF 31 DECEMBRE 1981
+	  - Décret n°81-1175 du 30 décembre 1981 - art. 2 (V) JORF 31 DECEMBRE 1981
+	  - Décret n°81-1175 du 30 décembre 1981 - art. 3 (V) JORF 31 DECEMBRE 1981
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-1247 1984-12-28 art. 1 : Les dispositions du paragraphe VII de l'article 332 bis de l'annexe III au code général des impôts sont prorogées jusqu'au 31 décembre 1986
 
 
 #### TAXE SPECIALE SUR LES HUILES.
@@ -856,7 +805,7 @@ recouvrement en opère l'exécution par l'imputation des versements anticipés  
 1. La commission départementale prévue à l'article 1651 du code général des impôts est valablement constituée lorsque les
 organismes chargés de désigner les représentants des contribuables ont disposé d'un délai d'un mois pour procéder à cette
 désignation à partir de la demande qui leur a été adressée par le président de la commission ou en ce qui concerne les
-personnes visées à l'article 1653 A-I-3o et 4o du même code  par le directeur des services fiscaux.
+personnes visées à l'article 1653 A-I-4° et 5° du même code  par le directeur des services fiscaux.
 
 La commission se réunit sur la convocation de son président.
 
@@ -892,15 +841,19 @@ d'absence ou de mutation son successeur ou remplaçant.
 
 	  - CGI 1651
 	  - CGI 1651 bis
-	  - CGI 1653 A I 3°, 4°
+	  - CGI 1653 A I 4°, 5°
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 undecies (V)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 102 (P) JORF 31 DECEMBRE 1981
 
 
 ###### Article 348
@@ -982,7 +935,7 @@ désignés par le directeur général des impôts.
 à faire partie de la commission départementale de conciliation instituée par l'article 1653 A du code général des impôts
 peuvent être remplacés par des inspecteurs des impôts.
 
-2. A défaut de chambre de notaires et d'organismes professionnels ou syndicaux visés à l'article 1653 A-I-4o du code général
+2. A défaut de chambre de notaires et d'organismes professionnels ou syndicaux visés à l'article 1653 A-I-5° du code général
 des impôts  le notaire et les représentants des contribuables à la commission départementale de conciliation sont désignés
 par le préfet.
 
@@ -990,11 +943,15 @@ par le préfet.
 
 	**Cite**:
 
-	  - CGI 1653 A I 4°
+	  - CGI 1653 A I 5°
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 102 (P) JORF 31 DECEMBRE 1981
 
 
 ###### Article 350 B
@@ -13999,6 +13956,52 @@ justification au plus tard le 31 janvier de l'année suivant celle de leur insta
 
 #### Chapitre I bis : Taxes sur le chiffre d'affaires
 
+##### Section I : Redevance sur l'édition des ouvrages de librairie.
+
+###### Article 331 L
+
+La redevance sur l'édition des ouvrages de librairie prévue par l'article 1609 decies A du code général des impôts est
+établie et perçue selon les modalités ci-après.
+
+Pour l'appréciation de la limite d'exonération de 500 000 F  les éditeurs déclarent chaque année à la recette des impôts dont
+ils relèvent le montant du chiffre d'affaires qu'ils ont réalisé l'année précédente dans leur branche d'activité " édition
+" [*formalité*]. Cette déclaration est souscrite au plus tard à la date prévue au quatrième et cinquième alinéas ci-dessous
+pour le paiement de la première échéance annuelle [*délai*].
+
+Pour les personnes physiques ou morales assimilées à des éditeurs en vertu de l'article 1609 decies B du code précité  le
+chiffre d'affaires de la branche d'activité " édition " s'entend de la     ur valeur, tous droits et taxes compris des
+ouvrages de librairie dédouanés l'année précédente par l'intermédiaire de leur représentant agréé.
+
+La redevance est liquidée et acquittée semestriellement en même temps que les taxes sur le chiffre d'affaires afférentes aux
+opérations de juin et décembre ou  s'il y a lieu  du deuxième et du quatrième trimestres. Pour les redevables placés sous le
+régime du forfait  elle est acquittée à la date prévue pour le paiement des échéances afférentes aux mêmes périodes.
+
+A l'importation  elle est assise et recouvrée par le service des douanes  dans les conditions définies par l'article 66 bis
+du code des douanes et par l'arrêté du directeur général des douanes et droits indirects en date du 5 septembre 1969 modifié
+par l'arrêté du 23 décembre 1975  comme en matière de taxe sur la valeur ajoutée perçue à l'importation.
+
+Sur le montant des encaissements réalisés par les recettes des impôts et par les recettes des douanes au titre de la
+redevance sur l'édition des ouvrages de librairie  il est effectué un prélèvement de 5 % pour frais d'assiette et de
+recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1969-09-05
+	  - Arrêté 1975-12-23
+	  - CGI 1609 decies A, B
+	  - Code des douanes - art. 66 bis (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 24 () JORF 31 DECEMBRE 1981
+
+
 ##### Section II : Redevance sur l'emploi de la reprographie.
 
 ###### Article 331 M
@@ -16849,6 +16852,106 @@ visée à l'article 364, sera appliquée aux sommes qui n'auront pas été vers�
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 364
+
+1. Si l'un des acomptes prévus à l'article 360 n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il
+est devenu exigible la majoration de 10 % [*sanction, pénalité*] , visée à l'article 1762 du code général des impôts est
+appliquée aux sommes non réglées.
+
+2. Le recouvrement des acomptes ou fractions d'acomptes non réglés et de la majoration de 10 % correspondante est poursuivi
+le cas échéant  dans les conditions prévues par les articles 1842, 1843, 1844, 1846, 1848, 1908 à 1912 du code général des
+impôts  en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général.
+
+3. Les omissions totales ou partielles constatées dans l'établissement de ce titre ainsi que les erreurs commises dans le
+calcul des acomptes ou de la majoration peuvent être réparées jusqu'à l'expiration de la quatrième année suivant celle au
+cours de laquelle les versements étaient exigibles [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1762
+	  - CGI 1842
+	  - CGI 1843
+	  - CGI 1844
+	  - CGI 1846
+	  - CGI 1848
+	  - CGI 1908
+	  - CGI 1909
+	  - CGI 1910
+	  - CGI 1911
+	  - CGI 1912
+	  - CGIAN3 360
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R254-1
+
+
+###### Article 365
+
+1. La liquidation de l'impôt est faite par la société et le montant  arrondi au franc inférieur  en est versé par elle sans
+avis d'imposition sous déduction des acomptes déjà réglés  au plus tard le jour de l'expiration du délai fixé pour la remise
+de la déclaration prévue à l'article 223-1 du code général des impôts [*date limite de paiement*].
+
+Ce versement est effectué à la caisse du comptable du Trésor chargé du recouvrement des impôts directs habilité à recevoir le
+premier acompte ou  s'il n'est pas dû d'acomptes  au comptable du Trésor du lieu d'imposition défini par l'article 218 A du
+code général des impôts. Il est accompagné du bordereau-avis utilisé au cours de l'exercice.
+
+2. Le comptable du Trésor transmet au service des impôts le bordereau-avis annoté des différents versements effectués par le
+redevable et renvoie à celui-ci le talon de ce bordereau  sur lequel sont portés les encaissements constatés. Cette
+indication est suivie d'une mention valant quittance libératoire pour l'ensemble des sommes reçues.
+
+3. Si le solde de liquidation n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il était exigible
+en vertu du 1, la majoration de 10 % [*sanction, pénalité*] visée à l'article 1762 du code général des impôts est appliquée
+aux sommes non réglées.
+
+Lorsque la liquidation de l'impôt n'a pas été faite par la société ou que cette liquidation a été opérée d'après un bénéfice
+inférieur à celui qui a été compris dans la déclaration souscrite en exécution de l'article 223-1 du code général des impôts
+la majoration de 10 % est calculée en tenant compte du bénéfice porté dans la déclaration susvisée.
+
+4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation et de la majoration de 10 % correspondante est
+poursuivi le cas échéant  dans les conditions prévues par les articles 1842, 1843, 1844, 1846, 1848 et 1908 à 1912 du code
+général des impôts  en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général.
+
+Dans la mesure où le service du recouvrement n'est pas à même d'en déterminer le montant  la majoration de 10 % est recouvrée
+en vertu d'un rôle émis par le directeur des services fiscaux.
+
+5. Les omissions totales ou partielles constatées dans l'établissement des titres de perception ou rôle visés ci-dessus ainsi
+que les erreurs commises dans le calcul du solde de liquidation ou de la majoration de 10 % peuvent être réparées jusqu'à
+l'expiration de la quatrième année suivant celle au cours de laquelle le versement du solde était exigible [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1762
+	  - CGI 1842
+	  - CGI 1843
+	  - CGI 1844
+	  - CGI 1846
+	  - CGI 1848
+	  - CGI 1908
+	  - CGI 1909
+	  - CGI 1910
+	  - CGI 1911
+	  - CGI 1912
+	  - CGI 218 A
+	  - CGI 223 1
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R254-1 (4 al. 1 du CGIAN3 365)
+
+
 ###### Article 381 K
 
 En ce qui concerne les emprunts à revenu fixe visés aux articles 118 et 119 du code général des impôts  l'impôt  avancé sur
@@ -17195,6 +17298,33 @@ Pour les affiches  l'oblitération peut aussi être constituée par l'inscriptio
 du texte.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 406 ter
+
+Un avis d'imposition est adressé par le service des impôts au titulaire initial de l'autorisation de construire  redevable de
+la taxe locale d'équipement. Cet avis mentionne les bases de calcul  le montant et les dates limites de paiement de la taxe.
+
+Les redevables tenus solidairement au paiement de la taxe en vertu de l'article 1929-4 du code général des impôts sont
+recherchés en paiement  soit par voie d'avis de mise en recouvrement collectif soit par voie de mise en demeure dans les
+conditions fixées par les articles 1915 à 1918 du même code.
+
+Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
+d'équipement  elle doit en informer sans délai le directeur des services fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1915
+	  - CGI 1916
+	  - CGI 1917
+	  - CGI 1918
+	  - CGI 1929 4
 
 	**Liens**:
 
