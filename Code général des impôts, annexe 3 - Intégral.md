@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2456,6 +2456,32 @@ cet impôt compte tenu de leur quote-part dans les résultats réels accusés pa
 	  - Décret n°99-382 1999-05-18
 
 
+##### IV : Rémunérations visées à l'article 62 du code général des impôts
+
+###### Article 38 sexdecies-0 A
+
+Le contribuable qui, dans les conditions prévues aux 2° quater et 2° quinquies de l'article 83 du code général des impôts,
+déduit d'une rémunération visée à l'article 62 du même code les intérêts d'un emprunt contracté pour souscrire au capital
+d'une société nouvelle ou d'une société coopérative ouvrière de production est soumis aux obligations prévues aux articles 38
+septdecies A à 38 septdecies E.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-886 du 28 septembre 1984 - art. 1 (V) JORF 6 octobre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (V)
+	  - Code général des impôts, CGI. - art. 62 (V)
+	  - Code général des impôts, CGI. - art. 83 (V)
+
+
 ##### V : Bénéfices de l'exploitation agricole
 
 ##### A : Détermination du régime réel d'imposition 
@@ -3397,6 +3423,94 @@ d'hospitalisation, de soins, de cure et de prévention relevant du ministère de
 	  - HISTO: EDITION 1979-07-01
 
 
+##### B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires
+
+###### Article 38 septdecies B
+
+Pour chaque souscription au capital d'une société, le contribuable doit joindre à la déclaration des revenus de l'année au
+cours de laquelle la souscription a eu lieu une attestation établie par la société créée précisant qu'elle est assujettie à
+l'impôt sur les sociétés dans les conditions de droit commun et mentionnant :
+
+a. La raison sociale et le siège de cette société ;
+
+b. La date de sa création ;
+
+c. La date et le montant de la souscription ;
+
+d. La désignation de l'intermédiaire agréé chez lequel les titres souscrits sont déposés ou inscrits en compte.
+
+**Nota:**
+
+En conséquence de l'article 26-I i et XI-5 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-886 du 28 septembre 1984 - art. 1 (V) JORF 6 octobre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 du 24 septembre 1985
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
+
+
+###### Article 38 septdecies C
+
+Pour chaque acquisition de titres à la suite d'options, une attestation délivrée par la personne ayant consenti l'option ou
+la promesse de vente est jointe à la déclaration des revenus de l'année au cours de laquelle la levée de l'option a eu lieu
+et mentionne :
+
+a. La raison sociale et le siège de la société dont les titres ont été acquis ;
+
+b. Le nombre de titres acquis ;
+
+c. La date d'acquisition et le prix payé par le salarié.
+
+**Nota:**
+
+En conséquence de l'article 26-I i et XI-5 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-886 du 28 septembre 1984 - art. 1 (V) JORF 6 octobre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 du 24 septembre 1985
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
+
+
+###### Article 38 septdecies E
+
+Lorsque les titres souscrits ou reçus en rémunération de l'apport de valeurs acquises à la suite d'options sont cédés ou
+convertis sous la forme au porteur, l'intermédiaire agréé notifie à la direction des services fiscaux du lieu de
+l'établissement la date de l'opération et le nombre de titres concernés avant le 16 février de l'année suivant celle au cours
+de laquelle a eu lieu la cession ou la conversion.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-886 du 28 septembre 1984 - art. 3 (V) JORF 6 octobre 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ##### Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires.
 
 ###### Article 38 septdecies D
@@ -3518,6 +3632,105 @@ mobiliers revenant à la suite de la liquidation.
 
 	  - HISTO: Edition du 10 juillet 1983
 	  - HISTO: Edition du 31 mars 2001
+
+
+##### 2° : Fonds communs de placements à risques.
+
+###### Article 39 quater
+
+En cas de rachat ou de cession de parts, le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques doit
+fournir au propriétaire des parts rachetées ou cédées tous les éléments de calcul de la plus-value, et notamment :
+
+a. Les éléments nécessaires à la détermination de la valeur moyenne pondérée d'acquisition des parts rachetées ou cédées ;
+
+b. La date et le montant de ces rachats ou cessions de parts ;
+
+c. La ventilation, en pourcentage, des avoirs du fonds entre titres cotés et titres non cotés par rapport au montant total
+constitué par ces deux catégories de titres, à la date de la dernière évaluation des avoirs précédant celle du rachat ou de
+la cession, éventuellement révisée trimestriellement, sous la responsabilité du gérant ou du dépositaire, en fonction des
+événements affectant de manière notable la dernière évaluation connue.
+
+En cas de cession de parts effectuée sans l'intervention du gérant, le cédant fait connaître au gérant ou au dépositaire le
+nombre et la catégorie des parts cédées, l'identité et le domicile du cessionnaire ainsi que la date et le montant de la
+cession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-41 du 8 janvier 1985 - art. 2 (V) JORF 12 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article 39 quinquies
+
+Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques adresse, ayant le 16 février de chaque année,
+à la direction des services fiscaux auprès de laquelle il souscrit sa déclaration de bénéfices ou de revenus un relevé des
+opérations de l'année précédente mentionnant :
+
+1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a effectuées et des rachats opérés par le fonds.
+
+Ce montant distingue les fractions représentatives des titres cotés et non cotés d'après le rapport existant entre ces deux
+catégories de titres à la date et dans les conditions définies à l'article 39 quater ;
+
+2° La valeur globale des apports en nature de titres, ventilée entre titres cotés et titres non cotés, effectués par chaque
+propriétaire de parts ;
+
+3° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
+période pendant laquelle la limite de 10 % a été dépassée, les renseignements mentionnés à l'article 41 sexdecies B
+concernant l'intéressé, ainsi que le nombre de parts qu'il détient ;
+
+4° En cas de dissolution du fonds ou de distribution par le fonds d'une partie de ses avoirs entraînant annulation d'une
+fraction des parts de ce fonds :
+
+a. La date de la dissolution ou de la distribution des avoirs ;
+
+b. Les renseignements mentionnés à l'article 41 sexdecies B concernant chaque propriétaire de parts ainsi que le nombre et la
+catégorie des parts dont il disposait avant la dissolution ou, en cas de distribution d'avoirs, le nombre de ses parts
+annulées, leur catégorie et leur valeur moyenne pondérée d'acquisition ;
+
+c. Le montant des attributions en nature ou en espèces, autres que celles présentant le caractère de revenus de capitaux
+mobiliers, revenant à chaque propriétaire, ventilé en proportion des titres cotés et non cotés par rapport au montant total
+constitué par ces deux catégories de titres compris dans les avoirs du fonds à la date de la dissolution ou de la
+distribution ;
+
+5° En cas de distribution d'une partie des avoirs du fonds effectuée sans annulation de parts :
+
+a. La date de la distribution ;
+
+b. Les renseignements mentionnés à l'article 41 sexdecies B concernant chaque propriétaire de parts ainsi que le nombre et la
+catégorie de parts détenues ouvrant droit à la distribution et leur valeur moyenne pondérée d'acquisition ;
+
+c. Le montant de la distribution, qu'elle soit en nature ou en espèces revenant à chaque propriétaire, ventilé dans les
+conditions précisées au 4° ;
+
+d. Le rapport existant entre le montant de la distribution et celui des avoirs du fonds à la date de la distribution.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 39 quater
+	  - CGIAN3 41 sexdecies B
+
+	**Créé par**:
+
+	  - Décret n°85-41 du 8 janvier 1985 - art. 3 (V) JORF 12 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
 
 
 ##### C : Déclarations spéciales
@@ -4259,6 +4472,34 @@ paiements effectués.
 	  - HISTO: Edition du 15 juillet 1985
 
 
+###### Article 41 sexdecies G
+
+Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
+est soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 sexdecies A à CGIAN3 41 sexdecies F
+
+	**Créé par**:
+
+	  - Décret n°85-41 du 8 janvier 1985 - art. 1 (V) JORF 12 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 Y (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ##### H : Profits réalisés sur le marché à terme d'instruments financiers.
 
 ###### Article 41 septdecies
@@ -4835,29 +5076,6 @@ les conditions définies au IV de l'article 163 bis A du code général des imp�
 	  - Code général des impôts, CGI. - art. 163 bis A (V)
 
 
-###### Article 41 S
-
-L'établissement chargé de la tenue du compte d'épargne doit adresser à la direction des services fiscaux de sa résidence avis
-de l'ouverture, de la clôture et du transfert du compte dans les conditions et délai définis à l'article 58, deuxième alinéa,
-de l'annexe II au code général des impôts.
-
-La déclaration d'ouverture du compte est accompagnée d'une copie de l'acte visé à l'article 41 K
-
-Si l'engagement d'épargne est prorogé dans les conditions fixées à l'article 41 M, la copie de l'acte constatant cette
-prorogation est adressée à la direction des services fiscaux dans le délai prévu au premier alinéa ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°85-201 1985-02-13 art. 4, article sans objet
-	  - PEREMPTION: Décret n°85-201 du 13 février 1985 - art. 4 ()
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
 ###### Article 41 T
 
 L'avoir fiscal et le crédit d'impôt attachés aux revenus portés au crédit du compte d'épargne donnent lieu à la délivrance
@@ -4882,25 +5100,6 @@ compte d'épargne.
 	  - HISTO: Edition du 1er juillet 1979
 
 
-###### Article 41 U
-
-Les produits de valeurs mobilières portés au crédit du compte d'épargne ne donnent pas lieu à l'établissement des relevés de
-coupons prévus à l'article 58 de l'annexe II au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°85-201 1985-02-13 art. 4, article sans objet
-	  - PEREMPTION: Décret n°85-201 du 13 février 1985 - art. 4 ()
-	  - HISTO: Edition du 15 juillet 1985
-	  - HISTO: Edition du 1er juillet 1979
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
 ###### Article 41 V
 
 1. L'établissement chargé de la tenue du compte d'épargne doit déclarer à la direction des services fiscaux de sa résidence,
@@ -4922,6 +5121,97 @@ d'épargne.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1979
+
+
+##### II bis : Fonds communs de placement à risques et fonds professionnels de capital investissement
+
+###### Article 41 W
+
+L'engagement prévu au I de l'article 163 quinquies B du code général des impôts est constaté par un acte établi à l'occasion
+de chaque souscription. 
+
+Il précise le nombre de parts, leur catégorie, la date et le montant total de la souscription réalisée.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°79-594 1979-07-13
+	  - TXT_SOURCE: Loi n°84-578 du 9 juillet 1984 - art. 6, v. init.
+
+	**Créé par**:
+
+	  - Décret n°85-41 du 8 janvier 1985 - art. 4 (V) JORF 12 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 163 quinquies B (V)
+
+
+###### Article 41 X
+
+Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
+adresse avant le 16 février de chaque année, à la direction des services fiscaux désignée à l'article 39 quinquies :
+
+a) Une copie de l'engagement prévu au I de l'article 163 quinquies B du code général des impôts ;
+
+b) Un état individuel mentionnant la date, le nombre, la catégorie et le montant des parts cédées ou rachetées. 
+
+Les documents relatifs aux opérations réalisées dans le cadre du fonds doivent être conservés jusqu'à la fin de la sixième
+année suivant celle de l'expiration de l'engagement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 quinquies, 163 quinquies B
+
+	**Créé par**:
+
+	  - Décret n°85-41 du 8 janvier 1985 - art. 5 (V) JORF 12 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article 41 Y
+
+En cas de rupture de l'engagement prévu au I de l'article 163 quinquies B du code général des impôts, le gérant ou le
+dépositaire des actifs du fonds doit mentionner : 
+
+1° sur le relevé visé à l'article 41 sexdecies F le montant global des sommes ou valeurs auxquelles donnent droit les parts
+initialement souscrites et qui ont bénéficié de l'exonération instituée par le I de l'article 163 quinquies B susvisé ; 
+
+2° sur le relevé prévu à l'article 39 quinquies les renseignements visés audit article concernant les rachats ou cessions de
+parts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quinquies B
+	  - CGIAN3 39 quinquies, 41 sexdecies F
+
+	**Créé par**:
+
+	  - Décret n°85-41 du 8 janvier 1985 - art. 6 (V) JORF 12 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
 
 
 ##### III : Présentation et contenu des déclarations
@@ -5599,6 +5889,57 @@ II. Les dispositions de l'article 238 octies précité cessent de s'appliquer au
 
 ##### Section VI : Report en arrière des déficits
 
+###### Article 46 quater-0 U
+
+I. Si l'entreprise détient plusieurs créances, celles-ci ne peuvent être imputées sur l'impôt sur les sociétés qu'en
+respectant l'ordre dans lequel elles sont apparues.
+
+II. En cas de cession à titre de garantie à un établissement de crédit, la créance ne peut plus, à compter de la date de
+cession, être imputée sur l'impôt sur les sociétés dû par l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-355 du 22 mars 1985 - art. 3 (V) JORF 24 mars 1985
+	  - Décret n°85-355 du 22 mars 1985 - art. 4 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article 46 quater-0 V
+
+Les fusions et opérations assimilées visées au deuxième alinéa du II de l'article 220 quinquies du code général des impôts
+s'entendent de celles qui entrent dans les prévisions de l'article 210 A du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 quinquies II, 210 A
+
+	**Créé par**:
+
+	  - Décret n°85-355 du 22 mars 1985 - art. 5 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24 Décret 2002-923 2002-06-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Loi - art. 85 (V) JORF 29 décembre 2001
+	  - PEREMPTION: Loi n°2001-1275 2001-12-28 art. 85 I J, II H Finances pour 2002 JORF 29 décembre 2001
+
+
 ##### Sociétés agréées au régime du bénéfice consolidé.
 
 ###### Article 46 quater-0 XB
@@ -5737,6 +6078,42 @@ qui concerne les sociétés régies par les titres Ier ou II de l'ordonnance n°
 ##### Section 0I : Sociétés de personnes et assimilées
 
 ##### I : Sociétés à responsabilité limitée.   Option pour le régime fiscal des sociétés de personnes
+
+###### Article 46 terdecies A
+
+Les sociétés à responsabilité limitée exerçant une activité industrielle, commerciale ou artisanale et formées uniquement
+entre personnes parentes en ligne directe ou entre frères et soeurs, ainsi que les conjoints qui, en application de l'article
+239 bis AA du code général des impôts, désirent opter à compter d'un exercice déterminé pour le régime fiscal des sociétés de
+personnes doivent notifier leur option avant la date d'ouverture de cet exercice au service des impôts auprès duquel doit
+être souscrite la déclaration de résultats.
+
+(Devenu sans objet).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 239 bis AA
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Modifié par**:
+
+	  - Décret n°85-1007 1985-09-24 en vigueur le 15 juillet 1985
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZT (V)
+
+	**Liens**:
+
+	  - HISTO: Edition 15 juillet 1985
+
 
 ###### Article 46 terdecies B
 
@@ -5975,6 +6352,92 @@ cours de la précédente année. Elle est établie sur une formule délivrée pa
 
 ##### 2° : Paiement de revenus de valeurs mobilières
 
+###### Article 49 D
+
+Les personnes visées à l'article 242 ter du code général des impôts ainsi que les établissements payeurs visés à l'article
+990 C du même code doivent produire, avant le 16 février de chaque année, la déclaration des sommes payées ou des
+caractéristiques des contrats de prêt ayant fait l'objet d'opérations au cours de l'année précédente. 
+
+Cette déclaration ne concerne pas les bons et titres soumis d'office au prélèvement prévu à l'article 990 A du code précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-200 du 13 février 1985 - art. 1 (V) JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 H (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I ter (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 242 ter (V)
+	  - Code général des impôts, CGI. - art. 990 C (V)
+
+
+###### Article 49 E
+
+I. La déclaration prévue à l'article 49 D doit comprendre :
+
+1° L'identification du déclarant : nom et prénoms ou raison sociale, adresse complète et numéro Siret lorsqu'il a été
+attribué par l'I.N.S.E.E..
+
+2° L'identification de la nature des opérations réalisées et la référence aux comptes concernés ;
+
+3° L'identification du bénéficiaire ou du cocontractant :
+
+a. Pour les personnes physiques, nom patronymique, nom marital, prénoms, sexe, date et lieu de naissance, adresse du dernier
+domicile connu au 1er janvier de l'année de souscription de la déclaration ;
+
+b. Pour les personnes morales, raison sociale, numéro Siret, adresse du siège social ou du principal établissement au 1er
+janvier de l'année de souscription de la déclaration.
+
+Lorsque la personne ayant encaissé les revenus déclare le faire pour le compte d'un tiers sans révéler son identité,
+l'identification du bénéficiaire est remplacée par celle de l'intermédiaire et suivie de la mention "P.C. tiers" ;
+
+4° Le détail des opérations réalisées dans l'année, en distinguant les revenus imposables, ceux qui ont été soumis à un
+prélèvement libératoire de l'impôt sur le revenu, les revenus exonérés et les opérations en capital sur les bons de caisses,
+de capitalisation et placements de même nature.
+
+II. Il est justifié des éléments d'identification de la personne au nom de laquelle la déclaration est effectuée dans des
+conditions fixées par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-200 1985-02-13 art. 2, art. 3 JORF 15 février 1985
+	  - Décret n°85-200 du 13 février 1985 - art. 3 (V) JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Arrêté du 6 mai 2009 - art. 1 (V)
+	  - Arrêté du 19 février 2010 - art. 3 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies G (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies V (Ab)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I ter (V)
+
+	**Cite**:
+
+	  - CGIAN3 49 D
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ###### Article 49 G
 
 La déclaration comporte, par nature d'opérations et en fonction des caractéristiques des produits, le détail des bons ou
@@ -5991,6 +6454,63 @@ fiscal.
 	**Créé par**:
 
 	  - Décret n°85-200 du 13 février 1985 - art. 7 (V) JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article 49 H
+
+Il est satisfait aux obligations résultant des articles 49 D à 49 G par la communication d'un support informatique ou par
+l'envoi de formulaires normalisés.
+
+Les caractéristiques du support informatique et le modèle de formulaire normalisé sont fixés par la direction générale des
+impôts.
+
+Les déclarations, accompagnées d'un bordereau récapitulatif, sont remises à la direction des services fiscaux du lieu de la
+résidence ou du principal établissement du déclarant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1985-02-13
+	  - CGIAN3 49 D à 49 G
+
+	**Créé par**:
+
+	  - Décret n°85-200 du 13 février 1985 - art. 8 (V) JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article 49 I
+
+Le déclarant remet à son client, dans tous les cas, un état rédigé sur le modèle de formulaire normalisé visé à l'article 49
+H. Ce document tient lieu, le cas échéant, du certificat d'avoir fiscal ou de crédit d'impôt visé aux articles 77 et 78 de
+l'annexe II au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 77, 78
+	  - CGIAN3 49 H
+
+	**Créé par**:
+
+	  - Décret n°85-200 du 13 février 1985 - art. 9 (V) JORF 15 février 1985
 
 	**Codifié par**:
 
@@ -6556,6 +7076,145 @@ Cette déclaration est établie en double exemplaire sur des imprimés fournis p
 	  - CGI 235 bis
 	  - CGIAN2 161
 	  - Code de la construction L313 1
+
+
+##### Section V : Contribution des institutions financières.
+
+###### Article 58 K
+
+Les comptes correspondant aux dépenses et charges énumérées au II de l'article 235 ter Y (1) du code général des impôts
+doivent, en ce qui concerne les établissements de crédit, être entendus selon les définitions données par le "règlement de la
+commission de contrôle des banques" dans ses dispositions applicables aux banques.
+
+Pour les entreprises de crédit différé, les entreprises d'assurances, de capitalisation et de réassurances de toute nature,
+les définitions à retenir sont celles données dans les plans comptables professionnels applicables à ces entreprises.
+
+**Nota:**
+
+(1) L'article 235 ter Y du code général des impôts cesse d'être applicable aux dépenses et charges engagées à compter de
+2004.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter Y
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2005
+	  - SPEC_APPLI: Loi n°2002-1575 2002-12-30 art. 15 II Finances pour 2003
+
+	**Créé par**:
+
+	  - décret 82-801 1982-09-20 art. 1 1 JORF 22 septembre 1982
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Abrogé par**:
+
+	  - Loi - art. 15 (V) JORF 31 décembre 2002
+
+
+###### Article 58 L
+
+Ne sont toutefois pas comprises dans l'assiette de la contribution :
+
+a. Les rémunérations du personnel de production des entreprises d'assurances ainsi que les charges annexes à ces dépenses et
+les frais de transport et de déplacement qui s'y ajoutent ;
+
+b. Les dépenses de formation exposées au titre de la participation obligatoire des employeurs au développement de la
+formation professionnelle continue, les subventions versées au titre de l'investissement obligatoire dans la construction
+ainsi que les dépenses justifiant l'exonération de la taxe d'apprentissage ;
+
+c. Les dépenses remboursées par les tiers au profit desquels elles ont été engagées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°82-801 du 20 septembre 1982 - art. 1 (V) JORF 22 septembre 1982
+	  - Décret n°82-801 du 20 septembre 1982 - art. 2 (V) JORF 22 septembre 1982
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi - art. 15 (V) JORF 31 décembre 2002
+
+
+###### Article 58 M
+
+Les amortissements des immeubles, matériels et véhicules à retenir pour le calcul de la base d'imposition s'entendent des
+dotations comptabilisées à la clôture des exercices arrêtés au cours de l'année précédente à raison de la dépréciation, d'une
+part, des immeubles affectés, pour les besoins de l'exploitation, aux services commerciaux, administratifs, comptables,
+techniques et au logement du personnel et, d'autre part, des immobilisations corporelles, autres que les immeubles utilisés
+pour les mêmes besoins, tels que le matériel et l'outillage, le matériel de bureau, les aménagements et installations, le
+matériel de transport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°82-801 du 20 septembre 1982 - art. 2 (V) JORF 22 septembre 1982
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi - art. 15 (V) JORF 31 décembre 2002
+
+
+###### Article 58 N
+
+Les dépenses et amortissements énumérés au II de l'article 235 ter Y (1) du code général des impôts doivent être limités à
+ceux qui influent sur le résultat d'entreprises exploitées en France.
+
+**Nota:**
+
+(1) L'article 235 ter Y du code général des impôts cesse d'être applicable aux dépenses et charges engagées à compter de
+2004.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter Y II
+
+	**Créé par**:
+
+	  - Décret n°82-801 du 20 septembre 1982 - art. 3 (V) JORF 22 septembre 1982
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2005
+	  - SPEC_APPLI: Loi n°2002-1575 2002-12-30 art. 15 II Finances pour 2003
+
+	**Abrogé par**:
+
+	  - Loi - art. 15 (V) JORF 31 décembre 2002
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -11946,6 +12605,32 @@ héritiers, légataires, ou donataires domiciliés hors de France.
 	**Modifié par**:
 
 	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 janvier 1983
+
+
+##### 4° : Fonds communs de placement à risques
+
+###### Article 280 B
+
+Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
+est soumis aux obligations définies à l'article 280 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 280 A
+
+	**Créé par**:
+
+	  - Décret n°85-41 du 8 janvier 1985 - art. 1 (V) JORF 12 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
 
 
 ##### B : Régimes spéciaux et exonérations
@@ -19252,6 +19937,44 @@ est adressée à cet effet  par lettre recommandée avec avis de réception.
 	  - TXT_ASSOCIE: Instruction 1998-12-15 12C-5-98
 
 
+###### Article 401
+
+Sous réserve des dispositions des articles 404 GA et 404 GC, les droits et taxes dont le paiement est fractionné ou différé
+donnent lieu au versement d'intérêts dont le taux est égal à celui produit, au jour de la demande de crédit, par les
+obligations émises par la caisse nationale de l'industrie ou la caisse nationale des banques en échange des titres de
+sociétés nationalisées par la loi de nationalisation n° 82-155 du 11 février 1982. Toutefois, seule la première décimale est
+retenue. Ce taux est applicable pendant toute la durée du crédit.
+
+Les intérêts sont acquittés :
+
+s'il s'agit d'un paiement fractionné, lors du versement de chaque fraction, à laquelle ils s'ajoutent ;
+
+s'il s'agit d'un paiement différé, annuellement, le premier terme venant à échéance un an après l'expiration du délai imparti
+pour souscrire la déclaration de succession.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 404 GA, 404 GC
+	  - Loi n°82-155 1982-02-11
+
+	**Modifié par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 10 (V) JORF 24 mars 1985
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 403 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GA (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ###### Article 402
 
 Sous réserve des dispositions de l'article 404 GB, le premier versement des droits dont le paiement fractionné est  autorisé
@@ -19515,6 +20238,51 @@ en vigueur du présent décret. Elle est irrévocable.
 
 ##### Transmissions d'entreprises.
 
+###### Article 404 GA
+
+1. Les droits dont le paiement est différé et fractionné en application des dispositions de l'article 397 A donnent lieu au
+versement d'un intérêt au taux prévu par l'article 401. Ce taux est divisé par :
+
+a. 1,25, lorsque la valeur de l'entreprise ou la valeur nominale des titres comprise dans la part taxable de chaque héritier,
+donataire ou légataire est supérieure à 15 % et inférieure à 25 % de la valeur de l'entreprise ou du capital social ;
+
+b. 1,5, lorsque ce pourcentage est au moins égal à 25 % ou lorsque, globalement, plus de la moitié du capital social est
+transmise.
+
+Ce taux est applicable pendant toute la durée du crédit.
+
+2. Pour les mutations à titre gratuit, en ligne collatérale ou entre non-parents, de biens visés à l'article 397 A, les
+différents taux de l'intérêt prévus au 1 sont divisés par 1,5.
+
+3. Les taux d'intérêt obtenus conformément aux dispositions des 1 et 2 sont appliqués en ne retenant que la première
+décimale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 397 A
+	  - CGIAN3 401
+
+	**Créé par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 2 (V) JORF 24 mars 1985
+	  - Décret n°85-356 du 23 mars 1985 - art. 3 (V) JORF 24 mars 1985
+	  - Décret n°85-356 du 23 mars 1985 - art. 4 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 401 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ###### Article 404 GD
 
 La cession de plus du tiers des biens bénéficiant du paiement différé et fractionné prévu à l'article 397 A entraîne pour le
@@ -19534,6 +20302,58 @@ au jour de la cession.
 	**Codifié par**:
 
 	  - Décret n°85-1007 1985-09-24
+
+
+##### 6° Transmissions d'entreprises
+
+###### Article 404 GB
+
+Les droits dont le paiement est fractionné, en application de l'article 397 A, sont exigibles par parts égales à intervalle
+de six mois. Le premier versement est effectué à l'expiration du délai de paiement différé. Le paiement des autres fractions
+intervient dans le mois suivant chaque échéance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 5 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 397 A (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 402 (V)
+
+
+###### Article 404 GC
+
+Les intérêts sont acquittés :
+
+a. S'agissant du paiement différé, annuellement, le premier terme venant à échéance un an après la date d'exigibilité des
+droits ;
+
+b. S'agissant du paiement fractionné, lors du versement de chaque fraction autre que la première. Ils sont alors calculés sur
+le montant des droits restant dus après le versement de la précédente échéance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 6 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 401 (VD)
 
 
 #### V : Droits de timbre
@@ -20459,33 +21279,6 @@ précédent est celle définie à l'article 381 W.
 
 
 ### ENREGISTREMENT - PUBLICITE FONCIERE.
-
-###### Article 401
-
-Les droits et taxes dont le paiement est fractionné ou différé donnent lieu au versement d'intérêts dont le taux est égal au
-taux de l'escompte pratiqué par la Banque de France au jour de la demande de crédit. Ce taux est applicable pendant toute la
-durée du crédit.
-
-Les intérêts sont acquittés :
-
-s'il s'agit d'un paiement fractionné  lors du versement de chaque fraction  à laquelle ils s'ajoutent;
-
-s'il s'agit d'un paiement différé  annuellement  le premier terme venant à échéance un an après l'expiration du délai imparti
-pour souscrire la déclaration de succession.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 403 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GA (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 403
 
