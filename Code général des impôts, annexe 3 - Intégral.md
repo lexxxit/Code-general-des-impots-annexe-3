@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1982-01-12
+Version Consolidée au 1982-01-22
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -295,28 +295,6 @@ attestation délivrée par le greffe du tribunal de commerce.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-#### TAXE PERCUE AU PROFIT DU BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA*.
-
-###### Article 331-0 D
-
-Le taux de la taxe perçue au profit du budget annexe des prestations sociales agricoles en application de l'article 1603 du
-code général des impôts est fixé à 3,40 %.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1603
-
-	**Modifié par**:
-
-	  - Décret n°81-479 du 12 mai 1981 - art. 1 (V) JORF 13 MAI 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
 
 
 ### CONTRIBUTIONS INDIRECTES
@@ -14361,6 +14339,37 @@ justification au plus tard le 31 janvier de l'année suivant celle de leur insta
 	  - CGI 1600
 	  - CGIAN3 331
 	  - Décret n°1940-04-24
+
+
+##### Section I B : Taxe perçue au profit du budget annexe des prestations sociales agricoles
+
+###### Article 331-0 D
+
+Le taux de la taxe perçue au profit du budget annexe des prestations sociales agricoles en application de l'article 1603 du
+code général des impôts est fixé à 4,05 % (1).
+
+(1) Taux applicable à compter de 1982.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1603
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+	  - Décret n°99-382 1999-05-18
+
+	**Modifié par**:
+
+	  - Décret n°82-67 du 20 janvier 1982 - art. 1 (V) JORF 22 janvier 1982
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 48 () JORF 31 décembre 1998
+	  - HISTO: Edition du 1er septembre 1982
+	  - HISTO: Edition du 31 mars 1999
 
 
 #### Chapitre I bis : Taxes sur le chiffre d'affaires
