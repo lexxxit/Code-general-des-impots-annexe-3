@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-02-23
+Version Consolidée au 1984-03-17
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -2909,7 +2909,146 @@ COEFFICIENT
 
 ##### M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts
 
+##### 2 : Définitions
+
+###### Article 38 quater
+
+Les entreprises doivent respecter les définitions édictées par le plan comptable général, sous réserve que celles-ci ne
+soient pas incompatibles avec les règles applicables pour l'assiette de l'impôt.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+
+
+###### Article 38 ter
+
+Le stock est constitué par l'ensemble des marchandises, des matières premières, des matières et fournitures consommables, des
+productions en cours, des produits intermédiaires, des produits finis, des produits résiduels et des emballages non destinés
+à être récupérés, qui sont la propriété de l'entreprise à la date de l'inventaire et dont la vente en l'état ou au terme d'un
+processus de production à venir ou en cours permet la  réalisation d'un bénéfice d'exploitation.
+
+Les productions en cours sont les biens ou les services en cours de formation au travers d'un processus de production.
+
+Les produits intermédiaires sont les produits qui, ayant atteint un stade d'achèvement, sont destinés à entrer dans une
+nouvelle phase du cycle de production.
+
+Les produits finis sont ceux qui ont atteint un stade d'achèvement définitif dans le cycle de production.
+
+Les produits résiduels sont constitués par les déchets et rebuts de fabrication.
+
+Les emballages commerciaux comprennent, d'une part, les emballages perdus qui sont destinés à être livrés avec leur contenu
+sans consignation ni reprise et, d'autre part, les emballages récupérables qui sont susceptibles d'être provisoirement
+conservés par la clientèle et que le livreur s'engage à reprendre dans des conditions déterminées. En principe, les premiers
+sont seuls à inclure dans les stocks, les seconds constituant normalement des immobilisations. Toutefois, lorsqu'ils ne sont
+pas commodément identifiables, les emballages récupérables peuvent être assimilés à des stocks.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+
+
 ##### 3 : Règles d'évaluation
+
+###### Article 38 decies
+
+Si le cours du jour à la date de l'inventaire des marchandises, matières premières, matières et fournitures consommables,
+produits intermédiaires, produits finis et emballages commerciaux perdus en stock au jour de l'inventaire est inférieur au
+coût de revient défini à l'article 38 nonies, l'entreprise doit constituer, à due concurrence, des provisions pour
+dépréciation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 nonies (V)
+
+
+###### Article 38 nonies
+
+Les marchandises, matières premières, matières et fournitures consommables, emballages perdus, produits en stock et
+productions en cours au jour de l'inventaire sont évalués pour leur coût de revient.
+
+Le coût de revient est constitué :
+
+Pour les marchandises, matières premières, matières et fournitures consommables et les emballages commerciaux achetés, par le
+prix d'achat augmenté des frais accessoires d'achats ;
+
+Pour les produits intermédiaires, les produits finis, les emballages commerciaux fabriqués et les produits en cours, par le
+coût d'achat des matières et fournitures consommées, augmenté de toutes les charges directes ou indirectes de production à
+l'exclusion des frais financiers.
+
+Ces coûts sont fournis par la comptabilité analytique ou, à défaut, déterminés par des calculs ou évaluations statistiques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 53 A
+
+	**Modifié par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 decies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
+
+
+###### Article 38 octies
+
+Les cessions de titres en portefeuille sont réputées porter par priorité sur les titres de même nature acquis ou souscrits à
+la date la plus ancienne.
+
+Les plus-values ou moins-values résultant des cessions en cause sont déterminées en fonction de la valeur d'origine pour
+laquelle les titres figuraient au bilan.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+
+
+###### Article 38 quinquies
+
+Les immobilisations sont inscrites au bilan pour leur valeur d'origine.
+
+Cette valeur d'origine s'entend :
+
+Pour les immobilisations acquises à titre onéreux par l'entreprise, du coût d'acquisition, c'est-à-dire du prix d'achat
+majoré des frais accessoires nécessaires à la mise en état d'utilisation du bien ;
+
+Pour les immobilisations acquises à titre gratuit, de la valeur vénale ;
+
+Pour les immobilisations apportées à l'entreprise par des tiers, de la valeur d'apport ;
+
+Pour les immobilisations créées par l'entreprise, du coût d'acquisition des matières ou fournitures consommées, augmenté de
+toutes les charges directes ou indirectes de production à l'exclusion des frais financiers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 53 A
+
+	**Modifié par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AE (V)
+
 
 ###### Article 38 septies
 
@@ -2959,6 +3098,41 @@ titres.
 En ce qui concerne les entreprises dont le siège est situé hors du territoire de la République française, les renseignements
 à fournir s'entendent exclusivement de ceux afférents aux exploitations sises en France.
 
+
+
+###### Article 38 terdecies
+
+Les dispositions des articles 38 ter à 38 decies sont applicables aux entreprises industrielles et commerciales passibles de
+l'impôt sur le revenu suivant un régime de bénéfice réel et aux personnes morales relevant de l'impôt sur les sociétés, sous
+réserve des mesures dérogatoires qui pourront être prises en faveur des entreprises soumises au contrôle de l'Etat et
+astreintes à des règles comptables particulières.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 1 () JORF 17 mars 1984
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 38 ter (V)
+
+
+###### Article 38 terdecies A
+
+Les entreprises dont l'activité est partiellement exercée à l'étranger sont également tenues de produire en double
+exemplaire, sur des imprimés identiques à ceux visés aux II et III de l'article 38, les renseignements afférents aux seules
+opérations qui participent à la réalisation du résultat imposable en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 38 (VT)
 
 
 ##### N : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 54 octies du code général des impôts
