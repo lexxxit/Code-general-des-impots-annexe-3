@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-07-19
+Version Consolidée au 1984-07-20
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -2914,6 +2914,27 @@ COEFFICIENT
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 333 D (V)
 
 
+##### L : Déclarations et documents
+
+###### Article 38 A
+
+Le compte de résultat dont la production est prévue à l'article 38 est présenté " hors taxes ".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-184 du 14 mars 1984 - art. 3 (V) JORF 17 mars 1984
+
+
 ##### M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts
 
 ##### 2 : Définitions
@@ -3328,7 +3349,45 @@ liste des élevages qui peuvent bénéficier de cette disposition (1).
 	  - HISTO: Edition du 20 juillet 1984
 
 
+###### Article 38 sexdecies B
+
+En cas de création ou de cessation d'entreprise en cours d'année, les limites de recettes à l'article 38 sexdecies A sont
+ajustées au prorata de la durée d'exploitation pendant ladite année. 
+
+Cet ajustement n'est pas effectué si l'exploitant a levé la totalité des récoltes de l'année.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies A
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
 ##### B : Détermination et imposition du bénéfice des exploitants soumis au régime du bénéfice réel.
+
+###### Article 38 sexdecies C
+
+Le bénéfice réel de l'exploitation agricole est déterminé et imposé selon les dispositions prévues à l'article 72 du code
+général des impôts et celles prévues à la présente section.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 72
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
 
 ###### Article 38 sexdecies F
 
@@ -3417,6 +3476,22 @@ contribuable, il est fait application de l'article 151 septies du code général
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 38 sexdecies H
+
+Sous réserve des dispositions des articles 38 sexdecies I, 38 sexdecies N à 38 sexdecies OA et 38 sexdecies OG, les stocks
+sont évalués suivant les règles définies aux articles 38 nonies et 38 decies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies I, 38 sexdecies N à 38 sexdecies OA, 38 sexdecies OG, 38 nonies, 38 decies
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
 ##### Régime simplifié.
 
 ###### Article 38 sexdecies JD
@@ -3468,6 +3543,40 @@ standard ou à tous autres éléments statistiques.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
+
+
+##### C : Option pour l'un des régimes réels
+
+###### Article 38 sexdecies JE
+
+Les exploitants agricoles relevant du forfait peuvent opter pour l'un des régimes d'imposition d'après le bénéfice réel
+mentionnés à l'article 69 du code général des impôts.
+
+L'option doit être exercée dans le délai prévu au IV du même article.
+
+L'option est valable pour l'année au titre de laquelle elle est effectuée et pour les quatre années suivantes. Elle est
+reconduite tacitement par période de cinq ans, sauf renonciation adressée au service des impôts dans le délai de dépôt de la
+déclaration des résultats du dernier exercice de chaque période quinquennale. Dans ce même délai, les exploitants peuvent,
+selon la nature du régime choisi en début de période, demander à passer du régime simplifié au régime normale d'imposition
+d'après le bénéfice réel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 69
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
 
 
 ##### C : Option pour l'un des régimes d'imposition d'après le bénéfice réel.
@@ -5121,6 +5230,62 @@ l'expiration du délai prévu à l'article 41 L.
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 K (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 L (V)
+
+
+###### Article 41 N
+
+Les comptes d'épargne tenus en application de l'article 163 bis A du code général des impôts ne pourront être ouverts que
+dans les établissements suivants :
+
+Banque de France;
+
+Caisse des dépôts et consignations;
+
+Crédit foncier de France;
+
+Crédit foncier et communal d'Alsace et de Lorraine;
+
+Caisse nationale et caisses régionales de crédit agricole mutuel;
+
+Caisse centrale de crédit coopératif;
+
+Etablissements de crédits (1);
+
+Banques populaires;
+
+Banque centrale des coopératives;
+
+Sociétés de bourse.
+
+Les caisses d'épargne sont autorisées à recevoir les versements prévus à l'article 41 L pour le compte de la caisse des
+dépôts et consignations, dans les conditions qui seront fixées par le ministre de l'économie et des finances.
+
+(1)  Annexe IV, art. 17 septies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 bis A
+	  - CGIAN3 41 L
+	  - CGIAN4 17 septies
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 septies (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
 ###### Article 41 O
@@ -9246,6 +9411,22 @@ l'administration des monnaies. Ce signe est changé toutes les fois qu'il est n�
 
 
 
+###### Article 186
+
+Tous les poinçons de garantie sont fabriqués par l'administration des monnaies, qui les fait parvenir dans les divers bureaux
+de garantie et en conserve les matrices.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
 ##### Section II : Organisation des bureaux de garantie
 
 ###### Article 187
@@ -9336,6 +9517,27 @@ bureau de garantie dont il dépendait.
 	  - Décret n°80-871 du 30 octobre 1980 - art. 2 (V) JORF 7 novembre 1980
 
 
+###### Article 209-0 C
+
+Dès réception des paquets contenant les ouvrages, le bureau de garantie en adresse l'inventaire au fabricant.
+
+Après les avoir essayés et marqués, le bureau de garantie renvoie les ouvrages au fabricant dans des paquets scellés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-623 du 16 juillet 1984 - art. 4 (V) JORF 19 juillet 1984
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
 ###### Article 210
 
 En cas de cessation d'activité, le fabricant remet son poinçon de responsabilité au bureau de garantie dans un délai de
@@ -9368,6 +9570,50 @@ la mise en fabrication.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 545 (V)
+
+
+##### Section V : Ouvrages dorés, argentés ou platinés
+
+###### Article 212 A
+
+L'épaisseur minimale de la couche de métal précieux recouvrant les ouvrages mentionnés à l'article 551 du code général des
+impôts doit : 
+
+1° Pour les ouvrages recouverts de platine ou d'or : 
+
+Permettre qu'une ou plusieurs coquilles homogènes du métal précieux, gardant les formes de l'objet, subsistent après
+dissolution du métal commun ou de la matière de support ; 
+
+Atteindre 5 microns pour les articles d'horlogerie et 3 microns pour les ouvrages autres que ceux d'horlogerie, sans
+tolérance de dispersion. 
+
+2° Pour les ouvrages d'orfèvrerie recouverts d'argent, être conforme aux dispositions de la norme NF D. 29004 ; 
+
+3° Pour les ouvrages recouverts d'argent, autres que ceux d'orfèvrerie, atteindre 10 microns. 
+
+Lorsque la couche de métal précieux ne répond pas à ces conditions, les ouvrages recouverts de platine ou d'or ne peuvent
+être vendus que sous la dénomination platiné ou doré ; de même les ouvrages recouverts d'argent ne peuvent recevoir
+l'appellation de " Métal argenté ". 
+
+La couche d'or recouvrant les ouvrages en argent à un titre légal doit atteindre 5 microns pour donner droit à l'appellation
+" Vermeil ". 
+
+Les fabricants, importateurs et marchands d'ouvrages en vermeil ou doublés ou plaqués de platine, d'or ou d'argent font
+connaître au service de la garantie la composition du substrat et le titre du métal précieux utilisé pour son revêtement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-623 du 16 juillet 1984 - art. 8 (V) JORF 19 juillet 1984
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 551 (V)
 
 
 ##### Section VI : Frappe des médailles
@@ -12084,6 +12330,56 @@ l'objet de donations antérieurs consenties par le même donateur au même donat
 	**Codifié par**:
 
 	  - Décret n°84-875 1984-10-01
+
+
+###### Article 281 B
+
+Dans toute déclaration de succession comprenant des biens visés au 4° du 1 ou au 3° du 2 de l'article 793 du code général des
+impôts, les héritiers indiquent, dans le cadre de l'affirmation de sincérité prévue à l'article 802 du même code et en plus
+des renseignements énumérés à l'article 784 du code précité, si de tels biens ont fait l'objet de donations antérieures à
+leur profit (1). 
+
+(1) Disposition applicable aux déclarations souscrites à compter de l'entrée en vigueur du décret n° 84-396 du 25 mai 1984 se
+rapportant à des successions ouvertes à compter du 1er janvier 1984.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-396 du 25 mai 1984 - art. 2 (V) JORF 27 mai 1984
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 784 (V)
+	  - Code général des impôts, CGI. - art. 793 (VT)
+	  - Code général des impôts, CGI. - art. 802 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+###### Article 281 C
+
+En cas d'application des dispositions des articles 281 A et 281 B, les actes de donation et les déclarations de succession
+doivent indiquer, en ce qui concerne l'ensemble des donations antérieures, le montant des biens mentionnés au 4° du 1 ou au
+3° du 2 de l'article 793 du code général des impôts transmis à chaque bénéficiaire, l'identité de chacun d'eux ainsi que les
+nom et résidence des officiers ministériels qui ont reçu les actes de donation et leur date d'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 281 A, 281 B, 793 1, 793 2
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 A (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-396 du 25 mai 1984 - art. 3 (V) JORF 27 mai 1984
 
 
 ##### Section III : Obligations diverses
@@ -18029,6 +18325,58 @@ cours de laquelle les versements étaient exigibles [*délai*].
 	  - CGIAN3 360
 
 
+###### Article 365
+
+1. La liquidation de l'impôt est faite par la société et le montant arrondi au franc le plus voisin en est versé par elle
+sans avis d'imposition sous déduction des acomptes déjà réglés au plus tard le jour de l'expiration du délai fixé pour la
+remise de la déclaration prévue au 1 de l'article 223 du code général des impôts.
+
+Ce versement est effectué à la caisse du comptable du Trésor chargé du recouvrement des impôts directs habilité à recevoir le
+premier acompte ou, s'il n'est pas dû d'acomptes, au comptable du Trésor du lieu d'imposition défini par l'article 218 A du
+code général des impôts. Il est accompagné du bordereau-avis utilisé au cours de l'exercice.
+
+2. Le comptable du Trésor transmet au service des impôts le bordereau-avis annoté des différents versements effectués par le
+redevable et renvoie à celui-ci le talon de ce bordereau  sur lequel sont portés les encaissements constatés. Cette
+indication est suivie d'une mention valant quittance libératoire pour l'ensemble des sommes reçues.
+
+3. Si le solde de liquidation n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il était exigible
+en vertu du 1, la majoration de 10 % visée à l'article 1762 du code général des impôts est appliquée aux sommes non réglées.
+
+Lorsque la liquidation de l'impôt n'a pas été faite par la société ou que cette liquidation a été opérée d'après un bénéfice
+inférieur à celui qui a été compris dans la déclaration souscrite en exécution du 1 de l'article 223 du code général des
+impôts, la majoration de 10 % est calculée en tenant compte du bénéfice porté dans la déclaration susvisée.
+
+4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation et de la majoration de 10 % correspondante est
+poursuivi, le cas échéant, en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général. Les
+dispositions du titre IV du livre des procédures fiscales concernant les impôts dont le recouvrement incombe aux comptables
+du Trésor, sont applicables.
+
+Dans la mesure où le service du recouvrement n'est pas à même d'en déterminer le montant  la majoration de 10 % est recouvrée
+en vertu d'un rôle émis par le directeur des services fiscaux.
+
+5. Les omissions totales ou partielles constatées dans l'établissement des titres de perception ou rôle visés ci-dessus ainsi
+que les erreurs commises dans le calcul du solde de liquidation ou de la majoration de 10 % peuvent être réparées jusqu'à
+l'expiration de la quatrième année suivant celle au cours de laquelle le versement du solde était exigible.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 1, 218 A, 1762, 1842, 1843, 1844, 1846, 1848, 1908, 1909, 1910, 1911, 1912
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°68-1145 1968-12-20 art. 1 Finances rectificative pour 1968 JORF 21 décembre 1968
+
+
 ###### Article 366
 
 Le complément d'impôts à verser qui apparaît, le cas échéant, à la suite du contrôle de la liquidation effectué par le
@@ -18221,6 +18569,34 @@ retenue à la source afférente aux obligations inscrites à son actif et repré
 	**Codifié par**:
 
 	  - Décret n°84-875 1984-10-01
+
+
+###### Article 381 KC
+
+Lorsque des obligations sont inscrites à l'actif d'une gestion collective après leur émission et y figurent à l'échéance de
+leurs intérêts, la retenue à la source versée depuis l'échéance précédente, ou depuis la date de l'émission s'il s'agit de la
+première échéance, est restituée à l'établissement émetteur pour le compte de la gestion collective.
+
+L'émetteur suspend ensuite le versement des acomptes de retenue à la source afférente à ces obligations et procède comme aux
+2°, 3° et 4° de l'article 381 KB.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 381 KB 2°, 3°, 4°
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-121 du 22 février 1984 - art. 3 (V) JORF 23 février 1984
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
 
 
 ###### Article 381 KD
@@ -20118,63 +20494,6 @@ visée à l'article 364, sera appliquée aux sommes qui n'auront pas été vers�
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 365
-
-1. La liquidation de l'impôt est faite par la société et le montant  arrondi au franc inférieur  en est versé par elle sans
-avis d'imposition sous déduction des acomptes déjà réglés  au plus tard le jour de l'expiration du délai fixé pour la remise
-de la déclaration prévue à l'article 223-1 du code général des impôts [*date limite de paiement*].
-
-Ce versement est effectué à la caisse du comptable du Trésor chargé du recouvrement des impôts directs habilité à recevoir le
-premier acompte ou  s'il n'est pas dû d'acomptes  au comptable du Trésor du lieu d'imposition défini par l'article 218 A du
-code général des impôts. Il est accompagné du bordereau-avis utilisé au cours de l'exercice.
-
-2. Le comptable du Trésor transmet au service des impôts le bordereau-avis annoté des différents versements effectués par le
-redevable et renvoie à celui-ci le talon de ce bordereau  sur lequel sont portés les encaissements constatés. Cette
-indication est suivie d'une mention valant quittance libératoire pour l'ensemble des sommes reçues.
-
-3. Si le solde de liquidation n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il était exigible
-en vertu du 1, la majoration de 10 % [*sanction, pénalité*] visée à l'article 1762 du code général des impôts est appliquée
-aux sommes non réglées.
-
-Lorsque la liquidation de l'impôt n'a pas été faite par la société ou que cette liquidation a été opérée d'après un bénéfice
-inférieur à celui qui a été compris dans la déclaration souscrite en exécution de l'article 223-1 du code général des impôts
-la majoration de 10 % est calculée en tenant compte du bénéfice porté dans la déclaration susvisée.
-
-4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation et de la majoration de 10 % correspondante est
-poursuivi, le cas échéant, en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général. Les
-dispositions du titre IV du livre des procédures fiscales concernant les impôts dont le recouvrement incombe aux comptables
-du Trésor, sont applicables.
-
-Dans la mesure où le service du recouvrement n'est pas à même d'en déterminer le montant  la majoration de 10 % est recouvrée
-en vertu d'un rôle émis par le directeur des services fiscaux.
-
-5. Les omissions totales ou partielles constatées dans l'établissement des titres de perception ou rôle visés ci-dessus ainsi
-que les erreurs commises dans le calcul du solde de liquidation ou de la majoration de 10 % peuvent être réparées jusqu'à
-l'expiration de la quatrième année suivant celle au cours de laquelle le versement du solde était exigible [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1762
-	  - CGI 1842
-	  - CGI 1843
-	  - CGI 1844
-	  - CGI 1846
-	  - CGI 1848
-	  - CGI 1908
-	  - CGI 1909
-	  - CGI 1910
-	  - CGI 1911
-	  - CGI 1912
-	  - CGI 218 A
-	  - CGI 223 1
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ###### Article 381 K
 
 En ce qui concerne les emprunts à revenu fixe visés aux articles 118 et 119 du code général des impôts  l'impôt  avancé sur
@@ -20227,8 +20546,8 @@ b. Et  s'il y a lieu  une copie du procès-verbal de tirage au sort des titres a
 
 A défaut d'exécution spontanée des versements prévus à l'article 381 U, il est fait application par les agents commissionnés
 chargés du contrôle de la participation des employeurs  de la procédure décrite à l'article 163 quindecies de l'annexe II au
-code général des impôts. Cette procédure est également applicable aux versements indiqués aux articles 1783 quater et 1783
-quinquies du même code.
+code général des impôts. Cette procédure est également applicable aux versements indiqués aux articles 235 ter HC et 235 ter
+HD du même code.
 
 La caisse du comptable des impôts compétente pour recevoir les versements résultant de la procédure prévue à l'alinéa
 précédent est celle définie à l'article 381 W.
@@ -20237,15 +20556,15 @@ précédent est celle définie à l'article 381 W.
 
 	**Cite**:
 
-	  - CGI 1783 quater
-	  - CGI 1783 quinquies
+	  - CGI 235 ter HC
+	  - CGI 235 ter HD
 	  - CGIAN2 163 quindecies
 	  - CGIAN3 381 U
 	  - CGIAN3 381 W
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°84-875 1984-10-01
 
 
 ### ENREGISTREMENT - PUBLICITE FONCIERE.
