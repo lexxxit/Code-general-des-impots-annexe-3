@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1982-04-10
+Version Consolidée au 1982-05-11
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -52,9 +52,9 @@ Dans le cas où la notification prévue à l'article 320 n'a pas été faite ava
 installations définies à l'article 316 est imposée en totalité dans la commune où est située l'usine utilisant la force
 motrice et il est procédé à la répartition des cotisations correspondantes entre les communes visées audit article.
 
-Si ces communes sont situées dans le même département  la répartition est réglée par arrêté du préfet rendu sur les
-propositions du directeur des services fiscaux et après avis de l'ingénieur en chef du contrôle  dans les trois mois suivant
-celui de la mise en recouvrement du rôle.
+Si ces communes sont situées dans le même département  la répartition est réglée par arrêté du commissaire de la République
+rendu sur les propositions du directeur des services fiscaux et après avis de l'ingénieur en chef du contrôle  dans les trois
+mois suivant celui de la mise en recouvrement du rôle.
 
 Si les communes intéressées sont situées dans des départements différents  la répartition est réglée par arrêté du ministre
 de l'économie et des finances  du ministre de l'intérieur sur les propositions du directeur général des impôts et après avis
@@ -73,9 +73,13 @@ alinéas précédents.
 	  - CGIAN3 316
 	  - CGIAN3 320
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 321 B
@@ -931,7 +935,7 @@ peuvent être remplacés par des inspecteurs des impôts.
 
 2. A défaut de chambre de notaires et d'organismes professionnels ou syndicaux visés à l'article 1653 A-I-5° du code général
 des impôts  le notaire et les représentants des contribuables à la commission départementale de conciliation sont désignés
-par le préfet.
+par le commissaire de la République.
 
 **Liens relatifs à cet article**
 
@@ -939,13 +943,13 @@ par le préfet.
 
 	  - CGI 1653 A I 5°
 
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 102 (P) JORF 31 DECEMBRE 1981
+	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 ###### Article 350 B
@@ -18097,14 +18101,18 @@ Les décisions sont notifiées au service du recouvrement par le directeur des s
 
 ###### Article 434
 
-Le préfet [*autorité compétente*] statue sur les demandes en décharge ou en atténuation de responsabilité à moins que la cote
-visée ou l'une des cotes visées s'il s'agit d'un contribuable pour lequel plusieurs cotes sont en cause n'excède la somme de
-100.000 F.
+Le commissaire de la République [*autorité compétente*] statue sur les demandes en décharge ou en atténuation de
+responsabilité à moins que la cote visée ou l'une des cotes visées s'il s'agit d'un contribuable pour lequel plusieurs cotes
+sont en cause n'excède la somme de 100.000 F.
 
 Il se prononce au vu des avis émis par le trésorier-payeur général et par le directeur des services fiscaux  lorsque ces avis
 sont concordants et  dans le cas contraire  après avoir pris l'avis de la commission départementale prévue à l'article 443.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°82-389 1982-05-10 art. 1 JONC 11 mai 1982
 
 	**Cité par**:
 
@@ -18114,16 +18122,16 @@ sont concordants et  dans le cas contraire  après avoir pris l'avis de la commi
 
 	  - CGIAN3 443
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 435
 
 Le ministre de l'économie et des finances [*autorité compétente*] statue sur les demandes en décharge ou en atténuation de
-responsabilité lorsqu'il s'agit de cotes dont le montant excède les limites de la compétence du préfet telle qu'elle est
-fixée à l'article 434.
+responsabilité lorsqu'il s'agit de cotes dont le montant excède les limites de la compétence du commissaire de la République
+telle qu'elle est fixée à l'article 434.
 
 Il se prononce au vu des avis émis par la direction générale des impôts et la direction de la comptabilité publique  lorsque
 ces avis sont concordants et  dans le cas contraire  après avoir pris l'avis de la commission centrale prévue à l'article
@@ -18136,17 +18144,21 @@ ces avis sont concordants et  dans le cas contraire  après avoir pris l'avis de
 	  - CGIAN3 434
 	  - CGIAN3 444
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-389 1982-05-10 art. 1 JORF 11 mai 1982
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
 
 
 ###### Article 438
 
-Les décisions préfectorales prises sur les demandes en décharge ou en atténuation de responsabilité et qui n'auront pas fait
-l'objet d'un recours dans les conditions fixées à l'article 440, deviendront définitives si  dans les six mois de leur
-notification au comptable du Trésor  elles n'ont pas été annulées ou réformées par le ministre statuant dans les formes
-prévues à l'article 435, deuxième alinéa.
+Les décisions des commissaires de la République prises sur les demandes en décharge ou en atténuation de responsabilité et
+qui n'auront pas fait l'objet d'un recours dans les conditions fixées à l'article 440, deviendront définitives si dans les
+six mois de leur notification au comptable du Trésor elles n'ont pas été annulées ou réformées par le ministre statuant dans
+les formes prévues à l'article 435, deuxième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -18155,16 +18167,20 @@ prévues à l'article 435, deuxième alinéa.
 	  - CGIAN3 435 AL. 2
 	  - CGIAN3 440
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-389 1982-05-10 art. 1 JONC 11 mai 1982
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 440
 
 Les comptables du Trésor chargés du recouvrement des impôts directs, ainsi que les comptables centralisateurs dont la
-responsabilité pécuniaire est en jeu, sont admis à se pourvoir devant le ministre du budget contre les décisions
-préfectorales rejetant les demandes en décharge ou en atténuation de responsabilité.
+responsabilité pécuniaire est en jeu, sont admis à se pourvoir devant le ministre du budget contre les décisions des
+commissaires de la République rejetant les demandes en décharge ou en atténuation de responsabilité.
 
 Le recours a un effet suspensif et est instruit comme les demandes initiales relevant directement de la compétence du
 ministre du budget.
@@ -18175,7 +18191,11 @@ La décision du ministre est notifiée par la voie hiérarchique aux comptables 
 
 	**Modifié par**:
 
-	  - Décret n°81-58 du 23 janvier 1981 - art. 1 (V) JORF 27 JANVIER 1981
+	  - Décret n°82-389 1982-05-10 art. 1 JONC 11 mai 1982
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
 ###### Article 443
@@ -18183,7 +18203,7 @@ La décision du ministre est notifiée par la voie hiérarchique aux comptables 
 La commission départementale appelée à donner son avis sur les demandes en décharge ou en atténuation de responsabilité est
 composée ainsi qu'il suit :
 
-Le préfet ou son représentant  président;
+Le commissaire de la République ou son représentant, président ;
 
 Le trésorier-payeur général ou le receveur général des finances trésorier-payeur général de la région d'Ile-de-France ou son
 représentant;
@@ -18206,12 +18226,12 @@ Un inspecteur de la trésorerie générale remplit les fonctions de secrétaire.
 	  - CGIAN3 432
 	  - CGIAN3 434
 
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
 	**Modifié par**:
 
-	  - Loi n°76-394 1976-05-06 ART. 1 JORF 7 MAI 1976
+	  - Décret n°82-389 1982-05-10 art. 1 JONC 11 mai 1982
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
 
 
