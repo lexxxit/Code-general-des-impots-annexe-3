@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-02-02
+Version Consolidée au 1985-02-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4177,6 +4177,44 @@ respectivement aux articles 41 sexdecies C et 41 sexdecies D doivent être rédi
 	  - HISTO: Edition du 1er juillet 1981
 
 
+###### Article 41 sexdecies F
+
+Le dépositaire des actifs du fonds doit, dans les conditions et sous les sanctions prévues aux articles 57, 75 à 79 de
+l'annexe II au code général des impôts et aux articles 17 à 17 D de l'annexe IV au même code :
+
+Etablir en fonction des dispositions des articles 41 sexdecies C à 41 sexdecies E le relevé des sommes payées à adresser à
+l'administration fiscale ainsi que les certificats d'avoir fiscal et de crédit d'impôt à remettre aux bénéficiaires des
+répartitions ; 
+
+Conserver en application de l'article R. 87-1 du livre des procédures fiscales les pièces justificatives de chacun des
+paiements effectués.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 41 sexdecies C à 41 sexdecies
+	  - CGIAN2 57, 75 à 79
+	  - CGIAN4 17 à 17
+
+	**Modifié par**:
+
+	  - Décret n°85-201 du 13 février 1985 - art. 4 () JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 Y (V)
+	  - Livre des procédures fiscales - art. R87-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ##### X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
 
 ###### Article 41 duovicies
@@ -5588,6 +5626,34 @@ cours de la précédente année. Elle est établie sur une formule délivrée pa
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 L (V)
+
+
+##### 2° : Paiement de revenus de valeurs mobilières
+
+###### Article 49 G
+
+La déclaration comporte, par nature d'opérations et en fonction des caractéristiques des produits, le détail des bons ou
+titres mentionnés à l'article 990 A du code général des impôts qui ont été souscrits, remboursés ou qui ont donné lieu au
+paiement d'intérêts au cours de l'année considérée, lorsque le détenteur a fait connaître son identité et son domicile
+fiscal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 990 A
+
+	**Créé par**:
+
+	  - Décret n°85-200 du 13 février 1985 - art. 7 (V) JORF 15 février 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
 
 
 ##### Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts
