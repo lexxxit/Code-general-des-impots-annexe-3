@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-07-10
+Version Consolidée au 1983-07-26
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
