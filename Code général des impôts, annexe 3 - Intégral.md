@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-09-15
+Version Consolidée au 1983-12-15
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -482,47 +482,6 @@ Loi 84-1208 1984-12-29 art. 84 II Finances pour 1985 : L'article 333 undecies de
 
 ### ENREGISTREMENT
 
-#### CONTRIBUTIONS POUR L'ALIMENTATION DU FONDS COMMUN DES ACCIDENTS DU TRAVAIL AGRICOLE SURVENUS DANS LA METROPOLE
-
-##### CONTRIBUTION DES EMPLOYEURS ASSURES.
-
-###### Article 334
-
-La contribution à la charge des employeurs assurés pour l'alimentation du fonds commun des accidents du travail agricole
-survenus dans la métropole institué par l'article premier du décret no 57-1360 du 30 décembre 1957 est perçue sur les
-quittances des primes ou cotisations d'assurances encaissées au titre de la législation sur les accidents du travail agricole
-par les organismes d'assurances ainsi que par la caisse nationale d'assurances en cas d'accidents.
-
-Le montant de cette contribution doit être indiqué sur les quittances [*mention*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°57-1360 du 30 décembre 1957 - art. 1 (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 336
-
-La caisse nationale d'assurances en cas d'accidents verse directement au compte du fonds commun des accidents du travail
-agricole survenus dans la métropole  à l'expiration de chaque trimestre  le montant de la contribution correspondant aux
-primes payées par les assurés et dont l'encaissement a été constaté dans les écritures au cours du trimestre précédent.
-
-Chaque versement est appuyé d'un état indiquant le total des primes encaissées et le montant de la contribution versée
-[*mention*]. Cet état est certifié conforme aux écritures de la caisse nationale; un duplicata en est adressé en même temps
-au ministre de l'agriculture et au ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 #### FONDS DE GARANTIE DES VICTIMES D'ACCIDENTS D'AUTOMOBILE.
 
 ###### Article 340 quinquies
@@ -532,7 +491,7 @@ fixés comme suit :
 
 Contribution des sociétés d'assurances : 10 % de la totalité des charges du fonds de garantie;
 
-Contribution des assurés : 1 % des primes.
+Contribution des assurés : 1,40 % des primes.
 
 2. La contribution des assurés est perçue sur les primes émises postérieurement au 30 septembre 1952, nettes d'annulation.
 
@@ -547,9 +506,13 @@ Le recouvrement en est effectué pour le compte du fonds de garantie par les soc
 
 	  - CGIAN4 159 quinquies
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Décret n°83-1073 du 13 décembre 1983 - art. 1 (V) JORF 15 décembre 1983
 
 
 #### FONDS DE GARANTIE DES VICTIMES D'ACCIDENTS DE CHASSE.
@@ -16099,6 +16062,26 @@ Le décret 85-1007 1985-09-24 a modifié la table des matières de cet article.
 
 ##### I : Contribution des employeurs assurés.
 
+###### Article 334
+
+La contribution à la charge des employeurs assurés pour l'alimentation du fonds commun des accidents du travail agricole
+institué par l'article premier du décret n° 57-1360 du 30 décembre 1957 est perçue sur les quittances des primes ou
+cotisations d'assurances encaissées au titre de la législation sur les accidents du travail agricole par les organismes
+d'assurances ainsi que par la caisse nationale d'assurances en cas d'accidents.
+
+Le montant de cette contribution doit être indiqué sur les quittances.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+
+	**Cite**:
+
+	  - Décret n°57-1360 du 30 décembre 1957 - art. 1 (V)
+
+
 ###### Article 335
 
 La contribution est payée par les organismes d'assurances à la recette des impôts de leur siège dans les conditions
@@ -16148,6 +16131,23 @@ l'appui de la liquidation annuelle (1).
 	**Codifié par**:
 
 	  - Décret n°2002-923 2002-06-06
+
+
+###### Article 336
+
+La caisse nationale d'assurances en cas d'accidents verse directement au compte du fonds commun des accidents du travail
+agricole à l'expiration de chaque trimestre le montant de la contribution correspondant aux primes payées par les assurés et
+dont l'encaissement a été constaté dans les écritures au cours du trimestre précédent.
+
+Chaque versement est appuyé d'un état indiquant le total des primes encaissées et le montant de la contribution versée. Cet
+état est certifié conforme aux écritures de la caisse nationale ; un duplicata en est adressé en même temps au ministre de
+l'agriculture et au ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
 
 
 ##### III : Dispositions communes.
