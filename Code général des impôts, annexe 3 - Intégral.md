@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1982-08-05
+Version Consolidée au 1982-09-01
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -4978,6 +4978,56 @@ Option des sociétés à responsabilité limitée pour le régime fiscal des soc
 	  - Décret n°81-894 du 1 octobre 1981 - art. 2 (V) JORF 3 OCTOBRE 1981
 
 
+###### Article 46 terdecies C
+
+Les sociétés qui ont exercé l'option mentionnée à l'article 46 terdecies A et désirent y renoncer doivent notifier cette
+renonciation au service des impôts auprès duquel est souscrite la déclaration de résultats avant la date d'ouverture du
+premier exercice auquel elle s'applique. 
+
+Dans ce cas, elles n'ont plus la possibilité d'opter à nouveau pour le régime des sociétés de personnes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°81-894 du 1 octobre 1981 - art. 3 (V) JORF 3 octobre 1981
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies A (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies D (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
+###### Article 46 terdecies D
+
+Les notifications effectuées par les sociétés au service des impôts en application des articles 46 terdecies A et 46
+terdecies C doivent être signées par l'ensemble des associés. Elles comportent l'indication de la raison sociale, du lieu du
+siège et, s'il est différent, du principal établissement. Elles mentionnent également la répartition du capital, les nom,
+prénoms, adresse et lien de parenté des associés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°81-894 du 1 octobre 1981 - art. 4 (V) JORF 3 octobre 1981
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies C (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+
 ##### Section 0I bis : Personnes morales passibles de l'impôt sur les sociétés, ayant pour objet de transférer gratuitement à leurs membres la jouissance d'un bien meuble ou immeuble
 
 ###### Article 46 quaterdecies
@@ -7949,6 +7999,50 @@ et territoires d'outre-mer.
 	**Cite**:
 
 	  - CGIAN3 219 A à 219 K
+
+
+#### Chapitre III ter : Régime économique de l'isoglucose.
+
+###### Article 219 R
+
+Dans chaque unité de fabrication d'isoglucose, il doit être tenu, à partir d'indications journalières, un compte de
+fabrication. Toutes les quantités portées à ce compte sont exprimées en poids réel et matières sèches.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 3 (V) JORF 10 avril 1982
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 S
+
+Les fabricants d'isoglucose doivent installer, dans les conditions fixées par l'administration, tous moyens de pesage, de
+comptage et de mesurage de leur production.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 4 (V) JORF 10 avril 1982
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 
 ### Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses
@@ -15261,6 +15355,87 @@ prélèvement de 3 % pour frais d'assiette et de perception.
 ### Titre premier : Assiette et contrôle de l'impôt
 
 #### Chapitre premier : Obligations des contribuables
+
+##### I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes
+
+###### Article 344 GA
+
+La déclaration prévue à l'article 1649 B du code général des impôts doit comporter les indications suivantes : 
+
+a. Le nom ou la raison sociale, la profession et l'adresse du déclarant ; 
+
+b. Les nom et prénoms ou la raison sociale et l'adresse du bénéficiaire des versements ; 
+
+c. Le montant total des sommes qui lui ont été versées durant l'année civile précédente en exécution des contrats de
+publicité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-586 du 2 juillet 1982 - art. 1 (V) JORF 8 juillet 1982
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 GB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 GC (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 B (V)
+
+
+###### Article 344 GB
+
+Lorsqu'elle est à la charge d'un syndic de copropriété, la déclaration mentionnée à l'article 344 GA n'est pas exigée pour
+les sommes figurant déjà sur les déclarations produites en application de l'article 46 C et de l'article 374 de l'annexe II
+au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 374 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 GA (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-586 du 2 juillet 1982 - art. 2 (V) JORF 8 juillet 1982
+
+
+###### Article 344 GC
+
+La déclaration mentionnée à l'article 344 GA est souscrite avant le 1er mars de l'année qui suit celle du paiement de la
+publicité par le loueur. Elle est établie sur une formule délivrée par l'administration. Elle est adressée à la direction des
+services fiscaux du domicile ou du principal établissement du déclarant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 344 GA
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-586 du 2 juillet 1982 - art. 3 (V) JORF 8 juillet 1982
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
 
 ##### II : Déclaration des ventes autres que les ventes au détail
 
