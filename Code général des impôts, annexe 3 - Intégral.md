@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1993-03-27
+Version Consolidée au 1993-03-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16215,25 +16215,22 @@ sanitaire de découpage.
 
 La redevance sanitaire de découpage n'est pas due pour les viandes en carcasse de toutes espèces, les viandes en carcasse,
 demi-carcasse ou demi-carcasse découpée en un maximum de trois morceaux de gros ou de quartiers des espèces bovine, ovine,
-caprine, porcine et des espèces chevaline, asine ou leurs croisements qui sont exportées vers les pays tiers ou expédiées
-vers les Etats membres de la Communauté économique européenne.
+caprine, porcine et des espèces chevaline, asine ou leurs croisements qui sont exportées ou expédiées vers les Etats membres
+de la Communauté économique européenne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-296 du 20 mars 1991 - art. 5 (V) JORF 22 mars 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-637 du 26 mars 1993 - art. 2 () JORF 28 mars 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 111 quater P
 
-A l'importation en provenance des pays autres que ceux appartenant à la Communauté économique européenne, la redevance
-sanitaire de découpage est perçue dans les conditions prévues à l'article 111 quater R sur les viandes reprise au tableau
-visé à l'article 111 quater J déclarées pour la mise à la consommation dans le territoire douanier.
+A l'importation, la redevance sanitaire de découpage est perçue dans les conditions prévues à l'article 111 quater R sur les
+viandes reprise au tableau visé à l'article 111 quater J déclarées pour la mise à la consommation dans le territoire
+douanier.
 
 Le tarif de la redevance sanitaire de découpage à retenir pour les préparations et conserves de viandes de boucherie, de
 charcuterie et de volailles (numéro ex 1601 et ex 1602 du tarif des douanes) dans la composition desquelles entrent des
@@ -16245,13 +16242,10 @@ viandes d'espèces animales différentes est égal à celui prévu pour la viand
 
 	  - CGI 111 quater R, 111 quater J
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-296 du 20 mars 1991 - art. 6 (V) JORF 22 mars 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-637 du 26 mars 1993 - art. 3 () JORF 28 mars 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -16260,10 +16254,10 @@ viandes d'espèces animales différentes est égal à celui prévu pour la viand
 
 ###### Article 111 quater Q
 
-A l'importation des Etats membres de la Communauté économique européenne, la redevance sanitaire de découpage est perçue dans
-les conditions prévues à l'article 111 quater R sur les viandes en carcasse, demi-carcasse ou demi-carcasse découpée en un
-maximum de trois morceaux de gros ou quartiers des animaux des espèces bovine, ovine, caprine, porcine et des espèces
-chevaline, asine ou leurs croisements, reprises au tableau ci-dessous :
+Pour les viandes en provenance des autres Etats membres de la Communauté économique européenne, la redevance sanitaire de
+découpage est perçue dans les conditions prévues à l'article 111 quater R sur les viandes en carcasse, demi-carcasse ou demi-
+carcasse découpée en un maximum de trois morceaux de gros ou quartiers des animaux des espèces bovine, ovine, caprine,
+porcine et des espèces chevaline, asine ou leurs croisements, reprises au tableau ci-dessous :
 
 Numéro du tarif des douanes : Désignation des marchandises
 
@@ -16283,13 +16277,10 @@ Ex 0205-00-00 : Viandes des animaux domestiques des espèces chevaline, asine, m
 
 	  - CGI 111 quater R
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-296 du 20 mars 1991 - art. 7 (V) JORF 22 mars 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-637 du 26 mars 1993 - art. 4 () JORF 28 mars 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -16298,26 +16289,17 @@ Ex 0205-00-00 : Viandes des animaux domestiques des espèces chevaline, asine, m
 
 ###### Article 111 quater R
 
-La redevance perçue aux articles 111 quater P et 111 quater Q est perçue sur le poids net de la viande, reconnu ou admis par
-le service des douanes, déduction faite du poids des abats.
+La redevance perçue aux articles 111 quater P et 111 quater Q est perçue sur le poids net de la viande, déduction faite du
+poids des abats et arrondi au kilogramme le plus voisin. 
 
-Ce poids est arrondi au kilogramme le plus voisin pour chaque article de la déclaration de mise à la consommation. Il est
-éventuellement affecté d'un abattement de 5 p. 100 également arrondi, pour les volailles dont le foie et le gésier ont été
+Il est éventuellement affecté d'un abattement de 5 % également arrondi, pour les volailles dont le foie et le gésier ont été
 détachés de la carcasse mais pesés et emballés avec celle-ci.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 111 quater P, 111 quater Q
-
-	**Créé par**:
-
-	  - Décret n°91-296 du 20 mars 1991 - art. 8 (V) JORF 22 mars 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°93-637 du 26 mars 1993 - art. 5 () JORF 28 mars 1993
 
 	**Cité par**:
 
@@ -26548,21 +26530,24 @@ attestation en est redevable du seul fait de cette mention.
 
 ###### Article 333 E
 
-Les huiles taxables exportées  en l'état ou après incorporation dans des produits destinés à l'alimentation humaine  ouvrent
-droit à remboursement de la taxe spéciale.
+Les huiles taxables exportées ou qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter du code général
+des impôts ou d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté économique européenne en
+application de l'article 258 A du code précité, en l'état ou après incorporation dans des produits destinés à l'alimentation
+humaine ouvrent droit à remboursement de la taxe spéciale.
 
 Les déclarations d'exportation relatives à des produits destinés à l'alimentation humaine dans lesquels ont été incorporées
 des huiles végétales fluides ou concrètes ou des huiles d'animaux marins doivent mentionner expressément la proportion des
 différentes catégories d'huiles utilisées.
 
-Le remboursement est accordé aux exportateurs qui en font la demande et apportent toutes les justifications nécessaires
-notamment en ce qui concerne la réalité de l'exportation  la destination des produits  les quantités d'huiles taxables
-contenues dans les produits exportés  le paiement antérieur de la taxe afférente auxdites quantités [*conditions*].
+Le remboursement est accordé aux personnes qui en font la demande et apportent toutes les justifications nécessaires
+notamment en ce qui concerne la réalité de l'exportation ou de l'expédition à destination d'un autre Etat membre de la
+communauté économique européenne, la destination des produits, les quantités d'huiles taxables contenues dans les produits
+exportés ou expédiés, le paiement antérieur de la taxe afférente auxdites quantités.
 
-Les exportateurs sont autorisés à recevoir ou à importer en franchise de taxe spéciale, dans les conditions définies à
-l'article 275 du code général des impôts, les huiles qu'ils destinent à l'exportation (1).
-
-(1) Disposition applicable pour les livraisons et les importations d'huiles intervenues à compter du 1er janvier 1983.
+Ces personnes sont autorisées à recevoir ou à importer en franchise de taxe spéciale, dans les conditions définies à
+l'article 275 du code général des impôts, les huiles qu'elles destinent à une livraison à l'exportation, à une livraison
+exonérée en vertu du I de l'article 262 ter du même code ou à une livraison dont le lieu est situé sur le territoire d'un
+autre Etat membre de la Communauté économique européenne en application des dispositions de l'article 258 A du code précité.
 
 **Liens relatifs à cet article**
 
@@ -26570,13 +26555,25 @@ l'article 275 du code général des impôts, les huiles qu'ils destinent à l'ex
 
 	  - CGI 275
 
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 R
+
 	**Modifié par**:
 
-	  - Décret n°82-1234 du 31 décembre 1982 - art. 2 (V) JORF 12 janvier 1983
+	  - Décret n°93-637 du 26 mars 1993 - art. 6 () JORF 28 mars 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 333 F
@@ -26609,6 +26606,34 @@ humaine ou les incorporerait en l'état dans tous produits destinés à l'alimen
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 F bis
+
+Pour les huiles taxables lors de l'acquisition intracommunautaire il est fait mention du paiement de la taxe sur les factures
+en cas de vente en France des produits.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 331 T
+
+	**Créé par**:
+
+	  - Décret n°93-637 du 26 mars 1993 - art. 7 () JORF 28 mars 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1127 1993-09-24
+
+	**Transféré par**:
+
+	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
+
+	**Liens**:
+
 	  - HISTO: Edition du 18 août 1993
 
 
