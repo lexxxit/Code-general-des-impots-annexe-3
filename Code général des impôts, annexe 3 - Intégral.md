@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1982-12-31
+Version Consolidée au 1983-01-04
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -2982,6 +2982,49 @@ COEFFICIENT
 
 ##### M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts
 
+##### 3 : Règles d'évaluation
+
+###### Article 38 septies
+
+Les valeurs mobilières constituant des titres de placement sont inscrites au bilan pour leur valeur d'origine.
+
+A la fin de chaque exercice, il est procédé à une estimation de ces titres.
+
+Les titres cotés sont évalués au cours moyen du dernier mois de l'exercice. Les titres non cotés sont évalués à leur valeur
+probable de négociation.
+
+Les titres cotés s'entendent des valeurs inscrites à la cote officielle d'une bourse de valeurs ou qui figurent à la cote du
+second marché d'une bourse de valeurs françaises.
+
+Les plus-values ou moins-values résultant de cette estimation sont appréciées, pour chaque catégorie de titres de même
+nature, par rapport à la valeur d'origine globale de l'ensemble de ces titres.
+
+Les plus-values ne sont pas comptabilisées; par contre, les moins-values sont inscrites au compte de provisions.
+
+Toutefois, en cas de baisse anormale de certains titres cotés apparaissant comme momentanée, l'entreprise a, sous sa
+responsabilité, la faculté de ne pas comprendre dans la provision tout ou partie de la moins-value constatée sur ces titres,
+mais seulement dans la mesure où il peut être établi une compensation avec les plus-values normales constatées sur d'autres
+titres.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 53 A
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1 1983-01-03 art. 47 JORF 4 janvier 1983
+
+
 ##### 4 : Dispositions diverses
 
 ###### Article 38 quaterdecies
@@ -3454,6 +3497,37 @@ d'hospitalisation, de soins, de cure et de prévention relevant du ministère de
 ##### A : Taxation des gains nets en capital
 
 ##### 1° : Fonds communs de placement.
+
+###### Article 39 bis
+
+En cas de rachat de parts, le gérant d'un fonds commun de placement ou le dépositaire des actifs du fonds agissant pour le
+compte du gérant, doit tenir à la disposition du propriétaire de parts les éléments nécessaires à la détermination de la
+valeur moyenne pondérée d'acquisition des parts rachetées.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 41 duovicies D
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+	  - Décret n°83-899 1983-10-06
+
+	**Transféré par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 31 mars 2001
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 janvier 1983
+
 
 ###### Article 39 ter
 
@@ -10379,6 +10453,57 @@ III. Lorsque les biens visés au I ou leur représentation ne deviennent disponi
 cession ou d'un transfert que pour partie  les dispositions du II ne sont applicables qu'à concurrence de la fraction devenue
 ainsi disponible ou de celle vendue cédée ou transférée.
 
+
+
+##### 3° : Fonds communs de placement
+
+###### Article 280 A
+
+Le gérant ou le dépositaire des actifs d'un fonds commun de placement agissant pour le compte du gérant, doit, en cas de
+décès d'un propriétaire de parts du fonds :
+
+1° Déposer dans le délai prévu au I l'article 806 du code général des impôts, auprès de la direction des services fiscaux
+désignée au premier alinéa de l'article 41 sexdecies A, une déclaration rédigée sur les formules imprimées visées au II de
+l'article 806 et mentionnant :
+
+- la dénomination du fonds, le nom ou la raison sociale et l'adresse du gérant ; 
+
+- les nom, prénoms, date de naissance, date de décès, et domicile fiscal du défunt ; 
+
+- le nombre de parts du fonds dont le défunt était titulaire lors de son décès ; 
+
+- le montant de la valeur de rachat de la part au jour du décès ou, à défaut de valeur de rachat déterminée à cette date, la
+date et le montant de la dernière valeur de rachat dégagée avant le décès et de celle dégagée immédiatement après ; 
+
+2° Se conformer aux prescriptions des deux premiers alinéas du III de l'article 806 du code général des impôts vis-à-vis des
+héritiers, légataires, ou donataires domiciliés hors de France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 806 I, II, III
+	  - CGIAN3 41 sexdecies A
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°81-89 du 29 janvier 1981 - art. 2 (V) JORF 4 février 1981
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 280 B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Modifié par**:
+
+	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 janvier 1983
 
 
 ##### Section III : Obligations diverses
