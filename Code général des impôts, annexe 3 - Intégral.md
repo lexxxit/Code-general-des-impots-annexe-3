@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-06-01
+Version Consolidée au 2004-06-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13862,27 +13862,15 @@ b) La somme ainsi calculée est imputée sur le déficit encore reportable subi 
 c) La partie du déficit qui demeure imputable dans les conditions prévues au 5 de l'article 223 I du code général des impôts
 est réduite à due concurrence.
 
-Les règles mentionnées aux a, b et c s'appliquent également à la fraction du déficit qui correspond à des amortissements
-réputés différés en période déficitaire.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 I, 223 L, 209, 223, 223 R
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2004-467 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1997-05-30 4H-4-97
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quater-0 ZK
@@ -14019,8 +14007,8 @@ accompagnée des pièces prévues à l'article 46 quater-0 ZL.
 
 Lorsqu'une société mère agréée en application de l'article  209 sexies du code général des impôts opte pour le régime de
 groupe défini à l'article 223 A de ce code, ses déficits reportables du point de vue fiscal à l'ouverture du premier exercice
-d'application de ce régime sont imputables sur ses bénéfices ultérieurs dans les conditions prévues aux troisième et
-quatrième alinéas du I de l'article 209 et à l'article 223 I du code déjà cité.
+d'application de ce régime sont imputables sur ses bénéfices ultérieurs dans les conditions prévues au troisième alinéa du I
+de l'article 209 et à l'article 223 I du code déjà cité.
 
 Toutefois, si le montant du déficit déductible au titre d'un exercice en application du premier alinéa est inférieur au
 pourcentage fixé ci-après du bénéfice d'ensemble déterminé après déduction du déficit d'ensemble des exercices antérieurs, la
@@ -14038,17 +14026,17 @@ chacun des quatre exercices suivants.
 
 	  - CGI 209 sexies, 223 A, 209 I, 223 I
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2004-467 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quater-0 ZR
@@ -14195,110 +14183,6 @@ Cet état est établi sur papier libre conformément au modèle fixé par l'admi
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 44 septies (V)
-
-
-##### Section XI : Régime des amortissements réputés différés en période déficitaire en cas de reprise ou de transfert d'activités
-
-###### Article 46 quater-0 ZY bis
-
-Pour l'application du quatrième alinéa du I de l'article 209 du code général des impôts :
-
-1. La valeur d'origine des éléments repris ou transférés est comparée à la valeur d'origine de l'ensemble des éléments de
-l'actif immobilisé qui figurent au bilan du dernier exercice clos à la date de la reprise ou du transfert d'activités ;
-
-2. Le chiffre d'affaires s'entend du chiffre d'affaires hors taxes réalisé au cours du dernier exercice clos à la date de la
-reprise ou du transfert d'activités ;
-
-3. L'effectif des salariés correspond au nombre mensuel moyen de salariés employés au cours du même exercice et titulaires
-d'un contrat de travail.
-
-Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail entre en compte dans l'effectif des
-salariés au prorata du rapport qui existe entre la durée hebdomadaire de travail mentionnée dans son contrat et la durée
-légale de travail sur la même période ou, si elle est inférieure à la durée légale, la durée normale de travail accomplie
-dans l'établissement ou la partie de l'établissement où il est employé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209
-	  - Code du travail - art. L212-4-2 (M)
-
-	**Créé par**:
-
-	  - Décret n°91-1146 du 7 novembre 1991 - art. 1 (V) JORF 9 novembre 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2004-467 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. D331-64 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 46 quater-0 ZY quater
-
-Pour l'application du quatrième alinéa du I de l'article 209 du code général des impôts et des troisième, quatrième et
-cinquième phrases du deuxième alinéa de l'article 223 C de ce code, la société mère d'un groupe défini à l'article 223 A du
-même code doit joindre à la déclaration mentionnée à l'article 223 Q du code déjà cité une copie de la déclaration spéciale
-et, le cas échéant, de l'attestation mentionnées à l'article 46 quater-0 ZY ter, établies par chacune des sociétés membres du
-groupe ayant pris part à une opération de reprise ou de transfert d'activités.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209, 223 C, 223 A, 223 Q
-	  - CGIAN3 46 quater-0 ZY ter
-
-	**Créé par**:
-
-	  - Décret n°91-1146 du 7 novembre 1991 - art. 3 (V) JORF 9 novembre 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2004-467 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 46 quater-0 ZY ter
-
-Pour l'application du quatrième alinéa du I de l'article 209 du code général des impôts, l'entreprise qui transfère tout ou
-partie de ses activités à une autre entreprise joint à la déclaration de résultats de l'exercice en cours lors du transfert
-une déclaration spéciale établie d'après un modèle fixé par l'administration. Il en est de même pour l'entreprise qui reçoit
-tout ou partie des activités. Celle-ci joint en outre une attestation, délivrée par l'entreprise cédante, relative aux
-renseignements mentionnés à l'article 46 quater-0 ZY bis qui concernent l'activité transférée ; cette attestation est établie
-sur un document conforme au modèle fixé par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209
-	  - CGIAN3 46 quater-0 ZY bis
-
-	**Créé par**:
-
-	  - Décret n°91-1146 du 7 novembre 1991 - art. 2 (V) JORF 9 novembre 1991
-
-	**Abrogé par**:
-
-	  - Décret n°2004-467 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-	  - HISTO: Edition du 4 juillet 1992
 
 
 ##### Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital
@@ -18514,7 +18398,7 @@ marchandises.
 ###### Article 74
 
 1. Les livraisons réalisées par les assujettis et portant sur des objets ou marchandises exportés sont exonérées de la taxe
-sur la valeur ajoutée à condition, savoir :
+sur la valeur ajoutée à condition :
 
 a. Que le fournisseur inscrive les envois sur le registre prévu au 3° du I de l'article 286 du code général des impôts, par
 ordre de date, avec l'indication de la date de l'inscription, du nombre des marques et numéros de colis, de l'espèce, de la
@@ -18525,15 +18409,44 @@ transport, bordereau, feuille de gros, etc.), qui accompagne l'envoi et soient c
 déclaration en douane par la personne chargée de présenter les objets ou marchandises pour l'exportation ;
 
 c. Que le fournisseur établisse pour chaque envoi une déclaration d'exportation, conforme au modèle donné par
-l'administration, qui doit, après visa par le service des douanes du point de sortie, être mise à l'appui du registre visé au
-a. Toutefois, lorsque l'exportation est réalisée par l'entremise d'un intermédiaire agissant au nom et pour le compte
-d'autrui, et que celui-ci est désigné comme expéditeur des biens sur la déclaration d'exportation, le fournisseur met à
-l'appui du registre prévu au a un exemplaire de sa facture visée par le service des douanes du point de sortie.
+l'administration, qui doit, après visa par l'autorité douanière compétente, conformément au code des douanes communautaire et
+ses dispositions d'application, être mise à l'appui du registre visé au a. Toutefois, lorsque l'exportation est réalisée par
+l'entremise d'un intermédiaire agissant au nom et pour le compte d'autrui, et que celui-ci est désigné comme expéditeur des
+biens sur la déclaration d'exportation, le fournisseur met à l'appui du registre prévu au a un exemplaire de sa facture visée
+par le service des douanes du point de sortie.
 
 Lorsque l'intermédiaire a la qualité de commissionnaire en douane agréé et a obtenu de l'administration des douanes et droits
 indirects un agrément spécifique à la procédure du dédouanement des envois express, le fournisseur met à l'appui du registre
 prévu au a le document comportant tous les élements d'information requis par l'administration, qui lui a été remis par cet
 intermédiaire.
+
+d. Que, dans les cas où le fournisseur ne détient pas la déclaration d'exportation visée conformément au premier alinéa du c
+et à l'exclusion des opérations mentionnées aux quatrième à huitième alinéas du I de l'article 262 du code général des
+impôts, il mette à l'appui du registre mentionné au a, pour justifier de la sortie des biens expédiés vers un pays
+n'appartenant pas à la Communauté européenne, un territoire mentionné au 1° de l'article 256-0 du code général des impôts ou
+un département d'outre-mer, en plus de la déclaration en douane enregistrée par le bureau des douanes où elle a été déposée,
+l'un des éléments de preuve complémentaires ci-après :
+
+1° La déclaration en douane authentifiée par l'administration des douanes du pays de destination finale des biens ou une
+attestation de cette administration accompagnée, le cas échéant, d'une traduction officielle ;
+
+2° Tout document de transport des biens vers un pays n'appartenant pas à la Communauté européenne, un territoire mentionné au
+1° de l'article 256-0 du code général des impôts ou un département d'outre-mer ou tout document afférent au chargement du
+moyen de transport qui quitte la Communauté européenne pour se rendre dans le pays ou le territoire de destination finale
+hors de la Communauté ;
+
+3° Tout document douanier visé par le service des douanes compétent et utilisé pour la surveillance de l'acheminement des
+biens vers leur destination finale hors de la Communauté, lorsqu'il s'agit de biens soumis à des contrôles particuliers ;
+
+4° Les documents mentionnés à l'article 302 M du code général des impôts, visés par le bureau des douanes du point de sortie
+de la Communauté ou tout autre élément de preuve alternatif accepté par l'administration chargée de la surveillance des
+mouvements de produits soumis à accises ;
+
+5° Pour tous les produits autres que ceux soumis à accises ou à des contrôles douaniers particuliers et lorsqu'il s'agit
+d'une livraison effectuée dans les conditions prévues au premier alinéa du 2° du I de l'article 262 du code général des
+impôts, une déclaration du transporteur ou du transitaire qui a pris en charge les biens, accompagnée de la preuve du
+paiement des biens par le client établi dans un pays n'appartenant pas à la Communauté européenne, un territoire mentionné au
+1° de l'article 256-0 du code général des impôts ou un département d'outre-mer.
 
 2. En ce qui concerne les exportations de perles fines (n° 71-01 du tarif des douanes) et de pierres gemmes brutes ou
 taillées (n° 71-02, 71-03, 85-22-10 et 91-14-20 du tarif des douanes), les bureaux de douane de Paris-Choron, de Saint-Claude
@@ -18566,17 +18479,12 @@ autres.
 
 	**Cite**:
 
-	  - CGI 286
+	  - CGI 286, 262, 256-0, 302 M
 	  - Décret n°93-991 1993-08-09
 
 	**Modifié par**:
 
-	  - Décret n°98-515 du 17 juin 1998 - art. 1 () JORF 25 juin 1998
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2004-468 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
 
 	**Cité par**:
 
@@ -18584,8 +18492,7 @@ autres.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1998-12-15 3A-9-98
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Section II : Assiette de la taxe

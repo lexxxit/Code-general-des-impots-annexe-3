@@ -2,8 +2,8 @@
 
 Lorsqu'une société mère agréée en application de l'article  209 sexies du code général des impôts opte pour le régime de
 groupe défini à l'article 223 A de ce code, ses déficits reportables du point de vue fiscal à l'ouverture du premier exercice
-d'application de ce régime sont imputables sur ses bénéfices ultérieurs dans les conditions prévues aux troisième et
-quatrième alinéas du I de l'article 209 et à l'article 223 I du code déjà cité.
+d'application de ce régime sont imputables sur ses bénéfices ultérieurs dans les conditions prévues au troisième alinéa du I
+de l'article 209 et à l'article 223 I du code déjà cité.
 
 Toutefois, si le montant du déficit déductible au titre d'un exercice en application du premier alinéa est inférieur au
 pourcentage fixé ci-après du bénéfice d'ensemble déterminé après déduction du déficit d'ensemble des exercices antérieurs, la
@@ -21,14 +21,14 @@ chacun des quatre exercices suivants.
 
 	  - CGI 209 sexies, 223 A, 209 I, 223 I
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2004-467 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 2
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2004
