@@ -7,6 +7,10 @@ des établissements exploités dans les départements d'outre-mer [*DOM*] et app
 de la pêche, de l'h<cb>tellerie, du tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics,
 des transports et de l'artisanat.
 
+Les dispositions de l'alinéa précédent sont applicables aux investissements productifs réalisés à compter du 1er janvier 1992
+dans le secteur de la maintenance au profit d'activités industrielles et dans celui de la production et de la diffusion
+audiovisuelles et cinématographiques.
+
 </cb>
 
 **Liens relatifs à cet article**
@@ -17,8 +21,5 @@ des transports et de l'artisanat.
 
 	**Modifié par**:
 
-	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-440 du 19 mai 1992 - art. 1 () JORF 20 mai 1992
+	  - Modification directe incorporée dans l'édition du 4 juillet 1992

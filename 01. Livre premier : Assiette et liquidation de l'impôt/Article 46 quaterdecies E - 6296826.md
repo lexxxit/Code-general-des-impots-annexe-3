@@ -7,6 +7,10 @@ sociétés exploitées dans les départements d'outre-mer et qui exercent exclus
 au sens de l'article 46 quaterdecies B ou dans les secteurs de la pêche, de l'hôtellerie, du tourisme, des énergies nouvelle,
 de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat.
 
+Les dispositions de l'alinéa précédent sont applicables aux souscriptions réalisées à compter du 1er janvier 1992 dans le
+secteur de la maintenance au profit d'activités industrielles et dans celui de la production et de la diffusion
+audiovisuelles et cinématographiques.
+
 La valeur d'origine des éléments d'actif autres que ceux nécessaires à l'exercice de l'activité ouvrant droit à déduction ne
 doit pas excéder 10 % du montant total de l'actif brut de la société.
 
@@ -14,14 +18,9 @@ doit pas excéder 10 % du montant total de l'actif brut de la société.
 
 	**Cite**:
 
-	  - CGI 199 undecies
-	  - CGI 238 bis HA II
-	  - CGIAN3 46 quaterdecies B
+	  - CGI 238 bis HA, 199 undecies, 46 quaterdecies B
 
 	**Modifié par**:
 
-	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet  1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-440 du 19 mai 1992 - art. 2 () JORF 20 mai 1992
+	  - Modification directe incorporée dans l'édition du 4 juillet 1992
