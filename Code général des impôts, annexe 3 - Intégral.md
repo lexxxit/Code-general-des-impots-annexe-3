@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2000-04-19
+Version Consolidée au 2000-06-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -31567,6 +31567,36 @@ d'imposition considérée un état de répartition du capital social conforme au
 	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 	  - HISTO: Edition du 22 avril 1998
 	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 366 L
+
+Les versements anticipés prévus au I de l'article 1668 D du code général des impôts sont calculés et versés dans les
+conditions fixées au premier alinéa de l'article 360.
+
+Chaque versement anticipé est égal à 0,825 % du montant de l'impôt sur les sociétés calculé sur les résultats imposables aux
+taux mentionnés au I de l'article 219 du code général des impôts du plus récent exercice clos ou de la dernière période
+d'imposition arrêtée à la date de son échéance et diminué du montant de l'abattement défini au premier alinéa du I de
+l'article 235 ter ZC du code précité. Lorsque cet exercice ou cette période d'imposition est supérieur ou inférieur à douze
+mois, l'impôt de référence ainsi calculé est, en tant que de besoin, rapporté à une période de douze mois.
+
+Le versement anticipé dont l'échéance est comprise entre la date de clôture d'un exercice ou la fin d'une période
+d'imposition et l'expiration du délai de déclaration fixé au deuxième alinéa du 1 de l'article 223 du code général des impôts
+est calculé et régularisé, au taux de 0,825 %, dans les conditions fixées au quatrième alinéa de l'article 360.
+
+Sont dispensées des versements anticipés les sociétés pour lesquelles le montant de la contribution sociale calculée sur
+l'impôt sur les sociétés de référence n'excède pas 1 000 F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1668 D, 235 ter ZC, 219, 223
+	  - CGIAN3 360
+
+	**Créé par**:
+
+	  - Décret n°2000-498 du 6 juin 2000 - art. 1 () JORF 8 juin 2000
 
 
 ##### 6 : Taxe sur les salaires
