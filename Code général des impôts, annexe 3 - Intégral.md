@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-11-23
+Version Consolidée au 1980-12-09
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -15476,6 +15476,35 @@ attribué entraîne l'exigibilité immédiate des droits en suspens.
 	  - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
 
 
+##### Apports en société.
+
+###### Article 404 C
+
+Les droits et taxes exigibles sur les apports en société et dont le paiement est fractionné en application des dispositions
+de l'article 396-2° sont acquittés :
+
+- en trois annuités égales lorsqu'il s'agit d'opérations prévues aux articles 809-II et 812-I-1° et 2° du code général des
+impôts ;
+
+- en cinq annuités égales lorsqu'il s'agit d'apports prévus à l'article 809-I-3° du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 809 II, I 3°
+	  - CGI 812 I 1°, 2°
+	  - CGIAN3 396 2 °
+
+	**Modifié par**:
+
+	  - Décret n°80-986 du 8 décembre 1980 - art. 3 (V) JORF 9 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
 ##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires
 
 ###### Article 404 D
@@ -16405,24 +16434,24 @@ d'enregistrement, à la taxe de publicité foncière et aux taxes additionnelles
 2° des apports en société prévus aux articles 809-I-3° 809-II et 812-I-1° et 2° du code précité ;
 
 3° des acquisitions effectuées dans le cadre des dispositions de l'article 88 de la loi n° 67-563 du 13 juillet 1967 sur le
-règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes; 4° des paiements d'indemnités
-entre officiers publics et ministériels par suite de suppression d'offices ;
+règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes ;
+
+4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices ;
 
 5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article
 30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis
 dans le cadre des dispositions de l'article 686 du code rural au profit d'agriculteurs dont la qualité de migrant a été
 reconnue par le ministre de l'agriculture.
 
+6° Des donations d'entreprises portant :
+
+- soit sur l'ensemble des biens meubles et immeubles, corporels ou incorporels affectés à l'exploitation d'une entreprise
+individuelle ;
+
+- soit sur les parts sociales ou les actions d'une société non cotée en bourse à la condition que le bénéficiaire reçoive la
+majorité du capital social.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1717
-	  - CGI 809 I 3°, II
-	  - CGI 812 I 1°, 2
-	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
-	  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
-	  - Code rural 686
 
 	**Cité par**:
 
@@ -16435,9 +16464,22 @@ reconnue par le ministre de l'agriculture.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 E (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - CGI 1717
+	  - CGI 809 I 3°, II
+	  - CGI 812 I 1°, 2
+	  - Code rural 686
+	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
+
+	**Modifié par**:
+
+	  - Décret n°80-986 du 8 décembre 1980 - art. 1 (V) JORF 9 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ###### Article 401
@@ -16527,7 +16569,7 @@ du code général des impôts. Cette indemnité est exclusive de l'intérêt pr�
 
 ###### Article 404 A
 
-Les garanties fournies en contrepartie du fractionnement prévu à l'article 396-1o peuvent  outre les formes énumérées à
+I. Les garanties fournies en contrepartie du fractionnement prévu a l'article 396-1° peuvent outre les formes énumérées à
 l'article 400, revêtir celle de l'hypothèque légale prévue à l'article 1929-2 du code général des impôts.
 
 Les droits sont acquittés en plusieurs versements égaux  dont le premier a lieu dans les conditions fixées à l'article 402 et
@@ -16563,39 +16605,57 @@ Parts d'intér ts dans des sociétés dont le capital n'est pas divisé en actio
 
 Valeurs mobilières non cotées en Bourse.
 
+II. La possibilité d'étaler sur une période maximale de dix ans le paiement ds droits de succession prévue pour les héritiers
+en ligne directe par le quatrième alinéa du I est étendue, sous les mêmes conditions, à tous les héritiers et légataires pour
+les biens mentionnés à l'article 396-6°.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1929 2
-	  - CGIAN3 396 1°
-	  - CGIAN3 400
-	  - CGIAN3 402
+	  - CGIAN3 396 6°
+
+	**Modifié par**:
+
+	  - Décret n°80-986 du 8 décembre 1980 - art. 2 (V) JORF 9 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 402 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
 
-	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+###### Article 404 CA
 
+Les droits exigibles sur les donations d'entreprises et dont le paiement est fractionné en application de l'article 396-6°
+sont acquittés en plusieurs versements égaux dont le premier a lieu dans les conditions fixées à l'article 402 et le dernier
+au plus tard cinq ans après l'expiration du délai prévu pour l'enregistrement de la donation. 
 
-###### Article 404 C
-
-Les droits et taxes exigibles sur les apports en société et dont le paiement est fractionné en application des dispositions
-de l'article 396-2o sont acquittés en trois annuités égales.
+Les dispositions prévues au troisième alinéa de l'article 404 A sont applicables.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 396 2°
+	  - CGIAN3 396 6°
+	  - CGIAN3 402
+	  - CGIAN3 404 A AL. 3
 
-	**Liens**:
+	**Créé par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°80-986 du 8 décembre 1980 - art. 1 (V) JORF 8 ET 9 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Abrogé par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
 
 
 ### DROITS DE TIMBRE.
