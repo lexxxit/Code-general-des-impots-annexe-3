@@ -1,25 +1,23 @@
 # Article 46 quater-0 ZL
 
 La déclaration du résultat d'ensemble visée à l'article 223 Q du code général des impôts comprend les éléments nécessaires à
-la détermination et au contrôle de ce résultat. La société mère doit joindre à cette déclaration un état des subventions
-directes ou indirectes et des abandons de créances consentis ou reçus par chacune des sociétés membres du groupe, à compter
-du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le montant de ces subventions
-ou abandons.
+la détermination et au contrôle de ce résultat. La société mère doit joindre à cette déclaration :
 
-1 Un état des subventions directes ou indirectes et des abandons de créances consentis ou reçus pour chacune des sociétés
+1. Un état des subventions directes ou indirectes et des abandons de créances consentis ou reçus pour chacune des sociétés
 membres du groupe, à compter du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le
 montant de ces subventions ou abandons.
 
-2 Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné à l'article 46 quater-0 ZK ;
+2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au b de l'article 46 quater-0 ZK ;
 
-3 Un tableau de synthèse de ces rectifications ;
+3. Un tableau de synthèse de ces rectifications ;
 
-4 Un tableau de détermination du résultat d'ensemble du groupe ;
+4. Un tableau de détermination du résultat d'ensemble du groupe ;
 
-5 Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme d'ensemble
-et les crédits d'impôt susceptibles d'être utilisés par la société mère.
+5. Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme
+d'ensemble et les crédits d'impôt susceptibles d'être utilisés par la société mère.
 
-6 Dans les situations visées aux c, d et e du 6 de l'article 223 L du code général des impôts, des états faisant apparaître :
+6. Dans les situations visées aux c, d et e du 6 de l'article 223 L du code général des impôts, des états faisant
+apparaître :
 
 a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé et qui font partie
 du nouveau groupe, mentionnée au 5 de l'article 223 I du même code, et la quote-part de ce déficit qui provient de chacune
@@ -31,18 +29,14 @@ mentionnées ci-dessus ;
 c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du groupe de l'une des sociétés mentionnées ci-
 dessus, en application des dispositions du troisième alinéa de l'article 223 R du code général des impôts.
 
-7 En cas de fusion ou d'apport entre sociétés du groupe, une déclaration de l'option pour la dispense prévue à la première
-phrase du deuxième alinéa du b du 6 de l'article 223 L du code général des impôts, des états permettant de déterminer et de
-suivre les réintégrations dont la société mère a demandé la dispense et un tableau de synthèse de ces réintégrations.
+7. (Périmé)
 
-Ces renseignements sont présentés sur un des documents conformes aux modèles établis par l'administration.
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies et 44 decies du code général
+des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme
+d'ensemble exonérés en application du III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies du code
+général des impôts.
 
-8 Un document indiquant les sociétés du groupe relevant des dispositions des ((articles 44 octies et 44 decies du code
-général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long
-terme d'ensemble exonérés en application du III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies du
-code général des impôts)) (M).
-
-(M) Modification du décret 97-343.
+Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
 **Liens relatifs à cet article**
 
@@ -51,11 +45,14 @@ code général des impôts)) (M).
 	  - CGI 223 Q, 223 L, 223 I, 223 R, 44 octies, 44 decies
 	  - CGIAN3 46 quater-0 ZK
 
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
 	**Modifié par**:
 
-	  - Décret n°97-343 1997-04-11 art. 5 2 JORF 13 avril 1997
+	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
-	  - TXT_ASSOCIE: Instruction 1997-05-30 4H-4-97
+	  - HISTO: Edition du 31 mars 2000

@@ -18,18 +18,27 @@ Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis c
 participations ouvrant droit au régime des sociétés mères, les distributions peuvent être librement imputées sur ces
 produits.
 
-III Abrogé.
+II bis. Les distributions mises en paiement à compter du 1er janvier 2000, ouvrant droit ou non à l'avoir fiscal, sont
+prélevées d'abord sur les bénéfices soumis à l'impôt sur les sociétés ou exonérés au titre d'exercices clos depuis cinq ans
+au plus, puis sur tous les autres bénéfices ou réserves disponibles.
+
+III (Abrogé).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 158 bis, 219 I
+	  - CGI 158 bis, 219
 
 	**Modifié par**:
 
-	  - Décret n°92-527 du 15 juin 1992 - art. 4 () JORF 17 juin 1992
+	  - Décret n°99-1093 du 21 décembre 1999 - art. 1 () JORF 24 décembre 1999
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2000

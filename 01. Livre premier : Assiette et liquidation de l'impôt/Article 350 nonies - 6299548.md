@@ -5,11 +5,12 @@ La direction générale des douanes et droits indirects :
 1° Délivre et contrôle les registres à souche de laissez-passer mentionnés au deuxième alinéa du 2° de l'article 441 du code
 général des impôts ;
 
-2° Délivre les laissez-passer en application de l'article 468 du code général des impôts ;
+2° Délivre les documents mentionnés au II de l'article 302 M du code général des impôts en application de l'article 468 du
+même code ;
 
 3° Dispose du registre mentionné au deuxième alinéa de l'article 509 du code général des impôts ;
 
-4° Délivre l'avis de mise en recouvrement en application de l'article 621 du code général des impôts ;
+4° (sans objet).
 
 5° Accède à la comptabilité des organisateurs de réunions sportives en application du c du 3° de l'article 1561 du code
 général des impôts.
@@ -18,16 +19,16 @@ général des impôts.
 
 	**Cite**:
 
-	  - CGI 441, 468, 509, 621, 1561
+	  - CGI 441, 302 M, 468, 509, 1561
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-264 du 1993-02-26 art. 12 2°, 15 2°, 16 2°, 19 2°, 23 2° et 26 JORF 28 février 1993
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2000-477 2000-06-02
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2000

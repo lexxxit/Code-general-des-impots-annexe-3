@@ -2,10 +2,9 @@
 
 I. - La direction générale des douanes et droits indirects exerce les compétences prévues :
 
-1° Aux articles 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, ((1565 septies)) (M) du code général des
-impôts ; 
+1° Aux articles 306, 321, 412, 426, 427, 450, 454, 560, 1562, 1565 septies du code général des impôts ; 
 
-2° Au deuxième alinéa de l'article 444 du code général des impôts ;
+2° Au premier alinéa de l'article 444 du code général des impôts ;
 
 3° A l'article 511 bis du code général des impôts.
 
@@ -20,7 +19,7 @@ II. La direction générale des douanes et droits indirects exerce :
 
 1° Les attributions prévues à l'article 319 du code général des impôts ;
 
-2° Le contrôle mentionné aux articles 471, 473 et 474 du code général des impôts ;
+2° (Sans objet).
 
 3° Le monopole de vente au détail mentionné au premier alinéa de l'article 568 du code général des impôts.
 
@@ -34,25 +33,20 @@ des impôts ;
 3° Pour recevoir après saisie les ouvrages d'or ou contenant de l'or, d'argent et de platine en application de l'article 541
 du code général des impôts.
 
-(1) Modification.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, 1565 septies, 444, 511 bis, 570, 625, 319, 471, 473, 474, 568, 304, 330, 541
+	  - CGI 306, 321, 412, 426, 427, 450, 454, 560, 1562, 1565 septies, 444, 511 bis, 570, 625, 319, 568, 304, 330, 541
 
 	**Modifié par**:
 
-	  - Décret n°97-1195 1997-12-19 art. 6 15° et 13, JORF 27 décembre 1997
-	  - Loi - art. 27 (V) JORF 30 décembre 1997
-	  - Loi n°97-1239 1997-12-29 art. 27 IV, VIII Finances rectificative pour 1997, JORF 30 décembre 1997
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-	  - HISTO: Edition du 22 avril 1998
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2000

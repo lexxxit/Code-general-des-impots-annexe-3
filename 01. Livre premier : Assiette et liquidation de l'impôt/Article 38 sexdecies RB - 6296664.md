@@ -7,31 +7,28 @@ après :
 a. Le livre journal enregistre le détail des recettes et des dépenses ;
 
 b. Le tableau des immobilisations et des amortissements et le compte simplifié du résultat fiscal prévus à l'article 74 A du
-code général des impôts sont reportés sur le livre d'inventaire ; t    c. La déclaration annuelle des résultats qui est faite
-sur un imprimé établi par l'administration comporte un compte simplifié de résultat fiscal et un tableau des immobilisations
-et des amortissements ; les pièces annexes mentionnées au II de l'article 38 ne sont pas produites.
+code général des impôts sont reportés sur le livre d'inventaire ;
+
+c. La déclaration annuelle des résultats qui est faite sur un imprimé établi par l'administration comporte un compte
+simplifié de résultat fiscal et un tableau des immobilisations et des amortissements ; les pièces annexes mentionnées au II
+de l'article 38 ne sont pas produites, à l'exception, pour les sociétés, des listes prévues aux 1° et 2° du deuxième alinéa.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 74 A
-	  - CGIAN3 38 sexdecies P, 38 sexdecies Q, 38 II
+	  - CGIAN3 38 sexdecies P, 38 sexdecies Q, 38
 
 	**Modifié par**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 84 (V) JORF 30 décembre 1983
+	  - Décret n°2000-270 du 21 mars 2000 - art. 2 () JORF 24 mars 2000
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies V (V)
 
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2000
