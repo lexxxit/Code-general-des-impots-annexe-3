@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1999-03-31
+Version Consolidée au 1999-05-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19486,40 +19486,6 @@ support. La restitution porte sur l'intégralité du message transmis.
 	**Codifié par**:
 
 	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-
-###### Article 96 G
-
-Le directeur chargé de la direction des vérifications nationales et internationales se prononce sur les demandes
-d'autorisation et les déclarations prévues au II de l'article 289 bis du code général des impôts. En cas d'empêchement ou
-absence, il peut déléguer sa signature à un agent ayant au moins le grade de directeur divisionnaire des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 289 bis
-
-	**Créé par**:
-
-	  - Décret n°91-579 du 20 juin 1991 - art. 2 (V) JORF 22 juin 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-	**Abrogé par**:
-
-	  - Décret n°99-337 du 3 mai 1999 - art. 1 () JORF 4 mai 1999
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 H (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 septies (V)
 
 	**Liens**:
 
