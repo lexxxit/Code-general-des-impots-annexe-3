@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1992-09-24
+Version Consolidée au 1992-12-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -25772,119 +25772,6 @@ obligations définies à l'article 53 A du code général des impôts sont tiré
 #### Chapitre premier : Impôts directs et taxes assimiléees
 
 ##### Section III : Taxe professionnelle
-
-##### I : Exonération des gîtes ruraux.
-
-###### Article 322 A
-
-Les personnes qui louent de façon saisonnière une partie de leur habitation personnelle  à titre de gîte rural  bénéficient
-de l'exonération de taxe professionnelle prévue à l'article 1459-3o du code général des impôts dans les conditions fixées par
-les articles 322 B à 322 F.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Abrogation directe incorporée dans l'édition du 18 août 1993
-	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
-
-	**Cite**:
-
-	  - CGI 1459 3°
-	  - CGIAN3 322 B, 322 C, 322 D, 322 E, 322 F
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 322 B
-
-Les gîtes ruraux mentionnés à l'article 1459-3o du code général des impôts doivent s'entendre des locaux meublés qui
-remplissent les conditions suivantes :
-
-1o être des logements modestes  sommairement meublés  mais dotés d'un minimum de confort et loués à un prix raisonnable;
-
-2o être destinés à être donnés en location à des familles citadines de condition modeste pour la durée de leur congé annuel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1459 3°
-
-	**Abrogé par**:
-
-	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 322 D
-
-La durée de location des gîtes ruraux ne doit pas excéder six mois par an.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Abrogation directe incorporée dans l'édition du 18 août 1993
-	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 322 E
-
-Les dispositions des articles 322 A à 322 D ne peuvent trouver leur application que dans les communes de moins de 2.000
-habitants agglomérés au chef-lieu. Par exception les gîtes ruraux aménagés à l'aide de subventions du ministre de
-l'agriculture sont susceptibles d'être exonérés de la taxe professionnelle quelle que soit l'importance de la population de
-la localité dans laquelle ils sont situés.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Abrogation directe incorporée dans l'édition du 18 août 1993
-	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
-
-	**Cite**:
-
-	  - CGIAN3 322 A, 322 B, 322 C, 322 D
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 322 F
-
-Les délibérations des conseils généraux tendant à exclure les gîtes ruraux du bénéfice de l'exonération de la taxe
-professionnelle prévu à l'article 322 A doivent concerner l'ensemble des communes du département et intervenir au cours de la
-première session ordinaire. Ces délibérations peuvent être abrogées par la suite dans les mêmes conditions.
-
-Dans un cas comme dans l'autre elles ne trouvent leur application qu'à partir du 1er janvier de l'année suivant celle au
-cours de laquelle elles sont intervenues.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Abrogation directe incorporée dans l'édition du 18 août 1993
-	  - Décret n°92-1325 du 15 décembre 1992 - art. 2 () JORF 19 décembre 1992
-
-	**Cite**:
-
-	  - CGIAN3 322 A
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ##### I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire.
 
