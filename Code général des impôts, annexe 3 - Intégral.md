@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-04-09
+Version Consolidée au 1988-04-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4663,6 +4663,63 @@ d. Le rapport existant entre le montant de la distribution et celui des avoirs d
 
 ##### C : Déclarations spéciales
 
+###### Article 40 A
+
+Les contribuables soumis obligatoirement au régime de la déclaration contrôlée mentionné à l'article 96 du code général des
+impôts ou qui ont opté pour ce régime sont tenus de produire, avant le 1er mars de chaque année, une déclaration indiquant :
+
+a) La nature de l'activité qu'ils exercent;
+
+b) Le cas échéant, la dénomination et l'adresse de la société ou du groupement au sein de laquelle ils exercent leur
+activité, ainsi que de la société civile de moyens dont ils font partie;
+
+c) La nature et le montant des services assurés de façon régulière et rémunérés par des salaires;
+
+d) Le nombre total des salariés qu'ils emploient et le montant des salaires versés sous déduction des rémunérations payées à
+des apprentis ou handicapés;
+
+e) Le nom et l'adresse du comptable ou du conseil dont ils utilisent éventuellement les services;
+
+f) Le montant des plus-values nettes;
+
+g) Le tableau des immobilisations affectées à l'exercice de la profession et des amortissements correspondants;
+
+h) La nature et le montant de leurs recettes;
+
+i) La nature et le montant de leurs dépenses professionnelles;
+
+j) Le montant du bénéfice imposable ou du déficit;
+
+k) Le montant de la taxe sur la valeur ajoutée incluse dans les recettes;
+
+l) En ce qui concerne les adhérents à une association agréée : le nom et l'adresse de l'association.
+
+Cette déclaration est adressée au service des impôts dont dépend le lieu d'exercice de la profession ou le principal
+établissement, en simple exemplaire, à l'aide d'imprimés établis par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 96
+
+	**Modifié par**:
+
+	  - Décret n°88-356 du 14 avril 1988 - art. 1 (V) JORF 16 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 bis E (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 41
 
 Les contribuables placés sous le régime de l'évaluation administrative doivent adresser à l'administration, avant le 1er mars
@@ -8985,6 +9042,86 @@ normalisés, dont les caractéristiques et le modèle sont fixés par l'administ
 	**Liens**:
 
 	  - HISTO: Edition du 31 juillet 1986
+
+
+##### Section II : Déclaration de certaines rémunérations d'associés et parts de bénéfices
+
+###### Article 48
+
+1. Les sociétés en nom collectif ou en commandite simple qui n'ont pas opté pour le régime fiscal des sociétés de capitaux et
+les sociétés ou groupements exercant une activité libérale non passibles de l'impôt sur les sociétés sont tenus de fournir au
+service des impôts, en même temps que la déclaration annuelle prévue aux articles 53 A, 97 ou 101 du code général des impôts,
+un état indiquant :
+
+1° Les noms, prénoms et domiciles des associés ;
+
+2° La part des bénéfices de l'exercice ou des exercices clos au cours de l'année précédente correspondant aux droits de
+chacun des associés en nom collectif ou commandités dans la société ;
+
+3° En ce qui concerne les sociétés en commandite simple, le montant des bénéfices distribués aux commanditaires au cours de
+l'année précédente.
+
+Les gérants des sociétés à responsabilité limitée ayant opté pour le régime fiscal des sociétés de personnes sont soumis aux
+mêmes obligations.
+
+1 bis (Abrogé).
+
+2. Les gérants des sociétés en participation et des sociétés de copropriétaires de navires qui n'ont pas opté pour le régime
+fiscal des sociétés de capitaux sont tenus de fournir, dans les conditions prévues au 1, un état indiquant :
+
+1° Les noms, prénoms, professions et domiciles des associés gérants et des coparticipants ;
+
+2° La part des bénéfices de l'exercice ou des exercices clos au cours de l'année précédente revenant à chaque associé-gérant
+ou coparticipant.
+
+3. Les gérants des sociétés à responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes sont
+tenus de fournir au service des impôts, en même temps que la déclaration prévue au 1 de l'article 223 du code général des
+impôts, un état indiquant :
+
+1° Les noms, prénoms, qualités et domiciles des associés ;
+
+2° Le nombre de parts sociales appartenant en toute propriété ou en usufruit à chaque associé ;
+
+3° Le montant des sommes versées à chacun des associés pendant la période retenue pour l'assiette de l'impôt sur les
+sociétés, à titre de traitements, émoluments et indemnités, remboursements forfaitaires de frais ou autres rémunérations de
+leurs fonctions dans la société, et l'année au cours de laquelle ces versements ont été effectués.
+
+4. Les sociétés en commandite par actions sont tenues de fournir, dans les conditions prévues au 3, un état indiquant :
+
+1° Les noms, prénoms et domiciles des associés gérants ;
+
+2° Le montant des sommes versées à chacun des associés gérants pendant la période retenue pour l'assiette de l'impôt sur les
+sociétés, à titre de traitements, émoluments et indemnités, remboursements forfaitaires de frais ou autres rémunérations de
+leurs fonctions dans la société, et l'année au cours de laquelle ces versements ont été effectués.
+
+5. Les gérants des sociétés en nom collectif ou en commandite simple ayant opté pour le régime fiscal des sociétés de
+capitaux sont tenus de fournir, dans les conditions prévues au 3, un état indiquant, outre les renseignements visés au 1° du
+1 le montant des sommes versées à chacun des associés en nom ou commandités, pendant la période retenue pour l'assiette de
+l'impôt sur les sociétés, à titre de traitements, émoluments et indemnités, remboursements forfaitaires de frais ou autres
+rémunérations de leurs fonctions dans la société et l'année au cours de laquelle ces versements ont été effectués.
+
+6. Les gérants des sociétés en participation et des sociétés de copropriétaires de navires ayant opté pour le régime fiscal
+des sociétés de capitaux sont tenus de fournir, dans les conditions prévues au 3, un état indiquant, outre les renseignements
+visés au 1° du 2, le montant des sommes versées à chaque associé-gérant ou coparticipant, pendant la période retenue pour
+l'assiette de l'impôt sur les sociétés, à titre de traitements, émoluments et indemnités, remboursements forfaitaires de
+frais ou autres rémunérations de leurs fonctions dans la société, et l'année au cours de laquelle ces versements ont été
+effectués.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 53 A, 97, 101, 223
+
+	**Modifié par**:
+
+	  - Décret n°88-356 du 14 avril 1988 - art. 2 (V) JORF 16 avril 1988
+	  - Décret n°88-356 du 14 avril 1988 - art. 3 (V) JORF 16 avril 1988
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies V (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 bis E (V)
 
 
 ##### Section II bis : Déclarations concernant les revenus de capitaux mobiliers
