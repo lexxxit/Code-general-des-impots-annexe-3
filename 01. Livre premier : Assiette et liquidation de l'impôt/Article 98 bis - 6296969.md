@@ -1,39 +1,43 @@
 # Article 98 bis
 
-1  Les exploitants agricoles qui bénéficient du régime du remboursement forfaitaire prévu aux articles 298 bis, 298 quater et
+1. Les exploitants agricoles qui bénéficient du régime du remboursement forfaitaire prévu aux articles 298 bis, 298 quater et
 298 quinquies du code général des impôts peuvent, pour leurs ventes de fruits et légumes, recevoir mandat de leurs clients
 redevables de la taxe sur la valeur ajoutée de rédiger en leur lieu et place les attestations qu'ils doivent joindre à la
-déclaration annuelle prévue à l'article 266-I de l'annexe II au code général des impôts.
+déclaration annuelle prévue au I de l'article 266 de l'annexe II au code général des impôts. 
 
-2  Le mandat doit être donné par écrit et figurer soit sur un document valable pour une année civile, soit sur les bulletins
+2. Le mandat doit être donné par écrit et figurer soit sur un document valable pour une année civile, soit sur les bulletins
 d'achat que les acheteurs délivrent à leurs fournisseurs exploitants agricoles. En ce dernier cas, le mandat ne concerne que
-les produits faisant l'objet des bulletins sur lesquels il figure.
+les produits faisant l'objet des bulletins sur lesquels il figure. 
 
-3  Les clients qui donnent le mandat prévu au 1 ne peuvent pas délivrer, pour l'année considérée, l'attestation annuelle
-prévue par l'article 290 bis du code général des impôts.
+3. Les clients qui donnent le mandat prévu au 1 ne peuvent pas délivrer, pour l'année considérée, l'attestation annuelle
+prévue par l'article 290 bis du code général des impôts. 
 
-4  Les exploitants agricoles visés au 1 établissent une attestation pour chaque client redevable de la taxe sur la valeur
+4. Les exploitants agricoles visés au 1 établissent une attestation pour chaque client redevable de la taxe sur la valeur
 ajoutée. Cette attestation doit reprendre les bulletins d'achat ou les bons de livraison que ce client leur a délivrés au
-cours de l'année précédente en application de l'article 290 bis du code général des impôts; elle se substitue à celle prévue
-par ce texte et est opposable au client qu'elle concerne.
+cours de l'année précédente en application de l'article 290 bis du code général des impôts ; elle se substitue à celle prévue
+par ce texte et est opposable au client qu'elle concerne. 
 
-5  Les exploitants agricoles visés au 1 doivent conserver les bulletins d'achat ou les bons de livraison correspondant aux
-attestations qu'ils ont établies eux-mêmes, pendant le délai prévu à l'article L. 82 du livre des procédures fiscales et les
-représenter à toute demande des agents de l'administration des impôts.
+5. Les exploitants agricoles visés au 1 doivent conserver les bulletins d'achat ou les bons de livraison correspondant aux
+attestations qu'ils ont établies eux-mêmes, selon les modalités prévues au I de l'article L. 102 B du livre des procédures
+fiscales et les représenter à toute demande des agents de l'administration des impôts. 
 
-6  Les attestations annuelles rédigées par les exploitants agricoles sont conformes au modèle indiqué par l'administration.
+6. Les attestations annuelles rédigées par les exploitants agricoles sont conformes au modèle indiqué par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 290 bis
-	  - CGI 298 bis
-	  - CGI 298 quater
-	  - CGI 298 quinquies
-	  - CGI L82
-	  - CGIAN2 266 I
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°90-798 1990-09-10
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 266 (V)
+	  - Code général des impôts, CGI. - art. 290 bis (V)
+	  - Code général des impôts, CGI. - art. 298 bis (V)
+	  - Code général des impôts, CGI. - art. 298 quater (V)
+	  - Code général des impôts, CGI. - art. 298 quinquies (V)
+	  - Livre des procédures fiscales - art. L102 B (VT)

@@ -1,10 +1,8 @@
 # Article 46 quater-0 ZH
 
-I. - La plus-value ou la moins-value mentionnée au premier alinéa de l'article 223 F du code général des impôts s'entend de
-la plus-value acquise ou de la moins-value subie depuis la date d'inscription du bien au bilan de la société du groupe qui a
-effectué la première cession à une autre société du même groupe.
+I. (Sans objet).
 
-II. Pour l'application des dispositions du même article, la société mère doit :
+II. Pour l'application des dispositions de l'article 223 F, la société mère doit :
 
 1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la fraction de l'annuité fiscale d'amortissements
 pratiquée par la société cessionnaire, qui excède la dotation fiscale calculée dans les mêmes conditions et au même taux que
@@ -33,9 +31,7 @@ En cas de moins-value, celle-ci est diminuée des mêmes amortissements différ�
 
 III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
 immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette
-immobilisation.
-
-Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
+immobilisation.    Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
 
 Pour une immobilisation amortissable, sa valeur nette comptable dans les écritures de la société qui en est propriétaire ;
 
@@ -45,20 +41,16 @@ Pour une immobilisation non amortissable, son prix d'acquisition par la sociét�
 
 	**Cite**:
 
-	  - CGI 223 F al. 1
+	  - CGI 223 F
 	  - CGI 39 B
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
-
-	**Créé par**:
-
-	  - Décret n°88-318 du 28 mars 1988 - art. 5 (V) JORF 8 avril 1988
+	  - Loi n°89-935 1989-12-29 art. 23 Finances pour 1990 JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°90-798 1990-09-10
 
 	**Cité par**:
 

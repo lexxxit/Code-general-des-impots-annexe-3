@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1990-04-10
+Version Consolidée au 1990-06-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2810,87 +2810,6 @@ l'entreprise, répondant à des normes qui seront fixées par arrêté (1).
 	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
 
 
-###### Article 38 quindecies B
-
-Les tests visés à l'article 38 quindecies A portent sur les informations, données et traitements automatiques de toute nature
-dès lors que ces informations, données ou traitements concourent directement ou indirectement à la formation des résultats
-comptables et fiscaux de la période vérifiée ou à la confection des documents ou des déclarations rendus obligatoires par le
-code général des impôts. Ces informations sont couvertes par le secret fiscal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 38 quindecies A
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°90-798 1990-10-09
-
-	**Créé par**:
-
-	  - Décret n°82-1148 du 29 décembre 1982 - art. 2 (V) JORF 30 décembre 1982
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
-
-
-###### Article 38 quindecies C
-
-Les tests et les travaux de copie visés à l'article 38 quindecies A sont mis en oeuvre par le personnel habilité de
-l'entreprise ou par le conseil qu'elle aura désigné, sous le contrôle des agents des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 38 quindecies A
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°90-798 1990-10-09
-
-	**Créé par**:
-
-	  - Décret n°82-1148 du 29 décembre 1982 - art. 3 (V) JORF 30 décembre 1982
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-	  - PEREMPTION: Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989, article sans objet
-
-
-###### Article 38 quindecies D
-
-Lorsque l'entreprise a recours, pour tout ou partie de ses traitements automatiques, aux services d'un façonnier ou d'un
-prestataire, elle est tenue de mettre les agents des impôts en mesure d'effectuer chez le façonnier ou le prestataire les
-tests qu'ils estiment nécessaires à l'exercice du droit de vérification. Ces tests sont effectués dans les conditions
-définies à l'article 38 quindecies A, y compris pour ce qui concerne la possibilité pour le prestataire ou le façonnier de
-fournir les copies des informations et des logiciels.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 38 quindecies A
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-	  - Décret n°90-798 1990-10-09
-
-	**Créé par**:
-
-	  - Décret n°82-1148 du 29 décembre 1982 - art. 4 (V) JORF 30 décembre 1982
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
-
-
 ##### O : Opérations de crédit-bail
 
 ##### 1 : Crédit-bail sur fonds de commerce, fonds artisanal ou sur l'un de leurs éléments incorporels non amortissables
@@ -3874,6 +3793,48 @@ réalisées sous le régime transitoire sont rapportées aux résultats du derni
 
 ##### 1° : Obligations applicables aux régimes réels
 
+###### Article 38 sexdecies P
+
+I. Les exploitants placés sous un régime d'imposition d'après le bénéfice réel doivent tenir et présenter aux agents de
+l'administration :
+
+a. Un livre-journal servi au jour le jour et enregistrant le détail de leurs opérations ;
+
+b. Un livre d'inventaire ;
+
+c. Les factures et autres pièces justificatives relatives aux recettes, aux dépenses et aux stocks.
+
+II. Quelle que soit leur situation au regard de la taxe sur la valeur ajoutée, les éleveurs d'animaux de boucherie ou de
+charcuterie doivent se conformer aux obligations définies au I de l'article 267 quater de l'annexe II au code général des
+impôts.
+
+III. Les documents comptables et pièces justificatives énumérés ci-dessus doivent être conservés selon les modalités prévues
+au I de l'article L. 102 B du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 267 quater I
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies RB (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+
 ###### Article 38 sexdecies Q
 
 Les exploitants placés sous un régime d'imposition d'après le bénéfice réel sont soumis à l'ensemble des obligations
@@ -3918,45 +3879,6 @@ Ces renseignements doivent être fournis avant le 31 mars de l'année suivant ce
 	**Abrogé par**:
 
 	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
-
-
-##### Obligations applicables aux régimes d'imposition selon le mode réel.
-
-###### Article 38 sexdecies P
-
-I  Les exploitants placés sous un régime d'imposition d'après le bénéfice réel doivent tenir et présenter aux agents de
-l'administration :
-
-- Un livre-journal servi au jour le jour et enregistrant le détail de leurs opérations;
-
-- Un livre d'inventaire;
-
-- Les factures et autres pièces justificatives relatives aux recettes, aux dépenses et aux stocks.
-
-II  Quelle que soit leur situation au regard de la taxe sur la valeur ajoutée, les éleveurs d'animaux de boucherie ou de
-charcuterie doivent se conformer aux obligations définies à l'article 267 quater-I de l'annexe II au présent code.
-
-III  Les documents comptables et pièces justificatives énumérés ci-dessus doivent être conservés jusqu'à l'expiration du
-délai prévu à l'article L. 82 du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L82
-	  - CGIAN2 267 quater I
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 78 (V) JORF 30 décembre 1983
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies RB (V)
 
 
 ##### 2° : Obligations particulières au régime normal d'imposition d'après le bénéfice réel.
@@ -7522,6 +7444,29 @@ fournies en plusieurs exemplaires.
 
 ##### Section III : Calcul de l'impôt
 
+##### 1° : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France
+
+###### Article 46 A
+
+La demande de retenue à la source mentionnée à l'article 182 C du code général des impôts est adressée par le bénéficiaire
+des salaires, droits d'auteur ou rémunérations à la personne qui lui verse des revenus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°90-293 du 29 mars 1990 - art. 1 (V) JORF 4 avril 1990
+	  - Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 182 C (V)
+
+
 ##### Réduction d'impôt pour certains investissements dans l'immobilier locatif - Obligations.
 
 ###### Article 46 AA
@@ -7754,6 +7699,64 @@ sur papier libre, conformément à un modèle fixé par l'administration.
 	  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
 	  - HISTO: Edition du 31 juillet 1986
 	  - HISTO: Edition du 31 mars 2002
+
+
+##### 4° : Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles.
+
+###### Article 46 AI
+
+I. - Lorsqu'un contribuable entend bénéficier de la réduction d'impôt prévue à l'article 199 terdecies du code général des
+impôts, il fait connaître son intention à la société au capital de laquelle il a souscrit, au plus tard le 31 décembre de
+l'année de la souscription.
+
+" Dans ce cas, la société lui délivre un état individuel qui mentionne :
+
+" a) L'objet pour lequel il est établi : application de l'article 199 terdecies du code général des impôts ;
+
+" b) La raison sociale, l'objet social, le siège social et la date de création de la société ;
+
+" c) L'identité et l'adresse du souscripteur ;
+
+" d) Le nombre des titres souscrits, le montant et la date de leur souscription ;
+
+" e) La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de
+capital.
+
+" Cet état doit préciser que la société remplit les conditions prévues aux articles 44 sexies et 44 septies du code général
+des impôts ou que sa situation nette comptable est représentée à hauteur de 75 p. 100 au moins de titres souscrits en
+numéraire dans les trois ans de la constitution de sociétés mentionnées aux articles 44 sexies et 44 septies précités.
+
+" La société adresse un duplicata de ce document à la direction des services fiscaux du lieu de son siège.
+
+II. Pour bénéficier de la réduction d'impôt, le contribuable joint à sa déclaration de revenus les documents qui lui ont été
+remis conformément au I.
+
+III. La société isole dans un compte spécial les titres dont la souscription ouvre droit au bénéfice de la réduction d'impôt.
+Elle tient ce compte jusqu'à l'expiration de la cinquième année qui suit celle au cours de laquelle des versements
+bénéficiant de la réduction d'impôt ont été effectués.
+
+IV. Lorsque les titres dont la souscription a ouvert droit à réduction d'impôt sont cédés ou rachetés avant le terme de la
+période définie au III ou lorsque le pourcentage mentionné au I devient inférieur à 75 p. 100, la société adresse au
+souscripteur et à la direction des services fiscaux de son domicile un état individuel qui comprend, outre les informations
+indiquées au I, le nombre des titres cédés ou rachetés, le montant et la date de la cession ou du rachat ainsi que, le cas
+échéant, l'indication que le pourcentage mentionné au I est devenu inférieur à 75 p. 100 ;
+
+" Cet état doit être délivré avant le 16 février de l'année qui suit celle de la cession, du rachat ou de l'abaissement du
+pourcentage en dessous de 75 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 terdecies, 44 sexies, 44 septies
+
+	**Créé par**:
+
+	  - Décret n°89-829 du 10 novembre 1989 - art. 1 (V) JORF 11 novembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ##### 4° : Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles
@@ -8033,6 +8036,35 @@ inscrites sur les livrets supplémentaires que les caisses d'épargne ont été 
 
 	  - CGI 208 ter a
 	  - Décret n°65-1158 1965-12-24
+
+
+##### Section III bis : Supplément d'impôt sur les sociétés
+
+###### Article 46 quater-0 BA
+
+Pour l'application du 4 de l'article 1668 du code général des impôts, les sommes réputées distribuées au titre d'un exercice
+en application des articles 109 à 115 quinquies-1 du même code sont considérées comme mises en paiement à la clôture de cet
+exercice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1668 4, 109 à 115 quinquies 1
+
+	**Créé par**:
+
+	  - Décret n°89-886 du 14 décembre 1989 - art. 1 (Ab) JORF 15 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992
 
 
 ##### Section IV : Modalités d'application du précompte.
@@ -9319,11 +9351,9 @@ d'intérêt ou d'un prix plus élevé que celui qui aurait été fixé entre deu
 
 ###### Article 46 quater-0 ZH
 
-I. - La plus-value ou la moins-value mentionnée au premier alinéa de l'article 223 F du code général des impôts s'entend de
-la plus-value acquise ou de la moins-value subie depuis la date d'inscription du bien au bilan de la société du groupe qui a
-effectué la première cession à une autre société du même groupe.
+I. (Sans objet).
 
-II. Pour l'application des dispositions du même article, la société mère doit :
+II. Pour l'application des dispositions de l'article 223 F, la société mère doit :
 
 1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la fraction de l'annuité fiscale d'amortissements
 pratiquée par la société cessionnaire, qui excède la dotation fiscale calculée dans les mêmes conditions et au même taux que
@@ -9352,9 +9382,7 @@ En cas de moins-value, celle-ci est diminuée des mêmes amortissements différ�
 
 III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
 immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette
-immobilisation.
-
-Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
+immobilisation.    Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
 
 Pour une immobilisation amortissable, sa valeur nette comptable dans les écritures de la société qui en est propriétaire ;
 
@@ -9364,20 +9392,16 @@ Pour une immobilisation non amortissable, son prix d'acquisition par la sociét�
 
 	**Cite**:
 
-	  - CGI 223 F al. 1
+	  - CGI 223 F
 	  - CGI 39 B
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
-
-	**Créé par**:
-
-	  - Décret n°88-318 du 28 mars 1988 - art. 5 (V) JORF 8 avril 1988
+	  - Loi n°89-935 1989-12-29 art. 23 Finances pour 1990 JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°90-798 1990-09-10
 
 	**Cité par**:
 
@@ -9827,6 +9851,71 @@ Cet état est établi sur papier libre conformément au modèle fixé par l'admi
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 44 septies (V)
+
+
+##### Section X : Obligations déclaratives relatives au supplément d'impôt sur les sociétés.
+
+###### Article 46 quater-0 ZV
+
+1. Pour l'application des dispositions du c du I de l'article 219 du code général des impôts et sous réserve des dispositions
+du I bis de l'article 38, les entreprises qui procèdent à des distributions souscrivent une déclaration rédigée sur un
+imprimé fourni par l'administration permettant de déterminer et de contrôler l'assiette du supplément d'impôt sur les
+sociétés.
+
+Les sociétés membres d'un groupe placé sous le régime fiscal défini à l'article 223 A du code déjà cité souscrivent la
+déclaration en double exemplaire.
+
+2. La déclaration dûment signée est remise au service des impôts du lieu mentionné à l'article 218 A du code général des
+impôts au plus tard le dernier jour du mois qui suit la mise en paiement des distributions. Toutefois, les sociétés
+étrangères produisent la déclaration dans les délais visés au deuxième alinéa du 1 de l'article 223 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219 1 c, 38 I bis, 223 A, 218 A, 223 1 al. 2
+
+	**Créé par**:
+
+	  - Décret n°89-886 1989-12-14 art. 2 JORF 15 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+
+###### Article 46 quater-0 ZW
+
+1. La société mère d'un groupe défini à l'article 223 A du code général des impôts souscrit, outre la déclaration prévue à
+l'article 46 quater-0 ZV relative à ses propres distributions, une déclaration rédigée d'après un modèle établi par
+l'administration mentionnant l'assiette du supplément d'impôt sur les sociétés dû à raison des distributions décidées
+conformément aux statuts effectuées au cours des exercices ouverts à compter du 1er janvier 1989 par toutes les sociétés du
+groupe.
+
+Cette déclaration dûment signée est remise au service des impôts du lieu mentionné à l'article 218 A du code général des
+impôts au plus tard à l'expiration du neuvième mois qui suit celui de l'ouverture de l'exercice au cours duquel les
+distributions ont été mises en paiement.
+
+2. La déclaration dont la production est prévue à l'article 223 Q du code général des impôts mentionne les sommes réputées
+distribuées par les sociétés du groupe en application des articles 109 à 115 ter du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 109 à 115 ter
+	  - CGI 218 A
+	  - CGI 223 A
+	  - CGI 223 Q
+	  - CGIAN3 46 quater-0 ZV
+
+	**Créé par**:
+
+	  - Décret n°89-886 1989-12-14 art. 4 JORF 15 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -11645,8 +11734,8 @@ transferts de salariés avec maintien du contrat de travail.
 ###### Article 50
 
 A l'exception des collectivités locales et de leurs groupements, des services départementaux de lutte contre l'incendie, des
-bureaux d'aide sociale dotés d'une personnalité propre lorsqu'ils sont subventionnés par les collectivités locales, du centre
-de formation des personnels communaux et des caisses des écoles, les personnes physiques et morales, associations et
+centres d'action sociale dotés d'une personnalité propre lorsqu'ils sont subventionnés par les collectivités locales, du
+centre de formation des personnels communaux et des caisses des écoles, les personnes physiques et morales, associations et
 organismes, qui payent des traitements, salaires, indemnités et émoluments et ne sont pas assujettis à la taxe sur la valeur
 ajoutée ou ne l'ont pas été sur 90 % au moins de leur chiffre d'affaires au titre de l'année civile précédant celle du
 paiement desdites rémunérations, sont tenus, en exécution de l'article 231 du code général des impôts et dans les conditions
@@ -11660,13 +11749,18 @@ traitements, salaires, indemnités et émoluments.
 	  - CGI 231
 	  - CGIAN3 51, 52, 53, 53 bis, 53 ter, 53 quater, 369, 370, 374
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°83-899 1983-10-06
+	  - HISTO: Edition du 15 juin 1990
 
 	**Modifié par**:
 
-	  - Loi n°80-30 du 18 janvier 1980 - art. 24 (P) JORF 19 janvier 1980
+	  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
+	  - Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1970 - article 136 du code de la famille et de l'aide sociale
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ##### II : Base de la taxe
@@ -13473,46 +13567,77 @@ Il en est de même pour les chiffres limites déterminés dans les conditions pr
 
 ###### Article 98 bis
 
-1  Les exploitants agricoles qui bénéficient du régime du remboursement forfaitaire prévu aux articles 298 bis, 298 quater et
+1. Les exploitants agricoles qui bénéficient du régime du remboursement forfaitaire prévu aux articles 298 bis, 298 quater et
 298 quinquies du code général des impôts peuvent, pour leurs ventes de fruits et légumes, recevoir mandat de leurs clients
 redevables de la taxe sur la valeur ajoutée de rédiger en leur lieu et place les attestations qu'ils doivent joindre à la
-déclaration annuelle prévue à l'article 266-I de l'annexe II au code général des impôts.
+déclaration annuelle prévue au I de l'article 266 de l'annexe II au code général des impôts. 
 
-2  Le mandat doit être donné par écrit et figurer soit sur un document valable pour une année civile, soit sur les bulletins
+2. Le mandat doit être donné par écrit et figurer soit sur un document valable pour une année civile, soit sur les bulletins
 d'achat que les acheteurs délivrent à leurs fournisseurs exploitants agricoles. En ce dernier cas, le mandat ne concerne que
-les produits faisant l'objet des bulletins sur lesquels il figure.
+les produits faisant l'objet des bulletins sur lesquels il figure. 
 
-3  Les clients qui donnent le mandat prévu au 1 ne peuvent pas délivrer, pour l'année considérée, l'attestation annuelle
-prévue par l'article 290 bis du code général des impôts.
+3. Les clients qui donnent le mandat prévu au 1 ne peuvent pas délivrer, pour l'année considérée, l'attestation annuelle
+prévue par l'article 290 bis du code général des impôts. 
 
-4  Les exploitants agricoles visés au 1 établissent une attestation pour chaque client redevable de la taxe sur la valeur
+4. Les exploitants agricoles visés au 1 établissent une attestation pour chaque client redevable de la taxe sur la valeur
 ajoutée. Cette attestation doit reprendre les bulletins d'achat ou les bons de livraison que ce client leur a délivrés au
-cours de l'année précédente en application de l'article 290 bis du code général des impôts; elle se substitue à celle prévue
-par ce texte et est opposable au client qu'elle concerne.
+cours de l'année précédente en application de l'article 290 bis du code général des impôts ; elle se substitue à celle prévue
+par ce texte et est opposable au client qu'elle concerne. 
 
-5  Les exploitants agricoles visés au 1 doivent conserver les bulletins d'achat ou les bons de livraison correspondant aux
-attestations qu'ils ont établies eux-mêmes, pendant le délai prévu à l'article L. 82 du livre des procédures fiscales et les
-représenter à toute demande des agents de l'administration des impôts.
+5. Les exploitants agricoles visés au 1 doivent conserver les bulletins d'achat ou les bons de livraison correspondant aux
+attestations qu'ils ont établies eux-mêmes, selon les modalités prévues au I de l'article L. 102 B du livre des procédures
+fiscales et les représenter à toute demande des agents de l'administration des impôts. 
 
-6  Les attestations annuelles rédigées par les exploitants agricoles sont conformes au modèle indiqué par l'administration.
+6. Les attestations annuelles rédigées par les exploitants agricoles sont conformes au modèle indiqué par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 266 (V)
+	  - Code général des impôts, CGI. - art. 290 bis (V)
+	  - Code général des impôts, CGI. - art. 298 bis (V)
+	  - Code général des impôts, CGI. - art. 298 quater (V)
+	  - Code général des impôts, CGI. - art. 298 quinquies (V)
+	  - Livre des procédures fiscales - art. L102 B (VT)
+
+
+#### Chapitre IV : Redevance sanitaire d'abattage
+
+###### Article 111 quater A
+
+La redevance sanitaire d'abattage est perçue par le service des impôts dans tous les établissements où il est procédé à
+l'abattage des animaux. Elle est assise [*assiette*] sur le poids de viande fraîche net, tel qu'il est défini aux articles
+111 quater B à 111 quater E de l'annexe III au code général des impôts, constaté lors de la pesée et atténuée des abattements
+prévus à l'article 111 quater F.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 290 bis
-	  - CGI 298 bis
-	  - CGI 298 quater
-	  - CGI 298 quinquies
-	  - CGI L82
-	  - CGIAN2 266 I
+	  - CGIAN3 111 quater B à CGIAN3 111 quater E
+	  - CGIAN3 111 quater F
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+
+	**Modifié par**:
+
+	  - Décret n°90-297 du 3 avril 1990 - art. 1 (V) JORF 4 avril 1990
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°90-798 1990-09-10
 
-
-#### Chapitre IV : Redevance sanitaire d'abattage
 
 ###### Article 111 quater B
 
@@ -13626,60 +13751,51 @@ emballés avec celle-ci.
 	  - HISTO: EDITION 1979-07-01
 
 
-#### Chapitre IV : Taxe de protection sanitaire et d'organisation des marchés des viandes.
-
-###### Article 111 quater A
-
-La taxe de protection sanitaire et d'organisation des marchés des viandes est perçue par le service des impôts dans tous les
-établissements où il est procédé à l'abattage des animaux en vue de la vente. Elle est assise sur le poids de viande fraîche
-net tel qu'il est défini aux articles 111 quater B à 111 quater E constaté lors de la pesée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 111 quater B
-	  - CGIAN3 111 quater C
-	  - CGIAN3 111 quater D
-	  - CGIAN3 111 quater E
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 111 quater G
 
 Toute personne qui, habituellement ou occasionnellement, se livre, pour son compte ou pour le compte de tiers, aux opérations
-d'abattage en vue de la vente de volailles ou d'animaux mentionnés à l'article 320 bis G du code général des impôts doit :
+d'abattage de volailles ou d'animaux des espèces bovine, ovine, caprine, porcine et des espèces chevaline, asine ou leurs
+croisements, doit :
 
 1° Souscrire, préalablement à toute opération, une déclaration d'existence auprès du service des impôts dont dépend le lieu
-d'abattage;     2° Tenir un registre permettant de dégager, jour par jour, et sans blanc ni rature, les éléments nécessaires
-à la constatation, à la liquidation et au contrôle de la taxe de protection sanitaire et d'organisation des marchés des
-viandes;     3° Déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des impôts et
-comportant les indications nécessaires à l'assiette et à la perception de la taxe.     Cette déclaration doit être remise par
-chaque redevable à la recette des impôts dont dépend le lieu d'abattage avant le 25 du    s mois suivant celui au cours
-duquel les opérations imposables ont été réalisées. La taxe doit être acquittée dans le même délai. Lorsque son montant est
-inférieur à 1.000 F par mois, les redevables sont admis à déposer leur déclaration et à payer la taxe correspondante par
-trimestre.     Lors du dépôt de la déclaration, un relevé des éléments figurant sur cette dernière doit être adressé par
-chaque redevable au directeur départemental de l'agriculture et de la forêt.    " Les obligations prévues aux 1° et 2° ne
-s'appliquent pas aux personnes assujetties à la taxe sur la valeur ajoutée qui sont astreintes aux obligations prévues par
-l'article 1649 ter C du code général des impôts et par ses textes d'application. "
+d'abattage ;
+
+2° Tenir un registre permettant de dégager, jour par jour, et sans blanc ni rature, les éléments nécessaires à la
+constatation, à la liquidation et au contrôle de la redevance sanitaire d'abattage ;
+
+3° Déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des impôts et comportant les
+indications nécessaires à l'assiette et à la perception de la redevance.
+
+Cette déclaration doit être remise par chaque redevable à la recette des impôts dont dépend le lieu d'abattage avant le 25 du
+mois suivant celui au cours duquel les opérations imposables ont été réalisées. La redevance doit être acquittée dans le même
+délai. Lorsque son montant est inférieur à 1 000 F par mois, les redevables sont admis à déposer leur déclaration et à payer
+la redevance correspondante par trimestre.
+
+Lors du dépôt de la déclaration, le redevable adresse au directeur départemental de l'agriculture et de la forêt un relevé
+des éléments déclarés.
+
+Les obligations prévues aux 1° et 2° ci-dessus ne s'appliquent pas aux personnes assujetties à la taxe sur la valeur ajoutée
+qui sont astreintes aux obligations prévues par l'article 1649 ter C du code général des impôts et par ses textes
+d'application.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1649 ter C
-	  - CGI 320 bis G
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+	  - HISTO: Edition du 15 juin 1990
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+	  - Décret n°90-297 du 3 avril 1990 - art. 2 (V) JORF 4 avril 1990
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°90-798 1990-09-10
 
 	**Cité par**:
 
@@ -13689,128 +13805,108 @@ l'article 1649 ter C du code général des impôts et par ses textes d'applicati
 
 ###### Article 111 quater H
 
-Les dispositions relatives au forfait prévu en matière de taxes sur le chiffre d'affaires ne sont pas applicables à la taxe
-de protection sanitaire et d'organisation des marchés des viandes.
+Les dispositions relatives au régime forfaitaire d'imposition prévu en matière de taxes sur le chiffre d'affaires ne sont pas
+applicables à la redevance sanitaire d'abattage.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°90-297 du 3 avril 1990 - art. 3 (V) JORF 4 avril 1990
 
+	**Codifié par**:
 
-###### Article 111 quater I
-
-Les saisies totales ou partielles pratiquées par les services d'inspection sanitaire ainsi que les exportations ne donnent
-pas lieu au remboursement de la taxe déjà perçue.
-
-**Liens relatifs à cet article**
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°99-382 1999-05-18
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 1999
+	  - TXT_SOURCE: Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
 
 
 ###### Article 111 quater J
 
-A l'importation, la taxe de protection sanitaire et d'organisation des marchés des viandes est perçue dans les conditions
-prévues à l'article 111 quater K sur les viandes reprises au tableau ci-dessous, déclarées pour la mise à la consommation
-dans le territoire douanier :
+A l'importation en provenance des pays autres que ceux appartenant à la Communauté économique européenne, la redevance
+sanitaire d'abattage est perçue, dans les conditions prévues à l'article 111 quater K sur les viandes reprises au tableau ci-
+dessous, déclarées pour la mise à la consommation dans le territoire douanier :
 
------------------------------------------------------------------- :
-NUMEROS      :                                                 :
+NUMÉROS du tarif des douanes : Ex 02-01
 
-<table>
-  <tbody><tr>
-    <td> : du tarif     :    DESIGNATION DES MARCHANDISES                 :</td>
-  </tr>
-  <tr>
-    <td> : des douanes  :                                                 :</td>
-  </tr>
-  <tr>
-    <td> :--------------:-------------------------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : 02-01 ex A   : Viandes comestibles des animaux domestiques     :</td>
-  </tr>
-  <tr>
-    <td> :              : repris aux numéros 01-01 à 01-04 inclus,        :</td>
-  </tr>
-  <tr>
-    <td> :              : fraîches, réfrigérées ou congelées.             :</td>
-  </tr>
-  <tr>
-    <td> :              :                                                 :</td>
-  </tr>
-  <tr>
-    <td> : 02-02 A et B : Volailles mortes de basse-cour, comestibles,    :</td>
-  </tr>
-  <tr>
-    <td> :              : fraîches, réfrigérées ou congelées.             :</td>
-  </tr>
-  <tr>
-    <td> :              :                                                 :</td>
-  </tr>
-  <tr>
-    <td> : 02-05        : Lards, graisse de porc et graisse de volaille   :</td>
-  </tr>
-  <tr>
-    <td> :              : non pressées ni fondues, ni extraites, à        :</td>
-  </tr>
-  <tr>
-    <td> :              : l'aide de solvants, frais, réfrigérés, congelés :</td>
-  </tr>
-  <tr>
-    <td> :              : salés ou en saumure, séchés ou fumés.           :</td>
-  </tr>
-  <tr>
-    <td> :              :                                                 :</td>
-  </tr>
-  <tr>
-    <td> : Ex 02-06     : Viandes comestibles des animaux domestiques     :</td>
-  </tr>
-  <tr>
-    <td> :              : repris aux numéros 01-01 à 01-05 inclus, salées :</td>
-  </tr>
-  <tr>
-    <td> :              : ou en saumure, séchées ou fumées.               :</td>
-  </tr>
-  <tr>
-    <td> :              :                                                 :</td>
-  </tr>
-  <tr>
-    <td> :  15-01       : Saindoux, autres graisses de porc et graisses   :</td>
-  </tr>
-  <tr>
-    <td> :              : de volailles, pressés ou fondus ou extraits à   :</td>
-  </tr>
-  <tr>
-    <td> :              : l'aide de solvants.                             :</td>
-  </tr>
-  <tr>
-    <td> :              :                                                 :</td>
-  </tr>
-  <tr>
-    <td> : Ex 16-01     : Saucisses, saucissons et similaires, de viandes :</td>
-  </tr>
-  <tr>
-    <td> :              : d'animaux domestiques repris aux numéros 01-01  :</td>
-  </tr>
-  <tr>
-    <td> :              : à 01-05 inclus.                                 :</td>
-  </tr>
-  <tr>
-    <td> : 16-02 B ex I : Autres préparations et conserves de viandes     :</td>
-  </tr>
-  <tr>
-    <td> :  et ex III   : d'animaux domestiques repris aux numéros 01-01  :</td>
-  </tr>
-  <tr>
-    <td> :              : à 01-05 inclus.                                 :</td>
-  </tr>
-</tbody></table>
+DÉSIGNATION DES MARCHANDISES : 
 
-==================================================================
+Viandes des animaux domestiques de l'espèce bovine fraîches ou réfrigérées.
+
+NUMÉROS du tarif des douanes : Ex 02-02
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Viandes des animaux domestiques de l'espèce bovine congelées.
+
+NUMÉROS du tarif des douanes : Ex 02-03
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Viandes des animaux domestiques de l'espèce porcine fraîches        , réfrigérées ou congelées.
+
+NUMÉROS du tarif des douanes : Ex 02-04
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Viandes des animaux domestiques des espèces ovine, caprine, fraîches, réfrigérées ou congelées.
+
+NUMÉROS du tarif des douanes : Ex 02-05-00-00
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Viandes des animaux domestiques des espèces chevaline, asine, mulassière, fraîches, réfrigérées ou congelées.
+
+NUMÉROS du tarif des douanes : Ex 02-07
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Viandes fraîches, réfrigérées ou congelées des volailles du numéro 01-05.
+
+NUMÉROS du tarif des douanes : Ex 02-09
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Lard sans parties maigres, graisse de porc et graisse de volailles non fondues, frais, réfrigérés, congelés, salés ou en
+saumure, séchés ou fumés.
+
+NUMÉROS du tarif des douanes : Ex 02-10
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Viandes comestibles des animaux domestiques repris aux numéros 01-01 à 01-05 inclus, salées ou en saumure, séchées ou fumées.
+
+NUMÉROS du tarif des douanes : 15-01
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Saindoux ; autres graisses de porc et graisses de volailles, fondues, même pressées ou extraites à l'aide de solvants.
+
+NUMÉROS du tarif des douanes : Ex 16-01
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Saucisses, saucissons et produits similaires de viandes d'animaux domestiques repris aux numéros 01-01 à 01-05 inclus et
+préparations alimentaires à base de ces produits.
+
+NUMÉROS du tarif des douanes : Ex 16-02
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Autres préparations et conserves de viandes d'animaux domestiques repris aux numéros 01-01 à 01-05 inclus.
+
+NUMÉROS du tarif des douanes : Ex 19-02-20-30
+
+DÉSIGNATION DES MARCHANDISES : 
+
+Pâtes alimentaires farcies contenant en poids plus de vingt pour cent de saucisses, saucissons et produits similaires de
+viandes d'animaux domestiques repris aux numéros 01-01 à 01-05 inclus.
 
 **Liens relatifs à cet article**
 
@@ -13820,20 +13916,51 @@ NUMEROS      :                                                 :
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - TXT_SOURCE: Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+
+	**Modifié par**:
+
+	  - Décret n°90-297 du 3 avril 1990 - art. 5 (V) JORF 4 avril 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 111 quater K
 
-La taxe est perçue sur le poids net de la viande, reconnu ou admis par le service des douanes, déduction faite du poids des
-abats.     Ce poids est arrondi au kilogramme le plus voisin pour chaque article de la déclaration de mise à la consommation.
-Il est éventuellement affecté d'un abattement de 5 %, également arrondi, pour les volailles dont le foie et le gésier ont été
+La redevance est perçue sur le poids net de la viande, reconnu ou admis par le service des douanes, déduction faite du poids
+des abats.
+
+Ce poids est arrondi au kilogramme le plus voisin pour chaque article de la déclaration de mise à la consommation. Il est
+éventuellement affecté d'un abattement de 5 p. 100, également arrondi, pour les volailles dont le foie et le gésier ont été
 détachés de la carcasse mais pesés et emballés avec celle-ci.
 
-Le taux de la taxe de protection sanitaire et d'organisation des marchés des viandes à retenir pour les préparations et
-conserves de viandes de boucherie, de charcuterie et de volailles (numéros ex 16-01 et 16-02 B ex I et ex III du tarif des
-douanes), dans la composition desquelles entrent des viandes d'espèces animales taxées à des taux différents, est égal à
-celui prévu pour la viande la moins fortement taxée contenue dans lesdites préparations et conserves.
+Le tarif de la redevance sanitaire d'abattage à retenir pour les préparations et conserves de viandes de boucherie, de
+charcuterie et de volailles (numéros ex 16-01 et ex 16-02 du tarif des douanes) dans la composition desquelles entrent des
+viandes d'espèces animales différentes est égal à celui prévu pour la viande dont le tarif est le plus faible.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
+
+	**Modifié par**:
+
+	  - Décret n°90-297 du 3 avril 1990 - art. 6 (V) JORF 4 avril 1990
+
+	**Abrogé par**:
+
+	  - Décret n°94-520 du 24 juin 1994 - art. 2 () JORF 25 juin 1994
+
+
+#### Chapitre IV : Taxe de protection sanitaire et d'organisation des marchés des viandes.
+
+###### Article 111 quater I
+
+Les saisies totales ou partielles pratiquées par les services d'inspection sanitaire ainsi que les exportations ne donnent
+pas lieu au remboursement de la taxe déjà perçue.
 
 **Liens relatifs à cet article**
 
@@ -16714,7 +16841,8 @@ déclaration au bureau de déclarations de la direction générale des impôts d
 La cessation, la suspension ou la reprise des opérations portant sur lesdites substances est déclarée quarante-huit heures au
 moins à l'avance [*délai*]    Les personnes désignées au premier alinéa sont tenues de présenter aux agents des impôts leur
 comptabilité et tous documents annexes et de leur fournir les justifications nécessaires à l'exercice de leur contrôle. Ces
-divers documents doivent être conservés pendant le délai prévu à l'article L. 82 du livre des procédures fiscales (1).
+divers documents doivent être conservés selon les modalités prévues au I de l'article L102 B du livre des procédures fiscales
+(1).
 
 (1) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L. 26 et L. 27.
 
@@ -16722,14 +16850,18 @@ divers documents doivent être conservés pendant le délai prévu à l'article 
 
 	**Cite**:
 
+	  - CGI L102 B
 	  - CGI L26
 	  - CGI L27
-	  - CGI L82
 	  - CGIAN3 179
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°90-798 1990-09-10
 
 
 ###### Article 182
@@ -16738,19 +16870,23 @@ Aucune vente ou livraison de substances soumises à la réglementation ne peut �
 visées à l'article 180, si l'acheteur ou le destinataire n'est pas en mesure de représenter un certificat établi par le
 service des impôts attestant qu'il est autorisé à faire emploi de ces substances.
 
-Ces certificats sont conservés par le vendeur ou l'expéditeur desdites substances pendant le délai prévu à l'article L. 82 du
-livre des procédures fiscales et présentés à toute réquisition des fonctionnaires des impôts.
+Ces certificats sont conservés par le vendeur ou l'expéditeur desdites substances selon les modalités prévues au I de
+l'article L.102 B du livre des procédures fiscales et présentés à toute réquisition des fonctionnaires des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI L82
+	  - CGI L102 B
 	  - CGIAN3 180
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°90-798 1990-09-10
 
 
 #### Chapitre II : Garantie des matières d'or, d'argent et de platine
@@ -17953,92 +18089,6 @@ ministériel.
 ##### Section II : Les tarifs et leur application
 
 ##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles
-
-##### 1 : Régimes spéciaux institués en faveur du commerce et de l'industrie.
-
-###### Article 265
-
-I. Le taux de la taxe de publicité foncière ou du droit d'enregistrement prévu à l'article 683 du code général des impôts est
-réduit à 2 % pour les acquisitions immobilières effectuées en vue des opérations énumérées ci-après :
-
-1° Créations, extensions ou décentralisations par voie de transfert d'activités industrielles ou de recherche scientifique et
-technique, ou de service de direction, d'études, d'ingénierie et d'informatique qui entrent dans le champ d'application de
-l'exonération temporaire de taxe professionnelle prévue à l'article 1465 du code précité ;
-
-2° Reprises d'établissements industriels en difficulté ou reconversions d'établissements industriels susceptibles de
-permettre la poursuite durable de l'activité et le maintien de l'emploi ;
-
-3° Décentralisation par voie d'extension d'une entreprise industrielle exerçant la totalité de son activité en région
-parisienne ou en région lyonnaise ;
-
-4° Regroupements d'entreprises industrielles ou transferts dans une zone à vocation industrielle d'entreprises industrielles
-implantées dans une zone résidentielle ;
-
-5° Créations de centres de formation professionnelle ;
-
-6° Acquisitions par des coopératives agricoles des immeubles nécessaires à leur fonctionnement.
-
-II. Le droit établi par l'article 719 du code général des impôts est réduit à 2 % pour les acquisitions de fonds de commerce
-ou de clientèle réalisées dans le cadre d'opérations de concentration d'entreprises industrielles nécessaires à la
-modernisation de ces entreprises ou de reprise d'établissements industriels en difficulté susceptibles de permettre la
-poursuite durable de l'activité et le soutien de l'emploi.
-
-III. Les opérations définies aux I et II doivent être réalisées dans des zones définies par arrêté. Toutefois, aucune
-condition de localisation n'est exigée pour les reprises d'établissements industriels en difficulté, les créations de centres
-de formation professionnelle et les acquisitions immobilières portant sur des friches industrielles.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 683
-	  - CGI 719
-	  - CGIAN3 1465
-
-	**Modifié par**:
-
-	  - Décret n°83-1091 du 16 décembre 1983 - art. 1 (V) JORF 20 décembre 1983
-
-	**Abrogé par**:
-
-	  - Loi n°89-935 1989-12-29 art. 20 Finances pour 1990 JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
-
-
-###### Article 266
-
-Sous réserve des dispositions de l'article 300 de l'annexe II au code général des impôts, l'application des dispositions de
-l'article 265 est subordonnée à l'agrément préalable à l'acquisition par le ministre du budget. L'agrément est délivré dans
-les conditions prévues à l'article 1649 nonies du code précité.
-
-L'agrément préalable n'est pas exigé lorsque, une demande d'agrément ayant été déposée, l'acquéreur prend l'engagement dans
-l'acte d'acquisition d'acquitter le complément de taxe et l'intérêt de retard ainsi que la majoration prévue à l'article 1727
-du code général des impôts, si l'agrément ouvrant droit à la réduction du droit de mutation n'était pas délivré.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 nonies
-	  - CGI 1727
-	  - CGIAN2 300
-	  - CGIAN3 265
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 2 JORF 9 juillet 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20 Décret 90-798 1990-09-10
-
-	**Abrogé par**:
-
-	  - Loi n°89-935 1989-12-29 art. 20 Finances pour 1990 JORF 30 décembre 1989
-
 
 ##### 2 : Opérations concourant à la production ou à la livraison d'immeubles
 
@@ -19631,25 +19681,35 @@ exemplaires est remis à la société  revêtu de l'acquit du service des impôt
 	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
-##### Bulletins de dépôt de bagages.
-
 ###### Article 313 O
 
 Tous les documents de comptabilité ou autres nécessaires pour la vérification des états établis en vue du paiement des droits
-de timbre, sont conservés par la société pendant le délai prévu à l'article L. 82 du livre des procédures fiscales (1).
+de timbre, sont conservés par la société selon les modalités prévues au I de l'article L. 102 B du livre des procédures
+fiscales (1).
 
 (1) En ce qui concerne le contrôle, voir livre des procédures fiscales, art. R. 37-1.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI L82
-	  - CGI R37-1
-
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L102 B (M)
+	  - Livre des procédures fiscales - art. R37-1 (P)
 
 
 ##### 3° : Récépissés et bulletins d'expédition
@@ -20042,25 +20102,33 @@ formes ci-dessus déterminées.
 ###### Article 313 AG
 
 Les entrepreneurs  commissionnaires et intermédiaires de transports  ainsi que les expéditeurs et les destinataires,
-lorsqu'ils sont soumis au droit de communication réglementé par le livre II, chapitre VII, du code général des impôts doivent
-conserver pendant le délai prévu à l'article L. 82 du livre des procédures fiscales tous les documents de comptabilité et
-autres nécessaires à la vérification de l'administration et notamment sans que cette énonciation soit limitative les lettres
-de voitures les souches du registre prévu à l'article 313 W et les récépissés extraits de ce registre.
+lorsqu'ils sont soumis au droit de communication réglementé par les chapitres II et II bis du titre II du livre des
+procédures fiscales doivent conserver selon les modalités prévues au I de l'article L. 102 B du livre des procédures fiscales
+tous les documents de comptabilité et autres nécessaires à la vérification de l'administration et notamment sans que cette
+énonciation soit limitative les lettres de voitures les souches du registre prévu à l'article 313 W et les récépissés
+extraits de ce registre.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI L82
 	  - CGIAN3 313 W
+	  - Livre des procédures fiscales L102 B I
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R37-1
+	  - Décret n°90-798 1990-09-10
+	  - Décret n°2000-477 2000-06-02
 
 
 ###### Article 313 AH
@@ -23952,16 +24020,16 @@ II. (Abrogé).
 III. (Disposition périmée).
 
 IV. A l'importation, la perception de la taxe prévue à l'article 1613 du code général des impôts est suspendue partiellement
-jusqu'au 31 décembre 1989, son taux étant ramené à 1 p. 100 sur les bois tropicaux ci-dessous énumérés, par référence à la
+jusqu'au 31 décembre 1990, son taux étant ramené à 1 p. 100 sur les bois tropicaux ci-dessous énumérés, par référence à la
 nomenclature tarifaire de la direction générale des douanes et des droits indirects :
 
-1 Les bois d'okoumé bruts, même écorcés ou simplement dégrossis (4403.34.100) ;
+1° Les bois d'okoumé bruts, même écorcés ou simplement dégrossis (4403.34.100) ;
 
-2 Les bois d'okoumé sciés ou dédossés longitudinalement, tranchés ou déroulés, même rabotés, poncés ou collés par jointure
+2° Les bois d'okoumé sciés ou dédossés longitudinalement, tranchés ou déroulés, même rabotés, poncés ou collés par jointure
 digitale, d'une épaisseur excédant 6 millimètres (compris dans les positions tarifaires 4407.22.10.0 à 4407.22.90.0).
 
-A l'importation, la perception de la taxe prévue à l'article 1618 bis du code général des impôts est suspendue en totalité
-jusqu'au 31 décembre 1989 pour les bois tropicaux énumérés ci-après par référence à la nomenclature tarifaire de la direction
+V. A l'importation, la perception de la taxe prévue à l'article 1618 bis du code général des impôts est suspendue en totalité
+jusqu'au 31 décembre 1990 pour les bois tropicaux énumérés ci-après par référence à la nomenclature tarifaire de la direction
 générale des douanes et droits indirects :
 
 " 1° Les bois bruts, même écorcés, désaubiérés ou équarris (4403.31.00.0 à 4403.35.90.0 et les bois tropicaux contenus dans
@@ -23979,17 +24047,17 @@ VI. Pour bénéficier de la suspension des taxes sur les bois provenant d'import
 tenue d'une comptabilité matières, de l'origine et de l'espèce des bois dont il s'agit.
 
 VII. La perception de la taxe prévue à l'article 1613 du code général des impôts est suspendue en totalité jusqu'au 31
-décembre 1989 sur les produits ci-dessous énumérés, par référence à la nomenclature tarifaire de la direction générale des
+décembre 1990 sur les produits ci-dessous énumérés, par référence à la nomenclature tarifaire de la direction générale des
 douanes et droits indirects, lorsqu'ils sont destinés à l'exportation :
 
-1 Les bois de mine (4403.20002) ;
+1° Les bois de mine (4403.20002) ;
 
-2 Les bois feuillus et résineux sciés ou dédossés longitudinalement, tranchés ou déroulés même rabotés, poncés ou collés par
+2° Les bois feuillus et résineux sciés ou dédossés longitudinalement, tranchés ou déroulés même rabotés, poncés ou collés par
 jointure digitale, d'une épaisseur supérieure à 6 millimètres (44.07) ;
 
-3 Les traverses en bois pour voies ferrées ou similaires (44.06) ;
+3° Les traverses en bois pour voies ferrées ou similaires (44.06) ;
 
-4 Les merrains, même sciés sur les deux faces principales, mais non autrement travaillés (4416.00.100).
+4° Les merrains, même sciés sur les deux faces principales, mais non autrement travaillés (4416.00.100).
 
 VIII. Les dispositions du VII sont applicables aux exportations effectuées par des négociants ou des imprégnateurs, sous
 réserve que ceux-ci adressent aux bénéficiaires des dispositions susvisées l'attestation prévue par l'article 275 du code
@@ -24005,17 +24073,18 @@ produits considérés.
 	  - CGI 1613
 	  - CGI 1618 bis
 	  - CGI 275
-	  - Décret n°71-628 1971-07-28
 
 	**Modifié par**:
 
-	  - Décret n°87-1161 du 24 décembre 1987 - art. 1 (V) JORF 5 janvier 1988 en vigueur le 1er janvier 1988
-	  - Décret n°87-1161 du 24 décembre 1987 - art. 2 (V) JORF 5 janvier 1988 en vigueur le 1er janvier 1988
-	  - Décret n°87-1161 du 24 décembre 1987 - art. 3 (V) JORF 5 janvier 1988 en vigueur le 1er janvier 1988
+	  - Décret n°90-4 du 2 janvier 1990 - art. 1 (V) JORF 3 janvier 1190
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°90-798 1990-09-10 Décret 91-883 1991-09-09
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 36 () JORF 30 décembre 1990
 
 
 ##### Section I bis : Taxe spéciale sur les huiles.
@@ -25729,13 +25798,21 @@ modérations,dans les conditions qui ont été prévues pour la remise ou la mod
 
 ###### Article 358
 
-L'impôt sur les sociétés est recouvré dans les conditions prévues aux articles 359 à 366.
+L'impôt sur les sociétés est recouvré dans les conditions prévues aux articles 359 à 366 A.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 359 à CGIAN3 366
+	  - CGIAN3 359 à CGIAN3 366 A
+
+	**Modifié par**:
+
+	  - Décret n°89-886 du 14 décembre 1989 - art. 5 (V) JORF 15 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 	**Cité par**:
 
@@ -25743,10 +25820,6 @@ L'impôt sur les sociétés est recouvré dans les conditions prévues aux artic
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 376 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 380 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 bis (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 359
@@ -25782,24 +25855,24 @@ recouvrement des impôts directs du lieu d'imposition défini par l'article 218 
 société modifie le lieu de son principal établissement après l'échéance du premier acompte afférent à un exercice déterminé
 les acomptes subséquents doivent être versés à la caisse du comptable du Trésor habilité à percevoir le premier acompte.
 
-Chacun des premier et quatrième acomptes est égal [*montant*] à 10 p. 100 du bénéfice imposable déterminé d'après les
-résultats du plus récent exercice clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année
-d'après les résultats de la dernière période d'imposition.
+Chacun des premier et quatrième acomptes est égal [*montant*] à 9,75 p. 100 [*(1)*] du bénéfice imposable déterminé d'après
+les résultats du plus récent exercice clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une
+année d'après les résultats de la dernière période d'imposition.
 
-Chacun des deuxième et troisième acomptes est égal à 10,25 p. 100 du bénéfice imposable défini [*(1)*].
+Chacun des deuxième et troisième acomptes est égal à 10 p. 100 du bénéfice imposable défini [*(1)*].
 
 Toutefois  en cas d'exercice d'une durée inférieure ou supérieure à un an  les acomptes sont calculés sur la base des
 bénéfices rapportés à une période de douze mois.
 
 Par dérogation aux dispositions du deuxième alinéa  l'acompte dont l'échéance est comprise entre la date de clôture d'un
 exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé à l'article 223-1, deuxième alinéa
-du code général des impôts  est égal, s'il y a lieu, à 10 p. 100 du bénéfice afférent à l'exercice ou à la période
+du code général des impôts  est égal, s'il y a lieu, à 9,75 p. 100 [*(1)*] du bénéfice afférent à l'exercice ou à la période
 d'imposition précédente et dont le délai de déclaration est expiré. Le montant de cet acompte est régularisé sur la base des
 résultats du dernier exercice ou de la dernière période d'imposition lors du versement du plus prochain acompte.
 
 Le montant des acomptes est arrondi au franc inférieur.
 
-[*(1) cette disposition s'applique aux acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1989.*]
+[*(1)*] Ces dispositions s'appliquent aux acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
@@ -25808,14 +25881,14 @@ Le montant des acomptes est arrondi au franc inférieur.
 	  - CGI 218 A
 	  - CGI 223 1 al. 2
 
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°88-1149 1988-12-23 art. 12 VIII Finances pour 1989
-
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 12 () JORF 28 décembre 1989
-	  - Décret n°89-148 1989-03-06 art. 1 JORF 8 mars 1989
+	  - Loi n°89-935 1989-12-29 art. 18 Finances pour 1990 JORF 30 décembre 1989
+	  - Décret n°90-205 du 8 mars 1990 - art. 1 (V) JORF 9 mars 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 	**Cité par**:
 
@@ -26322,6 +26395,44 @@ de l'article 119 bis du code général des impôts.
 	  - HISTO: Edition du 20 juillet 1984
 
 
+##### 9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France
+
+###### Article 381 R
+
+Les sommes retenues en application de l'article 182 C du code général des impôts sont versées à la recette générale des
+finances de Paris accompagnées d'une déclaration conforme au modèle fixé par l'administration et comportant les indications
+suivantes :
+
+1° Les nom, prénoms ou raison sociale, adresse et numéro de Siret du déclarant ;
+
+2° La date de versement des revenus et leur montant ainsi que le montant de la retenue prélevée ;
+
+3° Le nom patronymique, le cas échéant le nom de l'époux et le pseudonyme, et prénoms du titulaire des revenus ainsi que ses
+date et lieu de naissance et son principal établissement ;
+
+Pour leur imputation sur l'impôt sur le revenu, les sommes versées au Trésor sont considérées comme des versements effectués
+au titre de l'article 1664 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 182 C, 1664
+
+	**Créé par**:
+
+	  - Décret n°90-293 1990-03-29 art. 2, 3 JORF 4 avril 1990
+	  - Décret n°90-293 du 29 mars 1990 - art. 3 (V) JORF 4 avril 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+
 ##### 10 : Prélèvement sur les produits de placements à revenu fixes.
 
 ###### Article 381 S
@@ -26810,31 +26921,9 @@ la première année.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 389
-
-La redevance prévue aux articles 992-II et 993-II du code général des impôts est versée au Trésor par les caisses
-d'assurances  dans les conditions fixées par le ministre de l'économie et des finances.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 992 II
-	  - CGI 993 II
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - PEREMPTION: Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
-
-
 ###### Article 390
 
-Dans les autres cas que ceux visés aux articles 385 à 389, ainsi que pour les années ou périodes pour lesquelles  dans les
+Dans les autres cas que ceux visés aux articles 385 à 388, ainsi que pour les années ou périodes pour lesquelles  dans les
 cas visés à l'article 388, l'intermédiaire n'est pas tenu au paiement de la taxe la taxe est versée par l'assuré à la recette
 des impôts du lieu de son domicile ou de sa résidence ou du lieu de la situation matérielle ou présumée du risque suivant les
 distinctions résultant de l'article 1000 du code général des impôts dans les trois premiers mois de l'année qui suit celle où
@@ -26851,11 +26940,14 @@ au profit de l'assureur et de leurs accessoires et la date de leurs échéances.
 	  - CGIAN3 386
 	  - CGIAN3 387
 	  - CGIAN3 388
-	  - CGIAN3 389
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Loi n°89-935 1989-12-29 art. 17 Finances pour 1990 JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-798 1990-09-10
 
 
 #### II : Paiement en valeurs du Trésor
@@ -27945,12 +28037,12 @@ V. La taxe est payable en une seule fois  dans les conditions prévues au I, à 
 ###### Article 406 nonies
 
 Les réclamations des redevables de la taxe locale d'équipement sont recevables jusqu'au 31 décembre de la deuxième année
-suivant celle du versement ou de la mise en recouvrement de la taxe.
+suivant celle du versement ou de la mise en recouvrement de la taxe. 
 
-Dans les situations définies à l'article 1723 quinquies du code général des impôts  les réclamations sont recevables jusqu'au
+Dans les situations définies à l'article 1723 quinquies du code général des impôts les réclamations sont recevables jusqu'au
 31 décembre de la deuxième année suivant celle soit de la péremption du permis de construire soit de la démolition des
 constructions en vertu d'une décision de justice soit de la modification apportée au permis de construire ou à l'autorisation
-tacite de construire.
+tacite de construire. 
 
 Les réclamations relatives au recouvrement de la taxe sont adressées au trésorier payeur général. Toutes les autres
 réclamations sont adressées au responsable du service de l'Etat dans le département, chargé de l'urbanisme, ou, en cas
@@ -27958,10 +28050,38 @@ d'application de l'article R424-1 du code de l'urbanisme, au maire.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°90-798 du 10 septembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2012-88 du 25 janvier 2012 - art. 3
+
 	**Cite**:
 
-	  - CGI 1723 quinquies
-	  - Code de l'urbanisme R424-1
+	  - Code général des impôts, CGI. - art. 1723 quinquies (VT)
+	  - Code de l'urbanisme - art. R*424-1 (V)
+
+
+###### Article 406 ter
+
+Les redevables tenus solidairement au paiement de la taxe locale d'équipement en vertu du 4 de l'article 1929 du code général
+de impôts sont recherchés en paiement dans les conditions fixées au titre IV du livre des procédures fiscales pour les impôts
+recouvrés par les comptables du Trésor.
+
+Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
+d'équipement, elle doit en informer sans délai le préfet pour émission d'un nouveau titre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1929 4
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 	**Modifié par**:
 
@@ -27970,31 +28090,6 @@ d'application de l'article R424-1 du code de l'urbanisme, au maire.
 	**Codifié par**:
 
 	  - Décret n°90-798 1990-09-10
-
-
-###### Article 406 ter
-
-(Devenu sans objet)    Les redevables tenus solidairement au paiement de la taxe locale d'équipement en vertu de l'article
-1929-4 du code général des impôts sont recherchés en paiement soit par voie d'avis de mise en recouvrement collectif soit par
-voie de mise en demeure dans les conditions fixées au titre IV du livre des procédures fiscales pour les impôts recouvrés par
-les comptables de la direction générale des impôts.
-
-Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
-d'équipement, elle doit en informer sans délai le directeur des services fiscaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1929 4
-
-	**Modifié par**:
-
-	  - Décret n°83-1261 1983-12-30 art. 38 JORF 7 janvier 1984
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
 
 
 ## Chapitre I bis : Pénalités
