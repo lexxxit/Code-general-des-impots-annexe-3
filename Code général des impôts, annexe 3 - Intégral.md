@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-07-26
+Version Consolidée au 1983-07-31
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -6161,6 +6161,177 @@ destination des produits.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 73 B
+
+La liste des prestations de services effectuées pour les besoins directs des bateaux désignés au 2° du II de l'article 262 du
+code général des impôts est fixée comme il suit :
+
+- pilotage ;
+
+- remorquage ;
+
+- amarrage ;
+
+- utilisation des installations portuaires ;
+
+- opérations d'entretien du navire et du matériel de bord ;
+
+- gardiennage et services de prévention et de lutte contre l'incendie ;
+
+- visites de sécurité, examens de carènes, expertises techniques ;
+
+- assistance et sauvetage du navire ;
+
+- opérations des courtiers conducteurs et interprètes de navires ;
+
+- opérations des consignataires, gérants de navires et agents maritimes ;
+
+- expertises ayant trait à l'évaluation des dommages subis par les navires et des indemnités d'assurances destinées à réparer
+le préjudice en résultant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°83-707 du 25 juillet 1983 - art. 1 (V) JORF 31 juillet 1983
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 262 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1998-06-10 3A-4-98
+
+
+###### Article 73 C
+
+La liste des prestations de services effectuées pour les besoins directs de la cargaison des bateaux désignés au 2° du II de
+l'article 262 du code général des impôts est fixée comme il suit : 
+
+chargement et déchargement du bateau ; 
+
+manutention de la marchandise accessoire au chargement et au déchargement du bateau ; 
+
+location de matériel pour le chargement et le déchargement du bateau ; 
+
+location de contenants et de matériel de protection de la marchandise ; 
+
+gardiennage de la marchandise ; 
+
+stationnement et traction des wagons de marchandises sur les voies de quai ; 
+
+magasinage de la marchandise nécessaire au transport par voie d'eau, dans la limite des quinze jours qui précèdent
+l'embarquement ou qui suivent le débarquement de la marchandise ; 
+
+usage des halles à marée pour la vente aux enchères des produits de la pêche maritime ; 
+
+embarquement et débarquement des passagers et de leurs bagages ; 
+
+location de matériels et d'équipements nécessaires aux opérations d'embarquement et de débarquement des passagers et de leurs
+bagages ; 
+
+usage des gares maritimes. 
+
+expertises ayant trait à l'évaluation des dommages subis par les passagers et les marchandises ainsi que des indemnités
+d'assurances destinées à réparer le préjudice en résultant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°83-707 du 25 juillet 1983 - art. 3 (V) JORF 31 juillet 1983
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 262 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1998-06-10 3A-4-98
+
+
+###### Article 73 D
+
+La liste des prestations de services effectuées pour les besoins directs des aéronefs désignés au 4° du II de l'article 262
+du code général des impôts est fixée comme il suit :
+
+- atterrissage et décollage ;
+
+- usage des dispositifs d'éclairage ;
+
+- stationnement, amarrage et abri des aéronefs ;
+
+- usage des installations aménagées pour la réception des passagers et des marchandises ;
+
+- usage des installations destinées à l'avitaillement des aéronefs ;
+
+- opérations techniques afférentes à l'arrivée, au stationnement et au départ des aéronefs ;
+
+- opérations de nettoyage, d'entretien et de réparation de l'aéronef et des matériels et équipements de bord ;
+
+- gardiennage et service de prévention et de lutte contre l'incendie ;
+
+- visites de sécurité, expertises techniques ;
+
+- relevage et sauvetage des aéronefs ;
+
+- opérations des consignataires d'aéronefs et agents aériens.
+
+- expertise ayant trait à l'évaluation des dommages subis par les aéronefs et des indemnités d'assurances destinées à réparer
+le préjudice en résultant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°83-707 du 25 juillet 1983 - art. 2 (V) JORF 31 juillet 1983
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 262 (V)
+
+
+###### Article 73 E
+
+La liste des prestations de services effectuées pour les besoins directs de la cargaison des aéronefs désignés au 4° du II de
+l'article 262 du code général des impôts est fixée comme il suit :
+
+- embarquement et débarquement des passagers et de leurs bagages ;
+
+- chargement et déchargement des aéronefs ;
+
+- manutention des marchandises accessoire au chargement et au déchargement des aéronefs ;
+
+- opérations d'assistance aux passagers, opérations relatives à l'enregistrement des passagers et à celui de leurs bagages ;
+
+- émission et réception de messages de trafic ;
+
+- opérations de trafic et de transit-correspondance ;
+
+- location de matériels et d'équipements nécessaires au trafic aérien et utilisés sur l'aire des aéroports ;
+
+- location de contenants et de matériels de protection des marchandises ;
+
+- gardiennage des marchandises ;
+
+- magasinage des marchandises nécessaire au transport par voie aérienne dans la limite des quinze jours qui précèdent
+l'embarquement ou qui suivent le débarquement des marchandises.
+
+- expertises ayant trait à l'évaluation des dommages subis par les passagers et les marchandises ainsi que des indemnités
+d'assurances destinées à réparer le préjudice en résultant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°83-707 du 25 juillet 1983 - art. 3 (V) JORF 31 juillet 1983
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 262 (V)
 
 
 ###### Article 73 F
