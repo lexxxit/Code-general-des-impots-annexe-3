@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-07-30
+Version Consolidée au 1986-07-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3607,7 +3607,76 @@ les actions ou parts souscrites ou reçues en rémunération de l'apport de vale
 
 ##### D : Obligations des employeurs
 
+###### Article 39 B
+
+Sont souscrites auprès de la direction des services fiscaux du lieu du domicile de la personne ou du siège de l'établissement
+ou du bureau qui a assuré le paiement :
+
+1° La déclaration prévue à l'article 87 du code général des impôts lorsqu'elle concerne des traitements, émoluments, salaires
+ou rétributions versés à des personnes ne relevant pas du régime général de sécurité sociale ;
+
+2° La déclaration prévue à l'article 88 du même code ;
+
+3° La déclaration concernant des indemnités journalières ou des allocations d'assurance et de solidarité mentionnées aux
+articles 80 quinquies ou 231 bis D du code précité.
+
+Ces déclarations peuvent êtres souscrites soit par la communication d'un support informatique, soit par l'envoi de
+formulaires normalisés, dont les caractéristiques et le modèle sont fixés par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 87, 88, 231 bis D, 80 quinquies
+
+	**Créé par**:
+
+	  - Décret n°85-1344 du 16 décembre 1985 - art. 1 (V) JORF 20 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ##### Déclaration annuelle de données sociales
+
+###### Article 39 C
+
+La déclaration mentionnée à l'article 87 du code général des impôts est souscrite sur un formulaire unique dénommé
+"déclaration annuelle de données sociales".
+
+A compter de l'année fixée pour chaque département par arrêté du Premier ministre sur proposition des ministres concernés,
+cette déclaration est adressée à un service unique, dénommé "Centre de transfert de données sociales", créé en application de
+l'article 87 A du même code.
+
+Les dispositions du présent article ne s'appliquent pas aux déclarations mentionnées aux articles 39 B et 47 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 87, 87 A, 39 B, 47 A
+
+	**Créé par**:
+
+	  - Décret n°85-1343 1985-12-16 art. 1, art. 2 , art. 3 JORF 20 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R133-14 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
 
 ###### Article 39 E
 
@@ -4289,6 +4358,189 @@ exercée que si l'emprunt n'est pas assorti d'une clause d'indexation.
 	  - Code général des impôts, CGI. - art. 131 ter (V)
 
 
+##### E : Titres de créances négociables
+
+###### Article 41 duodecies J
+
+Le prélévement prévu par l'article 125 A du code général des impots et dû à raison des gains mentionnés à l'article 124 B du
+même code est pratiqué sur le compte approvisionné par le contribuable à cet effet par la personne chez laquelle les titres
+de créances sont inscrits en compte  ou déposés en application des dispositions du premier alinéa de l'article 124 D du code
+déjà cité ou par la personne désignée par le contribuable pour acquitter ce prélévement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 124 B
+	  - CGI 124 D
+	  - CGI 125 A
+
+	**Créé par**:
+
+	  - Décret n°86-216 du 17 février 1986 - art. 1 (V) JORF 18 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies K (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies L (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies M (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies P (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 41 duodecies K
+
+Pour l'application de l'article 125 A du code général des impôts s aux gains mentionnés à l'article 41 duodecies J, la
+cession des titres comporte les effets du paiement au jour de la cession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-216 du 17 février 1986 - art. 2 (V) JORF 18 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies J (V)
+	  - Code général des impôts, CGI. - art. 125 A (V)
+
+
+###### Article 41 duodecies L
+
+L'option pour le prélèvement est exercée par le cédant auprés des personnes mentionnées à l'article 41 duodecies J au moment
+où il communique le montant de la cession qu'il a effectuée et au plus tard dix jours à partir de la date de cession. A cette
+occasion, il indique le montant du gain pour lequel l'option est formulée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 duodecies J
+
+	**Créé par**:
+
+	  - Décret n°86-216 du 17 février 1986 - art. 3 (V) JORF 18 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies M (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 41 duodecies M
+
+Par exception aux dispositions des articles 41 duodecies J et 41 duodecies L, lorsque les gains sont réalisés par
+l'intermédiaire d'une société mentionnée à l'article 8 du code général des impôts, la société effectue le prélévement prévu à
+l'article 125 A du même code et l'option est exercée auprés de cette société dans les conditions définies à l'article 41
+duodecies G, sous la réserve du délai mentionné à l'article 41 duodecies L.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-216 du 17 février 1986 - art. 4 (V) JORF 18 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies G (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies J (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies L (V)
+	  - Code général des impôts, CGI. - art. 125 A (V)
+	  - Code général des impôts, CGI. - art. 8 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies O (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies P (V)
+
+
+###### Article 41 duodecies N
+
+Le contribuable qui demande à bénéficier d'un report de pertes subies au cours des cinq années antérieures est tenu de
+joindre à sa déclaration d'impôt sur le revenu une note indiquant par année le détail des pertes reportées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-216 du 17 février 1986 - art. 7 (V) JORF 18 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 41 duodecies O
+
+Les dispositions prévues au 1 de l'article 242 ter du code code général des impôts et à l'article 41 duodecies A sont
+applicables aux personnes et aux gains mentionnés aux articles 41 duodecies J et 41 duodecies M.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-216 du 17 février 1986 - art. 5 (V) JORF 18 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies J (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies M (V)
+	  - Code général des impôts, CGI. - art. 242 ter (V)
+
+
+###### Article 41 duodecies P
+
+Les personnes mentionnées aux articles 41 duodecies J et 41 duodecies M doivent tenir à la disposition de l'administration un
+document indiquant pour chaque cession : 
+
+La date de réalisation du gain et son montant ; 
+
+Le montant du prélèvement opéré ou, à défaut, l'identité et le domicile réel du bénéficiaire des gains.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-216 du 17 février 1986 - art. 8 (V) JORF 18 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies J (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies M (V)
+
+
 ##### F : Émission par les sociétés françaises d'obligations à l'étranger. Régime spécial
 
 ###### Article 41 quaterdecies
@@ -4903,6 +5155,74 @@ mètre carré :
 
 ##### XI : Dispositions communes aux différentes catégories de revenus
 
+##### 3° : Obligations des gestionnaires de fonds salariaux.
+
+###### Article 41 DA
+
+Les gestionnaires désignés par la convention ou l'accord agréé créant le fonds salarial doivent déclarer annuellement, pour
+chaque salarié, la nature et la valeur des opérations inscrites au compte ouvert à son nom dans le fonds, en distinguant :
+
+1° Les versements effectués dans l'année susceptible d'ouvrir droit à la réduction  d'impôt prévue à l'article 199 octies A
+du code général des impôts soit au titre de l'année de ces versements, soit, pour les fonds obligatoires, au titre de l'année
+au cours de laquelle le salarié recouvre la disposition des sommes versées ;
+
+2° Les retraits opérés par le salariés, au cours de l'année, ventilés selon l'origine des sommes déposées ;
+
+3° Les produits servis aux salariés au cours de l'année.
+
+Ces renseignements  sont mentionnés sur la déclaration prévue au 1 de l'article 242 ter du code précité (1).
+
+(1) Pour les conditions et délais dans lesquels cette déclaration doit être faite, voire annexe III, art. 49 D à 49 I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 octies A
+	  - CGI 242 ter 1
+	  - CGIAN3 49 D à CGIAN3 49 I
+
+	**Créé par**:
+
+	  - Décret n°85-656 du 28 juin 1985 - art. 1 (V) JORF 2 juillet 1985
+	  - Décret n°85-656 du 28 juin 1985 - art. 2 (V) JORF 2 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 41 DB
+
+Lorsque les produits des versements visés à l'article 41 DA sont maintenus dans le compte ouvert au nom du salarié dans le
+fonds, ils constituent un versement susceptible d'ouvrir droit à la réduction d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 DA
+
+	**Créé par**:
+
+	  - Décret n°85-656 du 28 juin 1985 - art. 2 (V) JORF 2 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi n°96-1181 du 30 décembre 1996 - art. 90 () JORF 31 décembre 1996
+
+
 ##### 4° : Versements à fonds perdus en faveur de la construction
 
 ###### Article 41 A
@@ -5505,6 +5825,60 @@ l'expiration de l'engagement des sociétés et des souscripteurs.
 	**Créé par**:
 
 	  - Décret n°85-1111 du 17 octobre 1985 - art. 7 (V) JORF 19 octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2002-923 2002-06-06
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 2002
+
+
+###### Article 46 AF
+
+Dès l'achèvement des immeubles ouvrant droit à la réduction d'impôt, les sociétés adressent aux souscripteurs et à la
+direction des services fiscaux définie à l'article à l'article 46 AD une déclaration d'achèvement en double exemplaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 AD
+
+	**Créé par**:
+
+	  - Décret n°85-1111 du 17 octobre 1985 - art. 9 (V) JORF 19 octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2002-923 2002-06-06
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 2002
+
+
+###### Article 46 AG
+
+Les engagements, attestations, relevés, déclarations et registre spécial prévus par les article 46 AA à 46 AF sont établis
+sur papier libre, conformément à un modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 AA à 46 AF
+
+	**Créé par**:
+
+	  - Décret n°85-1111 du 17 octobre 1985 - art. 10 (V) JORF 19 octobre 1985
 
 	**Codifié par**:
 
@@ -6370,7 +6744,96 @@ imputables et remboursables au titre du même exercice.
 	  - Décret n°86-1086 1986-10-07
 
 
+##### I : Sociétés agréées au régime du bénéfice consolidé
+
+###### Article 46 quater-0 XA
+
+La société agréée ne peut pas imputer sur l'impôt sur les sociétés un montant de crédits mentionnés à l'article 122 de
+l'annexe II au code général des impôts supérieur à celui qu'elle aurait pu imputer en cas de report en avant du ou des
+déficits en cause.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 122
+
+	**Créé par**:
+
+	  - Décret n°85-598 du 10 juin 1985 - art. 2 (V) JORF 14 juin 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ##### II : Sociétés agréées au régime de l'intégration fiscale.
+
+###### Article 46 quater-0 YA
+
+La société agréée ne peut utiliser la créance qu'elle détient pour le paiement de l'impôt sur les sociétés dû au titre d'un
+exercice qu'après constatation du bénéfice de cet exercice et à hauteur du montant de l'impôt correspondant au bénéfice
+défini à l'article 46 quater-0 Y.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 68 A de la loi n° 87-1060 du 30 décembre 1987.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-598 du 10 juin 1985 - art. 5 (V) JORF 14 juin 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 1
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 Y (V)
+
+
+###### Article 46 quater-0 YB
+
+La créance est constatée par la société agréée mentionnée à l'article 46 quater-0 Y. Elle ne peut être utilisée que par
+celle-ci pour le paiement de l'impôt sur les sociétés, y compris, le cas échéant, au titre d'un exercice auquel ne s'applique
+pas le régime prévu à l'article 209 sexies du code général des impôts.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 68 A de la loi n° 87-1060 du 30 décembre 1987.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 sexies
+	  - CGIAN3 46 quater-0 Y
+
+	**Créé par**:
+
+	  - Décret n°85-598 du 10 juin 1985 - art. 6 (V) JORF 14 juin 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 1
+	  - HISTO: Edition du 31 juillet 1986
+
 
 ###### Article 46 quater-0 YC
 
@@ -6442,6 +6905,55 @@ des amortissements pratiqués par les sociétés dont le résultat est pris en c
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YA (V)
+
+
+##### Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural
+
+###### Article 46 quater-0 Z
+
+Les plus-values ou moins-values réalisées par les caisses de crédit mutuel agricole et rural lors de la cession d'éléments
+d'actif immobilisés ou de titres de placement ne sont soumises à l'impôt que pour leur fraction acquise à compter du 1er
+janvier 1985.
+
+Pour les titres cotés, cette fraction est calculée en retenant comme prix de revient leur cours moyen pendant le mois de
+décembre 1984.
+
+Pour les titres de participation non cotés et les autres éléments d'actif immobilisés, ainsi que pour les titres de placement
+non cotés, la fraction acquise à compter du 1er janvier 1985 est calculée en proportion de la durée de détention du bien
+depuis cette date par rapport à sa durée totale de détention. En outre, pour les biens amortissables détenus depuis plus de
+deux ans, la partie de la plus-value ou moins-value réputée à court terme ne peut excéder le montant des amortissements
+déduits à compter du 1er janvier 1985 pour le calcul de l'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1048 du 26 septembre 1985 - art. 2 (V) JORF 1er octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 46 quater-0 ZC
+
+Les provisions, autres que les provisions pour risques sur crédit à moyen ou à long terme mentionnées à l'article 46 quater-0
+ZB existant au bilan de clôture de l'exercice 1984, sont regardées comme des réserves exonérées de l'impôt si elles ne
+répondent pas aux conditions du 5° du 1 de l'article 39 du code général des impôts ou si elles deviennent sans objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1048 du 26 septembre 1985 - art. 6 (V) JORF 1er octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 (VT)
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -6889,6 +7401,176 @@ conformément à l'article 46 quaterdecies G.
 	  - Décret n°98-400 1998-05-22
 
 
+##### Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles
+
+###### Article 46 quindecies A
+
+L'agrément du capital des sociétés pour le financement de l'industrie cinématographique et audiovisuelle (Sofica) définies à
+l'article 238 bis HE du code général des impôts est délivré dans les conditions prévues à l'article 1649 nonies du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-982 du 17 septembre 1985 - art. 1 (V) JORF 18 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Arrêté du 22 mars 1999 - art. 25 (V)
+	  - Code du cinéma et de l'image animée - art. Annexe 2-1 (V)
+	  - Code du cinéma et de l'image animée - art. D332-1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 nonies (V)
+	  - Code général des impôts, CGI. - art. 238 bis HE (V)
+
+
+###### Article 46 quindecies B
+
+Dans la limite de 10 % de leur capital social libéré, les Sofica et les sociétés de réalisation définies au a de l'article
+238 bis HG du code général des impôts peuvent mettre ou laisser leurs disponibilités en comptes productifs d'intérêts si la
+créance correspondante est liquide.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HG
+
+	**Créé par**:
+
+	  - Décret n°85-982 du 17 septembre 1985 - art. 2 (V) JORF 18 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 46 quindecies C
+
+Pour l'application de l'article 238 bis HH du code général des impôts, les droits détenus indirectement dans une Sofica
+s'entendent de ceux détenus : 
+
+1° Par l'intermédiaire d'une chaîne de participation : le pourcentage de détention est calculé en multipliant entre eux les
+taux de participation successifs ; 
+
+2° Par les personnes physiques ou morales qui ont entre elles des liens de nature à établir une véritable communauté
+d'intérêts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-982 du 17 septembre 1985 - art. 3 (V) JORF 18 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis HH (V)
+
+
+###### Article 46 quindecies D
+
+Les contrats d'association à la production mentionnés au b de l'article 238 bis HG du code général des impôts comportent une
+clause prévoyant que l'oeuvre ne sera pas financée pour plus de 50 % de son coût total définitif par de tels contrats.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-982 du 17 septembre 1985 - art. 4 (V) JORF 18 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis HG (V)
+
+
+###### Article 46 quindecies E
+
+Pour bénéficier de l'avantage fiscal prévu aux articles 163 septdecies et 217 septies du code général des impôts, le
+souscripteur au capital agréé d'une Sofica doit joindre à sa déclaration de revenus ou de résultats un relevé délivré par
+cette société et comprenant :
+
+L'identité et l'adresse de l'actionnaire ;
+
+Le montant du capital agréé et la date de l'agrément ;
+
+Le nombre et les numéros des actions souscrites, le montant et la date de leur souscription ;
+
+La quote-part du capital détenue par le souscripteur ;
+
+La date et le montant des versements effectués au titre de la souscription des actions ;
+
+Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire ainsi que le montant et la date des cessions.
+
+Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la Sofica adresse
+avant le 16 février de l'année suivante à la direction des services fiscaux du domicile du cédant le relevé mentionné ci-
+dessus ou un duplicata de ce relevé.
+
+Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 septdecies, 217 septies
+
+	**Créé par**:
+
+	  - Décret n°85-982 du 17 septembre 1985 - art. 6 (V) JORF 18 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 46 quindecies F
+
+Les sociétés de réalisation mentionnées au a de l'article 238 bis HG du code général des impôts doivent produire pour chaque
+oeuvre cinématographique ou audiovisuelle une attestation indiquant que l'oeuvre remplit les conditions prévues pour l'octroi
+de l'agrément mentionné à l'article 238 bis HE du même code.
+
+Le ministre de la culture délivre, à la demande des sociétés concernées, les attestations visées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HE, 238 bis HG
+
+	**Créé par**:
+
+	  - Décret n°85-982 du 17 septembre 1985 - art. 7 (V) JORF 18 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ##### Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur
 
 ###### Article 47
@@ -6908,6 +7590,39 @@ qu'elles doivent contenir en vertu desdits articles, le montant de ces paiements
 	**Cite**:
 
 	  - CGI 240, 241, 182 b
+
+
+###### Article 47 A
+
+Les déclarations prévues aux articles 240 et 241 du code général des impôts sont souscrites auprès de la direction des
+services fiscaux du lieu du domicile de la personne ou du siège de l'établissement ou du bureau qui a assuré le paiement
+lorsqu'elles sont produites par des personnes qui n'emploient aucun salarié ou emploient du personnel salarié ne relevant pas
+du régime de sécurité sociale.
+
+Ces déclarations peuvent être souscrites soit par la communication d'un support informatique, soit par l'envoi de formulaires
+normalisés, dont les caractéristiques et le modèle sont fixés par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 240, 241
+
+	**Créé par**:
+
+	  - Décret n°85-1344 du 16 décembre 1985 - art. 1 (V) JORF 20 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 C (P)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ##### Section II bis : Déclarations concernant les revenus de capitaux mobiliers
@@ -8569,6 +9284,55 @@ magasin susceptible de recevoir des films d'une longueur minimum de soixante mè
 	  - Décret n°93-1127 1993-09-24
 
 
+##### D : Taux particuliers
+
+###### Article 89 ter
+
+1. Les dispositions prévues à l'article 281 quater du code général des impôts s'appliquent aux 140 premières séances où le
+public est admis moyennant paiement, à l'exclusion des séances entièrement gratuites.
+
+2. Est considérée comme oeuvre classique l'oeuvre d'un auteur décédé depuis plus de cinquante ans ou d'un auteur décédé dont
+le nom figure sur une liste fixée par arrêté conjoint du ministre chargé des affaires culturelles et du ministre de
+l'économie et des finances (1).
+
+3. La reprise d'une oeuvre classique est considérée comme faisant l'objet d'une nouvelle mise en scène, lorsque celle-ci est
+réalisée dans une présentation nouvelle par rapport à des réalisations antérieures, en ce qui concerne l'interprétation ou la
+scénographie.
+
+**Nota:**
+
+(1) Arrêté du 10 août 2001 (J.O. du 7 septembre).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 2001-08-10
+	  - CGI 281 quater
+
+	**Anciens textes**:
+
+	  - CGIAN3 76 ter
+
+	**Modifié par**:
+
+	  - Décret n°86-414 1986-03-13 art. 1 1° JORF 15 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - TXT_ASSOCIE: Instruction 2001-09-27 3C-3-01
+	  - TXT_ASSOCIE: Instruction 2002-04-22 3C-2-02
+
+	**Créé par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 66 (V) JORF 31 décembre 1985
+
+
 ##### II : Franchise et décote.
 
 ###### Article 90
@@ -10005,6 +10769,31 @@ Deux représentants des distillateurs de vins et sous-produits.
 	**Codifié par**:
 
 	  - Décret n°99-382 1999-05-18
+
+
+###### Article 144 C
+
+Les membres de la commission instituée par l'article 144 A sont désignés par arrêté du ministre chargé des industries
+agricoles et alimentaires, sur proposition des départements ministériels, des groupements interprofessionnels et
+professionnels intéressés.
+
+(1) Les dispositions des articles 144 A et 144 C deviennent sans objet à compter du 1er septembre 1991.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 144 A
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986 P(Décret 88-79 1988-01-22 art. 7 JORF 23 janvier 1988)
+	  - HISTO: Edition du 31 mars 1999
 
 
 ##### 2° : Distributeurs et utilisateurs d'alcools d'Etat.
@@ -13919,6 +14708,30 @@ octobre 1955; à défaut du même versement les états et certificats établis s
 
 
 ##### 2 : Salaires fixes.
+
+###### Article 286
+
+Il est alloué un salaire fixe de 25 F pour tout bordereau rectificatif ou tout complément de bordereau déposé en application
+du 3 de l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1350 1955-10-14 art. 34 3
+
+	**Cité par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 1 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
 
 ###### Article 287
 
@@ -19740,6 +20553,35 @@ Le centre de gestion agréé doit informer ses adhérents de cette décision dan
 	  - HISTO: Edition du 10 juillet 1983
 
 
+#### Chapitre IV : Agrément
+
+###### Article 344 K
+
+Les arrêtés prévus au II de l'article 1649 nonies du code général des impôts sont pris après avis du conseil de direction du
+fonds de développement économique et social ou, lorsqu'il s'agit d'agrément pour l'octroi d'allégements fiscaux prévus en
+faveur de l'aménagement du territoire, après avis du comité interministériel des aides à la localisation des activités
+institué par l'article 9 du décret du 6 mai 1982 susvisé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 nonies II
+	  - Décret n°82-379 du 6 mai 1982 - art. 9 (M)
+
+	**Créé par**:
+
+	  - Décret n°86-225 1986-02-14 art. 3 JORF 20 février 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
 ### Titre II : Dispositions diverses
 
 #### Chapitre premier : Commissions administratives des impôts
@@ -20681,6 +21523,31 @@ du domicile ou du siège social pour les organismes de formation à but non lucr
 	**Codifié par**:
 
 	  - Décret n°84-875 1984-10-01
+
+
+###### Article 381 X
+
+A défaut d'exécution spontanée des versements prévus à l'article 381 U, il est fait application par les agents commissionnés
+chargés du contrôle de la participation des employeurs de la procédure décrite à l'article R 950-21 du code du travail. Cette
+procédure est également applicable aux versements indiqués aux articles 235 ter HC et 235 ter HD du même code. 
+
+La caisse du comptable des impôts compétente pour recevoir les versements résultant de la procédure prévue à l'alinéa
+précédent est celle définie à l'article 381 W.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 381 U, 381 W, 235 ter HC, 235 ter HD
+	  - Code du travail - art. R950-21 (M)
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 #### III : Paiement de l'impôt
@@ -22765,31 +23632,6 @@ visée à l'article 364, sera appliquée aux sommes qui n'auront pas été vers�
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 381 X
-
-A défaut d'exécution spontanée des versements prévus à l'article 381 U, il est fait application par les agents commissionnés
-chargés du contrôle de la participation des employeurs  de la procédure décrite à l'article 163 quindecies de l'annexe II au
-code général des impôts. Cette procédure est également applicable aux versements indiqués aux articles 235 ter HC et 235 ter
-HD du même code.
-
-La caisse du comptable des impôts compétente pour recevoir les versements résultant de la procédure prévue à l'alinéa
-précédent est celle définie à l'article 381 W.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter HC
-	  - CGI 235 ter HD
-	  - CGIAN2 163 quindecies
-	  - CGIAN3 381 U
-	  - CGIAN3 381 W
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
 
 
 ### ENREGISTREMENT - PUBLICITE FONCIERE.
