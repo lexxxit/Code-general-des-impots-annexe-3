@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-05-16
+Version Consolidée au 1991-05-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2816,9 +2816,10 @@ l'entreprise, répondant à des normes qui seront fixées par arrêté (1).
 
 ###### Article 38 quindecies E
 
-Le locataire d'un fonds de commerce ou d'un établissement artisanal loué dans les conditions prévues au 3° de l'article 1er
-de la loi n° 66-445 du 2 juillet 1966 doit joindre une attestation délivrée par l'entreprise bailleresse à la déclaration de
-résultat de l'exercice au cours duquel le contrat de crédit-bail a été conclu.
+Le locataire d'un fonds de commerce, d'un fonds artisanal ou de l'un de leurs éléments incorporels non amortissables loué
+dans les conditions prévues au 3° de l'article 1er de la loi n° 66-445 du 2 juillet 1966 doit joindre une attestation
+délivrée par l'entreprise bailleresse à la déclaration de résultat de l'exercice au cours duquel le contrat de crédit-bail a
+été conclu.
 
 Cette attestation comporte les renseignements suivants :
 
@@ -2840,13 +2841,10 @@ L'attestation est établie sur papier libre conformément au modèle fixé par l
 
 	  - Loi n°66-455 1966-07-02 art. 1 3°
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-547 du 14 mars 1986 - art. 1 (V) JORF 18 mars 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°91-471 du 14 mai 1991 - art. 1 () JORF 17 mai 1991
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 
 ##### P : Détermination du bénéfice des sociétés admises au régime du forfait.
