@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1982-11-05
+Version Consolidée au 1982-12-30
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -3021,6 +3021,121 @@ En ce qui concerne les entreprises dont le siège est situé hors du territoire 
 
 
 
+##### N : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 54 octies du code général des impôts
+
+###### Article 38 quindecies A
+
+Lorsque les tests de contrôle prévus par l'article 54 du code général des impôts sont réalisés sur le matériel utilisé par
+l'entreprise vérifiée, les dates et les heures d'intervention sont fixées de telle sorte qu'elles soient compatibles avec le
+fonctionnement normal du système informatique de l'entreprise et avec l'exercice du droit de contrôle de l'administration.
+
+Toutefois, l'entreprise peut, si elle le souhaite, demander à fournir aux agents des impôts, avec leur accord, la copie des
+informations et des logiciels utilisés par elle. Les copies sont produites sur un support informatique, fourni par
+l'entreprise, répondant à des normes qui seront fixées par arrêté (1).
+
+(1) Arrêté à émettre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 54
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°90-798 1990-10-09
+
+	**Créé par**:
+
+	  - Décret n°82-1148 du 29 décembre 1982 - art. 1 (Ab) JORF 30 décembre 1982
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
+
+
+###### Article 38 quindecies B
+
+Les tests visés à l'article 38 quindecies A portent sur les informations, données et traitements automatiques de toute nature
+dès lors que ces informations, données ou traitements concourent directement ou indirectement à la formation des résultats
+comptables et fiscaux de la période vérifiée ou à la confection des documents ou des déclarations rendus obligatoires par le
+code général des impôts. Ces informations sont couvertes par le secret fiscal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 quindecies A
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°90-798 1990-10-09
+
+	**Créé par**:
+
+	  - Décret n°82-1148 du 29 décembre 1982 - art. 2 (V) JORF 30 décembre 1982
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
+
+
+###### Article 38 quindecies C
+
+Les tests et les travaux de copie visés à l'article 38 quindecies A sont mis en oeuvre par le personnel habilité de
+l'entreprise ou par le conseil qu'elle aura désigné, sous le contrôle des agents des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 quindecies A
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°90-798 1990-10-09
+
+	**Créé par**:
+
+	  - Décret n°82-1148 du 29 décembre 1982 - art. 3 (V) JORF 30 décembre 1982
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+	  - PEREMPTION: Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989, article sans objet
+
+
+###### Article 38 quindecies D
+
+Lorsque l'entreprise a recours, pour tout ou partie de ses traitements automatiques, aux services d'un façonnier ou d'un
+prestataire, elle est tenue de mettre les agents des impôts en mesure d'effectuer chez le façonnier ou le prestataire les
+tests qu'ils estiment nécessaires à l'exercice du droit de vérification. Ces tests sont effectués dans les conditions
+définies à l'article 38 quindecies A, y compris pour ce qui concerne la possibilité pour le prestataire ou le façonnier de
+fournir les copies des informations et des logiciels.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 quindecies A
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+	  - Décret n°90-798 1990-10-09
+
+	**Créé par**:
+
+	  - Décret n°82-1148 du 29 décembre 1982 - art. 4 (V) JORF 30 décembre 1982
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°90-798 du 10 septembre 1990 - art. 4 () JORF 11 septembre 1990
+
+
 ##### P : Détermination du bénéfice des sociétés admises au régime du forfait.
 
 ###### Article 38 sexdecies
@@ -3365,6 +3480,69 @@ d'hospitalisation, de soins, de cure et de prévention relevant du ministère de
 
 
 ##### VII : Bénéfices des professions non commerciales
+
+##### A : Taxation des gains nets en capital
+
+##### 1° : Fonds communs de placement.
+
+###### Article 39 ter
+
+Le gérant du fonds commun de placement ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant, adresse,
+avant le 1er février de chaque année, à la direction des services fiscaux désignée au premier alinéa de l'article 41
+sexdecies A un document faisant apparaître :
+
+1° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
+période pendant laquelle la limite de 10 % a été dépassée, l'identité et le domicile fiscal de l'intéressé mentionnés à
+l'article 41 sexdecies B ainsi que le nombre de parts qu'il détient ; 
+
+2° (Devenu sans objet)
+
+3° Le montant global des rachats de parts effectués au profit de chaque propriétaire au cours de l'année précédente,
+lorsqu'il excède 10.000 F ; 
+
+4° Dans la même limite que celle fixée au 3°, la valeur globale des apports en nature de valeurs mobilières effectués par
+chaque propriétaire de parts ; 
+
+5° En cas de dissolution du fonds : 
+
+La date de la dissolution ;
+
+L'identité et l'adresse de chaque propriétaire de parts mentionné à l'article 41 sexdecies B ; 
+
+Le nombre de parts dont il disposait et leur valeur pondérée d'acquisition ; 
+
+le montant des attributions en espèces ou en nature autres que celles présentant le caractère de revenus de capitaux
+mobiliers revenant à la suite de la liquidation.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 41 duovicies E
+
+	**Cite**:
+
+	  - CGIAN3 41 sexdecies A
+	  - CGIAN3 41 sexdecies B
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°2001-435 2001-05-21
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982
+
+	**Transféré par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 31 mars 2001
+
 
 ##### C : Déclarations spéciales
 
@@ -6607,6 +6785,34 @@ détermination du montant de la taxe sur la valeur ajoutée et des taxes assimil
 
 	  - HISTO: Edition du 31 mars 1999
 	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+
+###### Article 111 quinquies
+
+Les chiffres d'affaires annuels prévus pour l'application du régime d'imposition forfaitaire de bénéfice et de chiffre
+d'affaires sont déterminés en tenant compte de l'ensemble des opérations, y compris celles exonérées ou placées en dehors du
+champ d'application de la taxe sur la valeur ajoutée et des taxes assimilées, réalisées dans tous les établissements de
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 1 I
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982
 
 
 ###### Article 111 septies
@@ -17037,6 +17243,31 @@ représentant les droits à percevoir.
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 405 F
+
+Lorsqu'elle est manuscrite, l'oblitération s'effectue par l'apposition à l'encre indélébile, en travers de chaque timbre  de
+la date de l'oblitération et de la signature de l'un quelconque des redevables ou de l'autorité administrative.
+
+Cette oblitération manuscrite peut  tre remplacée par l'apposition à l'encre grasse :
+
+soit d'un cachet faisant connaître le nom ou la raison sociale du contribuable et la date de l'oblitération ;
+
+soit du cachet réglementaire à date de l'autorité ou du fonctionnaire compétent.
+
+Dans tous les cas, l'oblitération est faite de telle manière qu'elle figure partie sur le timbre mobile et partie sur le
+papier ou le document passible du droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 8 (P) JORF 30 décembre 1982
+
+
 ##### D : Paiement au moyen du visa pour timbre
 
 ###### Article 405 G
@@ -18076,30 +18307,6 @@ Les dispositions prévues au troisième alinéa de l'article 404 A sont applicab
 
 
 ### DROITS DE TIMBRE.
-
-###### Article 405 F
-
-Lorsqu'elle est manuscrite  l'oblitération s'effectue par l'apposition à l'encre indélébile  en travers de chaque timbre  de
-la date de l'oblitération et de la signature de l'un quelconque des redevables ou de l'autorité administrative.
-
-Cette oblitération manuscrite peut  tre remplacée par l'apposition à l'encre grasse :
-
-soit d'un cachet faisant connaître le nom ou la raison sociale du contribuable et la date de l'oblitération;
-
-soit du cachet réglementaire à date de l'autorité ou du fonctionnaire compétent.
-
-Dans tous les cas  l'oblitération est faite de telle manière  qu'elle figure partie sur le timbre mobile et partie sur le
-papier ou le document passible du droit.
-
-Pour les affiches  l'oblitération peut aussi être constituée par l'inscription sur les timbres d'une ou de plusieurs lignes
-du texte.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 406 ter
 
