@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1993-01-20
+Version Consolidée au 1993-02-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21422,6 +21422,31 @@ octobre 1955 ; à défaut du même versement les états et certificats établis 
 
 ##### 2 : Salaires fixes
 
+###### Article 286
+
+Il est alloué un salaire fixe de 50 F pour tout bordereau rectificatif ou tout complément de bordereau déposé en application
+du 3 de l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
+
+	**Cité par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°92-1324 du 15 décembre 1992 - art. 1 (V) JORF 19 décembre 1992 en vigueur le 1er février 1993
+	  - Décret n°92-1324 du 15 décembre 1992 - art. 2 (V) JORF 19 décembre 1992 en vigueur le 1er février 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
 ###### Article 291
 
 Le tarif des salaires exigibles pour la délivrance des extraits prévus par le 2 de l'article 40, le III de l'article 42-1 et
@@ -21606,6 +21631,29 @@ Pour l'application du présent article  le salaire minimal représente la moiti�
 	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
+##### 4 : Minimum de perception
+
+###### Article 298
+
+Le salaire ne peut être inférieur à :
+
+a. 50 F par inscription mentionnée à l'article 293 ou par déclaration mentionnée à l'article 294 ;
+
+b. 100 F par radiation mentionnée à l'article 295 ou par acte pour les publications visées à l'article 296.
+
+Ce dernier salaire est également exigible lorsque les publications ne donnent pas ouverture au salaire proportionnel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 293, 294, 295, 296
+
+	**Modifié par**:
+
+	  - Décret n°92-1324 du 15 décembre 1992 - art. 1 (V) JORF 19 décembre 1992 en vigueur le 1er février 1993
+
+
 ##### 5 : Délivrance de renseignements urgents
 
 ###### Article 299
@@ -21645,33 +21693,9 @@ publication du décret au JORF.
 
 ##### 2 : Salaires fixes.
 
-###### Article 286
-
-Il est alloué un salaire fixe de 25 F pour tout bordereau rectificatif ou tout complément de bordereau déposé en application
-du 3 de l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-1350 1955-10-14 art. 34 3
-
-	**Cité par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Décret n°85-842 du 5 août 1985 - art. 1 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
-
-
 ###### Article 287
 
-Il est alloué un salaire fixe de 50 F :
+Il est alloué un salaire fixe de 100 F :
 
 Pour chaque publication ne donnant pas ouverture au salaire proportionnel, notamment :
 
@@ -21697,8 +21721,10 @@ procédure civile) ;
 9° Pour la publication de chaque état descriptif de division et de chaque acte modificatif d'état descriptif de division ;
 
 10° Pour la publication de chaque convention passée en application de l'article L. 351-2 du code de la construction et de
-l'habitation ;    11° Pour la publication des actes constatant la modification de la forme juridique de personnes morales,
-lorsque cette modification n'emporte pas création d'un être moral nouveau ;
+l'habitation ;
+
+11° Pour la publication des actes constatant la modification de la forme juridique de personnes morales, lorsque cette
+modification n'emporte pas création d'un être moral nouveau ;
 
 12° Pour la publication des demandes en justice mentionnées à l'article 28-4°-c du décret du 4 janvier 1955 ainsi que des
 demandes en justice, procès-verbaux et déclarations visées au 2 de l'article 37 du même décret ;
@@ -21717,7 +21743,8 @@ susvisé du 4 janvier 1955.
 
 	**Modifié par**:
 
-	  - Décret n°85-842 du 5 août 1985 - art. 2 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+	  - Décret n°92-1324 du 15 décembre 1992 - art. 1 (V) JORF 19 décembre 1992 en application le 1er février 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article 288
@@ -21839,30 +21866,6 @@ F, le complément sera réclamé au requérant.
 	**Codifié par**:
 
 	  - Décret n°91-883 1991-09-09
-
-
-##### 4 : Minimum de perception.
-
-###### Article 298
-
-Le salaire ne peut être inférieur à :
-
-1° - 25 F par inscription mentionnée à l'article 293 ou par déclaration mentionnée à l'article 294 ;
-
-2° - 50 F par radiation mentionnée à l'article 295 ou par acte pour les publications visées à l'article 296.
-
-Ce dernier salaire est également exigible lorsque les publications ne donnent pas ouverture au salaire proportionnel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 288, 289, 290, 291, 292, 293, 294, 295, 296
-	  - Décret n°55-1350 1955-10-14 ART. 42 1 III
-
-	**Modifié par**:
-
-	  - Décret n°85-842 du 5 août 1985 - art. 9 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
 
 
 #### Chapitre II : Droits de timbre
