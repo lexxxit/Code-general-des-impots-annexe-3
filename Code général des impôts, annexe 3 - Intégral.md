@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-03-02
+Version Consolidée au 1988-03-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -23144,6 +23144,31 @@ le comptable du Trésor de remettre à l'intéressé une quittance détachée d'
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 363
+
+La société  qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur aux cotisations
+dont elle sera finalement redevable pour cet exercice  peut se dispenser d'effectuer de nouveaux versements d'acomptes en
+remettant au comptable du Trésor chargé du recouvrement des impôts directs avant la date de majoration, fixée à l'article
+364, du prochain versement à effectuer une déclaration datée et signée.
+
+Si  par la suite  cette déclaration est reconnue inexacte de plus du dixième la majoration de 10 % [*sanction, pénalité*],
+visée à l'article 364, sera appliquée aux sommes qui n'auront pas été versées aux échéances prévues.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 364
+
+	**Modifié par**:
+
+	  - Décret n°88-287 du 24 mars 1988 - art. 1 (V) JORF 30 mars 1988
+
+	**Abrogé par**:
+
+	  - Décret n°92-119 du 5 février 1992 - art. 3 () JORF 7 février 1992
+
+
 ###### Article 364
 
 1. Si l'un des acomptes prévus à l'article 360 n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il
@@ -26036,26 +26061,5 @@ Le montant des acomptes est arrondi au franc inférieur.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YO (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (V)
-
-
-###### Article 363
-
-La société  qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur aux cotisations
-dont elle sera finalement redevable pour cet exercice  peut se dispenser d'effectuer de nouveaux versements d'acomptes en
-remettant au comptable du Trésor chargé du recouvrement des impôts directs  quinze jours avant la date d'exigibilité du
-prochain versement à effectuer une déclaration datée et signée.
-
-Si  par la suite  cette déclaration est reconnue inexacte de plus du dixième la majoration de 10 % [*sanction, pénalité*],
-visée à l'article 364, sera appliquée aux sommes qui n'auront pas été versées aux échéances prévues.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 364
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
