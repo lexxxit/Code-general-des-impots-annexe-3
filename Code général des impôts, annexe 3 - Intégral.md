@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1977-12-30
+Version Consolidée au 1977-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -123,9 +123,71 @@ en conséquence de tels écrits;
 	  - Décret n°81-866 1981-09-15
 
 
+##### Section II : Les tarifs et leur application
+
+##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles
+
+##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin
+
+###### Article 267
+
+I. Sauf en ce qui concerne les baux et autres actes visés à l'article 28 1° b du décret n° 55-22 du 4 janvier 1955, les
+mutations entre vifs à titre gratuit [*donations*] et les acquisitions immobilières qui donnent lieu au paiement de la taxe
+sur la valeur ajoutée [*TVA*], les droits dûs en application de l'article 250 sont perçus aux taux et selon les modalités
+prévus au chapitre 1er section II [*art. 677 à art. 848*] , et au chapitre IV [*art. 1020 à art. 1134*] du titre IV de la
+première partie du livre Ier du code général des impôts ainsi qu'aux articles 1584, 1595 et 1595 bis dudit code.
+
+II. (Devenu sans objet).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1584, 1595, 1595 bis, 250
+	  - Décret n°55-22 1955-01-04 art. 28
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°77-1468 du 30 décembre 1977 - art. 1 (V) JORF 31 décembre 1977
+
+
 # Livre II : Recouvrement de l'impôt
 
 ## Chapitre premier : Paiement de l'impôt
+
+### Section I : Impôts directs et taxes assimilées
+
+#### II : Exigibilité de l'impôt
+
+##### 3 : Impôt sur les sociétés
+
+###### Article 361
+
+En ce qui concerne les sociétés nouvelles chaque acompte est égal au quart de l'impôt calculé sur le produit évalué à 5 % du
+capital social appelé.
+
+Pour les sociétés en commandite simple et les sociétés en participation passibles de l'impôt sur les sociétés en vertu de
+l'article 206 4 du code général des impôts, les acomptes sont calculés en fonction de la part de bénéfices correspondant soit
+aux droits des commanditaires soit à ceux des associés dont les noms et adresses n'ont pas été indiqués à l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 206 4
+
+	**Modifié par**:
+
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 73 (P) JORF 31 décembre 1977
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
 
 ### Section III : Enregistrement, publicité foncière, timbre
 
@@ -195,32 +257,5 @@ n'auraient pas versées.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1988
-
-
-# RECOUVREMENT DE L'IMPOT
-
-## PAIEMENT DE L'IMPOT
-
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.
-
-###### Article 361
-
-En ce qui concerne les sociétés nouvelles [*création d'entreprises*] chaque acompte est égal [*montant*] au quart de l'impôt
-calculé sur le produit évalué à 5 % du capital social appelé.
-
-Pour les sociétés en commandite simple  sociétés en participation et sociétés de copropriétaires de navires passibles de
-l'impôt sur les sociétés en vertu de l'article 206-4 du code général des impôts les acomptes sont calculés en fonction de la
-part de bénéfices correspondant soit aux droits des commanditaires  soit à ceux des associés ou copropriétaires dont les noms
-et adresses n'ont pas été indiqués à l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 206 4
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
