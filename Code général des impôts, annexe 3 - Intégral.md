@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1993-03-28
+Version Consolidée au 1993-07-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -29839,31 +29839,21 @@ l'article 868 du même code  dans les conditions fixées par l'article 1722 bis 
 
 ###### Article 397 A
 
-I. Le paiement des droits de succession peut être différé pendant cinq ans à compter de la date d'exigibilité des droits et,
-à l'expiration de ce délai, fractionné pendant dix ans lorsque les mutations portent :
+Le paiement des droits de mutation à titre gratuit peut être différé pendant cinq ans à compter de la date d'exigibilité des
+droits et, à l'expiration de ce délai, fractionné pendant dix ans lorsque les mutations portent :
 
-a. Sur l'ensemble des biens meubles et immeubles, corporels ou incorporels affectés à l'exploitation d'une entreprise
-individuelle ayant une activité industrielle, commerciale, artisanale, agricole ou libérale et exploitée par le défunt ;
+a) Sur l'ensemble des biens meubles et immeubles, corporels ou incorporels affectés à l'exploitation d'une entreprise
+individuelle ayant une activité industrielle, commerciale, artisanale, agricole ou libérale et exploitée par le donateur ou
+le défunt ;
 
-b. Sur les parts sociales ou les actions d'une société ayant une activité industrielle, commerciale, artisanale, agricole ou
-libérale, non cotée en Bourse, à condition que le bénéficiaire reçoive au moins 5 % du capital social.
-
-II. Les règles de paiement prévues au I s'appliquent également aux droits de mutation dus sur les donations entre vifs
-lorsqu'elles portent sur la pleine propriété des biens visés au I et que l'entreprise est exploitée par le donateur.
+b) Sur les parts sociales ou les actions d'une société ayant une activité industrielle, commerciale, artisanale, agricole ou
+libérale, non cotée en bourse, à condition que le bénéficiaire reçoive au moins 5% du capital social.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°85-356 du 23 mars 1985 - art. 1 (V)
-
-	**Créé par**:
-
-	  - Décret n°85-356 du 23 mars 1985 - art. 1 (V) JORF 24 mars 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°93-877 du 25 juin 1993 - art. 1 () JORF 3 juillet 1993
 
 	**Cité par**:
 
@@ -29871,29 +29861,28 @@ lorsqu'elles portent sur la pleine propriété des biens visés au I et que l'en
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GB (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GD (V)
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1995-02-06 7A-1-95
+
 
 ##### 2 : Dispositions générales
 
 ###### Article 398
 
-Le crédit de paiement fractionné ou différé des impositions exigibles en raison des opérations mentionnées aux articles 396
-et 397 porte sur le principal des droits à l'exclusion des indemnités de retard qui peuvent être encourues ainsi que de tous
-droits et pénalités susceptibles d'être réclamés du fait d'insuffisances ou d'omissions.
-
-Il ne peut être accordé si le paiement des droits est effectué par remise des titres de l'emprunt 4,5 % 1973 à capital
-garanti émis en exécution du décret no 73-967 du 16 octobre 1973.
+Le crédit de paiement fractionné ou différé des impositions exigibles en raison des opérations mentionnées aux articles
+396,397 et 397 A porte sur le principal des droits à l'exclusion des indemnités de retard qui peuvent être encourues ainsi
+que de tous droits et pénalités susceptibles d'être réclamés du fait d'insuffisances ou d'omissions.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-877 du 25 juin 1993 - art. 2 () JORF 3 juillet 1993
+
 	**Cite**:
 
-	  - CGIAN3 396
-	  - CGIAN3 397
-	  - Décret n°73-967 1973-10-16
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
 
 
 ###### Article 399
