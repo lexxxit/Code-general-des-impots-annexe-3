@@ -5,12 +5,12 @@ fraction acquise avant le 1er janvier de la première année au titre de laquell
 du forfait.
 
 L'exonération prévue au premier alinéa est subordonnée à la condition que l'activité ait été exercée à titre principal
-pendant au moins cinq ans et que le bien cédé n'entre pas dans le champ d'application de l'article 691 du code général des
-impôts. A défaut, les dispositions des articles 150 A à 150 S du même code sont applicables.
+pendant au moins cinq ans et que le bien cédé n'entre pas dans le champ d'application du A de l'article 1594-0 G du code
+général des impôts. A défaut, les dispositions des articles 150 A à 150 S du même code sont applicables.
 
 Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du II de l'article L. 13-15 du code de
-l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application de
-l'article 691 du code général des impôts.
+l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du A
+de l'article 1594-0 G du code général des impôts.
 
 2. Si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition, dans le patrimoine privé du
 contribuable, il est fait application de l'article 151 septies du code général des impôts.
@@ -19,13 +19,17 @@ contribuable, il est fait application de l'article 151 septies du code général
 
 	**Cite**:
 
-	  - CGI 691, 150 A à 150 S, 151 septies
+	  - CGI 150 A à 150 S, 151 septies, 1594-0 G
 	  - Code de l'expropriation L13-15
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
 
 	**Modifié par**:
 
-	  - Décret n°91-820 du 23 août 1991 - art. 1 (VT) JORF 29 août 1991
+	  - Décret n°99-382 1999-05-18 art. 39 I 23 Finances pour 1999 JORF 31 décembre 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 31 mars 1999

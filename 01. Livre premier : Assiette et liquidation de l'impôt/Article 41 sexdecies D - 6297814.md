@@ -28,7 +28,7 @@ siège social hors de France et étaient placés hors du champ d'application d'u
 sur les revenus ; ce montant est éventuellement ventilé comme il est dit au 3° ; 
 
 5° Le montant des avoirs fiscaux attachés aux dividendes de sociétés françaises dont l'utilisation n'est pas admise en vertu
-de la limitation prévue aux articles 158 bis, troisième alinéa et 209 bis du code général des impôts ; 
+de la limitation prévue au troisième alinéa du I de l'article 158 bis et à l'article 209 bis du code général des impôts ; 
 
 6° La fraction des avoirs fiscaux et crédits d'impôt attachés aux produits encaissés par le fonds commun au cours de
 l'exercice, qui n'a pu être transférée aux propriétaires de parts pour tout autre motif que celui mentionné au 5°. 
@@ -55,18 +55,18 @@ ou valeurs réparties.
 	  - CGI 209 bis
 	  - Loi n°79-594 1979-07-13 ART. 21 AL. 3
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°81-89 du 29 janvier 1981 - art. 3 (V) JORF 4 FEVRIER 1981
+	  - HISTO: Edition du 31 mars 1999
+
+	**Modifié par**:
+
+	  - Loi - art. 41 (V) JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°99-382 1999-05-18
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies E (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981

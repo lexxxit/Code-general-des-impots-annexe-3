@@ -2,19 +2,17 @@
 
 La redevance sanitaire de découpage n'est pas due pour les viandes en carcasse de toutes espèces, les viandes en carcasse,
 demi-carcasse ou demi-carcasse découpée en un maximum de trois morceaux de gros ou de quartiers des espèces bovine, ovine,
-caprine, porcine et des espèces chevaline, asine ou leurs croisements qui sont exportées ou expédiées vers les Etats membres
-de la Communauté européenne.
+caprine, porcine et des espèces chevaline, asine ((ou leurs croisements ainsi que pour les gibiers ongulés d'élevage)) (M)
+qui sont exportées ou expédiées vers les Etats membres de la Communauté européenne.
+
+(M) Modification
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+	  - Décret n°98-334 du 29 avril 1998 - art. 2 () JORF 7 mai 1998
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - HISTO: Edition du 31 mars 1999

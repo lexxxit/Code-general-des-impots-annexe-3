@@ -1,7 +1,8 @@
 # Article 111 quater LA
 
-I.  Pour les animaux des espèces bovine, ovine, caprine et pour ceux des espèces chevaline, asine et leurs croisements, le
-poids de viande net est celui des quatre quartiers de l'animal abattu, saigné, dépouillé et éviscéré, défalcation faite :
+I.  Pour les animaux des espèces bovine, ovine, caprine et pour ceux des espèces chevaline, asine ((et leurs croisements
+ainsi que pour les gibiers ongulés d'élevage)) (M), le poids de viande net est celui des quatre quartiers de l'animal abattu,
+saigné, dépouillé et éviscéré, défalcation faite :
 
 a) De la tête qui doit être enlevée par section au niveau de l'articulation de l'occiput et de la première vertèbre
 cervicale, la section étant effectuée suivant un plan perpendiculaire au grand axe des vertèbres cervicales ;
@@ -17,24 +18,28 @@ d) Des organes génitaux et mammaires ;
 e) Pour les gros bovins, du parage des gouttières jugulaires dans la limite d'un kilogramme par animal et des graisses
 externes des régions dorsales et latérales sans que cette élimination puisse mettre à nu le tissu musculaire.
 
-II. Pour les animaux de l'espèce porcine, le poids de viande net est celui de l'animal abattu, saigné et éviscéré en carcasse
-entière ou divisée par le milieu, sans la langue, les soies, les sabots et les organes génitaux.
+II. ((Pour les animaux de l'espèce porcine, le poids de viande net est celui de l'animal abattu, saigné et éviscéré en
+carcasse entière ou divisée par le milieu, y compris la tête et les pieds, sans les soies, les sabots, les organes génitaux,
+la langue, la panne, les rognons et le diaphragme.
 
-La tête et les pieds sont compris dans le poids de viande net même s'ils ont été détachés de la carcasse avant la pesée.
+((Toutefois, les carcasses de porc peuvent être présentées à la pesée avec la langue. Dans ce cas, le poids de viande net
+constaté à chaud donne lieu à un abattement de 0,5 % qui s'ajoute à celui prévu au V ci-après)) (M).
 
-III. Les volailles s'entendent des coqs, poules, poulets, canards, oies, dindes et pintades.
+III. ((Les volailles s'entendent des coqs, poules, poulets, canards, oies, dindes et pintades, ainsi que des autres oiseaux
+élevés et abattus comme des animaux domestiques.
 
-Le poids de viande net à retenir est celui de la carcasse découpée ou non.
+((Pour les volailles, les lapins domestiques et les gibiers d'élevage autres qu'ongulés, le poids de viande net à retenir est
+celui de la carcasse découpée ou non)) (M).
 
 IV. Toute partie de l'animal attenant à la carcasse au moment de la pesée est incluse dans le poids de viande net.
 
-V. Pour les animaux autres que les volailles, la pesée doit être effectuée dans l'heure qui suit l'étourdissement de
-l'animal. Le poids de viande net constaté donne lieu à un abattement de 2,5 p. 100 pour les viandes provenant des animaux de
-l'espèce porcine et de 2 p. 100 pour celles provenant des animaux des espèces bovine, ovine et caprine et des espèces
-chevaline, asine et leurs croisements.
+V. ((Pour les animaux de boucherie et de charcuterie)) (M), la pesée doit être effectuée dans l'heure qui suit
+l'étourdissement de l'animal. Le poids de viande net constaté donne lieu à un abattement de 2,5 p. 100 pour les viandes
+provenant des animaux de l'espèce porcine et de 2 p. 100 pour celles provenant des animaux des espèces bovine, ovine et
+caprine et des espèces chevaline, asine et leurs croisements.
 
-Pour les volailles, la pesée doit être effectuée dans les vingt-quatre heures qui suivent l'abattage pour chacun des lots de
-volailles abattues par un même propriétaire ou pour son compte.
+((Pour les volailles, les lapins domestiques et le gibier d'élevage, la pesée doit être effectuée dans les vingt-quatre
+heures qui suivent l'abattage, pour chacun des lots d'animaux abattus par un même propriétaire ou pour son compte)) (M).
 
 Les quantités de viandes nettes reportées sur la déclaration mentionnée à l'article 111 quater G sont arrondies au kilogramme
 le plus voisin. Elles donnent lieu aux abattements ci-après, également arrondis :
@@ -45,19 +50,17 @@ et des pieds pesés avec la carcasse ;
 De 5 p. 100 du poids de viande net pour les volailles lorsque le foie et le gésier ont été détachés de la carcasse, mais
 pesés et emballés avec celle-ci.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 111 quater G
+	  - CGIAN3 111 quater G
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-520 du 24 juin 1994 - art. 4 () JORF 25 juin 1994
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°98-334 du 29 avril 1998 - art. 2 () JORF 7 mai 1998
 
 	**Cité par**:
 
@@ -66,4 +69,4 @@ pesés et emballés avec celle-ci.
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 31 mars 1999
