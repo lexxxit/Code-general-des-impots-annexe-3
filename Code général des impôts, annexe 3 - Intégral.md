@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2001-04-10
+Version Consolidée au 2001-05-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6086,9 +6086,13 @@ f) Le cas échéant, la date du décès ;
 	  - CGI 88, 158, 204, 182 A
 	  - Livre des procédures fiscales R81 A-1
 
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-04-21
+
 	**Modifié par**:
 
-	  - Décret n°2000-339 du 17 avril 2000 - art. 2 () JORF 19 avril 2000
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 
 ###### Article 39 B
@@ -31407,38 +31411,6 @@ jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle
 	**Abrogé par**:
 
 	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
-
-
-##### 3 ter : Contribution temporaire sur l'impôt sur les sociétés.
-
-###### Article 366 L
-
-Les versements anticipés prévus au I de l'article 1668 D du code général des impôts sont calculés et versés dans les
-conditions fixées au premier alinéa de l'article 360.
-
-Chaque versement anticipé est égal à 0,825 % du montant de l'impôt sur les sociétés calculé sur les résultats imposables aux
-taux mentionnés au I de l'article 219 du code général des impôts du plus récent exercice clos ou de la dernière période
-d'imposition arrêtée à la date de son échéance et diminué du montant de l'abattement défini au premier alinéa du I de
-l'article 235 ter ZC du code précité. Lorsque cet exercice ou cette période d'imposition est supérieur ou inférieur à douze
-mois, l'impôt de référence ainsi calculé est, en tant que de besoin, rapporté à une période de douze mois.
-
-Le versement anticipé dont l'échéance est comprise entre la date de clôture d'un exercice ou la fin d'une période
-d'imposition et l'expiration du délai de déclaration fixé au deuxième alinéa du 1 de l'article 223 du code général des impôts
-est calculé et régularisé, au taux de 0,825 %, dans les conditions fixées au quatrième alinéa de l'article 360.
-
-Sont dispensées des versements anticipés les sociétés pour lesquelles le montant de la contribution sociale calculée sur
-l'impôt sur les sociétés de référence n'excède pas 1 000 F.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1668 D, 235 ter ZC, 219, 223
-	  - CGIAN3 360
-
-	**Créé par**:
-
-	  - Décret n°2000-498 du 6 juin 2000 - art. 1 () JORF 8 juin 2000
 
 
 ##### 3 quater : Contribution sociale sur l'impôt sur les sociétés
