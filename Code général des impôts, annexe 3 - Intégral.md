@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-07-20
+Version Consolidée au 1984-07-24
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -618,57 +618,6 @@ La taxe est perçue au taux de 12 F pour les ressortissants des parties contract
 
 ## DISPOSITIONS COMMUNES AUX PREMIERE ET DEUXIEME PARTIES *IMPOTS D'ETAT, IMPOTS DIRECTS, TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES, CONTRIBUTIONS INDIRECTES ET MONOPOLES FISCAUX, IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES ET DE DIVERS ORGANISMES*
 
-### ASSIETTE ET CONTROLE DE L'IMPOT
-
-#### PROCEDURE DE REGLEMENT PARTICULIERE
-
-###### Article 344 J
-
-1° Pour l'application des dispositions de l'article L. 62 du livre des procédures fiscales relatif aux conditions
-d'application de la procédure de règlement particulière, le versement des rappels de droits simples et des intérêts de retard
-visés au premier alinéa dudit article s'effectue sur présentation d'une fiche de paiement préalablement annotée par l'agent
-chargé de la vérification des mentions relatives au comptable compétent à l'identité du débiteur des impôts taxes et intérêts
-de retard et au montant de la dette fiscale;
-
-2° Le versement des droits simples et intérêts de retard est constaté par la délivrance d'un certificat de paiement  qui
-mentionne obligatoirement :
-
-La date et le montant du versement;
-
-La répartition du versement effectué pour chacun des impôts ou taxes et pour chacun des exercices vérifiés en faisant
-apparaître distinctement le montant des droits simples  d'une part  celui des intérêts de retard  d'autre part;
-
-L'adresse du service vérificateur auquel le certificat de paiement doit être présenté;
-
-Le cachet et la signature du ou des comptables compétents;
-
-3° (Abrogé);
-
-4° Les droits simples et intérêts de retard afférents aux impôts directs perçus par voie de règlement simplifié font l'objet
-d'une ordonnance de régularisation délivrée par le directeur des services fiscaux. Le comptable du Trésor chargé du
-recouvrement en opère l'exécution par l'imputation des versements anticipés  objet des certificats de paiement visés au 2°.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L62
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Transféré par**:
-
-	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 juillet 1984
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales R62-1 (1° du CGIAN3 344 J)
-	  - Livre des procédures fiscales R62-2 (2° du CGIAN3 344 J)
-	  - Livre des procédures fiscales R62-3 (3° du CGIAN3 344 J)
-
-
 ### DISPOSITIONS DIVERSES
 
 #### COMMISSIONS ADMINISTRATIVES DES IMPOTS.
@@ -759,34 +708,6 @@ président  sont présents [*quorum*].
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 348 A
-
-1. En matière de bénéfices agricoles forfaitaires  la copie du procès-verbal des travaux de la commission départementale est
-donnée par lettre recommandée avec avis de réception à tous les membres de la commission ayant assisté aux délibérations de
-cet organisme.
-
-Ceux-ci disposent d'un délai de cinq jours pour fournir leurs observations  qui sont annexées au procès-verbal.
-
-2. Le directeur des services agricoles appelé à se faire entendre par la commission départementale conformément à l'article
-R. 1-2 du livre des procédures fiscales peut se faire représenter par un fonctionnaire de son service devant cette
-commission.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R*1-2
-	  - CGI R1-3
-
-	**Cite**:
-
-	  - CGI R1-2
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ###### Article 349
 
 Dans les départements où il existe plusieurs directions des services fiscaux  les représentants de l'administration appelés à
@@ -831,22 +752,6 @@ par le commissaire de la République.
 	**Codifié par**:
 
 	  - Décret n°84-875 1984-10-01
-
-
-###### Article 350 B
-
-La commission peut entendre toutes les personnes qu'elle croit pouvoir l'éclairer. Elle a la possibilité de se transporter
-sur les lieux ou de déléguer à cet effet un de ses membres.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGI R59 B-2
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 # Livre premier : Assiette et liquidation de l'impôt
