@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-08-09
+Version Consolidée au 1985-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9195,6 +9195,35 @@ modalités d'application sont précisées par les articles suivants.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 143 A (V)
 
 
+###### Article 143 A 2
+
+Outre les mesures permanentes prévues par les articles 4 et 5 de la loi n° 64-678 du 6 juillet 1964, l'accord
+interprofessionnel à long terme détermine notamment :
+
+a. Le prix moyen proposé comme objectif pour les fruits de qualité courante destinés aux produits cidricoles alimentaires ;
+
+b. Les modalités d'établissement du prix de campagne des fruits, des moûts, des jus, des cidres et des poirés ;
+
+c. Les conditions de livraison et de transport ;
+
+d. L'assiette des cotisations professionnelles.
+
+**Nota:**
+
+(Les références à la loi n° 64-678 du 6 juillet 1964, art. 4 et 5 sont remplacées par les références aux articles L631-7 et
+L631-8 du Code rural, voir la Loi n° 98-565 du 8 juillet 1998 art. 2 JORF 9 juillet 1998].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985 en vigueur le 1er septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 ###### Article 143 A 3
 
 Outre les stipulations prévues par l'article 9, premier alinéa, de la loi n° 64-678 du 6 juillet 1964, la convention de
@@ -9230,6 +9259,62 @@ condamnée à un emprisonnement de huit jours au plus.
 
 ##### III : Dispositions diverses
 
+##### 1° : Construction d'usines nouvelles (1).
+
+###### Article 144 A
+
+Il est institué au ministère de l'agriculture une commission dont la composition est ainsi fixée :
+
+Un conseiller d'Etat honoraire ou en fonctions, président ;
+
+Des représentants des administrations publiques :
+
+Un représentant du secrétariat d'Etat auprès du Premier ministre, chargé des industries agricoles et alimentaires ;
+
+Un représentant du ministère de l'agriculture ;
+
+Deux représentants du ministère du budget ;
+
+Un représentant du ministère de l'économie ;
+
+Un représentant du ministère de l'industrie.
+
+Un représentants du groupement interprofessionnel de la betterave :
+
+Le président de l'association interprofessionnelle des producteurs de betteraves et d'alcool de betterave ;
+
+Des représentants des producteurs et transformateurs de matières premières alcooligènes :
+
+Trois représentants des producteurs de betteraves ;
+
+Un représentant des coopératives de transformation de la betterave ;
+
+Deux représentants des viticulteurs; alcooligènes diverses ;
+
+Un représentant de l'union nationale des groupements de distillateurs d'alcool ;
+
+Deux représentants des distillateurs de betteraves ;
+
+Deux représentants des distillateurs de vins et sous-produits.
+
+(1) Les dispositions des articles 144 A et 144 C deviennent sans objet à compter du 1er septembre 1991.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985 en vigueur le 1er septembre 1985
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°88-79 du 22 janvier 1988 - art. 7 (V) JORF 23 janvier 1988
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
 ##### 2° : Distributeurs et utilisateurs d'alcools d'Etat.
 
 ###### Article 145
@@ -9252,6 +9337,53 @@ Toute personne physique ou morale désirant recevoir ou utiliser des alcools de 
 	**Codifié par**:
 
 	  - Décret n°99-382 1999-05-18
+
+
+###### Article 146
+
+Sont dispensés de se placer sous le régime de l'entrepôt :
+
+1° Les laboratoires des établissements scientifiques, publics ou privés, utilisant à des travaux de recherches et d'analyses,
+dans la limite d'un contingent annuel fixé par l'administration, sur proposition du département ministériel intéressé, des
+alcools en nature ou dénaturés en franchise du droit de consommation ;
+
+2° Les petits parfumeurs qui, dans la limite d'un contingent annuel fixé par l'administration, reçoivent l'alcool nécessaire
+à la fabrication des produits destinés à leur clientèle avec paiement du droit de fabrication au taux prévu au 1° du II de
+l'article 406 A du code général des impôts ;
+
+3° Les petits industriels, les laboratoires publics ou privés de recherches et d'analyses, les hôpitaux et établissements
+similaires qui, dans la limite d'un contingent annuel fixé par l'administration, reçoivent les alcools à eux nécessaires avec
+paiement du droit de fabrication au taux prévu au 2° du II de l'article 406 A du code général des impôts ;
+
+4° Les médecins, chirurgiens, vétérinaires, sages-femmes, dentistes et pédicures qui, dans la limite d'un contingent annuel
+fixé par l'administration, reçoivent les alcools nécessaires à l'exercice de leur profession avec paiement du droit de
+fabrication au tarif prévu pour les usages pharmaceutiques ;
+
+5° Les pharmaciens et propharmaciens, dans la limite d'un contingent annuel fixé par l'administration ;
+
+6° Les personnes qui, sous réserve des interdictions législatives ou réglementaires en vigueur, mettent en oeuvre uniquement
+des alcools libérés du droit de consommation au taux maximal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 406 A
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 1999
+	  - PEREMPTION: Loi - art. 47 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985 en vigueur le 1er septembre 1985
 
 
 ##### Section II : Vins et cidres
@@ -10426,6 +10558,47 @@ Ces documents doivent être tenus à la disposition des agents des impôts.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 143 Z
+
+Tout négociant, coopérative, établissement industriel ou exportateur achetant ou utilisant des fruits à cidre ou des produits
+cidricoles est tenu d'effectuer au cours de chaque campagne deux déclarations faisant connaître l'une au 1er mars, l'autre au
+31 août [*date*] :
+
+a  Le tonnage des fruits à cidre ou à poiré achetés au cours des différentes périodes de commercialisation de la campagne et
+le montant des sommes versées aux producteurs, aux coopératives et aux négociants de fruits à cidre ou à poiré;
+
+b  La nature et l'importance de ses propres fabrications;
+
+c  Le volume des produits cidricoles achetés à des tiers et le montant total de ces achats par nature de produit;
+
+d  La nature et l'importance des stocks;
+
+e  Le tonnage des pommes et poires achetées ou utilisées par eux et ne provenant pas des départements cidricoles.
+
+Ces déclarations, certifiées conformes aux renseignements figurant dans les documents prévus à l'article 143 G, sont
+adressées en double exemplaire à la recette locale des impôts, la première avant le 15 mars [*date limite*] et la seconde
+avant le 15 septembre de chaque année [*périodicité*] Un de ces exemplaires est adressé, après visa par le service des
+impôts, au comité des fruits à cidre et des productions cidricoles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 143 G
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 19 () JORF 12 juillet 1985 rectificatif JORF 13 juillet 1985 en vigueur le 1er septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 143 H (V)
 
 
 ##### C : Régime fiscal.
