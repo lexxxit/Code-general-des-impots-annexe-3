@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-09-01
+Version Consolidée au 1986-12-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -23140,6 +23140,28 @@ d'équipement, elle doit en informer sans délai le directeur des services fisca
 
 ##### Mise sous séquestre de l'entreprise de l'auteur du délit
 
+###### Article 406 A 12
+
+La mise sous séquestre, totale ou partielle, des biens des personnes à l'encontre desquelles des poursuites sont exercées
+pour des infractions visées au 2 de l'article 1751 du code général des impôts est prononcée dans les conditions fixées par
+cet article à la demande du chef de service départemental de l'administration pour le compte de laquelle sont engagées ces
+poursuites.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 60 () JORF 9 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1751 (V)
+
+
 ###### Article 406 A 13
 
 Les règles fixées par les articles 1 à 5,7 à 9,11 et 12 de l'arrêté validé du 23 novembre 1940 modifié par l'arrêté du 14
@@ -23778,26 +23800,6 @@ du code général des impôts. Cette indemnité est exclusive de l'intérêt pr�
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## PENALITES.
-
-###### Article 406 A 12
-
-La mise sous séquestre  totale ou partielle  des biens des personnes à l'encontre desquelles des poursuites sont exercées
-pour des infractions visées à l'article 1751-1 du code général des impôts est prononcée  dans les conditions fixées par cet
-article  à la demande du chef de service départemental de l'administration pour le compte de laquelle sont engagées ces
-poursuites.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1751 1
 
 	**Liens**:
 
