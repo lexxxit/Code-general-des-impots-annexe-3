@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2003-04-18
+Version Consolidée au 2003-07-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -30153,85 +30153,6 @@ septembre de chaque année.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis (V)
 
 
-##### Section III : Taxe perçue au profit de l'office des migrations internationales.
-
-###### Article 344 bis
-
-Conformément à l'article D 341-1 du code du travail, le montant de la taxe prévue à l'article 1635 bis du code général des
-impôts est perçu lors de la remise d'un titre de séjour valant autorisation de travail ou portant mention de celle-ci à un
-étranger titulaire d'un tel titre et en remplacement de celui-ci.
-
-Les changements de validité professionnelle ou géographique sur la carte de séjour temporaire portant la mention "salarié" ne
-donnent pas lieu à la perception de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635 bis
-	  - Code du travail - art. D341-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°86-810 1986-07-07 art. 1 JORF 9 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
-
-
-###### Article 344 quinquies
-
-La taxe est acquittée au moyen de timbres mobiles d'un modèle spécial, dont l'administration assure la fabrication et la
-vente.
-
-Les dépenses relatives à l'impression  à l'approvisionnement et à la débite de ces timbres sont à la charge de l'office  des
-migrations internationales et sont réglées par un prélèvement sur le produit des ventes.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-	**Modifié par**:
-
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 38 () JORF 28 décembre 1988
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-
-###### Article 344 ter
-
-Le montant de la taxe prévue à l'article 1635 bis du code général des impôts est fixé à 55 euros.
-
-Les ressortissants des Etats parties contractantes à la Charte sociale européenne sont exonérés du versement de cette taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635 bis
-
-	**Modifié par**:
-
-	  - Décret n°2001-890 du 28 septembre 2001 - art. 3 (Ab) JORF 29 septembre 2001 en vigueur le 1er janvier 2002
-
-	**Cité par**:
-
-	  - Code du travail - art. D5221-38 (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-
 ##### Section III : Taxes perçues au profit de l'Office des migrations internationales
 
 ###### Article 344 quater
@@ -31941,6 +31862,24 @@ l'adresse du principal établissement de l'entreprise.
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article 363
+
+Les versements effectués par les sociétés d'investissements immobiliers cotées au titre du quatrième alinéa du 2 de l'article
+1663 sont accompagnés d'un bordereau de versement daté et signé, établi sur papier libre ou par voie électronique, indiquant
+la désignation, l'adresse et le numéro SIRET de la société versante, la nature et le montant du versement, l'échéance à
+laquelle il se rapporte ainsi que la base de calcul.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1663
+
+	**Créé par**:
+
+	  - Décret n°2003-645 2003-07-11 art. 1 C JORF 13 juillet 2003
 
 
 ###### Article 364
