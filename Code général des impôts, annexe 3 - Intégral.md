@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-01-19
+Version Consolidée au 1980-06-25
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -4616,6 +4616,82 @@ Le montant des dépenses communes, ventilées par catégorie, et leur répartiti
 
 	  - Code général des impôts, CGI. - art. 223 (V)
 	  - Code général des impôts, CGI. - art. 239 octies (VT)
+
+
+##### Section 0I ter : Déductions fiscales en faveur de certains investissements réalisés outre-mer.
+
+###### Article 46 quaterdecies B
+
+Les activités qui relèvent du secteur industriel sont celles qui concourent directement à l'élaboration ou à la
+transformation de biens corporels mobiliers. Est assimilée à de telles activités l'extraction des minerais figurant sur une
+liste fixée par arrêté du ministre du budget (1).
+
+(1) Ann. IV 23 L ter
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 23 L ter
+
+	**Créé par**:
+
+	  - Décret n°80-450 du 23 juin 1980 - art. 2 (V) JORF 25 JUIN 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+##### Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer
+
+###### Article 46 quaterdecies C
+
+La valeur des immobilisations à retenir pour le calcul de la déduction est constituée par le prix d'achat ou le prix de
+revient diminué, si l'entreprise est assujettie à la taxe sur la valeur ajoutée, de la taxe déductible conformément aux
+dispositions de l'article 229 de l'annexe II au code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 229
+
+	**Créé par**:
+
+	  - Décret n°80-450 du 23 juin 1980 - art. 3 (V) JORF 25 juin 1980
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quaterdecies D
+
+La déduction est pratiquée par l'entreprise propriétaire. Elle est opérée sur les résultats imposables, déterminés avant tout
+autre déduction ou abattement, de l'exercice au cours duquel l'immobilisation a été livrée à l'entreprise ou créée par elle.
+
+Si l'immobilisation fait l'objet d'un contrat de crédit-bail, la déduction est pratiquée par l'entreprise locataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°80-450 du 23 juin 1980 - art. 4 (V) JORF 25 juin 1980
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur
