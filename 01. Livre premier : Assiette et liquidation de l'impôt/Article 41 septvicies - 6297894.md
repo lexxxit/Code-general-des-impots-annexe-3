@@ -1,25 +1,24 @@
 # Article 41 septvicies
 
 Les contribuables qui entendent bénéficier de la prorogation du report d'imposition dans les conditions prévues au III de
-l'article 92 B du code général des impôts font apparaître distinctement, sur la déclaration spéciale prévue à l'article 97 du
-code précité et souscrite au titre de l'année au cours de laquelle les titres reçus en échange ont été à leur tout échangés,
-le montant des plus-values dont la prorogation du report d'imposition est demandée. Cette déclaration comporte la désignation
-des sociétés concernées ainsi que la nature et la date des opérations d'échange de titres.
+l'article 92 B ((ou au 5 du I ter de l'article 160)) (M) du code général des impôts font apparaître distinctement, sur la
+déclaration spéciale prévue ((selon le cas, aux articles 97 ou 160)) (M) du code précité et souscrite au titre de l'année au
+cours de laquelle les titres reçus en échange ont été à leur tout échangés, le montant des plus-values dont la prorogation du
+report d'imposition est demandée. Cette déclaration comporte la désignation des sociétés concernées ainsi que la nature et la
+date des opérations d'échange de titres.
+
+(M) Modification du décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 92 B, 97
+	  - CGI 92 B, 97, 160
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Créé par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°97-317 du 2 avril 1997 - art. 1 () JORF 9 avril 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 11 avril 1997

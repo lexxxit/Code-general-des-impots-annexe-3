@@ -1,7 +1,7 @@
 # Article 46 AI bis
 
-I.  Lorsqu'un contribuable entend bénéficier de la réduction d'impôt prévue à l'article 199 terdecies-0 A du code général des
-impôts, il informe la société au capital de laquelle il a souscrit, au plus tard le 31 décembre de l'année de la
+I.  Lorsqu'un contribuable entend bénéficier de la réduction d'impôt prévue aux I à V de l'article 199 terdecies-0 A du code
+général des impôts, il informe la société au capital de laquelle il a souscrit, au plus tard le 31 décembre de l'année de la
 souscription.
 
 Dans ce cas, la société lui délivre un état individuel qui mentionne :
@@ -40,14 +40,14 @@ apports en numéraire.
 
 	  - CGI 199 terdecies-0 A
 
-	**Créé par**:
-
-	  - Décret n°94-457 du 31 mai 1994 - art. 1 () JORF 7 juin 1994
-
 	**Codifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°97-661 1997-05-28
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 11 avril 1997
+
+	**Modifié par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 102 (V) JORF 1er juin 1997

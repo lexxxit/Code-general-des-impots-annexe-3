@@ -1,29 +1,26 @@
 # Article 70 sexies
 
 Pour l'application de l'article 260 B du code général des impôts, les activités bancaires ou financières s'entendent des
-activités exercées par les établissements de crédit, les sociétés de bourse, changeurs, escompteurs et remisiers.
+activités exercées par les établissements de crédit, les prestataires de services d'investissement changeurs, escompteurs et
+remisiers. 
 
 Il en est de même des opérations se rattachant aux activités énumérées au premier alinéa et réalisées par des personnes non
 visées à cet alinéa lorsqu'elles constituent l'activité principale de ces personnes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 260 B
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°97-661 1997-05-28
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 70 septies (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 15 juillet 1988
-
-	**Modifié par**:
-
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+	  - Code général des impôts, CGI. - art. 260 B (V)

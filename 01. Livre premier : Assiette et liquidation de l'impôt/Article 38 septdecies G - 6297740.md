@@ -39,7 +39,7 @@ a) 1° La Banque de France ;
 
 3° Les établissements de crédit ;
 
-4° Les sociétés de bourse ;
+4° ((Les prestataires de services d'investissement)) (M) ;
 
 5° Les établissements visés au troisième alinéa du 2 de l'article 18 de la loi n° 84-46 du 24 janvier 1984 relative à
 l'activité et au contrôle des établissements de crédit ;
@@ -69,6 +69,8 @@ souscription ou la cession de leurs parts ou actions ;
 8° Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
 Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -82,12 +84,12 @@ Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - HISTO: Edition du 11 avril 1997
 
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-661 1997-05-28

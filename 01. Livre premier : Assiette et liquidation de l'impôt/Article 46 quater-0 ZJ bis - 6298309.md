@@ -1,10 +1,24 @@
 # Article 46 quater-0 ZJ bis
 
-1. Pour l'application du 5 de l'article 223 I du code général des impôts, la fraction du déficit correspondant à celui des
-sociétés membres du groupe ayant cessé et qui font partie du nouveau groupe est calculée par application à ce déficit du
-rapport existant, pour chaque exercice, entre la somme des déficits pris en compte pour la détermination du résultat
-d'ensemble au titre de ces sociétés et la somme des déficits de même nature pris en compte pour l'ensemble des sociétés du
-groupe.
+1. Pour l'application des dispositions du 5 de l'article 223 I du code général des impôts, la fraction du déficit
+correspondant à celui des sociétés membres du groupe ayant cessé et faisant partie du nouveau groupe et pour lesquelles le
+bénéfice de ces dispositions est demandé est calculée par application au déficit restant à reporter après les réintégrations
+mentionnées aux c, d ou e du 6 de l'article 223 L du code général des impôts, du rapport existant, pour chaque exercice,
+entre la somme des déficits pris en compte pour la détermination du résultat d'ensemble au titre de ces sociétés et la somme
+des déficits de même nature pris en compte pour l'ensemble des sociétés du groupe. Cette fraction ne peut excéder le montant
+dont le transfert a été admis, le cas échéant, dans le cadre d'une décision d'agrément prise en application du II de
+l'article 209 du même code.
+
+Lorsque la cessation du groupe résulte d'une scission, le déficit d'ensemble est, préalablement au calcul effectué au premier
+alinéa, réparti entre les branches apportées en fonction de l'origine de ce déficit. Le déficit qui ne peut être affecté à
+une branche est réparti selon les modalités prévues au deuxième membre de la deuxième phrase du premier alinéa du e du 6 de
+l'article 223 L du code général des impôts. Pour chacun des nouveaux groupes, la fraction du déficit restant à reporter et
+qui peut être imputée dans les conditions prévues au 5 de l'article 223 I de ce code est alors calculée, au titre de chaque
+exercice, selon les modalités précisées au premier alinéa.
+
+La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de l'article 223 I du code général des impôts est
+demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d ou e du 6 de l'article 223 L
+concernant l'identité des sociétés membres du nouveau groupe.
 
 2. Pour l'application du troisième alinéa de l'article 223 R du code général des impôts :
 
@@ -23,12 +37,13 @@ réputés différés en période déficitaire.
 
 	**Cite**:
 
-	  - CGI 223 I, 223 R
+	  - CGI 223 I, 223 L, 209, 223, 223 R
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1063 du 6 décembre 1994 - art. 2 () JORF 13 décembre 1994
+	  - Décret n°96-893 du 10 octobre 1996 - art. 1 () JORF 13 octobre 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 11 avril 1997
+	  - TXT_ASSOCIE: Instruction 1997-05-30 4H-4-97

@@ -8,13 +8,15 @@ b) La Caisse des dépôts et consignations ;
 
 c) Les établissements de crédit ;
 
-d) Les sociétés de bourse ;
+d) ((Les prestataires de services d'investissement)) (M) ;
 
 e) Les établissements visés au troisième alinéa du 2 de l'article 18 de la loi n° 84-46 du 24 janvier 1984 relative à
 l'activité et au contrôle des établissements de crédit ;
 
 f) Les sociétés par actions ou à responsabilité limitée et les sociétés coopératives ouvrières de production pour les actions
 ou parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -23,14 +25,14 @@ ou parts souscrites ou reçues en rémunération de l'apport de valeurs acquises
 	  - CGI 83
 	  - Loi n°84-46 1984-01-24 art. 18
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°94-899 1994-10-17
+	  - HISTO: Edition du 11 avril 1997
 
 	**Modifié par**:
 
-	  - Décret n°94-899 du 17 octobre 1994 - art. 4 () JORF 19 octobre 1994
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - Décret n°97-661 1997-05-28

@@ -1,19 +1,22 @@
 # Article 111 quater M
 
-Pour les espèces dont la viande est susceptible d'être livrée au consommateur final en carcasse sans avoir subi d'opération
-de découpage, le tarif de la redevance sanitaire de découpage tient compte du taux de découpage constaté pour les viandes
-provenant des espèces considérées la pénultième année qui précède celle pour laquelle il s'applique.
+Pour les viandes de volailles, la redevance sanitaire de découpage n'est pas due sur les carcasses pour lesquelles
+l'abatteur, le tiers abatteur, la personne qui réalise des acquisitions intracommunautaires, l'importateur ou le déclarant en
+douane justifie d'une destination autre qu'un atelier de découpe agréé en application de l'article 260 du code rural (1).
+
+(1) Ces dispositions sont applicables à compter du 1er novembre 1996.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°91-296 du 20 mars 1991 - art. 3 (V) JORF 22 mars 1991
+	  - Code rural 260
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°96-876 1996-10-06 art. 1 JORF 6 octobre 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - SPEC_APPLI: Décret n°96-876 1996-10-06 art. 2
+	  - HISTO: Edition du 11 avril 1997
