@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-07-15
+Version Consolidée au 1985-07-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5413,6 +5413,37 @@ l'exactitude des renseignements portés sur les déclarations prévues auxdits a
 
 
 #### Chapitre I bis : Impôt sur les sociétés
+
+##### Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires
+
+###### Article 46 bis
+
+Les établissements publics et sociétés d'économie mixte concessionnaires d'opérations d'aménagement, en application du
+deuxième alinéa de l'article L 300-4 du code de l'urbanisme, sont éxonérés de l'impôt sur les sociétés, sous les conditions
+énoncées à l'article 46 ter, pour la fraction de leurs bénéfices nets provenant soit de l'exécution des travaux
+d'aménagement, d'équipement général ou des ouvrages qu'ils effectuent sur des terrains dont ils ne sont pas propriétaires,
+soit des cessions ou locations portant sur des terrains ou immeubles qu'ils ont préalablement pourvus des aménagements,
+équipements généraux ou ouvrages nécessaires à leur utilisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 ter
+	  - Code de l'urbanisme - art. L300-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 40 () JORF 19 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter (V)
+
 
 ##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs
 
