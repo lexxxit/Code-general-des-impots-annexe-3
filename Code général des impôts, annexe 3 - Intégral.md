@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2001-03-31
+Version Consolidée au 2001-04-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -30896,12 +30896,12 @@ L'impôt sur les sociétés est recouvré dans les conditions prévues aux artic
 
 ###### Article 359
 
-L'impôt sur les sociétés donne lieu au versement d'acomptes pour chaque période servant de base aux impositions,dans les
-conditions fixées par l'article 1668 du code général des impôts,le premier de ces acomptes étant celui dont
-l'échéance,consécutive au commencement de ladite période,en est le plus rapprochée.
+L'impôt sur les sociétés donne lieu au versement d'acomptes pour chaque période servant de base aux impositions, dans les
+conditions fixées par l'article 1668 du code général des impôts, le premier de ces acomptes étant celui dont l'échéance,
+consécutive au commencement de ladite période,en est le plus rapprochée.
 
-Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus les sociétés pour lesquelles le montant de l'impôt sur les
-sociétés correspondant aux bénéfices de référence ou au résultat net définis à l'article 360 n'excède pas 1.000 F.
+Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus les sociétés pour lesquelles le montant de l'impôt
+mentionné au deuxième alinéa de l'article 360 n'excède pas 1 000 francs.
 
 **Liens relatifs à cet article**
 
@@ -30912,15 +30912,11 @@ sociétés correspondant aux bénéfices de référence ou au résultat net déf
 
 	**Modifié par**:
 
-	  - Décret n°98-85 du 16 février 1998 - art. 1 () JORF 18 février 1998
+	  - Décret n°2001-306 du 4 avril 2001 - art. 6 () JORF 10 avril 2001
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 360
