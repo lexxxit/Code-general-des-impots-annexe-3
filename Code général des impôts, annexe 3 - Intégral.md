@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1981-07-01
+Version Consolidée au 1981-07-29
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -9761,6 +9761,186 @@ III. Les documents désignés au I ne sont plus soumis au visa périodique des r
 
 	  - CGI 867
 	  - CGIAN3 283
+
+
+##### II : Obligations des agents de l'administration : Salaires des conservateurs
+
+##### 3 : Salaires proportionnels
+
+###### Article 293
+
+Le salaire alloué pour l'inscription de chaque droit d'hypothèque ou privilège est liquidé, au taux unique de 0,05 %, sur les
+sommes ou valeurs énoncées au bordereau.
+
+En ce qui concerne les inscriptions prises pour sûreté d'une créance indéterminée  le salaire est perçu sur le montant de
+l'évaluation du droit garanti  à fournir par les requérants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V) JORF 29 juillet 1981
+	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V) JORF 29 juillet 1981
+
+	**Cité par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V)
+	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 294
+
+Le salaire alloué pour chaque déclaration soit de cession d'antériorité, soit de subrogation, soit de subrogation et de
+changement de domicile par le même acte est liquidé, au taux unique de 0,05 %, sur les sommes faisant l'objet de la
+subrogation ou, dans le cas de cession d'antériorité, sur la valeur de la plus faible inscription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V) JORF 29 juillet 1981
+	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V) JORF 29 juillet 1981
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 295
+
+Le salaire alloué pour chaque radiation d'inscription est liquidé, au taux unique de 0,10 %, sur les sommes faisant l'objet
+de la radiation.
+
+En cas de réduction du gage  le salaire est liquidé sur le montant total des sommes garanties par l'inscription ou sur la
+valeur de l'immeuble affranchi  si cette valeur est déclarée dans l'acte et est inférieure au montant des sommes garanties.
+En cas de mainlevée partielle ayant pour objet la division de l'hypothèque  de telle sorte que chaque immeuble ou fraction
+d'immeuble ne garantisse plus qu'une partie de la créance  le salaire afférent à chacun des dégrèvements partiels résultant
+de la division ne peut être liquidé sur une somme supérieure à la fraction de la créance originaire dont chaque immeuble ou
+fraction d'immeuble reste grevé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V) JORF 29 juillet 1981
+	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V) JORF 29 juillet 1981
+
+	**Cité par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 296
+
+Le salaire alloué pour la publication de chaque acte est liquidé, au taux unique de 0,10 %, sur les sommes énoncées ou la
+valeur estimée par les requérants, sous peine de refus du dépôt, des immeubles ou des droits faisant l'objet de la
+publication.
+
+La valeur des biens retenue pour la perception du salaire ne peut être inférieure à celle servant de base définitive à la
+perception de la taxe de publicité foncière ou des droits d'enregistrement ou en ce qui concerne les actes non assujettis à
+une imposition proportionnelle  à la valeur réelle des immeubles ou des droits faisant l'objet de la publication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V) JORF 29 juillet 1981
+	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V) JORF 29 juillet 1981
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
+
+
+###### Article 297
+
+Les formalités hypothécaires  pour lesquelles il est alloué aux conservateurs des hypothèques un salaire proportionnel et
+gradué donnent lieu à la perception du salaire minimal lorsqu'elles se rapportent à la construction  à la première mutation
+ou à l'attribution des logements économiques ou des logements à réaliser par des personnes groupées en sociétés ou en
+associations qui s'engagent  dans les actes de prêts consentis dans les conditions prévues au décret n° 50-899 du 2 août 1950
+modifié  à faire         r effectuer par leurs membres des apports en travail.
+
+Pour l'application du présent article  le salaire minimal représente la moitié du salaire proportionnel normal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°50-899 du 2 août 1950
+
+	**Modifié par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 3 (V) JORF 29 juillet 1981
+
+	**Cité par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
+
+
+##### II : Obligations des agents de l'administration
+
+##### Salaires des conservateurs
+
+##### 1 : Généralités.
+
+###### Article 285
+
+Les salaires des conservateurs des hypothèques  pour les fonctions dont ces agents sont chargés  sont fixés conformément aux
+tarifs énoncés dans la présente section [*art. 286 à art. 299*].
+
+Le montant des salaires est arrondi au franc le plus proche.
+
+Lorsque le conservateur  en application de l'article 880 du code général des impôts, prononce, à défaut de versement d'avance
+des salaires et hors les cas d'exception prévus par les dispositions en vigueur le refus du dépôt des expéditions extraits
+copies ou bordereaux à publier ce refus a lieu dans les conditions fixées à l'article 74 du décret no 55-1350 modifié du 14
+octobre 1955; à défaut du même versement les états et certificats établis sont retenus jusqu'au complet paiement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 880
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 74 (M)
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°81-721 du 24 juillet 1981 - art. 7 (V) JORF 29 JUILLET 1981
 
 
 #### Chapitre II : Droits de timbre
