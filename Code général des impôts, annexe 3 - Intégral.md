@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-03-01
+Version Consolidée au 1985-03-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18897,6 +18897,58 @@ au bureau des impôts précité.
 
 ##### 1 : Champ d'application
 
+###### Article 396
+
+Le crédit de paiement fractionné prévu à l'article 1717 du code général des impôts est applicable aux droits
+d'enregistrement, à la taxe de publicité foncière et aux taxes additionnelles exigibles en raison :
+
+1° des mutations par décès ;
+
+2° des apports en société prévus aux articles 809-I-3° 809-II et 812-I-1° et 2° du code précité;
+
+3° des acquisitions effectuées dans le cadre des dispositions de l'article 88 de la loi n° 67-563 du 13 juillet 1967 sur le
+règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes;
+
+4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices;
+
+5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article
+30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis
+dans le cadre des dispositions de l'article 686 du code rural au profit d'agriculteurs dont la qualité de migrant a été
+reconnue par le ministre de l'agriculture.
+
+6° (Abrogé)
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1717
+	  - CGI 809 I 3°, II
+	  - CGI 812 I 1°, 2
+	  - Code rural 686
+	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
+	  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Arrêté du 3 septembre 2009 (V)
+	  - Arrêté du 3 septembre 2009 - art. 2 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 398 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
+
+
 ###### Article 397
 
 Le crédit de paiement différé prévu par l'article 1717 du code général des impôts est applicable aux droits d'enregistrement
@@ -18922,6 +18974,43 @@ l'article 868 du même code  dans les conditions fixées par l'article 1722 bis 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Instruction 2003-06-10 7A-1-03
+
+
+##### Transmissions d'entreprises
+
+###### Article 397 A
+
+I. Le paiement des droits de succession peut être différé pendant cinq ans à compter de la date d'exigibilité des droits et,
+à l'expiration de ce délai, fractionné pendant dix ans lorsque les mutations portent :
+
+a. Sur l'ensemble des biens meubles et immeubles, corporels ou incorporels affectés à l'exploitation d'une entreprise
+individuelle ayant une activité industrielle, commerciale, artisanale, agricole ou libérale et exploitée par le défunt ;
+
+b. Sur les parts sociales ou les actions d'une société ayant une activité industrielle, commerciale, artisanale, agricole ou
+libérale, non cotée en Bourse, à condition que le bénéficiaire reçoive au moins 5 % du capital social.
+
+II. Les règles de paiement prévues au I s'appliquent également aux droits de mutation dus sur les donations entre vifs
+lorsqu'elles portent sur la pleine propriété des biens visés au I et que l'entreprise est exploitée par le donateur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 1 (V)
+
+	**Créé par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 1 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GA (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GD (V)
 
 
 ##### 2 : Dispositions générales
@@ -18989,6 +19078,39 @@ est adressée à cet effet  par lettre recommandée avec avis de réception.
 	  - TXT_ASSOCIE: Instruction 1998-12-15 12C-5-98
 
 
+###### Article 402
+
+Sous réserve des dispositions de l'article 404 GB, le premier versement des droits dont le paiement fractionné est  autorisé
+doit être effectué au moment de l'accomplissement de la formalité fusionnée ou de l'enregistrement.
+
+Les fractions suivantes sont exigibles selon un échéancier établi pour chacun des droits concernés  dans les conditions
+fixées aux articles 404 A à 404 G.
+
+Leur paiement doit intervenir dans le mois suivant chaque échéance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 404 GB, 404 A à 404 G
+
+	**Modifié par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 5 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ###### Article 404
 
 Les droits ayant fait l'objet de l'octroi du crédit peuvent être acquittés par anticipation. Dans cette hypothèse, les
@@ -18999,6 +19121,67 @@ intérêts ne sont dus que jusqu'au jour du paiement des droits.
 ##### 3 : Dispositions particulières
 
 ##### 1° : Mutations par décès
+
+###### Article 404 A
+
+I. Les garanties fournies en contrepartie du fractionnement prévu au 1° de l'article 396 peuvent outre les formes énumérées à
+l'article 400, revêtir celle de l'hypothèque légale prévue au 2 de l'article 1929 du code général des impôts. Les droits sont
+acquittés en plusieurs versements égaux  dont le premier a lieu dans les conditions fixées à l'article 402 et le dernier au
+plus tard cinq ans après l'expiration du délai imparti pour souscrire la déclaration de succession.
+
+Les versements sont fixés au nombre de deux lorsque les droits n'excèdent pas 5 % du montant taxable des parts recueillies
+soit par tous les cohéritiers solidaires  soit pour chacun des légataires ou donataires; de quatre  lorsque ces droits
+n'excèdent pas 10 % du même montant et ainsi de suite en augmentant de deux le nombre des versements chaque fois que les
+droits dépassent un nouveau multiple de 5 %, mais sans que le nombre des versements  à intervalle de six mois au plus  puisse
+être supérieur à dix.
+
+Pour les droits à la charge des héritiers en ligne directe et du conjoint du défunt  le délai maximal prévu au deuxième
+alinéa est porté à dix ans  et le nombre des versements est doublé sans pouvoir toutefois dépasser vingt  lorsque l'actif
+héréditaire comprend  à concurrence de 50 % au moins  des biens non liquides énumérés ci-après :
+
+Brevets d'invention ;
+
+Clientèles ;
+
+Créances non exigibles au décès ;
+
+Droits d'auteur; Fonds de commerce y compris le matériel et les marchandises qui en dépendent ;
+
+Immeubles ;
+
+Matériels agricoles, bestiaux et récoltes ;
+
+Offices ministériels ;
+
+Parts d'intérêts dans des sociétés dont le capital n'est pas divisé en actions ;
+
+Valeurs mobilières non cotées en Bourse.
+
+II. (Abrogé).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 396
+
+	**Modifié par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 402 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
 
 ###### Article 404 B
 
@@ -19154,6 +19337,29 @@ en vigueur du présent décret. Elle est irrévocable.
 
 	  - HISTO: EDITION 1979-07-01
 	  - HISTO: Edition du 11 avril 1997
+
+
+##### Transmissions d'entreprises.
+
+###### Article 404 GD
+
+La cession de plus du tiers des biens bénéficiant du paiement différé et fractionné prévu à l'article 397 A entraîne pour le
+cédant l'exigibilité immédiate des droits en suspens. Pour le calcul de cette proportion, la valeur des biens est appréciée
+au jour de la cession.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 397 A
+
+	**Créé par**:
+
+	  - Décret n°85-356 du 23 mars 1985 - art. 7 (V) JORF 24 mars 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1007 1985-09-24
 
 
 #### V : Droits de timbre
@@ -20080,64 +20286,6 @@ précédent est celle définie à l'article 381 W.
 
 ### ENREGISTREMENT - PUBLICITE FONCIERE.
 
-###### Article 396
-
-Le crédit de paiement fractionné prévu à l'article 1717 du code général des impôts est applicable aux droits
-d'enregistrement, à la taxe de publicité foncière et aux taxes additionnelles exigibles en raison :
-
-1° des mutations par décès ;
-
-2° des apports en société prévus aux articles 809-I-3° 809-II et 812-I-1° et 2° du code précité ;
-
-3° des acquisitions effectuées dans le cadre des dispositions de l'article 88 de la loi n° 67-563 du 13 juillet 1967 sur le
-règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes ;
-
-4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices ;
-
-5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article
-30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis
-dans le cadre des dispositions de l'article 686 du code rural au profit d'agriculteurs dont la qualité de migrant a été
-reconnue par le ministre de l'agriculture.
-
-6° Des donations d'entreprises portant :
-
-- soit sur l'ensemble des biens meubles et immeubles, corporels ou incorporels affectés à l'exploitation d'une entreprise
-individuelle ;
-
-- soit sur les parts sociales ou les actions d'une société non cotée en bourse à la condition que le bénéficiaire reçoive la
-majorité du capital social.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 3 septembre 2009 (V)
-	  - Arrêté du 3 septembre 2009 - art. 2 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 398 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 C (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 E (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
-
-	**Cite**:
-
-	  - CGI 1717
-	  - CGI 809 I 3°, II
-	  - CGI 812 I 1°, 2
-	  - Code rural 686
-	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
-	  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
-
-	**Modifié par**:
-
-	  - Décret n°80-986 du 8 décembre 1980 - art. 1 (V) JORF 9 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-
 ###### Article 401
 
 Les droits et taxes dont le paiement est fractionné ou différé donnent lieu au versement d'intérêts dont le taux est égal au
@@ -20159,37 +20307,6 @@ pour souscrire la déclaration de succession.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GA (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 402
-
-Le premier versement des droits dont le paiement fractionné est autorisé doit être effectué au moment de l'accomplissement de
-la formalité fusionnée ou de l'enregistrement.
-
-Les fractions suivantes sont exigibles selon un échéancier établi pour chacun des droits concernés  dans les conditions
-fixées aux articles 404 A à 404 G.
-
-Leur paiement doit intervenir dans le mois suivant chaque échéance [*date, délai*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 404 A
-	  - CGIAN3 404 B
-	  - CGIAN3 404 C
-	  - CGIAN3 404 D
-	  - CGIAN3 404 E
-	  - CGIAN3 404 F
-	  - CGIAN3 404 G
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
 
 	**Liens**:
 
@@ -20221,97 +20338,6 @@ du code général des impôts. Cette indemnité est exclusive de l'intérêt pr�
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 404 A
-
-I. Les garanties fournies en contrepartie du fractionnement prévu a l'article 396-1° peuvent outre les formes énumérées à
-l'article 400, revêtir celle de l'hypothèque légale prévue à l'article 1929-2 du code général des impôts.
-
-Les droits sont acquittés en plusieurs versements égaux  dont le premier a lieu dans les conditions fixées à l'article 402 et
-le dernier au plus tard cinq ans après l'expiration du délai imparti pour souscrire la déclaration de succession.
-
-Les versements sont fixés au nombre de deux lorsque les droits n'excèdent pas 5 % du montant taxable des parts recueillies
-soit par tous les cohéritiers solidaires  soit pour chacun des légataires ou donataires; de quatre  lorsque ces droits
-n'excèdent pas 10 % du même montant et ainsi de suite en augmentant de deux le nombre des versements chaque fois que les
-droits dépassent un nouveau multiple de 5 %, mais sans que le nombre des versements  à intervalle de six mois au plus  puisse
-être supérieur à dix.
-
-Pour les droits à la charge des héritiers en ligne directe et du conjoint du défunt  le délai maximal prévu au deuxième
-alinéa est porté à dix ans  et le nombre des versements est doublé sans pouvoir toutefois dépasser vingt  lorsque l'actif
-héréditaire comprend  à concurrence de 50 % au moins  des biens non liquides énumérés ci-après :
-
-Brevets d'invention;
-
-Clientèles;
-
-Créances non exigibles au décès;
-
-Droits d'auteur;
-
-Fonds de commerce y compris le matériel et les marchandises qui en dépendent;
-
-Immeubles;
-
-Matériels agricoles  bestiaux et récoltes;
-
-Offices ministériels;
-
-Parts d'intér ts dans des sociétés dont le capital n'est pas divisé en actions;
-
-Valeurs mobilières non cotées en Bourse.
-
-II. La possibilité d'étaler sur une période maximale de dix ans le paiement ds droits de succession prévue pour les héritiers
-en ligne directe par le quatrième alinéa du I est étendue, sous les mêmes conditions, à tous les héritiers et légataires pour
-les biens mentionnés à l'article 396-6°.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 396 6°
-
-	**Modifié par**:
-
-	  - Décret n°80-986 du 8 décembre 1980 - art. 2 (V) JORF 9 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 402 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
-
-
-###### Article 404 CA
-
-Les droits exigibles sur les donations d'entreprises et dont le paiement est fractionné en application de l'article 396-6°
-sont acquittés en plusieurs versements égaux dont le premier a lieu dans les conditions fixées à l'article 402 et le dernier
-au plus tard cinq ans après l'expiration du délai prévu pour l'enregistrement de la donation. 
-
-Les dispositions prévues au troisième alinéa de l'article 404 A sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 396 6°
-	  - CGIAN3 402
-	  - CGIAN3 404 A AL. 3
-
-	**Créé par**:
-
-	  - Décret n°80-986 du 8 décembre 1980 - art. 1 (V) JORF 8 ET 9 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Abrogé par**:
-
-	  - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
 
 
 ## PENALITES.
