@@ -34,8 +34,8 @@ forfaitaire ou des déductions au titre de l'amortissement que l'associé doit a
 laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue.
 
 7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions
-prévues au deuxième alinéa du e et au troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les
-éléments figurant sur la note annexe prévue à l'article 2 sexdecies A.
+prévues au deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les éléments figurant sur la note
+annexe prévue à l'article 2 sexdecies A.
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
@@ -50,10 +50,19 @@ correspondant aux droits de chaque associé.
 	  - CGI 31
 	  - CGIAN3 2 sexdecies A, 2 quaterdecies, 2 quaterdecies A, 2 quindecies, 2 sexdecies, 2 sexdecies-0 A, 2 sexdecies A, 2 duodecies, 2 duodecies A, 2 terdecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1296 du 24 octobre 2002 - art. 3 () JORF 27 octobre 2002
+	  - Loi - art. 9 (V) JORF 31 décembre 2002
+	  - Loi n°2002-1575 2002-12-30 art. 9 I, II Finances pour 2003 JORF 31 décembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003

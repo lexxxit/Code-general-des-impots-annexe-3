@@ -6,7 +6,7 @@ I. - La direction générale des douanes et droits indirects exerce les compéte
 
 2° Au premier alinéa de l'article 444 du code général des impôts ;
 
-3° A l'article 511 bis du code général des impôts ;
+3° (Dispositions devenues sans objet).
 
 4° A l'article 570 du code général des impôts ;
 
@@ -37,16 +37,16 @@ du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies, 444, 511 bis, 570, 625, 319, 568, 304, 330, 541
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Loi - art. 60 (V) JORF 29 décembre 2001
+	  - CGI 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies, 444, 570, 625, 319, 568, 304, 330, 541
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001

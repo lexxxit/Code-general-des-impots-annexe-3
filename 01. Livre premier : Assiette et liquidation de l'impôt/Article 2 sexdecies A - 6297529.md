@@ -1,8 +1,8 @@
 # Article 2 sexdecies A
 
-Pendant la période de mise à disposition du logement prévue au deuxième alinéa du e et au troisième alinéa du g du 1° du I de
-l'article 31 du code général des impôts, le contribuable joint chaque année à sa déclaration de revenu une note annexe
-établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants :
+Pendant la période de mise à disposition du logement prévue au deuxième alinéa du e du 1° du I de l'article 31 du code
+général des impôts, le contribuable joint chaque année à sa déclaration de revenu une note annexe établie conformément à un
+modèle fixé par l'administration qui comporte les éléments suivants :
 
 a) L'identité et l'adresse du contribuable ;
 
@@ -28,18 +28,19 @@ départ des lieux de l'ascendant ou descendant du contribuable.
 
 	  - CGI 31
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2002-1207 2002-09-27
+	  - HISTO: Edition du 1er janvier 2003
 
 	**Modifié par**:
 
-	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
+	  - Loi - art. 9 (V) JORF 31 décembre 2002
+	  - Loi n°2002-1575 2002-12-30 art. 9 I, II Finances pour 2003 JORF 31 décembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002

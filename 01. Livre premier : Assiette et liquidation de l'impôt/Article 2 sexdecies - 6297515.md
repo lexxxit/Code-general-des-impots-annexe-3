@@ -7,7 +7,7 @@ impôts :
 organismes et dont les rémunérations principales entrent dans la catégorie des traitements et salaires au sens de l'article
 79 du code général des impôts ;
 
-2° Les conditions prévues au troisième alinéa du e et au deuxième alinéa du g du 1° du I de l'article 31 du code général des
+2° Les conditions prévues au deuxième alinéa du e et au deuxième alinéa du g du 1° du I de l'article 31 du code général des
 impôts s'apprécient en tenant compte du montant :
 
 a) Du loyer payé au bailleur par l'organisme locataire ;
@@ -26,8 +26,7 @@ locataire et des nom et adresse de son employeur ;
 
 b) Une copie de bail conclu avec l'organisme locataire ;
 
-c) Lorsqu'il y a lieu, une attestation de conformité du logement aux normes définies en annexe au décret n° 99-244 du 29 mars
-1999 ou, à défaut, une déclaration sur l'honneur du respect de ces normes ;
+c) Alinéa abrogé.
 
 d) Une copie de l'avis d'imposition ou de non-imposition du sous-locataire établi au titre de l'avant-dernière année
 précédant celle de la signature du contrat de sous-location ainsi qu'un document faisant mention du montant du loyer payé par
@@ -47,13 +46,9 @@ quindecies.
 	  - CGIAN3 2 quaterdecies, 2 quindecies
 	  - Décret n°99-244 1999-03-29
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 2 () JORF 27 octobre 2002
 
 	**Cité par**:
 
@@ -61,4 +56,4 @@ quindecies.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003

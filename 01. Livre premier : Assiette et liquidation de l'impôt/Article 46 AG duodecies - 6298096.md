@@ -3,14 +3,14 @@
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants :
 
-1. Pour les baux conclus en 2002, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2003, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 123 Euros dans les départements d'outre-mer et dans la collectivité départementale de Mayotte. Ce plafond est révisé
+1° 126 euros dans les départements d'outre-mer et dans la collectivité départementale de Mayotte. Ce plafond est révisé
 chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des
 prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 164 Euros dans les territoires d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-
+2° 169 euros dans les territoires d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-
 Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la
 moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
@@ -30,17 +30,17 @@ c) En Nouvelle-Calédonie, de la dernière variation annuelle publiée par l'Ins
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2002, les plafonds annuels de ressources sont fixés à :
+Pour les baux conclus en 2003, les plafonds annuels de ressources sont fixés à :
 
-1° 21 808 Euros pour une personne seule et 43 616 Euros pour un couple marié soumis à imposition commune dans les
-départements d'outre-mer et dans la collectivité départementale de Mayotte. Ces sommes sont majorées de 2 523 Euros par
-personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 371 Euros par
+1° 22 330 euros pour une personne seule et 44 660 euros pour un couple marié soumis à imposition commune dans les
+départements d'outre-mer et dans la collectivité départementale de Mayotte. Ces sommes sont majorées de 2 584 euros par
+personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 452 euros par
 enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1 ;
 
-2° 21 851 Euros pour une personne seule et 43 702 Euros pour un couple marié soumis à imposition commune dans les territoires
+2° 22 446 euros pour une personne seule et 44 892 euros pour un couple marié soumis à imposition commune dans les territoires
 d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ces sommes sont majorées
-de 2 528 Euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée
-à 3 378 Euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+de 2 597 euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée
+à 3 470 euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
 3. Dans le cas mentionné au troisième alinéa du 7 de l'article 199 undecies A du code général des impôts, les conditions
 prévues au 1 et au 2 s'apprécient en tenant compte du montant :
@@ -59,11 +59,11 @@ c) Des ressources du sous-locataire.
 
 	**Codifié par**:
 
-	  - Décret n°2002-1207 2002-09-27
+	  - Décret n°2003-298 2003-03-31
 
 	**Modifié par**:
 
-	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
+	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 	**Cité par**:
 
@@ -78,4 +78,4 @@ c) Des ressources du sous-locataire.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2003

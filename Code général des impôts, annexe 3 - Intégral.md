@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2002-10-27
+Version Consolidée au 2003-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -121,11 +121,11 @@ conclusion du bail.
 ###### Article 2 octies
 
 Pour l'application de l'article 15 ter du code général des impôts, les montants annuels des ressources du locataire sont
-limités à 17 300 euros en région Ile-de-France et à 15 810 euros dans les autres régions pour une personne seule. Ces
+limités à 17 600 euros en région Ile-de-France et à 16 080 euros dans les autres régions pour une personne seule. Ces
 montants sont doublés pour un couple marié.
 
 Ces montants s'entendent des revenus nets de frais professionnels du locataire figurant sur son avis d'imposition établi au
-titre des revenus de 2001.
+titre des revenus de 2002.
 
 **Liens relatifs à cet article**
 
@@ -133,23 +133,23 @@ titre des revenus de 2001.
 
 	  - CGI 15 ter
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
 	**Modifié par**:
 
-	  - Loi n°2001-1275 du 28 décembre 2001 - art. 2
+	  - Loi - art. 2 () JORF 31 décembre 2002
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 2 septies
 
-Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder 95
-euros annuels par mètre carré de surface habitable en région Ile-de-France et 85 euros annuels par mètre carré de surface
+Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder 97
+euros annuels par mètre carré de surface habitable en région Ile-de-France et 87 euros annuels par mètre carré de surface
 habitable dans les autres régions.
 
 Pendant la durée mentionnée à l'article 15 ter déjà cité, l'augmentation annuelle du loyer ne peut être supérieure à celle de
@@ -164,15 +164,15 @@ l'indice national mesurant le coût de la construction publié par l'Institut na
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 2003-03-31
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### 2° : Mise aux normes des bâtiments agricoles. Déduction des dépenses d'amélioration et de construction
@@ -222,9 +222,9 @@ montant, ainsi que la désignation des immeubles sur lesquels ils sont réalisé
 Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2002, les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 11 euros par mètre carré en zone I bis, 9,5 euros en zone I, 6 euros en zone II et 5,5 euros en zone III. Les
-plafonds sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2003, les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 11,4 euros par mètre carré en zone I bis, 9,8 euros en zone I, 6,2 euros en zone II et 5,7 euros en zone III.
+Les plafonds sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre
 trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique et des
 études économiques. La moyenne mentionnée ci-dessus est celle du dernier indice connu à la date de référence et des indices
 des trois trimestres qui précèdent.
@@ -240,7 +240,7 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2002, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2003, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION du foyer locataire :
 
@@ -248,9 +248,9 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 19 058 euros
+Ile-de-France : 19 516 euros
 
-Province : 15 911 euros
+Province : 16 293 euros
 
 COMPOSITION du foyer locataire :
 
@@ -258,9 +258,9 @@ Couple marié
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 31 321 euros
+Ile-de-France : 32 073 euros
 
-Province : 24 362 euros
+Province : 24 297 euros
 
 COMPOSITION du foyer locataire :
 
@@ -268,9 +268,9 @@ Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 37 620 euros
+Ile-de-France : 38 523 euros
 
-Province : 29 167 euros
+Province : 29 867 euros
 
 COMPOSITION du foyer locataire :
 
@@ -278,9 +278,9 @@ Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 44 910 euros
+Ile-de-France : 45 988 euros
 
-Province : 35 299 euros
+Province : 36 146 euros
 
 COMPOSITION du foyer locataire :
 
@@ -288,9 +288,9 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 53 197 euros
+Ile-de-France : 54 474 euros
 
-Province : 41 431 euros
+Province : 42 425 euros
 
 COMPOSITION du foyer locataire :
 
@@ -298,9 +298,9 @@ Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 59 824 euros
+Ile-de-France : 61 260 euros
 
-Province : 46 734 euros
+Province : 47 856 euros
 
 COMPOSITION du foyer locataire :
 
@@ -308,9 +308,9 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Ile-de-France : + 6 796 euros
+Ile-de-France : + 6 960 euros
 
-Province : + 5 305 euros
+Province : + 5 433 euros
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
 Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
@@ -320,22 +320,13 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 31, 1417, 196 à 196 B
-	  - Code de la construction et de l'habitation R111-2, R353-16, R331-10
-	  - Code de la construction et de l'habitation. - art. R331-10 (M)
-	  - Code de la construction et de l'habitation. - art. R353-16 (M)
+	  - Décret n°2003-298 2003-03-31
 
 	**Modifié par**:
 
-	  - Loi n°2000-656 2000-07-13 art. 11 IV Finances rectificative pour 2000 JORF 14 juillet 2000
-	  - Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 	**Cité par**:
 
@@ -355,9 +346,16 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies B (V)
 
+	**Cite**:
+
+	  - CGI 31, 1417, 196 à 196 B
+	  - Code de la construction et de l'habitation R111-2, R353-16, R331-10
+	  - Code de la construction et de l'habitation. - art. R331-10 (M)
+	  - Code de la construction et de l'habitation. - art. R353-16 (M)
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 2 duodecies A
@@ -365,10 +363,10 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a. Pour les baux conclus, reconduits ou renouvelés entre le 1er janvier 2002 et le 31 décembre 2002, les plafonds de loyer
-mensuel, charges non comprises, sont fixés à 8 euros par mètre carré en zone I bis, 6,5 euros en zone I, 4,5 euros en zone II
-et 4 euros en zone III. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de
-loyer prévus à l'article 2 duodecies.
+a. Pour les baux conclus, reconduits ou renouvelés entre le 1er janvier 2003 et le 31 décembre 2003, les plafonds de loyer
+mensuel, charges non comprises, sont fixés à 8,3 euros par mètre carré en zone I bis, 6,7 euros en zone I, 4,7 euros en zone
+II et 4,2 euros en zone III. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les
+plafonds de loyer prévus à l'article 2 duodecies.
 
 Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
@@ -378,63 +376,63 @@ b. Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle pour
 laquelle la location à ce locataire ouvre droit pour la première fois à la déduction forfaitaire majorée.
 
-Pour les baux conclus, reconduits ou renouvelés en 2002, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus, reconduits ou renouvelés en 2003, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) :  9 529
+Ile-de-France (en euros) : 9 758
 
-Province (en euros) :  7 956 
+Province (en euros) : 8 147 
 
 COMPOSITION DU FOYER LOCATAIRE : Couple marié
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 15 661
+Ile-de-France (en euros) : 16 037
 
-Province (en euros) : 12 181 
+Province (en euros) : 12 474 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 18 810
+Ile-de-France (en euros) : 19 262
 
-Province (en euros) : 14 584 
+Province (en euros) : 14 934 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 22 455
+Ile-de-France (en euros) : 22 994
 
-Province (en euros) : 17 650 
+Province (en euros) : 18 074 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 26 599
+Ile-de-France (en euros) : 27 238
 
-Province (en euros) : 20 716 
+Province (en euros) : 21 213 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 29 912
+Ile-de-France (en euros) : 30 630
 
-Province (en euros) : 23 367 
+Province (en euros) : 23 928
 
 COMPOSITION DU FOYER LOCATAIRE : Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 3 398
+Ile-de-France (en euros) : 3 480
 
-Province (en euros) : 2 653 
+Province (en euros) : 2 717 
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
 l'article 2 duodecies.
@@ -448,9 +446,13 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	  - CGI 31, 2 duodecies, 1417, 196 à 196 B
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2002-1296 du 24 octobre 2002 - art. 1 () JORF 27 octobre 2002
+	  - Décret n°2003-298 2003-03-31
+
+	**Modifié par**:
+
+	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 
 ###### Article 2 novodecies
@@ -521,8 +523,8 @@ documents relatifs aux opérations ayant affecté ce compte sont conservés jusq
 de l'expiration de l'engagement mentionné au I.
 
 III. - Les associés joignent à chacune de leurs déclarations des revenus y compris pendant la période de mise à disposition
-du logement prévue au deuxième alinéa du e et au troisième alinéa du g du 1° du I de l'article 31 du code général des impôts
-un exemplaire du document mentionné au II de l'article 2 septdecies.
+du logement prévue au deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts un exemplaire du document
+mentionné au II de l'article 2 septdecies.
 
 **Liens relatifs à cet article**
 
@@ -531,9 +533,18 @@ un exemplaire du document mentionné au II de l'article 2 septdecies.
 	  - CGI 31
 	  - CGIAN3 2 septdecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1296 du 24 octobre 2002 - art. 4 () JORF 27 octobre 2002
+	  - Loi - art. 9 (V) JORF 31 décembre 2002
+	  - Loi n°2002-1575 2002-12-30 art. 9 I, II Finances pour 2003 JORF 31 décembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 2 quaterdecies
@@ -556,8 +567,7 @@ habitation principale ;
 
 2° Une copie du bail ;
 
-3° Une attestation de conformité du logement aux normes définies en annexe au décret n° 99-244 du 29 mars 1999 ou, à défaut,
-une déclaration sur l'honneur du respect de ces normes ;
+3° Alinéa abrogé.
 
 4° Une copie de l'avis d'imposition ou de non-imposition du locataire établi au titre de l'avant-dernière année précédant
 celle de la signature du contrat de location.
@@ -575,13 +585,9 @@ titre de l'avant-dernière année précédant celle de la signature du contrat d
 	  - CGIAN3 2 duodecies
 	  - Décret n°99-244 1999-03-29
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 2 () JORF 27 octobre 2002
 
 	**Cité par**:
 
@@ -590,7 +596,71 @@ titre de l'avant-dernière année précédant celle de la signature du contrat d
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 2 quaterdecies A
+
+I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables
+sont tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle la location ouvre droit pour la première
+fois à la déduction forfaitaire majorée :
+
+1° Une note annexe qui comporte les éléments suivants :
+
+a. L'identité et l'adresse du contribuable ;
+
+b. L'adresse, la date d'acquisition ou d'achèvement du logement concerné et la surface à prendre en compte pour
+l'appréciation du plafond de loyer telle qu'elle est définie par l'article 2 duodecies ;
+
+c. Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ;
+
+d. L'engagement de louer le logement non meublé, pendant une durée de trois ans au moins, à des personnes qui en font leur
+habitation principale ;
+
+2° Une copie du bail ;
+
+3° Une copie de l'avis d'impôt sur le revenu du locataire établi au titre de l'avant-dernière année précédant celle pour
+laquelle la location à ce locataire ouvre droit pour la première fois à la déduction forfaitaire majorée.
+
+II. - En cas de changement de locataire au cours de la période couverte par l'engagement de location mentionné au d du 1° du
+I, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie
+du nouveau bail ainsi qu'une copie de l'avis d'impôt sur le revenu du locataire entrant dans les lieux établi au titre de
+l'avant-dernière année précédant celle de la signature du contrat de location.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31, 2 duodecies
+
+	**Créé par**:
+
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 1 () JORF 27 octobre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 2 quaterdecies B
+
+Pour l'application des deuxième et cinquième alinéas du e du 1° du I de l'article 31 du code général des impôts, les
+logements doivent répondre aux normes définies par le décret n° 2002-120 du 30 janvier 2002.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - Décret n°2002-120 2002-01-30
+
+	**Créé par**:
+
+	  - Décret n°2002-1296 2002-10-24 art. 1 C JORF 27 octobre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 2 quindecies
@@ -714,8 +784,8 @@ forfaitaire ou des déductions au titre de l'amortissement que l'associé doit a
 laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue.
 
 7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions
-prévues au deuxième alinéa du e et au troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les
-éléments figurant sur la note annexe prévue à l'article 2 sexdecies A.
+prévues au deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les éléments figurant sur la note
+annexe prévue à l'article 2 sexdecies A.
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
@@ -730,13 +800,22 @@ correspondant aux droits de chaque associé.
 	  - CGI 31
 	  - CGIAN3 2 sexdecies A, 2 quaterdecies, 2 quaterdecies A, 2 quindecies, 2 sexdecies, 2 sexdecies-0 A, 2 sexdecies A, 2 duodecies, 2 duodecies A, 2 terdecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1296 du 24 octobre 2002 - art. 3 () JORF 27 octobre 2002
+	  - Loi - art. 9 (V) JORF 31 décembre 2002
+	  - Loi n°2002-1575 2002-12-30 art. 9 I, II Finances pour 2003 JORF 31 décembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 2 sexdecies
@@ -748,7 +827,7 @@ impôts :
 organismes et dont les rémunérations principales entrent dans la catégorie des traitements et salaires au sens de l'article
 79 du code général des impôts ;
 
-2° Les conditions prévues au troisième alinéa du e et au deuxième alinéa du g du 1° du I de l'article 31 du code général des
+2° Les conditions prévues au deuxième alinéa du e et au deuxième alinéa du g du 1° du I de l'article 31 du code général des
 impôts s'apprécient en tenant compte du montant :
 
 a) Du loyer payé au bailleur par l'organisme locataire ;
@@ -767,8 +846,7 @@ locataire et des nom et adresse de son employeur ;
 
 b) Une copie de bail conclu avec l'organisme locataire ;
 
-c) Lorsqu'il y a lieu, une attestation de conformité du logement aux normes définies en annexe au décret n° 99-244 du 29 mars
-1999 ou, à défaut, une déclaration sur l'honneur du respect de ces normes ;
+c) Alinéa abrogé.
 
 d) Une copie de l'avis d'imposition ou de non-imposition du sous-locataire établi au titre de l'avant-dernière année
 précédant celle de la signature du contrat de sous-location ainsi qu'un document faisant mention du montant du loyer payé par
@@ -788,13 +866,9 @@ quindecies.
 	  - CGIAN3 2 quaterdecies, 2 quindecies
 	  - Décret n°99-244 1999-03-29
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 2 () JORF 27 octobre 2002
 
 	**Cité par**:
 
@@ -802,14 +876,14 @@ quindecies.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 2 sexdecies A
 
-Pendant la période de mise à disposition du logement prévue au deuxième alinéa du e et au troisième alinéa du g du 1° du I de
-l'article 31 du code général des impôts, le contribuable joint chaque année à sa déclaration de revenu une note annexe
-établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants :
+Pendant la période de mise à disposition du logement prévue au deuxième alinéa du e du 1° du I de l'article 31 du code
+général des impôts, le contribuable joint chaque année à sa déclaration de revenu une note annexe établie conformément à un
+modèle fixé par l'administration qui comporte les éléments suivants :
 
 a) L'identité et l'adresse du contribuable ;
 
@@ -835,21 +909,86 @@ départ des lieux de l'ascendant ou descendant du contribuable.
 
 	  - CGI 31
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2002-1207 2002-09-27
+	  - HISTO: Edition du 1er janvier 2003
 
 	**Modifié par**:
 
-	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
+	  - Loi - art. 9 (V) JORF 31 décembre 2002
+	  - Loi n°2002-1575 2002-12-30 art. 9 I, II Finances pour 2003 JORF 31 décembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
 
+
+###### Article 2 sexdecies-0 A
+
+I. - Pour l'application du sixième alinéa du e du 1° du I de l'article 31 du code général des impôts, les conditions prévues
+au cinquième alinéa du e du 1° du I du même article s'apprécient en tenant compte du montant :
+
+a. Du loyer payé au bailleur par l'organisme sans but lucratif locataire ;
+
+b. Du loyer payé le cas échéant à cet organisme par la personne occupant le logement ;
+
+c. Des ressources de la personne occupant le logement.
+
+II. - Les contribuables doivent joindre à leur déclaration des revenus de l'année au cours de laquelle la location à cet
+organisme ouvre droit pour la première fois à la déduction forfaitaire majorée :
+
+a. La note annexe prévue au I de l'article 2 quaterdecies A complétée du nom du sous-locataire et des nom et adresse de
+l'organisme ;
+
+b. Une copie du bail conclu avec l'organisme locataire ;
+
+c. Le cas échéant, une copie de l'avis d'impôt sur le revenu du sous-locataire établi au titre de l'avant-dernière année
+précédant celle pour laquelle la location à cet organisme ouvre droit pour la première fois à la déduction forfaitaire
+majorée ainsi qu'un document faisant mention du montant du loyer payé par la personne occupant le logement.
+
+III. - Si le bail ou le contrat de sous-location n'est pas signé à la date de la déclaration susmentionnée, les documents
+énumérés aux b et c du II sont joints à la déclaration des revenus de l'année au cours de laquelle le bail ou le contrat de
+sous-location est signé. Il en est de même en cas de changement de locataire ou d'occupant pendant la période couverte par
+l'engagement de location mentionné au d du 1° du I de l'article 2 quaterdecies A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - CGIAN3 2 quaterdecies A
+
+	**Créé par**:
+
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 1 () JORF 27 octobre 2002
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 2 sexdecies-0 A bis
+
+Les modalités de l'agrément prévu au sixième alinéa du e du 1° du I de l'article 31 du code général des impôts sont celles de
+l'article 58-0 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31 I 1° e, 58-0 A
+
+	**Créé par**:
+
+	  - Décret n°2003-262 du 17 mars 2003 - art. 1 () JORF 22 mars 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 2 terdecies
@@ -857,10 +996,10 @@ départ des lieux de l'ascendant ou descendant du contribuable.
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2002, les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 12,5 euros par mètre carré en zone I bis, 11 euros en zone I, 8,5 euros en zone II et 8 euros en zone III. Les
-plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article 2
-duodecies.
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2003, les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 12,9 euros par mètre carré en zone I bis, 11,4 euros en zone I, 8,8 euros en zone II et 8,3 euros en zone III.
+Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à
+l'article 2 duodecies.
 
 Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
@@ -877,11 +1016,11 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 2003-03-31
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 	**Cité par**:
 
@@ -890,7 +1029,7 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 2 vicies
@@ -1878,67 +2017,72 @@ d'hydrocarbures.
 ###### Article 10 C quinquies
 
 I. Le montant de la provision pour reconstitution des gisements de minéraux solides susceptible d'être admise en franchise
-d'impôt à la clôture de chacun des exercices clos en 1972 et ultérieurement ne peut excéder :
+d'impôt à la clôture de chacun des exercices clos en 1972 et ultérieurement ne peut excéder : 
 
-- Ni 15 % du montant des ventes des produits marchands extraits des gisements de minerais figurant sur la liste prévue au 1
-de l'article 39 ter B du code général des impôts, exploités par l'entreprise, lorsque ces ventes sont prises en compte pour
-la détermination du bénéfice imposable en France ;
+Ni 15 % du montant des ventes des produits marchands extraits des gisements de minerais figurant sur la liste prévue au 1 de
+l'article 39 ter B du code général des impôts, exploités par l'entreprise, lorsque ces ventes sont prises en compte pour la
+détermination du bénéfice imposable en France ; 
 
-- Ni 50 % du bénéfice net imposable réalisé au cours de l'exercice considéré et provenant de la vente, en l'état ou après
-transformation, de ces mêmes produits.
+Ni 50 % du bénéfice net imposable réalisé au cours de l'exercice considéré et provenant de la vente, en l'état ou après
+transformation, de ces mêmes produits. 
 
 II. Sont assimilées à des ventes de produits extraits de gisements exploités par l'entreprise les ventes de produits acquis
 par celle-ci auprès de filiales étrangères dans lesquelles elle détient directement ou indirectement 50 % au moins des droits
-de vote.
+de vote. 
 
 L'appréciation des droits détenus par l'intermédiaire de filiales s'opère en multipliant successivement, quel que soit le
-degré de filiation, les pourcentages détenus par chaque société mère.
+degré de filiation, les pourcentages détenus par chaque société mère. 
 
-III. Le pourcentage de 50 % peut être abaissé à 20 % sur agrément du ministre de l'économie et des finances, après avis du
-ministre du développement industriel et scientifique, notamment :
-
-- Lorsque la détention d'une participation inférieure à 50 % résulte soit de la législation interne de l'Etat dans lequel la
-société contrôlée est implantée, soit d'accords intervenus entre la France et cet Etat ;
-
-- Lorsque l'entreprise est en mesure d'établir que sa participation bien que minoritaire lui permet d'exercer en fait le
-contrôle de la société exploitante ou de disposer librement de la part de production, au moins égale à 20 %, qui lui revient.
+III. (abrogé) 
 
 IV. Les produits marchands s'entendent des produits obtenus en faisant subir au minerai les préparations et concentrations
-qui doivent nécessairement être effectuées avant la première vente.
+qui doivent nécessairement être effectuées avant la première vente. 
 
 Le montant des ventes de ces produits est déterminé sous déduction des ports facturés aux clients et des taxes françaises qui
-y sont incorporées.
+y sont incorporées. 
 
 En ce qui concerne les entreprises qui transforment elles-mêmes les produits marchands ci-dessus définis, le montant des
 ventes est calculé en appliquant aux quantités de ces produits compris dans les produits finis vendus au cours de l'exercice
-le prix unitaire moyen de vente, pendant cet exercice, desdits produits marchands.
+le prix unitaire moyen de vente, pendant cet exercice, desdits produits marchands. 
 
 Au montant des ventes ainsi déterminé s'ajoutent toutes sommes allouées à l'entreprise à titre de subventions ou de
-protection, sous quelque forme que ce soit, et calculées en fonction des quantités de produits extraits de ses gisements.
+protection, sous quelque forme que ce soit, et calculées en fonction des quantités de produits extraits de ses gisements. 
 
-V. Pour la détermination du bénéfice net imposable, il y a lieu :
+V. Pour la détermination du bénéfice net imposable, il y a lieu : 
 
-- D'une part, d'exclure la fraction des provisions antérieurement constituées qui serait rapportée aux bases de l'impôt
-conformément aux dispositions de l'article 10 E ;
+D'une part, d'exclure la fraction des provisions antérieurement constituées qui serait rapportée aux bases de l'impôt
+conformément aux dispositions de l'article 10 E ; 
 
-- D'autre part, de déduire le déficit subi au cours d'un exercice dans la métropole et dans les départements d'outre-mer et
+D'autre part, de déduire le déficit subi au cours d'un exercice dans la métropole et dans les départements d'outre-mer et
 provenant de la vente, en l'état ou après transformation, de produits extraits des gisements de minerais donnant droit à la
 constitution d'une provision, du bénéfice réalisé au cours de l'exercice suivant et provenant des mêmes opérations. Si ce
 bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté
 successivement sur les exercices suivants jusqu'au cinquième exercice qui suit l'exercice déficitaire.
 
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 39 ter B 1
-	  - CGIAN3 10 E
+	  - Décret n°2002-1206 du 27 septembre 2002 - art. 1 () JORF 29 septembre 2002
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C sexies (P)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 C bis (P)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E
+	  - Code général des impôts, CGI. - art. 39 ter B
 
 
 ###### Article 10 C sexies
@@ -2073,27 +2217,30 @@ articles 10 C et 10 C sexies et sous les sanctions fixées à l'article 10 E.
 
 Les entreprises doivent fournir au service des impôts, à l'appui de la déclaration des résultats de chaque exercice, tous
 renseignements utiles sur les éléments de calcul de la provision pour reconstitution des gisements ainsi que sur les
-conditions de son utilisation.
+conditions de son utilisation. 
 
-Elles doivent indiquer, notamment, pour l'exercice considéré :
+Elles doivent indiquer, notamment, pour l'exercice considéré : 
 
 a. Le montant net, déterminé comme il est dit aux articles 10 B et 10 C quinquies, des ventes des produits marchands extraits
-des gisements exploités par l'entreprise ou acquis par celle-ci auprès de filiales étrangères dans les conditions prévues aux
-II et III de l'article 10 C quinquies ;
+des gisements exploités par l'entreprise ou acquis par celle-ci auprès de filiales étrangères dans les conditions prévues au
+II de l'article 10 C quinquies ; 
 
-b.  Le montant du bénéfice net imposable visé à l'article 10 B ou du bénéfice net imposable visé à l'article 10 C quinquies ;
+b. Le montant du bénéfice net imposable visé à l'article 10 B ou du bénéfice net imposable visé à l'article 10 C quinquies ; 
 
 c. Et, le cas échéant, le montant des sommes utilisées dans les conditions prévues aux articles 10 C et 10 C sexies.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2002-1206 du 27 septembre 2002 - art. 1 () JORF 29 septembre 2002
+
 	**Cite**:
 
-	  - CGIAN3 10 B, 10 C quinquies II, III, 10 C, 10 C sexies
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C sexies (V)
 
 
 ##### D bis : Provisions pour prêts d'installation consentis par les entreprises à leurs salariés
@@ -4687,6 +4834,85 @@ standard ou à tous autres éléments statistiques.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
 
 
+###### Article 38 sexdecies J
+
+I. - Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de
+crédit conformément aux dispositions du I de l'article 72 D bis du code général des impôts sont les suivants :
+
+1° Aléas climatiques et naturels ayant affecté l'exploitation :
+
+a) Sinistre, constaté dans les conditions prévues à l'article R. 361-42 du code rural ;
+
+b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-3 du code rural ;
+
+c) Catastrophe naturelle, constatée dans les conditions prévues à l'article L. 125-1 du code des assurances ;
+
+2° Aléas sanitaires :
+
+a) Maladie ou suspicion de maladie des animaux de l'exploitation ayant fait l'objet d'un arrêté portant déclaration
+d'infection en application de l'article L. 223-8 du code rural ou d'une indemnisation prévue à l'article L. 221-2 du code
+rural ;
+
+b) Evénement ayant justifié l'application sur les productions animales ou végétales de l'exploitant de mesures de police
+administrative prévues aux articles L. 234-4, L. 251-2 et L. 251-9 du code rural ;
+
+c) Evénement ayant justifié l'application, sur l'exploitation conchylicole, de mesures de police sanitaire prévues par
+l'article 8 du décret n° 95-100 du 26 janvier 1995 modifié ou de mesures sanitaires prévues par l'article 5 du décret n°
+94-340 du 28 avril 1994 modifié ;
+
+3° Aléas familiaux :
+
+a) Divorce ou invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L.
+341-4 du code de la sécurité sociale de l'exploitant ou de son conjoint travaillant sur l'exploitation ;
+
+b) Invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du
+code de la sécurité sociale ou décès des autres membres de la famille de l'exploitant travaillant sur l'exploitation ;
+
+4° Aléas économiques :
+
+a) Reconversion d'activité par suite d'un changement très important de production au sens du II de l'article 73 du code
+général des impôts ;
+
+b) Résiliation ou non-renouvellement du bail de l'exploitant dans les circonstances prévues aux articles L. 411-30 à L.
+411-34 et L. 411-58 du code rural ;
+
+c) Expropriation pour cause d'utilité publique ou cession amiable antérieure à la déclaration d'utilité publique lorsque le
+bien cédé est inclus dans l'expropriation par une ordonnance de donné acte ;
+
+d) Suspension, retrait ou modification de l'autorisation d'exploitation de cultures marines pour motif d'utilité publique ou
+pour motif d'insalubrité non imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines, en application
+de l'article 15 du décret n° 83-228 du 22 mars 1983 modifié ;
+
+5° Aléas couverts par une assurance : événement, ayant affecté l'exploitation, qui a entraîné une indemnisation par une
+police d'assurance de dommages aux biens ou pour perte d'exploitation souscrite par l'exploitant.
+
+II. - Peut également autoriser l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit
+conformément aux dispositions de l'article 72 D bis du code général des impôts tout autre aléa d'origine naturelle,
+climatique, sanitaire ou économique, déclaré par l'exploitant et autre que ceux prévus au I, sous réserve qu'il soit suivi
+d'une baisse du résultat excédant 10 % de la moyenne des résultats des trois exercices précédents. Pour le calcul de cette
+moyenne, il n'est pas tenu compte des reports déficitaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 72 D bis, 73
+	  - Code rural R361-42, L361-3, L223-8, L221-2, L234-4, L251-2, L251-9, L411-30 à L411-34, L411-58
+	  - Décret n°83-228 du 22 mars 1983 - art. 15 (M)
+	  - Décret n°94-340 du 28 avril 1994 - art. 5 (Ab)
+	  - Décret n°95-100 du 26 janvier 1995 - art. 8 (M)
+	  - Code de la sécurité sociale. - art. L341-4 (V)
+	  - Code des assurances - art. L125-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-1560 du 24 décembre 2002 - art. 1 () JORF 29 décembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
 ##### Régime réel simplifié
 
 ###### Article 38 sexdecies JC
@@ -5454,9 +5680,11 @@ organisme, sont étendues au régime de retraite complémentaire institué par l
 
 A compter de l'imposition des revenus de 1989, elles sont également étendues aux cotisations et aux arrérages versés dans le
 cadre du régime de retraite complémentaire institué par l'Union nationale des mutuelles retraite des instituteurs et des
-fonctionnaires de l'éducation nationale et de la fonction publique. Toutefois, les arrérages qui correspondent aux
-cotisations versées à ce régime avant le 1er janvier 1989 demeurent soumis au régime fiscal des rentes viagères constituées à
-titre onéreux défini au 6 de l'article 158 du code général des impôts.
+fonctionnaires de l'éducation nationale et de la fonction publique puis, à compter de son transfert, géré par l'Union
+mutualiste retraite. Toutefois, les arrérages qui correspondent aux cotisations versées au régime institué par l'Union
+nationale des mutuelles retraite des instituteurs et des fonctionnaires de l'éducation nationale et de la fonction publique
+avant le 1er janvier 1989 demeurent soumis au régime fiscal des rentes viagères constituées à titre onéreux défini au 6 de
+l'article 158 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -5464,13 +5692,17 @@ titre onéreux défini au 6 de l'article 158 du code général des impôts.
 
 	  - CGI 83, 158 6
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2002-1474 du 20 décembre 2002 - art. 1 () JORF 21 décembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 111 (V) JORF 22 août 2003
+
+	**Codifié par**:
+
+	  - Décret n°2004-304 2004-03-26
 
 	**Cité par**:
 
@@ -5478,7 +5710,9 @@ titre onéreux défini au 6 de l'article 158 du code général des impôts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2004
+	  - TXT_ASSOCIE: Instruction 2003-03-24 5F-10-03
 
 
 ##### B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires
@@ -8344,14 +8578,12 @@ Ces renseignements  sont mentionnés sur la déclaration prévue au 1 de l'artic
 ###### Article 41 DC
 
 Pour l'application du I de l'article 15 bis, du III de l'article 35 bis et de l'article 92 L du code général des impôts, le
-prix de location ne doit pas excéder 56 euros annuels par mètre carré habitable en région Ile-de-France, et 47 euros annuels
-par mètre carré habitable dans les autres régions (1).
+prix de location ne doit pas excéder 58 euros annuels par mètre carré habitable en région Ile-de-France, et 48 euros annuels
+par mètre carré habitable dans les autres régions.
 
 Ces prix sont révisés chaque année le 1er janvier en fonction de la variation annuelle de l'indice national mesurant le coût
 de la construction publié par l'Institut national de la statistique et des études économiques. La date de référence de
 l'indice est celle du deuxième trimestre de l'année précédente.
-
-(1) Montants applicables en 2002.
 
 **Liens relatifs à cet article**
 
@@ -8361,15 +8593,15 @@ l'indice est celle du deuxième trimestre de l'année précédente.
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 2003-03-31
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 41 DD
@@ -9674,6 +9906,113 @@ II. - Les dispositions du II et du III de l'article 46 AGD s'appliquent au prés
 	  - Code du tourisme. - art. D421-3 (V)
 
 
+##### 2° bis : Réduction d'impôt accordée au titre de certains investissements forestiers
+
+###### Article 46 AGH
+
+Pour l'application du a du 2 de l'article 199 decies H du code général des impôts, les contribuables sont tenus de joindre à
+leur déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé une note annexe,
+établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants :
+
+a. L'identité et l'adresse du contribuable ;
+
+b. La désignation de la parcelle du terrain en nature de bois et forêts ou du terrain nu à boiser concerné ;
+
+c. Le prix et la date d'acquisition du terrain ;
+
+d. La déclaration d'engagement prévue par ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 decies H
+
+	**Créé par**:
+
+	  - Décret n°2002-1157 du 11 septembre 2002 - art. 1 () JORF 14 septembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 46 AGI
+
+I. - Lorsqu'un contribuable entend bénéficier de la réduction d'impôt en application des b et c du 2 de l'article 199 decies
+H du code général des impôts, il informe de cette intention le groupement forestier ou la société d'épargne forestière dont
+il a souscrit ou acquis les parts, au plus tard le 31 décembre de l'année de souscription ou d'acquisition. Le groupement ou
+la société doit alors joindre à la déclaration de résultat de cette même année les déclarations d'engagement prévues par ces
+dispositions, établies conformément à des modèles fixés par l'administration.
+
+II. - Le groupement ou la société doit, avant le 16 février de l'année civile qui suit celle de la souscription ou
+l'acquisition de parts, délivrer à ses associés qui entendent bénéficier de la réduction d'impôt un document établi
+conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements suivants :
+
+a. La raison sociale et l'adresse du siège social du groupement ou de la société ;
+
+b. L'attestation que les engagements mentionnés au I ont été pris et sont respectés.
+
+III. - Chaque année, le groupement ou la société doit joindre à sa déclaration de résultat un document établi conformément à
+un modèle fixé par l'administration et comportant les renseignements suivants :
+
+a. La raison sociale et l'adresse du siège social du groupement ou de la société ;
+
+b. L'attestation que les engagements mentionnés au I ont été pris et sont respectés ;
+
+c. L'identité et l'adresse de chacun des associés ;
+
+d. Le nombre, les numéros et les valeurs nominales des parts détenues par chacun des associés au 1er janvier et au 31
+décembre de l'année précédente et, le cas échéant, des parts souscrites, acquises et transmises au cours de l'année ainsi que
+la date de ces opérations.
+
+IV. - Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sont inscrites, dans les trente
+jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle les parts ouvrant droit au
+bénéfice de la réduction d'impôt ont été souscrites ou acquises, sur un compte ouvert au nom de l'associé dans la
+comptabilité du groupement ou de la société ou sur un registre spécial. Le groupement ou la société tient ce compte ou ce
+registre et conserve les documents relatifs aux opérations qui l'affectent jusqu'à la fin de la troisième année suivant celle
+de l'expiration de l'engagement de conservation des parts prévu aux b et c du 2 de l'article 199 decies H du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 decies H
+
+	**Créé par**:
+
+	  - Décret n°2002-1157 du 11 septembre 2002 - art. 1 () JORF 14 septembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 46 AGJ
+
+I. - L'engagement de conservation des parts prévu aux b et c du 2 de l'article 199 decies H du code général des impôts,
+établi conformément à un modèle fixé par l'administration, est joint à la déclaration des revenus de l'année au cours de
+laquelle les parts ouvrant droit au bénéfice de la réduction d'impôt ont été souscrites ou acquises.
+
+II. - Les associés joignent à cette déclaration le document mentionné au II de l'article 46 AGI.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 decies H
+	  - CGIAN3 46 AGI
+
+	**Créé par**:
+
+	  - Décret n°2002-1157 du 11 septembre 2002 - art. 1 () JORF 14 septembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
 ##### 3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer
 
 ###### Article 46 AG decies
@@ -9681,14 +10020,14 @@ II. - Les dispositions du II et du III de l'article 46 AGD s'appliquent au prés
 I. Pour l'application du 3° du 3 de l'article 199 undecies du code général des impôts, les montants annuels du loyer et des
 ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus en 2002, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2003, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 123 Euros dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
+1° 126 euros dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
 année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
 consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 164 Euros dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond
+2° 169 euros dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond
 est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des
 indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
@@ -9698,16 +10037,16 @@ la statistique et des études économiques au 1er décembre de l'année qui pré
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2002, les plafonds annuels de ressources sont fixés à :
+Pour les baux conclus en 2003, les plafonds annuels de ressources sont fixés à :
 
-1°  21 808 Euros pour une personne seule et 43 616 Euros pour un couple marié soumis à imposition commune dans les
-départements d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 2 523 Euros par personne à
-charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 371 Euros par enfant à
+1°  22 330 euros pour une personne seule et 44 660 euros pour un couple marié soumis à imposition commune dans les
+départements d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 2 584 euros par personne à
+charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 452 euros par enfant à
 partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
-2° 21 851 Euros pour une personne seule et 43 702 Euros pour un couple marié soumis à imposition commune dans les territoires
-d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 2 528 Euros par personne
-à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 378 Euros par enfant à
+2° 22 446 euros pour une personne seule et 44 892 euros pour un couple marié soumis à imposition commune dans les territoires
+d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 2 597 euros par personne
+à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 470 Euros par enfant à
 partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
 3. Dans le cas mentionné au troisième alinéa du 4 de l'article 199 undecies du code général des impôts, les conditions
@@ -9754,15 +10093,15 @@ investissements réalisés jusqu'au 31 décembre 2000).
 
 	**Codifié par**:
 
-	  - Décret n°2002-1207 2002-09-27
+	  - Décret n°2003-298 2003-03-31
 
 	**Modifié par**:
 
-	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
+	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 46 AG duodecies
@@ -9770,14 +10109,14 @@ investissements réalisés jusqu'au 31 décembre 2000).
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants :
 
-1. Pour les baux conclus en 2002, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2003, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 123 Euros dans les départements d'outre-mer et dans la collectivité départementale de Mayotte. Ce plafond est révisé
+1° 126 euros dans les départements d'outre-mer et dans la collectivité départementale de Mayotte. Ce plafond est révisé
 chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des
 prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 164 Euros dans les territoires d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-
+2° 169 euros dans les territoires d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-
 Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la
 moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
@@ -9797,17 +10136,17 @@ c) En Nouvelle-Calédonie, de la dernière variation annuelle publiée par l'Ins
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2002, les plafonds annuels de ressources sont fixés à :
+Pour les baux conclus en 2003, les plafonds annuels de ressources sont fixés à :
 
-1° 21 808 Euros pour une personne seule et 43 616 Euros pour un couple marié soumis à imposition commune dans les
-départements d'outre-mer et dans la collectivité départementale de Mayotte. Ces sommes sont majorées de 2 523 Euros par
-personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 371 Euros par
+1° 22 330 euros pour une personne seule et 44 660 euros pour un couple marié soumis à imposition commune dans les
+départements d'outre-mer et dans la collectivité départementale de Mayotte. Ces sommes sont majorées de 2 584 euros par
+personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 452 euros par
 enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1 ;
 
-2° 21 851 Euros pour une personne seule et 43 702 Euros pour un couple marié soumis à imposition commune dans les territoires
+2° 22 446 euros pour une personne seule et 44 892 euros pour un couple marié soumis à imposition commune dans les territoires
 d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ces sommes sont majorées
-de 2 528 Euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée
-à 3 378 Euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+de 2 597 euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée
+à 3 470 euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
 3. Dans le cas mentionné au troisième alinéa du 7 de l'article 199 undecies A du code général des impôts, les conditions
 prévues au 1 et au 2 s'apprécient en tenant compte du montant :
@@ -9826,11 +10165,11 @@ c) Des ressources du sous-locataire.
 
 	**Codifié par**:
 
-	  - Décret n°2002-1207 2002-09-27
+	  - Décret n°2003-298 2003-03-31
 
 	**Modifié par**:
 
-	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
+	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 	**Cité par**:
 
@@ -9845,7 +10184,7 @@ c) Des ressources du sous-locataire.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 46 AG nonies
@@ -10422,6 +10761,122 @@ durée de l'intervention.
 	**Codifié par**:
 
 	  - Décret n°2007-484 2007-03-30
+
+
+##### 10° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles
+
+###### Article 46 AS
+
+I. - Pour ouvrir droit au crédit d'impôt prévu au I de l'article 200 quinquies du code général des impôts, les véhicules sur
+lesquels sont effectuées les dépenses de transformation destinées à permettre leur fonctionnement au moyen du gaz de pétrole
+liquéfié sont ceux :
+
+a) Pour lesquels le délai entre la date de première mise en circulation figurant sur le certificat d'immatriculation et la
+date de la facturation desdites dépenses est inférieur à trois ans ;
+
+b) Qui disposent, à la date de facturation des dépenses de transformation, d'un certificat d'immatriculation et d'une
+assurance en cours de validité ;
+
+c) Qui ne sont pas déclarés économiquement irréparables au sens des articles L. 326-10 et L. 326-11 du code de la route.
+
+II. - Les opérations de la transformation doivent être effectuées par un opérateur agréé conformément aux dispositions de
+l'article 8 de l'arrêté du 15 janvier 1985 modifié relatif à l'équipement des véhicules automobiles utilisant comme source
+d'énergie les gaz de pétrole liquéfiés.
+
+III. - Le contribuable justifie de la conformité de la transformation du véhicule aux dispositions de l'arrêté du 4 août 1999
+modifié relatif à la réglementation des installations de gaz de pétrole liquéfiés des véhicules à moteur par la production
+d'une copie du certificat d'immatriculation portant la codification "EG".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1985-01-15 art. 8
+	  - Arrêté 1999-08-04
+	  - CGI 200 quinquies
+	  - Code de la route. - art. L326-10 (T)
+	  - Code de la route. - art. L326-11 (T)
+
+	**Créé par**:
+
+	  - Décret n°2002-1432 du 9 décembre 2002 - art. 1 () JORF 11 décembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 46 AT
+
+Pour l'application des dispositions du deuxième alinéa du I de l'article 200 quinquies du code général des impôts :
+
+I. - La remise d'une voiture particulière en vue de sa destruction à un organisme autorisé au titre de la législation des
+installations classées pour la protection de l'environnement est effectuée directement par le propriétaire du véhicule ou
+pour son compte par un professionnel du négoce de véhicules.
+
+L'organisme veille à la destruction complète du véhicule et remet au bénéficiaire du crédit d'impôt directement ou par
+l'intermédiaire du professionnel du négoce de véhicules un bon d'enlèvement conforme au modèle annexé au décret n° 2002-1432
+du 9 décembre 2002 pris pour l'application de l'article 200 quinquies du code général des impôts relatif au crédit d'impôt
+pour l'acquisition de véhicules neufs fonctionnant au moyen d'une énergie non polluante.
+
+Le propriétaire du véhicule retiré de la circulation dont l'identité figure sur le certificat d'immatriculation et sur le bon
+d'enlèvement et le bénéficiaire du crédit d'impôt prévu au deuxième alinéa du I de l'article 200 quinquies précité doivent
+appartenir au même foyer fiscal.
+
+II. - Le véhicule acquis ou faisant l'objet d'une première souscription d'un contrat de location avec option d'achat ou de
+location souscrit pour une durée d'au moins deux ans :
+
+a) N'a pas déjà fait l'objet d'une mise en circulation tant en France qu'à l'étranger ;
+
+b) Nécessite pour sa conduite un permis de conduire mentionné à l'article L. 223-1 du code de la route ;
+
+c) Fonctionne exclusivement ou non au moyen du gaz de pétrole liquéfié, ou combine l'énergie électrique et une motorisation à
+essence ou à gazole, ou fonctionne exclusivement ou non au moyen du gaz naturel véhicule.
+
+III. - Le véhicule retiré de la circulation :
+
+a) Appartient à la catégorie des voitures particulières telles que définies à l'article R. 311-1 du code de la route ;
+
+b) A été mis en circulation avant le 1er janvier 1992 ;
+
+c) Est la propriété du bénéficiaire du crédit d'impôt depuis au moins douze mois décomptés entre la date du dernier
+certificat d'immatriculation du véhicule détruit mentionnée sur le bon d'enlèvement cité au I et celle de l'établissement de
+ce bon d'enlèvement ;
+
+d) Fait l'objet à la date de son retrait de la circulation :
+
+1° D'un certificat d'immatriculation et d'une assurance en cours de validité ;
+
+2° D'un contrôle technique attestant qu'il est apte à la circulation. Cette condition n'est toutefois pas requise pour les
+véhicules de collection définis à l'article R. 323-3 du code de la route ;
+
+e) N'est pas gagé ;
+
+f) N'est pas économiquement irréparable au sens des articles L. 326-10 et L. 326-11 du code de la route.
+
+IV. - La destruction d'un véhicule répondant aux conditions énoncées au III, réalisée conformément aux dispositions du I, et
+l'acquisition ou la première souscription d'un contrat de location avec option d'achat ou de location souscrit pour une durée
+d'au moins deux ans d'un véhicule répondant aux conditions énoncées au II sont concomitantes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 200 quinquies
+	  - Décret n°2002-1432 2002-12-09 annexe
+	  - Code de la route. - art. L223-1 (M)
+	  - Code de la route. - art. L326-10 (T)
+	  - Code de la route. - art. L326-11 (T)
+	  - Code de la route. - art. R311-1 (M)
+	  - Code de la route. - art. R323-3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2002-1432 du 9 décembre 2002 - art. 1 () JORF 11 décembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
@@ -15363,6 +15818,178 @@ calculé dans les conditions prévues à l'article 235 ter E du même code.
 	  - HISTO: Edition du 4 juillet 1992
 
 
+##### Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse
+
+###### Article 49 septies WB
+
+Pour l'application des dispositions de l'article 244 quater E du code général des impôts, une déclaration spéciale devra être
+annexée à la déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation des
+investissements.
+
+L'option prévue au premier alinéa du II de l'article 244 quater E précité est réputée exercée au moment du dépôt de la
+déclaration spéciale mentionnée à l'alinéa précédent au titre du premier exercice ou de la première période d'imposition au
+cours de laquelle un investissement éligible au crédit d'impôt pour investissement en Corse est réalisé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater E
+
+	**Créé par**:
+
+	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 49 septies WC
+
+Pour la détermination du montant du crédit d'impôt pour investissement défini à l'article 244 quater E du code général des
+impôts, le prix de revient des immobilisations est diminué du montant des subventions publiques obtenues ou demandées et non
+encore accordées au 31 décembre de l'année mentionnée, selon le cas, à la première ou deuxième phrase du premier alinéa de
+l'article 199 ter D du code précité. 
+
+Pour les redevables de l'impôt sur les sociétés, le montant des subventions à retenir est apprécié à la date de clôture de
+l'exercice au titre duquel les investissements ouvrant droit au crédit d'impôt sont acquis, créés ou pris en crédit-bail. 
+
+S'il y a lieu, la régularisation du crédit d'impôt est effectuée au titre de la même année sur demande du contribuable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 ter D (V)
+	  - Code général des impôts, CGI. - art. 244 quater E (V)
+
+
+###### Article 49 septies WD
+
+Pour l'application des dispositions de l'article 199 ter D du code général des impôts, les personnes physiques titulaires du
+crédit d'impôt doivent joindre à leur déclaration d'impôt sur le revenu ou à leur déclaration de résultat de l'exercice, s'il
+s'agit d'exploitant individuel, un état de suivi du crédit d'impôt conforme à un modèle fourni par l'administration.
+
+Pour l'application des dispositions de l'article 220 D du code général des impôts, les personnes morales doivent déposer
+auprès du comptable chargé du recouvrement de l'impôt sur les sociétés, lors du versement du solde de cet impôt, un état de
+suivi du crédit d'impôt conforme au modèle établi par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter D, 220 D
+
+	**Créé par**:
+
+	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WF (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article 49 septies WE
+
+En cas de réalisation, au titre de plusieurs années ou de plusieurs exercices, d'investissements ouvrant droit au crédit
+d'impôt pour investissement en Corse défini à l'article 244 quater E du code général des impôts, le crédit d'impôt
+correspondant aux investissements réalisés au titre de l'année ou de l'exercice au titre duquel l'impôt est calculé est
+utilisé en paiement de cet impôt avant les crédits d'impôts reportables provenant de la réalisation d'investissements au
+titre d'années ou d'exercices antérieurs. Lorsque le redevable dispose de crédits d'impôts reportables provenant de la
+réalisation d'investissements au titre de plusieurs années ou exercices antérieurs, ceux-ci s'imputent par ordre
+d'ancienneté. 
+
+Le crédit d'impôt pour investissement défini à l'article 244 quater E du code général des impôts ne peut être utilisé en
+paiement de l'impôt résultant de la reprise des crédits d'impôts antérieurement imputés, effectuée en application du III de
+cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater E (V)
+
+
+###### Article 49 septies WF
+
+Les demandes de remboursement du crédit d'impôt pour investissement en Corse prévues à l'article 199 ter D du code général
+des impôts sont présentées au comptable chargé du recouvrement de l'impôt sur le revenu ou de l'impôt sur les sociétés du
+demandeur en lui adressant l'état de suivi mentionné à l'article 49 septies WD.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies WD (V)
+	  - Code général des impôts, CGI. - art. 199 ter D (V)
+
+
+###### Article 49 septies WG
+
+Lorsqu'une partie seulement des investissements ayant ouvert droit au crédit d'impôt défini à l'article 244 quater E du code
+général des impôts au titre d'une année ou d'un exercice est affectée par un des événements mentionnés au III de cet article,
+la part du crédit d'impôt de cette année ou de cet exercice déjà utilisée en paiement de l'impôt est réputée provenir de la
+réalisation des investissements de cette année ou cet exercice qui ne sont pas affectés par ces événements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater E (V)
+
+
+###### Article 49 septies WH
+
+En cas de réalisation de l'un des événements mentionnés au III de l'article 244 quater E du code général des impôts
+entraînant la remise en cause de tout ou partie du crédit d'impôt, l'entreprise propriétaire des investissements ayant ouvert
+droit au crédit d'impôt délivre dans les deux mois suivant l'un de ces événements au contribuable ou à l'entreprise concerné
+un relevé d'information comprenant : 
+
+a. L'identité et l'adresse du bénéficiaire du crédit d'impôt ; 
+
+b. L'année du crédit d'impôt à reprendre ; 
+
+c. La date de cession ou de changement d'affectation des immobilisations ou de cessation d'activité ; 
+
+d. Le montant du crédit d'impôt devant être repris. 
+
+Ce relevé est établi conformément à un modèle fixé par l'administration. 
+
+Une copie de ce relevé d'informations est adressée sous les mêmes délais au service chargé de l'assiette de l'impôt dont
+dépend l'entreprise propriétaire des biens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater E (V)
+
+
 ##### Section VI : Indemnités de congé payé
 
 ###### Article 49 octies
@@ -15788,35 +16415,69 @@ des impôts du siège de la direction de la personne morale ou de l'organisme ou
 	  - HISTO: Edition du 31 mars 2002
 
 
+###### Article 58-0 A
+
+Les modalités de l'agrément prévu au 10° du III de l'article 234 nonies du code général des impôts sont les suivantes :
+
+1. Peuvent être agréés par le représentant de l'Etat dans le département du lieu de leur siège social les organismes à but
+non lucratif dont l'un des objets est de contribuer au logement des personnes défavorisées mentionnées à l'article 1er de la
+loi n° 90-449 du 31 mai 1990 par la mise à leur disposition de logements.
+
+L'organisme doit justifier d'une compétence dans le domaine de l'action sociale et d'une expérience en matière d'insertion
+sociale ou de logement des personnes défavorisées.
+
+2. L'agrément est accordé par décision du représentant de l'Etat dans le département pour une durée indéterminée. Si l'une ou
+l'autre des conditions mentionnées au 1 cesse d'être remplie et après que l'organisme a été mis en mesure de présenter ses
+observations, le retrait de l'agrément peut être prononcé par le représentant de l'Etat dans le département du lieu du siège
+de l'organisme à but non lucratif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 234 nonies
+	  - Loi n°90-449 1990-05-31 art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Créé par**:
+
+	  - Décret n°2002-1322 du 29 octobre 2002 - art. 1 () JORF 6 novembre 2002
+
+
 ##### Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
 
 ###### Article 58 J
 
-La déclaration prévue à l'article 161 de l'annexe II au code général des impôts doit indiquer :
+Conformément aux dispositions de l'article R. 313-4 du code de la construction et de l'habitation, la déclaration prévue à
+l'article 161 de l'annexe II au code général des impôts, qui est établie en double exemplaire sur des imprimés fournis par
+l'administration, doit indiquer :
 
 a. L'année au cours de laquelle devaient être réalisés les investissements ;
 
-b. Le montant des rémunérations, traitements, indemnités et émoluments à prendre en considération pour l'assiette des
+b. Le montant des salaires, traitements, indemnités et émoluments à prendre en considération pour l'assiette des
 investissements dans la construction de logements à réaliser au cours de cette même année ;
 
 c. La somme totale à investir, compte tenu, le cas échéant, des remboursements et aliénations d'investissements antérieurs ;
 
-d. Le montant de l'investissement à réaliser en faveur des immigrés d'une part, des autres salariés, d'autre part ;
+d. Le montant de l'investissement à réaliser en faveur des immigrés, d'une part, des autres salariés, d'autre part ;
 
 e. Le montant des investissements réalisés au cours de l'année considérée, les modalités selon lesquelles ces investissements
 ont été effectués et la date à laquelle les sommes investies ont été effectivement versées ;
 
-f. Le montant des investissements excédentaires antérieurs qui ont été reportés conformément à l'article L 313-1 du code de
+f. Le montant des investissements excédentaires antérieurs qui ont été reportés conformément à l'article L. 313-1 du code de
 la construction et de l'habitation et, lorsque ces renseignements n'ont pas déjà été fournis, les modalités suivant
 lesquelles ces investissements ont été effectués et les dates auxquelles les sommes ainsi investies ont été effectivement
 versées ;
 
 g. Le montant total des investissements dont il y a lieu de faire état ;
 
-h. Et, selon le cas, le montant des investissements à reporter sur les périodes ultérieures ou le montant de l'insuffisance
-d'investissement ainsi que la base de la cotisation de 2 % prévue à l'article 235 bis du code général des impôts.
+h. Selon le cas, le montant des investissements à reporter sur les périodes ultérieures ou le montant de l'insuffisance
+d'investissement ainsi que la base de la cotisation de 2 % prévue à l'article 235 bis du code général des impôts ;
 
-Cette déclaration est établie en double exemplaire sur des imprimés fournis par l'administration.
+i. Le montant de la cotisation de 2 % à verser, le cas échéant, à la caisse du comptable de la direction générale des impôts.
 
 **Liens relatifs à cet article**
 
@@ -15824,19 +16485,20 @@ Cette déclaration est établie en double exemplaire sur des imprimés fournis p
 
 	  - CGI 235 bis
 	  - CGIAN2 161
-	  - Code de la construction L313 1
+	  - Code de la construction et de l'habitation. - art. L313-1 (M)
+	  - Code de la construction et de l'habitation. - art. R313-4 (M)
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 IV, V JORF 3 juillet 1998
+	  - Loi - art. 27 (V) JORF 31 décembre 2002
 
-	**Abrogé par**:
+	**Codifié par**:
 
-	  - Décret n°2002-1121 du 2 septembre 2002 - art. 2 () JORF 4 septembre 2002
+	  - Décret n°2003-298 2003-03-31
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### Section V : Contribution des institutions financières.
@@ -18104,7 +18766,7 @@ code général des impôts ;
 b) En cas de transfert des biens pour les besoins de l'entreprise dans un autre Etat membre où leur affectation est taxable,
 le numéro d'identification à la T.V.A. délivré à cette entreprise par cet Etat ;
 
-c) Abrogé ;
+c) (Abrogé à compter de la date d'entrée en vigueur du décret n° 96-773 du 4 septembre 1996, art. 1, JO du 6) ;
 
 d) La valeur fiscale en euros des livraisons de biens effectuées ;
 
@@ -18115,11 +18777,13 @@ des impôts.
 
 Le nombre et la nature des autres informations portées sur la déclaration dépendent de la nature des flux précisés à
 l'article 96 J et du montant des échanges par rapport aux seuils statistiques définis à l'article 28 du règlement C.E.E. n°
-3330-91 et fixés par arrêté du ministre chargé des douanes :
+3330-91 et fixés par arrêté du ministre chargé des douanes (1) :
 
-a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation :
+a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation (2) :
 
-1° La nomenclature de produit ;
+1° La nomenclature de produit. Dans le cas général, les codes à mentionner sont ceux de la nomenclature combinée en vigueur.
+Dans les cas particuliers prévus par arrêté du ministre chargé des douanes, la codification plus détaillée spécifiée dans cet
+arrêté doit être utilisée ;
 
 2° La valeur fiscale en euros des introductions/expéditions de biens ;
 
@@ -18130,10 +18794,10 @@ octobre 1992 dès lors que la valeur fiscale n'est pas exigée.
 
 Ces opérateurs ont la possibilité de mentionner au maximum dix des sous-positions de la nomenclature combinée des produits
 les plus importantes en valeur de leurs déclarations et de regrouper l'ensemble des autres produits sous une position unique
-de la nomenclature combinée fixée par arrêté du ministre chargé des douanes.
+de la nomenclature combinée fixée par arrêté du ministre chargé des douanes (3).
 
 b) De plus, pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil de
-simplification :
+simplification (4) :
 
 1° Le pays d'origine des produits, à l'introduction ;
 
@@ -18142,7 +18806,7 @@ simplification :
 3° La nature de la transaction ;
 
 c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au b dont le montant annuel des échanges
-intracommunautaires excède un seuil fixé par arrêté :
+intracommunautaires excède un seuil fixé par arrêté (5) :
 
 1° La valeur statistique en euros ;
 
@@ -18152,15 +18816,31 @@ intracommunautaires excède un seuil fixé par arrêté :
 
 4° Le département d'expédition initiale ou de destination du produit.
 
-d) Les opérateurs ont la possibilité de regrouper, sous une position unique de la nomenclature combinée, les transactions
-dont le montant en valeur est inférieur à un seuil fixé par arrêté du ministre chargé des douanes. Dans ce cas, les
+d) Les opérateurs ont la possibilité de regrouper, sous une position unique de la nomenclature combinée (3), les transactions
+dont le montant en valeur est inférieur à un seuil fixé par arrêté du ministre chargé des douanes (6). Dans ce cas, les
 informations visées aux b et c ne sont pas renseignées.
 
 Pour les opérateurs visés aux b et c, le montant total repris sous cette position unique de la nomenclature combinée ne peut
-cependant pas excéder une valeur fixée par arrêté du ministre chargé des douanes.
+cependant pas excéder une valeur fixée par arrêté du ministre chargé des douanes (7).
 
 e) Les opérateurs visés aux a et b peuvent se dispenser de la mention du régime pour les opérations n'impliquant pas
 l'indication du numéro d'identification à la TVA du partenaire étranger.
+
+**Nota:**
+
+(1) Voir l'article 41 sexies B de l'annexe IV.
+
+(2) Voir le I de l'article 41 sexies B de l'annexe IV.
+
+(3) Voir le I de l'article 41 sexies A de l'annexe IV.
+
+(4) Voir le II de l'article 41 sexies B de l'annexe IV.
+
+(5) Voir le III de l'article 41 sexies B de l'annexe IV.
+
+(6) Voir le II de l'article 41 sexies A de l'annexe IV.
+
+(7) Voir le III de l'article 41 sexies A de l'annexe IV.
 
 **Liens relatifs à cet article**
 
@@ -18173,8 +18853,7 @@ l'indication du numéro d'identification à la TVA du partenaire étranger.
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-	  - Décret n°2002-114 du 25 janvier 2002 - art. 2 () JORF 29 janvier 2002 en vigueur le 1er janvier 2002
+	  - Décret n°2002-1449 du 12 décembre 2002 - art. 2 () JORF 14 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cité par**:
 
@@ -18184,7 +18863,7 @@ l'indication du numéro d'identification à la TVA du partenaire étranger.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 96 M
@@ -25489,6 +26168,84 @@ d'habitation peut bénéficier des dispositions du II de l'article 1414 du code 
 	  - Code général des impôts, CGI. - art. 1414 (V)
 
 
+###### Article 322 quater
+
+L'imprimé mentionné au premier alinéa de l'article 322 ter, accompagné des pièces justificatives, doit être produit avant le
+1er mars de la première année au titre de laquelle les dispositions du 5° du II de l'article 1407 du code général des impôts
+sont applicables. 
+
+En cas de modification apportée aux modalités financières et d'occupation des logements par les étudiants, l'organisme doit
+produire cet imprimé, accompagné des pièces justificatives, avant le 1er mars de l'année suivant ce changement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-1462 du 16 décembre 2002 - art. 1 () JORF 18 décembre 2002
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 ter (V)
+	  - Code général des impôts, CGI. - art. 1407 (V)
+
+
+###### Article 322 ter
+
+Pour l'application des dispositions du 5° du II de l'article 1407 du code général des impôts, les organismes autres que les
+centres régionaux des oeuvres universitaires et scolaires doivent adresser aux services des impôts du lieu de situation de la
+résidence un imprimé conforme au modèle établi par l'administration (1) permettant de justifier que les logements sont mis à
+la disposition des étudiants dans des conditions financières et d'occupation analogues à celles retenues par les centres
+régionaux des oeuvres universitaires et scolaires. 
+
+L'organisme doit ainsi justifier par la production des tarifs pratiqués, des critères d'attribution des logements, du
+règlement intérieur de la résidence, du ou des contrat (s) type (s) de location ou d'hébergement et de tout autre document
+édité par l'organisme que : 
+
+1° Les tarifs de location avant imputation de l'allocation de logement sociale prévue par les articles L. 831-1 et suivants
+du code de la sécurité sociale ou de l'aide personnalisée au logement prévue par les articles L. 351-1 et suivants du code de
+la construction et de l'habitation n'excèdent pas de 10 % ceux pratiqués par les centres régionaux des oeuvres universitaires
+et scolaires ; 
+
+2° La résidence n'est occupée que par des étudiants inscrits dans l'un des établissements suivants agréés au régime de
+sécurité sociale des étudiants : établissements d'enseignement supérieur, écoles techniques supérieures, grandes écoles et
+classes du second degré préparatoires à ces écoles ; 
+
+3° L'admission dans la résidence doit concerner en priorité les étudiants bénéficiaires d'une bourse d'enseignement supérieur
+sur critères sociaux attribuée dans les conditions prévues chaque année par circulaire du ministre chargé de l'enseignement
+supérieur en application du décret du 9 janvier 1925 portant attribution de bourses aux étudiants et élèves des
+établissements d'enseignement supérieur et du décret n° 54-544 du 26 mai 1954 modifié relatif aux bourses d'enseignement
+supérieur ; 
+
+4° La résidence doit être ouverte à tous les étudiants quel que soit l'établissement mentionné au 2° dans lequel ils
+poursuivent leurs études ; 
+
+5° L'occupation du logement est soumise au respect d'un règlement intérieur de la résidence.
+
+**Nota:**
+
+(1) Cet imprimé est mis à disposition à l'adresse internet suivante : www.impots.gouv.fr.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-1462 du 16 décembre 2002 - art. 1 () JORF 18 décembre 2002
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 quater (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1407 (V)
+	  - Code de la sécurité sociale. - art. L831-1 (V)
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2003-03-06 6D-2-03
+
+
 ##### Section III : Taxe professionnelle
 
 ##### I : Exonération des gîtes ruraux.
@@ -28264,46 +29021,6 @@ obligations définies à l'article 53 A du code général des impôts sont tiré
 	  - Décret n°84-875 1984-10-01
 
 
-#### Chapitre II : Contributions indirectes
-
-##### Section I : Licence des débitants de boissons.
-
-###### Article 327
-
-Le tarif progressif du droit de licence est fixé par les conseils municipaux dans les limites et conditions définies par
-l'article 1568 du code général des impôts  d'après la valeur locative retenue pour l'établissement de la taxe foncière sur
-les propriétés bâties portant sur les débits de boissons.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1568
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
-
-
-###### Article 328
-
-Pour les établissements où la vente de boissons à consommer sur place ou à emporter ne constitue qu'une des branches de
-l'activité commerciale  et par dérogation à la règle posée à l'article 327, la valeur locative à considérer est fixée
-forfaitairement au tiers de celle retenue pour l'établissement de la taxe foncière sur les propriétés bâties.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 327
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - PEREMPTION: Loi - art. 27 (V) JORF 31 décembre 2002
-
-
 #### Chapitre III : Enregistrement
 
 ##### Section unique : Taxe locale d'équipement
@@ -29415,34 +30132,6 @@ professionnelles, auprès de chacun des organismes assureurs autres que les cais
 	  - HISTO: Edition du 31 août 2002
 
 
-###### Article 336 quater
-
-Les contributions mentionnées à l'article 1622 du code général des impôts sont acquittées en un seul versement, avant le 30
-octobre de chaque année, auprès du service des impôts chargé du recouvrement dont relève leur siège social.
-
-Ce versement est effectué au vu d'une déclaration conforme au modèle prescrit par l'administration.
-
-**Nota:**
-
-NOTA : dispositions devenues sans objet : loi n° 2002-1576 du 30 décembre 2002, art. 64.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1622
-
-	**Créé par**:
-
-	  - Décret n°2002-1097 du 28 août 2002 - art. 1 () JORF 30 août 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 août 2002
-	  - PEREMPTION: Loi - art. 64 (V) JORF 31 décembre 2002
-
-
 ###### Article 336 ter
 
 Au vu du budget prévisionnel annuel du fonds commun des accidents du travail agricole que la Caisse des dépôts et
@@ -29622,8 +30311,7 @@ sur la valeur ajoutée ;
 5° Aux déclarations de taxes et participations assises sur les salaires prévues aux articles 229, 235 ter J, 235 ter KD du
 code précité et 161 de l'annexe II au même code ;
 
-6° A la déclaration récapitulative de taxe professionnelle prévue au III de l'article 1477 et à la déclaration de cotisation
-minimum de taxe professionnelle prévue au IV de l'article 1647 E du même code ;
+6° A la déclaration de cotisation minimum de taxe professionnelle prévue au IV de l'article 1647 E du même code ;
 
 7° A la déclaration des sociétés immobilières mentionnée aux articles 172 bis du même code et 46 C ;
 
@@ -29652,13 +30340,17 @@ terdecies.
 
 	**Cite**:
 
-	  - CGI 172, 223, 209 B, 287, 1647 E, 1477, 172 bis, 229, 235 ter KD, 235 ter J, 990 F, 336 bis, 991, 978, 1010, 231 ter, 406 terdecies, 46 C, 235 ter X, 235 ter Y
+	  - CGI 172, 223, 209 B, 287, 1647 E, 172 bis, 229, 235 ter KD, 235 ter J, 990 F, 336 bis, 991, 978, 1010, 231 ter, 406 terdecies, 46 C, 235 ter X, 235 ter Y
 	  - CGIAN2 102 Z, 161
 	  - CGIAN3 344-0 A, 46 quater-0 F
 
 	**Modifié par**:
 
-	  - Décret n°2002-1097 du 28 août 2002 - art. 2 () JORF 30 août 2002
+	  - Loi n°2002-1575 2002-12-30 art. 83 1° Finances pour 2003 JORF 31 décembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
@@ -29666,7 +30358,7 @@ terdecies.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 344-0 C
@@ -30707,7 +31399,7 @@ I. - La direction générale des douanes et droits indirects exerce les compéte
 
 2° Au premier alinéa de l'article 444 du code général des impôts ;
 
-3° A l'article 511 bis du code général des impôts ;
+3° (Dispositions devenues sans objet).
 
 4° A l'article 570 du code général des impôts ;
 
@@ -30738,19 +31430,19 @@ du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies, 444, 511 bis, 570, 625, 319, 568, 304, 330, 541
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Loi - art. 60 (V) JORF 29 décembre 2001
+	  - CGI 306, 321, 412, 426, 427, 450, 454, 1562, 1565 septies, 444, 570, 625, 319, 568, 304, 330, 541
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
 
 
 ###### Article 350 quinquies
@@ -30783,25 +31475,25 @@ qu'aux articles 308, 343, 455, 483, 502 et 1565 du même code ;
 
 10° La déclaration mentionnée à l'article 1565 quinquies du code général des impôts ;
 
-11° La déclaration de cesser en application de l'article 1570 du code général des impôts.
+11° (Sans objet).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 303, 413, 312, 327, 329, 501, 511, 626, 415, 422, 424, 571, 425, 308, 343, 455, 483, 502, 1565, 1565 quinquies, 1570
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - CGI 303, 413, 312, 327, 329, 501, 511, 626, 415, 422, 424, 571, 425, 308, 343, 455, 483, 502, 1565, 1565 quinquies
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2003-298 2003-03-31
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 27 (V) JORF 31 décembre 2002
 
 
 ###### Article 350 septies
@@ -31119,7 +31811,7 @@ conditions fixées par l'article 1668 du code général des impôts, le premier 
 consécutive au commencement de ladite période, en est le plus rapprochée.
 
 Sont dispensées de verser les acomptes prévus au premier alinéa, les sociétés pour lesquelles le montant de l'impôt mentionné
-au deuxième alinéa de l'article 360 n'excède pas 150 euros.
+au deuxième alinéa de l'article 360 n'excède pas 3 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -31130,11 +31822,7 @@ au deuxième alinéa de l'article 360 n'excède pas 150 euros.
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-1536 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cité par**:
 
@@ -31142,8 +31830,7 @@ au deuxième alinéa de l'article 360 n'excède pas 150 euros.
 
 	**Liens**:
 
-	  - DISJONCTION: Décret n°2002-923 2002-06-06 art. 7 JORF 8 juin 2002)
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 360
@@ -31440,7 +32127,7 @@ La contribution mentionnée au I de l'article 235 ter ZA du code général des i
 chaque période servant de base aux impositions dans les conditions fixées au premier alinéa du III de l'article 1668 B du
 code précité.
 
-Sont dispensées du versement anticipé, les sociétés dont la contribution n'excède pas 15 euros.
+Sont dispensées du versement anticipé, les sociétés dont la contribution n'excède pas 100 euros.
 
 **Liens relatifs à cet article**
 
@@ -31450,12 +32137,11 @@ Sont dispensées du versement anticipé, les sociétés dont la contribution n'e
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2002-1536 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 366 D
@@ -31661,7 +32347,7 @@ est calculé et régularisé, au taux de 0,825 %, dans les conditions fixées au
 360.
 
 Sont dispensées des versements anticipés les sociétés pour lesquelles le montant de la contribution sociale calculée sur
-l'impôt sur les sociétés de référence n'excède pas 152 euros.
+l'impôt sur les sociétés de référence n'excède pas 3 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -31670,17 +32356,13 @@ l'impôt sur les sociétés de référence n'excède pas 152 euros.
 	  - CGI 1668 D, 235 ter ZC, 219, 223
 	  - CGIAN3 360
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
 	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 26 (V) JORF 3 juillet 1998
-	  - Décret n°2001-306 du 4 avril 2001 - art. 8 () JORF 10 avril 2001
-	  - Règlement 1103/97 1997-06-17 art. 5 JO 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement 2866/98 1998-12-31 art. 1 JO 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement 974/98 1998-05-03 art. 14 JO 11 mai 1998 en vigueur le 1er janvier 2002
+	  - Décret n°2002-1536 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002 en vigueur le 1er janvier 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 366 M
@@ -31881,7 +32563,7 @@ recouvrée dans les conditions prévues aux articles 376 à 381.
 ###### Article 376
 
 La contribution donne lieu à un acompte déterminé dans les conditions fixées au deuxième alinéa du III de l'article 234
-duodecies du code général des impôts. Lorsque l'acompte n'excède pas 15 euros, l'entreprise est dispensée de son versement.
+duodecies du code général des impôts. Lorsque l'acompte n'excède pas 100 euros, l'entreprise est dispensée de son versement.
 
 **Liens relatifs à cet article**
 
@@ -31891,17 +32573,15 @@ duodecies du code général des impôts. Lorsque l'acompte n'excède pas 15 euro
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2002-1536 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 375 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 377
@@ -32219,7 +32899,7 @@ de l'assiette mentionnée sur la déclaration susvisée.
 La contribution donne lieu à un acompte déterminé selon les modalités définies au troisième alinéa de l'article 234
 quaterdecies du code général des impôts et versé, sans avis d'imposition, au plus tard le 15 octobre de l'année de la
 perception des revenus soumis à la contribution ; la somme ainsi calculée est versée à la caisse du comptable du Trésor
-chargé du recouvrement des impôts directs. Lorsque l'acompte n'excède pas 15 euros, l'entreprise est dispensée de son
+chargé du recouvrement des impôts directs. Lorsque l'acompte n'excède pas 100 euros, l'entreprise est dispensée de son
 versement.
 
 **Liens relatifs à cet article**
@@ -32230,13 +32910,15 @@ versement.
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2002-1536 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002 en vigueur le 1er janvier 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article 381 sexies
@@ -32271,7 +32953,7 @@ dans les conditions prévues aux articles 381 septies à 381 decies.
 La contribution donne lieu à un acompte déterminé par l'entreprise selon les modalités définies au III de l'article 234
 duodecies du code général des impôts, exigible le dernier jour de l'avant-dernier mois de l'exercice et versée par elle, sans
 avis d'imposition, à la caisse du comptable du Trésor chargé du recouvrement des impôts directs. Lorsque l'acompte n'excède
-pas 15 euros, l'entreprise est dispensée de son versement.
+pas 100 euros, l'entreprise est dispensée de son versement.
 
 **Liens relatifs à cet article**
 
@@ -32281,13 +32963,11 @@ pas 15 euros, l'entreprise est dispensée de son versement.
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2002-1536 du 24 décembre 2002 - art. 1 () JORF 28 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs
@@ -34006,33 +34686,32 @@ d'équipement, elle doit en informer sans délai le préfet pour émission d'un 
 
 ###### Article 406 undecies
 
-La direction générale des douanes et droits indirects est compétente pour percevoir :
+La direction générale des douanes et droits indirects est compétente pour percevoir : 
 
-1° Les cotisations mentionnées aux articles 564 quinquies et 564 sexies du code général des impôts ;
+1° Les cotisations mentionnées aux articles 564 quinquies et 564 sexies du code général des impôts ; 
 
-2° Le droit de consommation sur les tabacs dans les conditions prévues à l'article 575 C du code général des impôts ;
+2° Le droit de consommation sur les tabacs dans les conditions prévues à l'article 575 C du code général des impôts ; 
 
-3° 4° (Sans objet).
+3° 4° (Sans objet). 
 
-5° Les taxes mentionnées au I de l'article 1699 du code général des impôts.
+5° La taxe mentionnée à l'article 1699 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 564 quinquies, 564 sexies, 575 C, 1618 octies, 1618 nonies, 1699
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-
 	**Modifié par**:
 
-	  - Loi n°95-1346 1995-12-30 art. 41-II Finances pour 1996, JORF 31 décembre 1995
+	  - Loi - art. 27 (V) JORF 31 décembre 2002
 
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°2003-298 2003-03-31
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1699 (V)
+	  - Code général des impôts, CGI. - art. 564 quinquies (V)
+	  - Code général des impôts, CGI. - art. 564 sexies (V)
+	  - Code général des impôts, CGI. - art. 575 C (V)
 
 
 ###### Article 406 undecies A

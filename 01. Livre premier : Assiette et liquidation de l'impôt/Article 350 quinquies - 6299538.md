@@ -28,22 +28,22 @@ qu'aux articles 308, 343, 455, 483, 502 et 1565 du même code ;
 
 10° La déclaration mentionnée à l'article 1565 quinquies du code général des impôts ;
 
-11° La déclaration de cesser en application de l'article 1570 du code général des impôts.
+11° (Sans objet).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 303, 413, 312, 327, 329, 501, 511, 626, 415, 422, 424, 571, 425, 308, 343, 455, 483, 502, 1565, 1565 quinquies, 1570
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - CGI 303, 413, 312, 327, 329, 501, 511, 626, 415, 422, 424, 571, 425, 308, 343, 455, 483, 502, 1565, 1565 quinquies
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2003-298 2003-03-31
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 27 (V) JORF 31 décembre 2002
