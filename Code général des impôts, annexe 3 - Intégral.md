@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1995-10-27
+Version Consolidée au 1996-05-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -123,13 +123,13 @@ conclusion du bail.
 ###### Article 2 octies
 
 Pour l'application de l'article 15 ter du code général des impôts, les montants annuels des ressources du locataire sont
-limités à ((103.630 F)) en région Ile-de-France et à ((94.170 F)) (M) dans les autres régions pour une personne seule. Ces
+limités à ((105.490 F)) en région Ile-de-France et à ((96.410 F)) (M) dans les autres régions pour une personne seule. Ces
 montants sont doublés pour un couple marié.
 
 Ces montants s'entendent des revenus nets de frais professionnels du locataire figurant sur son avis d'imposition établi au
-titre des revenus de 1994.
+titre des revenus de 1995.
 
-(M) Modification.
+(M) Modifications du Décret.
 
 **Liens relatifs à cet article**
 
@@ -139,28 +139,28 @@ titre des revenus de 1994.
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°96-556 1996-06-21
 
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 juin 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 2 septies
 
-Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder ((555
-F)) annuels par mètre carré de surface habitable en région Ile-de-France et ((493 F)) annuels par mètre carré de surface
+Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder ((558
+F)) (M) annuels par mètre carré de surface habitable en région Ile-de-France et ((495 F)) annuels par mètre carré de surface
 habitable dans les autres régions (M).
 
 Pendant la durée mentionnée à l'article 15 ter déjà cité, l'augmentation annuelle du loyer ne peut être supérieure à celle de
 l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études
 économiques. La date de référence de l'indice est celle du deuxième trimestre de l'année précédente.
 
-(M) Modifications.
+(M) Modifications du Décret.
 
 **Liens relatifs à cet article**
 
@@ -170,15 +170,15 @@ l'indice national mesurant le coût de la construction publié par l'Institut na
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°96-556 1996-06-21
 
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 juin 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 12 mai 1996
 
 
 ##### III : Bénéfices industriels et commerciaux
@@ -5804,6 +5804,45 @@ d. Le rapport existant entre le montant de la distribution et celui des avoirs d
 
 ##### B : Cessions de titres d'OPCVM monétaires ou obligataires de capitalisation - Exonérations temporaires.
 
+###### Article 39 octies
+
+I. Les contribuables qui entendent bénéficier de l'exonération prévue à l'article 92 B septies du code général des impôts
+font apparaître distinctement sur la déclaration de leurs plus-values prévue à l'article 97 du même code le montant des
+cessions correspondant aux plus-values dont l'exonération est demandée.
+
+II. Ils doivent joindre à leur déclaration :
+
+1° Un document établi par l'établissement ou la personne teneur du compte des opérations réalisées sur les titres visés au I
+bis de l'article 92 B du code précité indiquant la date et le montant des cessions ou rachats de titres réalisés au cours de
+l'année civile et pour lesquels l'exonération de la plus-value est demandée ;
+
+2° Une copie de la facture d'achat du véhicule mentionnant les date, nature et montant du ou des paiements effectués en
+remploi du prix de cession ou de rachat des titres ;
+
+3° Une copie du certificat d'immatriculation du véhicule.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 B septies, 97, 92
+
+	**Créé par**:
+
+	  - Décret n°96-160 du 1 mars 1996 - art. 1 (V) JORF 2 mars 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°99-382 du 18 mai 1999 - art. 3 () JORF 20 mai 1999
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 mars 1999
+
+
 ###### Article 39 septies
 
 I. Les contribuables qui entendent bénéficier de l'exonération prévue à l'article 92 B sexies du code général des impôts font
@@ -6955,15 +6994,13 @@ d'indiquer sur cette déclaration le détail des pertes reportées par année et
 	  - HISTO: Edition du 4 juillet 1992
 
 
-##### Profits réalisés sur les marchés à terme.
-
 ###### Article 41 septdecies J
 
 I. Les établissements et les personnes qui tiennent le compte des opérations réalisées en France ou à l'étranger par leurs
 clients sur un marché à terme d'instruments financiers ou de marchandises doivent déclarer à l'administration le montant des
-encaissements et décaissements effectués par chacun de leurs clients dans le cadre de ces opérations en indiquant
-distinctement le montant des encaissements et décaissements afférents aux opérations mentionnées au 12° de l'article 120 et
-aux articles 150 quinquies, 150 sexies et 150 octies du code général des impôts.
+profits et des pertes réalisés par chacun de leurs clients dans le cadre de ces opérations en indiquant distinctement la
+somme algébrique des profits et des pertes afférents aux opérations mentionnées au 12° de l'article 120 et aux articles 150
+quinquies, 150 sexies et 150 octies du code général des impôts.
 
 II. Les renseignements visés au I doivent parvenir avant le 16 février de chaque année pour les opérations de l'année
 précédente à la direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils
@@ -6977,41 +7014,39 @@ bénéficiaire.
 
 	  - CGI 150 quinquies, 150 sexies, 150 octies, 242 ter, 120 12°
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-306 du 30 mars 1992 - art. 3 (V) JORF 1er avril 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°95-1329 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
+	  - Décret n°95-1329 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies K (V)
 	  - Livre des procédures fiscales - art. R96 C-1 (Ab)
 
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
 
 ###### Article 41 septdecies K
 
 Lorsque les opérations sur un marché à terme d'instruments financiers ou de marchandises sont réalisées par l'intermédiaire
 d'une société mentionnée à l'article 8 du code général des impôts, la société doit déclarer à l'administration, selon les
-modalités définies à l'article 41 septdecies J, la quote-part des encaissements et décaissements correspondant aux droits de
-chacun de ses membres dans la société.
+modalités définies à l'article 41 septdecies J, la quote-part des profits et des pertes correspondant aux droits de chacun de
+ses membres dans la société.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°95-1329 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+	  - Décret n°95-1329 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+
 	**Cite**:
 
-	  - CGI 8
-	  - CGIAN3 41 septdecies J
-
-	**Créé par**:
-
-	  - Décret n°92-306 du 30 mars 1992 - art. 4 (V) JORF 1er avril 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies J (V)
+	  - Code général des impôts, CGI. - art. 8 (V)
 
 	**Cité par**:
 
@@ -7073,15 +7108,13 @@ d'indiquer sur cette déclaration le détail par année des pertes reportées.
 	  - HISTO: Edition du 4 juillet 1992
 
 
-##### Profits réalisés sur les marchés d'options négociables
-
 ###### Article 41 septdecies N
 
 I. Les établissements et les personnes qui tiennent le compte des opérations réalisées en France ou à l'étranger par leurs
-clients sur un marché d'options négociables doivent déclarer à l'administration le montant des encaissements et décaissements
-effectués par chacun de leurs clients dans le cadre de ces opérations en indiquant distinctement le montant des encaissements
-et décaissements afférents aux opérations mentionnées respectivement au 12° de l'article 120 et à l'article 150 nonies du
-code général des impôts.
+clients sur un marché d'options négociables doivent déclarer à l'administration le montant des profits et des pertes réalisés
+par chacun de leurs clients dans le cadre de ces opérations en indiquant distinctement la somme algébrique des profits et des
+pertes afférents aux opérations mentionnées respectivement au 12° de l'article 120 et à l'article 150 nonies du code général
+des impôts.
 
 II. Les renseignements visés au I doivent parvenir avant le 16 février de chaque année, pour les opérations de l'année
 précédente, à la direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils
@@ -7095,13 +7128,14 @@ bénéficiaire.
 
 	  - CGI 150 nonies, 242 ter, 120 12°
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-234 du 11 mars 1992 - art. 3 (V) JORF 15 mars 1992
+	  - Décret n°95-1330 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
+	  - Décret n°95-1330 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°92-836 1992-08-27
+	  - HISTO: Edition du 12 mai 1996
 
 	**Cité par**:
 
@@ -7112,23 +7146,23 @@ bénéficiaire.
 
 Lorsque les opérations sur un marché d'options négociables sont réalisées par l'intermédiaire d'une société mentionnée à
 l'article 8 du code général des impôts, la société doit déclarer à l'administration, selon les modalités définies à l'article
-41 septdecies N, la quote-part des encaissements et décaissements correspondant aux droits de chacun de ses membres dans la
-société.
+41 septdecies N, la quote-part des profits et des pertes correspondant aux droits de chacun de ses membres dans la société.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°95-1330 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+	  - Décret n°95-1330 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
+
 	**Cite**:
 
-	  - CGI 8
-	  - CGIAN3 41 septdecies N
-
-	**Créé par**:
-
-	  - Décret n°92-234 du 11 mars 1992 - art. 4 (V) JORF 15 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies N (Ab)
+	  - Code général des impôts, CGI. - art. 8
 
 
 ##### 3° : Profits réalisés sur les opérations de bons d'option
@@ -7186,15 +7220,12 @@ d'indiquer sur cette déclaration le détail par année des pertes reportées.
 	  - HISTO: Edition du 4 juillet 1992
 
 
-##### Profits réalisés sur les opérations de bons d'option
-
 ###### Article 41 septdecies R
 
 I. Les établissements et les personnes qui tiennent le compte des opérations sur bons d'option réalisées en France ou à
-l'étranger par leurs clients doivent déclarer à l'administration le montant des encaissements et décaissements effectués par
-chacun de leurs clients dans le cadre de ces opérations en indiquant distinctement le montant des encaissements et
-décaissements afférents aux opérations mentionnées au 12° de l'article 120 et à l'article 150 decies du code général des
-impôts.
+l'étranger par leurs clients doivent déclarer à l'administration le montant des profits et des pertes réalisés par chacun de
+leurs clients dans le cadre de ces opérations en indiquant distinctement la somme algébrique des profits et des pertes
+afférents aux opérations mentionnées au 12° de l'article 120 et à l'article 150 decies du code général des impôts.
 
 II. Ces renseignements doivent parvenir avant le 16 février de chaque année, pour les opérations de l'année précédente, à la
 direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils figurent sur la
@@ -7207,13 +7238,14 @@ sur un imprimé établi selon le même modèle et comportant l'identification du
 
 	  - CGI 150 decies, 242 ter, 120 12°
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-605 du 30 juin 1992 - art. 3 (V) JORF 4 juillet 1992
+	  - Décret n°95-1331 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
+	  - Décret n°95-1331 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°92-836 1992-08-27
+	  - HISTO: Edition du 12 mai 1996
 
 	**Cité par**:
 
@@ -7224,22 +7256,197 @@ sur un imprimé établi selon le même modèle et comportant l'identification du
 
 Lorsque les opérations sur bons d'option sont réalisées par l'intermédiaire d'une société mentionnée à l'article 8 du code
 général des impôts, la société doit déclarer à l'administration, selon les modalités définies à l'article 41 septdecies R, la
-quote-part des encaissements et décaissements correspondant aux droits de chacun de ses membres dans la société.
+quote-part des profits et des pertes correspondant aux droits de chacun de ses membres dans la société.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1331 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
+	  - Décret n°95-1331 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies R (Ab)
+	  - Code général des impôts, CGI. - art. 8
+
+
+##### 4° : Profits réalisés lors de la cession ou du rachat de parts de fonds communs d'intervention sur les marchés à terme
+
+###### Article 41 septdecies T
+
+Les contribuables qui réalisent en France, directement ou par personne interposée, des opérations imposables en application
+de l'article 150 undecies du code général des impôts doivent, pour l'application de l'article 97 du même code, déclarer sur
+une formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette ainsi que les
+éléments nécessaires à leur détermination.
+
+Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des cinq années antérieures sont tenus
+d'indiquer sur cette déclaration le détail par année des pertes reportées.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 8
-	  - CGIAN3 41 septdecies R
+	  - CGI 150 undecies, 97
 
 	**Créé par**:
 
-	  - Décret n°92-605 du 30 juin 1992 - art. 4 (V) JORF 4 juillet 1992
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
 
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°96-556 1996-06-21
+
+
+###### Article 41 septdecies U
+
+Les établissements et les personnes qui tiennent le compte des opérations réalisées par leurs clients sur les parts d'un
+fonds commun d'intervention sur les marchés à terme adressent, avant le 16 février de chaque année à la direction des
+services fiscaux du lieu de leur résidence ou de leur principal établissement, un document mentionnant, pour chaque
+propriétaire de parts, le montant global, compte non tenu des frais, des cessions ou des rachats de parts réalisés au cours
+de l'année précédente.
+
+Ces renseignements sont indiqués sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts lorsque
+celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant l'identification du
+déclarant et celle du bénéficiaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 242 ter
+
+	**Créé par**:
+
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies E (V)
+	  - Livre des procédures fiscales - art. R96 C-4 (Ab)
+
+
+###### Article 41 septdecies V
+
+Le dépositaire des actifs du fonds adresse, le cas échéant, avant le 16 février à la direction des services fiscaux du lieu
+de sa résidence ou de son principal établissement, un document faisant apparaître pour l'année précédente :
+
+1. Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 p. 100 des parts pendant une partie de l'année, la
+période pendant laquelle la limite de 10 p. 100 a été dépassée, les renseignements mentionnés à l'article 41 sexdecies B
+concernant l'intéressé, ainsi que le nombre de parts qu'il détient ;
+
+2. En cas de dissolution du fonds ou de distribution par le fonds d'une partie de ses avoirs entraînant annulation d'une
+fraction des parts de ce fonds :
+
+a. La date de la dissolution ou de la distribution des avoirs ;
+
+b. Les renseignements mentionnés à l'article 41 sexdecies B précité concernant chaque propriétaire de parts ainsi que le
+nombre des parts dont il disposait avant la dissolution ou, en cas de distribution d'avoirs, le nombre de ses parts annulées
+et leur valeur moyenne pondérée d'acquisition ;
+
+c. Le montant des attributions en nature ou en espèces autres que celles présentant le caractère de revenus de capitaux
+mobiliers revenant à chaque propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 sexdecies B
+
+	**Créé par**:
+
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+
+###### Article 41 septdecies W
+
+Lorsque les opérations sur parts de fonds communs d'intervention sur les marchés à terme sont réalisées par l'intermédiaire
+d'une société mentionnée à l'article 8 du code général des impôts, la société doit déclarer à l'administration, selon les
+modalités définies à l'article 41 septdecies U, la quote-part des cessions ou des rachats mentionnés à ce même article qui
+correspond aux droits de chacun des associés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies U (Ab)
+	  - Code général des impôts, CGI. - art. 8
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R96 C-4 (Ab)
+
+
+###### Article 41 septdecies X
+
+Le gérant d'un fonds commun d'intervention sur les marchés à terme ou le dépositaire des actifs de ce fonds est soumis aux
+obligations définies aux articles 41 sexdecies A à 41 sexdecies F.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A
 
 
 ##### X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
@@ -7907,14 +8114,14 @@ sociétés et organismes prévue à l'article 39 quinquies du code général des
 ###### Article 41 DC
 
 Pour l'application du I de l'article 15 bis, du III de l'article 35 bis et de l'article 92 L du code général des impôts, le
-prix de location ne doit pas excéder ((322 F annuels par mètre carré habitable en région Ile-de-France, et 268 F annuels par
-mètre carré habitable dans les autres régions)) (M).
+prix de location ne doit pas excéder ((324 F)) (M) annuels par mètre carré habitable en région Ile-de-France, et ((269 F))
+annuels par mètre carré habitable dans les autres régions.
 
 Ces prix sont révisés chaque année le 1er janvier en fonction de la variation annuelle de l'indice national mesurant le coût
 de la construction publié par l'Institut national de la statistique et des études économiques. La date de référence de
 l'indice est celle du deuxième trimestre de l'année précédente.
 
-(M) Modification.
+(M) Modifications du décret 96-556.
 
 **Liens relatifs à cet article**
 
@@ -7924,15 +8131,15 @@ l'indice est celle du deuxième trimestre de l'année précédente.
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°96-556 1996-06-21
 
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 juin 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 41 DD
@@ -9947,6 +10154,78 @@ sur papier libre, conformément à un modèle fixé par l'administration.
 	  - HISTO: Edition du 31 mars 2002
 
 
+###### Article 46 AG-0 A
+
+Pour l'application du III de l'article 199 decies A du code général des impôts :
+
+I. Le personnel des organismes publics ou privés, sous-locataire du logement, s'entend des personnes employées par ces
+organismes et dont les rémunérations principales entrent dans la catégorie des traitements et salaires au sens de l'article
+79 du code général des impôts.
+
+II. Lorsque le bénéfice de la réduction d'impôt prévue à l'article 199 decies B du code général des impôts est demandé, les
+conditions prévues au 3° de cet article s'apprécient en tenant compte du montant :
+
+- du loyer payé au bailleur par l'organisme locataire ;
+
+- du loyer payé à cet organisme par le sous-locataire ;
+
+- des ressources du sous-locataire.
+
+III. Les contribuables doivent joindre à leur déclaration de revenus de l'année au titre de laquelle le bénéfice de la
+réduction d'impôt est demandé :
+
+1. L'engagement de location prévu au I de l'article 199 nonies et au I de l'article 199 decies A ou à l'article 199 decies B
+du code général des impôts ;
+
+2. Une copie du bail conclu avec l'organisme locataire ;
+
+3. La note annexe prévue au I de l'article 46 AA complétée, le cas échéant, du nom du sous-locataire et des nom et adresse de
+son employeur ;
+
+4. Lorsque le bénéfice de la réduction d'impôt prévue à l'article 199 decies B du code général des impôts est demandé, une
+copie de l'avis d'imposition ou de non-imposition du sous-locataire mentionné au 2 de l'article 46 AGA ainsi qu'un document
+faisant mention du montant annuel du loyer payé par le sous-locataire.
+
+Si le bail n'est pas signé à la date de souscription de la déclaration susvisée, les documents mentionnés aux 2 et 4 ainsi
+qu'une note indiquant le nom du sous-locataire et les nom et adresse de son employeur sont joints à la déclaration des
+revenus de l'année au cours de laquelle le bail est signé. Il en est de même en cas de changement de locataire ou de sous-
+locataire pendant la durée d'engagement mentionnée au I de l'article 199 decies A ou à l'article 199 decies B du code déjà
+cité.
+
+IV. Lorsque le logement est acquis ou construit par une société mentionnée à l'article 199 decies ou à l'article 199 decies B
+du code général des impôts, les obligations déclaratives énumérées au III incombent à la société. Les documents sont adressés
+selon les modalités prévues à l'article 46 AD.
+
+Lorsque l'une ou l'autre des conditions d'application de l'article 199 decies A du code général des impôts cesse d'être
+remplie, les dispositions de l'article 46 AE sont applicables.
+
+La société délivre en double exemplaire aux souscripteurs de titres un document attestant que la location et la sous-location
+remplissent les conditions fixées au présent article. Le souscripteur en joint un exemplaire à sa déclaration de revenus de
+l'année au cours de laquelle le bail est signé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 decies A, 79, 199 decies B, 199 decies
+	  - CGIAN3 46 AA, 46 AGA, 46 AD, 46 AE
+
+	**Créé par**:
+
+	  - Décret n°96-164 du 28 février 1996 - art. 1 () JORF 6 mars 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+	  - Décret n°2002-923 2002-06-06
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 mars 2002
+
+
 ###### Article 46 AGC
 
 Pour l'application de l'article 199 decies D du code général des impôts, les contribuables sont tenus de joindre à leur
@@ -9995,23 +10274,23 @@ III. Une copie de la déclaration d'achèvement des travaux, accompagnée d'une 
 Pour l'application du 3° du premier alinéa de l'article 199 decies B du code général des impôts, les montants annuels du
 loyer et des ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus entre le ((1er janvier et le 31 décembre 1995, les plafonds de loyer, charges non comprises, sont
-fixés à 809 F annuels par mètre carré de surface habitable en région Ile-de-France et 576 F annuels par mètre carré de
-surface habitable dans les autres régions)) (M). Ces plafonds sont relevés chaque année le 1er janvier dans la même
+1. Pour les baux conclus entre le 1er janvier et le 31 décembre ((1996)), les plafonds de loyer, charges non comprises, sont
+fixés à ((813 F)) (M) annuels par mètre carré de surface habitable en région Ile-de-France et ((579 F)) annuels par mètre
+carré de surface habitable dans les autres régions. Ces plafonds sont relevés chaque année le 1er janvier dans la même
 proportion que l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des
 études économiques. La date de référence de l'indice est celle du deuxième trimestre de l'année précédente.
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Les plafonds annuels de ressources sont fixés, pour une personne seule, à ((153.930 F en région Ile-de-France et à 119.050 F
-dans les autres régions pour les revenus 1993)) (M).
+Les plafonds annuels de ressources sont fixés, pour une personne seule, à ((156.690 F)) en région Ile-de-France et à
+((121.190 F)) dans les autres régions pour les revenus ((1995)) (M).
 
 Ces montants sont doublés pour un couple marié. Ils sont relevés chaque année dans la même proportion que la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu. Les montant obtenus sont arrondis, s'il y a lieu, à la
 centaine de francs supérieure.
 
-(M) Modification.
+(M) Modifications du Décret 96-556.
 
 **Liens relatifs à cet article**
 
@@ -10021,15 +10300,15 @@ centaine de francs supérieure.
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°96-556 1996-06-21
 
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 juin 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 46 AGB
@@ -10633,6 +10912,40 @@ l'exactitude des renseignements portés sur les déclarations prévues auxdits a
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 B (V)
+
+
+##### Section V : Disposition applicable en cas de perte du statut fiscal des sociétés de personnes
+
+###### Article 46 E
+
+I.-Pour l'application du premier alinéa du II de l'article 202 ter du code général des impôts, les produits acquis non encore
+perçus et les dépenses engagées non encore payées sont, pour l'établissement de l'impôt sur le revenu, rattachés à la période
+d'imposition close par la perte totale ou partielle d'assujettissement à l'un des régimes mentionnés par ce texte. 
+
+Le revenu net soumis à l'impôt sur le revenu au titre de la période d'imposition visée au premier alinéa est établi sous
+déduction des provisions répondant aux conditions prévues au 5° du 1 de l'article 39 du code général des impôts, si elles
+sont reprises au bilan d'ouverture de la première période ou du premier exercice d'assujettissement à l'impôt sur les
+sociétés mentionné au III de l'article 202 ter du même code. 
+
+II.-Pour l'application du premier alinéa du II de l'article 202 ter du code général de impôts, les produits encaissés et les
+dépenses payées au cours de la dernière période d'imposition à l'impôt sur le revenu, qui correspondent à des créances
+acquises ou à des dettes devenues certaines postérieurement à cette période, ne sont pas retenus pour la détermination du
+revenu soumis à l'impôt au titre de cette période.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-116 du 8 février 1996 - art. 1 (V) JORF 15 Février 1996
+	  - Décret n°96-116 du 8 février 1996 - art. 2 (V) JORF 15 Février 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 202 ter (V)
 
 
 #### Chapitre I bis : Impôt sur les sociétés
@@ -12424,34 +12737,34 @@ l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles rel�
 titre duquel le régime défini à l'article 223 A déjà cité s'applique. L'accord est donné pour la durée restant à courir de
 l'option prévue à ce dernier article.
 
-Pour les exercices ouverts au cours des six premiers mois de l'année 1988, cet accord est donné, au plus tard, à la date de
-l'option de la société mère.
-
-Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
-décision de la société mère en informent le service des impôts dont elles relèvent avant l'ouverture de cet exercice.
+((Devenu sans objet)) (M)    Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le
+résultat d'ensemble par décision de la société mère en informent le service des impôts dont elles relèvent avant l'ouverture
+de cet exercice.
 
 Pour remplir les obligations prévues au présent article et à l'article 46 quater-0 ZD, la société doit utiliser des documents
 conformes aux modèles établis par l'administration.
+
+(M) Modification du Décret 96-556.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 223 A
-	  - CGIAN3 46 quater-0 ZD
-
-	**Créé par**:
-
-	  - Décret n°88-318 du 28 mars 1988 - art. 2 (V) JORF 8 avril 1988
+	  - Décret n°96-556 1996-06-21
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°96-556 1996-06-21
+
+	**Modifié par**:
+
+	  - Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 juin 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
 
 
 ###### Article 46 quater-0 ZF
@@ -12836,35 +13149,6 @@ chacun des quatre exercices suivants.
 	  - HISTO: Edition du 15 juillet 1988
 
 
-###### Article 46 quater-0 ZP
-
-Pour l'application des dispositions du a du 1 de l'article  223 G du code général des impôts, le bénéfice qu'une société mère
-agréée en application de l'article 209 sexies du même code a déclaré au titre des exercices précédant la date d'effet de
-l'option mentionnée à l'article 223 A de ce code s'entend du résultat de cette société, égal à la somme algébrique de son
-résultat propre et de ceux de ses filiales qui étaient assimilées à ses établissements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 sexies, 223 A, 223 G
-
-	**Créé par**:
-
-	  - Décret n°88-592 du 6 mai 1988 - art. 2 (V) JORF 8 mai 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20 Décret 96-556 1996-06-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 février 1996
-	  - HISTO: Edition du 12 mai 1996
-	  - HISTO: Edition du 15 juillet 1988
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
-
-
 ###### Article 46 quater-0 ZQ
 
 Si une société mère agréée en application de l'article  209 sexies du code général des impôts opte pour le régime défini à
@@ -13194,27 +13478,21 @@ concerne les sociétés régies par le titre II de l'ordonnance n° 45-2710 du 2
 
 ###### Article 46 terdecies A
 
-Les sociétés à responsabilité limitée exerçant une activité industrielle, commerciale ou artisanale et formées uniquement
-entre personnes parentes en ligne directe ou entre frères et soeurs, ainsi que les conjoints qui, en application de l'article
-239 bis AA du code général des impôts, désirent opter à compter d'un exercice déterminé pour le régime fiscal des sociétés de
-personnes doivent notifier leur option avant la date d'ouverture de cet exercice au service des impôts auprès duquel doit
-être souscrite la déclaration de résultats.
-
-(Devenu sans objet).
+Les sociétés à responsabilité limitée exerçant une activité industrielle, commerciale, artisanale ou agricole et formées
+uniquement entre personnes parentes en ligne directe ou entre frères et soeurs, ainsi que les conjoints qui, en application
+de l'article 239 bis AA du code général des impôts, désirent opter à compter d'un exercice déterminé pour le régime fiscal
+des sociétés de personnes doivent notifier leur option avant la date d'ouverture de cet exercice au service des impôts auprès
+duquel doit être souscrite la déclaration de résultats.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 239 bis AA
+	  - Loi n°96-314 du 12 avril 1996 - art. 59 () JORF 13 avril 1996
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
-
-	**Modifié par**:
-
-	  - Décret n°85-1007 1985-09-24 en vigueur le 15 juillet 1985
+	  - Décret n°96-556 1996-06-21
 
 	**Cité par**:
 
@@ -13223,9 +13501,9 @@ personnes doivent notifier leur option avant la date d'ouverture de cet exercice
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies D (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZT (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition 15 juillet 1985
+	  - Code général des impôts, CGI. - art. 239 bis AA (V)
 
 
 ###### Article 46 terdecies B
@@ -13607,30 +13885,31 @@ doit pas excéder 10 % du montant total de l'actif brut de la société.
 
 ###### Article 46 quaterdecies G
 
-Lorsqu'un contribuable entend bénéficier de la déduction prévue par le II ((ou le II bis de l'article 238 bis HA du code
-général des impôts)) (1) ou de la réduction d'impôt prévue par l'article 199 undecies du même code à raison de la
-souscription d'actions ou de parts d'une société mentionnée à l'article 46 quaterdecies E, il fait connaître son intention à
-cette société au plus tard le 31 décembre de l'année de la souscription. Si la souscription a été reçue par un intermédiaire
-agréé au sens de l'article 75-0 J de l'annexe II au code précité le contribuable fait connaître à cet intermédiaire son
-intention de bénéficier de la déduction ou de la réduction d'impôt.
+Lorsqu'un contribuable entend bénéficier de la déduction prévue par le II ou le II bis de l'article 238 bis HA du code
+général des impôts ou de la réduction d'impôt prévue par l'article 199 undecies du même code à raison de la souscription
+d'actions ou de parts d'une société mentionnée à l'article 46 quaterdecies E, il fait connaître son intention à cette société
+au plus tard le 31 décembre de l'année de la souscription. Si la souscription a été reçue par un intermédiaire agréé au sens
+de l'article 75-0 J de l'annexe II au code précité le contribuable fait connaître à cet intermédiaire son intention de
+bénéficier de la déduction ou de la réduction d'impôt.
 
 Dans ce cas, la société ou l'intermédiaire agréé délivre au contribuable une attestation indiquant le montant des fonds
 versés, la date du versement, le nombre des parts ou actions souscrites et, le cas échéant, leurs numéros. 
 
-L'attestation précise qu'elle est délivrée pour l'application des dispositions du II ((ou du II bis de l'article 238 bis HA
-du code général des impôt)) (1) et de l'article 199 undecies du même code et que la société bénéficiaire de l'apport exerce
-son activité dans les conditions prévues à l'article 46 quaterdecies E.
+L'attestation précise qu'elle est délivrée pour l'application des dispositions du II ou du II bis de l'article 238 bis HA du
+code général des impôt et de l'article 199 undecies du même code et que la société bénéficiaire de l'apport exerce son
+activité dans les conditions prévues à l'article 46 quaterdecies E.
 
-((Pour l'application du III ter de l'article 238 bis HA du code général des impôts, l'avis du ministre des départements et
-territoires d'outre-mer est donné dans un délai de trente jours à compter de l'envoi de la demande du ministre du budget.
+Pour l'application du III ter ((et du III quater)) (M) de l'article 238 bis HA du code général des impôts, l'avis du ministre
+des départements et territoires d'outre-mer est donné dans un délai de trente jours à compter de l'envoi de la demande du
+ministre du budget.
 
-((Lorsque le ministre du budget a délégué son pouvoir de décision aux directeurs des services fiscaux des départements
-d'outre-mer, en application des dispositions du I de l'article 1649 nonies du code général des impôts, l'avis est donné dans
-les trente jours par le préfet du département d'outre-mer concerné, représentant le ministre des départements et territoires
+Lorsque le ministre du budget a délégué son pouvoir de décision aux directeurs des services fiscaux des départements d'outre-
+mer, en application des dispositions du I de l'article 1649 nonies du code général des impôts, l'avis est donné dans les
+trente jours par le préfet du département d'outre-mer concerné, représentant le ministre des départements et territoires
 d'outre-mer. Cet avis sera toutefois donné par le ministre lorsqu'il aura évoqué le dossier ou bien lorsque le préfet le lui
-aura transmis compte tenu des caractéristiques propres à la demande)) (1).
+aura transmis compte tenu des caractéristiques propres à la demande.
 
-(1) Modifications du décret.
+(M) Modifications du décret.
 
 **Liens relatifs à cet article**
 
@@ -13641,11 +13920,11 @@ aura transmis compte tenu des caractéristiques propres à la demande)) (1).
 
 	**Modifié par**:
 
-	  - Décret n°94-7 1994-01-04 art. 4 JORF 6 janvier 1994
+	  - Décret n°96-204 du 15 mars 1996 - art. 1 () JORF 16 mars 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article 46 quaterdecies I
@@ -16287,8 +16566,8 @@ défaut, par le service des douanes le plus proche du point d'entrée ou du poin
 
 ###### Article 73 G
 
-L'exonération prévue au I et aux 13°, 13° bis et 13° ter du II de l'article 262 et au 2° du III de l'article 291 du code
-général des impôts s'applique aux prestations de service ci-après :
+L'exonération prévue au I (M) de l'article 262 et au 2° du III de l'article 291 du code général des impôts s'applique aux
+prestations de service ci-après :
 
 1° Transports de marchandises à destination d'un Etat n'appartenant pas à la Communauté européenne ou d'un territoire d'un
 Etat membre de la Communauté situé en dehors du champ d'application de la directive (C.E.E.) n° 77-388 du 17 mai 1977
@@ -16312,28 +16591,31 @@ sont concomitantes ou postérieures à la mise à la consommation ;
 7° Manipulations et ouvraisons autorisées par la réglementation douanière et portant sur des marchandises soumises à l'un des
 régimes suspensifs prévus par le b du 2 du I et le 1° du II de l'article 291 du code précité.
 
+(M) Modification de la Loi 95-1347.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CEE Directive 77-388 1977-05-17 Conseil
+	  - CEE Directive 77-388 1977-05-17 (Conseil)
 	  - CGI 262, 291
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Modifié par**:
-
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°96-556 1996-06-21
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 73 H (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: JORF 31 décembre 1995)
+
+	**Modifié par**:
+
+	  - Loi n°95-1347 1995-12-30 art. 19-IV-2°, a et XIX, Finances rectificative pour 1995
 
 
 ###### Article 73 H
@@ -19322,6 +19604,41 @@ auxiliaire de fabrication, sont saisis par procès-verbal.
 	  - Décret n°2004-1070 2004-10-08
 
 
+###### Article 142
+
+Il est tenu, dans les fabriques de boissons de raisins secs, des comptes spéciaux de fabrication et de magasin pour les
+liquides alcooliques visés au I de l'article 401 du code général des impôts.
+
+La mise en oeuvre des matières premières et l'entonnement doivent être déclarés dans les délais fixés par l'article 132.
+
+Le compte de fabrication est chargé, au minimum, d'une quantité d'alcool correspondant à la richesse saccharine des matières
+mises en oeuvre, suivant une base d'évaluation déterminée de gré à gré par l'administration et le fabricant et, en cas de
+contestation, par la commission visée à l'article 343 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 401, 343
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 août 2004
+
+	**Modifié par**:
+
+	  - Loi - art. 25 () JORF 31 décembre 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+
 ###### Article 143
 
 Lorsque les fabricants travaillent d'une manière continue, et après déclaration faite au bureau de déclarations de la
@@ -21296,6 +21613,78 @@ peut motiver le retrait de l'autorisation de frapper ou de faire frapper des mé
 
 #### Chapitre III : Droits divers - Taxe spéciale sur les sucres et glucoses utilisés à la préparation d'apéritifs à base de vin ou de produits similaires.
 
+###### Article 215
+
+Toute personne désirant se livrer, à l'aide ((de sucre, de glucose, d'isoglucose ou de sirop d'inuline)) (M) à la fabrication
+d'apéritifs à base de vin ou de produits similaires est tenue de faire, huit jours avant le début de ses opérations, une
+déclaration indiquant la nature ainsi que la dénomination commerciale du produit à fabriquer et présentant la description du
+local dans lequel seront emmagasinés les sucres et glucoses.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 1 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 47 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 216
+
+((Les sucres, glucoses, isoglucoses et sirops d'inuline)) (M) destinés à des fabricants d'apéritifs à base de vin ou de
+produits similaires doivent parvenir en vertu d'acquits-à-caution. Ils sont suivis à un compte tenu par le fabricant lui-
+même, sans blancs ni ratures, sur un registre coté et paraphé par le service des douanes et droits indirects.
+
+A ce compte sont inscrits, au fur et à mesure des opérations :
+
+1° Aux entrées :
+
+a) ((Les quantités de sucre, de glucose, d'isoglucose ou de sirop d'inuline)) (M) en la possession des fabricants au moment
+où ils effectuent la déclaration prévue à l'article 215 ; 
+
+b) Les réceptions ultérieures avec l'analyse des titres de mouvement ; 
+
+c) Excédents constatés lors des inventaires. 
+
+2° Aux sorties :
+
+a) Les quantités passibles de la taxe spéciale visée à l'article 563 du code général des impôts, dont la mise en oeuvre est
+déclarée dans les formes prévues à l'article 218 ; 
+
+b) Les quantités employées à d'autres usages avec le détail de chaque affectation ; 
+
+c) Les manquants constatés lors des inventaires.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 563
+	  - CGIAN3 215, 218
+
+	**Modifié par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 1 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 47 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
 ###### Article 217
 
 Les agents du service des douanes et droits indirects peuvent, à toute époque, arrêter le compte et procéder à l'inventaire
@@ -21316,6 +21705,61 @@ inventaire.
 	**Modifié par**:
 
 	  - Décret n°93-14 1993-01-04 art. 3 JORF 5 janvier 1993
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 47 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 218
+
+Toute fabrication d'apéritifs à base de vin ou de produits similaires à l'aide de ((sucre, de glucose, d'isoglucose ou de
+sirop d'inuline)) (M) doit être précédée d'une déclaration souscrite vingt-quatre heures à l'avance dans les localités où
+existe un service des douanes et droits indirects , et soixante-douze heures à l'avance partout ailleurs. La déclaration
+indique l'heure à laquelle doit avoir lieu l'opération, la nature, la dénomination commerciale, le volume de la boisson à
+obtenir ainsi que la quantité d'alcool pur contenue dans cette boisson, enfin, ((le poids de sucre, de glucose, d'isoglucose
+ou de sirop d'inuline)) (M) à mettre en oeuvre. Elle peut être contrôlée par les agents du service des douanes et droits
+indirects, auxquels les contribuables doivent fournir les instruments de pesage nécessaires.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 1 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 47 (V) JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 219
+
+La taxe spéciale sur ((les sucres, glucoses , isoglucoses et sirops d'inuline)) (M) utilisés à la préparation des apéritifs à
+base de vin ou de produits similaires est exigible au moment même de l'emploi. ((Elle peut, en ce qui concerne les sucres et
+glucoses,)) (M) être acquittée au moyen d'obligations cautionnées dans les conditions déterminées par l'article 1698 du code
+général des impôts.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1698
+
+	**Modifié par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 1 () JORF 9 novembre 1995
 
 	**Liens**:
 
@@ -21756,9 +22200,386 @@ constituent des opérations déterminées.
 	  - Décret n°2007-484 2007-03-30
 
 
+#### Chapitre III ter A : Régime économique du sirop d'inuline.
+
+###### Article 219 V bis
+
+Les fabricants de sirop d'inuline sont tenus de souscrire, au bureau de déclaration de la direction générale des douanes et
+droits indirects dans le ressort duquel est située la fabrique, une déclaration présentant la description et le plan de masse
+de celle-ci et indiquant le nombre et la capacité maximale des cuves, vaisseaux et magasins de toute nature destinés à
+contenir le sirop d'inuline et ses matières premières.
+
+En cas d'ouverture de nouvelles usines ou de transformations apportées à des usines existantes, une déclaration décrivant les
+nouvelles installations devra être déposée au plus tard quinze jours avant leur entrée en fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 2 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 V quater
+
+Dans chaque unité de fabrication de sirop d'inuline, il doit être tenu, à partir d'indications journalières, un compte de
+fabrication. Toutes les quantités portées à ce compte sont exprimées en poids réel et matières sèches.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 2 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 V quinquies
+
+Les fabricants de sirop d'inuline doivent installer, dans les conditions fixées par l'administration, tous moyens de pesage,
+de comptage et de mesurage de leur production.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 2 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 V septies
+
+Les agents du service des douanes et droits indirects peuvent procéder en début et en fin de campagne de fabrication à
+l'inventaire des quantités de sirop d'inuline existantes.
+
+Pour l'application de l'article L. 51 du livre des procédures fiscales, les rapprochements auxquels donne lieu
+l'établissement de l'inventaire, entre le compte de fabrication prévu par l'article 219 V quater et la comptabilité
+commerciale, constituent des opérations déterminées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 219
+	  - Livre des procédures fiscales - art. L51 (M)
+
+	**Créé par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 2 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 V sexies
+
+Avant le 20 de chaque mois, les fabricants de sirop d'inuline sont tenus de faire parvenir, au bureau de déclaration de la
+direction générale des douanes et droits indirects dans le ressort duquel est située la fabrique, une déclaration de leur
+fabrication du mois précédent exprimée en poids réel et en matière sèche effective.
+
+Chaque année et avant le 5 juillet, les fabricants de sirop d'inuline doivent adresser au même bureau une déclaration des
+stocks de produits finis qu'ils détiennent en magasin ou entrepôt à la date du 1er juillet à 0 heure. Cette déclaration est
+également exprimée en poids réel et en matière sèche effective.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 2 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
+###### Article 219 V ter
+
+Les fabricants de sirop d'inuline sont tenus de présenter aux agents du service des douanes et droits indirects les matières
+premières destinées à être mises en oeuvre pour la production de sirop d'inuline, le sirop d'inuline ainsi que les produits
+finis élaborés à partir du sirop d'inuline en leur possession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 2 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°2006-1666 2006-12-21 art. 92 I, III Finances pour 2007 JORF 27 décembre 2006
+	  - PEREMPTION: Loi n°2006-1666 du 21 décembre 2006 - art. 92 (V) JORF 27 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
 #### Chapitre IV : Allumettes et briquets
 
+##### Section II : Allumettes.
+
+###### Article 221 quater
+
+Les allumettes fabriquées, importées en France métropolitaine ou ayant fait l'objet d'une acquisition intracommunautaire
+doivent être contenues en nombre au plus égal à 1.000 dans des unités de conditionnement adaptées à leur usage, soit en
+boîtes, soit en pochettes.
+
+Sont considérées comme conditionnées sous forme d'une pochette les allumettes contenues dans une enveloppe unique de nature
+quelconque et obtenues par découpage partiel d'un ou plusieurs éléments de bois, de carton ou de toute autre matière.
+
+La distribution d'unités de conditionnement vides et munies d'un frottoir est interdite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-26
+
+	**Modifié par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 2 () JORF 20 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°99-500 du 10 juin 1999 - art. 1 () JORF 18 juin 1999
+
+
+###### Article 221 quinquies
+
+Chaque unité de conditionnement doit porter de façon lisible les indications suivantes :
+
+1. Le nom ou la raison sociale ainsi que l'adresse de la personne ayant procédé aux opérations de mise sur le marché dans un
+Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord instituant l'Espace économique européen ;
+
+2. La contenance moyenne en nombre d'allumettes par unité de conditionnement.
+
+Ces mentions sont apposées, au plus tard, lors de la mise sur le marché des produits en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-26
+
+	**Modifié par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 3 () JORF 20 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°99-500 du 10 juin 1999 - art. 1 () JORF 18 juin 1999
+
+
 ##### Section III : Régime fiscal des allumettes et des briquets.
+
+###### Article 222
+
+Toute personne désirant se livrer à la fabrication, à ((la fabrication, à l'importation ou à une acquisition
+intracommunautaire)) (M) d'allumettes, de briquets ou de recharges de briquets est tenue de souscrire une déclaration
+préalable de profession auprès du service des douanes et droits indirects dont elle dépend. Cette déclaration doit préciser
+l'adresse des établissements où sont fabriqués ou détenus les allumettes, les briquets ou les recharges de briquets ainsi que
+les quantités et espèces de ces produits détenus en ces lieux. L'administration des douanes et droits indirects délivre à
+l'intéressé un numéro d'identification.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 4 () JORF 20 décembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 47 C D Finances pour 1999 JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 223
+
+Les quantités d'allumettes, de briquets ou de recharges de briquets livrées sur le marché intérieur s'entendent :
+
+1° Des quantités livrées par le fabricant, ((l'importateur ou la personne qui réalise une acquisition intracommunautaire))
+(M) ayant souscrit la déclaration prévue à l'article 222 à des commerçants en vue de la revente ou de la distribution
+gratuite à des fins publicitaires ;
+
+2° Des livraisons à soi-même effectuées par le fabricant en vue de la distribution gratuite à des fins publicitaires ;
+
+((3° Des importations ou des acquisitions intracommunautaires effectuées par une personne ayant souscrit la déclaration
+prévue à l'article 222 en vue de la revente directe aux particuliers ou de la distribution gratuite à des fins
+publicitaires.)) (M).
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 222
+
+	**Modifié par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 5 () JORF 20 décembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 47 C D Finances pour 1999 JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 224
+
+Les fabricants, ((les importateurs et les personnes qui réalisent des acquisitions intracommunautaires)) (M) sont tenus
+d'établir mensuellement un relevé des quantités de produits imposables livrés sur le marché intérieur. Ce relevé est déposé à
+la recette des douanes et droits indirects du lieu de chaque établissement au plus tard le 5 du deuxième mois suivant celui
+de la livraison sur le marché intérieur.
+
+Les fabricants, ((les importateurs ou les personnes qui réalisent des acquisitions intracommunautaires)) (M) disposant de
+plusieurs établissements peuvent centraliser leurs déclarations à la recette des douanes et droits indirects de leur siège
+social ou de leur principal établissement à la condition d'y agréger la comptabilité-matières afférente à l'ensemble de leur
+activité.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 6 () JORF 20 décembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 47 C D Finances pour 1999 JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 225
+
+Les fabricants, ((les importateurs et les personnes qui réalisent des acquisitions intracommunautaires)) (M) d'allumettes, de
+briquets ou de recharges de briquets doivent tenir dans chaque fabrique et lieu de stockage de produits imposables une
+comptabilité-matières comportant les indications suivantes :
+
+a) Quantités fabriquées et mois de fabrication ;
+
+b) Quantités importées et mois d'importation ;
+
+c) ((Quantités ayant fait l'objet d'une acquisition intracommunautaire et mois d'acquisition )) (M) ;
+
+d) Quantités livrées et mois de livraison ;
+
+e) Quantités détenues en fin de mois.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 7 () JORF 20 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21 Décret 99-382 1999-05-18
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 47 C D Finances pour 1999 JORF 31 décembre 1998
+
+
+###### Article 226
+
+Les fabricants, ((les importateurs et les personnes qui réalisent des acquisitions intracommunautaires)) (M) d'allumettes, de
+briquets recharges de briquets doivent déposer au service des douanes et droits indirects, le 5 février de chaque année au
+plus tard, une déclaration récapitulative des quantités de produits fabriqués, ((importés ou ayant fait l'objet d'une
+acquisition intracommunautaire et livrés)) (M) tant sur le marché intérieur qu'à l'exportation, au cours de l'année
+précédente avec indication des stocks détenus au 31 décembre.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 8 () JORF 20 décembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 47 C D Finances pour 1999 JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
+
+###### Article 227
+
+Toute livraison à autrui par un fabricant, ((un importateur ou une personne qui réalise des acquisitions
+intracommunautaires)) (M) de produits soumis à la taxe sur les allumettes et les briquets doit faire l'objet d'une facture
+comportant le nombre et l'espèce des produits livrés ainsi que le montant de la taxe.
+
+Toute livraison à soi-même par un fabricant ou ((un importateur ou une personne qui réalise des acquisitions
+intracommunautaires)) (M) de produits imposables à la taxe sur les allumettes et les briquets doit faire l'objet d'un bon de
+livraison dans les conditions déterminées par l'administration des douanes et droits indirects.
+
+(M) Modification du décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1294 du 13 décembre 1995 - art. 9 () JORF 20 décembre 1995
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 47 C D Finances pour 1999 JORF 31 décembre 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-382 1999-05-18
+
 
 ###### Article 228
 
@@ -21883,417 +22704,6 @@ d'accompagnement, le soumettent préalablement à l'agrément de la direction g�
 	**Abrogé par**:
 
 	  - Décret n°2000-785 du 24 août 2000 - art. 2 () JORF 25 août 2000
-
-
-### Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses
-
-#### Chapitre 0I : Echanges intracommunautaires des alcools, boissons alcooliques et tabacs manufacturés
-
-##### Section II : Document d'accompagnement.
-
-###### Article 111 H
-
-1. En application de l'article 302 M du code général des impôts, le modèle figurant à l'annexe I du règlement (C.E.E.) n°
-2719/92 modifié du 11 septembre 1992 doit être utilisé, dans les conditions fixées par ce règlement, comme document
-administratif accompagnant la circulation en régime de suspension des produits soumis à accises.
-
-2. Un document commercial peut remplacer le document administratif dans les conditions fixées par le règlement mentionné au
-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 M
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17 Décret 96-556 1996-06-21
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 2 (V) JORF 31 décembre 1995
-
-	**Créé par**:
-
-	  - Règlement CEE 2719-92 1992-09-11, Règlement CEE 2225-93 1993-07-27
-
-
-#### Chapitre premier : Boissons
-
-##### Section I : Alcools
-
-##### A : Production
-
-##### III : Fabrication des boissons de raisins secs.
-
-###### Article 142
-
-Il est tenu, dans les fabriques de boissons de raisins secs, des comptes spéciaux de fabrication et de magasin pour les
-liquides alcooliques visés à l'article 401 du code général des impôts.
-
-La mise en oeuvre des matières premières et l'entonnement doivent être déclarés dans les délais fixés par l'article 132.
-
-Le compte de fabrication est chargé, au minimum, d'une quantité d'alcool correspondant à la richesse saccharine des matières
-mises en oeuvre, suivant une base d'évaluation déterminée de gré à gré par l'administration et le fabricant et, en cas de
-contestation, par la commission visée à l'article 343 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 401, 343
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### C : Régime fiscal.
-
-###### Article 169
-
-Sont exemptées de toute formalité fiscale, la production, la circulation et l'utilisation des alcools méthyliques contenant
-au moins 5 % d'acétone et 3 % des impuretés pyrogénées qui leur donnent une odeur empyreumatique désagréable.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - HISTO: Edition du 12 mai 1996
-	  - PEREMPTION: Loi n°95-1346 1995-12-30 art. 25-I Finances pour 1995, JORF 31 décembre 1995
-
-
-#### Chapitre III : Droits divers
-
-##### Taxe spéciale sur les sucres et glucoses utilisés à la préparation d'apéritifs à base de vin ou de produits similaires.
-
-###### Article 215
-
-Toute personne désirant se livrer, à l'aide de sucres ou de glucoses, à la fabrication d'apéritifs à base de vin ou de
-produits similaires est tenue de faire, huit jours avant le début de ses opérations, une déclaration indiquant la nature
-ainsi que la dénomination commerciale du produit à fabriquer et présentant la description du local dans lequel seront
-emmagasinés les sucres et glucoses.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 216
-
-Les sucres, glucoses, isoglucoses et sirops d'inuline)) (M) destinés à des fabricants d'apéritifs à base de vin ou de
-produits similaires doivent parvenir en vertu d'acquits-à-caution. Ils sont suivis à un compte tenu par le fabricant lui-
-même, sans blancs ni ratures, sur un registre coté et paraphé par le service des douanes et droits indirects.
-
-A ce compte sont inscrits, au fur et à mesure des opérations :
-
-1° Aux entrées :
-
-a) Les quantités de sucre, de glucose, d'isoglucose ou de sirop d'inuline en la possession des fabricants au moment où ils
-effectuent la déclaration prévue à l'article 215 ; 
-
-b) Les réceptions ultérieures avec l'analyse des titres de mouvement ; 
-
-c) Les excédents constatés lors des inventaires. 
-
-2° Aux sorties :
-
-a) Les quantités passibles de la taxe spéciale visée à l'article 563 du code général des impôts, dont la mise en oeuvre est
-déclarée dans les formes prévues à l'article 218 ; 
-
-b) Les quantités employées à d'autres usages avec le détail de chaque affectation ; 
-
-c) Les manquants constatés lors des inventaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 563
-	  - CGIAN3 215, 218
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Modifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-
-###### Article 218
-
-Toute fabrication d'apéritifs à base de vin ou de produits similaires à l'aide de sucres ou de glucoses doit être précédée
-d'une déclaration souscrite vingt-quatre heures à l'avance dans les localités où existe un service des douanes et droits
-indirects , et soixante-douze heures à l'avance partout ailleurs. La déclaration indique l'heure à laquelle doit avoir lieu
-l'opération, la nature, la dénomination commerciale, le volume de la boisson à obtenir ainsi que la quantité d'alcool pur
-contenue dans cette boisson, enfin, le poids de sucre ou de glucose à mettre en oeuvre. Elle peut être contrôlée par les
-agents du service des douanes et droits indirects, auxquels les contribuables doivent fournir les instruments de pesage
-nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 3 et 12 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-
-###### Article 219
-
-La taxe spéciale sur les sucres et glucoses utilisés à la préparation des apéritifs à base de vin ou de produits similaires
-est exigible au moment même de l'emploi. Elle peut être acquittée au moyen d'obligations cautionnées dans les conditions
-déterminées par l'article 1698 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1698
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-#### Chapitre IV : Monopoles
-
-##### Section II : Allumettes.
-
-###### Article 221 bis
-
-Le monopole d'importation en France métropolitaine est applicable aux allumettes originaires des pays non membres de la
-Communauté européenne et en provenance soit de ces pays, soit des Etats membres de la communauté, sous réserve qu'elles n'y
-aient pas été mises en libre pratique.
-
-Il n'est pas opposable aux allumettes originaires et en provenance des Etats membres de la Communauté européenne ainsi qu'aux
-allumettes non originaires de ces Etats qui y ont été mises en libre pratique, sous réserve des dispositions qui seraient
-prises en application du traité instituant cette communauté et compte tenu du traité d'adhésion du 22 janvier 1972.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CEE Traité 1972-01-22
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
-	**Abrogé par**:
-
-	  - Décret n°95-1294 du 13 décembre 1995 - art. 1 () JORF 20 décembre 1995
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Modifié par**:
-
-	  - Loi n°93-1420 1992-12-31 art. 11 JORF 1er janvier 1994
-
-
-###### Article 221 quater
-
-Les allumettes fabriquées ou importées en France métropolitaine doivent être contenues en nombre au plus égal à 1.000 dans
-des unités de conditionnement adaptées à leur usage, soit en boîtes, soit en pochettes.
-
-Sont considérées comme conditionnées sous forme d'une pochette les allumettes contenues dans une enveloppe unique de nature
-quelconque et obtenues par découpage partiel d'un ou plusieurs éléments de bois, de carton ou de toute autre matière.
-
-La distribution d'unités de conditionnement vides et munies d'un frottoir est interdite.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 221 quinquies
-
-Chaque unité de conditionnement doit porter de façon lisible les indications suivantes (1) :
-
-1) Pays d'origine des allumettes;
-
-2) Contenance moyenne en nombre d'allumettes par unité de conditionnement;
-
-3) a) Vente en France pour les produits vendus aux consommateurs;
-
-b) Distribution en France pour les produits distribués gracieusement aux consommateurs.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 221 ter
-
-La fabrication mentionnée à l'article 576 du code général des impôts s'entend des opérations suivantes effectuées en France
-métropolitaine :
-
-- Fabrication du mélange chimique constituant la tête de l'allumette;
-
-- Apposition de la tête sur la tige de l'allumette;
-
-- Remplissage des boîtes ou, plus généralement, constitution des unités de conditionnement autour des allumettes;
-
-- Apposition du frottoir sur l'unité de conditionnement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 576
-
-	**Abrogé par**:
-
-	  - Décret n°95-1294 du 13 décembre 1995 - art. 1 () JORF 20 décembre 1995
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - HISTO: Edition du 12 mai 1996
-
-
-##### Section III : Régime fiscal des allumettes et des briquets.
-
-###### Article 222
-
-Toute personne désirant se livrer à la fabrication ou à l'importation d'allumettes, de briquets ou de recharges de briquets
-est tenue de souscrire une déclaration préalable de profession auprès du service des douanes et droits indirects dont elle
-dépend. Cette déclaration doit préciser l'adresse des établissements où sont fabriqués ou détenus les allumettes, les
-briquets ou les recharges de briquets ainsi que les quantités et espèces de ces produits détenus en ces lieux.
-L'administration des douanes et droits indirects délivre à l'intéressé un numéro d'identification.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 1, art. 13 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-
-###### Article 223
-
-Les quantités d'allumettes, de briquets ou de recharges de briquets livrées sur le marché intérieur s'entendent :
-
-1° Des quantités livrées par le fabricant ou l'importateur ayant souscrit la déclaration prévue à l'article 222 à des
-commerçants en vue de la revente ou de la distribution gratuite à des fins publicitaires ;
-
-2° Des livraisons à soi-même effectuées par le fabricant en vue de la distribution gratuite à des fins publicitaires ;
-
-3° Des importations effectuées par un importateur ayant souscrit la déclaration prévue à l'article 222 en vue de la revente
-directe aux particuliers ou de la distribution gratuite à des fins publicitaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 222
-
-	**Créé par**:
-
-	  - Décret n°87-49 du 31 janvier 1987 - art. 2 (V) JORF 3 février 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 224
-
-Les fabricants et importateurs sont tenus d'établir mensuellement un relevé des quantités de produits imposables livrés sur
-le marché intérieur. Ce relevé est déposé à la recette des douanes et droits indirects du lieu de chaque établissement au
-plus tard le 5 du deuxième mois suivant celui de la livraison sur le marché intérieur.
-
-Les fabricants ou importateurs disposant de plusieurs établissements peuvent centraliser leurs déclarations à la recette des
-douanes et droits indirects de leur siège social ou de leur principal établissement à la condition d'y agréger la
-comptabilité-matières afférente à l'ensemble de leur activité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 9 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-
-###### Article 225
-
-Les fabricants et importateurs d'allumettes, de briquets ou de recharges de briquets doivent tenir dans chaque fabrique et
-lieu de stockage de produits imposables une comptabilité-matières comportant les indications suivantes :
-
-quantités fabriquées et mois de fabrication ;
-
-quantités importées et mois d'importation ;
-
-quantités livrées et mois de livraison ;
-
-quantités détenues en fin de mois.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°87-49 du 31 janvier 1987 - art. 4 (V) JORF 3 février 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
-
-
-###### Article 226
-
-Les fabricants et importateurs d'allumettes, de briquets ou de recharges de briquets doivent déposer au service des douanes
-et droits indirects, le 5 février de chaque année au plus tard, une déclaration récapitulative des quantités de produits
-fabriqués, importés et livrés, tant sur le marché intérieur qu'à l'exportation, au cours de l'année précédente avec
-indication des stocks détenus au 31 décembre.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 12 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-
-###### Article 227
-
-Toute livraison à autrui par un fabricant ou un importateur de produits soumis à la taxe sur les allumettes et les briquets
-doit faire l'objet d'une facture comportant le nombre et l'espèce des produits livrés ainsi que le montant de la taxe.
-
-Toute livraison à soi-même par un fabricant ou un importateur de produits imposables à la taxe sur les allumettes et les
-briquets doit faire l'objet d'un bon de livraison dans les conditions déterminées par l'administration des douanes et droits
-indirects.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 1 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -22768,19 +23178,31 @@ droit d'enregistrement au taux réduit de 4,80 %.
 Toutefois  pour l'application des dispositions des articles 266 ter et 266 quater aux groupements agricoles d'exploitation en
 commun la surface minimum d'installation et la surface minimale visée à l'article 266 ter sont appréciées en fonction de la
 surface totale mise en valeur par le groupement divisée par le nombre de chefs d'exploitation du groupement au sens de
-l'article 28 du décret n° 64-1193 du 3 décembre 1964.
+((l'article R. 323-45 du code rural)) (M).
+
+(M) Modification du décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 266 quater
-	  - CGIAN3 266 ter
-	  - Décret n°64-1193 du 3 décembre 1964 - art. 28 (Ab)
+	  - CGI 266 ter, 266 quater
+	  - Code rural R323-45
+
+	**Modifié par**:
+
+	  - Décret n°96-205 du 15 mars 1996 - art. 1 (V) JORF 17 mars 1996
+	  - Décret n°96-205 du 15 mars 1996 - art. 2 (V) JORF 17 mars 1996
+	  - Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-556 1996-06-21
+	  - Décret n°99-382 1999-05-18
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 39 I 4 Finances pour 1999 JORF 31 décembre 1998
 
 
 ###### Article 266 sexies
@@ -29636,42 +30058,6 @@ compléments de taxe sont liquidés en même temps que la taxe due au titre du m
 	  - Décret n°92-836 1992-08-27
 
 
-##### Section I quater : Taxe sur le colza, navette, tournesol perçue au profit du budget annexe des prestations sociales agricoles
-
-###### Article 333 I
-
-I.  La taxe prévue à l'article 1618 nonies du code général des impôts est assise sur le poids à la réception des graines
-oléagineuses livrées aux intermédiaires agréés, ramené à la qualité type prévue par le règlement du 22 septembre 1966 modifié
-du Conseil des communautés européennes.
-
-II. Les sommes exigibles sont liquidées sur production par les intermédiaires agréés de déclarations conformes au modèle fixé
-par la direction générale des douanes et droits indirects et remises ou adressées à cette intermédiaires agréés de
-déclarations conformes au modèle fixé par la direction générale des impôts et remises ou adressées à cette administration
-dans les dix premiers jours du mois suivant celui au titre duquel la taxe est applicable. Elles doivent être acquittées au
-plus tard le 25 du mois de la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1618 nonies
-	  - Règlement CEE 1966-09-22 (conseil)
-
-	**Modifié par**:
-
-	  - Décret n°93-14 1993-01-04 art. 6 JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-	  - HISTO: Edition du 18 août 1993
-	  - PEREMPTION: Loi - art. 41 (V) JORF 31 décembre 1995
-
-
 #### Chapitre III : Enregistrement
 
 ##### Section I : Contributions pour l'alimentation du fonds commun des accidents du travail agricole
@@ -33563,9 +33949,7 @@ La direction générale des douanes et droits indirects est compétente pour per
 
 2° Le droit de consommation sur les tabacs dans les conditions prévues à l'article 575 C du code général des impôts ;
 
-3° La taxe mentionnée à l'article 1618 octies du code général des impôts ;
-
-4° La taxe mentionnée à l'article 1618 nonies du code général des impôts ;
+3° 4° (Sans objet).
 
 5° Les taxes mentionnées au I de l'article 1699 du code général des impôts.
 
@@ -33575,19 +33959,17 @@ La direction générale des douanes et droits indirects est compétente pour per
 
 	  - CGI 564 quinquies, 564 sexies, 575 C, 1618 octies, 1618 nonies, 1699
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°93-309 1993-03-09 art. 8 II, 12 2°, 15 2°, 16 2°, 17 2°, 22 JORF 11 mars 1993
-	  - Décret n°93-309 du 9 mars 1993 - art. 22 (V) JORF 11 mars 1993
-	  - Décret n°93-309 du 9 mars 1993 - art. 8 (V) JORF 11 mars 1993
+	  - HISTO: Edition du 12 mai 1996
+
+	**Modifié par**:
+
+	  - Loi n°95-1346 1995-12-30 art. 41-II Finances pour 1996, JORF 31 décembre 1995
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°96-556 1996-06-21
 
 
 ###### Article 406 undecies A

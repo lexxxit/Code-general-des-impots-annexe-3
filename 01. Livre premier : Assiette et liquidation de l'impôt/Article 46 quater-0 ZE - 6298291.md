@@ -5,31 +5,31 @@ l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles rel�
 titre duquel le régime défini à l'article 223 A déjà cité s'applique. L'accord est donné pour la durée restant à courir de
 l'option prévue à ce dernier article.
 
-Pour les exercices ouverts au cours des six premiers mois de l'année 1988, cet accord est donné, au plus tard, à la date de
-l'option de la société mère.
-
-Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
-décision de la société mère en informent le service des impôts dont elles relèvent avant l'ouverture de cet exercice.
+((Devenu sans objet)) (M)    Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le
+résultat d'ensemble par décision de la société mère en informent le service des impôts dont elles relèvent avant l'ouverture
+de cet exercice.
 
 Pour remplir les obligations prévues au présent article et à l'article 46 quater-0 ZD, la société doit utiliser des documents
 conformes aux modèles établis par l'administration.
+
+(M) Modification du Décret 96-556.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 223 A
-	  - CGIAN3 46 quater-0 ZD
-
-	**Créé par**:
-
-	  - Décret n°88-318 du 28 mars 1988 - art. 2 (V) JORF 8 avril 1988
+	  - Décret n°96-556 1996-06-21
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°96-556 1996-06-21
+
+	**Modifié par**:
+
+	  - Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 juin 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
