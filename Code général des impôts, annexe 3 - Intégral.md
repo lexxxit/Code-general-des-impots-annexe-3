@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2001-05-23
+Version Consolidée au 2001-06-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4473,80 +4473,6 @@ même code.
 	  - Code général des impôts, CGI. - art. 39 A (V)
 
 
-###### Article 38 sexdecies F
-
-Les intérêts des emprunts contractés pour l'acquisition de terres peuvent donner lieu, pour la détermination des bénéfices
-imposables, à une déduction accélérée suivant les modalités et dans les conditions définies ci-après.
-
-1. En plus des intérêts effectivement dus, les exploitants peuvent comprendre dans leurs charges déductibles une somme égale
-à 25 % du montant de ces intérêts, au titre de chacune :
-
-Des cinq premières annuités, lorsque le prêt est d'une durée au moins égale à neuf ans, mais inférieure à douze ans ;
-
-Des six premières annuités, lorsque le prêt est d'une durée au moins égale à douze ans, mais inférieure à quatorze ans ;
-
-Des sept premières annuités, lorsque la durée du prêt est au moins égale à quatorze ans.
-
-Les sommes complémentaires ainsi déduites au titre de chaque année sont rapportées, sur le même nombre d'années et dans
-l'ordre des déductions pratiquées, aux résultats de chacune des années suivant celle au cours de laquelle la dernière
-déduction a été faite.
-
-Lorsqu'un exploitant cesse d'être imposé d'après son bénéfice réel pour être soumis au régime du forfait, les compléments de
-déduction qui n'ont pas encore été réintégrés en vertu de l'alinéa précédent sont ajoutés aux bénéfices forfaitaires de
-l'année considérée et des années suivantes dans l'ordre où ils ont été pratiqués.
-
-En cas de cession ou de cessation totale d'activité ou de location des terres achetées, les déductions excédentaires non
-encore imputées sont rapportées aux résultats de l'exercice clos lors de cette opération.
-
-2. Peuvent seules être prises en considération pour l'application des dispositions du 1 les acquisitions de terres qui
-répondent aux conditions suivantes :
-
-a. Etre faites par l'exploitant preneur en place :
-
-- Soit à l'occasion de l'exercice de son droit de préemption, en vertu d'un bail déclaré ou enregistré depuis au moins deux
-ans ;
-
-- Soit à la suite d'une expropriation ou de l'exercice du droit de reprise par le propriétaire ;
-
-- Soit à l'occasion du versement d'une soulte à des copartageants ;
-
-b. Donner lieu à un prêt d'une durée au moins égale à neuf ans ;
-
-c. Etre d'un montant au moins égal à 100 000 F (15 000 euros à compter du 1er janvier 2002).
-
-3. Lorsque ces acquisitions ont pour effet de porter la superficie des terres appartenant à l'exploitant au-delà de la
-surface globale maximale prévue pour l'application de la législation sur les cumuls ou lorsque la valeur desdites
-acquisitions excède, dans le deuxième cas prévu au 2, celle des terres dont l'exploitant a été évincé, les compléments de
-déduction prévus au 1 sont réduits à due concurrence.
-
-4. Les exploitants qui ont contracté un emprunt pour l'achat de terres avant la date d'entrée en vigueur des dispositions de
-la loi du 21 décembre 1970 peuvent bénéficier des dispositions du présent article pour la fraction de la période définie au 1
-qui reste à courir à la date d'ouverture du premier exercice au titre duquel ils sont imposés d'après le régime du bénéfice
-réel.
-
-Les compléments de déduction ainsi pratiqués sont rapportés aux bénéfices des années suivant celle au cours de laquelle a été
-opérée la dernière déduction. Ce rapport s'effectue sur le même nombre d'années et dans le même ordre que les déductions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°70-1199 1970-12-21 Finances pour 1971
-
-	**Modifié par**:
-
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-
 ###### Article 38 sexdecies GA
 
 1. Les plus-values réalisées à l'occasion de la cession de terres ou de bâtiments d'exploitation ne sont pas retenues pour la
@@ -4598,36 +4524,6 @@ standard ou à tous autres éléments statistiques.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
-
-
-##### Régime réel simplifié
-
-###### Article 38 sexdecies JA
-
-Sous réserve des adaptations prévues aux articles 38 sexdecies JC et 38 sexdecies JD, et  de celles mentionnées aux articles
-38 sexdecies OB, 38 sexdecies OE, 38 sexdecies OF, 38 sexdecies RB, 38 sexdecies RB bis et 38 sexdecies RC, le bénéfice des
-exploitants agricoles soumis au régime simplifié prévu au II de l'article 69 du code général des impôts est déterminé et
-imposé selon les modalités prévues pour la détermination du bénéfice réel par les articles 38 sexdecies C, le I de l'article
-38 sexdecies D et les articles 38 sexdecies E à 38 sexdecies GC, 38 sexdecies-0 K, 38 sexdecies P à 38 sexdecies QA.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 69, 38 sexdecies JC, 38 sexdecies JD, 38 sexdecies OB, 38 sexdecies OE, 38 sexdecies OF, 38 sexdecies RB, 38 sexdecies RC, 38 sexdecies RB bis, 38 sexdecies C, 38 sexdecies D, 38 sexdecies E à 38 sexdecies, 38 sexdecies-0 K, 38 sexdecies P à 3
-
-	**Modifié par**:
-
-	  - Décret n°97-260 du 18 mars 1997 - art. 2 () JORF 21 mars 1997
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 31 mars 2002
 
 
 ##### C : Option pour l'un des régimes réels
@@ -4843,43 +4739,6 @@ II. (Transféré sous l'article 38 sexdecies OC).
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
 
 
-###### Article 38 sexdecies O
-
-Par dérogation aux dispositions qui précèdent, les exploitants qui étaient imposés d'après leur bénéfice réel avant l'entrée
-en vigueur des articles 9 à 11 de la loi n° 70-1199 du 21 décembre 1970 doivent se conformer aux dispositions ci-après :
-
-a. Les immobilisations sont reprises au bilan d'entrée du premier exercice ouvert en 1972 pour leur valeur comptable à la
-clôture de l'exercice précédent. Toutefois, la valeur des immobilisations acquises ou créées avant le 1er janvier 1959 peut
-être déterminée dans les conditions prévues à l'article 38 sexdecies L.
-
-La différence entre cette valeur et celle pour laquelle ces immobilisations figuraient dans le dernier bilan est portée en
-franchise d'impôt à une réserve spéciale.
-
-b. Les stocks sont repris au bilan d'entrée pour leur valeur comptable à la clôture de l'exercice précédent.
-
-Les stocks existant à la clôture du premier exercice ouvert en 1972 ainsi qu'à la clôture des exercices suivants sont évalués
-dans les conditions fixées à l'article 38 sexdecies H. Toutefois, en ce qui concerne les animaux nés dans l'exploitation
-avant la date d'établissement du bilan d'entrée du premier exercice ouvert en 1972, ainsi que pour les valeurs en terre
-existant à la même date, les exploitants peuvent constituer en franchise d'impôt une réserve d'un montant égal au prix de
-revient de ces éléments à la date susvisée. Cette réserve est rattachée aux bénéfices imposables au fur et à mesure des
-ventes des animaux ou des récoltes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 38 sexdecies L, 38 sexdecies H
-	  - Loi n°70-1199 1970-12-21 art. 9 à art. 11 Finances pour 1971
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-
 ###### Article 38 sexdecies OA
 
 En cas de passage du régime du forfait au régime normal d'imposition d'après le bénéfice réel :
@@ -4923,42 +4782,6 @@ l'objet d'amortissements.
 Lors de la cession des améliorations du fonds, cette somme vient, pour le calcul de la plus-value imposable éventuelle, en
 déduction du prix reçu par le cédant.
 
-
-
-##### 2° : Passage du régime du forfait au régime simplifié d'imposition d'après le bénéfice réel.
-
-###### Article 38 sexdecies OB
-
-En cas de passage du régime du forfait au régime simplifié d'imposition d'après le bénéfice réel.
-
-a) Les immobilisations et les stocks d'entrée sont évalués conformément aux dispositions des articles 38 sexdecies-0 K au I
-de l'article 38 sexdecies N et de l'article 38 sexdecies OA ;
-
-b) Les recettes et les dépenses se rapportant à des créances et à des dettes nées sous le régime du forfait ne sont pas
-retenues pour la détermination du bénéfice selon le régime simplifié.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 38 sexdecies-0 K, 38 sexdecies N, 38 sexdecies OA
-
-	**Modifié par**:
-
-	  - Décret n°92-751 du 29 juillet 1992 - art. 3 (V) JORF 4 août 1992
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 mars 2002
 
 
 ##### 3° : Passage du régime du bénéfice réel au régime du forfait.
@@ -5016,80 +4839,6 @@ c. les provisions constituées sous le régime normal demeurent valables dans le
 	  - HISTO: Edition du 20 juillet 1984
 
 
-##### 5° : Passage du régime simplifié d'imposition d'après le bénéfice réel au régime du forfait.
-
-###### Article 38 sexdecies OF
-
-En cas de passage du régime simplifié d'imposition d'après le bénéfice réel au régime du forfait :
-
-a. les matières premières achetées figurant dans le stock de sortie du dernier exercice clos sous le régime simplifié
-d'imposition sont évaluées à leur prix de revient ; les autres produits sont estimés au cours du jour à la date de clôture de
-cet exercice et la valeur des animaux est déterminée selon les modalités prévues à l'article 38 sexdecies JC ;
-
-b. les dispositions de l'article 38 sexdecies OD sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 38 sexdecies JC, 38 sexdecies OD
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 84 (V) JORF 30 décembre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-
-##### 6° : Passage du régime simplifié au régime normal d'imposition d'après le bénéfice réel.
-
-###### Article 38 sexdecies OG
-
-En cas de passage du régime simplifié au régime normal d'imposition d'après le bénéfice réel :
-
-a. aucune modification n'est apportée à la valeur des immobilisations et des stocks ; les récoltes comprises dans le stock
-d'entrée du premier exercice imposé selon le régime normal sont reprises pour la même valeur si elles figurent dans les
-inventaires suivants ;
-
-b. Les exploitants ont la possibilité d'inscrire en immobilisations, pour leur valeur de stock, les équidés et les bovidés,
-selon les modalités prévues au II de l'article 38 sexdecies D.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 38 sexdecies D II
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-	  - HISTO: Edition du 31 mars 2002
-
-
 ##### 7° : Passage du régime transitoire au régime simplifié d'imposition d'après le bénéfice réel.
 
 ###### Article 38 sexdecies OH
@@ -5133,44 +4882,6 @@ du stock d'entrée.
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
-
-
-##### 8° : Passage du régime transitoire au régime normal d'imposition d'après le bénéfice réel.
-
-###### Article 38 sexdecies OI
-
-En cas de passage du régime transitoire au régime réel normal :
-
-a) Les dispositions de l'article 38 sexdecies OH, à l'exception de celles de son cinquième alinéa, s'appliquent ;
-
-b) Les autres stocks, cités au cinquième alinéa de l'article 38 sexdecies OH, sont évalués au prix de revient. Cette valeur
-ne peut excéder le cours du jour à la date d'ouverture de l'exercice.
-
-c) Les exploitants ont la possibilité d'inscrire en immobilisations, pour leur valeur de stock, les équidés et les bovidés
-selon les modalités prévues au II de l'article 38 sexdecies D.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 38 sexdecies OH, 38 sexdecies D
-
-	**Modifié par**:
-
-	  - Décret n°92-751 du 29 juillet 1992 - art. 3 (V) JORF 4 août 1992
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 31 mars 2002
 
 
 ##### 9° : Passage du régime transitoire au régime du forfait.
@@ -5334,37 +5045,6 @@ c. (Abrogé)
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
 
 
-###### Article 38 sexdecies RA
-
-En cas de passage du régime simplifié au régime normal d'imposition d'après le bénéfice réel, les exploitants fournissent à
-l'appui de leur première déclaration souscrite sous le régime du bénéfice réel les renseignements prévus aux 1° et 2° de
-l'article 38 sexdecies R.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 38 sexdecies R
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-	  - HISTO: Edition du 31 mars 2002
-
-
 ##### 3° : Obligations particulières au régime simplifié d'imposition d'après le bénéfice réel.
 
 ###### Article 38 sexdecies RB
@@ -5436,32 +5116,6 @@ d) Les modalités de comptabilisation de ces frais.
 
 	  - HISTO: Edition du 11 avril 1997
 	  - HISTO: JORF 31 décembre 1996)
-
-
-###### Article 38 sexdecies RC
-
-En cas de passage du régime du forfait au régime simplifié d'imposition d'aprés le bénéfice réel, les exploitants joignent à
-leur première déclaration de résultats une note donnant la composition et le mode d'évaluation du stock d'entrée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-	**Abrogé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
 
 
 ##### F : Cultures agréées dans les départements d'outre-mer
