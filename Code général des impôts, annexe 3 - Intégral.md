@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2003-08-31
+Version Consolidée au 2003-10-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -32170,9 +32170,11 @@ l'adresse du principal établissement de l'entreprise.
 ###### Article 363
 
 Les versements effectués par les sociétés d'investissements immobiliers cotées au titre du quatrième alinéa du 2 de l'article
-1663 sont accompagnés d'un bordereau de versement daté et signé, établi sur papier libre ou par voie électronique, indiquant
-la désignation, l'adresse et le numéro SIRET de la société versante, la nature et le montant du versement, l'échéance à
-laquelle il se rapporte ainsi que la base de calcul.
+1663 du code général des imp<cb>ts sont accompagnés d'un bordereau de versement daté et signé, établi sur papier libre ou par
+voie électronique, indiquant la désignation, l'adresse et le numéro SIRET de la société versante, la nature et le montant du
+versement, l'échéance à laquelle il se rapporte ainsi que la base de calcul.
+
+</cb>
 
 **Liens relatifs à cet article**
 
@@ -32180,9 +32182,17 @@ laquelle il se rapporte ainsi que la base de calcul.
 
 	  - CGI 1663
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2003-645 2003-07-11 art. 1 C JORF 13 juillet 2003
+	  - Décret n°2003-933 2003-09-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-933 du 30 septembre 2003 - art. 3 () JORF 2 octobre 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 
 ###### Article 364
