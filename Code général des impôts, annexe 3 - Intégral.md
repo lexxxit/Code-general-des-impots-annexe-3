@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1992-12-19
+Version Consolidée au 1993-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15370,27 +15370,6 @@ Il en est de même pour les chiffres limites déterminés dans les conditions pr
 
 ##### Section VI : Obligations des redevables
 
-###### Article 95
-
-Les factures établies par les redevables de la taxe sur la valeur ajoutée doivent obligatoirement faire apparaître le taux
-d'imposition légalement applicable à chacun des biens, droits, produits, travaux ou services faisant l'objet de la
-facturation.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°92-1244 1992-11-27 art. 2, art. 3 JORF 28 novembre 1992, en vigueur le 1er janvier 1993
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 J (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-
 ###### Article 96
 
 Pendant la période allant du premier jour de l'exploitation jusqu'à la date de la conclusion de leur forfait, les entreprises
@@ -28138,21 +28117,21 @@ sociétés correspondant aux bénéfices de référence définis à l'article 36
 ###### Article 360
 
 Les acomptes sont calculés par la société et versés par elle sans avis d'imposition dans les vingt premiers jours des mois de
-février mai août et novembre de chaque année [*délai,date de paiement*] à la caisse du comptable du Trésor chargé du
-recouvrement des impôts directs du lieu d'imposition défini par l'article 218 A du code général des impôts. Lorsqu'une
-société modifie le lieu de son principal établissement après l'échéance du premier acompte afférent à un exercice déterminé
-les acomptes subséquents doivent être versés à la caisse du comptable du Trésor habilité à percevoir le premier acompte.
+février mai août et novembre de chaque année à la caisse du comptable du Trésor chargé du recouvrement des impôts directs du
+lieu d'imposition défini par l'article 218 A du code général des impôts. Lorsqu'une société modifie le lieu de son principal
+établissement après l'échéance du premier acompte afférent à un exercice déterminé les acomptes subséquents doivent être
+versés à la caisse du comptable du Trésor habilité à percevoir le premier acompte.
 
-Chacun des acomptes est égal à 9 p. 100 du bénéfice imposable déterminé d'après les résultats du plus récent exercice clos à
-la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année d'après les résultats de la dernière
-période d'imposition.
+Chacun des acomptes est égal à 8,1/3 p. 100 du bénéfice imposable déterminé d'après les résultats du plus récent exercice
+clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année d'après les résultats de la
+dernière période d'imposition.
 
 Toutefois  en cas d'exercice d'une durée inférieure ou supérieure à un an  les acomptes sont calculés sur la base des
 bénéfices rapportés à une période de douze mois.
 
 Par dérogation aux dispositions du deuxième alinéa  l'acompte dont l'échéance est comprise entre la date de clôture d'un
 exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé à l'article 223-1, deuxième alinéa
-du code général des impôts  est égal, s'il y a lieu, à 9 p. 100 du bénéfice afférent à l'exercice ou à la période
+du code général des impôts  est égal, s'il y a lieu, à 8,1/3 p. 100 du bénéfice afférent à l'exercice ou à la période
 d'imposition précédente et dont le délai de déclaration est expiré. Le montant de cet acompte est régularisé sur la base des
 résultats du dernier exercice ou de la dernière période d'imposition lors du versement du plus prochain acompte.
 
@@ -28162,12 +28141,16 @@ Le montant des acomptes est arrondi au franc inférieur.
 
 	**Cite**:
 
-	  - CGI 218 A
-	  - CGI 223 1 al. 2
+	  - CGI 218 A, 223 1 al. 2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-178 1993-02-05 art. 3
+	  - HISTO: Edition du 18 aout 1993
 
 	**Modifié par**:
 
-	  - Décret n°92-119 du 5 février 1992 - art. 1 () JORF 7 février 1992
+	  - Décret n°93-178 du 5 février 1993 - art. 1 () JORF 7 février 1993 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
@@ -28182,31 +28165,6 @@ Le montant des acomptes est arrondi au franc inférieur.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YO (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (V)
-
-
-###### Article 360 bis
-
-Les entreprises qui bénéficient du taux réduit des acomptes prévu au 1 bis de l'article 1668 du code général des impôts
-appliquent le taux mentionné à l'article 360 au bénéfice de référence retenu pour 100/108 de son montant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1668
-	  - CGIAN3 360
-
-	**Créé par**:
-
-	  - Décret n°92-119 du 5 février 1992 - art. 2 () JORF 7 février 1992
-
-	**Abrogé par**:
-
-	  - Décret n°93-178 du 5 février 1993 - art. 2 () JORF 7 février 1993
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 376 (V)
 
 
 ###### Article 361
