@@ -18,22 +18,24 @@ Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis c
 participations ouvrant droit au régime des sociétés mères, les distributions peuvent être librement imputées sur ces
 produits.
 
+III Les distributions provenant de résultats qui ont été compris dans le résultat d'ensemble, mentionnés à l'article 223 H du
+code déjà cité, sont prélevés en suivant l'ordre prévu au II.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 158 bis
-	  - CGI 219 I al. 2
+	  - CGI 219 I al. 2 CGI 223 H
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: CGIAN3 46 QUATER-O E
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
 
 	**Modifié par**:
 
-	  - Loi n°75-1347 du 31 décembre 1975 - art. 1 () JORF 4 janvier 1976
-	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+	  - Décret n°88-318 du 28 mars 1988 - art. 6 () JORF 8 avril 1988
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°88-1001 1988-10-20

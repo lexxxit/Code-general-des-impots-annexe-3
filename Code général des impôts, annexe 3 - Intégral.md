@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-04-07
+Version Consolidée au 1988-04-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7001,25 +7001,27 @@ Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis c
 participations ouvrant droit au régime des sociétés mères, les distributions peuvent être librement imputées sur ces
 produits.
 
+III Les distributions provenant de résultats qui ont été compris dans le résultat d'ensemble, mentionnés à l'article 223 H du
+code déjà cité, sont prélevés en suivant l'ordre prévu au II.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 158 bis
-	  - CGI 219 I al. 2
+	  - CGI 219 I al. 2 CGI 223 H
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: CGIAN3 46 QUATER-O E
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
 
 	**Modifié par**:
 
-	  - Loi n°75-1347 du 31 décembre 1975 - art. 1 () JORF 4 janvier 1976
-	  - Loi n°86-824 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+	  - Décret n°88-318 du 28 mars 1988 - art. 6 () JORF 8 avril 1988
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°88-1001 1988-10-20
 
 
 ###### Article 46 quater-0 E
@@ -7984,6 +7986,295 @@ répondent pas aux conditions du 5° du 1 de l'article 39 du code général des 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 39 (VT)
+
+
+##### Section VIII : Régime des groupes de sociétés
+
+###### Article 46 quater-0 ZD
+
+L'option mentionnée au premier alinéa de l'article 223 A du code général des impôts est notifiée au service des impôts auprès
+duquel est souscrite la déclaration du résultat d'ensemble.
+
+" La société mère adresse à ce même service :
+
+" 1. Lors de la notification de l'option :
+
+" La liste des sociétés filiales qui seront membres du groupe ; cette liste indique, pour chaque société, sa désignation,
+l'adresse de son siège social et la répartition de son capital ;
+
+" Des attestations par lesquelles ces sociétés font connaître leur accord pour que la société mère retienne leurs propres
+résultats pour la détermination du résultat d'ensemble.
+
+" 2. Avant la clôture de chacun des exercices arrêtés au cours de la période de validité de l'option :
+
+" La liste mentionnée au 1, mise à jour pour l'exercice suivant ;
+
+" Les attestations mentionnées au 1 produites par les sociétés qui seront membres du groupe à compter de cet exercice. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 A
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 1 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZE (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZM (V)
+
+
+###### Article 46 quater-0 ZG
+
+La subvention indirecte mentionnée au cinquième alinéa de l'article 223 B du code général des impôts s'entend des
+renonciations à recettes qui proviennent des prêts ou d'avances sans intérêt ou à un taux d'intérêt inférieur au taux du
+marché. Elle s'entend également de la remise de biens ou de la prestation de services sans contrepartie ou pour un prix
+inférieur à leur prix de revient.
+
+" Constituent également une subvention indirecte au sens de l'article 223 B déjà cité les excédents de charges qui
+proviennent des emprunts contractés, des avances reçues ou des achats de biens ou de services, qui sont assortis d'un taux
+d'intérêt ou d'un prix plus élevé que celui qui aurait été fixé entre deux sociétés indépendantes. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 B al. 5
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 4 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 46 quater-0 ZH
+
+I. - La plus-value ou la moins-value mentionnée au premier alinéa de l'article 223 F du code général des impôts s'entend de
+la plus-value acquise ou de la moins-value subie depuis la date d'inscription du bien au bilan de la société du groupe qui a
+effectué la première cession à une autre société du même groupe.
+
+II. Pour l'application des dispositions du même article, la société mère doit :
+
+1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la fraction de l'annuité fiscale d'amortissements
+pratiquée par la société cessionnaire, qui excède la dotation fiscale calculée dans les mêmes conditions et au même taux que
+cette annuité, sur la valeur nette que l'immobilisation amortissable avait, du point de vue fiscal, dans les écritures de la
+société du groupe qui a effectué la première cession à une autre société du même groupe. Cette dernière valeur est, le cas
+échéant, diminuée des amortissements différés en contravention aux dispositions de l'article 39 B du code déjà cité.
+
+En cas de cessions successives d'un même bien à l'intérieur du groupe, les valeurs nettes mentionnées à l'alinéa précédent
+sont diminuées, lors de chaque cession, d'une somme égale aux amortissements calculés sur ces mêmes valeurs et admis en
+déduction du résultat d'ensemble depuis la précédente cession.
+
+2. Comprendre dans le résultat ou plus-value ou moins-value nette à long terme d'ensemble de l'exercice de cession hors du
+groupe d'une immobilisation la plus-value ou la moins-value calculée par différence entre :
+
+D'une part, le prix de vente de l'élément cédé ;
+
+Et, d'autre part, sa valeur d'origine dans les écritures de la société du groupe qui a effectué la première cession à une
+autre société du même groupe. Pour une immobilisation amortissable, cette valeur est diminuée d'un montant égal à la
+différence entre les amortissements effectivement déduits pour l'assiette de l'impôt pendant sa période d'utilisation par les
+sociétés du groupe et les sommes réintégrées au titre du 1 ci-dessus.
+
+Le cas échéant, la plus-value ainsi calculée est majorée des amortissements différés en contravention aux dispositions de
+l'article 39 B du code général des impôts.
+
+En cas de moins-value, celle-ci est diminuée des mêmes amortissements différés.
+
+III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
+immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette
+immobilisation.
+
+Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
+
+Pour une immobilisation amortissable, sa valeur nette comptable dans les écritures de la société qui en est propriétaire ;
+
+Pour une immobilisation non amortissable, son prix d'acquisition par la société qui en est propriétaire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 F al. 1
+	  - CGI 39 B
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 5 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+
+
+###### Article 46 quater-0 ZI
+
+I. - L'imposition forfaitaire annuelle due par les sociétés du groupe et dont la société mère est redevable en application de
+l'article 223 A du code général des impôts est payée au comptable du Trésor du lieu d'imposition de cette dernière société.
+Chaque paiement est accompagné d'un document conforme à un modèle fixé par l'administration et qui comporte notamment le
+montant de l'imposition forfaitaire annuelle dû par chaque société du groupe.
+
+" II. - En cas de sortie du groupe d'une société, le montant de l'imposition forfaitaire annuelle de cette société payé par
+la société mère au titre des deux années antérieures à celle de la sortie du groupe qui n'a pu être imputé sur l'impôt sur
+les sociétés dû sur le résultat d'ensemble du fait des résultats dégagés par la société qui sort du groupe peut être imputé,
+dans les conditions prévues à l'article 220 A du code général des impôts, sur l'impôt dû par cette société.
+
+" III. - La société mère doit joindre à la déclaration du résultat d'ensemble un état, conforme à un modèle établi par
+l'administration, qui fait apparaître les cotisations d'imposition forfaitaire annuelle payées au titre de l'année de clôture
+de l'exercice, le montant imputable de celles-ci, celui des cotisations des deux années antérieures et le montant
+effectivement imputé sur l'impôt dû sur le résultat d'ensemble de l'exercice.
+
+" Cet état mentionne le montant de l'imposition forfaitaire annuelle de la ou des sociétés qui sortent du groupe qui a été
+payé par la société mère et qui est susceptible d'être imputé sur l'impôt dû par ces sociétés.
+
+" Cet état est également transmis par la société mère au comptable du Trésor de son lieu d'imposition.
+
+" Le même état est joint par la société qui est sortie du groupe en annexe à la déclaration de résultats de l'exercice de
+sortie. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220
+	  - CGI 223 A
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 7 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 46 quater-0 ZL
+
+La déclaration du résultat d'ensemble visée à l'article 223 Q du code général des impôts comprend les éléments nécessaires à
+la détermination et au contrôle de ce résultat. La société mère doit joindre à cette déclaration :
+
+" Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné à l'article 46 quater-0 ZK ;
+
+" Un tableau de synthèse de ces rectifications ;
+
+" Un tableau de détermination du résultat d'ensemble du groupe ;
+
+" Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme d'ensemble
+et les crédits d'impôt susceptibles d'être utilisés par la société mère.
+
+" Ces renseignements sont présentés sur un des documents conformes aux modèles établis par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 Q
+	  - CGIAN3 46 quater-0 ZK
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 10 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 46 quater-0 ZM
+
+Pour acquitter l'impôt correspondant aux redressements acceptés du résultat d'une société du groupe, la société mère visée à
+l'article 223 A du code général des impôts souscrit dans les conditions prévues à l'article 46 quater-0 ZL et dans les trois
+mois de l'acceptation des redressements une déclaration rectificative du résultat d'ensemble des exercices au titre desquels
+l'impôt est dû.
+
+Cette déclaration mentionne la nature et le montant des redressements pour lesquels l'impôt est acquitté. Elle est
+accompagnée des pièces prévues à l'article 46 quater-0 ZL.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 A
+	  - CGIAN3 46 quater-0 ZL
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
+	  - HISTO: Edition du 27 octobre 1995
+	  - PEREMPTION: Loi n°94-1163 1994-12-29 art. 31 Finances rectificative pour 1994 JORF 30 décembre 1994, article sans objet
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 11 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°95-1281 1995-12-11
+
+
+###### Article 46 quater-0 ZN
+
+Le paiement de l'impôt est effectué dans les conditions prévues à l'article 365. Il est accompagné d'un bordereau-avis de
+versement rectificatif daté et signé de la partie versante et indiquant la nature du versement.
+
+" A défaut de paiement de l'impôt résultant de la déclaration rectificative ou de souscription de cette déclaration, les
+impositions complémentaires sont mises en recouvrement par voie de rôle dans les conditions prévues à l'article 366. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 365
+	  - CGIAN3 366
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
+	  - PEREMPTION: Loi n°94-1163 1994-12-29 art. 31 Finances rectificative pour 1994 JORF 30 décembre 1994, article sans objet
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 12 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°95-1281 1995-12-11
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
