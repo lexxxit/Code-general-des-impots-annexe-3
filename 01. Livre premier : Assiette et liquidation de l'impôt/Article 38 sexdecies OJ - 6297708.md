@@ -2,8 +2,10 @@
 
 En ce cas de passage du régime transitoire au forfait :
 
-Les dispositions de l'article 38 sexdecies OF sont applicables    Les créances et les dettes nées d'opérations imposables
-réalisées sous le régime transitoire sont rapportées aux résultats du dernier exercice clos sous ce régime.
+a) Les dispositions de l'article 38 sexdecies OF sont applicables.
+
+b) Les créances et les dettes nées d'opérations imposables réalisées sous le régime transitoire sont rapportées aux résultats
+du dernier exercice clos sous ce régime.
 
 **Liens relatifs à cet article**
 
@@ -11,10 +13,10 @@ réalisées sous le régime transitoire sont rapportées aux résultats du derni
 
 	  - CGIAN3 38 sexdecies OF
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-642 du 6 août 1987 - art. 7 (V) JORF 8 août 1987
+	  - Décret n°92-751 du 29 juillet 1992 - art. 3 (V) JORF 4 août 1992
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°87-940 1987-11-23
+	  - HISTO: Edition du 18 août 1993
