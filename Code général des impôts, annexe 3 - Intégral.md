@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1975-12-31
+Version Consolidée au 1976-05-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -159,5 +159,41 @@ Ils sont immédiatement oblitérés.
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
+
+
+## Chapitre III : Dégrèvements et restitutions d'impôts
+
+### Section II : Juridiction gracieuse
+
+#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs
+
+##### 2 : Sursis de versement et décharge de responsabilité
+
+##### c : Dispositions communes
+
+###### Article 442
+
+Le receveur général des finances, trésorier-payeur général de la région d'Ile-de-France,les trésoriers-payeurs généraux et
+receveurs particuliers des finances,font de leurs deniers personnels dans un délai de trois mois à compter de la notification
+qui leur est faite de la décision l'avance des sommes laissées définitivement à la charge de leurs subordonnés et que ceux-ci
+n'auraient pas versées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Loi n°76-394 1976-05-06 art. 1 JORF 7 mai 1976
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
 
 
