@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-04-26
+Version Consolidée au 1988-05-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6879,6 +6879,65 @@ sur papier libre, conformément à un modèle fixé par l'administration.
 	  - PEREMPTION: Décret n°2002-923 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
 	  - HISTO: Edition du 31 juillet 1986
 	  - HISTO: Edition du 31 mars 2002
+
+
+##### 4° : Réduction d'impôt au titre des souscriptions au capital de sociétés nouvelles
+
+###### Article 46 AH
+
+I. - Lorsqu'un contribuable entend bénéficier de la réduction d'impôt, prévue à l'article 199 duodecies du code général des
+impôts, il fait connaître son intention à la société au capital de laquelle il a souscrit au plus tard le 31 décembre de
+l'année de la souscription.
+
+Dans ce cas, la société lui délivre un état individuel qui mentionne :
+
+L'identité et l'adresse du souscripteur ;
+
+La raison sociale et le siège social de la société ;
+
+La date de sa création ;
+
+Le montant ainsi que la date de la souscription réalisée et des versements effectués lors de la création de la société ou
+lors d'augmentation de capital intervenues dans les deux ans de cette création ;
+
+Le nombre des actions ou parts souscrites ;
+
+Le cas échéant, le nombre des actions cédées par le contribuable ainsi que le montant et la date de cession.
+
+Cet état précise en outre qu'il est délivré pour l'application des dispositions de l'article 199 duodecies du code général
+des impôts.
+
+II. - Pour bénéficier de la réduction d'impôt à laquelle les souscriptions ouvrent droit, le contribuable joint à sa
+déclaration de revenus l'état qui lui a été remis conformément au I.
+
+III. - Les titres dont la souscription ouvre droit au bénéfice de la réduction d'impôt sont regroupés par date de
+souscription dans un compte spécial.
+
+IV. - Lorsque des titres dont la souscription a ouvert droit à réduction d'impôt sont cédés avant le terme de la quatrième
+année suivant celle au cours de laquelle le premier versement a été effectué, la société adresse à la direction des services
+fiscaux du domicile du cédant et à celui-ci, avant le 16 février de l'année qui suit celle de la cession, un état individuel
+comportant les renseignements prévus au I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 duodecies
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°88-15 du 5 janvier 1988 - art. 45 (M)
+	  - PEREMPTION: Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995, conséquence de la péremption de l'article 199 duodecies
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Créé par**:
+
+	  - Décret n°88-536 du 4 mai 1988 - art. 1 (V) JORF 7 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°95-1281 1995-12-11
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
