@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-03-21
+Version Consolidée au 1987-03-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -20693,6 +20693,30 @@ donnent pas lieu à la perception de la taxe.
 	**Liens**:
 
 	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 344 ter
+
+Le montant de la taxe prévue à l'article 344 bis est fixé à 212 F.    La taxe est perçue au taux de 12 F pour les
+ressortissants des parties contractantes à la charte sociale européenne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 344 bis
+
+	**Modifié par**:
+
+	  - Décret n°87-195 du 19 mars 1987 - art. 1 (V) JORF 25 mars 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code du travail - art. D5221-38 (Ab)
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
