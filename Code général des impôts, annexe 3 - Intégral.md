@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2001-06-27
+Version Consolidée au 2001-07-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15300,55 +15300,6 @@ caractère et qui ne s'impose pas pour les rendre propres à la consommation ou 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 ter (V)
 
 
-##### Section III : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail.
-
-###### Article 58 A
-
-La déclaration spéciale prévue à l'article 234 sexies du code général des impôts doit être souscrite auprès du centre des
-impôts du siège de la direction de la personne morale ou de l'organisme ou, à défaut, du lieu du principal établissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 234 sexies
-
-	**Créé par**:
-
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 58 B
-
-La demande de dégrèvement prévue à l'article 234 decies du code général des impôts doit être accompagnée d'une copie de la
-déclaration de droit de bail déposée à la recette des impôts pour la période courant du 1er octobre 1997 au 30 septembre 1998
-et d'un document justifiant soit de la cessation définitive de la location, soit de l'absence de location pendant neuf mois
-consécutifs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 234 decies
-
-	**Créé par**:
-
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - HISTO: Edition du 31 mars 2002
-
-
 ##### Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
 
 ###### Article 58 J
@@ -22275,42 +22226,6 @@ finis élaborés à partir du sirop d'inuline en leur possession.
 	**Codifié par**:
 
 	  - Décret n°2007-484 2007-03-30
-
-
-### Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses
-
-#### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés
-
-##### Section 0I : Entrepositaires agréés.
-
-###### Article 111-0 A
-
-Sans préjudice des dispositions de l'article 502 du code général des impôts, les niveaux mentionnés au 3° du I de l'article
-302 G dudit code sont égaux ou supérieurs à :
-
-a) 10 litres pour les alcools et les boissons spiritueuses ;
-
-b) 20 litres pour les produits intermédiaires ;
-
-c) 90 litres pour les vins et autres produits fermentés, dont 60 litres pour les vins mousseux ;
-
-d) 60 litres pour les vins mousseux ;
-
-e) 110 litres pour les bières.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 502, 302 G
-
-	**Créé par**:
-
-	  - Décret n°2000-784 du 24 août 2000 - art. 1 () JORF 25 août 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -30858,189 +30773,68 @@ fixées à l'article 51.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 
 
-##### 7 : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail.
-
-###### Article 375
-
-Lorsque les contributions mentionnées aux articles 234 bis et 234 nonies du code général des impôts sont dues par une
-personne morale ou un organisme visé au I de l'article 234 quater du même code, y compris les sociétés en commandite simple
-et les sociétés en participation passibles de l'impôt sur les sociétés en application du 4 de l'article 206 du code général
-des impôts, elles sont recouvrées dans les conditions prévues aux articles 376 à 381.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 206 (V)
-	  - Code général des impôts, CGI. - art. 234 bis (Ab)
-	  - Code général des impôts, CGI. - art. 234 nonies (V)
-	  - Code général des impôts, CGI. - art. 234 quater (T)
-	  - Code général des impôts, CGI. - art. 376 (P)
-
+##### 7 : Contribution annuelle sur les revenus locatifs
 
 ###### Article 376
 
-Chaque contribution donne lieu à un acompte déterminé dans les conditions fixées au deuxième alinéa du III de l'article 234
-quater du code général des impôts. Lorsque l'acompte n'excède pas 100 F, l'entreprise est dispensée de son versement.
+La contribution donne lieu à un acompte déterminé dans les conditions fixées au deuxième alinéa du III de l'article 234
+duodecies du code général des impôts. Lorsque l'acompte n'excède pas 100 F, l'entreprise est dispensée de son versement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 234 quater
+	  - CGI 234 duodecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
+	  - Décret n°2001-573 2001-06-29 art. 1 IV, VI JORF 4 juillet 2001
+	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
 
+	**Cité par**:
 
-###### Article 377
-
-L'acompte est calculé par l'entreprise et versé par elle, sans avis d'imposition, dans les vingt premiers jours du mois au
-cours duquel le dernier acompte d'impôt sur les sociétés précédant la clôture de l'exercice ou la fin de la période
-d'imposition est exigible ou, pour les sociétés membres d'un groupe au sens de l'article 223 A du code général des impôts,
-serait exigible si ces sociétés n'avaient pas donné l'accord ou exercé l'option visés respectivement aux quatrième et
-cinquième alinéas de cet article ; la somme ainsi calculée est versée à la caisse du comptable du Trésor chargé du
-recouvrement des impôts directs du lieu d'imposition défini par l'article 218 A du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 A, 218 A
-
-	**Créé par**:
-
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 375 (V)
 
 
-###### Article 378
+###### Article 381 septies
 
-L'acompte et le solde de liquidation sont chacun accompagnés d'un bordereau-avis, daté et signé de la partie versante et
-indiquant la nature du versement, l'échéance à laquelle il se rapporte, la base de calcul ainsi que la désignation et
-l'adresse du principal établissement de l'entreprise.
+La contribution donne lieu à un acompte déterminé selon les modalités définies au troisième alinéa de l'article 234
+quaterdecies du code général des impôts et versé, sans avis d'imposition, au plus tard le 15 octobre de l'année de la
+perception des revenus soumis à la contribution ; la somme ainsi calculée est versée à la caisse du comptable du Trésor
+chargé du recouvrement des impôts directs. Lorsque l'acompte n'excède pas 100 F, l'entreprise est dispensée de son versement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 234 quater
+	  - CGI 234 quaterdecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Décret n°2001-573 2001-06-29 art. 1 II, XI JORF 4 juillet 2001
+	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
 
 
-###### Article 379
+###### Article 381 ter
 
-I. - Le recouvrement de l'acompte ou fraction d'acompte non réglé et de la majoration de 10 % applicable dans les conditions
-mentionnées au 3 de l'article 1762 du code général des impôts pour les acomptes d'impôt sur les sociétés est poursuivi, le
-cas échéant, en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général. Les dispositions du titre IV
-de la deuxième partie du livre des procédures fiscales concernant les impôts dont le recouvrement incombe aux comptables du
-Trésor sont applicables.
-
-II. - Les omissions totales ou partielles constatées dans l'établissement de ce titre ainsi que les erreurs commises dans le
-calcul de l'acompte ou de la majoration peuvent être réparées jusqu'à l'expiration de la quatrième année suivant celle au
-cours de laquelle les versements étaient exigibles.
+La contribution donne lieu à un acompte déterminé par l'entreprise selon les modalités définies au III de l'article 234
+duodecies du code général des impôts, exigible le dernier jour de l'avant-dernier mois de l'exercice et versée par elle, sans
+avis d'imposition, à la caisse du comptable du Trésor chargé du recouvrement des impôts directs. Lorsque l'acompte n'excède
+pas 100 F, l'entreprise est dispensée de son versement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1762
+	  - CGI 234 duodecies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Décret n°2001-573 2001-06-29 art. 1 IV, VI JORF 4 juillet 2001
+	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
 
 
-###### Article 380
-
-I. - La liquidation des contributions est faite par l'entreprise et le montant en est versé par elle, sans avis d'imposition,
-sous déduction de l'acompte déjà réglé, au plus tard le jour de l'expiration du délai fixé pour la remise de la déclaration
-prévue au 1 de l'article 223 du code général des impôts.
-
-Ce versement est effectué à la caisse du comptable du Trésor chargé du recouvrement des impôts directs du lieu d'imposition
-défini par l'article 218 A du même code.
-
-II. - Le comptable du Trésor transmet au service des impôts le bordereau-avis de liquidation et envoie au redevable une
-situation sur laquelle sont récapitulés les encaissements constatés. Ce document vaut quittance libératoire pour l'ensemble
-des sommes reçues.
-
-III. - Si le solde de liquidation n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il était
-exigible en vertu du I, la majoration de 10 % visée à l'article 1762 du code général des impôts est appliquée aux sommes non
-réglées.
-
-Lorsque la liquidation de la contribution n'a pas été faite par l'entreprise ou que cette liquidation a été opérée d'après
-une assiette inférieure à celle mentionnée sur la déclaration souscrite en exécution du 1 de l'article 223 du code général
-des impôts, la majoration de 10 % est calculée en tenant compte de l'assiette mentionnée sur la déclaration susvisée.
-
-IV. - Le recouvrement du solde de liquidation ou fraction du solde de liquidation et de la majoration de 10 % correspondante
-est poursuivi, le cas échéant, en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général. Les
-dispositions du titre IV de la deuxième partie du livre des procédures fiscales concernant les impôts dont le recouvrement
-incombe aux comptables du Trésor sont applicables.
-
-Dans la mesure où le service du recouvrement n'est pas à même d'en déterminer le montant, la majoration de 10 % est recouvrée
-en vertu d'un rôle émis par le chef des services fiscaux.
-
-V. - Les omissions totales ou partielles constatées dans l'établissement des titres de perception ou rôle visés ci-dessus
-ainsi que les erreurs commises dans le calcul du solde de liquidation ou de la majoration de 10 % peuvent être réparées
-jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle le versement du solde était exigible.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223, 218, 1762
-
-	**Créé par**:
-
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 381
-
-Le complément de contribution à verser, qui apparaît le cas échéant à la suite du contrôle de la liquidation effectué par le
-service des impôts, est recouvré par voie de rôle. Il est exigible en totalité dès la mise en recouvrement dudit rôle.
-L'entreprise doit prendre en compte cette nouvelle liquidation pour le calcul de son prochain acompte.
-
-La majoration de 10 % est applicable au complément d'impôt dans les conditions fixées par l'article 1761 du code général des
-impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1761
-
-	**Créé par**:
-
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
+##### 7 : Contribution annuelle représentative du droit de bail et contribution additionnelle à la contribution annuelle représentative du droit de bail.
 
 ###### Article 381 bis
 
@@ -31185,28 +30979,6 @@ susvisée.
 	  - HISTO: Edition du 31 mars 2000
 
 
-###### Article 381 septies
-
-Chaque contribution donne lieu à un acompte déterminé selon les modalités définies au troisième alinéa de l'article 234
-sexies du code général des impôts et versé, sans avis d'imposition, au plus tard le 15 octobre de l'année de la perception
-des revenus soumis à la contribution ; la somme ainsi calculée est versée à la caisse du comptable du Trésor chargé du
-recouvrement des impôts directs. Lorsque l'acompte n'excède pas 100 F, l'entreprise est dispensée de son versement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 234 sexies
-
-	**Créé par**:
-
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-
 ###### Article 381 sexies
 
 Lorsque les contributions mentionnées aux articles 234 bis  et 234 nonies du code général des impôts sont dues par une
@@ -31218,28 +30990,6 @@ elles sont recouvrées dans les conditions prévues aux articles 381 septies à 
 	**Cite**:
 
 	  - CGI 234 bis, 234 nonies, 234 sexies, 381 septies à 381 decies
-
-	**Créé par**:
-
-	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 381 ter
-
-Chaque contribution donne lieu à un acompte déterminé par l'entreprise selon les modalités définies au III de l'article 234
-quater du code général des impôts, exigible le dernier jour de l'avant-dernier mois de l'exercice et versée par elle, sans
-avis d'imposition, à la caisse du comptable du Trésor chargé du recouvrement des impôts directs. Lorsque l'acompte n'excède
-pas 100 F, l'entreprise est dispensée de son versement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 234 quater
 
 	**Créé par**:
 
