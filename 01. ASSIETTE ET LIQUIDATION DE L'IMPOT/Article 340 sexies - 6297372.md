@@ -5,7 +5,7 @@ corporels de chasse sont les suivants :
 
 Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie.
 
-Contribution forfaitaire des assurés : 0,90 F par personne garantie.
+Contribution forfaitaire des assurés : 1,50 F par personne garantie.
 
 2. Le versement d'acomptes sur leur contribution peut être demandé aux sociétés d'assurances par le fonds de garantie.
 
@@ -14,6 +14,10 @@ d'assurances et sous leur responsabilité.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°83-483 1983-06-09 art. 1 JORF 14 juin 1983
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
