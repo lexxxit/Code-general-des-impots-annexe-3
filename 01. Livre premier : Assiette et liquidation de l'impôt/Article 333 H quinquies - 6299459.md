@@ -1,14 +1,21 @@
 # Article 333 H quinquies
 
-Pour les farines, semoules et gruaux de blé tendre destinés à l'exportation, il appartient aux bénéficiaires de l'exonération
-de la taxe de justifier de l'exportation réelle des produits.
+Pour les farines, semoules et gruaux de blé tendre et les produits dérivés à base de farine de blé tendre destinés à
+l'exportation, il appartient aux bénéficiaires de l'exonération de la taxe de justifier de l'exportation réelle des produits.
+
+Pour ces mêmes produits expédiés vers les autres Etats membres de la Communauté européenne, il appartient aux bénéficiaires
+de l'exonération de justifier de leur livraison réelle.
+
+Pour les exportations et les expéditions de ces produits vers les autres Etats membres de la Communauté européenne, l'Office
+national interprofessionnel des céréales procède pour le compte du Trésor à la mise en oeuvre de l'exonération de la taxe
+selon la procédure prévue par cet établissement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-866 du 4 septembre 1991 - art. 4 (V) JORF 6 septembre 1991
+	  - Décret n°93-1332 du 20 décembre 1993 - art. 2 () JORF 26 décembre 1993
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°92-836 1992-08-27
+	  - HISTO: Edition du 2 septembre 1994

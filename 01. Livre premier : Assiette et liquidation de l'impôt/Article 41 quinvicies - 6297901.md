@@ -5,6 +5,21 @@ l'article 170 du code général des impôts, l'année où leur report d'impositi
 
 Chaque année, le montant cumulé des plus-values en report d'imposition est indiqué sur cette même déclaration.
 
+((Le contribuable joint à cette déclaration un état établi sur une formule délivrée par l'administration et faisant
+apparaître pour chaque plus-value dont le report d'imposition n'est pas expiré :
+
+a) La nature et la date de l'opération d'échange de titres ;
+
+b) La désignation des sociétés concernées ;
+
+c) Le montant de ces plus-values au 31 décembre de l'année d'imposition et au 31 décembre de l'année précédente ;
+
+d) La nature et la date de l'événement ayant entraîné la modification de ce montant ;
+
+e) L'indication du régime de report d'imposition applicable à l'opération d'échange.)) (1)
+
+(1) Modification du décret.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -12,10 +27,7 @@ Chaque année, le montant cumulé des plus-values en report d'imposition est ind
 	  - CGI 170
 	  - CGIAN3 41 quatervicies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1313 du 27 décembre 1991 - art. 3 (V) JORF 29 décembre 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°94-456 du 31 mai 1994 - art. 2 () JORF 7 juin 1994
+	  - Modifications directes incorporées dans l'édition du 2 septembre 1994

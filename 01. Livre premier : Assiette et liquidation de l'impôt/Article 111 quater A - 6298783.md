@@ -1,25 +1,17 @@
 # Article 111 quater A
 
 La redevance sanitaire d'abattage est perçue par le service des impôts dans tous les établissements où il est procédé à
-l'abattage des animaux. Elle est assise [*assiette*] sur le poids de viande fraîche net, tel qu'il est défini aux articles
-111 quater B à 111 quater E de l'annexe III au code général des impôts, constaté lors de la pesée et atténuée des abattements
-prévus à l'article 111 quater F.
+l'abattage des animaux. Elle est assise sur le ((nombre de carcasses d'animaux de chaque espèce)) (1).
+
+(1) Modification du décret.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN3 111 quater B à CGIAN3 111 quater E
-	  - CGIAN3 111 quater F
+	  - Décret n°94-520 du 24 juin 1994 - art. 1 () JORF 25 juin 1994
 
 	**Liens**:
 
+	  - HISTO: Edition du 2 septembre 1994
 	  - TXT_SOURCE: Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
-
-	**Modifié par**:
-
-	  - Décret n°90-297 du 3 avril 1990 - art. 1 (V) JORF 4 avril 1990
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10

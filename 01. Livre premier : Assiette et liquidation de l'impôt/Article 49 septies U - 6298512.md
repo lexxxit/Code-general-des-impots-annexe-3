@@ -7,6 +7,9 @@ Les entreprises qui n'ont pas exercé l'option prévue au premier alinéa peuven
 années 1991 à 1993 au plus tard à la date limite de dépôt de la déclaration de résultat du premier exercice clos à compter du
 31 décembre 1991.
 
+((Au titre des années 1994 à 1998, l'option des entreprises peut être exercée jusqu'à la date limite de dépôt de la
+déclaration de résultat du premier exercice clos à compter du 31 décembre 1994)) (1).
+
 Toutefois, les entreprises nouvelles et les entreprises qui exposent pour la première fois des dépenses éligibles au crédit
 d'impôt-formation devront opter au plus tard à la date limite de dépôt de la déclaration de résultat du premier exercice clos
 à compter du 31 décembre de l'année au cours de laquelle l'entreprise a été créée ou a exposé pour la première fois des
@@ -23,6 +26,8 @@ annexée à la déclaration annuelle de résultat que les entreprises sont tenue
 celui qui est prévu pour le dépôt de la déclaration annuelle de résultat, à la délégation régionale à la formation
 professionnelle dont dépend l'entreprise.
 
+(1) Modification du décret.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -31,8 +36,8 @@ professionnelle dont dépend l'entreprise.
 
 	**Modifié par**:
 
-	  - Loi - art. 17 (V) JORF 31 décembre 1992
+	  - Décret n°94-269 du 5 avril 1994 - art. 1 () JORF 6 avril 1994
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - HISTO: Edition du 2 septembre 1994

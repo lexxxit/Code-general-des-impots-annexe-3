@@ -33,8 +33,10 @@ des impôts ;
 
 2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ;
 
-3° Pour recevoir après saisie les ouvrages d'or, d'argent et de platine en application de l'article 541 du code général des
-impôts.
+3° Pour recevoir après saisie les ouvrages d'or ((ou contenant de l'or)) (1), d'argent et de platine en application de
+l'article 541 du code général des impôts.
+
+(1) Modification.
 
 **Liens relatifs à cet article**
 
@@ -42,19 +44,15 @@ impôts.
 
 	  - CGI 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, 1564, 444, 511 bis, 570, 625, 319, 471, 473, 474, 568, 304, 330, 541
 
-	**Modifié par**:
-
-	  - Décret n°93-266 du 26 février 1993 - art. 1 (V) JORF 28 février 1993
-	  - Décret n°93-309 1993-03-09 art. 4-2°, 9-2°, 10-II et 22 JORF 11 mars 1993
-
-	**Créé par**:
-
-	  - Décret n°93-264 1993-02-26 art. 1er-2°, 4-2°, 6-2°, 8-2°, 17-2°, 18-2°, 20-2° et 26 JORF 28 février 1993
-
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°94-899 1994-10-17
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 1994-01-01 art. 26 I, 31 JORF 5 janvier 1994
