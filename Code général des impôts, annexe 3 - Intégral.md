@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1982-07-29
+Version Consolidée au 1982-08-05
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -18083,20 +18083,23 @@ n'excèdent pas 400.000 F par cote;
 au directeur général des impôts  d'accord avec le directeur de  a la comptabilité publique  lorsqu'il s'agit de sommes
 excédant les limites de compétence du directeur des services fiscaux;
 
-au ministre, après avis du comité des remises et transactions, en cas de désaccord entre le directeur général des impôts et
-le directeur de la comptabilité publique.
+au ministre, en cas de désaccord entre le directeur général des impôts et le directeur de la comptabilité publique.
 
 Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V) JORF 30 JUILLET 1980
+	  - Décret n°82-881 1982-10-15
 
 	**Cité par**:
 
 	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 
 ###### Article 434
