@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1981-05-13
+Version Consolidée au 1981-07-01
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -1797,6 +1797,89 @@ faisant ressortir le montant des dotations de chaque exercice.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 A (P)
+
+
+###### Article 10 E
+
+Si elle est utilisée dans le délai et les conditions prévus aux articles 10 C et 10 C sexies, la provision est définitivement
+exonérée de l'impôt sur le revenu ou de l'impôt sur les sociétés et peut être virée à un compte de réserve quelconque au
+passif du bilan. Les sommes ainsi utilisées en travaux de recherches ou de récupération ou en participations peuvent, dans
+les conditions fixées par le code général des impôts, être comptabilisées en dépenses d'exploitation, faire l'objet
+d'amortissements annuels ou donner lieu à la constitution de provisions pour dépréciation. 
+
+A défaut de remploi dans le délai ci-dessus, la provision est rapportée au bénéfice imposable de l'exercice en cours à la
+date d'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C (V)
+
+
+###### Article 10 F
+
+En cas de cession ou de cessation d'entreprise ou de décès de l'exploitant, la provision pour reconstitution des gisements
+figurant au dernier bilan est considérée comme un élément du bénéfice immédiatement imposable dans les conditions fixées par
+l'article 201 et le 2 de l'article 204 du code général des impôts.
+
+Toutefois, la provision n'est pas rapportée au bénéfice imposable lorsque l'exploitation du fonds d'industrie est continuée
+dans les conditions prévues aux articles 41 et 210 A à 210 C du code général susvisé.
+
+L'application des dispositions de l'alinéa précédent est subordonnée à la condition que le délai d'utilisation de la
+provision ne soit pas expiré à la date de la cession et à l'obligation pour les nouveaux exploitants, pour la société
+absorbante ou nouvelle ou pour la société bénéficiaire de l'apport, d'inscrire immédiatement à leur passif la provision
+figurant dans les écritures du précédent exploitant, des sociétés fusionnées ou de la société apporteuse et qui était
+afférente aux éléments transférés et de l'utiliser avant l'expiration du délai imparti à l'ancien exploitant dans les
+conditions prévues aux articles 10 C et 10 C sexies et sous les sanctions fixées à l'article 10 E.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 201, 204, 210 A à C, 41
+	  - CGIAN3 10 C, 10 C sexies, 10 E
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+
+###### Article 10 G
+
+Les entreprises doivent fournir au service des impôts, à l'appui de la déclaration des résultats de chaque exercice, tous
+renseignements utiles sur les éléments de calcul de la provision pour reconstitution des gisements ainsi que sur les
+conditions de son utilisation.
+
+Elles doivent indiquer, notamment, pour l'exercice considéré :
+
+a. Le montant net, déterminé comme il est dit aux articles 10 B et 10 C quinquies, des ventes des produits marchands extraits
+des gisements exploités par l'entreprise ou acquis par celle-ci auprès de filiales étrangères dans les conditions prévues aux
+II et III de l'article 10 C quinquies ;
+
+b.  Le montant du bénéfice net imposable visé à l'article 10 B ou du bénéfice net imposable visé à l'article 10 C quinquies ;
+
+c. Et, le cas échéant, le montant des sommes utilisées dans les conditions prévues aux articles 10 C et 10 C sexies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 10 B, 10 C quinquies II, III, 10 C, 10 C sexies
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ##### G : Réinvestissement des plus-values. Exclusion des acquisitions de biens de caractère somptuaire
@@ -3662,6 +3745,199 @@ Cette demande indique la date et les conditions de l'émission ainsi que le nomb
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 quindecies (V)
+
+
+##### G : Fonds communs de placement, fonds professionnels de capital investissement et fonds professionnels spécialisés
+
+###### Article 41 sexdecies A
+
+Dans le mois de la création d'un fonds commun de placement prévu à l'article 137 bis du code général des impôts, le gérant
+dépose auprès de la direction des services fiscaux dans le ressort de laquelle il souscrit sa déclaration de bénéfice, ou à
+défaut, sa déclaration de revenus, une déclaration d'existence du fonds et un exemplaire du règlement de celui-ci. 
+
+Dans le délai d'un mois consécutif à une opération d'apports ou de scission mentionnée à l'article 17 de la loi n° 79-594 du
+13 juillet 1979 relative aux fonds communs de placement ou à la dissolution du fonds prévu à l'article 24 de la même loi, le
+gérant du fonds doit également informer la direction des services fiscaux de cette opération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 137 bis
+	  - Loi n°79-594 du 13 juillet 1979 - art. 17 (Ab)
+	  - Loi n°79-594 du 13 juillet 1979 - art. 24 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-89 du 29 janvier 1981 - art. 1 (V) JORF 4 FEVRIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 280 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies X (Ab)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies G (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article 41 sexdecies C
+
+Le gérant d'un fonds commun de placement doit, dans les trente jours de la date de mise en distribution des produits des
+actifs compris dans le fonds, et au plus tard dans les trente jours suivant le délai de quatre mois prévu à l'article 21 de
+la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement, déposer auprès de la direction des services
+fiscaux désignée au premier alinéa de l'article 41 sexdecies A, un état sur papier libre comportant l'indication : 
+
+a. Des dates d'ouverture et de clôture de l'exercice dont les produits ont été mis en distribution ; 
+
+b. De la date de mise en distribution ; 
+
+c. Du nombre de parts du fonds commun de placement existant à chacune de ces deux dernières dates ; 
+
+d. Du montant, déterminé conformément aux dispositions du troisième alinéa de l'article 21 précité, de la répartition
+effectuée au titre de l'exercice considéré ; 
+
+e. Le cas échéant, de la date de distribution et du montant de chacun des acomptes versés au titre du même exercice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 sexdecies A
+	  - Loi n°79-594 du 13 juillet 1979 - art. 21 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°81-89 du 29 janvier 1981 - art. 3 (V) JORF 4 FEVRIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article 41 sexdecies D
+
+Pour toute répartition globale unique effectuée par un fonds commun de placement au titre d'un exercice déterminé, le gérant
+est tenu de rédiger et de produire à toute demande de l'administration, un état mentionnant : 
+
+1° Le montant des sommes ou valeurs distribuées au profit de chaque part du fonds avec l'indication de la nature des produits
+soumis à des règles fiscales différentes qui entrent dans leur composition ; une ventilation doit être faite, s'il y a lieu,
+pour les produits de source étrangère par Etat d'origine de ces produits ;
+
+2° La nature et le montant des produits de l'exercice faisant l'objet d'un report de distribution. 
+
+Ce report peut provenir : 
+
+Soit de l'arrondissement au centime inférieur de la somme attribuée à chaque part ; 
+
+Soit, en cas d'encaissement de lots et primes de remboursement d'obligations émises en France, de l'utilisation totale ou
+partielle par le fonds de la faculté qui lui est offerte par l'article 21, troisième alinéa, de la loi n° 79-594 du 13
+juillet 1979, d'en différer la distribution de deux ans ; 
+
+3° Le montant global des avoirs fiscaux et crédits d'impôt mentionnés sur les certificats délivrés au fonds pendant
+l'exercice, déterminé comme si tous les propriétaires de parts avaient en France leur domicile fiscal ou leur siège social. 
+
+Ce montant fait éventuellement l'objet d'une ventilation tenant compte de la nature et de l'origine française ou étrangère
+des produits encaissés à répartir ; 
+
+4° Le montant total des crédits d'impôt déterminé comme si tous les propriétaires de parts étaient domiciliés ou avaient leur
+siège social hors de France et étaient placés hors du champ d'application d'une convention internationale en matière d'impôt
+sur les revenus ; ce montant est éventuellement ventilé comme il est dit au 3° ; 
+
+5° Le montant des avoirs fiscaux attachés aux dividendes de sociétés françaises dont l'utilisation n'est pas admise en vertu
+de la limitation prévue aux articles 158 bis, troisième alinéa et 209 bis du code général des impôts ; 
+
+6° La fraction des avoirs fiscaux et crédits d'impôt attachés aux produits encaissés par le fonds commun au cours de
+l'exercice, qui n'a pu être transférée aux propriétaires de parts pour tout autre motif que celui mentionné au 5°. 
+
+L'utilisation de cette fraction demeure possible au titre des deux exercices annuels suivant celui au cours duquel les
+produits auxquels se rattachent les avoirs fiscaux et crédits d'impôt auraient pu normalement être répartis compte tenu de la
+date de leur encaissement ; 
+
+7° Le nombre de parts existant effectivement au jour de la mise en distribution des produits et ouvrant droit à cette
+répartition ainsi qu'à l'utilisation d'une quote-part soit de la somme imputable prévue au 3°, éventuellement diminuée du
+montant mentionné au 5°, soit de la somme imputable prévue au 4° ; 
+
+8° Le montant du crédit d'impôt unitaire calculé en se plaçant dans chacune des deux hypothèses envisagées respectivement au
+3° et au 4° en fonction du lieu du domicile fiscal ou du siège social du propriétaire de parts ; 
+
+9° La ventilation du crédit d'impôt unitaire selon la nature et l'origine des produits entrant dans la composition des sommes
+ou valeurs réparties.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 158 bis AL. 3
+	  - CGI 209 bis
+	  - Loi n°79-594 1979-07-13 ART. 21 AL. 3
+
+	**Créé par**:
+
+	  - Décret n°81-89 du 29 janvier 1981 - art. 3 (V) JORF 4 FEVRIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies E (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article 41 sexdecies E
+
+I - En cas de distribution d'un acompte, le gérant du fonds commun de placement doit, dans le mois de cette distribution
+partielle comme dans le cas d'une distribution globale prévue à l'article 41 sexdecies C, produire un état comportant
+l'indication du montant et de la date de mise en distribution de cet acompte, de l'exercice au titre duquel il est versé
+ainsi que du nombre de parts ayant vocation à cette répartition. 
+
+II - Pour chaque acompte, le gérant est tenu de rédiger un état analogue à celui prévu à l'article 41 sexdecies D mais tenant
+compte uniquement, pour la détermination des divers montants qui doivent y être mentionnés, des produits du fonds compris
+dans l'acompte et des avoirs fiscaux ou crédits d'impôt attachés à ces produits. 
+
+III - Lors de la répartition pour solde des produits d'un exercice déterminé, des états analogues à ceux prévus
+respectivement aux articles 41 sexdecies C et 41 sexdecies D doivent être rédigés. Ils rappellent, en les récapitulant, les
+éléments afférents aux acomptes déjà versés, d'une part, et mentionnent, d'autre part, les éléments relatifs à ce solde.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41 sexdecies C
+	  - CGIAN3 41 sexdecies D
+
+	**Créé par**:
+
+	  - Décret n°81-89 du 29 janvier 1981 - art. 4 (V) JORF 4 FEVRIER 1981
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er juillet 1981
 
 
 ##### X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
@@ -16454,133 +16730,6 @@ précédent est celle définie à l'article 381 W.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 383 quater
-
-1. L'imputation de la déduction visée aux articles 244 quinquies et 244 septies du code général des impôts peut être opérée à
-compter de la remise au comptable de la déclaration et des pièces justificatives prévues à l'article 49 undecies de la
-présente annexe.
-
-Si la pièce visée à l'article 49 undecies-1-c fait défaut la demande d'imputation ne peut être prise en considération qu'à
-concurrence de la valeur hors taxe des biens ouvrant droit à déduction.
-
-Sauf avis contraire du redevable l'imputation est effectuée par le comptable du Trésor au fur et à mesure de l'exigibilité de
-l'impôt désigné dans la déclaration.
-
-2. Les sociétés qui ont demandé l'imputation de la déduction pour investissement sur l'impôt sur les sociétés peuvent
-reporter cette déduction sur le précompte ou inversement à la condition d'en aviser le comptable auquel a été adressée la
-déclaration prévue à l'article 49 undecies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quinquies
-	  - CGI 244 septies
-	  - CGIAN3 49 undecies 1 c
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 383 quinquies
-
-Lorsque l'investissement est réalisé par une société dont les bénéfices sont imposés dans les conditions prévues à l'article
-8 du code général des impôts  la déduction pour investissement est répartie entre les associés ou participants  en proportion
-de leurs droits dans les bénéfices sociaux à la date de la réalisation de l'investissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 8
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 383 septies
-
-Lorsque la déduction opérée est reconnue non fondée en tout ou en partie les droits dont le paiement a été éludé sont
-recouvrés suivant les procédures avec les garanties et sous les sanctions applicables à l'impôt sur lequel l'imputation a été
-faite.
-
-Le rôle ou l'avis de mise en recouvrement correspondant est émis dans les conditions et délais prévus à l'article 1966 du
-code général des impôts au titre de l'année au cours de laquelle l'imputation litigieuse a été pratiquée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1966
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 383 sexies
-
-En cas de changement d'exploitant  les déductions pour investissement non encore imputées peuvent être utilisées  sur sa
-demande  par le nouvel exploitant  lorsque l'exploitation est continuée dans les conditions prévues à l'article 41 du code
-général des impôts.
-
-Il en est de même lorsque les biens ouvrant droit à la déduction font l'objet d'un apport soumis au régime fiscal des fusions
-défini aux articles 210 A à 210 C du code précité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 210 A
-	  - CGI 210 B
-	  - CGI 210 C
-	  - CGI 41
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### TAXES SUR LE CHIFFRE D'AFFAIRES ET TAXES ASSIMILEES.
-
-###### Article 384 C
-
-1. L'IMPUTATION DE LA DEDUCTION POUR INVESTISSEMENT SUR LA TAXE SUR LA VALEUR AJOUTEE, PREVUE PAR L'ARTICLE 244 NONIES DU
-CODE GENERAL DES IMPOTS, EST REGIE PAR LES DISPOSITIONS DES ARTICLES 383 QUATER A 383 SEPTIES DE LA PRESENTE ANNEXE, SOUS
-RESERVE DES DISPOSITIONS DES 2 ET 3.
-
-2. LORSQUE L'OPTION VISEE A L'ARTICLE 244 NONIES DU CODE GENERAL DES IMPOTS EST EXERCEE PAR UNE PERSONNE MORALE OU UN
-ORGANISME DONT LES BENEFICES SONT IMPOSES DANS LES CONDITIONS PREVUES A L'ARTICLE 8 DU MEME CODE LES DISPOSITIONS DE
-L'ARTICLE 383 QUINQUIES DE LA PRESENTE ANNEXE NE SONT PAS APPLICABLES ET L'IMPUTATION NE PEUT ETRE OPEREE QUE PAR LA PERSONNE
-MORALE OU L'ORGANISME INTERESSE 3 . L'IMPUTATION DE LA DEDUCTION POUR INVESTISSEMENT EST OPEREE SUR LA TAXE SUR LA VALEUR
-AJOUTEE DONT L'ENTREPRISE EST REDEVABLE APRES AVOIR EFFECTUE LES DEDUCTIONS AUXQUELLES ELLE PEUT PRETENDRE CONFORMEMENT AUX
-DISPOSITIONS PRISES EN APPLICATION DES ARTICLES 271 ET 273 DU CODE GENERAL DES IMPOTS.
-
-POUR BENEFICIER DE CETTE IMPUTATION, LES ENTREPRISES SONT TENUES DE JOINDRE A LA DECLARATION PREVUE A L'ARTICLE 287-1 DU CODE
-PRECITE UNE DEMANDE SPECIALE D'IMPUTATION CONFORME AU MODELE PRESCRIT PAR L'ADMINISTRATION.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 nonies
-	  - CGI 271
-	  - CGI 273
-	  - CGI 287 1
-	  - CGI 8
-	  - CGIAN3 383 quater
-	  - CGIAN3 383 quinquies
-	  - CGIAN3 383 septies
-	  - CGIAN3 383 sexies
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-	  - SPEC_APPLI: LE TITRE  : IMPUTATION SUR LA TAXE SUR LA VALEUR AJOUTEE DE LA  DEDUCTION FISCALE POUR INVESTISSEMENT EST SUPPRIME
-
-
 ### ENREGISTREMENT - PUBLICITE FONCIERE.
 
 ###### Article 396
@@ -16883,27 +17032,6 @@ Les procès-verbaux sont dressés à la requête du ministre de l'économie et d
 	**Cite**:
 
 	  - Loi n°56-760 du 2 août 1956 - art. 17, v. init.
-
-
-###### Article 406 A 16 bis
-
-L'indemnité de retard exigible en vertu de l'article 1759 ter-1 du code général des impôts est décomptée depuis le mois de
-l'imputation contestée jusqu'au mois de la mise en recouvrement du rôle ou de la notification de l'avis de mise en
-recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1759 ter 1
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 406 A 16 C
@@ -17604,28 +17732,6 @@ que pour le recouvrement et non pour la présentation  l'instruction et le jugem
 	**Cite**:
 
 	  - CGIAN3 417 A CGIAN3 444
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-## DROIT DE COMMUNICATION.
-
-###### Article 446 quater
-
-Sans préjudice des dispositions de l'article 2002 bis du code général des impôts  les originaux des documents produits à
-l'appui de la déclaration prévue à l'article 49 undecies de la présente annexe doivent être conservés et représentés  jusqu'à
-l'expiration du délai de répétition  à toute réquisition des agents de la direction générale des impôts visés à l'article 406
-bis de l'annexe II au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 2002 bis
-	  - CGIAN2 406 bis
-	  - CGIAN3 49 undecies
 
 	**Liens**:
 
