@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-09-03
+Version Consolidée au 1985-10-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12980,6 +12980,48 @@ III. Les documents désignés au I ne sont plus soumis au visa périodique des r
 
 ##### II : Obligations des agents de l'administration : Salaires des conservateurs
 
+##### 2 : Salaires fixes
+
+###### Article 291
+
+Le tarif des salaires exigibles pour la délivrance des extraits prévus par le 2 de l'article 40, le III de l'article 42-1 et
+l'article 85-1 du décret n° 55-1350 modifié du 14 octobre 1955 est fixé à 30 F par extrait analytique de document demandé et
+expressément désigné par ses références (nature, date, volume et numéro).
+
+Lorsque les réquisitions d'extraits complétant un état sommaire ne comportent pas les références aux formalités, il est fait
+application du tarif défini à l'article 289.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 289
+	  - Décret n°55-1350 1955-10-14 art. 40 2, art. 42-1 III, art. 85-1
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 85-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 6 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+
+
+###### Article 292
+
+Le tarif des salaires exigibles pour la délivrance des relevés de formalités prévus au 2 de l'article 85-1 du décret n°
+55-1350 modifié du 14 octobre 1955, et à l'article 8 de l'arrêté du 9 avril 1956 portant création et fonctionnement des
+centres spéciaux d'archives hypothécaires est fixé à 30 F par personne du chef de laquelle les renseignements sont demandés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1956-04-09 art. 8
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 85-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 8 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+
+
 ##### 3 : Salaires proportionnels
 
 ###### Article 293
@@ -13160,6 +13202,57 @@ octobre 1955; à défaut du même versement les états et certificats établis s
 
 ##### 2 : Salaires fixes.
 
+###### Article 287
+
+Il est alloué un salaire fixe de 50 F :
+
+Pour chaque publication ne donnant pas ouverture au salaire proportionnel, notamment :
+
+1° Pour chaque déclaration de changement de domicile par acte séparé  pour l'indication d'une créance hypothécaire ou
+privilégiée déjà inscrite et grevée de substitution et pour chaque mention de prorogation de délai;
+
+2° Pour la publication de chaque commandement valant saisie immobilière;
+
+3° Pour la mention des sommations prescrites par l'article 689 du code de procédure civile (art. 694 dudit code) ;
+
+4° Pour l'acte du conservateur constatant son refus de publier un commandement valant saisie en cas de commandement
+transcrit ;
+
+5° Pour la mention, en marge de la publication d'une saisie, de commandement présenté postérieurement (art. 680 du code de
+procédure civile) ;
+
+6° Pour la radiation de la saisie ;
+
+7° Pour la mention de tout jugement ou ordonnance en marge de la publication d'une saisie ;
+
+8° Pour chaque duplicata de certificat de radiation, subrogation ou résolution ;
+
+9° Pour la publication de chaque état descriptif de division et de chaque acte modificatif d'état descriptif de division ;
+
+10° Pour la publication de chaque convention passée en application de l'article L. 351-2 du code de la construction et de
+l'habitation ;    11° Pour la publication des actes constatant la modification de la forme juridique de personnes morales,
+lorsque cette modification n'emporte pas création d'un être moral nouveau ;
+
+12° Pour la publication des demandes en justice mentionnées à l'article 28-4°-c du décret du 4 janvier 1955 ainsi que des
+demandes en justice, procès-verbaux et déclarations visées au 2 de l'article 37 du même décret ;
+
+13° Pour la publication des décisions et des actes constatant les désistements mentionnés à l'article 28-4°-d du décret
+susvisé du 4 janvier 1955.
+
+14° Pour les actes et attestations rectificatives publiés en application du 3 de l'article 34 du décret n° 55-1350 modifié du
+14 octobre 1955.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1350 1955-10-04 art. 34 3
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 2 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+
+
 ###### Article 288
 
 Le tarif des salaires exigibles pour les réquisitions déposées en vue de la délivrance des renseignements hypothécaires
@@ -13201,6 +13294,144 @@ formalité ;
 	**Modifié par**:
 
 	  - Décret n°85-842 du 5 août 1985 - art. 3 (V) JORF 9 août 1985 en vigueur le 1er octobre 1985
+
+
+###### Article 289
+
+Le tarif des salaires exigibles pour les réquisitions déposées en vue de la délivrance des renseignements hypothécaires
+ordinaires visés à l'article 42 du décret n° 55-1350 modifié du 14 octobre 1955 est fixé comme suit :
+
+1° Réquisitions ne comportant pas la désignation des immeubles :
+
+60 F par personne individuellement désignée dans la demande.
+
+2° Réquisitions formulées sans indication de personne :
+
+60 F pour celles portant sur cinq immeubles au maximum et 15 F par immeuble au-delà du cinquième. Est considéré comme
+immeuble [*définition*] chaque îlot de propriété ou parcelle cadastrale ou chaque lot de copropriété pour les biens faisant
+l'objet d'un état descriptif de division ou d'un document analogue.
+
+3° Réquisitions comportant à la fois la désignation individuelle des immeubles et des personnes :
+
+60 F pour celles formulées du chef de trois personnes au maximum et portant sur cinq immeubles au maximum.
+
+Il est perçu en sus de ce tarif :
+
+15 F par personne indiquée au-delà de la troisième ;
+
+3 F par immeuble au-delà du cinquième.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 42 (M)
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 4 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+
+
+###### Article 290
+
+Le tarif des salaires exigibles lors de la demande de délivrance des copies des documents publiés est fixé à :
+
+1° Copies intégrales de documents :
+
+- 30 F par bordereau d'inscription demandé ;
+
+- 80 F par publication demandée.
+
+Lorsque le requérant n'indique pas les références aux documents, il sera perçu un acompte provisionnel de 80 F, non
+remboursable.
+
+Dans l'hypothèse où le salaire calculé sur la base du tarif ci-avant est, lors de la délivrance des copies, supérieur à 80 F,
+le complément sera réclamé au requérant.
+
+2° Extraits littéraux de documents :
+
+- 30 F par extrait littéral demandé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 5 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+
+
+###### Article 291 bis
+
+Le tarif des salaires exigibles lors de la demande de délivrance des copies et des extraits de fiches personnelles de
+propriétaire ou de fiches d'immeuble est fixé à :
+
+1° Copies et extraits de fiches personnelles de propriétaires :
+
+- 40 F par personne individuellement désignée.
+
+2° Copies et extraits de fiches d'immeuble :
+
+- 40 F par immeuble indiqué.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-1350 1955-10-14 ART. 85-1 2
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 7 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°92-155 1992-02-20 art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°92-155 du 20 février 1992 - art. 2 (V) JORF 22 février 1992
+
+
+##### 4 : Minimum de perception.
+
+###### Article 298
+
+Le salaire ne peut être inférieur à :
+
+1° - 25 F par inscription mentionnée à l'article 293 ou par déclaration mentionnée à l'article 294 ;
+
+2° - 50 F par radiation mentionnée à l'article 295 ou par acte pour les publications visées à l'article 296.
+
+Ce dernier salaire est également exigible lorsque les publications ne donnent pas ouverture au salaire proportionnel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 288, 289, 290, 291, 292, 293, 294, 295, 296
+	  - Décret n°55-1350 1955-10-14 ART. 42 1 III
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 9 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
+
+
+##### 5 : Délivrance de renseignements urgents.
+
+###### Article 299
+
+La délivrance des renseignements urgents prévus au II de l'article 42-1 du décret n° 55-1350 modifié du 14 octobre 1955 donne
+ouverture, en sus des salaires visés à l'article 288, à une majoration de 50 p. 100 de ces salaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 288
+	  - Décret n°55-1350 1955-10-14 ART. 42-1 II
+
+	**Modifié par**:
+
+	  - Décret n°85-842 du 5 août 1985 - art. 10 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
 
 
 #### Chapitre II : Droits de timbre
