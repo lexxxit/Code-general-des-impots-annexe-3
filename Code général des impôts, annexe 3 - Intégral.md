@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1999-05-04
+Version Consolidée au 1999-07-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3401,7 +3401,8 @@ COEFFICIENT
 I. La déclaration dont la production est prévue aux articles 53 A et 302 septies A bis du code général des impôts et ses
 annexes bis et ter doivent mentionner :
 
-a. La récapitulation des éléments d'imposition ;
+a. ((La récapitulation des éléments concourant à la détermination du résultat, ainsi que le montant des recettes nettes
+soumises aux contributions mentionnées aux articles 234 bis et 234 nonies du code général des impôts)) (M) ;
 
 b. Le nom et l'adresse du ou des comptables ou experts chargés de tenir la comptabilité ou d'en contrôler les résultats
 généraux en précisant si ces techniciens font partie ou non du personnel salarié de l'entreprise ;
@@ -3410,7 +3411,7 @@ c. Eventuellement le nom et l'adresse du centre de gestion agréé auquel le con
 
 d. Les renseignements nécessaires à l'établissement et au contrôle de l'impôt.
 
-I bis. (Dispositions devenues sans objet) (M).
+I bis. (Dispositions devenues sans objet).
 
 II. Les contribuables visés à l'article 53 A du code général des impôts sont tenus de joindre à la déclaration et aux annexes
 visées au I, le bilan, le compte de résultat, le tableau des immobilisations, le tableau des amortissements, le tableau des
@@ -3444,17 +3445,13 @@ souscrivent cette déclaration auprès du service des impôts du lieu de situati
 
 Il en est délivré récépissé sur demande du contribuable.
 
-(M) Modification de la loi.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi - art. 11 (V) JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
 
 	**Cité par**:
 
@@ -3467,11 +3464,7 @@ Il en est délivré récépissé sur demande du contribuable.
 
 	**Cite**:
 
-	  - CGI 53 A, 219 I c, 223 A, 223 H, 302 septies A bis I, 109 à 115 ter
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - CGI 53 A, 302 septies A bis, 234 bis, 234 nonies
 
 
 ###### Article 38 A
@@ -6529,8 +6522,8 @@ d'achèvement des fondations.
 ###### Article 40 A
 
 Les contribuables soumis obligatoirement au régime de la déclaration contrôlée mentionné à l'article 96 du code général des
-impôts ou qui ont opté pour ce régime sont tenus de produire, ((au plus tard le 30 avril)) (M) de chaque année, une
-déclaration indiquant :
+impôts ou qui ont opté pour ce régime sont tenus de produire, au plus tard le 30 avril de chaque année, une déclaration
+indiquant :
 
 a) La nature de l'activité qu'ils exercent;
 
@@ -6548,7 +6541,8 @@ f) Le montant des plus-values nettes;
 
 g) Le tableau des immobilisations affectées à l'exercice de la profession et des amortissements correspondants ;
 
-h) La nature et le montant de leurs recettes ;
+h) ((La nature et le montant des recettes concourant à la détermination du résultat, ainsi que le montant des recettes nettes
+soumises aux contributions mentionnées aux articles 234 bis et 234 nonies du code général des impôts)) (M) ;
 
 i) La nature et le montant de leurs dépenses professionnelles ;
 
@@ -6567,19 +6561,15 @@ Cette déclaration est adressée au service des impôts dont dépend le lieu d'e
 
 	**Cite**:
 
-	  - CGI 96
+	  - CGI 96, 234 bis, 234 nonies
 
 	**Modifié par**:
 
-	  - Décret n°98-551 du 2 juillet 1998 - art. 1 () JORF 4 Juillet 1998
+	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 bis E (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
 
 
 ###### Article 41-0 bis
@@ -12122,15 +12112,23 @@ conditions prévues aux articles 28 à 31 du code général des impôts. Toutefo
 l'impôt sur les sociétés ou comprennent leur part de revenus dans les résultats d'une entreprise industrielle et commerciale
 déterminent la part des bénéfices revenant à ces membres selon les règles définies aux articles 38 et 39 du même code.
 
+e. ((Le montant des recettes nettes soumises aux contributions mentionnées aux articles 234 bis et 234 nonies du code général
+des impôts)) (M) ;
+
 II. La déclaration est établie en double exemplaire sur une formule délivrée par l'administration. La procédure de
 vérification de cette déclaration est suivie directement entre le service des impôts et la société.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 28 à 31, 38, 39
-	  - CGIAN3 46 B
+	  - CGI 46 B, 28 à 31, 38, 39, 234 bis, 234 nonies
+
+	**Modifié par**:
+
+	  - Décret n°99-633 du 19 juillet 1999 - art. 1 () JORF 24 juillet 1999
 
 	**Cité par**:
 
