@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2000-03-31
+Version Consolidée au 2000-04-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5973,8 +5973,8 @@ suivantes :
 
 1° Concernant le déclarant :
 
-a) ((Les noms et prénoms ou raison sociale, adresse, numéro SIRET et code APE (Activité principale exercée).)) (M) Les
-entreprises à établissements multiples indiquent l'établissement qui a déposé la déclaration de résultats ;
+a) Les noms et prénoms ou raison sociale, adresse, numéro SIRET et code APE (Activité principale exercée). Les entreprises à
+établissements multiples indiquent l'établissement qui a déposé la déclaration de résultats ;
 
 b) L'effectif au dernier jour ouvrable de l'année précédente ;
 
@@ -5982,12 +5982,14 @@ c) Le montant de la taxe sur les salaires ;
 
 2° Concernant chaque salarié rétribué l'année précédente :
 
-a) Son identification : nom patronymique, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance ;
+a) Son identification : nom patronymique, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance, numéro
+d'inscription au répertoire national d'identification des personnes physiques pour les seules déclarations des personnes ou
+organismes mentionnés au I de l'article R.* 81 A-1 du livre des procédures fiscales ;
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
 
-c) La nature, la période et les conditions d'exercice de l'emploi ((ainsi que le code emploi PCS (nomenclature des
-Professions et catégories socioprofessionnelles) ;)) (M)
+c) La nature, la période et les conditions d'exercice de l'emploi ainsi que le code emploi PCS (nomenclature des Professions
+et catégories socioprofessionnelles) ;
 
 d) Le montant des sommes payées pendant l'année en distinguant ;
 
@@ -6020,17 +6022,16 @@ d'une même entreprise ;
 
 3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2° ci-dessus.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 87, 182 A, 231
+	  - CGI 87, 231, 182 A
+	  - Livre des procédures fiscales R81 A-1
 
 	**Modifié par**:
 
-	  - Décret n°99-769 1999-09-07 art. 1 JORF 9 septembre 1999
+	  - Décret n°2000-339 du 17 avril 2000 - art. 1 () JORF 19 avril 2000
 
 	**Cité par**:
 
@@ -6047,8 +6048,9 @@ La déclaration prévue à l'article 88 du code général des impôts comporte l
 
 2° Concernant chaque bénéficiaire de pension ou rente viagère payée au cours de l'année précédente :
 
-a) Son identification : nom de naissance, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance, numéro
-d'allocataire ;
+a) Son identification : nom patronymique, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance, numéro
+d'allocataire, numéro d'inscription au répertoire national d'identification des personnes physiques pour les seules
+déclarations des personnes ou organismes mentionnés au I de l'article R. 81 A-1 du livre des procédures fiscales ;
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ;
 
@@ -6069,15 +6071,12 @@ f) Le cas échéant, la date du décès ;
 
 	**Cite**:
 
-	  - CGI 88, 182 A, 158 5, 204 1
+	  - CGI 88, 158, 204, 182 A
+	  - Livre des procédures fiscales R81 A-1
 
 	**Modifié par**:
 
-	  - Décret n°88-324 du 5 avril 1988 - art. 1 (V) JORF 9 avril 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-339 du 17 avril 2000 - art. 2 () JORF 19 avril 2000
 
 
 ###### Article 39 B
@@ -13338,121 +13337,6 @@ les sociétés, avec le bordereau-avis de versement, une copie du document menti
 	**Liens**:
 
 	  - HISTO: Edition du 2 septembre 1994
-
-
-##### Section VI quater : Crédit d'impôt au titre des emplois créés.
-
-###### Article 46 quater-0 YL
-
-Pour l'application de l'article 220 octies du code général des impôts, l'effectif salarié moyen correspond à la moyenne des
-effectifs salariés mensuels.
-
-I. - L'effectif salarié mensuel correspond au nombre de salariés employés à temps complet au cours du mois, titulaires d'un
-contrat de travail et rémunérés directement par l'entreprise dont les bénéfices sont passibles de l'impôt sur les sociétés en
-application du premier alinéa du I de l'article 209 du code général des impôts.
-
-Chaque salarié à temps partiel au sens de l'article L. 212-4-2 du code du travail est pris en compte dans l'effectif salarié
-au prorata du rapport entre les horaires inscrits au contrat de travail prévu à l'article L. 212-4-3 du même code et la durée
-légale du travail ou la durée normale de travail dans l'établissement ou la partie d'établissement où il est employé si cette
-durée est inférieure.
-
-L'embauche, la cessation de fonctions ou tout autre événement qui affecte les conditions ci-dessus est réputé intervenir le
-premier jour du mois au cours duquel il se produit.
-
-II. - La moyenne annuelle de l'effectif salarié employé correspond au douzième de la somme des effectifs mensuels de l'année
-civile, arrondi à la deuxième décimale supérieure.
-
-Par exception, la moyenne de l'effectif calculée au titre de 1997 correspond au neuvième de la somme des effectifs salariés
-mensuels occupés pendant la période du 1er janvier 1997 au 30 septembre 1997, et celle calculée au titre de 1998 correspond
-au quinzième de la somme des effectifs salariés mensuels occupés pendant la période du 1er octobre 1997 au 31 décembre 1998.
-Cette exception n'est pas applicable aux entreprises créées à compter du 1er janvier 1998 dont l'effectif moyen est toujours
-calculé dans les conditions prévues au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220 octies, 209
-	  - Code du travail - art. L212-4-2 (M)
-	  - Code du travail - art. L212-4-3 (M)
-
-	**Créé par**:
-
-	  - Décret n°98-322 du 23 avril 1998 - art. 1 () JORF 30 avril 1998
-
-	**Liens**:
-
-	  - PEREMPTION: Loi - art. 23 () JORF 31 décembre 1999
-	  - HISTO: Edition du 31 mars 1999
-	  - HISTO: Edition du 31 mars 2000
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. D331-18 (V)
-
-
-###### Article 46 quater-0 YM
-
-Le reversement mentionné au troisième alinéa du 2 de l'article 220 octies du code général des impôts est exigible en totalité
-à la date prévue pour la liquidation du solde de la contribution due au titre du premier exercice clos à compter du 31
-décembre 2000 ou au titre de l'exercice de cessation lorsque celle-ci est antérieure au 31 décembre 2000.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220 octies
-
-	**Créé par**:
-
-	  - Décret n°98-322 du 23 avril 1998 - art. 1 () JORF 30 avril 1998
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YO (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 23 () JORF 31 décembre 1999
-
-
-###### Article 46 quater-0 YN
-
-Pour bénéficier du crédit d'impôt mentionné à l'article 220 octies du code général des impôts, les entreprises doivent
-déposer, au titre de chacune des années 1998 à 2000, une déclaration spéciale conforme au modèle prévu par l'administration.
-Cette déclaration spéciale est annexée à la déclaration annuelle de résultat, déposée en vertu du 1 de l'article 223 du code
-général des impôts, qui se rapporte au premier exercice clos à compter du 31 décembre de l'année pour laquelle l'entreprise
-désire bénéficier de ce crédit.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220 octies, 223
-
-	**Créé par**:
-
-	  - Décret n°98-322 du 23 avril 1998 - art. 1 () JORF 30 avril 1998
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - HISTO: Edition du 31 mars 2000
-	  - PEREMPTION: Loi - art. 23 () JORF 31 décembre 1999
 
 
 ##### Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural
