@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-12-20
+Version Consolidée au 1985-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6037,6 +6037,37 @@ II. Les dispositions de l'article 238 octies précité cessent de s'appliquer au
 
 ##### Section VI : Report en arrière des déficits
 
+###### Article 46 quater-0 T
+
+Pour l'application du sixième alinéa du I de l'article 220 quinquies du code général des impôts : 
+
+1° Les immobilisations servant au calcul de l'investissement net sont retenues pour leur valeur d'origine ; pour les biens
+cédés ou mis hors service, cette valeur est diminuée des amortissements pratiqués par l'entreprise ; 
+
+2° Les immobilisations dont la propriété a, soit au cours de l'exercice au titre duquel l'option a été exercée, soit au cours
+de ce dernier exercice et des deux exercices précédents, a été transférée par voie d'apport, de fusion, de scission ou de
+cession d'actif n'entrent pas en compte pour le calcul de l'investissement net ; 3° Les amortissements dont le total est
+comparé au montant de l'investissement net s'entendent des amortissements pour dépréciation et des amortissements
+dérogatoires pratiqués au titre de l'une ou l'autre des deux périodes visées au 2°. 4° La dette d'impôt   s'entend de l'impôt
+sur les sociétés dû, au taux de droit commun ou à un taux réduit, à raison des bénéfices déclarés au titre des trois
+exercices précédant l'exercice déficitaire, augmenté, le cas échéant, des majorations pour défaut de paiement ou paiement
+tardif de cet impôt.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 quinquies I al. 6
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 4 () JORF 31 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°90-315 du 9 avril 1990 - art. 2 (V) JORF 10 avril 1990, modification directe incorporée dans l'édition du 15 juin 1990
+
+
 ###### Article 46 quater-0 U
 
 I. Si l'entreprise détient plusieurs créances, celles-ci ne peuvent être imputées sur l'impôt sur les sociétés qu'en
@@ -6086,6 +6117,35 @@ s'entendent de celles qui entrent dans les prévisions de l'article 210 A du mê
 	  - HISTO: Edition du 31 mars 2002
 	  - PEREMPTION: Loi - art. 85 (V) JORF 29 décembre 2001
 	  - PEREMPTION: Loi n°2001-1275 2001-12-28 art. 85 I J, II H Finances pour 2002 JORF 29 décembre 2001
+
+
+###### Article 46 quater-0 W
+
+I. L'entreprise qui exerce l'option prévue au premier alinéa du I de l'article 220 quinquies du code général des impôts doit
+joindre à la déclaration de résultat de l'exercice au titre duquel cette option a été exercée une déclaration conforme au
+modèle fixé par l'administration [*formalité obligatoire*].
+
+II. En cas d'utilisation de la créance pour le paiement de l'impôt sur les sociétés ou de cession dans les conditions prévues
+au cinquième alinéa de l'article précité, l'entreprise doit produire l'état de suivi qui lui a été remis, à sa demande, par
+l'administration.
+
+**Nota:**
+
+[*Nota : article modifié par le décret 90-315 du 9 avril 1990 art. 3 JORF 10 avril 1990*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 quinquies I al. 1, al. 5
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 4 () JORF 31 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### Sociétés agréées au régime du bénéfice consolidé.
@@ -7791,6 +7851,98 @@ français est normalement imposable.
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
+
+
+###### Article 73 G
+
+L'exonération prévue au I et aux 13° et 13° bis du II de l'article 262 et au 1° et 1° bis du II de l'article 291.
+
+1° Transports de marchandises à destination de l'étranger ou en provenance et à destination de l'étranger; commissions
+afférentes à ces transports;
+
+2° Chargement et déchargement des véhicules de transport et manutentions accessoires des marchandises désignées au 1°;
+
+3° Locations de véhicules et de matériels utilisés pour les opérations mentionnées au 1° et au 2°; locations des contenants
+et de matériels pour la protection des marchandises;
+
+4° Gardiennage et magasinage des marchandises et, en cas d'application d'un des régimes suspensifs, prévus par les 13° et 13°
+bis du II de l'article 262 du code précité, et les 1° et 1° bis du II de l'article 291 du même code, dans la limite de la
+durée d'application de ce régime;
+
+5° Emballage des marchandises destinées à l'exportation;
+
+6° Opérations effectuées par les commissionnaires agréés en douane et inhérentes à l'exportation ou aux régimes suspensifs
+prévus par les 13° et 13° bis du II de l'article 262 du code précité, et les 1° et 1° bis du II de l'article 291 du même
+code, à l'exception, dans ce dernier cas, de celles qui sont concomitantes ou postérieures à la mise à la consommation;
+
+7° Manipulations et ouvraisons autorisées par la règlementation douanière et portant sur des marchandises soumises à l'un des
+régimes suspensifs prévus par les 13° et 13° bis du II de l'article 262 du précité et aux 1° et 1° bis du II de l'article 291
+du même code ou placées en entrep<cb>t d'exportation sous douane.
+
+</cb>
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 262 I
+	  - CGI 262 II 13°
+	  - CGI 291 II 1°
+
+	**Modifié par**:
+
+	  - Loi n°85-1404 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985
+	  - loi 85-1404 1985-12-30 art. 18 II, III, IV Finances rectificative pour 1985 JORF 31 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 73 H (V)
+
+
+###### Article 73 H
+
+I  Pour bénéficier des dispositions de l'article 73 G :
+
+1° Les entreprises installées à l'étranger doivent délivrer aux prestataires des services portant sur des marchandises
+exportées des attestations par lesquelles elles certifient que les opérations commandées portent sur des marchandises
+destinées à l'exportation;
+
+2° Les preneurs des services portant sur des marchandises importées doivent délivrer aux prestataires des attestations
+certifiant que ces marchandises sont placées sous un des régimes suspensifs prévus aux 13° et 13° bis du II de l'article 262
+du code général des impôts et aux 1° et 1° bis du II de l'article 291 du même code.
+
+II  Les prestataires de services sont tenus, pour leur part :
+
+1° D'inscrire, jour par jour, dans leur comptabilité ou, à défaut, sur le livre spécial prévu à l'article 286-3° du code
+général des impôts, les services rendus, avec l'indication de la date de l'inscription et des noms et adresses des donneurs
+d'ordre;
+
+2° De mettre à l'appui de leur comptabilité les attestations qui leur sont délivrées par les donneurs d'ordres et, en outre,
+pour les services se rapportant à des marchandises exportées, les copies des factures qui leur sont renvoyées par les clients
+étrangers, dûment annotées des références (numéros, dates, points de sortie) aux déclarations d'exportation de ces
+marchandises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 262 II 13°, 13° bis
+	  - CGI 286 3°
+	  - CGI 291 1°, 1° bis
+	  - CGIAN3 73 G
+
+	**Modifié par**:
+
+	  - Loi n°85-1404 1985-12-30 art. 18 II, III, IV Finances rectificative pour 1985 JORF 31 décembre 1985
+	  - Loi n°85-1404 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### Section II : Assiette de la taxe
@@ -12277,6 +12429,32 @@ ou copies de l'acte.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 245 (V)
 
 
+###### Article 264
+
+Lorsque des actes d'huissier sont dispensés de la présentation matérielle à la formalité de l'enregistrement  en exécution de
+l'article 252, la mention suivante est apposée par l'officier ministériel sur l'original de l'acte à conserver en minute :
+
+Actes compris dans l'état déposé à la recette des impôts de... (désignation de la recette compétente) pour le mois de... 19..
+(indication du mois et de l'année au cours desquels l'acte a été rédigé). Versé : 70 F.
+
+Cette mention peut être apposée  en tout ou en partie  au moyen d'une griffe; elle doit être signée par l'officier
+ministériel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 252
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
 ##### Section II : Les tarifs et leur application
 
 ##### I : Mutations de propriété à titre onéreux d'immeubles ou de meubles
@@ -14704,6 +14882,42 @@ et la désignation d'après les documents cadastraux du terrain sur lequel il do
 
 ##### Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts
 
+###### Article 316
+
+Pour l'assiette de la taxe foncière sur les propriétés bâties due par les entreprises hydrauliques concédées ou d'une
+puissance supérieure à 500 kilowatts la valeur locative de la force motrice des chutes d'eau et de leurs aménagements
+utilisés par ces entreprises est répartie entre les communes sur le territoire desquelles sont situés les ouvrages définitifs
+de génie civil et celles sur le territoire desquelles coulent les cours d'eau utilisés compte tenu des éléments ci-après : 
+
+Importance des ouvrages définitifs de génie civil ; 
+
+Importance des retenues d'eau ; 
+
+Puissance hydraulique moyenne devenue indisponible dans la limite de chaque commune du fait de l'usine. 
+
+Cette répartition est effectuée par l'ingénieur en chef du contrôle conformément aux règles fixées par les articles 317 à
+320.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-1404 du 30 décembre 1985 - art. 16 () JORF 31 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 323 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 317 (V)
+
+
 ###### Article 317
 
 Pour chaque commune intéressée, l'importance des ouvrages définitifs de génie civil est estimée en prenant en considération
@@ -14771,6 +14985,31 @@ titre de l'année de la mise en service.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 (V)
+
+
+###### Article 321 B
+
+Les pourcentages de répartition visés aux articles 320 et 321 sont inscrits dans le cahier des charges de la concession ou
+dans l'acte d'autorisation, ou mentionnés dans un additif au cahier des charges ou à l'acte d'autorisation et se substituent,
+le cas échéant à ceux qui ont été primitivement fixés. 
+
+Ils sont révisés s'il y a lieu en cas de modification de la consistance de la concession ou de l'autorisation entraînant
+l'établissement d'un avenant au cahier des charges ou à l'acte d'autorisation. Cet avenant indique les nouveaux pourcentages
+de répartition applicables.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-1404 du 30 décembre 1985 - art. 16 () JORF 31 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 320 (V)
 
 
 ##### c : Déclaration des constructions nouvelles ainsi que des changements de consistance, d'affectation ou d'utilisation
@@ -14941,6 +15180,30 @@ seuils fixés à l'article 322 G, l'exonération cesse de s'appliquer à compter
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 G (V)
+
+
+##### II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts
+
+###### Article 323
+
+Pour l'assiette de la taxe professionnelle due par les entreprises hydrauliques concédées ou d'une puissance supérieure à 500
+kilowatts la valeur locative de la force motrice des chutes d'eau et de leurs aménagements utilisés par ces entreprises est
+répartie entre les communes sur le territoire desquelles sont situés les ouvrages définitifs de génie civil et celles sur le
+territoire desquelles coulent les cours d'eau utilisés  dans les conditions fixées par les articles 316 à 321 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 316 A CGIAN3 321 B
+
+	**Modifié par**:
+
+	  - Loi n°85-1404 du 30 décembre 1985 - art. 16 () JORF 31 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### Section III bis : Règles d'évaluation de la valeur locative des biens imposables
