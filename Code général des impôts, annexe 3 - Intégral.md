@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-05-17
+Version Consolidée au 1983-06-12
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -5551,6 +5551,71 @@ majorations de droits et amendes fiscales.
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quater (V)
+
+
+##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales ou agricoles
+
+###### Article 49 septies L
+
+Le crédit d'impôt en faveur de la recherche est imputé sur l'impôt dû après les prélèvements non libératoires et les autres
+crédits d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°83-475 du 10 juin 1983 - art. 6 (V) JORF 12 juin 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+	  - HISTO: Edition du 10 juillet 1983
+
+
+##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.
+
+###### Article 49 septies J
+
+Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt est calculé par comparaison
+entre les dépenses de deux années civiles successives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°83-475 du 10 juin 1983 - art. 7 (V) JORF 12 JUIN 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
+
+
+###### Article 49 septies K
+
+Pour le calcul du crédit d'impôt, les dépenses de recherche de l'année précédente sont revalorisées en fonction de la
+variation de l'indice moyen annuel des prix à la consommation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°83-899 1983-10-06
+
+	**Créé par**:
+
+	  - Décret n°83-475 du 10 juin 1983 - art. 5 (V) JORF 12 JUIN 1983
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°88-378 du 15 avril 1988 - art. 3 (V)
 
 
 #### Chapitre III : Taxes diverses
