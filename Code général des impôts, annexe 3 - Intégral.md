@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -28363,25 +28363,28 @@ L'instruction des demandes est faite par le service chargé de l'assiette des im
 
 Le pouvoir de statuer est dévolu :
 
-au directeur des services fiscaux [*autorité compétente*] lorsque les sommes dont l'admission en non-valeurs est demandée
+Au directeur des services fiscaux [*autorité compétente*] lorsque les sommes dont l'admission en non-valeurs est demandée
 n'excèdent pas 750.000 F par cote;
 
-au directeur général des impôts  d'accord avec le directeur de  a la comptabilité publique  lorsqu'il s'agit de sommes
-excédant les limites de compétence du directeur des services fiscaux;
+Au directeur général des impôts  d'accord avec le directeur de la comptabilité publique  lorsqu'il s'agit de sommes excédant
+les limites de compétence du directeur des services fiscaux;
 
-au ministre, en cas de désaccord entre le directeur général des impôts et le directeur de la comptabilité publique.
+Au ministre, en cas de désaccord entre le directeur général des impôts et le directeur de la comptabilité publique.
 
-Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux.
+Les décisions sont notifiées au service du recouvrement par le directeur des services fiscaux. Toutefois lorsque les sommes
+n'excèdent pas des limites fixées par le directeur général des impôts, d'accord avec le directeur de la comptabilité
+publique, l'absence de réponse du directeur des services fiscaux dans un délai de trois mois à compter de la réception de la
+demande d'admission en non-valeur vaut acceptation de celle-ci.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°90-88 1990-01-20 art. 1 JORF 25 janvier 1990, modification directe incorporée dans l'édition du 15 juin 1990
 
 	**Cité par**:
 
 	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°85-1318 du 12 décembre 1985 - art. 2 (V) JORF 14 décembre 1985
 
 
 ##### 2 : Sursis de versement et décharge de responsabilité
@@ -28757,21 +28760,26 @@ comptabilité publique remplit les fonctions de secrétaire.
 
 ###### Article 445
 
-En matière d'impôts directs recouvrés par les comptables du  Trésor, les remises et modérations accordées à titre gracieux
+En matière d'impôts directs recouvrés par les comptables du Trésor, les remises et modérations accordées à titre gracieux
 ainsi que les cotes ou portions de cotes allouées en non-valeurs ou pour lesquelles le comptable chargé du recouvrement a
 obtenu la décharge ou l'atténuation de sa responsabilité font l'objet de certificats qui sont établis par le directeur des
 services fiscaux pour servir de pièces justificatives aux agents du service du recouvrement.
+
+Lorsque l'admission en non-valeur est acceptée dans les conditions prévues au dernier alinéa de l'article 428, les
+certificats visés à l'alinéa précédent sont établis par le trésorier-payeur général.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 417 A CGIAN3 422
-	  - CGIAN3 426 A CGIAN3 428
-	  - CGIAN3 433 A CGIAN3 441
+	  - CGIAN3 417 à 422, 426 à 428, 433 à 441
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°90-88 du 23 janvier 1990 - art. 2 (V) JORF 25 janvier 1990
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 
