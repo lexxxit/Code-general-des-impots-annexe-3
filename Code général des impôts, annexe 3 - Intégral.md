@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2003-12-21
+Version Consolidée au 2003-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17936,22 +17936,28 @@ livrés, majorée de la soulte.
 
 ###### Article 77
 
-Les redevables qui effectuent des opérations passibles de la taxe sur la valeur ajoutée lors de l'encaissement du prix ou de
-la rémunération et qui entendent acquitter cette taxe d'après les débits doivent en faire la demande auprès du service des
-impôts dont ils relèvent pour son paiement.
+1. Les redevables qui effectuent des opérations passibles de la taxe sur la valeur ajoutée lors de l'encaissement du prix ou
+de la rémunération et qui entendent acquitter cette taxe d'après les débits doivent en faire la déclaration écrite auprès du
+service des impôts dont ils relèvent pour son paiement.
 
-L'autorisation qui leur est accordée s'applique à l'ensemble des opérations réalisées ; elle demeure valable tant que les
-redevables n'expriment pas, par demande écrite, leur désir de revenir au régime du paiement d'après les encaissements.
+L'option s'applique à l'ensemble des opérations réalisées ; elle demeure valable tant que les redevables n'expriment pas, par
+demande écrite, leur désir de revenir au régime du paiement d'après les encaissements.
+
+2. L'option prévue au 1 s'applique aux opérations réalisées à compter du premier jour du mois suivant celui au cours duquel
+elle a été exercée.
+
+En cas de renonciation à l'option, le régime du paiement d'après les encaissements s'applique aux opérations réalisées à
+compter du premier jour du mois suivant celui au cours duquel cette renonciation a été déclarée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-659 du 18 juillet 2003 - art. 1 () JORF 20 juillet 2003
+	  - Décret n°2003-1291 du 26 décembre 2003 - art. 1 () JORF 30 décembre 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### II : Entrepreneurs de travaux immobiliers
