@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-10-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18855,6 +18855,27 @@ Cette commission se compose de sept membres qui sont nommés par le préfet de P
 
 
 ##### III : Commission départementale de conciliation
+
+###### Article 349
+
+Dans les départements où il existe plusieurs directions des services fiscaux  les représentants de l'administration appelés à
+faire partie de la commission de conciliation instituée par l'article 1653 A du code général des impôts sont désignés par le
+directeur régional des impôts territorialement compétent.
+
+Plusieurs commissions peuvent  s'il est nécessaire  être instituées dans un même département par un arrêté du ministre de
+l'économie et des finances qui fixe leur siège et leur circonscription. Les membres fonctionnaires de ces commissions sont
+désignés par le directeur régional des impôts territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1653 A
+
+	**Modifié par**:
+
+	  - Décret n°85-1101 du 9 octobre 1985 - art. 1 (V) JORF 17 octobre 1985
+
 
 ###### Article 350 C
 
