@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2000-06-30
+Version Consolidée au 2000-08-04
 
 # Livre premier : Assiette et liquidation de l'impôt
 
