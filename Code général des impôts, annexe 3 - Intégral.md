@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1993-08-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14258,20 +14258,24 @@ nette.
 
 ###### Article 68
 
-Pour les prestations de transport désignées au 3° de l'article 259 A du code général des impôts et effectuées partie en
-France, partie hors de France [*à l'étranger*], les transporteurs doivent justifier du prix du transport réalisé en France.
-Lorsque ce prix n'est pas déterminé, il est calculé en appliquant au prix du transport le rapport entre la longueur du
-transport effectué en France et la longueur totale du transport.
+Pour les prestations de transport désignées au 3° bis de l'article 259 A du code général des impôts et effectuées partie en
+France, partie hors de France, les transporteurs doivent justifier du prix du transport réalisé en France. Lorsque ce prix
+n'est pas déterminé, il est calculé en appliquant au prix du transport le rapport entre la longueur du transport effectué en
+France et la longueur totale du transport.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 259 A 3°
+	  - CGI 259 A 3° bis
+
+	**Modifié par**:
+
+	  - Décret n°93-991 1993-08-06 art. 1 JORF 10 août 1993
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### I bis : Opérations imposables sur option
@@ -14473,20 +14477,29 @@ Peuvent également bénéficier de ce régime les publications périodiques publ
 ###### Article 73 A
 
 Pour bénéficier de l'exonération prévue à l'article 262-I du code général des impôts en ce qui concerne les transports de
-marchandises vers un port ou un aéroport en vue de leur transbordement à destination de l'étranger ou des territoires et
-départements d'outre mer, le transporteur doit présenter une attestation délivrée par le propriétaire de la marchandise, par
-l'expéditeur ou par le commissionnaire de transports, visée par le service des impôts dont ils dépendent et certifiant la
-destination des produits.
+marchandises vers un port ou un aéroport en vue de leur transbordement à destination d'un Etat qui n'appartient pas à la
+Communauté économique européenne ou des territoires et départements d'outre mer, le transporteur doit présenter une
+attestation délivrée par le propriétaire de la marchandise, par l'expéditeur ou par le commissionnaire de transports, visée
+par le service des impôts dont ils dépendent et certifiant la destination des produits.
+
+Cette disposition s'applique également au transport de marchandises vers un port ou un aéroport en vue de leur transbordement
+à destination d'un territoire d'un autre Etat membre de la Communauté situé en dehors du champ d'application de la directive
+(C.E.E.) n° 77-388 du 17 mai 1977 modifiée du Conseil des communautés européennes ou des îles anglo-normandes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CEE Directive 77-388 1977-05-17 (Conseil)
 	  - CGI 262 I
+
+	**Modifié par**:
+
+	  - Décret n°93-991 1993-08-06 art. 2 I III JORF 10 août 1993
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 73 B
@@ -14662,74 +14675,71 @@ d'assurances destinées à réparer le préjudice en résultant.
 
 ###### Article 73 F
 
-Pour bénéficier de l'exonération prévue aux articles 262-II-10° et 291-II-1° du code général des impôts et relative aux
-transports par route, en provenance et à destination de l'étranger, de marchandises et de voyageurs étrangers circulant en
-groupe d'au moins dix personnes, le transporteur routier doit, lorsque le transport comporte un transbordement dans un port
-ou un aéroport français, présenter une feuille de route comportant le numéro d'immatriculation du véhicule, le parcours
-effectué, la nature et la quantité de la marchandise ou le nombre de voyageurs transportés en groupe. Ce document est visé
-par le service des douanes du point d'entrée et du point de sortie. A défaut, le transport effectué sur le territoire
-français est normalement imposable.
+Pour bénéficier de l'exonération prévue au 10° du II de l'article 262 et au 2° du III de l'article 291 du code général des
+impôts et relative aux transports par route, en provenance et à destination de l'étranger, de marchandises et de voyageurs
+étrangers circulant en groupe d'au moins dix personnes, le transporteur routier doit, lorsque le transport comporte un
+transbordement dans un port ou un aéroport français, présenter une feuille de route comportant le numéro d'immatriculation du
+véhicule, le parcours effectué, la nature et la quantité de la marchandise ou le nombre de voyageurs transportés en groupe.
+Ce document est visé, à l'entrée et à la sortie, par le service des douanes du point d'entrée et du point de sortie ou, à
+défaut, par le service des douanes le plus proche du point d'entrée ou du point de sortie.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°93-991 du 9 août 1993 - art. 3 () JORF 10 août 1993
+
 	**Cite**:
 
-	  - CGI 262 II 10°
-	  - CGI 291 II 1°
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
+	  - Code général des impôts, CGI. - art. 262 (V)
+	  - Code général des impôts, CGI. - art. 291 (V)
 
 
 ###### Article 73 G
 
-L'exonération prévue au I et aux 13° et 13° bis du II de l'article 262 et au 1° et 1° bis du II de l'article 291.
+L'exonération prévue au I et aux 13°, 13° bis et 13° ter du II de l'article 262 et au 2° du III de l'article 291 du code
+général des impôts s'applique aux prestations de service ci-après :
 
-1° Transports de marchandises à destination de l'étranger ou en provenance et à destination de l'étranger; commissions
-afférentes à ces transports;
+1° Transports de marchandises à destination d'un Etat n'appartenant pas à la Communauté économique européenne ou d'un
+territoire d'un Etat membre de la Communauté situé en dehors du champ d'application de la directive (C.E.E.) n° 77-388 du 17
+mai 1977 modifiée du Conseil des communautés européennes, ou en provenance et à destination d'un tel Etat ou territoire ;
+commissions afférentes à ces transports ;
 
-2° Chargement et déchargement des véhicules de transport et manutentions accessoires des marchandises désignées au 1°;
+2° Chargement et déchargement des véhicules de transport et manutentions accessoires des marchandises désignées au 1° ;
 
-3° Locations de véhicules et de matériels utilisés pour les opérations mentionnées au 1° et au 2°; locations des contenants
-et de matériels pour la protection des marchandises;
+3° Locations de véhicules et de matériels utilisés pour les opérations mentionnées au 1° et au 2° ; locations de contenants
+et de matériels pour la protection des marchandises ;
 
-4° Gardiennage et magasinage des marchandises et, en cas d'application d'un des régimes suspensifs, prévus par les 13° et 13°
-bis du II de l'article 262 du code précité, et les 1° et 1° bis du II de l'article 291 du même code, dans la limite de la
-durée d'application de ce régime;
+4° Gardiennage et magasinage des marchandises et, en cas d'application d'un des régimes suspensifs prévus par le b du 2 du I
+et le b du 1° du II de l'article 291 du code précité, dans la limite de la durée d'application de ce régime ;
 
-5° Emballage des marchandises destinées à l'exportation;
+5° Emballage des marchandises destinées à l'exportation ;
 
-6° Opérations effectuées par les commissionnaires agréés en douane et inhérentes à l'exportation ou aux régimes suspensifs
-prévus par les 13° et 13° bis du II de l'article 262 du code précité, et les 1° et 1° bis du II de l'article 291 du même
-code, à l'exception, dans ce dernier cas, de celles qui sont concomitantes ou postérieures à la mise à la consommation;
+6° Opérations effectuées par des commissionnaires agréés en douane et inhérentes à l'exportation ou aux régimes suspensifs
+prévus par le b du 2 du I et le b du 1° du II de l'article 291 du code précité, à l'exception, dans ce dernier cas, de celles
+qui sont concomitantes ou postérieures à la mise à la consommation ;
 
-7° Manipulations et ouvraisons autorisées par la règlementation douanière et portant sur des marchandises soumises à l'un des
-régimes suspensifs prévus par les 13° et 13° bis du II de l'article 262 du précité et aux 1° et 1° bis du II de l'article 291
-du même code ou placées en entrep<cb>t d'exportation sous douane.
-
-</cb>
+7° Manipulations et ouvraisons autorisées par la réglementation douanière et portant sur des marchandises soumises à l'un des
+régimes suspensifs prévus par le b du 2 du I et le b du 1° du II de l'article 291 du code précité.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 262 I
-	  - CGI 262 II 13°
-	  - CGI 291 II 1°
+	  - CEE Directive 77-388 1977-05-17 (Conseil)
+	  - CGI 262, 291
 
 	**Modifié par**:
 
-	  - Loi n°85-1404 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985
-	  - loi 85-1404 1985-12-30 art. 18 II, III, IV Finances rectificative pour 1985 JORF 31 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°93-991 du 9 août 1993 - art. 4 () JORF 10 août 1993
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 73 H (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article 73 H
@@ -14741,8 +14751,8 @@ exportées des attestations par lesquelles elles certifient que les opérations 
 destinées à l'exportation;
 
 2° Les preneurs des services portant sur des marchandises importées doivent délivrer aux prestataires des attestations
-certifiant que ces marchandises sont placées sous un des régimes suspensifs prévus aux 13° et 13° bis du II de l'article 262
-du code général des impôts et aux 1° et 1° bis du II de l'article 291 du même code.
+certifiant que ces marchandises sont placées sous un des régimes suspensifs prévus au b du 2 du I et au b du 1° du II de
+l'article 291 du code général des impôts.
 
 II  Les prestataires de services sont tenus, pour leur part :
 
@@ -14759,19 +14769,12 @@ marchandises.
 
 	**Cite**:
 
-	  - CGI 262 II 13°, 13° bis
-	  - CGI 286 3°
-	  - CGI 291 1°, 1° bis
+	  - CGI 286, 291
 	  - CGIAN3 73 G
 
 	**Modifié par**:
 
-	  - Loi n°85-1404 1985-12-30 art. 18 II, III, IV Finances rectificative pour 1985 JORF 31 décembre 1985
-	  - Loi n°85-1404 du 30 décembre 1985 - art. 18 () JORF 31 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°93-991 du 9 août 1993 - art. 5 () JORF 10 août 1993
 
 
 ##### D : Exportation
@@ -14791,7 +14794,9 @@ déclaration en douane par la personne chargée de présenter les objets ou marc
 
 c  Que le fournisseur établisse pour chaque envoi une déclaration d'exportation, conforme au modèle donné par
 l'administration, qui doit, après visa par le service des douanes du point de sortie, être mise à l'appui du registre visé au
-a.
+a. Toutefois, lorsque l'exportation est réalisée par l'entremise d'un intermédiaire agissant au nom et pour le compte
+d'autrui, et que celui-ci est désigné comme expéditeur des biens sur la déclaration d'exportation, le fournisseur met à
+l'appui du registre prévu au a un exemplaire de sa facture visée par le service des douanes du point de sortie.
 
 2  En ce qui concerne les exportations de perles fines (no 71-01 du tarif des douanes) et de pierres gemmes brutes ou
 taillées (no 71-02, 71-03, 85-22-10 et 91-14-20 du tarif des douanes), les bureaux de douane de Paris-Choron, de Saint-Claude
@@ -14808,65 +14813,14 @@ dépôt des plis, paquets ou boîtes, appeler le service local des douanes ou de
 contenu, en présence de l'intéressé ou de son représentant. Les reçus de la poste doivent, en toute hypothèse, être rattachés
 au livre d'expédition tenu par l'exportateur.
 
-3  Les exportations effectuées par l'intermédiaire d'un commissionnaire sont exonérées de l'impôt à condition :
+3 (Abrogé).
 
-a  Que les livraisons aux commissionnaires soient inscrites sur le registre cité à l'article 286-3° du code général des
-impôts par ordre de date avec indication :
-
-1° De la date de l'inscription;
-
-2° Des nom et adresse du commissionnaire récepteur;
-
-3° S'il y a lieu, du nombre, des marques et numéros des colis;
-
-4° De l'espèce et de la valeur des objets ou marchandises;
-
-5° Du nom et de la résidence de la personne pour le compte de laquelle les objets ou marchandises ont été livrés au
-commissionnaire ou à défaut, de la contre-marque ou de tout autre signe analogue servant au commissionnaire à désigner cette
-personne;
-
-b  Que le fournisseur délivre au commissionnaire une facture qui est conservée par celui-ci, contenant le détail et le prix
-des objets ou marchandises livrés, ainsi que l'indication, soit des nom et adresse de la personne pour le compte de laquelle
-les objets ou marchandises ont été livrés au commissionnaire, soit de la contre-marque ou de tout autre signe analogue
-servant au commissionnaire à désigner cette personne;
-
-c  Que le fournisseur mette à l'appui du registre prévu ou à la copie de la facture qui lui est envoyée par le
-commissionnaire après visa par le service des douanes du point de sortie.
-
-4  Les opérations de commission ou de courtage portant sur des objets ou marchandises exportés sont exemptes de l'impôt à la
-condition :
-
-a  Que le commissionnaire inscrive sur un registre spécialement affecté à cet usage, par ordre de date, les livraisons qu'il
-reçoit d'objets ou marchandises destinés à l'exportation, avec l'indication [*mentions*] :
-
-1° De la date de l'inscription;
-
-2° Des nom et adresse du négociant pour le compte duquel il agit;
-
-3° Du nombre et, s'il y a lieu, des marques et numéros des colis;
-
-4° De l'espèce et de la valeur des objets ou marchandises;
-
-b  Qu'il inscrive sur un autre registre spécialement affecté à cet usage, par ordre de date, les expéditions qu'il effectue
-avec l'indication de la date de l'inscription, du nombre, des marques et des numéros des colis, de l'espèce, de la valeur et
-de la destination des objets ou marchandises;
-
-c  Qu'il établisse, pour chaque expédition, une déclaration d'exportation conforme au modèle donné par l'administration, qui
-doit, après visa par le service des douanes du point de sortie, être mise à l'appui du registre visé au b;
-
-d  Qu'il renvoie au fournisseur une copie de sa facture, visée par le service des douanes du point de sortie;
-
-e  (Abrogé)
-
-4 bis  Toutes vérifications utiles sont effectuées à la sortie des objets ou marchandises par le service des douanes, et chez
-les fournisseurs et les commissionnaires exportateurs, par les agents du service compétent, auxquels doivent être représentés
-les registres et factures prescrits par le présent article ainsi que, le cas échéant, toutes autres pièces susceptibles de
-venir à l'appui des énonciations desdits documents.
+4 (Abrogé).
 
 5  Les dispositions qui précèdent sont applicables aux expéditions faites pour l'avitaillement des navires pêcheurs et
 autres.
 
-6  (Abrogé)
+6 (Abrogé)
 
 **Liens relatifs à cet article**
 
@@ -14874,17 +14828,13 @@ autres.
 
 	  - CGI 286 3°
 
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
 	**Cité par**:
 
 	  - Décret n°2015-1077 du 26 août 2015 - art. 3 (V)
 
 	**Modifié par**:
 
-	  - Règlement CEE 2658/87 1987-07-23 (conseil)
+	  - Décret n°93-991 1993-08-06 art. 6 JORF 10 août 1993
 
 
 ##### Section II : Assiette de la taxe
@@ -29377,19 +29327,15 @@ chiffre d'affaires doivent produire un bulletin du modèle fixé par l'administr
 
 ###### Article 384 A bis
 
-I. Pour les transports par route ou par navigation intérieure en provenance ou à destination de l'étranger  effectués par des
-entreprises n'ayant pas d'établissement en France  la perception de la taxe sur la valeur ajoutée applicable à la partie du
-service utilisée en France est opérée lors du passage en douane.
-
-II. Pour les transports maritimes ou par voies d'eau intérieures effectués d'un point à un autre du territoire métropolitain
-par des entreprises étrangères n'ayant pas d'établissement en France  la perception de la taxe sur la valeur ajoutée [*TVA*]
-est opérée lors du passage en douane selon les règles  garanties et sanctions prévues en matière douanière.
+Pour les transports maritimes, par route ou par voies d'eau intérieures, la perception de la taxe exigible est opérée lors du
+passage en douane, lorsque le transport est effectué par des entreprises qui ne sont pas établies dans un Etat membre de la
+Communauté économique européenne et qui n'ont pas désigné un représentant fiscal en France.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°93-991 du 9 août 1993 - art. 7 () JORF 10 août 1993
 
 
 ### Section III : Enregistrement, publicité foncière, timbre
