@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-05-07
+Version Consolidée au 1988-05-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1041,6 +1041,139 @@ des entreprises.
 	**Modifié par**:
 
 	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+
+###### Article 10 GA bis
+
+I. - Les éléments figurant au bilan de départ mentionné au III de l'article 39 octies B du code général des impôts doivent
+être retenus pour la valeur, exprimée en monnaie locale, qu'ils comportaient au regard de la législation fiscale française à
+la date d'ouverture de l'exercice au cours duquel l'entreprise française acquiert le capital.
+
+Les immobilisations sont inscrites au bilan pour leur valeur d'origine. Le compte d'amortissement correspondant à chaque
+immobilisation amortissable est crédité du montant total des amortissements qui auraient été admis en déduction en
+application des règles fiscales françaises depuis la date d'acquisition du bien par la filiale étrangère.
+
+Les immobilisations dont la durée d'utilisation n'est pas achevée continuent à être amorties d'après la valeur d'origine et
+selon les mêmes modalités que celles qui sont retenues pour le calcul des amortissements mentionnés à l'alinéa précédent.
+
+II. - Les éléments du bilan de départ et des bilans suivants qui correspondent à des établissements ou à des participations
+dans des filiales qui ont pour objet l'activité de commercialisation définie au I de l'article 39 octies B du code général
+des impôts et qui sont situés dans un autre Etat que celui du siège de la filiale mentionnée à cet article sont inscrits dans
+des comptes spéciaux.
+
+Les provisions et charges à payer qui ne sont pas déductibles du résultat en application des dispositions du code général des
+impôts sont inscrites distinctement au passif du bilan de la filiale étrangère.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 octies B I, III
+
+	**Modifié par**:
+
+	  - Décret n°88-593 du 6 mai 1988 - art. 1 (V) JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quinquies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 10 GA quater
+
+Les entreprises qui constituent des provisions en application des dispositions des articles 39 octies A ou 39 octies B du
+code général des impôts doivent joindre à leur déclaration de résultats de chaque exercice :
+
+" Pour les filiales situées dans un Etat qui n'est pas membre de la Communauté économique européenne, un bilan dont la
+traduction est certifiée par un traducteur juré ;
+
+" Pour chacune des filiales situées dans un Etat de la Communauté économique européenne, outre le bilan de départ établi dans
+les conditions prévues à l'article 10 GA bis :
+
+" a) Un bilan et un compte de résultats des comptes sociaux, certifiés par un commissaire aux comptes de l'Etat
+d'implantation ;
+
+" b) Un bilan et un compte de résultats déterminés dans les conditions prévues à l'article 10 GA ter ;
+
+" c) Des états faisant apparaître le détail des immobilisations, amortissements et provisions figurant au bilan de la filiale
+étrangère, tel qu'il est défini au b ;
+
+" d) Un état détaillé des rectifications apportées au résultat étranger pour le rendre conforme aux dispositions du code
+général des impôts ;
+
+" e) Un état mentionnant la répartition du capital à la clôture de chaque exercice de la filiale.
+
+" Ces renseignements sont présentés sur des documents conformes au modèle établi par l'administration. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 octies A
+	  - CGI 39 octies B
+	  - CGIAN3 10 GA bis
+	  - CGIAN3 10 GA ter
+
+	**Modifié par**:
+
+	  - Décret n°88-593 du 6 mai 1988 - art. 3 (V) JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA sexies (V)
+
+
+###### Article 10 GA ter
+
+Les résultats de la filiale étrangère mentionnés au III de l'article 39 octies B du code général des impôts s'entendent des
+pertes subies et des bénéfices réalisés, au titre de l'activité définie au I du même article, dans l'Etat où est situé le
+siège de cette filiale.
+
+Pour la détermination de ces pertes ou bénéfices, il n'est pas tenu compte des plus-values ou moins-values résultant de la
+cession d'immobilisations.
+
+De même, les résultats des opérations effectuées par les établissements ou filiales mentionnés au II de l'article 10 GA bis
+ainsi que les charges ou produits résultant de leur détention ne sont pas pris en considération.
+
+Les résultats mentionnés au premier alinéa sont convertis en francs français sur la base du taux de change en vigueur à la
+clôture de l'exercice de la filiale étrangère.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 octies B I, III
+	  - CGIAN3 10 GA bis II
+
+	**Modifié par**:
+
+	  - Décret n°88-593 du 6 mai 1988 - art. 2 (V) JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
 
 
 ##### F : Amortissement exceptionnel - Construction d'immeubles industriels et commerciaux.
