@@ -27,22 +27,18 @@ justifiant du paiement de l'impôt.
 IV. Dans le cas visé au cinquième alinéa du II de l'article 49 quater, la demande doit mentionner, en outre, tous
 renseignements permettant de déterminer le montant de la taxe proportionnelle ou de la retenue à la source dont la société
 bénéficiaire de l'avance, du prêt ou de l'acompte a été, le cas échéant, dispensée, à raison de ses propres distributions, en
-vertu des articles 145 et 146 du code général des impôts.
+vertu de l'article 145 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 145, 146, 111
+	  - CGI 145, 111
 	  - CGIAN3 49 quater
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
 
 	**Cité par**:
 
@@ -50,4 +46,4 @@ vertu des articles 145 et 146 du code général des impôts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2005

@@ -3,8 +3,8 @@
 Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants :
 
-a) Pour les baux conclus en 2004, les plafonds de loyer mensuel, charges non comprises, sont fixés à 14,77 Euros par mètre
-carré en zone A, 9,64 Euros en zone B et 6,98 Euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
+a) Pour les baux conclus en 2005, les plafonds de loyer mensuel, charges non comprises, sont fixés à 15,34 Euros par mètre
+carré en zone A, 10,02 Euros en zone B et 7,25 Euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
 la même proportion que la variation de la moyenne sur quatre trimestres de l'indice national mesurant le coût de la
 construction publiée par l'Institut national de la statistique et des études économiques. La moyenne mentionnée ci-dessus est
 celle des quatre derniers indices connus au 1er novembre qui précède la date de référence.
@@ -20,7 +20,7 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location.
 
-Pour les baux conclus en 2004, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2005, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION du foyer locataire :
 
@@ -28,11 +28,11 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Zone A : 28 892 euros
+Zone A : 30 580 euros
 
-Zone B : 22 329 euros
+Zone B : 26 634 euros
 
-Zone C : 19 538 euros
+Zone C : 20 680 euros
 
 COMPOSITION du foyer locataire :
 
@@ -40,11 +40,11 @@ Couple marié
 
 LIEU DE LA LOCATION
 
-Zone A : 43 180 euros
+Zone A : 45 703 euros
 
-Zone B : 29 818 euros
+Zone B : 31 560 euros
 
-Zone C : 26 262 euros
+Zone C : 27 797 euros
 
 COMPOSITION du foyer locataire :
 
@@ -52,11 +52,11 @@ Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 51 905 euros
+Zone A : 54 938 euros
 
-Zone B : 35 859 euros
+Zone B : 37 954 euros
 
-Zone C : 31 441 euros
+Zone C : 33 278 euros
 
 COMPOSITION du foyer locataire :
 
@@ -64,11 +64,11 @@ Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 62 176 euros
+Zone A : 65 808 euros
 
-Zone B : 43 289 euros
+Zone B : 45 818 euros
 
-Zone C : 38 051 euros
+Zone C : 40 274 euros
 
 COMPOSITION du foyer locataire :
 
@@ -76,11 +76,11 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 73 604 euros
+Zone A : 77 904 euros
 
-Zone B : 50 923 euros
+Zone B : 53 898 euros
 
-Zone C : 44 661 euros
+Zone C : 47 270 euros
 
 COMPOSITION du foyer locataire :
 
@@ -88,11 +88,11 @@ Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Zone A : 82 824 euros
+Zone A : 87 663 euros
 
-Zone B : 57 387 euros
+Zone B : 60 740 euros
 
-Zone C : 50 378 euros
+Zone C : 53 321 euros
 
 COMPOSITION du foyer locataire :
 
@@ -100,11 +100,11 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Zone A : + 9 228 euros
+Zone A : + 9 768 euros
 
-Zone B : + 6 400 euros
+Zone B : + 6 774 euros
 
-Zone C : + 5 719 euros
+Zone C : + 6 054 euros
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
 Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
@@ -116,11 +116,11 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	**Codifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2005-330 2005-04-06
 
 	**Modifié par**:
 
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+	  - Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
 
 	**Cité par**:
 
@@ -149,4 +149,4 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2005

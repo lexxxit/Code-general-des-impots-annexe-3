@@ -1,30 +1,24 @@
 # Article 38 sexdecies JE
 
-Les exploitants agricoles relevant du forfait peuvent opter pour l'un des régimes d'imposition d'après le bénéfice réel
-mentionnés à l'article 69 du code général des impôts.
+Les options souscrites en application du a du II et du second alinéa du III de l'article 69 du code général des impôts sont
+valables pour l'exercice au titre duquel elles sont exercées et pour l'exercice suivant. Elles se reconduisent tacitement par
+période de deux exercices, sauf renonciation adressée au service des impôts dans le délai de dépôt de la déclaration des
+résultats du dernier exercice de chaque période.
 
-L'option doit être exercée dans le délai prévu au IV du même article.
+**Nota:**
 
-L'option est valable pour l'année au titre de laquelle elle est effectuée et pour les quatre années suivantes. Elle est
-reconduite tacitement par période de cinq ans, sauf renonciation adressée au service des impôts dans le délai de dépôt de la
-déclaration des résultats du dernier exercice de chaque période quinquennale. Dans ce même délai, les exploitants peuvent,
-selon la nature du régime choisi en début de période, demander à passer du régime simplifié au régime normale d'imposition
-d'après le bénéfice réel.
+Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 31 décembre 2004.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005
+
 	**Cite**:
 
-	  - CGI 69
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
+	  - Code général des impôts, CGI. - art. 69 (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+	  - HISTO: Edition du 1er janvier 2005

@@ -11,7 +11,8 @@ a) L'activité exercée ;
 b) Le nombre de salariés de l'entreprise exploitante au 1er janvier 2004 ou à la date de sa création si elle est
 postérieure ;
 
-c) Le cas échéant, l'option entre les exonérations prévues aux articles 1383 A, 1383 C et 1383 D du code général des impôts ;
+c) Le cas échéant, l'option entre les exonérations prévues aux articles 1383 A, 1383 C, 1383 D et 1383 F du code général des
+impôts ;
 
 d) Le montant du chiffre d'affaires annuel hors taxes réalisé au cours de la période de référence retenue pour l'imposition
 de taxe professionnelle établie au titre de l'année 2004 pour l'établissement exploité dans l'immeuble susceptible de
@@ -38,12 +39,16 @@ l'administration avant le 1er janvier de l'année suivante.
 
 	**Cite**:
 
-	  - CGI 1383 C, 1383 A, 1383 D, 1466 A
+	  - CGI 1383 C, 1383 A, 1383 D, 1383 F, 1466 A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-590 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
+	  - Loi n°2004-1484 2004-12-30 art. 24 III A Finances pour 2005 JORF 31 décembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2005

@@ -12,7 +12,7 @@ d) Le directeur général des impôts ;
 
 e) Le directeur du budget ;
 
-f) Le directeur du Trésor ;
+f) Le directeur général du Trésor et de la politique économique ou son représentant ;
 
 g) Le délégué général à l'emploi et à la formation professionnelle ;
 
@@ -37,10 +37,14 @@ Les avis sont émis par la commission en présence des seuls membres ayant voix 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-14 du 5 janvier 2004 - art. 2 () JORF 7 janvier 2004
+	  - Décret n°2004-1203 du 15 novembre 2004 - art. 3 () JORF 16 novembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2005

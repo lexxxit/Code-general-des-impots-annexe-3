@@ -1,7 +1,7 @@
 # Article 38 sexdecies-0 K
 
-Les exploitants imposés d'après un régime de bénéfice réel peuvent inscrire au bilan d'ouverture du premier exercice soumis à
-l'un de ces régimes une somme correspondant à la valeur, à la date du changement de régime, des améliorations du fonds
+Les exploitants imposés d'après un régime réel d'imposition peuvent inscrire au bilan d'ouverture du premier exercice soumis
+à l'un de ces régimes une somme correspondant à la valeur, à la date du changement de régime, des améliorations du fonds
 représentant le résultat des pratiques culturales, lorsque les transactions en usage dans leur région en font état.
 
 Cette valeur est appréciée d'après les usages locaux, et notamment ceux qui sont suivis en matière d'expropriation.
@@ -16,8 +16,4 @@ déduction du prix reçu par le cédant.
 
 	**Modifié par**:
 
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005

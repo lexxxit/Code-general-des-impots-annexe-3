@@ -1,9 +1,9 @@
 # Article 46 quater-0 ZI
 
 I. L'imposition forfaitaire annuelle due par les sociétés du groupe et dont la société mère est redevable en application de
-l'article 223 A du code général des impôts est payée au comptable du Trésor du lieu d'imposition de cette dernière société.
-Chaque paiement est accompagné d'un document conforme à un modèle fixé par l'administration et qui comporte notamment le
-montant de l'imposition forfaitaire annuelle dû par chaque société du groupe.
+l'article 223 A du code général des impôts est payée au comptable de la direction générale des impôts du lieu d'imposition de
+cette dernière société. Le paiement est accompagné du relevé d'acompte mentionné à l'article 366 A bis qui comporte notamment
+le montant de l'imposition forfaitaire annuelle dû par l'ensemble des sociétés du groupe.
 
 II. (Abrogé).
 
@@ -12,18 +12,16 @@ l'administration, qui fait apparaître les cotisations d'imposition forfaitaire 
 de l'exercice, le montant des cotisations des deux années antérieures et le montant imputé sur l'impôt dû sur le résultat
 d'ensemble de l'exercice.
 
-Cet état est également transmis par la société mère au comptable du Trésor de son lieu d'imposition.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 223 A
+	  - CGI 223 A, 366 A bis
 
 	**Modifié par**:
 
-	  - Décret n°92-527 du 15 juin 1992 - art. 2 () JORF 17 juin 1992
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 1er janvier 2005

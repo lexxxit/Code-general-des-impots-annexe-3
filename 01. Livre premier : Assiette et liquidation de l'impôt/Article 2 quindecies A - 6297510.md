@@ -7,8 +7,8 @@ celui visé au 3° du même I.
 
 En outre, pour les logements que le contribuable acquiert en vue de les réhabiliter, les contribuables sont tenus de joindre
 à leur déclaration des revenus de l'année d'achèvement des travaux les états et attestations prévus à l'article 2 quindecies
-C ainsi que, lorsque ces états sont requis, les états prévus aux articles L. 1334-5 et L. 1334-7 du code de la santé publique
-fournis par le vendeur lors de la promesse de vente ou annexés à l'acte authentique de vente du logement.
+C ainsi que, lorsque ces états sont requis, les états prévus aux articles L. 1334-5 et L. 1334-13 du code de la santé
+publique fournis par le vendeur lors de la promesse de vente ou annexés à l'acte authentique de vente du logement.
 
 II. - L'engagement de location prévu au 1 du h du 1° du I de l'article 31 du code général des impôts doit être formulé dans
 une note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par
@@ -29,12 +29,16 @@ joint à sa déclaration des revenus de l'année au cours de laquelle le changem
 
 	  - CGI 31
 	  - CGIAN3 2 quindecies, 2 quindecies C
+	  - Code de la santé publique - art. L1334-13 (M)
 	  - Code de la santé publique - art. L1334-5 (M)
-	  - Code de la santé publique - art. L1334-7 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+	  - Loi n°2004-806 du 9 août 2004 - art. 76 () JORF 11 août 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
 
 	**Cité par**:
 
@@ -44,4 +48,4 @@ joint à sa déclaration des revenus de l'année au cours de laquelle le changem
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2005

@@ -1,8 +1,13 @@
 # Article 49 septies WB
 
-Pour l'application des dispositions de l'article 244 quater E du code général des impôts, une déclaration spéciale devra être
-annexée à la déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation des
-investissements.
+Pour l'application des dispositions de l'article 244 quater E du code général des impôts, les personnes morales passibles de
+l'impôt sur les sociétés déposent auprès du comptable de la direction générale des impôts une déclaration spéciale avec le
+relevé de solde de l'exercice ou de la période d'imposition en cours lors de la réalisation de l'investissement. S'agissant
+des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère
+joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. Les sociétés du
+groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultat qu'elles sont tenues de
+déposer en vertu du 1 de l'article 223 du code précité. Les autres entreprises joignent la déclaration spéciale à la
+déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation des investissements.
 
 L'option prévue au premier alinéa du II de l'article 244 quater E précité est réputée exercée au moment du dépôt de la
 déclaration spéciale mentionnée au premier alinéa au titre du premier exercice ou de la première période d'imposition au
@@ -12,16 +17,12 @@ cours de laquelle un investissement éligible au crédit d'impôt pour investiss
 
 	**Cite**:
 
-	  - CGI 244 quater E
-
-	**Codifié par**:
-
-	  - Décret n°2003-933 2003-09-30
+	  - CGI 244 quater E, 223 A, 223
 
 	**Modifié par**:
 
-	  - Décret n°2003-933 du 30 septembre 2003 - art. 3 () JORF 2 octobre 2003
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - HISTO: Edition du 1er janvier 2005

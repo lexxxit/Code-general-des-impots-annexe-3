@@ -4,21 +4,22 @@ Pour l'application des dispositions de l'article 238 bis du code général des i
 déclaration spéciale à la déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation
 des dépenses ouvrant droit à réduction d'impôt et mentionnées à l'article précité.
 
-Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
-comptable chargé du recouvrement de l'impôt sur les sociétés lors du versement du solde de cet impôt. Par exception, les
-sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, hormis les sociétés
-mères, doivent annexer la déclaration spéciale à leur déclaration de résultat de l'exercice ou de la période d'imposition en
-cours lors de la réalisation des dépenses mentionnées à l'article précité.
+Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
+la direction générale des impôts avec le relevé de solde de l'exercice ou de la période d'imposition en cours lors de la
+réalisation des dépenses ouvrant droit à réduction d'impôt. S'agissant des sociétés relevant du régime des groupes de
+sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales du groupe au
+relevé de solde relatif au résultat d'ensemble. Les sociétés du groupe sont dispensées d'annexer la déclaration spéciale les
+concernant à la déclaration de résultat qu'elles sont tenues de déposer en vertu du 1 de l'article 223 du code précité.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 238 bis, 223 A
+	  - CGI 238 bis, 223 A, 223
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-185 du 24 février 2004 - art. 1 () JORF 27 février 2004
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 	**Cité par**:
 
@@ -26,4 +27,4 @@ cours lors de la réalisation des dépenses mentionnées à l'article précité.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2005

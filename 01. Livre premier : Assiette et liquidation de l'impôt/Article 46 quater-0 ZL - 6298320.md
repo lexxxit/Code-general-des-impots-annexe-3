@@ -7,7 +7,7 @@ la détermination et au contrôle de ce résultat. La société mère doit joind
 membres du groupe, à compter du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le
 montant de ces subventions ou abandons.
 
-2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au b de l'article 46 quater-0 ZK ;
+2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au a de l'article 46 quater-0 ZK ;
 
 3. Un tableau de synthèse de ces rectifications ;
 
@@ -45,14 +45,14 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 	  - CGI 223 Q, 223 L, 223 I, 223 R, 44 octies, 44 decies
 	  - CGIAN3 46 quater-0 ZK
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2005

@@ -3,12 +3,12 @@
 I. Pour bénéficier du régime défini à l'article 209 quater D du code général des impôts, les bénéfices placés sous le régime
 de l'exonération conditionnelle prévue à l'article 238 octies du même code doivent avoir été préalablement réinvestis selon
 les modalités fixées à ce dernier article. Ils peuvent ensuite être affectés à un sous-compte distinct de la réserve spéciale
-des profits de construction.
+des profits de construction. 
 
 Les délais de quatre et sept ans visés à l'article 209 quater D précité se décomptent à partir de la clôture de l'exercice de
 réalisation des profits concernés jusqu'à la clôture de l'exercice au titre duquel la distribution a eu lieu. La date de
-réalisation de ces profits n'est pas prise en considération pour l'exigibilité du précompte prévu à l'article 223 sexies du
-code général des impôts.
+réalisation de ces profits n'est pas prise en considération pour l'exigibilité du prélèvement prévu à l'article 95 de la loi
+de finances pour 2004 (n° 2003-1311 du 30 décembre 2003). 
 
 II. Les dispositions de l'article 238 octies précité cessent de s'appliquer aux profits réalisés à compter du 1er janvier
 1972.
@@ -17,4 +17,10 @@ II. Les dispositions de l'article 238 octies précité cessent de s'appliquer au
 
 	**Cite**:
 
-	  - CGI 209 quater D, 238 octies, 223 sexies
+	  - Loi de finances pour 2004 (n°2003-1311 du 30 d... - art. 95 (V)
+	  - Code général des impôts, CGI. - art. 209 quater D (V)
+	  - Code général des impôts, CGI. - art. 238 octies (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004

@@ -47,6 +47,8 @@ d) Suspension, retrait ou modification de l'autorisation d'exploitation de cultu
 pour motif d'insalubrité non imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines, en application
 de l'article 15 du décret n° 83-228 du 22 mars 1983 modifié ;
 
+e. Augmentation du coût de l'énergie de plus de 5 % par rapport au prix moyen de l'année précédente ;
+
 5° Aléas couverts par une assurance : événement, ayant affecté l'exploitation, qui a entraîné une indemnisation par une
 police d'assurance de dommages aux biens ou pour perte d'exploitation souscrite par l'exploitant.
 
@@ -68,10 +70,10 @@ moyenne, il n'est pas tenu compte des reports déficitaires.
 	  - Code de la sécurité sociale. - art. L341-4 (V)
 	  - Code des assurances - art. L125-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1560 du 24 décembre 2002 - art. 1 () JORF 29 décembre 2002
+	  - Décret n°2004-1401 du 20 décembre 2004 - art. 1 () JORF 26 décembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2005

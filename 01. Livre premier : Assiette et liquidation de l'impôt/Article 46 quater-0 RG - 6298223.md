@@ -16,8 +16,8 @@ l'exercice précédant celui au titre duquel le remboursement ou l'imputation so
 D'une copie des contrats de prêts consentis au profit de la société nouvelle mentionnant le taux d'intérêt nominal et le taux
 actuariel brut de ces prêts ainsi que le montant et la date des échéances d'amortissement et d'intérêts.
 
-Le remboursement du crédit d'impôt est subordonné à la remise au comptable du Trésor d'une copie de la quittance certifiant
-du paiement des intérêts dont le montant sert de base au calcul du crédit d'impôt.
+Le remboursement du crédit d'impôt est subordonné à la remise au comptable de la direction générale des impôts d'une copie de
+la quittance certifiant du paiement des intérêts dont le montant sert de base au calcul du crédit d'impôt.
 
 **Liens relatifs à cet article**
 
@@ -25,15 +25,10 @@ du paiement des intérêts dont le montant sert de base au calcul du crédit d'i
 
 	  - CGI 220 quater A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-991 du 13 novembre 1987 - art. 8 (V) JORF 14 novembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
-	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
+	  - HISTO: Edition du 1er janvier 2005

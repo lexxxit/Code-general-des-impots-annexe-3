@@ -1,8 +1,8 @@
 # Article 244 sexies
 
-1. Les débitants de tabac visés au premier alinéa de l'article 568 gèrent personnellement des débits de tabac qui sont
-classés en trois catégories : les débits de tabac ordinaires, les débits de tabac spéciaux et les débits de tabac
-temporaires.
+1. Les débitants de tabac visés au premier alinéa de l'article 568 du code général des impôts gèrent personnellement des
+débits de tabac qui sont classés en trois catégories : les débits de tabac ordinaires, les débits de tabac spéciaux et les
+débits de tabac temporaires.
 
 Les débitants de tabac sont des personnes physiques. A l'exception des gérants de débits de tabac temporaires, ils sont liés
 à l'administration des douanes et droits indirects par un contrat d'une durée de trois ans. A l'issue de cette période, le
@@ -74,14 +74,10 @@ k) Etre en situation régulière au regard des obligations de service national d
 
 	  - CGIAN3 244 decies
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
