@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-02-16
+Version Consolidée au 1986-02-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6644,6 +6644,37 @@ conditions fixées par arrêté.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article 49 F
+
+1. Pour les revenus imposables, la déclaration doit mentionner distinctement, par nature et en fonction de leur régime
+fiscal, le montant brut des revenus payés, déduction faite des seuls frais d'encaissement.
+
+La somme algébrique des produits, gains et pertes se rapportant aux titres de créances mentionnés au 1° bis du III bis de
+l'article 125 A du code général des impôts devra apparaître distinctement.
+
+Le montant de l'avoir fiscal ou du crédit d'impôt attaché à ces revenus est mentionné séparément.
+
+2. Lorsque les revenus ou les gains sont libérés de l'impôt sur le revenu par application d'un prélèvement, la déclaration
+comporte l'indication de celui-ci ainsi que le montant du revenu brut ou du gain qui lui a servi de base.
+
+3. Lorsqu'ils ne sont pas dispensés de déclaration par le 1 de l'article 242 ter du code général des impôts, les produits
+exonérés de l'impôt sur le revenu sont déclarés pour leur montant net.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 242 ter 1, 125 A III bis 1° bis
+
+	**Modifié par**:
+
+	  - Décret n°86-216 du 17 février 1986 - art. 6 (V) JORF 18 février 1986
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 42 (V)
 
 
 ###### Article 49 G
@@ -19268,43 +19299,6 @@ concernant les indemnités de frais de mission allouées aux fonctionnaires et a
 
 Ils obtiennent le remboursement de leurs frais réels de transport aux tarifs appliqués d'après ce classement.
 
-
-
-# REGIME ECONOMIQUE
-
-## ORGANISATION DE L'ECONOMIE CIDRICOLE.
-
-###### Article 143 A
-
-La production des fruits à cidre et à poiré est réservée en priorité à la fabrication de produits alimentaires destinés tant
-au marché national qu'à l'exportation.
-
-Sont considérés comme produits cidricoles alimentaires [*définition*] pour l'application de cette disposition :
-
-a  Les cidres et poirés répondant à la définition donnée par l'article 9 du décret n° 53-978 du 30 septembre 1953;
-
-b  Les jus de pomme ou de poire et les concentrés de jus de pomme ou de poire;
-
-c  Les calvados ou eau-de-vie de cidre ou de poiré ayant reçu une appellation d'origine dans les conditions prévues par les
-textes applicables en la matière.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°53-978 du 30 septembre 1953 - art. 9 (M)
-
-	**Modifié par**:
-
-	  - Décret n°85-1319 du 12 décembre 1985 - art. 1 (V) JORF 14 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 143 A 1 (V)
 
 
 # Livre II : Recouvrement de l'impôt
