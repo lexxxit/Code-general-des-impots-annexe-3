@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1990-07-07
+Version Consolidée au 1990-12-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -27669,27 +27669,6 @@ décimale.
 	  - HISTO: Edition du 15 juillet 1985
 
 
-###### Article 404 GD
-
-La cession de plus du tiers des biens bénéficiant du paiement différé et fractionné prévu à l'article 397 A entraîne pour le
-cédant l'exigibilité immédiate des droits en suspens. Pour le calcul de cette proportion, la valeur des biens est appréciée
-au jour de la cession.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 397 A
-
-	**Créé par**:
-
-	  - Décret n°85-356 du 23 mars 1985 - art. 7 (V) JORF 24 mars 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
-
 ##### 6° Transmissions d'entreprises
 
 ###### Article 404 GB
@@ -27740,6 +27719,29 @@ le montant des droits restant dus après le versement de la précédente échéa
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 401 (VD)
+
+
+###### Article 404 GD
+
+La cession de plus du tiers des biens bénéficiant du paiement différé et fractionné prévu à l'article 397 A entraîne pour le
+cédant l'exigibilité immédiate des droits en suspens. Pour le calcul de cette proportion, la valeur des biens est appréciée
+au jour de la cession. 
+
+L'apport à une société des biens visés ci-dessus n'entraîne pas l'exigibilité des droits lorsque le bénéficiaire prend dans
+l'acte d'apport l'engagement de conserver les titres reçus en contrepartie de son apport jusqu'à l'échéance du dernier terme
+du paiement fractionné. 
+
+Lorsque l'engagement n'est pas respecté, les dispositions du premier alinéa s'appliquent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°90-1081 du 3 décembre 1990 - art. 1 (V) JORF 7 décembre 1990
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 397 A (V)
 
 
 #### V : Droits de timbre
