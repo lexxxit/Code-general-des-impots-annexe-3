@@ -12,27 +12,31 @@ de laquelle est intervenue la souscription, la société sert l'attestation ment
 remplit la partie prévue en cas de cession des titres. Elle adresse l'ensemble du document au souscripteur et à la direction
 des services fiscaux du lieu du domicile de celui-ci, au plus tard le 15 février de l'année suivant celle de la cession.
 
-Lorsque le salarié se trouve dans un cas de dispense de reprise mentionnés au IV de l'article 83 ter du code génér al des
+Lorsque le salarié se trouve dans un cas de dispense de reprise mentionnés au IV de l'article 83 ter du code général des
 impôts, la déclaration des revenus est accompagnée d'une note précisant sa situation.
 
 3. Lorsque les titres de la société nouvelle sont apportés à une société civile ou à un fonds commun de placement
-d'entreprise mentionné à l'article 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif
-en valeurs mobilières, la société nouvelle est tenue aux obligations du 2 en cas de cession par un salarié de tout ou partie
-de ses parts dans la société civile ou dans le fonds commun de placement d'entreprise. Il en est de même en cas de cession
-des titres de la société nouvelle par la société civile ou par le fonds commun de placement.
+d'entreprise mentionné à l'article 21 modifié de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement
+collectif en valeurs mobilières, la société nouvelle est tenue aux obligations du 2 en cas de cession par un salarié de tout
+ou partie de ses parts dans la société civile ou dans le fonds commun de placement d'entreprise. Il en est de même en cas de
+cession des titres de la société nouvelle par la société civile ou par le fonds commun de placement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 83 ter
-	  - Code général des impôts annexe 3, CGIAN3 38 septdecies
+	  - CGIAN3 38 septdecies H
 	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
-
-	**Créé par**:
-
-	  - Décret n°92-816 1992-08-18 art. 1 à 6 JORF 22 août 1992
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°95-1281 1995-12-11
+
+	**Créé par**:
+
+	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995

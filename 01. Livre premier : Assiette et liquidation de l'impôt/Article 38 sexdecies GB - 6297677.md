@@ -1,6 +1,6 @@
 # Article 38 sexdecies GB
 
-La valeur comptable des stocks apportés dans les conditions mentionnées au deuxième alinéa du I de l'article 151 octies du
+La valeur comptable des stocks apportés dans les conditions mentionnées au troisième alinéa du I de l'article 151 octies du
 code général des impôts est déterminée dans les conditions prévues selon le cas aux articles 38 sexdecies N, 38 sexdecies OA,
 38 sexdecies OB, 38 sexdecies OE et 38 sexdecies OG à 38 sexdecies OI, lorsque les régimes d'imposition de l'apporteur et de
 la société bénéficiaire de l'apport sont différents.
@@ -17,8 +17,8 @@ vendus.
 
 	**Créé par**:
 
-	  - Décret n°92-751 du 29 juillet 1992 - art. 1 (V) JORF 4 août 1992
+	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - HISTO: Edition du 27 octobre 1995

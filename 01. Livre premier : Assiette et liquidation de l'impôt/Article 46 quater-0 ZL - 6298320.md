@@ -6,37 +6,53 @@ directes ou indirectes et des abandons de créances consentis ou reçus par chac
 du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le montant de ces subventions
 ou abandons.
 
-Un état des subventions directes ou indirectes et des abandons de créances consentis ou reçus pour chacune des sociétés
+1 Un état des subventions directes ou indirectes et des abandons de créances consentis ou reçus pour chacune des sociétés
 membres du groupe, à compter du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le
 montant de ces subventions ou abandons.
 
-Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné à l'article 46 quater-0 ZK ;
+2 Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné à l'article 46 quater-0 ZK ;
 
-Un tableau de synthèse de ces rectifications ;
+3 Un tableau de synthèse de ces rectifications ;
 
-Un tableau de détermination du résultat d'ensemble du groupe ;
+4 Un tableau de détermination du résultat d'ensemble du groupe ;
 
-Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme d'ensemble
+5 Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme d'ensemble
 et les crédits d'impôt susceptibles d'être utilisés par la société mère.
 
-En cas de fusion ou d'apport entre sociétés du groupe, une déclaration de l'option pour la dispense prévue à la première
+((6 Dans les situations visées au c et au d du 6 de l'article 223 L du code général des impôts, des états faisant
+apparaître :
+
+((a) La quotité du déficit bénéficiant de l'agrément visé au 5 de l'article 223 I du même code et la quote-part de ce déficit
+qui provient de chacune des sociétés membres du groupe dissous qui font partie du nouveau groupe ;
+
+((b) L'imputation de ce déficit sur le bénéfice de la société agréée et sur les bénéfices des sociétés mentionnées ci-
+dessus ;
+
+((c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du groupe de l'une des sociétés mentionnées ci-
+dessus, en application des dispositions du troisième alinéa de l'article 223 R du code général des impôts)) (M).
+
+7 En cas de fusion ou d'apport entre sociétés du groupe, une déclaration de l'option pour la dispense prévue à la première
 phrase du deuxième alinéa du b du 6 de l'article 223 L du code général des impôts, des états permettant de déterminer et de
 suivre les réintégrations dont la société mère a demandé la dispense et un tableau de synthèse de ces réintégrations.
 
 Ces renseignements sont présentés sur un des documents conformes aux modèles établis par l'administration.
 
+(M) Modification du décret.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 223 L 6 b al. 2
-	  - CGI 223 Q
-	  - CGIAN3 46 quater-0 ZK
+	  - CGI 223 Q, 46 quater-0 ZK, 223 L, 223, 223 R
 
 	**Modifié par**:
 
-	  - Décret n°92-527 du 15 juin 1992 - art. 3 () JORF 17 juin 1992
+	  - Décret n°94-1063 du 6 décembre 1994 - art. 3 () JORF 13 décembre 1994
 
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°95-1281 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995

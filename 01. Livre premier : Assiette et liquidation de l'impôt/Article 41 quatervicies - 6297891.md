@@ -23,10 +23,14 @@ Le montant de la soulte reçue, le cas échéant.
 
 	  - CGI 160, 97, 150 S, 150 A bis, 92 B
 
-	**Créé par**:
-
-	  - Décret n°91-1313 du 27 décembre 1991 - art. 2 (V) JORF 29 décembre 1991
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°95-1281 1995-12-11
+
+	**Modifié par**:
+
+	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995

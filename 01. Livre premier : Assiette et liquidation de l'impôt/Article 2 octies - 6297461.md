@@ -1,11 +1,13 @@
 # Article 2 octies
 
 Pour l'application de l'article 15 ter du code général des impôts, les montants annuels des ressources du locataire sont
-limités à 102.200 F en région Ile-de-France et à 93.400 F dans les autres régions pour une personne seule. Ces montants sont
-doublés pour un couple marié.
+limités à ((103.630 F)) en région Ile-de-France et à ((94.170 F)) (M) dans les autres régions pour une personne seule. Ces
+montants sont doublés pour un couple marié.
 
 Ces montants s'entendent des revenus nets de frais professionnels du locataire figurant sur son avis d'imposition établi au
-titre des revenus de 1993.
+titre des revenus de 1994.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -15,8 +17,12 @@ titre des revenus de 1993.
 
 	**Codifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°95-1281 1995-12-11
 
 	**Modifié par**:
 
-	  - Décret n°94-899 du 17 octobre 1994 - art. 4 () JORF 19 octobre 1994
+	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995

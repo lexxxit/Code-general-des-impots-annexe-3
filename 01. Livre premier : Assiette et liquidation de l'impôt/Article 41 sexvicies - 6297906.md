@@ -15,7 +15,14 @@ de l'opération d'échange.
 	  - CGI 97, 150 S, 160
 	  - CGIAN3 41 quatervicies, 41 septvicies
 
+	**Codifié par**:
+
+	  - Décret n°95-1281 1995-12-11
+
 	**Modifié par**:
 
-	  - Décret n°94-456 du 31 mai 1994 - art. 3 () JORF 7 juin 1994
-	  - Modifications directes incorporées dans l'édition du 2 septembre 1994
+	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
