@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-01-11
+Version Consolidée au 1991-02-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19032,36 +19032,6 @@ Pour l'application du présent article  le salaire minimal représente la moiti�
 
 ##### Salaires des conservateurs
 
-##### 1 : Généralités.
-
-###### Article 285
-
-Les salaires des conservateurs des hypothèques  pour les fonctions dont ces agents sont chargés  sont fixés conformément aux
-tarifs énoncés dans la présente section [*art. 286 à art. 299*].
-
-Le montant des salaires est arrondi au franc le plus proche.
-
-Lorsque le conservateur  en application de l'article 880 du code général des impôts, prononce, à défaut de versement d'avance
-des salaires et hors les cas d'exception prévus par les dispositions en vigueur le refus du dépôt des expéditions extraits
-copies ou bordereaux à publier ce refus a lieu dans les conditions fixées à l'article 74 du décret no 55-1350 modifié du 14
-octobre 1955; à défaut du même versement les états et certificats établis sont retenus jusqu'au complet paiement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 880
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 74 (M)
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 7 (V) JORF 29 JUILLET 1981
-
-
 ##### 2 : Salaires fixes.
 
 ###### Article 286
@@ -20271,11 +20241,25 @@ conditions que pour le paiement sur états (1).
 Le droit de timbre exigible sur les cartes d'entrée dans les casinos est acquitté soit par l'emploi de machines à timbrer
 soit par l'apposition de timbres mobiles.
 
+Il peut être acquitté sur états dans les conditions fixées par arrêté conjoint du ministre d'Etat, ministre de l'économie,
+des finances et du budget, et du ministre de l'intérieur.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°91-132 du 28 janvier 1991 - art. 1 (V) JORF 3 février 1991
 
 	**Liens**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 24 juin 1991
+	  - PEREMPTION: Loi n°2005-1720 2005-12-30 art. 112 I, II Finances rectificative pour 2005 JORF 31 décembre 2005
+	  - PEREMPTION: Loi n°2005-1720 du 30 décembre 2005 - art. 112 (V) JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 
 ##### II : Cartes d'identité et de séjour (1).
