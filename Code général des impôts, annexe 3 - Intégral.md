@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-08-08
+Version Consolidée au 1987-08-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -629,6 +629,39 @@ e. Et, le cas échéant, le montant de la dotation antérieure qui a été rappo
 des résultats du troisième exercice arrêté après le 30 juin 1959 une note faisant connaître les divers éléments ayant servi à
 la détermination de cette durée.
 
+
+
+###### Article 10 undecies
+
+La provision pour hausse des prix est rapportée de plein droit aux bénéfices imposables à l'expiration du délai prévu au
+sixième alinéa du 5° du 1 de l'article 39 du code général des impôts.
+
+Lorsqu'elle est retenue pour l'application de cette disposition, la durée normale de rotation du stock d'une entreprise est
+forfaitairement exprimée en mois par le chiffre obtenu en divisant le nombre de mois compris dans les trois premiers
+exercices clos après le 30 juin 1959 par le rapport existant entre, d'une part, le prix de revient global des marchandises
+vendues au cours desdits exercices et, d'autre part, la moyenne des valeurs des stocks à la clôture des mêmes exercices.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 duodecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
 
 
 ##### D : Provisions pour reconstitution des gisements
@@ -3094,6 +3127,32 @@ dans le délai de déclaration des résultats du dernier exercice de chaque pér
 	**Modifié par**:
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+
+##### C bis : Régime transitoire d'imposition
+
+###### Article 38 sexdecies JH
+
+Sous réserve des adaptations prévues aux articles 38 sexdecies JI, 38 sexdecies OH, 38 sexdecies OI, 38 sexdecies OJ, 38
+sexdecies RD et 38 sexdecies RE, le résultat des exploitants soumis au régime transitoire d'imposition prévu aux articles 68
+F et 68 G du code général des impôts est déterminé selon les modalités mentionnées au I de l'article 38 sexdecies D et aux
+articles 38 sexdecies E, 38 sexdecies F, 38 sexdecies GA, 38 sexdecies JD, 38 sexdecies 0K, 38 sexdecies K, 38 sexdecies L,
+38 sexdecies M et 38 sexdecies QA.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 68 F, 68 G
+	  - CGIAN3 38 sexdecies JI, 38 sexdecies OH, 38 sexdecies OI, 38 sexdecies O, 38 sexdecies RD, 38 sexdecies RE, 38 sexdecies D, 38 sexdecies E, 38 sexdecies F, 38 sexdecies GA, 38 sexdecies JD, 38 sexdecies-0 K 38 sexdecies K, 38 sexdecies L, 38 sexdecie
+
+	**Créé par**:
+
+	  - Décret n°87-642 du 6 août 1987 - art. 1 (V) JORF 8 août 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
 
 
 ##### D : Dispositions applicables en cas de changement de régime d'imposition
@@ -12600,6 +12659,37 @@ comptage et de mesurage de leur production.
 	**Codifié par**:
 
 	  - Décret n°2007-484 2007-03-30
+
+
+#### Chapitre IV : Allumettes et briquets
+
+##### Section III : Régime fiscal des allumettes et des briquets.
+
+###### Article 228
+
+Sans préjudice des sanctions prévues pour défaut de déclaration de profession, toute personne qui importe des allumettes, des
+briquets ou des recharges de briquets en dehors des conditions définies à l'article 223 doit acquitter la taxe à
+l'importation auprès de l'administration des douanes lorsqu'elle ne peut bénéficier des franchises prévues pour les
+importations dépourvues de tout caractère commercial.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 223
+
+	**Créé par**:
+
+	  - Décret n°87-49 du 31 janvier 1987 - art. 7 (V) JORF 3 février 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+	  - Décret n°99-382 1999-05-18
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-1266 1998-12-30 art. 47 C D Finances pour 1999 JORF 31 décembre 1998
 
 
 ### Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses
