@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-07-21
+Version Consolidée au 1987-07-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -24,6 +24,45 @@ constructions, sous déduction d'une décote égale à 8 % par année de bail au
 ##### III : Bénéfices industriels et commerciaux
 
 ##### B : Provision pour fluctuation des cours
+
+###### Article 3
+
+Les entreprises dont l'objet principal est de faire subir en France la première transformation à des matières premières
+acquises sur les marchés internationaux ou à des matières premières acquises sur le territoire national et dont les prix sont
+étroitement liés aux variations des prix internationaux sont autorisées, par application du troisième alinéa du 5° du 1 de
+l'article 39 du code général des impôts, à constituer, en franchise d'impôt sur le revenu ou d'impôt sur les sociétés, des
+provisions pour fluctuation des cours dans les conditions prévues aux articles 4 à 10 septies. 
+
+Ces provisions peuvent être prélevées sur les bénéfices des exercices 1948 et suivants ou, en ce qui concerne les entreprises
+qui n'avaient pas pour objet principal la première transformation des matières visées au a de l'article 4, à la clôture du
+dernier exercice arrêté avant le 29 décembre 1959, sur les bénéfices des exercices clos à partir de cette dernière date. 
+
+Toutefois, il ne peut être prélevé de provisions pour fluctuation des cours en raison de la première transformation de
+l'argent métal que sur les bénéfices des exercices arrêtés postérieurement au 30 décembre 1967. 
+
+Seules les entreprises dont l'activité consiste à transformer directement l'or, ainsi que, le cas échéant, une ou plusieurs
+autres matières premières visées à l'article 4 peuvent, pour la détermination des résultats des exercices arrêtés
+postérieurement au 30 décembre 1972, bénéficier des dispositions des articles 8 ter, 
+10 bis A et 10 ter.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 bis A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 4 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 8 ter (V)
+	  - Code général des impôts, CGI. - art. 39 (VT)
+
 
 ###### Article 4
 
@@ -490,6 +529,55 @@ ressortir séparément le montant des dotations de chaque exercice.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 duodecies (V)
+
+
+###### Article 10 duodecies
+
+1. En cas de cession ou de cessation d'entreprise ou de décès de l'exploitant, la provision pour hausse des prix figurant au
+dernier bilan est considérée comme un élément du bénéfice immédiatement imposable dans les conditions fixées par l'article
+201 et le 2 de l'article 204 du code général des impôts.
+
+Il en est de même dans le cas où l'entreprise a cédé la totalité de son stock et a changé d'objet ou de mode d'exploitation.
+
+En cas de cession d'un établissement, de cession ou de cessation d'une branche d'activité, la provision pour hausse des prix
+est rattachée aux bénéfices imposables de l'exercice en cours à la date de la cession ou de la cessation dans la mesure où
+elle est afférente aux matières, produits et approvisionnements se rapportant à l'établissement ou à la branche d'activité
+cédé ou abandonné.
+
+2. Par dérogation aux dispositions du 1, la provision n'est pas rapportée aux bénéfices imposables lorsque l'exploitation du
+fonds est continuée dans les conditions prévues aux articles 41 ou 210 du code général des impôts.
+
+L'application des dispositions de l'alinéa précédent est subordonnée à l'obligation, pour les nouveaux exploitants, pour la
+société absorbante ou nouvelle ou pour la société bénéficiaire de l'apport :
+
+D'inscrire immédiatement à leur passif la provision figurant dans les écritures du précédent exploitant, des sociétés
+fusionnées ou de la société apporteuse et qui était afférente aux éléments transférés, en distinguant, suivant les modalités
+fixées à l'article 10 decies, le montant des dotations de chaque exercice ;
+
+De rattacher ultérieurement ces dotations à leurs bénéfices imposables dans les mêmes conditions qu'aurait dû le faire le
+précédent exploitant en application du sixième alinéa du 5° du 1 de l'article 39 du code général des impôts et de l'article
+10 undecies ci-dessus.
+
+Cet engagement doit être joint à la déclaration des résultats de l'exercice de cession, de cessation ou de décès.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 201, 204, 210, 41, 39
+	  - CGIAN3 10 decies, 10 undecies
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
 
 
 ###### Article 10 nonies
@@ -7267,6 +7355,60 @@ déduits à compter du 1er janvier 1985 pour le calcul de l'impôt.
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 46 quater-0 ZA
+
+La provision pour dépréciation du portefeuille prévue aux onzième à treizième alinéas du 5° du 1 de l'article 39 du code
+général des impôts doit être égale, au 1er janvier 1985, à la différence entre la valeur des titres à la clôture de
+l'exercice 1984 et leur valeur d'origine.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 1 5°
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+
+###### Article 46 quater-0 ZB
+
+A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
+constitué au 31 décembre 1984 des provisions pour un montant égal ou supérieur à 0,50 % de l'encours des crédits, les caisses
+sont tenues de faire figurer au 1er janvier 1985 à leur bilan la provision prévue au neuvième alinéa du 5° du 1 de l'article
+39 du code général des impôts pour un montant de 0,50 % de l'encours des crédits afférents auxdites opérations. Cette
+provision est constituée en ajoutant aux provisions pour risques sur crédit à moyen ou long terme comptabilisées au 31
+décembre 1984 les sommes nécessaires, prélevées sur les provisions à caractère général ou, à défaut, sur les réserves. Ce
+complément est inscrit de façon distincte au bilan.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 1 5°
+
+	**Modifié par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
 
 
 ###### Article 46 quater-0 ZC
