@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-09-01
+Version Consolidée au 1985-09-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18276,6 +18276,43 @@ prélèvement de 3 % pour frais d'assiette et de perception.
 
 	  - HISTO: EDITION 1979-07-01
 	  - PEREMPTION: Loi n°88-1149 du 23 décembre 1988 - art. 38 ()
+
+
+##### Section 1 quater : Fonds de garantie contre les accidents de circulation et de chasse.
+
+###### Article 340 quinquies
+
+1. Les taux des contributions prévues pour l'alimentation du fonds de garantie des victimes d'accidents d'automobile sont
+fixés comme suit :
+
+a. Contribution des sociétés d'assurances : 10 % de la totalité des charges du fonds de garantie;
+
+b. Contribution des responsables d'accidents non assurés :
+
+Taux normal : 10% des indemnités restant à leur charge ;
+
+Taux réduit : 5%  c. Contribution des assurés : 1,90% [*pourcentage*] des primes.
+
+2. La contribution des assurés est perçue sur les primes émises postérieurement au 30 septembre 1952, nettes d'annulation.
+
+Le recouvrement en est effectué pour le compte du fonds de garantie par les sociétés d'assurances et sous leur responsabilité
+(1).
+
+(1) Annexe IV, art. 159 quinquies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 159 quinquies
+
+	**Modifié par**:
+
+	  - Décret n°85-926 du 30 août 1985 - art. 1 (V) JORF 3 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
