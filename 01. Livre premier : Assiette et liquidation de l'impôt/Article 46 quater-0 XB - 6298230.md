@@ -1,7 +1,7 @@
 # Article 46 quater-0 XB
 
-Lorsqu'une filiale dont les résultats sont pris en compte pour la détermination du résultat d'ensemble défini à l'article 46
-quater-O X impute une créance constituée au titre de l'article 220 quinquies du code général des impôts ou obtient le
+Lorsqu'une filiale dont les résultats sont pris en compte pour la détermination du résultat consolidé défini à l'article 46
+quater-0 X impute une créance constituée au titre de l'article 220 quinquies du code général des impôts ou obtient le
 remboursement de cette créance, la société agréée reverse au Trésor un montant égal à celui de l'imputation ou du
 remboursement de la créance.
 
@@ -18,14 +18,18 @@ imputables et remboursables au titre du même exercice.
 
 	**Cite**:
 
-	  - CGI 209 quinquies
-	  - CGI 220 quinquies
-	  - CGIAN3 46 quater-0 X
+	  - CGI 220, 209 quinquies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-598 du 10 juin 1985 - art. 3 (V) JORF 14 juin 1985
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 24 (V) JORF 20 décembre 1991
+	  - Décret n°91-1265 du 16 décembre 1991 - art. 4 () JORF 20 décembre 1991
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°92-836 1992-08-27
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - HISTO: Edition du 4 juillet 1992
