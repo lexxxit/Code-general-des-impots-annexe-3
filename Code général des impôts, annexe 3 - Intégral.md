@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1992-08-04
+Version Consolidée au 1992-09-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -957,23 +957,24 @@ déficitaire.
 La provision constituée à la clôture d'un exercice doit, dans le délai de cinq ans ou d'un an prévu à l'article 39 ter-1,
 troisième alinéa, du code général des impôts être utilisée :
 
-a Soit à tous travaux ou immobilisations nécessaires aux recherches d'hydrocarbures entreprises dans la France
-métropolitaine, dans les départements et les territoires français d'outre-mer  dans les Etats de la Communauté, ainsi qu'en
+a) Soit à tous travaux ou immobilisations nécessaires aux recherches d'hydrocarbures entreprises dans la France
+métropolitaine, dans les départements et les territoires français d'outre-mer, dans les Etats de la Communauté, ainsi qu'en
 Algérie, au Maroc, en Tunisie, au Togo et au Cameroun, à l'exclusion des travaux ou immobilisations portant sur un gisement
-reconnu ayant donné lieu à attribution d'un titre d'exploitation;
+reconnu ayant donné lieu à attribution d'un titre d'exploitation, sauf s'ils sont destinés à améliorer la rémunération des
+hydrocarbures dans ce gisement.
 
-b Soit à l'acquisition de participations dans les sociétés et organismes désignés par arrêté du ministre de l'économie et des
-finances et du ministre de l'industrie (1) ayant pour objet d'effectuer la recherche et l'exploitation de gisements
+b) Soit à l'acquisition de participations dans les sociétés et organismes désignés par arrêté du ministre de l'économie et
+des finances et du ministre de l'industrie (1) ayant pour objet d'effectuer la recherche et l'exploitation de gisements
 d'hydrocarbures dans les mêmes territoires et pays.
 
 Ne pourront être considérées comme "participations" utilisées au titre de la provision pour reconstitution des gisements
 que :
 
-a Les actions, parts sociales ou parts d'intérêts souscrites aux augmentations de capital des sociétés et organismes ci-
+a) Les actions, parts sociales ou parts d'intérêts souscrites aux augmentations de capital des sociétés et organismes ci-
 dessus visés et sous réserve que les souscripteurs s'engagent auprès du ministère de l'industrie (direction des carburants) à
-ne pas négocier les titres souscrits pendant un délai de deux ans à compter de la réalisation de l'augmentation de capital;
+ne pas négocier les titres souscrits pendant un délai de deux ans à compter de la réalisation de l'augmentation de capital ;
 
-b Les sommes avancées, sans intérêt, à ces sociétés et organismes en contrepartie soit d'une participation ultérieure au
+b) Les sommes avancées, sans intérêt, à ces sociétés et organismes en contrepartie soit d'une participation ultérieure au
 capital desdites sociétés ou desdits organismes, soit d'une participation en nature ou en espèces à leur production
 d'hydrocarbures.
 
@@ -989,17 +990,18 @@ d'hydrocarbures.
 
 	**Modifié par**:
 
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 8 (P) JORF 31 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°92-1013 du 18 septembre 1992 - art. 1 () JORF 24 septembre 1992
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E (P)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1995-02-15 4E-1-95
 
 
 ##### b : Entreprises produisant certaines substances minérales solides
@@ -4060,50 +4062,6 @@ selon les modalités prévues au II de l'article 38 sexdecies D.
 
 	  - HISTO: Edition du 20 juillet 1984
 	  - HISTO: Edition du 31 mars 2002
-
-
-##### Passage du régime transitoire au régime simplifié d'imposition d'après le bénéfice réel.
-
-###### Article 38 sexdecies OH
-
-En cas de passage du régime transitoire au régime réel simplifié :
-
-Aucune modification n'est apportée à la valeur des immobilisations et améliorations de fonds.
-
-Les avances aux cultures sont évaluées dans les conditions prévues à l'article 72 A du code général des impôts.
-
-Les produits de la viticulture levés sous le forfait en stock à la date de ce changement de régime d'imposition sont évalués
-au cours du jour à la même date, sous déduction d'une décote forfaitaire.
-
-Un arrêté du ministre chargé du budget (1) fixe les taux de cette décote en fonction de l'âge des produits.
-
-Les autres stocks sont évalués en application de l'article 38 sexdecies JC.
-
-Les créances et les dettes nées sous le régime transitoire sont inscrites pour leur valeur à la date du changement de régime.
-
-Les recettes et les dépenses se rapportant à des créances et à des dettes nées sous le régime transitoire sont retenues pour
-la détermination du bénéfice selon le régime réel simplifié.
-
-Les exploitants joignent à leur première déclaration de résultats une note donnant la composition et le mode d'évaluation du
-stock d'entrée.
-
-(1) Annexe IV 4 P.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 72 A
-	  - CGIAN3 38 sexdecies JC
-	  - CGIAN4 4 P
-
-	**Créé par**:
-
-	  - Décret n°87-642 du 6 août 1987 - art. 5 (V) JORF 8 août 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
 
 
 ##### Passage du régime transitoire au régime normal d'imposition d'après le bénéfice réel.
