@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-12-29
+Version Consolidée au 1989-07-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4629,6 +4629,33 @@ Les dispositions du présent article ne s'appliquent pas aux déclarations menti
 	  - HISTO: Edition du 31 juillet 1986
 
 
+###### Article 39 D
+
+La déclaration annuelle de données sociales peut être faite par un procédé informatique si le déclarant le demande et
+s'engage à se conformer aux prescriptions d'un cahier des charges approuvé par arrêté conjoint des ministres chargés du
+budget et de la sécurité sociale.
+
+Dans les centres de transfert de données sociales équipés à cet effet et figurant sur une liste fixée par arrêté du Premier
+ministre sur proposition des ministres intéressés, cette déclaration peut être faite par voie télématique.
+
+A défaut de recours à un procédé informatique, la déclaration est effectuée à l'aide d'un formulaire unique dont le modèle
+est approuvé par arrêté conjoint des ministres ci-dessus mentionnés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°89-5 1989-01-05 art. 3 JORF 6 janvier 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+
 ###### Article 39 E
 
 La déclaration reçue par un centre de transfert de données sociales est réputée remise, à la date de cette reception, à
@@ -4677,30 +4704,6 @@ articles 39 B et 47 A.
 	**Liens**:
 
 	  - HISTO: Edition du 31 juillet 1986
-
-
-##### Obligations des employeurs
-
-##### Déclaration annuelle de données sociales.
-
-###### Article 39 D
-
-La déclaration annuelle de données sociales peut être faite par un procédé informatique si le déclarant le demande et
-s'engage à se conformer aux prescriptions d'un cahier des charges approuvé par arrêté conjoint des minitres chargés du budget
-et de la sécurité sociale.
-
-A défaut de recours à un procédé informatique, la déclaration est effectuée à l'aide d'un formulaire unique dont le modèle
-est approuvé par arrêté conjoint des ministres ci-dessus mentionnés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°85-1343 1985-12-16 art. 3 JORF 20 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
 
 
 ##### VII : Bénéfices des professions non commerciales
@@ -9792,6 +9795,71 @@ celui de la sortie du groupe de la société qui en est propriétaire, si cette 
 	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
 
 
+##### Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies
+
+###### Article 46 quater-0 ZT
+
+Pour l'application des dispositions de l'article 44 septies du code général des impôts, le capital de la société créée est
+détenu indirectement par une personne qui a été associée ou exploitante de l'entreprise en difficulté pendant l'année
+précédant la reprise, lorsque des droits de vote ou des droits à dividendes attachés aux titres émis par cette société sont
+détenus par :
+
+" Les membres du foyer fiscal de cette personne ;
+
+" Une entreprise dans laquelle cette personne détient avec les membres de son foyer fiscal 25 p. 100 au moins des droits
+sociaux ;
+
+" Une société dans laquelle cette personne exerce en droit ou en fait la fonction de gérant ou de président, directeur
+général, président du conseil de surveillance ou membre du directoire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 44 septies
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°88-1149 1988-12-23 art. 14 A Finances pour 1989
+	  - PEREMPTION: Loi n°91-716 du 26 juillet 1991 - art. 28 () JORF 27 juillet 1991
+
+	**Créé par**:
+
+	  - Décret n°89-170 du 14 mars 1989 - art. 1 (V) JORF 16 mars 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+	  - Décret n°92-836 1992-08-27
+
+
+###### Article 46 quater-0 ZU
+
+Les sociétés qui bénéficient des dispositions de l'article 44 septies du code général des impôts doivent produire, à l'appui
+de la déclaration de leurs résultats de chaque exercice, un état comportant des renseignements sur leur situation et sur
+celle de leurs associés, ainsi que sur la situation de l'entreprise reprise et de ses associés ou exploitants. 
+
+Cet état est établi sur papier libre conformément au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°88-1149 1988-12-23 art. 14 A Finances pour 1989
+
+	**Créé par**:
+
+	  - Décret n°89-170 du 14 mars 1989 - art. 2 (V) JORF 16 mars 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 septies (V)
+
+
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
 
 ##### Section 001 : Sociétés d'investissement
@@ -10781,6 +10849,35 @@ l'annexe II au code général des impôts.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1985
+
+
+##### Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts
+
+###### Article 49 J
+
+Les entreprises nouvelles qui bénéficient de l'exonération d'impôt prévue à l'article 44 sexies du code général des impôts
+doivent joindre à la déclaration de leurs résultats de chaque exercice un état de leur situation et, s'il s'agit de sociétés,
+de celle de leurs associés, au regard des conditions mentionnées à l'article précité. 
+
+Cet état est établi sur papier libre, conformément au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°88-1149 1988-12-23 art. 14 A Finances pour 1989
+
+	**Créé par**:
+
+	  - Décret n°89-170 du 14 mars 1989 - art. 2 (V) JORF 16 mars 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 sexies (V)
 
 
 ##### Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts
@@ -14948,6 +15045,41 @@ l'article 343 du code général des impôts.
 	  - Code général des impôts, CGI. - art. 514 bis (V)
 
 
+###### Article 178 AA
+
+L'administration peut, sur la demande des fabricants, des importateurs, des négociants en gros ou des utilisateurs d'essence
+de badiane, d'anis, de fenouil, d'hysope ou d'anéthol, et après avis du service des laboratoires de la direction générale des
+douanes et droits indirects, dispenser des formalités à la circulation prévues à l'article 178 F les essences additionnées de
+substances dénaturantes et les préparations composées destinées à la fabrication de confiserie, d'extraits alimentaires, de
+dentifrices, de produits de parfumerie et de toilette et d'autres produits similaires, dans lesquelles les essences visées ne
+constituent pas l'élément dominant ou sont additionnées de substances rendant la préparation impropre à la fabrication d'une
+boisson anisée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+	  - Décret n°97-661 1997-05-28
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 F (V)
+
+
 ###### Article 178 B
 
 A l'exception de celles prévues aux articles 178 C, 178 D et 178 AB les prescriptions édictées par les articles 178 A et 178
@@ -15418,6 +15550,53 @@ entrant dans leurs fabrications. La rémunération du bureau est fixée par arr�
 
 
 ##### Section III : Fonctionnement des bureaux de garantie
+
+###### Article 204
+
+En cas de contestation sur le titre, il doit être fait une prise d'essai sur l'ouvrage pour être envoyée, sous les cachets du
+fabricant et de l'essayeur, au directeur général des douanes et droits indirects qui le fait essayer.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+
+###### Article 205
+
+Pendant ce temps, l'ouvrage présenté est laissé au bureau de garantie sous les cachets de l'essayeur et du fabricant, et,
+lorsque le laboratoire de la direction générale des douanes et droits indirects a fait connaître les résultats de son essai,
+l'ouvrage est définitivement titré et, s'il y a lieu, marqué conformément à ce résultat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
 
 ###### Article 206
 
@@ -16216,35 +16395,6 @@ doux naturels et vins de liqueur à appellation d'origine contrôlée, constatan
 
 ##### Réglementation des essences d'absinthe et produits assimilés ou susceptibles de les suppléer.
 
-###### Article 178 AA
-
-L'administration peut, sur la demande des fabricants, des importateurs, des négociants en gros ou des utilisateurs d'essence
-de badiane, d'anis, de fenouil, d'hysope ou d'anéthol, et après avis du service des laboratoires du ministère de l'économie
-et des finances, dispenser des formalités à la circulation prévues à l'article 178 F les essences additionnées de substances
-dénaturantes et les préparations composées destinées à la fabrication de confiserie, d'extraits alimentaires, de dentifrices,
-de produits de parfumerie et de toilette et d'autres produits similaires, dans lesquelles les essences visées ne constituent
-pas l'élément dominant ou sont additionnées de substances rendant la préparation impropre à la fabrication d'une boisson
-anisée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 178 F
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 178 AB
 
 Les pharmaciens d'officine sont tenus de déposer au bureau de déclarations de la direction générale des impôts, dès l'arrivée
@@ -16539,23 +16689,24 @@ e  Des quantités reconnues manquantes aux inventaires.
 ###### Article 178 P
 
 Les procédés de dénaturation doivent être agréés par la direction générale des impôts après avis du service des laboratoires
-du ministère de l'économie et des finances.
+de la direction générale des douanes et droits indirects.
 
 Les produits additionnés de substances dénaturantes doivent être emmagasinés à part.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988, incorporé à l'annexe 3 le 14 juillet 1989
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988, incorporé à l'annexe 3 le 14 juillet 1989
+
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°89-801 1989-10-27 Décret 97-661 1997-05-28
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### Section III : Régimes particuliers
@@ -16667,52 +16818,27 @@ le préfère.
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 204
-
-En cas de contestation sur le titre, il doit être fait une prise d'essai sur l'ouvrage pour être envoyée, sous les cachets du
-fabricant et de l'essayeur, au chef du service des laboratoires du ministère de l'économie et des finances qui le fait
-essayer.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 A (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 205
-
-Pendant ce temps, l'ouvrage présenté est laissé au bureau de garantie sous les cachets de l'essayeur et du fabricant, et,
-lorsque le laboratoire du ministère de l'économie et des finances a fait connaître les résultats de son essai, l'ouvrage est
-définitivement titré et, s'il y a lieu, marqué conformément à ce résultat.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
 ###### Article 207
 
 Tout propriétaire d'un ouvrage d'or, de platine ou d'argent portant le poinçon de la garantie peut exercer une action contre
 le fabricant ou l'importateur si le titre réel ne correspond pas à celui indiqué par le poinçon. En cas de doute, il peut
-demander au chef du service des laboratoires du ministère de l'économie et des finances un nouvel essai.
+demander au directeur général des douanes et droits indirects un nouvel essai.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988, incorporé à l'annexe 3 le 14 juillet 1989
+	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988, incorporé à l'annexe 3 le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ##### Section III bis : Exemptions du droit de garantie.
@@ -24214,6 +24340,35 @@ taxe visée à l'article 1618 septies du code général des impôts.
 	  - Décret n°91-866 du 4 septembre 1991 - art. 5 () JORF 6 septembre 1991
 
 
+##### Section I quater : Taxe sur le colza, navette, tournesol perçue au profit du budget annexe des prestations sociales agricoles
+
+###### Article 333 I
+
+I.  La taxe prévue à l'article 1618 nonies du code général des impôts est assise sur le poids à la réception des graines
+oléagineuses livrées aux intermédiaires agréés, ramené à la qualité type prévue par le règlement du 22 septembre 1966 modifié
+du Conseil des communautés européennes.
+
+II. Les sommes exigibles sont liquidées sur production par les intermédiaires agréés de déclarations conformes au modèle fixé
+par la direction générale des impôts et remises ou adressées à cette intermédiaires agréés de déclarations conformes au
+modèle fixé par la direction générale des impôts et remises ou adressées à cette administration dans les dix premiers jours
+du mois suivant celui au titre duquel la taxe est applicable. Elles doivent être acquittées au plus tard le 25 du mois de la
+déclaration [*date*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1618 nonies
+
+	**Créé par**:
+
+	  - Décret n°88-1142 1988-12-20 art. 2, art. 3 JORF 23 décembre 1988, incorporé à l'annexe 3 le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-29
+
+
 ##### Section II : Taxe spéciale sur le prix des places de spectacles cinématographiques.
 
 ###### Article 333 bis
@@ -24677,8 +24832,8 @@ prélèvement de 3 % pour frais d'assiette et de perception.
 
 ###### Article 340 quinquies
 
-1. Les taux des contributions prévues pour l'alimentation du fonds de garantie des victimes d'accidents d'automobile sont
-fixés comme suit :
+1. Les taux des contributions prévues pour l'alimentation du fonds de garantie au profit des victimes d'accidents
+d'automobile sont fixés comme suit :
 
 a. Contribution des sociétés d'assurances : 10 % de la totalité des charges du fonds de garantie;
 
@@ -24686,7 +24841,7 @@ b. Contribution des responsables d'accidents non assurés :
 
 Taux normal : 10% des indemnités restant à leur charge ;
 
-Taux réduit : 5%  c. Contribution des assurés : 1,90% [*pourcentage*] des primes.
+Taux réduit : 5% c. Contribution des assurés : 1,90% des primes.
 
 2. La contribution des assurés est perçue sur les primes émises postérieurement au 30 septembre 1952, nettes d'annulation.
 
@@ -24703,21 +24858,30 @@ Le recouvrement en est effectué pour le compte du fonds de garantie par les soc
 
 	**Modifié par**:
 
-	  - Décret n°85-926 du 30 août 1985 - art. 1 (V) JORF 3 septembre 1985
+	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988, Décret 88-261 1988-03-18 art. 4 JORF 20 mars 1988, incorporés à l'annexe III le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°89-801 1989-10-27
+	  - Décret n°95-1281 1995-12-11
+
+	**Abrogé par**:
+
+	  - Décret n°94-1023 du 29 novembre 1994 - art. 8 () JORF 20 novembre 1994
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article 340 sexies
 
-1. Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
+1. Les taux des contributions prévues pour l'alimentation du fonds de garantie créé au profit des victimes d'accidents
 corporels de chasse sont les suivants :
 
 a. Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie ;
 
-b. Contribution des  responsables , non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
+b. Contribution des responsables , non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
 personne :
 
 Taux normal : 10% des indemnités restant à leur charge ;
@@ -24736,11 +24900,20 @@ d'assurances et sous leur responsabilité.
 
 	**Modifié par**:
 
-	  - Décret n°86-452 du 14 mars 1986 - art. 26 () JORF 16 mars 1986
+	  - Décret n°88-260 du 18 mars 1988 - art. 3 () JORF 20 mars 1988, Décret 88-261 1988-03-18 art. 4 JORF 20 mars 1988, incorporés à l'annexe III le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°89-801 1989-10-27
+	  - Décret n°95-1281 1995-12-11
+
+	**Abrogé par**:
+
+	  - Décret n°94-1023 du 29 novembre 1994 - art. 9 (V) JORF 20 novembre 1994
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### Section III : Taxe perçue au profit de l'office des migrations internationales.
@@ -24803,7 +24976,7 @@ Un arrêté du ministre chargé des finances fixe le taux et les modalités de r
 
 ###### Article 344 ter
 
-Le montant de la taxe prévue à l'article 344 bis est fixé à 212 F.    La taxe est perçue au taux de 12 F pour les
+Le montant de la taxe prévue à l'article 344 bis est fixé à 224 F.    La taxe est perçue au taux de 12 F pour les
 ressortissants des parties contractantes à la charte sociale européenne.
 
 **Liens relatifs à cet article**
@@ -24814,15 +24987,19 @@ ressortissants des parties contractantes à la charte sociale européenne.
 
 	**Modifié par**:
 
-	  - Décret n°87-195 du 19 mars 1987 - art. 1 (V) JORF 25 mars 1987
+	  - Décret n°88-1005 du 20 octobre 1988 - art. 1 (V) JORF 26 octobre 1988
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°89-801 1989-10-27
 
 	**Cité par**:
 
 	  - Code du travail - art. D5221-38 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -26861,12 +27038,12 @@ d'enregistrement, à la taxe de publicité foncière et aux taxes additionnelles
 
 1° des mutations par décès ;
 
-2° des apports en société prévus aux articles 809-I-3° 809-II et 812-I-1° et 2° du code précité;
+2° des apports en société prévus aux articles 809-I-3° 809-II et au 1° du I de l'article 812 du code précité ;
 
 3° des acquisitions effectuées dans le cadre des dispositions de l'article 88 de la loi n° 67-563 du 13 juillet 1967 sur le
-règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes;
+règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes ;
 
-4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices;
+4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices ;
 
 5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article
 30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis
@@ -26876,23 +27053,6 @@ reconnue par le ministre de l'agriculture.
 6° (Abrogé)
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1717
-	  - CGI 809 I 3°, II
-	  - CGI 812 I 1°, 2
-	  - Code rural 686
-	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
-	  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
-
-	**Modifié par**:
-
-	  - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
 
 	**Cité par**:
 
@@ -26904,6 +27064,23 @@ reconnue par le ministre de l'agriculture.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 D (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 E (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
+
+	**Cite**:
+
+	  - CGI 1717
+	  - CGI 809 I 3°, II
+	  - CGI 812 I 1°
+	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
+	  - Code rural 686
+	  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 16 (P) JORF 28 décembre 1989, incorporée à l'annexe 3 le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-801 1989-10-27
 
 
 ###### Article 397
@@ -27256,8 +27433,8 @@ attribué entraîne l'exigibilité immédiate des droits en suspens.
 Les droits et taxes exigibles sur les apports en société et dont le paiement est fractionné en application des dispositions
 de l'article 396-2° sont acquittés :
 
-- en trois annuités égales lorsqu'il s'agit d'opérations prévues aux articles 809-II et 812-I-1° et 2° du code général des
-impôts ;
+- en trois annuités égales lorsqu'il s'agit d'opérations prévues au II de l'article 809 et au 1° du I de l'article 812 du
+code général des impôts ;
 
 - en cinq annuités égales lorsqu'il s'agit d'apports prévus à l'article 809-I-3° du même code.
 
@@ -27266,16 +27443,16 @@ impôts ;
 	**Cite**:
 
 	  - CGI 809 II, I 3°
-	  - CGI 812 I 1°, 2°
+	  - CGI 812 I 1°
 	  - CGIAN3 396 2 °
 
 	**Modifié par**:
 
-	  - Décret n°80-986 du 8 décembre 1980 - art. 3 (V) JORF 9 DECEMBRE 1980
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 16 (P) JORF 28 décembre 1988, incorporée à l'annexe 3 le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°89-801 1989-10-27
 
 
 ##### 3° : Acquisitions effectuées dans le cadre des procédures de sauvegarde, de redressement ou de liquidation judiciaires
