@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-07-15
+Version Consolidée au 1984-07-19
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -9348,6 +9348,28 @@ trente jours.
 	  - Décret n°80-871 du 30 octobre 1980 - art. 2 (V) JORF 7 novembre 1980
 
 
+##### Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne
+
+###### Article 211 AC
+
+La déclaration prévue à l'article 545 du code général des impôts est déposée au bureau de garantie quarante huit heures avant
+la mise en fabrication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-623 du 16 juillet 1984 - art. 7 (V) JORF 19 juillet 1984
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 545 (V)
+
+
 ##### Section VI : Frappe des médailles
 
 ###### Article 214
@@ -10424,7 +10446,99 @@ demander au chef du service des laboratoires du ministère de l'économie et des
 	  - HISTO: EDITION 1979-07-01
 
 
+##### Section III bis : Exemptions du droit de garantie.
+
+###### Article 208 A
+
+Pour bénéficier de la dispense du droit de garantie prévue à l'article 532 du code général des impôts, l'apport de métal
+précieux utilisé pour la réparation des ouvrages ne doit pas excéder les proportions et limites suivantes :
+
+1° Pour le platine et l'or :
+
+20 % pour les ouvrages dont le poids, avant réparation, est au plus égal à 20 grammes avec un maximum de 2 grammes ;
+
+10 % pour les ouvrages dont le poids, avant réparation, est supérieur à 20 grammes et au plus égal à 100 grammes avec un
+maximum de 5 grammes ;
+
+5 % pour les ouvrages dont le poids, avant réparation, est supérieur à 100 grammes avec un maximum de 7,5 grammes ;
+
+2° Pour l'argent :
+
+20 % pour les ouvrages dont le poids, avant réparation, est au plus égal à 50 grammes avec un maximum de 5 grammes ;
+
+10 % pour les ouvrages dont le poids, avant réparation, est supérieur à 50 grammes et au plus égal à 200 grammes avec un
+maximum de 10 grammes ;    5 % pour les ouvrages dont le poids, avant réparation est supérieur à 200 grammes avec un maximum
+de 15 grammes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 532
+
+	**Créé par**:
+
+	  - Décret n°84-623 du 16 juillet 1984 - art. 2 (V) JORF 19 juillet 1984
+
+	**Abrogé par**:
+
+	  - Décret n°94-433 du 24 mai 1994 - art. 2 () JORF 1er juin 1994
+
+	**Modifié par**:
+
+	  - Modification directe incorporée dans l'édition du 2 septembre 1994
+
+
 ##### Section IV : Obligations des redevables.
+
+###### Article 209-0 A
+
+La déclaration mensuelle prévue à l'article 521 du code général des impôts est souscrite auprès de la recette des impôts de
+rattachement du bureau de garantie dont dépend le fabricant, dans le délai fixé par arrêté (1), sur un imprimé conforme au
+modèle prescrit par l'administration.
+
+La déclaration indique les poids respectifs, exprimés en grammes, des ouvrages en platine, en or ou en argent et le montant
+de la taxe correspondant.
+
+(1) Annexe IV, art. 56 J ter et quater.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 521
+	  - CGIAN4 54 J quater
+	  - CGIAN4 56 J ter
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J vicies (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-623 du 16 juillet 1984 - art. 1 (V) JORF 19 juillet 1984
+
+
+###### Article 209-0 B
+
+Les fabricants peuvent adresser leurs ouvrages au bureau de garantie par la voie postale pour y être essayés et marqués. Dans
+ce cas, ils supportent les frais de réexpédition et versent, pour les couvrir, une avance auprès de la recette des impôts de
+rattachement du bureau de garantie dont ils dépendent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-623 du 16 juillet 1984 - art. 3 (V) JORF 19 juillet 1984
+
 
 ###### Article 211
 
@@ -10445,6 +10559,52 @@ ainsi que les modèles des poinçons des fabricants.
 	**Modifié par**:
 
 	  - Décret n°80-871 du 30 octobre 1980 - art. 3 (V) JORF 7 NOVEMBRE 1980
+
+
+##### Section IV bis : Exportations.
+
+###### Article 211 AA
+
+Le remboursement du droit de garantie prévu à l'article 542 du code général des impôts peut être effectué par voie
+d'imputation sur les droits dus au titre des opérations taxables si le redevable est placé sous le régime du paiement
+mensuel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 542
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-623 du 16 juillet 1984 - art. 5 (V) JORF 19 juillet 1984
+
+
+###### Article 211 AB
+
+L'administration des impôts peut autoriser les fabricants qui exportent habituellement des ouvrages revêtus de l'empreinte
+des poinçons intérieurs à détenir le poinçon spécial d'exportation prévu à l'article 542 du code général des impôts.
+
+Toute contravention aux dispositions relatives à la réglementation de la garantie entraîne la suspension provisoire ou le
+retrait de l'autorisation de détenir le poinçon spécial d'exportation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 542
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Créé par**:
+
+	  - Décret n°84-623 du 16 juillet 1984 - art. 6 (V) JORF 19 juillet 1984
 
 
 ##### Section VI : Frappe des médailles.
