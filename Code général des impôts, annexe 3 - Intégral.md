@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1997-06-01
+Version Consolidée au 1998-04-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -121,11 +121,11 @@ conclusion du bail.
 ###### Article 2 octies
 
 Pour l'application de l'article 15 ter du code général des impôts, les montants annuels des ressources du locataire sont
-limités à ((107.500 F)) en région Ile-de-France et à ((98.250 F)) (M) dans les autres régions pour une personne seule. Ces
+limités à ((108 690 F)) en région Ile-de-France et à ((99 340 F)) (M) dans les autres régions pour une personne seule. Ces
 montants sont doublés pour un couple marié.
 
 Ces montants s'entendent des revenus nets de frais professionnels du locataire figurant sur son avis d'imposition établi au
-titre des revenus de 1996.
+titre des revenus de ((1997)) (M).
 
 (M) Modification.
 
@@ -137,22 +137,22 @@ titre des revenus de 1996.
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°98-400 1998-05-22
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 2 () JORF 1er juin 1997
+	  - Loi - art. 2 () JORF 31 décembre 1997
 
 
 ###### Article 2 septies
 
-Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder ((561
-F)) (M) annuels par mètre carré de surface habitable en région Ile-de-France et ((498 F)) annuels par mètre carré de surface
-habitable dans les autres régions (M).
+Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder ((578
+F)) (M) annuels par mètre carré de surface habitable en région Ile-de-France et ((513 F)) (M) annuels par mètre carré de
+surface habitable dans les autres régions.
 
 Pendant la durée mentionnée à l'article 15 ter déjà cité, l'augmentation annuelle du loyer ne peut être supérieure à celle de
 l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études
@@ -168,15 +168,15 @@ l'indice national mesurant le coût de la construction publié par l'Institut na
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°98-400 1998-05-22
 
 	**Modifié par**:
 
-	  - Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### 2° : Mise aux normes des bâtiments agricoles. Déduction des dépenses d'amélioration et de construction
@@ -885,12 +885,12 @@ fonds est continuée dans les conditions prévues aux articles 41 ou 210 du code
 L'application des dispositions de l'alinéa précédent est subordonnée à l'obligation, pour les nouveaux exploitants, pour la
 société absorbante ou nouvelle ou pour la société bénéficiaire de l'apport :
 
-D'inscrire immédiatement à leur passif la provision figurant dans les écritures du précédent exploitant, des sociétés
+a. D'inscrire immédiatement à leur passif la provision figurant dans les écritures du précédent exploitant, des sociétés
 fusionnées ou de la société apporteuse et qui était afférente aux éléments transférés, en distinguant, suivant les modalités
 fixées à l'article 10 decies, le montant des dotations de chaque exercice ;
 
-De rattacher ultérieurement ces dotations à leurs bénéfices imposables dans les mêmes conditions qu'aurait dû le faire le
-précédent exploitant en application du sixième alinéa du 5° du 1 de l'article 39 du code général des impôts et de l'article
+b. De rattacher ultérieurement ces dotations à leurs bénéfices imposables dans les mêmes conditions qu'aurait dû le faire le
+précédent exploitant en application du neuvième alinéa du 5° du 1 de l'article 39 du code général des impôts et de l'article
 10 undecies ci-dessus.
 
 Cet engagement doit être joint à la déclaration des résultats de l'exercice de cession, de cessation ou de décès.
@@ -904,15 +904,15 @@ Cet engagement doit être joint à la déclaration des résultats de l'exercice 
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°98-400 1998-05-22
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 22 avril 1998
 
 	**Modifié par**:
 
-	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+	  - Loi - art. 6 () JORF 31 décembre 1997
 
 
 ###### Article 10 nonies
@@ -969,7 +969,7 @@ la détermination de cette durée.
 ###### Article 10 undecies
 
 La provision pour hausse des prix est rapportée de plein droit aux bénéfices imposables à l'expiration du délai prévu au
-sixième alinéa du 5° du 1 de l'article 39 du code général des impôts.
+neuvième alinéa du 5° du 1 de l'article 39 du code général des impôts.
 
 Lorsqu'elle est retenue pour l'application de cette disposition, la durée normale de rotation du stock d'une entreprise est
 forfaitairement exprimée en mois par le chiffre obtenu en divisant le nombre de mois compris dans les trois premiers
@@ -982,13 +982,13 @@ vendues au cours desdits exercices et, d'autre part, la moyenne des valeurs des 
 
 	  - CGI 39
 
-	**Modifié par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
-
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°98-400 1998-05-22
+
+	**Modifié par**:
+
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Cité par**:
 
@@ -996,7 +996,7 @@ vendues au cours desdits exercices et, d'autre part, la moyenne des valeurs des 
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### D : Provisions pour reconstitution des gisements
@@ -2936,7 +2936,7 @@ Pour l'application du 9 de l'article 38 du code général des impôts, les entre
 résultats de chaque exercice un état établi sur un document conforme au modèle fixé par l'administration.
 
 Cet état mentionne notamment, pour chaque participation, le prix d'acquisition, la valeur réelle, la valeur d'équivalence et
-le montant de la dépréciation définie au douzième alinéa du 5° du 1 de l'article 39 du code précité.
+le montant de la dépréciation définie au quinzième alinéa du 5° du 1 de l'article 39 du code précité.
 
 **Liens relatifs à cet article**
 
@@ -2944,17 +2944,17 @@ le montant de la dépréciation définie au douzième alinéa du 5° du 1 de l'a
 
 	  - CGI 38, 39
 
-	**Créé par**:
-
-	  - Décret n°90-149 1990-05-16 art. 1 JORF 22 mai 1990
-
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°98-400 1998-05-22
+
+	**Modifié par**:
+
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 24 juin 1991
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 38 C
@@ -7980,15 +7980,18 @@ plus-value dont le report d'imposition est demandé assorti des éléments néce
 
 Cette déclaration indique, en outre :
 
-La nature et la date de l'opération d'échange des titres ;
+a) La nature et la date de l'opération d'échange des titres ;
 
-La désignation des sociétés concernées ;
+b) La désignation des sociétés concernées ;
 
-Le nombre de titres remis et de titres reçus ainsi que leur valeur réelle unitaire à la date de l'opération d'échange ;
+c) Le nombre de titres remis et de titres reçus ainsi que leur valeur réelle unitaire à la date de l'opération d'échange ;
 
-La valeur nominale des titres reçus ;
+d) La valeur nominale des titres reçus ;
 
-Le montant de la soulte reçue, le cas échéant.
+e) Le montant de la soulte reçue, le cas échéant.
+
+f) S'il y a lieu, la désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange de titres ainsi
+que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange.
 
 **Liens relatifs à cet article**
 
@@ -7996,17 +7999,19 @@ Le montant de la soulte reçue, le cas échéant.
 
 	  - CGI 160, 97, 150 S, 150 A bis, 92 B
 
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°97-666 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 94 (V) JORF 31 décembre 1999
 
 
 ###### Article 41 quinvicies
@@ -8029,6 +8034,11 @@ d) La nature et la date de l'événement ayant entraîné la modification de ce 
 
 e) L'indication du régime de report d'imposition applicable à l'opération d'échange.
 
+((f) Le cas échéant, la désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange de titres
+ainsi que la quote-part des droits détenus dans la société ou le groupement à la date de l'échange)) (M).
+
+(M) Modification du décret 97-666.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -8036,29 +8046,23 @@ e) L'indication du régime de report d'imposition applicable à l'opération d'�
 	  - CGI 170
 	  - CGIAN3 41 quatervicies
 
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
-
 	**Modifié par**:
 
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°97-666 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 41 sexvicies
 
-A l'expiration du report, le montant de la plus-value dont l'imposition a été reportée dans les conditions prévues aux
-articles 41 quatervicies et 41 septvicies est mentionné, selon le cas, sur la déclaration spéciale prévue aux articles 97,
-150 S ou 160 du code général des impôts et souscrite au titre de l'année au cours de laquelle ((l'expiration du report est
-intervenue. Cette déclaration comporte la désignation des sociétés concernées et, le cas échéant, la désignation de la
-société ou du groupement interposé qui a réalisé l'opération d'échange, ainsi que la nature et la date de l'opération
-d'échange)) (M).
+((Le montant)) (M) de la plus-value dont l'imposition a été reportée dans les conditions prévues aux articles 41 quatervicies
+et 41 septvicies est mentionné, selon le cas, sur la déclaration spéciale prévue aux articles 97, 150 S ou 160 du code
+général des impôts et souscrite au titre de l'année au cours de laquelle l'expiration du report est intervenue. Cette
+déclaration comporte la désignation des sociétés concernées ainsi que la nature et la date de l'opération d'échange.
 
-(1) Modification du décret 97-666.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -8067,9 +8071,13 @@ d'échange)) (M).
 	  - CGI 97, 150 S, 160
 	  - CGIAN3 41 quatervicies, 41 septvicies
 
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
 	**Modifié par**:
 
-	  - Décret n°97-666 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 
 ##### A : Echange de valeurs mobilières et de droit sociaux.
@@ -8077,11 +8085,12 @@ d'échange)) (M).
 ###### Article 41 septvicies
 
 Les contribuables qui entendent bénéficier de la prorogation du report d'imposition dans les conditions prévues au III de
-l'article 92 B ((ou au 5 du I ter de l'article 160)) (M) du code général des impôts font apparaître distinctement, sur la
-déclaration spéciale prévue ((selon le cas, aux articles 97 ou 160)) (M) du code précité et souscrite au titre de l'année au
-cours de laquelle les titres reçus en échange ont été à leur tout échangés, le montant des plus-values dont la prorogation du
-report d'imposition est demandée. Cette déclaration comporte la désignation des sociétés concernées ainsi que la nature et la
-date des opérations d'échange de titres.
+l'article 92 B ou au 5 du I ter de l'article 160 du code général des impôts font apparaître distinctement, sur la déclaration
+spéciale prévue selon le cas, aux articles 97 ou 160 du code précité et souscrite au titre de l'année au cours de laquelle
+les titres reçus en échange ont été à leur tout échangés, le montant des plus-values dont la prorogation du report
+d'imposition est demandée. ((Cette déclaration comporte la désignation des sociétés concernées et, le cas échéant, la
+désignation de la société ou du groupement interposé qui a réalisé l'opération d'échange, ainsi que la nature et la date des
+opérations d'échange de titres)) (M).
 
 (M) Modification du décret.
 
@@ -8093,11 +8102,11 @@ date des opérations d'échange de titres.
 
 	**Modifié par**:
 
-	  - Décret n°97-317 du 2 avril 1997 - art. 1 () JORF 9 avril 1997
+	  - Décret n°97-666 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### B : Transfert dans le PEA de l'épargne investie dans certains OPCVM.
@@ -8448,7 +8457,7 @@ sociétés et organismes prévue à l'article 39 quinquies du code général des
 ###### Article 41 DC
 
 Pour l'application du I de l'article 15 bis, du III de l'article 35 bis et de l'article 92 L du code général des impôts, le
-prix de location ne doit pas excéder ((326 F)) (M) annuels par mètre carré habitable en région Ile-de-France, et ((271 F))
+prix de location ne doit pas excéder ((336 F)) (M) annuels par mètre carré habitable en région Ile-de-France, et ((279 F))
 (M) annuels par mètre carré habitable dans les autres régions.
 
 Ces prix sont révisés chaque année le 1er janvier en fonction de la variation annuelle de l'indice national mesurant le coût
@@ -8465,15 +8474,15 @@ l'indice est celle du deuxième trimestre de l'année précédente.
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°98-400 1998-05-22
 
 	**Modifié par**:
 
-	  - Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 41 DD
@@ -10209,8 +10218,8 @@ conformément aux modèles arrêtés par le ministre de l'économie et des finan
 La déclaration comporte notamment l'indication du montant, détaillé par nature de revenu et déterminé selon les modalités
 propres à chacun d'eux, des éléments qui composent le revenu brut global du contribuable.
 
-((Les contribuables doivent également déclarer, séparément, les revenus visés au troisième alinéa du 1 de l'article 49 F))
-(M).
+Les contribuables doivent également déclarer, séparément, les revenus visés ((respectivement aux troisième et quatrième
+alinéas)) (M) du 1 de l'article 49 (M).
 
 La déclaration mentionne séparément le montant des revenus, de quelque nature qu'ils soient, encaissés directement ou
 indirectement dans les territoires d'outre-mer, dans les Etats de la communauté et à l'étranger.
@@ -10221,12 +10230,11 @@ indirectement dans les territoires d'outre-mer, dans les Etats de la communauté
 
 	**Cite**:
 
-	  - CGI 170 1, 163
-	  - CGIAN3 49 F
+	  - CGI 170 1, 163, 49 F
 
 	**Modifié par**:
 
-	  - Décret n°97-318 1997-04-02 art. 1 1° JORF 9 avril 1997
+	  - Décret n°97-669 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Cité par**:
 
@@ -10234,7 +10242,7 @@ indirectement dans les territoires d'outre-mer, dans les Etats de la communauté
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 43
@@ -10711,8 +10719,8 @@ III. Une copie de la déclaration d'achèvement des travaux, accompagnée d'une 
 Pour l'application du 3° du premier alinéa de l'article 199 decies B du code général des impôts, les montants annuels du
 loyer et des ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus entre le 1er janvier et le 31 décembre ((1997)), les plafonds de loyer, charges non comprises, sont
-fixés à ((818 F)) annuels par mètre carré de surface habitable en région Ile-de-France et ((582 F)) annuels par mètre carré
+1. Pour les baux conclus entre le 1er janvier et le 31 décembre ((1998)), les plafonds de loyer, charges non comprises, sont
+fixés à ((843 F)) annuels par mètre carré de surface habitable en région Ile-de-France et ((600 F)) annuels par mètre carré
 de surface habitable dans les autres régions (M). Ces plafonds sont relevés chaque année le 1er janvier dans la même
 proportion que l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des
 études économiques. La date de référence de l'indice est celle du deuxième trimestre de l'année précédente.
@@ -10720,14 +10728,14 @@ proportion que l'indice national mesurant le coût de la construction publié pa
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Les plafonds annuels de ressources sont fixés, pour une personne seule, à ((159.670 F)) en région Ile-de-France et à
-((123.500 F)) dans les autres régions pour les revenus ((1996)) (M).
+Les plafonds annuels de ressources sont fixés, pour une personne seule, à ((161.430 F)) en région Ile-de-France et à
+((124.860 F)) dans les autres régions pour les revenus ((1997)) (M).
 
 Ces montants sont doublés pour un couple marié. Ils sont relevés chaque année dans la même proportion que la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu. Les montant obtenus sont arrondis, s'il y a lieu, à la
 centaine de francs supérieure.
 
-(M) Modifications du Décret 97-661.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -10737,56 +10745,14 @@ centaine de francs supérieure.
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°98-400 1998-05-22
 
 	**Modifié par**:
 
-	  - Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 46 AGB
-
-Pour l'application de l'article 199 decies C du code général des impôts, les contribuables sont tenus de joindre à leur
-déclaration de revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé :
-
-1° Une note comportant les éléments suivants :
-
-Adresse de l'immeuble concerné ;
-
-Date d'acquisition du local et nature de son occupation avant la vacance ;
-
-Engagement de louer le logement non meublé à usage de résidence principale du locataire pendant six ans ;
-
-2° Une copie de la décision de la délivrance du permis de construire ou, si le permis a été tacitement accordé, une copie de
-l'attestation par l'autorité compétente pour statuer, certifiant qu'aucune décision négative n'est intervenue à l'égard de la
-demande de permis de construire ;
-
-3° Une copie de la déclaration d'achèvement des travaux, accompagnée d'une pièce attestant de sa réception en mairie ;
-
-4° Une copie des factures d'électricité ou d'eau depuis le mois de juin 1992 jusqu'au début des travaux ou, à défaut, une
-attestation d'absence de branchement ou d'abonnement pour la même période.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 decies C
-
-	**Créé par**:
-
-	  - Décret n°93-942 du 21 juillet 1993 - art. 1 (V) JORF 23 juillet 1993
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 	  - HISTO: Edition du 22 avril 1998
 
 
@@ -10797,16 +10763,16 @@ attestation d'absence de branchement ou d'abonnement pour la même période.
 I. Pour l'application du 3° du 3 de l'article 199 undecies du code général des impôts, les montants annuels du loyer et des
 ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus en 1997, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
-habitable à :
+1. Pour les baux conclus en ((1998)), les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de
+surface habitable à (M):
 
-734 F dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque année
-le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
-consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° ((743 F)) dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
+année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
+consommation hors tabac de chacun des quatre départements d'outre-mer (M);
 
-960 F dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond est
-révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices
-des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° ((983 F)) dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond
+est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des
+indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie (M).
 
 Pour le calcul de ces plafonds, il est fait application de la dernière variation annuelle publiée par l'Institut national de
 la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
@@ -10814,10 +10780,17 @@ la statistique et des études économiques au 1er décembre de l'année qui pré
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 1997, les plafonds annuels de ressources sont fixés à 132 610 F pour une personne seule et à 265 220
-F pour un couple marié soumis à imposition commune. Ces sommes sont majorées de 15 310 F par personne à charge au sens des
-articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 20 410 F par enfant à partir du troisième. Ces
-montants sont relevés chaque année selon les modalités définies au I.
+((Pour les baux conclus en 1998, les plafonds annuels de ressources sont fixés à :
+
+((1° 134 200 F pour une personne seule et 268 400 F pour un couple marié soumis à imposition commune dans les départements
+d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 15 500 F par personne à charge au sens
+des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 20 660 F par enfant à partir du troisième.
+Ces montants sont relevés chaque année selon les modalités définies au 1.
+
+((2° 134 450 F pour une personne seule et 268 900 F pour un couple marié soumis à imposition commune dans les territoires
+d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 15 530 F par personne à
+charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 20 700 F par enfant à partir
+du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.)) (M).
 
 3. Dans le cas mentionné au troisième alinéa du 4 de l'article 199 undecies du code général des impôts, les conditions
 prévues au 1 et au 2 s'apprécient en tenant compte du montant :
@@ -10854,23 +10827,25 @@ La société délivre en double exemplaire à chaque souscripteur un document at
 sous-location remplissent les conditions prévues par le présent article. Le souscripteur en joint un exemplaire à sa
 déclaration de revenus de l'année au cours de laquelle le bail est signé.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 199 undecies, 196 à 196 B
 
-	**Créé par**:
-
-	  - Décret n°96-636 du 16 juillet 1996 - art. 1 () JORF 19 juillet 1996
-
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°98-400 1998-05-22
+
+	**Modifié par**:
+
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 46 AG nonies
@@ -11251,128 +11226,6 @@ respect de l'une des conditions prévues à l'article 22-1 de la loi du 23 déce
 	  - HISTO: Edition du 11 avril 1997
 
 
-##### 7° : Réduction d'impôt pour dépenses de formation du chef d'entreprise
-
-###### Article 46 AJ
-
-Constituent des organismes de formation agréés par l'Etat pour l'application du deuxième alinéa de l'article 199 quater E du
-code général des impôts :
-
-1° Les chambres de commerce et d'industrie ;
-
-2° Les chambres de métiers ;
-
-3° Les centres de gestion agréés prévus à l'article 1649 quater C du code général des impôts, pour les actions de formation
-de leurs adhérents non couvertes par la cotisation d'adhésion ;
-
-4° Les fonds d'assurance-formation prévus à l'article L. 961-10 du code du travail ;
-
-5° Les organismes de formation qui ont été préalablement agréés à cet effet par le ministre chargé du commerce et de
-l'artisanat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 quater E, 1649 quater C
-	  - Code du travail - art. L961-10 (M)
-
-	**Créé par**:
-
-	  - Décret n°92-815 1992-08-17 art. 1 JORF 22 août 1992
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 AK
-
-I. Les contribuables doivent exercer l'option prévue au troisième alinéa de l'article 199 quater E du code général des impôts
-au plus tard à la date limite de dépôt de la déclaration de résultat souscrite en 1993 au titre des exercices clos en 1992.
-
-Toutefois, les contribuables qui créent leur entreprise en 1993 ainsi que ceux qui exposent pour la première fois au cours de
-cette même année des dépenses ouvrant droit à la réduction d'impôt doivent exercer cette option au plus tard à la date limite
-de dépôt de la déclaration de résultat souscrite en 1994 au titre des exercices clos en 1993.
-
-II. L'option résulte du dépôt de la déclaration spéciale prévue pour le calcul de la réduction d'impôt qui devra être annexée
-à la déclaration annuelle de résultat prévue aux articles 53 A et 302 septies A bis du code général des impôts. Une copie de
-la déclaration spéciale doit être adressée dans le même délai à la direction du commerce intérieur du ministère chargé du
-commerce et de l'artisanat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 quater E, 53 A, 302 septies A bis
-
-	**Créé par**:
-
-	  - Décret n°92-815 du 17 août 1992 - art. 2 (V) JORF 22 août 1992
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 AL
-
-I. Les organismes de formation agréées qui ont dispensé des actions de formation ouvrant droit à la réduction d'impôt prévue
-à l'article 199 quater E du code général des impôts sont tenus de délivrer aux contribuables qui ont suivi ces actions de
-formation un certificat permettant aux intéressés de bénéficier de cette réduction d'impôt.
-
-II. Le certificat prévu au I doit comporter les indications suivantes :
-
-1° La désignation de l'organisme qui a dispensé la formation ;
-
-2° Les références de la décision d'agrément pour les organismes visés au 5° de l'article 46 AJ ;
-
-3° L'identité du bénéficiaire de l'action de formation ;
-
-4° L'objet de l'action de formation ;
-
-5° La date et la durée de l'action de formation ;
-
-6° Le prix payé à raison des prestations fournies ;
-
-7° La ventilation entre la fraction du prix qui se rapporte à des dépenses prises en compte pour le calcul de la réduction
-d'impôt et celle qui se rapporte à des prestations d'hébergement, de restauration et de transport ;
-
-8° Les modalités de règlement par le contribuable.
-
-Ce certificat est joint par le contribuable à l'appui de la déclaration spéciale prévue à l'article 46 AK.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 quater E
-	  - CGIAN3 46 AJ, 46 AK
-
-	**Créé par**:
-
-	  - Décret n°92-815 du 17 août 1992 - art. 3 (V) JORF 22 août 1992
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
 ##### 8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés.
 
 ###### Article 46 AM
@@ -11472,6 +11325,38 @@ Modification effectuée en conséquence de la péremption de l'article 199 terde
 
 	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 3
 	  - HISTO: Edition du 18 août 1993
+
+
+##### 8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.
+
+###### Article 46 AO bis
+
+Ainsi qu'il est dit au cinquième alinéa de l'article D. 129-11 du code du travail, l'entreprise ou l'association doit
+communiquer à chacun de ses clients une attestation fiscale annuelle, délivrée pour bénéficier de la réduction d'impôt
+définie à l'article 199 sexdecies du code général des impôts. Cette attestation mentionne le nom et l'adresse de l'organisme
+prestataire, son numéro d'identification, le numéro et la date de délivrance de l'agrément, le nom de la personne ayant
+bénéficié du service, son adresse, le numéro de son compte débité, le cas échéant, le montant effectivement acquitté, et un
+récapitulatif des interventions faisant apparaître le nom et le code identifiant de l'intervenant, ainsi que la date et la
+durée de l'intervention.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 sexdecies
+	  - Code du travail - art. D129-11 (M)
+
+	**Créé par**:
+
+	  - Décret n°96-562 du 24 juin 1996 - art. 1 () JORF 25 juin 1996
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### 9° : Réduction d'impôt au titre des intérêts des prêts à la consommation
@@ -12131,6 +12016,101 @@ impôts sont prélevées sur les bénéfices dans les conditions prévues au I d
 	**Liens**:
 
 	  - HISTO: Edition du 24 juin 1991
+
+
+##### Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne
+
+###### Article 46 quater-0 FB
+
+L'engagement prévu au c du 2 de l'article 119 ter du code général des impôts doit faire l'objet d'une déclaration qui est
+adressée à la fois à l'établissement payeur en France des dividendes et à la direction des services généraux et de
+l'informatique (centre des impôts des non-résidents). Cette déclaration doit être souscrite par la personne morale
+bénéficiaire des dividendes avant la date de la première mise en paiement des dividendes suivant la date d'inscription en
+compte des titres de la société émettrice.
+
+Elle comprend les renseignements suivants :
+
+a. l'engagement prévu au c du 2 de l'article 119 ter du code précité ;
+
+b. le nombre et la nature des titres composant le capital de la société émettrice ;
+
+c. le nombre et la nature des titres détenus par la personne morale dans la société émettrice ;
+
+d. la répartition en pourcentage des droits de vote et des droits financiers détenus par la personne morale dans la société
+émettrice ;
+
+e. le numéro du compte de la personne morale tenu par l'émetteur ou par l'intermédiaire financier chez lequel les titres sont
+inscrits ;
+
+f. la date de leur acquisition et la date de leur inscription en compte si elle est différente ;
+
+g. le nom et l'adresse de la personne ou de l'organisme qui assure le paiement des dividendes ;
+
+h. le nom et l'adresse de la personne désignée comme représentant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 ter
+
+	**Créé par**:
+
+	  - Décret n°97-389 du 22 avril 1997 - art. 1 () JORF 24 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 FC (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quater-0 FC
+
+La déclaration visée à l'article 46 quater 0-FB sera accompagnée de la reconnaissance par le représentant désigné qu'il est
+responsable, en cas de non-respect de l'engagement mentionné au même article, du paiement de la retenue à la source visée au
+1 de l'article 119 ter du même code, ainsi que, le cas échéant, des pénalités mentionnées à l'article 1765 bis du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 ter, 1765 bis, 46 quater-0 FB
+
+	**Créé par**:
+
+	  - Décret n°97-389 du 22 avril 1997 - art. 1 () JORF 24 avril 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quater-0 FD
+
+Le délai de deux ans prévu au c du 2 de l'article 119 ter du code général des impôts, pendant lequel les titres doivent être
+conservés, est décompté de la date de leur inscription en compte, à moins qu'il ne soit établi que la date d'acquisition des
+titres est différente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 ter
+
+	**Créé par**:
+
+	  - Décret n°97-389 du 22 avril 1997 - art. 1 () JORF 24 avril 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### Section V : Profits de construction
@@ -13362,7 +13342,7 @@ déduits à compter du 1er janvier 1985 pour le calcul de l'impôt.
 
 ###### Article 46 quater-0 ZA
 
-La provision pour dépréciation du portefeuille prévue aux onzième à treizième alinéas du 5° du 1 de l'article 39 du code
+La provision pour dépréciation du portefeuille prévue aux quatorzième à seizième alinéas du 5° du 1 de l'article 39 du code
 général des impôts doit être égale, au 1er janvier 1985, à la différence entre la valeur des titres à la clôture de
 l'exercice 1984 et leur valeur d'origine.
 
@@ -13372,24 +13352,24 @@ l'exercice 1984 et leur valeur d'origine.
 
 	  - CGI 39 1 5°
 
+	**Modifié par**:
+
+	  - Loi - art. 6 () JORF 31 décembre 1997
+
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°98-400 1998-05-22
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
-
-	**Modifié par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 46 quater-0 ZB
 
 A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
 constitué au 31 décembre 1984 des provisions pour un montant égal ou supérieur à 0,50 % de l'encours des crédits, les caisses
-sont tenues de faire figurer au 1er janvier 1985 à leur bilan la provision prévue au neuvième alinéa du 5° du 1 de l'article
+sont tenues de faire figurer au 1er janvier 1985 à leur bilan la provision prévue au douzième alinéa du 5° du 1 de l'article
 39 du code général des impôts pour un montant de 0,50 % de l'encours des crédits afférents auxdites opérations. Cette
 provision est constituée en ajoutant aux provisions pour risques sur crédit à moyen ou long terme comptabilisées au 31
 décembre 1984 les sommes nécessaires, prélevées sur les provisions à caractère général ou, à défaut, sur les réserves. Ce
@@ -13401,17 +13381,17 @@ complément est inscrit de façon distincte au bilan.
 
 	  - CGI 39 1 5°
 
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
 	**Modifié par**:
 
-	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
+	  - Loi - art. 6 () JORF 31 décembre 1997
 
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
+	  - Décret n°98-400 1998-05-22
 
 
 ###### Article 46 quater-0 ZC
@@ -13774,22 +13754,18 @@ de détention directe et indirecte par la société mère ;
 
 b) L'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble.
 
-c) ((L'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
-III de l'article 44 octies du code général des impôts)) (M).    (M) Modification.
+c) L'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
+III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 53 A, 223 A, 44 octies
+	  - CGI 53 A, 223 A, 44 octies, 44 decies
 
 	**Modifié par**:
 
-	  - Décret n°97-116 du 10 février 1997 - art. 2 () JORF 11 février 1997
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°97-343 1997-04-11 art. 5 1 JORF 13 avril 1997
 
 	**Cité par**:
 
@@ -13797,7 +13773,7 @@ III de l'article 44 octies du code général des impôts)) (M).    (M) Modificat
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 	  - TXT_ASSOCIE: Instruction 1995-03-24 4H-3-95
 
 
@@ -13813,7 +13789,7 @@ ou abandons.
 membres du groupe, à compter du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le
 montant de ces subventions ou abandons.
 
-2 Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au b de l'article 46 quater-0 ZK ;
+2 Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné à l'article 46 quater-0 ZK ;
 
 3 Un tableau de synthèse de ces rectifications ;
 
@@ -13822,14 +13798,13 @@ montant de ces subventions ou abandons.
 5 Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme d'ensemble
 et les crédits d'impôt susceptibles d'être utilisés par la société mère.
 
-6 Dans les situations visées ((aux c, d et e du 6 de l'article 223 L du code général des impôts)) (M), des états faisant
-apparaître :
+6 Dans les situations visées aux c, d et e du 6 de l'article 223 L du code général des impôts, des états faisant apparaître :
 
-((a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé et qui font partie
+a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé et qui font partie
 du nouveau groupe, mentionnée au 5 de l'article 223 I du même code, et la quote-part de ce déficit qui provient de chacune
-des sociétés pour lesquelles le bénéfice de cette imputation a été demandé ;)) (M)
+des sociétés pour lesquelles le bénéfice de cette imputation a été demandé ;
 
-b) L'imputation de ce déficit sur le bénéfice de la société ((qui en est titulaire)) (M) et sur les bénéfices des sociétés
+b) L'imputation de ce déficit sur le bénéfice de la société qui en est titulaire et sur les bénéfices des sociétés
 mentionnées ci-dessus ;
 
 c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du groupe de l'une des sociétés mentionnées ci-
@@ -13841,31 +13816,28 @@ suivre les réintégrations dont la société mère a demandé la dispense et un
 
 Ces renseignements sont présentés sur un des documents conformes aux modèles établis par l'administration.
 
-((8 Un document indiquant les sociétés du groupe relevant des dispositions de l'article 44 octies du code général des impôts,
-comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme d'ensemble
-exonérés en application du III de l'article 44 octies du code général des impôts)) (M).
+8 Un document indiquant les sociétés du groupe relevant des dispositions des ((articles 44 octies et 44 decies du code
+général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long
+terme d'ensemble exonérés en application du III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies du
+code général des impôts)) (M).
 
-(M) Modification.
+(M) Modification du décret 97-343.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 223 Q, 223 L, 223 I, 223 R, 44 octies
+	  - CGI 223 Q, 223 L, 223 I, 223 R, 44 octies, 44 decies
 	  - CGIAN3 46 quater-0 ZK
 
 	**Modifié par**:
 
-	  - Décret n°96-893 du 10 octobre 1996 - art. 2 () JORF 13 octobre 1996
-	  - Décret n°97-116 du 10 février 1997 - art. 3 () JORF 11 février 1997
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°97-343 1997-04-11 art. 5 2 JORF 13 avril 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
+	  - TXT_ASSOCIE: Instruction 1997-05-30 4H-4-97
 
 
 ###### Article 46 quater-0 ZM
@@ -14177,6 +14149,60 @@ sur un document conforme au modèle fixé par l'administration.
 	  - HISTO: Edition du 4 juillet 1992
 
 
+##### Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital
+
+###### Article 46 quater-0 ZZ
+
+La réserve spéciale visée au cinquième alinéa du f du troisième alinéa du I de l'article 219 du code général des impôts doit
+être individualisée dans un sous-compte distinct des autres comptes de réserves au passif du bilan.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219
+
+	**Créé par**:
+
+	  - Décret n°97-556 du 29 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quater-0 ZZ bis
+
+Pour bénéficier des dispositions du f du troisième alinéa du I de l'article 219 du code général des impôts, le contribuable
+doit joindre à la déclaration des résultats de la période d'imposition considérée les documents suivants conformes aux
+modèles établis par l'administration :
+
+a. un état de la répartition du capital social ;
+
+b. un engagement à souscrire au titre du premier de la série de trois exercices bénéficiaires pour lequel la société entend
+bénéficier des dispositions déjà citées ;
+
+c. un état de suivi des bénéfices imposés au taux réduit et à incorporer au capital.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219
+
+	**Créé par**:
+
+	  - Décret n°97-556 du 29 mai 1997 - art. 1 () JORF 30 mai 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
 
 ##### Section 00I : Sociétés d'investissement
@@ -14426,78 +14452,6 @@ Le montant des dépenses communes, ventilées par catégorie, et leur répartiti
 
 ##### Section 0I ter : Déductions fiscales ou réductions d'impôt accordées au titre de certains investissements réalisés outre-mer
 
-###### Article 46 quaterdecies A
-
-Les investissements productifs que les entreprises soumises à l'impôt sur les sociétés ou assujetties à un régime réel
-d'imposition peuvent, déduire de leurs résultats imposables en vertu de l'article 238 bis HA-I du code général des impôts
-s'entendent des acquisitions ou créations d'immobilisations neuves, amortissables, affectées aux opérations professionnelles
-des établissements exploités dans les départements d'outre-mer et appartenant aux secteurs d'activité de l'industrie, de la
-pêche, de l'hôtellerie, du tourisme, des énergies nouvelles, de l'agriculture, du bâtiment et des travaux publics, des
-transports et de l'artisanat.
-
-Les dispositions de l'alinéa précédent sont applicables aux investissements productifs réalisés à compter du 1er janvier 1992
-dans le secteur de la maintenance au profit d'activités industrielles et dans celui de la production et de la diffusion
-audiovisuelles et cinématographiques.
-
-((Les dispositions du premier alinéa sont également applicables aux investissements productifs, réalisés à compter du 1er
-juillet 1993, nécessaires à l'exploitation d'une concession de service public local à caractère industriel et commercial,
-pour la partie de ces investissements qui n'est pas financée par une subvention publique)). (1).
-
-(1) Modification du décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HA I
-
-	**Modifié par**:
-
-	  - Décret n°94-7 1994-01-04 art. 1 JORF 6 janvier 1994
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 quaterdecies B
-
-Les activités qui relèvent du secteur industriel sont celles qui concourent directement à l'élaboration ou à la
-transformation de biens corporels mobiliers. Est assimilée à de telles activités l'extraction des minerais figurant sur une
-liste fixée par arrêté du ministre du budget (1).
-
-Les activités qui relèvent du secteur de la maintenance au profit d'activités industrielles sont celles qui concourent à
-l'entretien ou à la réparation du matériel de production exploité dans le secteur industriel défini à l'alinéa précédent.
-
-**Nota:**
-
-(1) Ann. IV 23 L ter.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN4 23 L ter
-
-	**Modifié par**:
-
-	  - Décret n°92-440 du 19 mai 1992 - art. 2 () JORF 20 mai 1992
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
 ###### Article 46 quaterdecies BA
 
 Les activités qui relèvent du secteur de la production audiovisuelle et cinématographique sont celles qui concourent
@@ -14532,269 +14486,6 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2002-5
 
 	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
 	  - HISTO: Edition du 4 juillet 1992
-
-
-###### Article 46 quaterdecies C
-
-La valeur des immobilisations à retenir pour le calcul de la déduction est constituée par le prix d'achat ou le prix de
-revient diminué, si l'entreprise est assujettie à la taxe sur la valeur ajoutée, de la taxe déductible conformément aux
-dispositions de l'article 229 de l'annexe II au code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 229
-
-	**Créé par**:
-
-	  - Décret n°80-450 du 23 juin 1980 - art. 3 (V) JORF 25 juin 1980
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 quaterdecies D
-
-La déduction est pratiquée par l'entreprise propriétaire. Elle est opérée sur les résultats imposables, déterminés avant tout
-autre déduction ou abattement, de l'exercice au cours duquel l'immobilisation a été livrée à l'entreprise ou créée par elle.
-
-Si l'immobilisation fait l'objet d'un contrat de crédit-bail, la déduction est pratiquée par l'entreprise locataire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°80-450 du 23 juin 1980 - art. 4 (V) JORF 25 juin 1980
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 quaterdecies DA
-
-Lorsqu'une entreprise entend bénéficier de la déduction prévue au septième alinéa du I de l'article 238 bis HA du code
-général des impôts, elle est tenue, pour chaque logement, de joindre à sa déclaration de bénéfice de l'exercice au titre
-duquel elle pratique la déduction les documents mentionnés aux 1 à 3 du II de l'article 46 AG decies ainsi que celui
-mentionné au 4 du même II qui concerne le locataire.
-
-Si le bail n'est pas signé à la date de souscription de la déclaration susvisée, les documents relatifs au bail et au
-locataire sont joints à la déclaration de l'exercice au cours duquel le bail est signé. Il en est de même en cas de
-changement de locataire pendant la période mentionnée au 2 du II de l'article 46 AG decies déjà cité.
-
-Pour l'application du 2° du septième alinéa du I de l'article 238 bis HA du code général des impôts, les montants annuels du
-loyer et des ressources du locataire ne peuvent excéder les limites mentionnées aux 1 et 2 du I de l'article 46 AG decies.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HA
-	  - CGIAN3 46 AG decies
-
-	**Créé par**:
-
-	  - Décret n°96-636 du 16 juillet 1996 - art. 2 () JORF 19 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 quaterdecies E
-
-Les souscriptions dont la déduction est autorisée par le II ou le II bis de l'article 238 bis HA du code général des impôts
-ou qui ouvrent droit à la réduction d'impôt prévue à l'article 199 undecies du même code s'entendent des souscriptions en
-numéraire au capital des sociétés de développement régional des départements d'outre-mer et des entreprises passibles de
-l'impôt sur les sociétés exploitées dans les départements d'outre-mer et qui exercent exclusivement leur activité dans le
-secteur industriel au sens de l'article 46 quaterdecies B ou dans les secteurs de la pêche, de l'hôtellerie, du tourisme, des
-énergies nouvelle, de l'agriculture, du bâtiment et des travaux publics, des transports et de l'artisanat.
-
-Les dispositions du premier alinéa sont applicables aux souscriptions réalisées à compter du 1er janvier 1992 dans le secteur
-de la maintenance au profit d'activités industrielles et dans celui de la production et de la diffusion audiovisuelles et
-cinématographiques.
-
-Les dispositions du premier alinéa sont également applicables aux souscriptions au capital de sociétés concessionnaires,
-définies au II de l'article 238 bis HA du code déjà cité et réalisées à compter du 1er juillet 1993.
-
-La valeur d'origine des éléments d'actif autres que ceux nécessaires à l'exercice de l'activité ouvrant droit à déduction ne
-doit pas excéder 10 % du montant total de l'actif brut de la société.
-
-((La déduction prévue par le II ter de l'article 238 bis HA déjà cité s'applique aux souscriptions en numéraire au capital de
-sociétés visées au même II ter et réalisées à compter du 1er avril 1996)) (M).
-
-(M) Modification du décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HA, 199 undecies
-
-	**Modifié par**:
-
-	  - Décret n°96-636 du 16 juillet 1996 - art. 2 () JORF 19 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 quaterdecies F
-
-Si les actions ou parts souscrites figurent à l'actif d'une entreprise, celle-ci pratique la déduction sur ses résultats
-imposables, déterminés avant tout autre déduction ou abattement, de l'exercice au cours duquel les fonds ont été versés. 
-
-En cas de versements échelonnés, ceux-ci sont pris en compte au titre de chacun des exercices ou années au cours desquels ils
-ont été effectués.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 quaterdecies G
-
-Lorsqu'un contribuable entend bénéficier de la déduction prévue par ((le II, II bis ou II ter)) (M) de l'article 238 bis HA
-du code général des impôts ou de la réduction d'impôt prévue par l'article 199 undecies du même code à raison de la
-souscription d'actions ou de parts d'une société mentionnée à l'article 46 quaterdecies E, il fait connaître son intention à
-cette société au plus tard le 31 décembre de l'année de la souscription. Si la souscription a été reçue par un intermédiaire
-agréé au sens de l'article 75-0 J de l'annexe II au code précité le contribuable fait connaître à cet intermédiaire son
-intention de bénéficier de la déduction ou de la réduction d'impôt.
-
-Dans ce cas, la société ou l'intermédiaire agréé délivre au contribuable une attestation indiquant le montant des fonds
-versés, la date du versement, le nombre des parts ou actions souscrites et, le cas échéant, leurs numéros. 
-
-L'attestation précise qu'elle est délivrée pour l'application des dispositions ((du II, II bis ou II ter)) (M) de l'article
-238 bis HA du code général des impôt et de l'article 199 undecies du même code et que la société bénéficiaire de l'apport
-exerce son activité dans les conditions prévues à l'article 46 quaterdecies E.
-
-Pour l'application du III ter et du III quater de l'article 238 bis HA du code général des impôts, l'avis du ministre des
-départements et territoires d'outre-mer est donné dans un délai de trente jours à compter de l'envoi de la demande du
-ministre du budget.
-
-Lorsque le ministre du budget a délégué son pouvoir de décision aux directeurs des services fiscaux des départements d'outre-
-mer, en application des dispositions du I de l'article 1649 nonies du code général des impôts, l'avis est donné dans les
-trente jours par le préfet du département d'outre-mer concerné, représentant le ministre des départements et territoires
-d'outre-mer. Cet avis sera toutefois donné par le ministre lorsqu'il aura évoqué le dossier ou bien lorsque le préfet le lui
-aura transmis compte tenu des caractéristiques propres à la demande.
-
-(M) Modifications du décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis HA, 199 undecies, 1649 nonies
-	  - CGIAN2 75-0
-	  - CGIAN3 46 quaterdecies E
-
-	**Modifié par**:
-
-	  - Décret n°96-636 du 16 juillet 1996 - art. 2 () JORF 19 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 46 quaterdecies H
-
-Pour bénéficier de la déduction de leurs souscriptions ou de la réduction d'impôt à laquelle celles-ci ouvrent droit, les
-contribuables joignent, selon le cas, à leur déclaration de bénéfices ou de revenus l'attestation qui leur a été remise
-conformément à l'article 46 quaterdecies G.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 46 quaterdecies G
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-
-	**Modifié par**:
-
-	  - Loi n°86-824 du 11 juillet 1986 - art. 22 (P) JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-
-###### Article 46 quaterdecies I
-
-Les souscriptions qui donnent lieu à l'établissement de l'attestation prévue à l'article 46 quaterdecies G ne sont pas
-susceptibles d'ouvrir droit à la détaxation du revenu investi en actions prévue par l'article 163 sexies du code général des
-impôts.
-
-Les sociétés bénéficiaires des apports ou les intermédiaires agréés qui ont reçu des souscriptions au titre desquelles le
-souscripteur a déclaré se placer sous le régime de déduction prévu par le ((II, II bis ou II ter)) (M) de l'article 238 bis
-HA du code général des impôts et l'article 199 undecies du même code ne prennent pas en compte ces opérations pour le calcul
-du solde annuel des acquisitions et des cessions à faire figurer sur les états qu'ils délivrent pour l'application du régime
-de détaxation du revenu investi en actions en vertu de l'article 163 sexies du code précité.
-
-(M) Modification du décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 163 sexies, 238 bis HA, 199 undecies
-	  - CGIAN3 46 quaterdecies
-
-	**Modifié par**:
-
-	  - Décret n°96-636 du 16 juillet 1996 - art. 2 () JORF 19 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
 
 
 ##### Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles
@@ -14965,6 +14656,146 @@ Le ministre de la culture délivre, à la demande des sociétés concernées, le
 	**Liens**:
 
 	  - HISTO: Edition du 31 juillet 1986
+
+
+##### Section 0I quinquies : Financement en capital de la pêche artisanale
+
+###### Article 46 quindecies G
+
+Les apports au capital des sociétés pour le financement de la pêche artisanale mentionnées à l'article 238 bis HO du code
+général des impôts font l'objet d'un agrément délivré dans les conditions prévues à l'article 1649 nonies dudit code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 238 bis HO, 1649 nonies
+
+	**Créé par**:
+
+	  - Décret n°98-124 du 2 mars 1998 - art. 1 () JORF 4 mars 1998
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quindecies H
+
+Pour l'application de l'article 238 bis HP du code général des impôts, le délai de cinq ans pendant lequel une même personne
+ne peut détenir, directement ou indirectement, plus de 25 % du capital de la société agréée est décompté de la date de
+souscription au capital initial de la société ou, en cas d'apports ultérieurs, de la date de la dernière augmentation de
+capital.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-124 du 2 mars 1998 - art. 1 () JORF 4 mars 1998
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis HP (V)
+
+
+###### Article 46 quindecies I
+
+Pour l'application de l'article 238 bis HP du code général des impôts, les droits qu'une personne détient indirectement dans
+une société pour le financement de la pêche artisanale s'entendent de ceux détenus :
+
+a) Par l'intermédiaire d'une chaîne de participation ; le pourcentage de détention est calculé en multipliant entre eux les
+taux de participation successifs ;
+
+b) Par les personnes physiques ou morales ayant avec cette personne un lien de dépendance au sens du 1 bis de l'article 39
+terdecies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-124 du 2 mars 1998 - art. 1 () JORF 4 mars 1998
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quindecies J
+
+Le délai de détention de cinq ans des parts de copropriétés de navires de pêche mentionné à l'article 238 bis HP du code
+général des impôts est décompté du jour de la mise en service du navire ou de la date de constitution de la copropriété si
+elle est postérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-124 du 2 mars 1998 - art. 1 () JORF 4 mars 1998
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis HP (V)
+
+
+###### Article 46 quindecies K
+
+Pour bénéficier de l'avantage fiscal prévu aux articles 163 duovicies et 271 decies du code général des impôts, le
+souscripteur au capital agréé d'une société pour le financement de la pêche artisanale doit joindre à sa déclaration de
+revenus ou de résultats un relevé délivré par cette société et comprenant :
+
+a. L'identité et l'adresse de l'actionnaire ;
+
+b. Le montant du capital agréé et la date de l'agrément ;
+
+c. Le nombre et les numéros des actions souscrites, le montant et la date de leur souscription ;
+
+d. La quote-part du capital détenue par le souscripteur ;
+
+e. La date et le montant des versements effectués au titre de la souscription des actions ;
+
+f. Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire ainsi que le montant et la date des
+cessions.
+
+Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la société pour le
+financement de la pêche artisanale adresse, avant le 16 février de l'année suivante, à la direction des services fiscaux du
+domicile du cédant le relevé mentionné au premier alinéa ou un duplicata de ce relevé.
+
+Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 duovicies, 271 decies
+
+	**Créé par**:
+
+	  - Décret n°98-124 du 2 mars 1998 - art. 1 () JORF 4 mars 1998
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 46 quindecies L
+
+Les sociétés anonymes mentionnées à l'article 238 bis HP du code général des impôts joignent à leur déclaration annuelle de
+résultats une attestation indiquant que les navires de pêche acquis sont exploités de façon directe et continue par des
+artisans pêcheurs ou des sociétés de pêche répondant aux conditions mentionnées à l'article 44 nonies du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°98-124 du 2 mars 1998 - art. 1 () JORF 4 mars 1998
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis HP (V)
 
 
 ##### Section I : Déclarations des commissions, courtages, ristournes, honoraires et droits d'auteur
@@ -15201,11 +15032,11 @@ Cette déclaration ne concerne pas les bons et titres soumis d'office au prélè
 I. La déclaration prévue à l'article 49 D doit comprendre :
 
 1° L'identification du déclarant : nom et prénoms ou raison sociale, adresse complète et numéro Siret lorsqu'il a été
-attribué par l'I.N.S.E.E..
+attribué par l'INSEE.
 
 2° L'identification de la nature des opérations réalisées et la référence aux comptes concernés ;
 
-3° L'identification du bénéficiaire ou du cocontractant :
+3° L'identification du souscripteur, du bénéficiaire ou du cocontractant :
 
 a. Pour les personnes physiques, nom patronymique, nom marital, prénoms, sexe, date et lieu de naissance, adresse du dernier
 domicile connu au 1er janvier de l'année de souscription de la déclaration ;
@@ -15225,15 +15056,6 @@ conditions fixées par arrêté.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°85-200 1985-02-13 art. 2, art. 3 JORF 15 février 1985
-	  - Décret n°85-200 du 13 février 1985 - art. 3 (V) JORF 15 février 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
-
 	**Cité par**:
 
 	  - Arrêté du 6 mai 2009 - art. 1 (V)
@@ -15247,9 +15069,14 @@ conditions fixées par arrêté.
 
 	  - CGIAN3 49 D
 
+	**Modifié par**:
+
+	  - Décret n°97-1158 du 17 décembre 1997 - art. 1 () JORF 19 décembre 1997
+	  - Décret n°97-1158 du 17 décembre 1997 - art. 5 (V) JORF 19 décembre 1997
+
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 49 F
@@ -15261,12 +15088,15 @@ impôts devra apparaître distinctement.
 
 Le montant de l'avoir fiscal ou du crédit d'impôt attaché à ces revenus est mentionné séparément.
 
-((Doivent également être mentionnés séparément, lorsque la contribution pour le remboursement de la dette sociale leur a déjà
+Doivent également être mentionnés séparément, lorsque la contribution pour le remboursement de la dette sociale leur a déjà
 été appliquée en application de l'article 1600-0 J du code général des impôts, les produits attachés à un bon ou contrat de
 capitalisation ou à un placement de même nature libellé en francs, les produits capitalisés d'un plan d'épargne populaire
 ainsi que les répartitions d'un fonds commun de placement à risques et les distributions d'une société de capital-risque qui
 ont bénéficié d'une exonération conditionnelle d'impôt sur le revenu et qui, par suite du non-respect des conditions prévues
-par la loi, deviennent imposables à l'impôt sur le revenu.)) (M)
+par la loi, deviennent imposables à l'impôt sur le revenu.
+
+Les revenus des placements visés au troisième alinéa doivent également être mentionnés séparément, lorsque la contribution
+sociale généralisée leur a déjà été appliquée sur le fondement du II de l'article 1600-0 D du code général des impôts.
 
 2. Lorsque les revenus ou les gains sont libérés de l'impôt sur le revenu par application d'un prélèvement, la déclaration
 comporte l'indication de celui-ci ainsi que le montant du revenu brut ou du gain qui lui a servi de base.
@@ -15274,17 +15104,15 @@ comporte l'indication de celui-ci ainsi que le montant du revenu brut ou du gain
 3. Lorsqu'ils ne sont pas dispensés de déclaration par le 1 de l'article 242 ter du code général des impôts, les produits
 exonérés de l'impôt sur le revenu sont déclarés pour leur montant net.
 
-(M) Modification du décret.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 125 A, 1600-0 J, 242 ter
+	  - CGI 125 A, 1600-0 D, 1600-0 J, 242 ter
 
 	**Modifié par**:
 
-	  - Décret n°97-318 du 2 avril 1997 - art. 1 () JORF 9 avril 1997
+	  - Décret n°97-669 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Cité par**:
 
@@ -15292,7 +15120,7 @@ exonérés de l'impôt sur le revenu sont déclarés pour leur montant net.
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 49 G
@@ -15300,25 +15128,30 @@ exonérés de l'impôt sur le revenu sont déclarés pour leur montant net.
 La déclaration comporte, par nature d'opérations et en fonction des caractéristiques des produits, le détail des bons ou
 titres mentionnés à l'article 990 A du code général des impôts qui ont été souscrits, remboursés ou qui ont donné lieu au
 paiement d'intérêts au cours de l'année considérée, lorsque le détenteur a fait connaître son identité et son domicile
-fiscal.
+fiscal. 
+
+Elle comporte également, par nature d'opérations et en fonction des caractéristiques des produits, le détail des bons, titres
+ou contrats mentionnés au deuxième alinéa de l'article 990 A du code général des impôts qui ont été souscrits, remboursés ou
+qui ont donné lieu au paiement d'intérêts au cours de l'année considérée, lorsque le souscripteur et la personne
+nominativement désignée initialement, si elle est différente, ont autorisé, lors de la souscription, l'établissement auprès
+duquel les bons, titres ou contrats ont été souscrits à communiquer leur identité et leur domicile fiscal à l'administration,
+et à condition que les bons, titres ou contrats n'aient pas été cédés (1). 
+
+(1) Dispositions applicables aux bons, titres ou contrats souscrits à compter du 1er janvier 1998.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 990 A
-
-	**Créé par**:
-
-	  - Décret n°85-200 du 13 février 1985 - art. 7 (V) JORF 15 février 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°97-1158 du 17 décembre 1997 - art. 2 () JORF 19 décembre 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - SPEC_APPLI: Décret n°97-1158 du 17 décembre 1997 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 990 A (V)
 
 
 ###### Article 49 H
@@ -15376,6 +15209,56 @@ l'annexe II au code général des impôts.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1985
+
+
+##### 3° : Obligations des établissements auprès desquels ont été souscrits des bons, titres ou contrats nominatifs
+
+###### Article 49 I bis
+
+Pour les bons, titres ou contrats qui ne sont pas soumis d'office au prélèvement de l'article 990 A du code général des
+impôts, les établissements sont tenus : 
+
+I. D'établir un document sur lequel figurent dans une suite continue par date d'émission ou de souscription : 
+
+1° Le numéro du bon, titre ou contrat ; 
+
+2° Le montant des sommes versées par le souscripteur et la date du versement ; 
+
+3° Le terme du bon, titre ou contrat ; 
+
+4° L'identité, la date de naissance et le domicile du souscripteur et de la personne nominativement désignée initialement ; 
+
+5° Et, lors du remboursement, l'identité, la date de naissance et le domicile de la personne qui obtient le remboursement du
+bon, titre ou contrat lorsque celle-ci bénéficie du régime fiscal de droit commun. 
+
+Les établissements indiquent également sur ce document la nature des pièces justificatives d'identité et de domicile
+présentées lors de la souscription et du remboursement par le souscripteur et la personne nominativement désignée
+initialement, si elle est différente, ainsi que, le cas échéant, par l'ayant droit à titre gratuit et, dans ce dernier cas,
+précisent la nature de la pièce produite justifiant la qualité d'ayant droit ; 
+
+II. De faire figurer sur ces bons, titres ou contrats les indications suivantes : 
+
+1° Le numéro du bon, titre ou contrat ; 
+
+2° Le montant des sommes versées par le souscripteur et la date du versement ; 
+
+3° Et le terme du bon, titre ou contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-1158 du 17 décembre 1997 - art. 3 (V) JORF 19 décembre 1997
+	  - Décret n°97-1158 du 17 décembre 1997 - art. 4 (V) JORF 19 décembre 1997
+	  - Décret n°97-1158 du 17 décembre 1997 - art. 5 (V) JORF 19 décembre 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 990 A (V)
 
 
 ##### Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts
@@ -15531,6 +15414,117 @@ du résultat.
 	**Liens**:
 
 	  - HISTO: Edition du 11 avril 1997
+
+
+##### Section II quinquies : Entreprises implantées en Corse
+
+###### Article 49 Q
+
+Lorsque le début ou le terme de la période d'exonération prévus au I de l'article 44 decies du code général des impôts ne
+coïncide pas avec le début ou le terme de l'année ou de l'exercice d'imposition, la règle du prorata du temps est appliquée
+pour déterminer la fraction du bénéfice imposable et celle du bénéfice exonéré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-343 du 11 avril 1997 - art. 1 (V) JORF 13 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 du 22 mai 1998
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 decies
+
+
+###### Article 49 R
+
+Le contribuable qui peut bénéficier des dispositions de l'article 44 decies du code général des impôts doit joindre à la
+déclaration afférente au résultat de chaque période d'imposition des bénéfices :
+
+1. Un état qui mentionne les renseignements suivants :
+
+a. La nature exacte de l'activité de l'entreprise, l'implantation précise de son siège et de ses établissements, sa situation
+au regard des aides à l'investissement visées au quatrième alinéa du I de l'article 44 decies du code général des impôts ;
+
+b. L'effectif des salariés, la nature du contrat de travail de chacun d'eux, la durée du temps de travail prévue par ce
+contrat et le temps de travail effectif de chaque salarié au cours de l'exercice ;
+
+2. Un document conforme à un modèle établi par l'administration comportant les éléments nécessaires à la détermination et au
+suivi des bénéfices exonérés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 44 decies
+
+	**Créé par**:
+
+	  - Décret n°97-343 du 11 avril 1997 - art. 2 (V) JORF 13 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 49 S
+
+Pour l'application du III de l'article 44 decies du code général des impôts, le contribuable est réputé avoir exercé
+l'ensemble de son activité en Corse s'il n'a pas disposé, en dehors des départements de Corse et au cours de l'année ou de
+l'exercice considéré, d'immobilisations corporelles au sens du 1° de l'article 1467 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 44 decies, 1467
+
+	**Créé par**:
+
+	  - Décret n°97-343 du 11 avril 1997 - art. 3 (V) JORF 13 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 49 T
+
+L'option mentionnée au XI de l'article 44 decies du code général des impôts est notifiée, sur un document conforme à un
+modèle établi par l'administration, au service des impôts auprès duquel est souscrite la déclaration du résultat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-343 du 11 avril 1997 - art. 4 (V) JORF 13 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 du 22 mai 1998
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 decies
 
 
 ##### Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts
@@ -15936,8 +15930,7 @@ de l'année de création ou de l'année au cours de laquelle ont été exposées
 L'option résulte du dépôt de la déclaration spéciale prévue pour le calcul du crédit d'impôt qui devra être annexée à la
 déclaration annuelle de résultat que les entreprises sont tenues de déposer en vertu de l'article 53 A du code général des
 impôts ou du 1 de l'article 223 du même code. Une copie de la déclaration spéciale doit être adressée dans le même délai à la
-direction du développement scientifique et technologique et de l'innovation du ministère chargé de la recherche et de la
-technologie.
+direction de la technologie.
 
 **Liens relatifs à cet article**
 
@@ -15947,7 +15940,7 @@ technologie.
 
 	**Modifié par**:
 
-	  - Décret n°93-506 du 25 mars 1993 - art. 4 () JORF 27 mars 1993
+	  - Décret n°98-269 du 6 avril 1998 - art. 2 () JORF 11 avril 1998
 
 	**Cité par**:
 
@@ -15956,7 +15949,7 @@ technologie.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 49 septies N
@@ -16825,9 +16818,10 @@ l'article 238 bis-0 I du code général des impôts est établi sur un document 
 
 La liste des intermédiaires agréés prévue à l'article 248 C du code général des impôts est fixée comme suit : 
 
-((Les prestataires de services d'investissement)) (M) ;
+Les prestataires de services d'investissement ;
 
-La Banque française du commerce extérieur (1) ; 
+((la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet
+1966 sur les sociétés commerciales)) (M);
 
 La Banque de France ; 
 
@@ -16849,27 +16843,24 @@ Le Crédit foncier de France.
 
 (M) Modification.
 
-(1) Loi 97-1239 1997-12-29 art. 41 V Finances rectificative pour 1997 : les mots "Banque française du commerce extérieur"
-sont remplaçés par les mots : "la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la
-loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales".
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 248 C
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
+	  - Loi n°66-537 1966-07-24 art. 355-1
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 	**Modifié par**:
 
-	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
+	  - Loi n°97-1239 1997-12-29 art. 41-V Finances rectificative pour 1997 JORF 30 décembre 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -21333,6 +21324,43 @@ droits indirects au comité des fruits à cidre et des productions cidricoles.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 143 H (V)
 
 
+##### II bis : Régime économique du rhum
+
+###### Article 144 bis
+
+I. Les soumissions cautionnées des rhums et tafias hors contingent établies sous l'emprise du décret n° 51-77 du 10 janvier
+1951 continuent d'être régies par les dispositions de ce décret. 
+
+II. La réexportation ou la réexpédition vers un autre Etat membre de la Communauté européenne de rhums traditionnels des
+départements d'outre-mer imputés sur le contingent prévu à l'article 362 du code général des impôts et préalablement importés
+en France métropolitaine ouvrent droit à un abondement à due concurrence du contingent d'origine. Cette augmentation est sans
+influence sur l'évolution du contingent attribué à la distillerie. 
+
+III. Les certificats d'exportation préalable relatifs à des livraisons à l'étranger de rhums traditionnels des départements
+d'outre-mer sous l'emprise du décret n° 48-1590 du 8 octobre 1948 continuent d'être régis par les dispositions de ce décret. 
+
+IV. Les conditions d'application du présent article sont fixées par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-655 du 30 mai 1997 - art. 1 (V) JORF 1er juin 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 52 quater (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 362 (V)
+
+
 ##### III : Dispositions diverses
 
 ##### 1° : Construction d'usines nouvelles (1).
@@ -21736,6 +21764,37 @@ les vins traités est admise en décharge pour l'assiette du droit de circulatio
 
 
 
+###### Article 178-0 bis
+
+Les marchands en gros, les importateurs et les personnes qui réalisent des acquisitions intracommunautaires, redevables du
+droit de circulation dans les conditions visées à l'article 439 du code général des impôts, ne peuvent bénéficier du tarif
+prévu pour les vins visés au a bis du 2° de l'article 438 du même code obtenus conformément aux dispositions prévues par les
+règlements communautaires 822/87/CEE et 823/87/CEE du 16 mars 1987 qu'après justification auprès du bureau de déclaration de
+la direction générale des douanes et droits indirects que l'alcool contenu dans le produit résulte entièrement d'une
+fermentation et que le produit n'a fait l'objet d'aucun enrichissement, même si celui-ci est autorisé dans les conditions
+prévues à l'article 18 du règlement 822/87/CEE et au 2 de l'article 8 du règlement 823/87/CEE.
+
+Est considéré comme justificatif tout document attestant du respect des conditions précitées, émanant d'une autorité
+administrative chargée du contrôle des modes de production et d'élaboration des produits viti-vinicoles dans l'Etat de
+production.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 439, 438
+	  - Règlement CEE 822/87 1987-03-16 art. 18 (conseil)
+	  - Règlement CEE 823/87 1987-03-16 art. 8 (conseil)
+
+	**Créé par**:
+
+	  - Décret n°97-516 du 15 mai 1997 - art. 1 () JORF 23 mai 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 ##### Section III : Circulation.
 
 ###### Article 178 nonies
@@ -21764,6 +21823,180 @@ titres de mouvement portant la mention expresse de ses origine et qualité en re
 	  - HISTO: Edition du 11 avril 1997
 	  - HISTO: Edition du 31 mars 2000
 	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
+
+
+###### Article 178 octies A
+
+Les viticulteurs, les caves coopératives et les distillateurs de profession mentionnés à l'article 332 du code général des
+impôts ne peuvent bénéficier des dispositions prévues par l'article 446 A dudit code que sur autorisation du directeur
+régional des douanes et droits indirects territorialement compétent.
+
+Pour obtenir cette autorisation, les personnes citées au premier alinéa doivent en déposer la demande auprès du bureau des
+douanes et droits indirects dont elles dépendent.
+
+La demande d'autorisation comprend les informations suivantes :
+
+1. Les nom, prénom ou raison sociale et adresse du demandeur ;
+
+2. Son objet, c'est-à-dire la mention : "Bénéfice des dispositions du 1 ou du 2 de l'article 446 A dudit code" ;
+
+3. Les date et signature du demandeur ;
+
+4. L'adresse du ou des lieux d'enlèvement des vins ou des alcools.
+
+Pour les personnes sollicitant le bénéfice des mesures prévues au 2 de l'article 446 A du code général des impôts, la demande
+d'autorisation comprend, en plus des informations exigées au troisième alinéa les renseignements ou documents suivants :
+
+1. Le justificatif de la qualité d'assujetti redevable de la taxe sur la valeur ajoutée délivré par l'administration
+fiscale ;
+
+2. La fourniture d'une caution solidaire garantissant le paiement des droits dus ;
+
+3. Les nature, type, forme et contenu du document tenant lieu de congé ;
+
+4. Le modèle de la déclaration récapitulative des sorties de chais.
+
+Le directeur régional des douanes et droits indirects délivre l'autorisation mentionnée, selon le cas, aux 1 ou 2 de
+l'article 446 A du code général des impôts aux viticulteurs, caves coopératives et distillateurs de profession cités à
+l'article 332 dudit code qui sont de bonne moralité fiscale et qui respectent la réglementation communautaire relative
+notamment aux prestations viniques et aux distillations obligatoires ainsi que la réglementation nationale concernant plus
+particulièrement les appellations d'origine. Il est délivré une autorisation par viticulteur, cave coopérative et
+distillateur de profession.
+
+L'autorisation est valable cinq ans au plus à compter de la date de sa délivrance. Le délai de validité de l'autorisation est
+fixé par le directeur régional des douanes et droits indirects.
+
+Le directeur régional des douanes et droits indirects peut annuler toute autorisation délivrée par ses soins lorsque son
+titulaire commet une infraction au code général des impôts, à la réglementation des contributions indirectes et aux
+réglementations assimilées ou ne respecte pas les réglementations communautaire et nationale citées au cinquième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 332, 446 A
+
+	**Créé par**:
+
+	  - Décret n°97-668 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
+	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 178 octies B
+
+Le congé qui est délivré à chaque acheteur, conformément au troisième alinéa du 1 de l'article 446 A du code général des
+impôts, doit être validé selon les modalités fixées à l'article 244 bis. Il comprend, en plus des informations visées aux 1°
+à 3° du 1 de l'article 446 A du code général des impôts, les références de l'autorisation délivrée par le directeur régional
+des douanes et droits indirects sous la forme "Aut. DR (ville où se trouve le siège de la direction régionale) n°  du
+(date)".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 446 A
+	  - CGIAN3 244 bis
+
+	**Créé par**:
+
+	  - Décret n°97-668 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
+
+
+###### Article 178 octies C
+
+Pour l'application des dispositions du 2 de l'article 446 A du code général des impôts :
+
+1. La caution solidaire garantissant le paiement des droits dus doit  être présentée et agréée par l'administration ;
+
+2. Par document tenant lieu de congé, il faut entendre tout document commercial tel que facture ou ticket de caisse. Ledit
+document doit comporter toutes les informations visées aux 1° à 3° du 1 de l'article 446 A du code général des impôts ainsi
+que les références de l'autorisation délivrée par le directeur régional des douanes et droits indirects sous la même forme
+que celle prévue pour les congés visés à l'article 178 octies B ;
+
+3. L'autorisation délivrée par le directeur régional des douanes et droits indirects vaut également agrément du document
+tenant lieu de congé et de la déclaration récapitulative des sorties de chais présentés dans la demande d'autorisation ;
+
+4. La fourniture et l'impression des documents tenant lieu de congé et de la déclaration récapitulative des sorties de chais
+incombent au titulaire de l'autorisation cité au premier alinéa de l'article 178 octies A ;
+
+5. Les documents tenant lieu de congé comprennent un original et un duplicata ;
+
+6. Le document remplaçant le congé, pour tenir lieu de congé et donc de titre de mouvement, doit être muni, par les soins de
+son utilisateur, d'une vignette comportant une marque fiscale ou d'une empreinte fiscale imprimée par une machine à timbrer
+selon les modalités, conditions et sanctions fixées, pour les factures-congés, aux articles 54 C, 54 E et aux premier et
+deuxième alinéas de l'article 54 J de l'annexe IV au code général des impôts. Pour l'application de ces articles aux
+documents tenant lieu de congé, il est précisé que l'indication de l'heure d'enlèvement des vins ou alcools sur ces documents
+n'est pas exigée ;
+
+7. Par dérogation au 6 et dans les conditions et selon les modalités fixées par arrêté du ministre chargé du budget, il n'est
+pas exigé de vignette comportant une marque fiscale ou d'empreinte fiscale imprimée par une machine à timbrer sur le document
+tenant lieu de congé lorsque celui-ci prend la forme d'un ticket de caisse. Les caractéristiques et les modalités de
+fonctionnement des machines émettant les tickets de caisse sont également déterminées par ledit arrêté (1) ;
+
+8. Les duplicata de documents se substituant aux congés tiennent lieu des déclarations d'enlèvement prévues au 1 de l'article
+446 A du code général des impôts. Ils doivent être enliassés dans l'ordre de numérotation des vignettes ou des empreintes de
+machines à timbrer, conservés et tenus à la disposition des agents du service des douanes et droits indirects selon les
+modalités prévues au I de l'article L. 102-B du livre des procédures fiscales. Ils sont joints à la déclaration
+récapitulative des sorties de chais visée au 10 et restitués après vérification ;
+
+9. Les documents tenant lieu de congé inutilisés mais pourvus de vignettes ou d'empreintes doivent être déposés au bureau des
+douanes et droits indirects avec leur duplicata avant la date d'enlèvement indiquée sur le document ;
+
+10. Les documents tenant lieu de congé doivent, avant l'enlèvement des boissons, être analysés séparément sur la déclaration
+récapitulative des sorties de chais. Il y a une déclaration à servir pour les vins et une autre pour les alcools. Ladite
+déclaration est éditée en deux exemplaires formant chemise et remplie par le titulaire de l'autorisation cité au premier
+alinéa de l'article 178 octies A. Son format est de 42 cm sur 29,7 cm. Cette déclaration est conforme au modèle prescrit par
+arrêté du ministre chargé du budget.
+
+Elle est déposée auprès du bureau des douanes et droits indirects territorialement compétent le premier jour de chaque mois.
+Elle reprend l'ensemble des opérations taxables du mois écoulé. Les droits dus sont liquidés et perçus lors du dépôt de cette
+déclaration. Le premier exemplaire de la déclaration est conservé par le bureau des douanes et droits indirects compétent et
+son deuxième exemplaire est remis au déclarant après avoir été visé par ledit bureau.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1998-02-06 JORF du 6 mars 1998
+	  - PEREMPTION: Loi - art. 18 (V) JORF 31 décembre 1999
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2000
+
+	**Cite**:
+
+	  - CGI 446 A
+	  - CGIAN3 178 octies A, 178 octies B
+	  - CGIAN4 54 C, 54 E, 54 J
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Créé par**:
+
+	  - Décret n°97-668 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+
+	**Codifié par**:
+
+	  - Décret n°2000-477 2000-06-02
 
 
 ##### Section IV : Commerce
@@ -22901,17 +23134,21 @@ cas contraire, ils sont supportés par le propriétaire de l'objet.
 
 ###### Article 207
 
-Tout propriétaire d'un ouvrage d'or ((ou contenant de l'or)) (1), de platine ou d'argent portant le poinçon de la garantie
-peut exercer une action contre le fabricant ou l'importateur si le titre réel ne correspond pas à celui indiqué par le
-poinçon. En cas de doute, il peut demander au directeur général des douanes et droits indirects un nouvel essai.
-
-(1) Modification.
+Tout propriétaire d'un ouvrage d'or ou contenant de l'or, de platine ou d'argent portant le poinçon de la garantie peut
+exercer une action contre le fabricant ou l'importateur si le titre réel ne correspond pas à celui indiqué par le poinçon. En
+cas de doute, il peut demander au ministre de l'économie, des finances et de l'industrie un nouvel essai.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe, JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
+
 	**Codifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°98-400 1998-05-22
 
 	**Cité par**:
 
@@ -22920,11 +23157,7 @@ poinçon. En cas de doute, il peut demander au directeur général des douanes e
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°94-6 1994-01-01 art. 26, 31 JORF 5 janvier 1994
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 208
@@ -24966,358 +25199,6 @@ II. (Devenu sans objet).
 
 ##### A : Assiette des droits - Dispositions spéciales aux successions - Règles d'évaluation
 
-##### 1° : Biens sinistrés.
-
-###### Article 268
-
-Les biens visés à l'article 765 du code général des impôts et mentionnés provisoirement pour mémoire dans les déclarations de
-successions en vertu des dispositions de l'article 646 dudit code s'entendent des immeubles  fonds de commerce et meubles
-corporels qui ont été sinistrés par faits de guerre au sens des articles 2, 6 et 7 de la loi n° 46-2389 du 28 octobre 1946,
-modifiée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 765, 646
-	  - Loi n°46-2389 1946-10-28 art. 2, art. 6, art. 7
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 269
-
-Sont régies par les dispositions de la présente section les successions dont dépendent des biens sinistrés au sens de
-l'article 268, ouvertes au cours de la période comprise entre la date du 1er septembre 1939 et suivant le cas :
-
-Celle de l'achèvement  de la reconstruction ou de la reconstitution desdits biens s'ils donnent droit à réparation ;
-
-Celle du paiement aux ayants droit de l'indemnité d'éviction prévue à l'article 19 de la loi n° 46-2389 du 28 octobre 1946 ;
-
-Celle  enfin  de l'entrée en vigueur du décret n° 52-972 du 30 juillet 1952, si les biens ne sont pas indemnisables au titre
-de la législation des dommages de guerre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 268
-	  - Décret n°52-972 1952-07-30
-	  - Loi n°46-2389 1946-10-28 art. 19
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 270
-
-Pour la perception des droits de mutation par décès  les biens ou éléments des biens visés à l'article 765 du code général
-des impôts et dépendant des successions visées à l'article 269 sont évalués dans les conditions fixées par les articles 271 à
-276 ou par l'article 277, suivant qu'ils ouvrent droit à réparation ou qu'ils ne sont pas en mesure  au contraire  de
-bénéficier de la législation relative à la réparation des dommages de guerre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 765
-	  - CGIAN3 269, 271, 272, 273, 274, 275, 276, 277
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 271
-
-Les biens sinistrés ouvrant droit à réparation peuvent être évalués au choix des intéressés :
-
-soit en raison de leur valeur vénale à la date de l'ouverture de la succession et d'après l'état où ils se trouvaient
-immédiatement avant le sinistre ;
-
-soit en ajoutant à la valeur des éléments résiduels de ces biens appréciée à la date de l'ouverture de la succession celle de
-la créance pour réparation des dommages de guerre attachée à ces éléments ou substituée aux biens entièrement détruits et
-déterminée dans les conditions prévues à l'article 272.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 272
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 272
-
-Par dérogation aux dispositions de l'article 760 du code général des impôts  la valeur imposable de la créance visée à
-l'article 271, dernier alinéa  représente une fraction de l'indemnité allouée au titre de la réparation des dommages de
-guerre par les services du ministère de l'équipement et du logement et liquidée à la date de l'ouverture de la succession en
-faisant application  s'il y a lieu des coefficients d'adaptation départementaux utilisés pour revaloriser le coût de la
-reconstruction ou de la reconstitution des biens sinistrés en fonction de l'évolution des prix depuis l'époque de sa
-détermination.
-
-Il est fait abstraction  pour ce calcul  des dispositions de l'article 27 de la loi n° 46-2389 du 28 octobre 1946.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 760
-	  - CGIAN3 271
-	  - Loi n°46-2389 1946-10-28 art. 27
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-
-###### Article 273
-
-1. Sous réserve des dérogations énumérées au 2, la fraction soumise à l'impôt de l'indemnité visée à l'article 272 est fixée
-à :
-
-25 % lorsque les biens sinistrés sont situés dans une commune de plus de 100.000 habitants ;
-
-20 % lorsque les biens sinistrés sont situés dans une commune dont la population est comprise entre 5.000 et 100.000
-habitants ;
-
-15 % lorsque les biens sinistrés sont situés dans une commune dont la population n'excède pas 5.000 habitants.
-
-Toutefois  si les biens sinistrés constituaient  avant le sinistre des éléments d'une exploitation industrielle  commerciale
-artisanale ou professionnelle  la fraction ainsi déterminée de l'indemnité pour réparation de dommages de guerre est majorée
-de 5 %. Si cette utilisation n'était que partielle  cette majoration est opérée dans une proportion correspondante.
-
-2. Par dérogation aux dispositions du 1 :
-
-D'une part  la fraction imposable de l'indemnité est fixée à 15 % lorsque les biens sinistrés constituent des éléments d'une
-exploitation agricole autres que les cultures et peuplements pluriannuels visés à l'article 23 modifié de la loi n° 46-2389
-du 28 octobre 1946, pour lesquels cette fraction est fixée à 50 %.
-
-D'autre part  il est fait totalement abstraction de l'indemnité de reconstitution dans la mesure où elle concerne des biens
-meubles d'usage courant et familial.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 272
-	  - Loi n°46-2389 1946-10-28 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 274
-
-Lorsque les biens visés à l'article 268 proviennent à la personne décédée d'une acquisition ayant porté à la fois sur ces
-biens et sur les droits à indemnité y afférents  la valeur imposable desdits biens déterminée dans les conditions fixées par
-les articles 271 à 273, ne peut pas être inférieure au prix d'acquisition versé par le défunt ou ses ayants cause.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 268, 271 à 273
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 275
-
-Lorsque les dommages subis ne donnent droit qu'à l'indemnité d'éviction prévue à l'article 19 de la loi n° 46-2389 du 28
-octobre 1946, les biens sinistrés sont évalués  pour la perception des droits de mutation par décès  en ajoutant  à la valeur
-vénale à la date de l'ouverture de la succession de leurs éléments résiduels  la valeur de reprise par le Trésor  pour
-l'acquit de ces droits  des titres nominatifs remis en paiement de ladite indemnité. Cette valeur de reprise est appréciée
-dans les conditions fixées par l'article 1er (alinéa 2) de la loi n° 48-1313 du 26 août 1948, modifié par l'article 44 de la
-loi n° 51-650 du 24 mai 1951, soit au jour où s'est produit le décès  soit à la date de la décision attributive de
-l'indemnité  si cette décision est postérieure à l'ouverture de la succession.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°46-2389 1946-10-28 art. 19
-	  - Loi n°48-1313 1948-08-26 art. 1
-	  - Loi n°51-650 1951-05-24 art. 44
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 276
-
-Sous réserve de ce qui est dit aux articles 271 à 273 et 275, l'indemnité ou le droit à indemnité de dommages de guerre est
-exonéré des droits de mutation par décès. L'impôt qui a été perçu sur les sommes encaissées de son vivant par le défunt à
-titre d'acomptes sur l'indemnité s'impute éventuellement sur la taxation des biens dépendant de sa succession  telle qu'elle
-est faite en exécution des dispositions de la présente section.
-
-Toutefois lorsque au jour de l'ouverture de la succession les biens ou éléments des biens visés à l'article 268 ont fait
-l'objet d'une reconstitution partielle le montant des dépenses exposées à cette fin par le défunt est réintégré dans l'actif
-successoral dans la mesure où il excède les acomptes à valoir sur l'indemnité de reconstitution perçus par l'intéressé sauf
-déduction éventuellement du passif correspondant auxdites dépenses.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 271 à 273, 275, 268
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 277
-
-Les biens ou éléments de biens détruits ou endommagés par faits de guerre qui ne donnent pas droit à réparation sont évalués
-pour la perception des droits de mutation par décès  suivant les règles du droit commun applicables à la date de l'ouverture
-de la succession et d'après leur état à la même date.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
-###### Article 278
-
-1. La déclaration complémentaire prévue à l'article 646 du code général des impôts doit être souscrite et les droits
-exigibles doivent être acquittés dans les six mois suivant la date d'entrée en vigueur du décret n° 52-972 du 30 juillet
-1952.
-
-Cependant  les sinistrés ou leurs ayants droit disposent d'un délai supplémentaire expirant au terme d'une période de six
-mois à compter du jour où il aura été statué sur leur demande d'indemnisation  en ce qui concerne les biens détruits ou
-endommagés par faits de guerre ouvrant droit à réparation pour lesquels une décision n'a pas encore été prise au moment de
-l'intervention du décret susvisé du 30 juillet 1952.
-
-2. En toute hypothèse  lorsque les dispositions de la loi n° 46-2389 du 28 octobre 1946 ont été reconnues applicables au
-sinistré ou à ses ayants droit et que la totalité de l'indemnité ne leur a pas été versée avant l'expiration des délais
-prévus ((au deuxième alinéa du 1)) (M) les droits afférents aux biens ou éléments de biens donnant lieu à indemnisation ne
-deviennent exigibles que dans les six mois à compter du paiement du solde de l'indemnité ou le cas échéant dans les six mois
-de la délivrance des titres remis en paiement du solde de l'indemnité.
-
-3. Si le règlement de l'indemnité se fait par remise de titres ceux-ci peuvent être donnés en paiement de la totalité des
-droits simples exigibles. La valeur de reprise de ces titres est appréciée dans les conditions fixées par un arrêté du
-ministre des finances et des affaires économiques et du ministre du budget (1).
-
-4. Par dérogation aux dispositions des 1 et 2, en cas de cession à titre onéreux ou à titre gratuit des biens sinistrés et
-des droits à indemnité qui y sont attachés la déclaration afférente à ces biens et droits doit être souscrite et l'impôt
-correspondant acquitté dans les six mois de la cession.
-
-(M) Modification.
-
-(1) Annexe IV, art. 198 ter.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 646
-	  - CGIAN4 198 ter
-	  - Décret n°52-972 1952-07-30
-	  - Loi n°46-2389 1946-10-28
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 22 avril 1998
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
-	  - Décret n°98-400 1998-05-22
-
-	**Modifié par**:
-
-	  - Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
-
-
-###### Article 279
-
-Les dispositions de la présente section sont applicables aux donations entre vifs de biens détruits ou endommagés par faits
-de guerre ouvrant droit à réparation ainsi que des droits à indemnité y attachés qui ont été ou seront réalisées dans les
-délais visés à l'article 269 en ce qui concerne les successions. Toutefois ces délais sont comptés à partir de l'entrée en
-vigueur de la loi du 14 mars 1942, relative au régime fiscal des donations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 269
-	  - Loi n°1942-03-14
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
-
-
 ##### 2° : Biens frappés d'indisponibilité hors de France
 
 ###### Article 280
@@ -26807,25 +26688,29 @@ acheminées :
 Soit par des véhicules effectuant à titre principal un transport public de voyageurs ;
 
 Soit par des véhicules effectuant uniquement des transports publics de marchandises et circulant  selon des horaires
-réguliers sur des itinéraires déterminés  dans les zones courtes prévues à l'article 14 du décret n° 86-567 du 14 mars 1986.
+réguliers sur des itinéraires déterminés  dans les zones courtes prévues à l'article 14 modifié du décret n° 86-567 du 14
+mars 1986.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-567 1986-03-14 art. 14 JORF 18 mars 1986
 
 	**Cite**:
 
 	  - Décret n°86-567 1986-03-14 art. 25 III
 
+	**Modifié par**:
+
+	  - Décret n°97-1018 du 6 novembre 1997 - art. 1 () JORF 7 novembre 1997
+
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°98-400 1998-05-22
+	  - Décret n°2000-477 2000-06-02
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
 
 
 ###### Article 313 AE
@@ -30936,6 +30821,97 @@ d'exonération ne s'applique que pour la période restant à courir après le 31
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 F (V)
 
 
+### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
+
+#### Chapitre unique : Impôts directs et taxes assimilées
+
+###### Article 328 H
+
+Pour bénéficier des exonérations prévues à l'article 1599 ter E du code général des impôts, le redevable de la taxe foncière
+sur les propriétés bâties et de la taxe spéciale d'équipement additionnelle à la taxe foncière sur les propriétés bâties
+perçue au profit de la région d'Ile-de-France doit adresser au service des impôts du lieu de situation des biens une
+déclaration comportant tous les éléments d'identification.
+
+Pour les immeubles mentionnés au 3° de l'article L. 351-2 du code de la construction et de l'habitation, la déclaration doit
+indiquer le mode de financement de la construction, de l'acquisition ou des travaux d'amélioration de l'immeuble et être
+accompagnée des pièces justificatives.
+
+Dans le cas d'un bail à réhabilitation, la déclaration doit être accompagnée des documents justifiant que le bail a pris
+effet dans les conditions prescrites par l'article L. 252-3 du code de la construction et de l'habitation.
+
+La déclaration doit être conforme à un modèle établi par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 ter E
+	  - Code de la construction et de l'habitation. - art. L252-3 (M)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°97-826 du 3 septembre 1997 - art. 1 () JORF 10 septembre 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
+###### Article 328 I
+
+La déclaration doit être souscrite avant le 1er janvier de la première année à compter de laquelle le redevable de la taxe
+foncière sur les propriétés bâties et de la taxe spéciale d'équipement additionnelle à la taxe foncière sur les propriétés
+bâties perçue au profit de la région d'Ile-de-France peut, au titre de l'immeuble concerné, bénéficier des dispositions de
+l'article 1599 ter E du code général des impôts.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 108-XIX C-1 de la loi n° 2010-1657 du 29 décembre 2010.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 J (P)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 ter E
+
+	**Créé par**:
+
+	  - Décret n°97-826 1995-09-03 art. 1 JORF 10 septembre 1997
+
+
+###### Article 328 J
+
+Lorsque la déclaration est souscrite après l'expiration du délai prévu à l'article 328 I, l'exonération ne s'applique que
+pour la période restant à courir après le 31 décembre de l'année de la souscription.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 108-XIX C-1 de la loi n° 2010-1657 du 29 décembre 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°97-826 du 3 septembre 1997 - art. 1 () JORF 10 septembre 1997
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 I (P)
+
+
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
 #### Chapitre premier : Impôts directs et taxes assimilées
@@ -31772,7 +31748,7 @@ compléments de taxe sont liquidés en même temps que la taxe due au titre du m
 La contribution à la charge des employeurs assurés pour l'alimentation du fonds commun des accidents du travail agricole
 institué par l'article premier du décret n° 57-1360 du 30 décembre 1957 est perçue sur les quittances des primes ou
 cotisations d'assurances encaissées au titre de la législation sur les accidents du travail agricole par les organismes
-d'assurances ainsi que par la caisse nationale d'assurances en cas d'accidents.
+d'assurances ainsi que par la Caisse nationale de prévoyance.
 
 Le montant de cette contribution doit être indiqué sur les quittances.
 
@@ -31780,11 +31756,23 @@ Le montant de cette contribution doit être indiqué sur les quittances.
 
 	**Modifié par**:
 
-	  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+	  - Décret n°59-863 du 18 juillet 1959 - art. 1 (V) JORF 19 juillet 1959
+	  - Décret n°59-863 du 18 juillet 1959 - art. 4 (V) JORF 19 juillet 1959
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+	  - Décret n°2002-923 2002-06-06
 
 	**Cite**:
 
 	  - Décret n°57-1360 du 30 décembre 1957 - art. 1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Loi - art. 68 () JORF 29 décembre 2001
 
 
 ###### Article 335
@@ -31840,9 +31828,9 @@ l'appui de la liquidation annuelle (1).
 
 ###### Article 336
 
-La caisse nationale d'assurances en cas d'accidents verse directement au compte du fonds commun des accidents du travail
-agricole à l'expiration de chaque trimestre le montant de la contribution correspondant aux primes payées par les assurés et
-dont l'encaissement a été constaté dans les écritures au cours du trimestre précédent.
+La caisse nationale de prévoyance verse directement au compte du fonds commun des accidents du travail agricole à
+l'expiration de chaque trimestre le montant de la contribution correspondant aux primes payées par les assurés et dont
+l'encaissement a été constaté dans les écritures au cours du trimestre précédent.
 
 Chaque versement est appuyé d'un état indiquant le total des primes encaissées et le montant de la contribution versée. Cet
 état est certifié conforme aux écritures de la caisse nationale ; un duplicata en est adressé en même temps au ministre de
@@ -31852,7 +31840,19 @@ l'agriculture et au ministre de l'économie et des finances.
 
 	**Modifié par**:
 
-	  - Loi n°83-1071 du 14 décembre 1983 - art. 3 () JORF 15 décembre 1983
+	  - Décret n°59-863 du 18 juillet 1959 - art. 1 (V) JORF 19 juillet 1959
+	  - Décret n°59-863 du 18 juillet 1959 - art. 4 (V) JORF 19 juillet 1959
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+	  - Décret n°2002-923 2002-06-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2002
+	  - PEREMPTION: Loi - art. 68 () JORF 29 décembre 2001
 
 
 ##### Section III : Taxe perçue au profit de l'office des migrations internationales.
@@ -32365,6 +32365,49 @@ institué par l'article 9 du décret n° 82-379 du 6 mai 1982.
 	  - Décret n°97-661 1997-05-28
 
 
+###### Article 344 L
+
+I. L'agrément prévu au VI de l'article 44 decies du code général des impôts ainsi que celui prévu au deuxième alinéa du III
+de l'article 1466 B du même code sont accordés par le ministre chargé du budget.
+
+Les demandes, établies en quatre exemplaires, sur papier libre, conformément à un modèle fixé par l'administration, sont
+adressées au ministre chargé du budget (services centraux de la direction générale des impôts) et comportent notamment les
+renseignements et documents permettant d'apprécier l'état de difficulté de l'entreprise concernée.
+
+II. L'agrément prévu au quatrième alinéa du I de l'article 44 decies du code général des impôts ainsi que celui prévu au 2°
+du troisième alinéa du I de l'article 1466 B du même code sont accordés par le ministre chargé du budget.
+
+Les demandes, établies en quatre exemplaires, sur papier libre, conformément à un modèle fixé par l'administration, sont
+adressées au directeur des services fiscaux du département de Corse où est implantée l'entreprise demanderesse.
+
+L'entreprise justifie que ses méthodes de production sont conformes aux objectifs fixés par l'article 1er du règlement (CEE)
+du Conseil n° 2078/92 du 30 juin 1992 et du règlement (CE) de la Commission n° 746/96 du 25 avril 1996 et produit à cet effet
+une attestation délivrée par les services du ministre chargé de l'agriculture.
+
+III. Dans le cas où le demandeur n'a pas fourni la totalité des renseignements nécessaires pour l'instruction de la demande,
+le ministre chargé du budget l'invite à les produire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CEE Règlement 2078/92 1992-06-30 Conseil art. 1
+	  - CEE Règlement 746/96 1996-04-25 Commission
+	  - CGI 44 decies, 1466 B
+
+	**Créé par**:
+
+	  - Décret n°97-343 du 11 avril 1997 - art. 6 (V) JORF 13 avril 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
+
+
 ### Titre II : Dispositions diverses
 
 #### Chapitre premier : Commissions administratives des impôts
@@ -32445,23 +32488,15 @@ proposition des fédérations départementales des syndicats d'exploitants agric
 Lorsque la commission se prononce sur les tarifs d'évaluation ou les coefficients d'actualisation des valeurs locatives des
 bois et forêts, un des représentants des contribuables doit être propriétaire de bois et forêts ; il est appelé à siéger.
 
-III. 1. Sous réserve des dispositions ci-après, il est désigné deux suppléants pour un titulaire.
-
-2. Si le président de la commission le juge utile, le nombre de suppléants peut être augmenté, pour la ville de Paris,
-jusqu'à :
-
-soixante-quinze, en ce qui concerne les représentants des contribuables désignés par la chambre de commerce et d'industrie ;
-
-vingt-cinq, en ce qui concerne les représentants des contribuables désignés par la chambre des métiers et par les
-organisations ou organismes professionnels regroupant les titulaires de revenus non commerciaux.
-
-3. Dans les mêmes conditions qu'au 2, le nombre de suppléants peut être porté respectivement à trente et à quinze, pour les
-départements de plus de 600 000 habitants.
+III ((Il est désigné deux suppléants pour un titulaire. Le nombre de suppléants peut toutefois être modifié dans les
+conditions et limites fixées par arrêté du ministre chargé du budget)) (M).
 
 IV. Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est saisie d'un litige intéressant un contribuable qui
 relève de l'administration des douanes et des droits indirects au regard desdites taxes, l'un des représentants de la
 direction générale des impôts peut être remplacé par un fonctionnaire de la direction générale des douanes et des droits
 indirects.
+
+(M) Modification qui entrera en vigueur pour les désignations des représentants appelés à siéger en 1998.
 
 **Liens relatifs à cet article**
 
@@ -32471,11 +32506,16 @@ indirects.
 
 	**Modifié par**:
 
-	  - Décret n°88-1189 du 28 décembre 1988 - art. 1 () JORF 29 décembre 1988
+	  - Décret n°97-1110 du 28 novembre 1997 - art. 1 () JORF 29 novembre 1997
+	  - Décret n°97-1110 du 28 novembre 1997 - art. 2 (V) JORF 29 novembre 1997
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 undecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 348
@@ -32734,14 +32774,12 @@ des douanes et droits indirects.
 
 I. - La direction générale des douanes et droits indirects exerce les compétences prévues :
 
-1° Aux articles 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, 1564 du code général des impôts ;
+1° Aux articles 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, ((1565 septies)) (M) du code général des
+impôts ; 
 
 2° Au deuxième alinéa de l'article 444 du code général des impôts ;
 
 3° A l'article 511 bis du code général des impôts.
-
-Le ministre chargé du budget autorise les nouveaux procédés de dénaturation des alcools en application du même article de ce
-ce code ;
 
 4° A l'article 570 du code général des impôts ;
 
@@ -32765,8 +32803,8 @@ des impôts ;
 
 2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ;
 
-3° Pour recevoir après saisie les ouvrages d'or ((ou contenant de l'or)) (1), d'argent et de platine en application de
-l'article 541 du code général des impôts.
+3° Pour recevoir après saisie les ouvrages d'or ou contenant de l'or, d'argent et de platine en application de l'article 541
+du code général des impôts.
 
 (1) Modification.
 
@@ -32774,20 +32812,22 @@ l'article 541 du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, 1564, 444, 511 bis, 570, 625, 319, 471, 473, 474, 568, 304, 330, 541
+	  - CGI 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, 1565 septies, 444, 511 bis, 570, 625, 319, 471, 473, 474, 568, 304, 330, 541
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°97-1195 1997-12-19 art. 6 15° et 13, JORF 27 décembre 1997
+	  - Loi - art. 27 (V) JORF 30 décembre 1997
+	  - Loi n°97-1239 1997-12-29 art. 27 IV, VIII Finances rectificative pour 1997, JORF 30 décembre 1997
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 22 avril 1998
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°94-6 1994-01-01 art. 26 I, 31 JORF 5 janvier 1994
+	  - Décret n°98-400 1998-05-22
 
 
 ###### Article 350 quinquies
@@ -32819,32 +32859,30 @@ prescrits au deuxième alinéa du même article ;
 9° Les déclarations et exerce les compétences mentionnées au premier alinéa de l'article 425 du code général des impôts ainsi
 qu'aux articles 308, 343, 455, 483, 502 et 1565 du même code ;
 
-10° La déclaration mentionnée à l'article 1560 ter du code général des impôts ;
+10° La déclaration mentionnée à l'article ((1565 quinquies)) (M) du code général des impôts ;
 
 11° La déclaration de cesser en application de l'article 1570 du code général des impôts.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 303, 344 ter, 481, 312, 327, 329, 345, 501, 511, 626, 413, 415, 422, 424, 443, 5, 425, 308, 343, 455, 483, 502, 1565, 1560 ter, 1570
-
-	**Créé par**:
-
-	  - Décret n°93-264 du 1993-02-26 art. 2 2°, 3 2°, 5 2°, 9 2°, 10 2°, 11 2°, 13 2°, 24 2° et 26 JORF 28 février 1993
-
-	**Modifié par**:
-
-	  - Décret n°93-309 1993-03-09 art. 1 2°, 2 2°, 11 II, 14 2° et 22 JORF 11 mars 1993
-	  - Décret n°93-309 du 9 mars 1993 - art. 11 (V) JORF 11 mars 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
+	  - CGI 303, 344 ter, 481, 312, 327, 329, 345, 501, 511, 626, 413, 415, 422, 424, 443, 5, 425, 308, 343, 455, 483, 502, 1565, 1565 quinquies , 1570
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998
+
+	**Modifié par**:
+
+	  - Loi - art. 27 (V) JORF 30 décembre 1997
+	  - Loi n°97-1239 1997-12-29 art. 27 III, VIII Finances rectificative pour 1997, JORF 30 décembre 1997
+
+	**Codifié par**:
+
+	  - Décret n°98-400 1998-05-22
 
 
 ###### Article 350 septies
@@ -33189,21 +33227,17 @@ modérations,dans les conditions qui ont été prévues pour la remise ou la mod
 
 ###### Article 358
 
-L'impôt sur les sociétés est recouvré dans les conditions prévues aux articles 359 à 365 et 366.
+L'impôt sur les sociétés est recouvré dans les conditions prévues aux articles 359 à 365, 366 et 366 AA.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 359 à 365, 366
+	  - CGIAN3 359 à 365, 366, 366 AA
 
 	**Modifié par**:
 
-	  - Loi - art. 11 (V) JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°97-556 du 29 mai 1997 - art. 3 () JORF 30 mai 1997
 
 	**Cité par**:
 
@@ -33214,7 +33248,7 @@ L'impôt sur les sociétés est recouvré dans les conditions prévues aux artic
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 359
@@ -33224,7 +33258,7 @@ conditions fixées par l'article 1668 du code général des impôts,le premier d
 l'échéance,consécutive au commencement de ladite période,en est le plus rapprochée.
 
 Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus les sociétés pour lesquelles le montant de l'impôt sur les
-sociétés correspondant aux bénéfices de référence définis à l'article 360 n'excède pas 1.000 F.
+sociétés correspondant aux bénéfices de référence ou au résultat net définis à l'article 360 n'excède pas 1.000 F.
 
 **Liens relatifs à cet article**
 
@@ -33235,11 +33269,15 @@ sociétés correspondant aux bénéfices de référence définis à l'article 36
 
 	**Modifié par**:
 
-	  - Décret n°82-1248 du 31 décembre 1982 - art. 1 (V) JORF 20 janvier 1983
+	  - Décret n°98-85 du 16 février 1998 - art. 1 () JORF 18 février 1998
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 360
@@ -33250,35 +33288,36 @@ lieu d'imposition défini par l'article 218 A du code général des impôts. Lor
 établissement après l'échéance du premier acompte afférent à un exercice déterminé les acomptes subséquents doivent être
 versés à la caisse du comptable du Trésor habilité à percevoir le premier acompte.
 
-Chacun des acomptes est égal à 8,1/3 p. 100 du bénéfice imposable déterminé d'après les résultats du plus récent exercice
-clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année d'après les résultats de la
-dernière période d'imposition.
+Chacun des acomptes est égal à ((8,1/3 % des bénéfices soumis aux taux fixés au deuxième alinéa et au f du I de l'article 219
+du code général des impôts et à 4,75 % du résultat net de la concession de licences d'exploitation des éléments mentionnés au
+1 de l'article 39 terdecies du code précité, déterminés)) (M) d'après les résultats du plus récent exercice clos à la date de
+son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année d'après les résultats de la dernière période
+d'imposition.
 
 Toutefois  en cas d'exercice d'une durée inférieure ou supérieure à un an  les acomptes sont calculés sur la base des
 bénéfices rapportés à une période de douze mois.
 
-Par dérogation aux dispositions du deuxième alinéa  l'acompte dont l'échéance est comprise entre la date de clôture d'un
-exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé à l'article 223-1, deuxième alinéa
-du code général des impôts  est égal, s'il y a lieu, à 8,1/3 p. 100 du bénéfice afférent à l'exercice ou à la période
+Par dérogation aux dispositions du deuxième alinéa l'acompte dont l'échéance est comprise entre la date de clôture d'un
+exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé à l'article 223 1, deuxième alinéa
+du code général des impôts est égal, s'il y a lieu, à ((8,1/3 % des bénéfices soumis aux taux fixés au deuxième alinéa et au
+f du I de l'article 219 du code général des impôts et à 4,75 % du résultat net de la concession de licences d'exploitation
+des éléments mentionnés au 1 de l'article 39 terdecies du code précité afférents)) (M) à l'exercice ou à la période
 d'imposition précédente et dont le délai de déclaration est expiré. Le montant de cet acompte est régularisé sur la base des
 résultats du dernier exercice ou de la dernière période d'imposition lors du versement du plus prochain acompte.
 
 Le montant des acomptes est arrondi au franc inférieur.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 218 A, 223 1 al. 2
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-178 1993-02-05 art. 3
-	  - HISTO: Edition du 18 aout 1993
+	  - CGI 218 A, 223 1, 219, 39 terdecies
 
 	**Modifié par**:
 
-	  - Décret n°93-178 du 5 février 1993 - art. 1 () JORF 7 février 1993 en vigueur le 1er janvier 1993
+	  - Décret n°98-85 du 16 février 1998 - art. 2 () JORF 18 février 1998
 
 	**Cité par**:
 
@@ -33293,6 +33332,10 @@ Le montant des acomptes est arrondi au franc inférieur.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YO (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 361
@@ -33379,16 +33422,17 @@ Ce versement est effectué à la caisse du comptable du Trésor chargé du recou
 premier acompte ou, s'il n'est pas dû d'acomptes, au comptable du Trésor du lieu d'imposition défini par l'article 218 A du
 code général des impôts.
 
-2. ((Le comptable du Trésor transmet au service des impôts le bordereau-avis de liquidation et envoie au redevable une
+2. Le comptable du Trésor transmet au service des impôts le bordereau-avis de liquidation et envoie au redevable une
 situation sur laquelle sont récapitulés les encaissements constatés. Ce document vaut quittance libératoire pour l'ensemble
-des sommes reçues)) (M).
+des sommes reçues.
 
 3. Si le solde de liquidation n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il était exigible
 en vertu du 1, la majoration de 10 % visée à l'article 1762 du code général des impôts est appliquée aux sommes non réglées.
 
-Lorsque la liquidation de l'impôt n'a pas été faite par la société ou que cette liquidation a été opérée d'après un bénéfice
-inférieur à celui qui a été compris dans la déclaration souscrite en exécution du 1 de l'article 223 du code général des
-impôts, la majoration de 10 % est calculée en tenant compte du bénéfice porté dans la déclaration susvisée.
+Lorsque la liquidation de l'impôt n'a pas été faite par la société ou que cette liquidation a été opérée d'après ((des
+bénéfices ou un résultat net définis à l'article 360, inférieurs à ceux qui ont)) (M) été compris dans la déclaration
+souscrite en exécution du 1 de l'article 223 du code général des impôts, la majoration de 10 % est calculée en tenant compte
+((des bénéfices ou du résultat net portés)) (M) dans la déclaration susvisée.
 
 4. Le recouvrement du solde de liquidation ou fraction du solde de liquidation et de la majoration de 10 % correspondante est
 poursuivi, le cas échéant, en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général. Les
@@ -33408,15 +33452,15 @@ l'expiration de la quatrième année suivant celle au cours de laquelle le verse
 
 	**Cite**:
 
-	  - CGI 223 1, 218 A, 1762, 1842, 1843, 1844, 1846, 1848, 1908, 1909, 1910, 1911, 1912
+	  - CGI 223 1, 218 A, 1762, 1842, 1843, 1844, 1846, 1848, 1908, 1909, 1910, 1911, 1912, 360
 
 	**Modifié par**:
 
-	  - Décret n°97-178 du 25 février 1997 - art. 3 () JORF 28 février 1997
+	  - Décret n°98-85 du 16 février 1998 - art. 3 () JORF 18 février 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 366
@@ -33438,6 +33482,30 @@ impôts.
 	**Abrogé par**:
 
 	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+
+
+###### Article 366 AA
+
+Le complément d'impôt à verser, le cas échéant majoré de l'intérêt de retard mentionné à l'article 1727 du code général des
+impôts, conformément au quatrième alinéa du f du troisième alinéa du I de l'article 219 du code précité, est recouvré par
+voie de rôle. Ce rôle est exigible en totalité dès sa mise en recouvrement.
+
+La majoration de 10 % est applicable aux sommes mentionnées au premier alinéa, dans les conditions fixées par l'article 1761
+du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1727, 219, 1761
+
+	**Créé par**:
+
+	  - Décret n°97-556 du 29 mai 1997 - art. 2 () JORF 30 mai 1997
+
+	**Liens**:
+
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### 03 bis : Imposition forfaitaire annuelle des sociétés
@@ -33691,6 +33759,62 @@ jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle
 	  - HISTO: Edition du 11 avril 1997
 
 
+##### 3 ter : Contribution temporaire sur l'impôt sur les sociétés.
+
+###### Article 366 J
+
+La contribution temporaire mentionnée à l'article 235 ter ZB du code général des impôts est recouvrée dans les conditions
+prévues aux articles 366 C à 366 I.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter ZB
+	  - CGIAN3 366 C à 366 I
+
+	**Créé par**:
+
+	  - Décret n°97-1079 du 24 novembre 1997 - art. 1 () JORF 26 novembre 1997
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 366 K
+
+Pour bénéficier des dispositions du troisième alinéa de l'article 235 ter ZB du code général des impôts, les personnes
+morales, autres que celles qui n'ont pas de capital social, doivent joindre à la déclaration des résultats de la période
+d'imposition considérée un état de répartition du capital social conforme au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter ZB
+
+	**Créé par**:
+
+	  - Décret n°97-1079 du 24 novembre 1997 - art. 1 () JORF 26 novembre 1997
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2001
+
+
 ##### 6 : Taxe sur les salaires
 
 ##### a : Remise au Trésor de la taxe sur les salaires
@@ -33796,6 +33920,47 @@ fixées à l'article 51.
 
 
 ##### 8 : Retenue à la source afférente aux revenus des actions et parts, aux revenus assimilés et aux intérêts et produits des obligations et titres participatifs
+
+###### Article 381 A
+
+I. Les sommes prélevées au titre de la retenue à la source prévue au 2 de l'article 119 bis du code général des impôts par un
+établissement payeur au cours de chaque mois civil font l'objet, dans les quinze premiers jours du mois suivant, d'un
+versement à la recette des impôts désignée par le ministre chargé du budget.
+
+II. Chaque versement est accompagné du dépôt d'une déclaration établie sur une formule délivrée par l'administration.
+
+III. Un arrêté détermine la nature et le contenu des documents que les établissements payeurs doivent établir et conserver à
+la disposition de l'administration en vue du contrôle (1) ; il fixe les conditions dans lesquelles la retenue opérée par les
+succursales de ces établissements peut faire l'objet de versements globaux (2).
+
+(1) Annexe IV, art. 17 et 17 A.
+
+(2) Annexe IV, art. 188 H.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 119 bis 2
+	  - CGIAN4 17, 17 A, 188 H
+
+	**Anciens textes**:
+
+	  - CGIAN2 378
+
+	**Créé par**:
+
+	  - Décret n°97-671 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°97-670 du 31 mai 1997 - art. 1 (V)
+	  - HISTO: Edition du 22 avril 1998
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 A bis (V)
+
 
 ###### Article 381 K
 
@@ -34076,14 +34241,14 @@ au titre de l'article 1664 du code général des impôts.
 	  - HISTO: Edition du 15 juin 1990
 
 
-##### 10 : Prélèvement sur les produits de placements à revenu fixes.
+##### 10 : Prélèvement sur les produits de placements à revenu fixe
 
 ###### Article 381 S
 
-1. Les sommes retenues au cours de chaque mois  au titre du prélèvement prévu par l'article 125 A du code général des impôts
+1. Les sommes retenues au cours de chaque mois, au titre du prélèvement prévu par l'article 125 A du code général des impôts
 sont versées au Trésor dans les quinze premiers jours du mois suivant (1).
 
-Sous réserve des dispositions du 3, le versement est fait à la recette des impôts du lieu de l'établissement payeur.
+Le versement est fait à la recette des impôts désignée par le ministre chargé du budget.
 
 2. Chaque versement est accompagné du dépôt d'une déclaration établie en double exemplaire sur une formule délivrée par
 l'administration.
@@ -34094,7 +34259,7 @@ disposition de l'administration en vue du contrôle (2).
 Il fixe les conditions dans lesquelles le prélèvement opéré par ces établissements peut faire l'objet de versements globaux
 (3).
 
-(1) Disposition nouvelle s'appliquant aux retenues effectuées à compter du 1er septembre 1991.
+(1) Disposition applicable aux prélèvements effectués à compter du 1er septembre 1991.
 
 (2) Annexe IV, art. 17 B et 17 C.
 
@@ -34109,11 +34274,7 @@ Il fixe les conditions dans lesquelles le prélèvement opéré par ces établis
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 15 (V) JORF 27 juillet 1991
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°97-671 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Cité par**:
 
@@ -34121,7 +34282,7 @@ Il fixe les conditions dans lesquelles le prélèvement opéré par ces établis
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 22 avril 1998
 
 
 ##### 11 : Précompte exigible sur certaines distributions.

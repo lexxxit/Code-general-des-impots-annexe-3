@@ -10,8 +10,7 @@ de l'année de création ou de l'année au cours de laquelle ont été exposées
 L'option résulte du dépôt de la déclaration spéciale prévue pour le calcul du crédit d'impôt qui devra être annexée à la
 déclaration annuelle de résultat que les entreprises sont tenues de déposer en vertu de l'article 53 A du code général des
 impôts ou du 1 de l'article 223 du même code. Une copie de la déclaration spéciale doit être adressée dans le même délai à la
-direction du développement scientifique et technologique et de l'innovation du ministère chargé de la recherche et de la
-technologie.
+direction de la technologie.
 
 **Liens relatifs à cet article**
 
@@ -21,7 +20,7 @@ technologie.
 
 	**Modifié par**:
 
-	  - Décret n°93-506 du 25 mars 1993 - art. 4 () JORF 27 mars 1993
+	  - Décret n°98-269 du 6 avril 1998 - art. 2 () JORF 11 avril 1998
 
 	**Cité par**:
 
@@ -30,4 +29,4 @@ technologie.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 22 avril 1998

@@ -9,22 +9,18 @@ de détention directe et indirecte par la société mère ;
 
 b) L'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble.
 
-c) ((L'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
-III de l'article 44 octies du code général des impôts)) (M).    (M) Modification.
+c) L'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
+III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 53 A, 223 A, 44 octies
+	  - CGI 53 A, 223 A, 44 octies, 44 decies
 
 	**Modifié par**:
 
-	  - Décret n°97-116 du 10 février 1997 - art. 2 () JORF 11 février 1997
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°97-343 1997-04-11 art. 5 1 JORF 13 avril 1997
 
 	**Cité par**:
 
@@ -32,5 +28,5 @@ III de l'article 44 octies du code général des impôts)) (M).    (M) Modificat
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 	  - TXT_ASSOCIE: Instruction 1995-03-24 4H-3-95

@@ -1,7 +1,7 @@
 # Article 10 undecies
 
 La provision pour hausse des prix est rapportée de plein droit aux bénéfices imposables à l'expiration du délai prévu au
-sixième alinéa du 5° du 1 de l'article 39 du code général des impôts.
+neuvième alinéa du 5° du 1 de l'article 39 du code général des impôts.
 
 Lorsqu'elle est retenue pour l'application de cette disposition, la durée normale de rotation du stock d'une entreprise est
 forfaitairement exprimée en mois par le chiffre obtenu en divisant le nombre de mois compris dans les trois premiers
@@ -14,13 +14,13 @@ vendues au cours desdits exercices et, d'autre part, la moyenne des valeurs des 
 
 	  - CGI 39
 
-	**Modifié par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 9 () JORF 24 juillet 1987
-
 	**Codifié par**:
 
-	  - Décret n°87-940 1987-11-23
+	  - Décret n°98-400 1998-05-22
+
+	**Modifié par**:
+
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Cité par**:
 
@@ -28,4 +28,4 @@ vendues au cours desdits exercices et, d'autre part, la moyenne des valeurs des 
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 22 avril 1998

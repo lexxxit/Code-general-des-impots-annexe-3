@@ -3,8 +3,8 @@
 Pour l'application du 3° du premier alinéa de l'article 199 decies B du code général des impôts, les montants annuels du
 loyer et des ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus entre le 1er janvier et le 31 décembre ((1997)), les plafonds de loyer, charges non comprises, sont
-fixés à ((818 F)) annuels par mètre carré de surface habitable en région Ile-de-France et ((582 F)) annuels par mètre carré
+1. Pour les baux conclus entre le 1er janvier et le 31 décembre ((1998)), les plafonds de loyer, charges non comprises, sont
+fixés à ((843 F)) annuels par mètre carré de surface habitable en région Ile-de-France et ((600 F)) annuels par mètre carré
 de surface habitable dans les autres régions (M). Ces plafonds sont relevés chaque année le 1er janvier dans la même
 proportion que l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des
 études économiques. La date de référence de l'indice est celle du deuxième trimestre de l'année précédente.
@@ -12,14 +12,14 @@ proportion que l'indice national mesurant le coût de la construction publié pa
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Les plafonds annuels de ressources sont fixés, pour une personne seule, à ((159.670 F)) en région Ile-de-France et à
-((123.500 F)) dans les autres régions pour les revenus ((1996)) (M).
+Les plafonds annuels de ressources sont fixés, pour une personne seule, à ((161.430 F)) en région Ile-de-France et à
+((124.860 F)) dans les autres régions pour les revenus ((1997)) (M).
 
 Ces montants sont doublés pour un couple marié. Ils sont relevés chaque année dans la même proportion que la limite
 supérieure de la première tranche du barème de l'impôt sur le revenu. Les montant obtenus sont arrondis, s'il y a lieu, à la
 centaine de francs supérieure.
 
-(M) Modifications du Décret 97-661.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -29,12 +29,12 @@ centaine de francs supérieure.
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°98-400 1998-05-22
 
 	**Modifié par**:
 
-	  - Décret n°97-661 du 28 mai 1997 - art. 3 () JORF 1er juin 1997
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998

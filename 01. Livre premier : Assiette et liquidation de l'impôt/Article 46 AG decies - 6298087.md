@@ -3,16 +3,16 @@
 I. Pour l'application du 3° du 3 de l'article 199 undecies du code général des impôts, les montants annuels du loyer et des
 ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus en 1997, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
-habitable à :
+1. Pour les baux conclus en ((1998)), les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de
+surface habitable à (M):
 
-734 F dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque année
-le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
-consommation hors tabac de chacun des quatre départements d'outre-mer ;
+1° ((743 F)) dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
+année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
+consommation hors tabac de chacun des quatre départements d'outre-mer (M);
 
-960 F dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond est
-révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices
-des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° ((983 F)) dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond
+est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des
+indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie (M).
 
 Pour le calcul de ces plafonds, il est fait application de la dernière variation annuelle publiée par l'Institut national de
 la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
@@ -20,10 +20,17 @@ la statistique et des études économiques au 1er décembre de l'année qui pré
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 1997, les plafonds annuels de ressources sont fixés à 132 610 F pour une personne seule et à 265 220
-F pour un couple marié soumis à imposition commune. Ces sommes sont majorées de 15 310 F par personne à charge au sens des
-articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 20 410 F par enfant à partir du troisième. Ces
-montants sont relevés chaque année selon les modalités définies au I.
+((Pour les baux conclus en 1998, les plafonds annuels de ressources sont fixés à :
+
+((1° 134 200 F pour une personne seule et 268 400 F pour un couple marié soumis à imposition commune dans les départements
+d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 15 500 F par personne à charge au sens
+des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 20 660 F par enfant à partir du troisième.
+Ces montants sont relevés chaque année selon les modalités définies au 1.
+
+((2° 134 450 F pour une personne seule et 268 900 F pour un couple marié soumis à imposition commune dans les territoires
+d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 15 530 F par personne à
+charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 20 700 F par enfant à partir
+du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.)) (M).
 
 3. Dans le cas mentionné au troisième alinéa du 4 de l'article 199 undecies du code général des impôts, les conditions
 prévues au 1 et au 2 s'apprécient en tenant compte du montant :
@@ -60,20 +67,22 @@ La société délivre en double exemplaire à chaque souscripteur un document at
 sous-location remplissent les conditions prévues par le présent article. Le souscripteur en joint un exemplaire à sa
 déclaration de revenus de l'année au cours de laquelle le bail est signé.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 199 undecies, 196 à 196 B
 
-	**Créé par**:
-
-	  - Décret n°96-636 du 16 juillet 1996 - art. 1 () JORF 19 juillet 1996
-
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°98-400 1998-05-22
+
+	**Modifié par**:
+
+	  - Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998

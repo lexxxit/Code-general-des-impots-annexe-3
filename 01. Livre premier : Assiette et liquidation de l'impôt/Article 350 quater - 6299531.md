@@ -2,14 +2,12 @@
 
 I. - La direction générale des douanes et droits indirects exerce les compétences prévues :
 
-1° Aux articles 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, 1564 du code général des impôts ;
+1° Aux articles 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, ((1565 septies)) (M) du code général des
+impôts ; 
 
 2° Au deuxième alinéa de l'article 444 du code général des impôts ;
 
 3° A l'article 511 bis du code général des impôts.
-
-Le ministre chargé du budget autorise les nouveaux procédés de dénaturation des alcools en application du même article de ce
-ce code ;
 
 4° A l'article 570 du code général des impôts ;
 
@@ -33,8 +31,8 @@ des impôts ;
 
 2° Pour requérir la représentation du registre mentionné à l'article 330 du code général des impôts ;
 
-3° Pour recevoir après saisie les ouvrages d'or ((ou contenant de l'or)) (1), d'argent et de platine en application de
-l'article 541 du code général des impôts.
+3° Pour recevoir après saisie les ouvrages d'or ou contenant de l'or, d'argent et de platine en application de l'article 541
+du code général des impôts.
 
 (1) Modification.
 
@@ -42,17 +40,19 @@ l'article 541 du code général des impôts.
 
 	**Cite**:
 
-	  - CGI 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, 1564, 444, 511 bis, 570, 625, 319, 471, 473, 474, 568, 304, 330, 541
+	  - CGI 306, 321, 412, 426, 427, 445, 450, 454, 475, 560, 616, 620, 1562, 1565 septies, 444, 511 bis, 570, 625, 319, 471, 473, 474, 568, 304, 330, 541
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°97-1195 1997-12-19 art. 6 15° et 13, JORF 27 décembre 1997
+	  - Loi - art. 27 (V) JORF 30 décembre 1997
+	  - Loi n°97-1239 1997-12-29 art. 27 IV, VIII Finances rectificative pour 1997, JORF 30 décembre 1997
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 22 avril 1998
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi n°94-6 1994-01-01 art. 26 I, 31 JORF 5 janvier 1994
+	  - Décret n°98-400 1998-05-22
