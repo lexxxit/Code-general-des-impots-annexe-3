@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-09-30
+Version Consolidée au 1987-11-14
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4040,6 +4040,58 @@ les actions ou parts souscrites ou reçues en rémunération de l'apport de vale
 	  - Décret n°85-1007 1985-09-24
 
 
+##### Rachat d'une entreprise par ses salariés.
+
+###### Article 38 septdecies G
+
+Le contribuable qui, dans les conditions prévues aux II et III de l'article 83 bis du code général des impôts, déduit du
+salaire brut versé par la société rachetée les intérêts d'un emprunt contracté pour souscrire au capital de la société
+nouvelle constituée exclusivement pour le rachat doit joindre à la déclaration des revenus de l'année au titre de laquelle il
+effectue la première déduction de ces intérêts une copie du contrat de prêt et le tableau des échéances de celui-ci.
+
+" Il doit joindre également à la déclaration des revenus de l'année au cours de laquelle la souscription au capital de la
+société nouvelle a eu lieu une attestation établie par cette société précisant qu'elle est soumise à l'impôt sur les sociétés
+dans les conditions de droit commun et mentionnant :
+
+" a) La raison sociale et le siège de cette société ;
+
+" b) La date de sa création ;
+
+" c) La date, le montant et la nature de la souscription ;
+
+" d) La désignation de l'intermédiaire agréé chez lequel les titres souscrits sont déposés ou inscrits en compte.
+
+" En cas d'acquisition d'actions en exécution des options mentionnées au III du même article 83 bis, le contribuable doit
+joindre à la déclaration des revenus de l'année au cours de laquelle la levée de l'option a eu lieu une attestation délivrée
+par la société qui a consenti l'option. Cette attestation mentionne :
+
+" a) La raison sociale et le siège de la société dont les titres ont été acquis ;
+
+" b) La date à laquelle l'option a été consentie ;
+
+" c) Le nombre de titres acquis ;
+
+" d) La date d'acquisition et le prix payé par le salarié.
+
+" Les intermédiaires agréés mentionnés ci-dessus sont ceux énumérés à l'article 95 B de l'annexe II au code général des
+impôts. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 83 bis II, III
+	  - CGIAN2 95 B
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-22
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 9 (V) JORF 14 novembre 1987
+
+
 ##### D : Obligations des employeurs
 
 ###### Article 39 B
@@ -7132,6 +7184,59 @@ II. Les dispositions de l'article 238 octies précité cessent de s'appliquer au
 	**Cite**:
 
 	  - CGI 209 quater D, 238 octies, 223 sexies
+
+
+##### Section V bis : Rachat d'une entreprise par ses salariés
+
+###### Article 46 quater-0 RB
+
+Pour l'application de l'article 220 quater A du code général des impôts, les droits détenus indirectement par des sociétés
+dans la société nouvelle s'entendent des droits détenus par des personnes physiques ou morales qui ont avec des sociétés des
+liens de nature à établir une véritable communauté d'intérêts ou qui exercent des fonctions de direction dans des sociétés.
+Les fonctions de direction s'entendent des fonctions de gérant ou de président du conseil d'administration ou du directoire.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 2 (V) JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quater A (V)
+
+
+###### Article 46 quater-0 RD
+
+Les salariés retenus pour l'appréciation de l'effectif de vingt salariés mentionné au b du II de l'article 220 quater A du
+code général des impôts sont les salariés qui bénéficient d'un contrat de travail à durée indéterminée ou d'une durée de six
+mois au moins. Cet effectif est calculé en tenant compte de la durée de présence de ces personnes pendant l'exercice. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 quater A II b
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 5 (V) JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
 
 
 ##### Section VI : Report en arrière des déficits
