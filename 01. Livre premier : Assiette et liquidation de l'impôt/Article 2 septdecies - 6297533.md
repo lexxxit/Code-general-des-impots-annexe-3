@@ -1,11 +1,15 @@
 # Article 2 septdecies
 
-I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
-sexdecies et 2 sexdecies A incombent à cette société. L'engagement prévu à l'article 2 quaterdecies est joint par la société
-à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de
-la déduction forfaitaire majorée. L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa
-déclaration du résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa
-déclaration du résultat de l'année d'achèvement des travaux.
+I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quaterdecies A, 2
+quindecies, 2 sexdecies, 2 sexdecies-0 A et 2 sexdecies A incombent à cette société. L'engagement prévu à l'article 2
+quaterdecies est joint par la société à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location
+dont les revenus peuvent bénéficier de la déduction forfaitaire majorée. L'engagement prévu à l'article 2 quaterdecies A est
+joint par la société à sa déclaration du résultat de l'année au cours de laquelle la location ouvre droit pour la première
+fois à la déduction forfaitaire majorée.
+
+L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa déclaration du résultat de l'année
+d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année
+d'achèvement des travaux.
 
 II. - La société doit, avant le 16 février de chaque année, faire parvenir à ses associés un document établi en double
 exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
@@ -17,7 +21,7 @@ suivants :
 acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
 
 3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2
-duodecies, 2 terdecies et 2 sexdecies ;
+duodecies, 2 duodecies A, 2 terdecies, 2 sexdecies et 2 sexdecies-0 A ;
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ;
 
@@ -44,20 +48,12 @@ correspondant aux droits de chaque associé.
 	**Cite**:
 
 	  - CGI 31
-	  - CGIAN3 2 quaterdecies, 2 quindecies, 2 sexdecies, 2 duodecies, 2 terdecies, 2 sexdecies A
+	  - CGIAN3 2 sexdecies A, 2 quaterdecies, 2 quaterdecies A, 2 quindecies, 2 sexdecies, 2 sexdecies-0 A, 2 sexdecies A, 2 duodecies, 2 duodecies A, 2 terdecies
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2002-1207 2002-09-27
-
-	**Modifié par**:
-
-	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 3 () JORF 27 octobre 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002

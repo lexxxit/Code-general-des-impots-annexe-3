@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2002-08-31
+Version Consolidée au 2002-10-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -360,6 +360,99 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - HISTO: Edition du 31 mars 2002
 
 
+###### Article 2 duodecies A
+
+Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
+de ressources du locataire sont les suivants :
+
+a. Pour les baux conclus, reconduits ou renouvelés entre le 1er janvier 2002 et le 31 décembre 2002, les plafonds de loyer
+mensuel, charges non comprises, sont fixés à 8 euros par mètre carré en zone I bis, 6,5 euros en zone I, 4,5 euros en zone II
+et 4 euros en zone III. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de
+loyer prévus à l'article 2 duodecies.
+
+Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
+logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
+l'application de l'article 2 duodecies ;
+
+b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
+général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle pour
+laquelle la location à ce locataire ouvre droit pour la première fois à la déduction forfaitaire majorée.
+
+Pour les baux conclus, reconduits ou renouvelés en 2002, les plafonds annuels de ressources sont les suivants :
+
+COMPOSITION DU FOYER LOCATAIRE : Personne seule
+
+LIEU DE LA LOCATION
+
+Ile-de-France (en euros) :  9 529
+
+Province (en euros) :  7 956 
+
+COMPOSITION DU FOYER LOCATAIRE : Couple marié
+
+LIEU DE LA LOCATION
+
+Ile-de-France (en euros) : 15 661
+
+Province (en euros) : 12 181 
+
+COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant une personne à charge
+
+LIEU DE LA LOCATION
+
+Ile-de-France (en euros) : 18 810
+
+Province (en euros) : 14 584 
+
+COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant deux personnes à charge
+
+LIEU DE LA LOCATION
+
+Ile-de-France (en euros) : 22 455
+
+Province (en euros) : 17 650 
+
+COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant trois personnes à charge
+
+LIEU DE LA LOCATION
+
+Ile-de-France (en euros) : 26 599
+
+Province (en euros) : 20 716 
+
+COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant quatre personnes à charge
+
+LIEU DE LA LOCATION
+
+Ile-de-France (en euros) : 29 912
+
+Province (en euros) : 23 367 
+
+COMPOSITION DU FOYER LOCATAIRE : Majoration par personne à charge à partir de la cinquième
+
+LIEU DE LA LOCATION
+
+Ile-de-France (en euros) : 3 398
+
+Province (en euros) : 2 653 
+
+Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
+l'article 2 duodecies.
+
+Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
+196 B du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31, 2 duodecies, 1417, 196 à 196 B
+
+	**Créé par**:
+
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 1 () JORF 27 octobre 2002
+
+
 ###### Article 2 novodecies
 
 Pour l'application du g du 1° du I de l'article 31 du code général des impôts la déduction au titre de l'amortissement est
@@ -409,6 +502,10 @@ impôts est constaté lors du dépôt de la déclaration des revenus de l'année
 les revenus peuvent bénéficier de la déduction forfaitaire majorée ou, si elle est postérieure, de l'année au cours de
 laquelle les parts ont été acquises.
 
+L'engagement de conservation des titres prévu au cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts
+est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
+pour la première fois à la déduction forfaitaire majorée.
+
 L'engagement de conservation des titres prévu au dixième alinéa du g du 1° du I de l'article précité est constaté lors du
 dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si elle est
 postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de
@@ -434,17 +531,9 @@ un exemplaire du document mentionné au II de l'article 2 septdecies.
 	  - CGI 31
 	  - CGIAN3 2 septdecies
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2002-1207 2002-09-27
-
-	**Modifié par**:
-
-	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 4 () JORF 27 octobre 2002
 
 
 ###### Article 2 quaterdecies
@@ -591,12 +680,16 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 
 ###### Article 2 septdecies
 
-I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
-sexdecies et 2 sexdecies A incombent à cette société. L'engagement prévu à l'article 2 quaterdecies est joint par la société
-à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de
-la déduction forfaitaire majorée. L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa
-déclaration du résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa
-déclaration du résultat de l'année d'achèvement des travaux.
+I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quaterdecies A, 2
+quindecies, 2 sexdecies, 2 sexdecies-0 A et 2 sexdecies A incombent à cette société. L'engagement prévu à l'article 2
+quaterdecies est joint par la société à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location
+dont les revenus peuvent bénéficier de la déduction forfaitaire majorée. L'engagement prévu à l'article 2 quaterdecies A est
+joint par la société à sa déclaration du résultat de l'année au cours de laquelle la location ouvre droit pour la première
+fois à la déduction forfaitaire majorée.
+
+L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa déclaration du résultat de l'année
+d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année
+d'achèvement des travaux.
 
 II. - La société doit, avant le 16 février de chaque année, faire parvenir à ses associés un document établi en double
 exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
@@ -608,7 +701,7 @@ suivants :
 acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
 
 3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2
-duodecies, 2 terdecies et 2 sexdecies ;
+duodecies, 2 duodecies A, 2 terdecies, 2 sexdecies et 2 sexdecies-0 A ;
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ;
 
@@ -635,23 +728,15 @@ correspondant aux droits de chaque associé.
 	**Cite**:
 
 	  - CGI 31
-	  - CGIAN3 2 quaterdecies, 2 quindecies, 2 sexdecies, 2 duodecies, 2 terdecies, 2 sexdecies A
+	  - CGIAN3 2 sexdecies A, 2 quaterdecies, 2 quaterdecies A, 2 quindecies, 2 sexdecies, 2 sexdecies-0 A, 2 sexdecies A, 2 duodecies, 2 duodecies A, 2 terdecies
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2002-1207 2002-09-27
-
-	**Modifié par**:
-
-	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
+	  - Décret n°2002-1296 du 24 octobre 2002 - art. 3 () JORF 27 octobre 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 2 sexdecies
