@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-10-29
+Version Consolidée au 1992-02-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -26875,18 +26875,16 @@ recouvrement des impôts directs du lieu d'imposition défini par l'article 218 
 société modifie le lieu de son principal établissement après l'échéance du premier acompte afférent à un exercice déterminé
 les acomptes subséquents doivent être versés à la caisse du comptable du Trésor habilité à percevoir le premier acompte.
 
-Chacun des premier et quatrième acomptes est égal [*montant*] à 9,25 p. 100 du bénéfice imposable déterminé d'après les
-résultats du plus récent exercice clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année
-d'après les résultats de la dernière période d'imposition.
-
-Chacun des deuxième et troisième acomptes est égal à 9,75 p. 100 du bénéfice imposable défini.
+Chacun des acomptes est égal à 9 p. 100 du bénéfice imposable déterminé d'après les résultats du plus récent exercice clos à
+la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année d'après les résultats de la dernière
+période d'imposition.
 
 Toutefois  en cas d'exercice d'une durée inférieure ou supérieure à un an  les acomptes sont calculés sur la base des
 bénéfices rapportés à une période de douze mois.
 
 Par dérogation aux dispositions du deuxième alinéa  l'acompte dont l'échéance est comprise entre la date de clôture d'un
 exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé à l'article 223-1, deuxième alinéa
-du code général des impôts  est égal, s'il y a lieu, à 9,25 p. 100 du bénéfice afférent à l'exercice ou à la période
+du code général des impôts  est égal, s'il y a lieu, à 9 p. 100 du bénéfice afférent à l'exercice ou à la période
 d'imposition précédente et dont le délai de déclaration est expiré. Le montant de cet acompte est régularisé sur la base des
 résultats du dernier exercice ou de la dernière période d'imposition lors du versement du plus prochain acompte.
 
@@ -26901,8 +26899,7 @@ Le montant des acomptes est arrondi au franc inférieur.
 
 	**Modifié par**:
 
-	  - Décret n°91-151 du 8 février 1991 - art. 1 (V) JORF 9 février 1991
-	  - Modification directe incorporée dans l'édition du 24 juin 1991
+	  - Décret n°92-119 du 5 février 1992 - art. 1 () JORF 7 février 1992
 
 	**Cité par**:
 
@@ -26960,52 +26957,37 @@ le comptable du Trésor de remettre à l'intéressé une quittance détachée d'
 	  - HISTO: EDITION 1979-07-01
 
 
-###### Article 363
-
-La société  qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur aux cotisations
-dont elle sera finalement redevable pour cet exercice  peut se dispenser d'effectuer de nouveaux versements d'acomptes en
-remettant au comptable du Trésor chargé du recouvrement des impôts directs avant la date de majoration, fixée à l'article
-364, du prochain versement à effectuer une déclaration datée et signée.
-
-Si  par la suite  cette déclaration est reconnue inexacte de plus du dixième la majoration de 10 % [*sanction, pénalité*],
-visée à l'article 364, sera appliquée aux sommes qui n'auront pas été versées aux échéances prévues.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 364
-
-	**Modifié par**:
-
-	  - Décret n°88-287 du 24 mars 1988 - art. 1 (V) JORF 30 mars 1988
-
-	**Abrogé par**:
-
-	  - Décret n°92-119 du 5 février 1992 - art. 3 () JORF 7 février 1992
-
-
 ###### Article 364
 
-1. Si l'un des acomptes prévus à l'article 360 n'a pas été intégralement versé le 15 du mois suivant celui au cours duquel il
-est devenu exigible la majoration de 10 % [*sanction, pénalité*] , visée à l'article 1762 du code général des impôts est
-appliquée aux sommes non réglées.
+1. (Abrogé).
 
-2. Le recouvrement des acomptes ou fractions d'acomptes non réglés et de la majoration de 10 % correspondante est poursuivi,
-le cas échéant, en vertu d'un titre de perception rendu exécutoire par le trésorier-payeur général. Les dispositions du titre
-IV du livre des procédures fiscales concernant les impôts dont le recouvrement incombe aux comptables du Trésor, sont
-applicables.
+2. Le recouvrement des acomptes ou fractions d'acomptes non réglé et de la majoration de 10 % correspondante prévue au 3 de
+l'article 1762 du code général des impôts est poursuivi, le cas échéant, en vertu d'un titre de perception rendu exécutoire
+par le trésorier-payeur général. Les dispositions du titre IV du livre des procédures fiscales concernant les impôts dont le
+recouvrement incombe aux comptables du Trésor, sont applicables.
 
 3. Les omissions totales ou partielles constatées dans l'établissement de ce titre ainsi que les erreurs commises dans le
 calcul des acomptes ou de la majoration peuvent être réparées jusqu'à l'expiration de la quatrième année suivant celle au
-cours de laquelle les versements étaient exigibles [*délai*].
+cours de laquelle les versements étaient exigibles.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1762
-	  - CGIAN3 360
+
+	**Modifié par**:
+
+	  - Décret n°92-119 du 5 février 1992 - art. 3 () JORF 7 février 1992
+	  - Décret n°92-119 du 5 février 1992 - art. 4 () JORF 7 février 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
 
 
 ###### Article 365
