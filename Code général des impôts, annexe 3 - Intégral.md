@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-07-31
+Version Consolidée au 1983-09-15
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -272,34 +272,6 @@ constructeurs.
 
 
 ## IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ETABLISSEMENTS PUBLICS ET D'ORGANISMES DIVERS
-
-### IMPOTS DIRECTS ET TAXES ASSIMILEES
-
-#### TAXES POUR FRAIS DE CHAMBRES DE COMMERCE ET D'INDUSTRIE.
-
-###### Article 331
-
-Les justifications prévues à l'article 330 sont fournies au service des impôts dans la circonscription duquel sont situés les
-établissements  boutiques ou magasins à raison desquels les intéressés sont passibles de la taxe professionnelle.
-
-La justification de l'inscription au répertoire des métiers est constituée par la production d'une copie sur papier libre
-certifiée conforme par le maire ou par le commissaire de police  du récépissé de la demande d'immatriculation visé à
-l'article 5 de l'arrêté du 13 janvier 1975  relatif à l'organisation et à la tenue du répertoire des métiers.
-
-La justification de la non-inscription sur la liste électorale de la chambre de commerce et d'industrie consiste en une
-attestation délivrée par le greffe du tribunal de commerce.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1975-01-13 ART. 5
-	  - CGIAN3 330
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ### CONTRIBUTIONS INDIRECTES
 
@@ -15347,6 +15319,38 @@ justification au plus tard le 31 janvier de l'année suivant celle de leur insta
 	  - CGI 1600
 	  - CGIAN3 331
 	  - Décret n°1940-04-24
+
+
+###### Article 331
+
+Les justifications prévues à l'article 330 sont fournies au service des impôts dans la circonscription duquel sont situés les
+établissements  boutiques ou magasins à raison desquels les intéressés sont passibles de la taxe professionnelle.
+
+La justification de l'inscription au répertoire des métiers est constituée par la production d'une copie sur papier libre
+certifiée conforme par le maire ou par le commissaire de police  du récépissé de la demande d'immatriculation visé à
+l'article 10 de l'arrêté du 30 août 1983  relatif à l'organisation et à la tenue du répertoire des métiers.
+
+La justification de la non-inscription sur la liste électorale de la chambre de commerce et d'industrie consiste en une
+attestation délivrée par le greffe du tribunal de commerce.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1983-08-30 art. 10
+	  - CGIAN3 330
+
+	**Modifié par**:
+
+	  - Arrêté 1983-08-30 art. 10, art. 21 JORF 15 septembre 1983
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ##### Section I B : Taxe perçue au profit du budget annexe des prestations sociales agricoles
