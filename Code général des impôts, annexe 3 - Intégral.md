@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-03-30
+Version Consolidée au 1988-04-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -22,6 +22,35 @@ constructions, sous déduction d'une décote égale à 8 % par année de bail au
 
 
 ##### III : Bénéfices industriels et commerciaux
+
+##### A : Opérations réalisées sur des marchés financiers à terme
+
+###### Article 2 B
+
+Le document mentionné au 2° du 6 de l'article 38 du code général des impôts doit comporter les renseignements suivants :
+
+1. Pour chacun des contrats à terme : nature, valeur nominale, date d'ouverture, date d'échéance, prix d'acquisition, cours à
+la clôture de l'exercice, profit à la clôture de l'exercice.
+
+2. Pour chacune des opérations de l'exercice suivant : valeur nominale, date d'ouverture, date d'échéance.
+
+Ce document est annexé à la déclaration des résultats de l'exercice au cours duquel les contrats à terme d'instruments
+financiers ont été conclus. Il est établi conformément au modèle fixé par l'administration. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 38 6 2°
+
+	**Créé par**:
+
+	  - Décret n°88-316 du 28 mars 1988 - art. 2 (V) JORF 7 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
 
 ##### B : Provision pour fluctuation des cours
 
@@ -25998,68 +26027,5 @@ services fiscaux pour servir de pièces justificatives aux agents du service du 
 	**Codifié par**:
 
 	  - Décret n°81-866 1981-09-15
-
-
-# RECOUVREMENT DE L'IMPOT
-
-## PAIEMENT DE L'IMPOT
-
-### IMPOTS DIRECTS ET TAXES ASSIMILEES.
-
-###### Article 360
-
-Les acomptes sont calculés par la société et versés par elle sans avis d'imposition dans les vingt premiers jours des mois de
-février mai août et novembre de chaque année [*délai,date de paiement*] à la caisse du comptable du Trésor chargé du
-recouvrement des impôts directs du lieu d'imposition défini par l'article 218 A du code général des impôts. Lorsqu'une
-société modifie le lieu de son principal établissement après l'échéance du premier acompte afférent à un exercice déterminé
-les acomptes subséquents doivent être versés à la caisse du comptable du Trésor habilité à percevoir le premier acompte.
-
-Chacun des premier et quatrième acomptes est égal [*montant*] à 10 p. 100 du bénéfice imposable déterminé d'après les
-résultats du plus récent exercice clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année
-d'après les résultats de la dernière période d'imposition.
-
-Chacun des deuxième et troisième acomptes est égal à 11 p. 100 du bénéfice imposable défini [*(1)*].
-
-Toutefois  en cas d'exercice d'une durée inférieure ou supérieure à un an  les acomptes sont calculés sur la base des
-bénéfices rapportés à une période de douze mois.
-
-Par dérogation aux dispositions du deuxième alinéa  l'acompte dont l'échéance est comprise entre la date de clôture d'un
-exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé à l'article 223-1, deuxième alinéa
-du code général des impôts  est égal, s'il y a lieu, à 10 p. 100 du bénéfice afférent à l'exercice ou à la période
-d'imposition précédente et dont le délai de déclaration est expiré. Le montant de cet acompte est régularisé sur la base des
-résultats du dernier exercice ou de la dernière période d'imposition lors du versement du plus prochain acompte.
-
-Le montant des acomptes est arrondi au franc inférieur.
-
-[*(1) cette disposition s'applique aux acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1988.*]
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 218 A
-	  - CGI 223 1 al. 2
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°87-416 1987-06-17 art. 66
-
-	**Modifié par**:
-
-	  - Décret n°87-794 du 24 septembre 1987 - art. 1 (V) JORF 30 septembre 1987
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 septies M (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 377 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YZH (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY septies (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies Q (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies X (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YC (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YO (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (V)
 
 
