@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-10-21
+Version Consolidée au 1980-11-07
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -7133,6 +7133,62 @@ l'administration des monnaies. Ce signe est changé toutes les fois qu'il est n�
 
 
 
+##### Section II : Organisation des bureaux de garantie
+
+###### Article 187
+
+Le poinçonnement des ouvrages est fait après essai par le bureau de garantie le plus proche du lieu de fabrication.
+
+Le nombre et les circonscriptions des bureaux de garantie sont fixés par le ministre chargé des finances.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 1 (V) JORF 7 novembre 1980
+
+
+###### Article 189
+
+L'essai est effectué au touchau. Il peut également être procédé à un essai à la coupelle ou à un essai par la voie humide
+lorsque le bureau de garantie l'estime nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 1 (V) JORF 7 novembre 1980
+
+
+###### Article 190
+
+L'essai peut porter exceptionnellement sur les prélèvements de métal opérés par l'inspecteur au cours de la fabrication.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 1 (V) JORF 7 novembre 1980
+
+
+###### Article 191
+
+Les professionnels peuvent faire déterminer, par les bureaux de garantie, le titre des lingots, apprêts ou composants,
+entrant dans leurs fabrications. La rémunération du bureau est fixée par arrêté du ministre chargé des finances (1).
+
+(1) Voir annexe IV, art. 56 J bis.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 1 (V) JORF 7 novembre 1980
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J bis (V)
+
+
 ##### Section III : Fonctionnement des bureaux de garantie
 
 ###### Article 206
@@ -7151,6 +7207,32 @@ cas contraire, ils sont supportés par le propriétaire de l'objet.
 
 Dans tous les cas, les cornets et boutons d'essai sont remis au propriétaire de la pièce.
 
+
+
+##### Section IV : Obligations des redevables
+
+###### Article 209
+
+En cas de décès d'un fabricant, son poinçon de responsabilité est remis par son dépositaire, dans un délai de trois mois, au
+bureau de garantie dont il dépendait.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 2 (V) JORF 7 novembre 1980
+
+
+###### Article 210
+
+En cas de cessation d'activité, le fabricant remet son poinçon de responsabilité au bureau de garantie dans un délai de
+trente jours.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 2 (V) JORF 7 novembre 1980
 
 
 ##### Section VI : Frappe des médailles
@@ -8057,6 +8139,19 @@ impôts.
 
 #### Chapitre II : Garantie des matières d'or, d'argent et de platine
 
+##### Section II : Organisation des bureaux de garantie.
+
+###### Article 188
+
+Le droit de garnatie est liquidé par le bureau de garantie et payable à la recette des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 1 (V) JORF 7 NOVEMBRE 1980
+
+
 ##### Section III : Fonctionnement des bureaux de garantie.
 
 ###### Article 203
@@ -8126,19 +8221,51 @@ demander au chef du service des laboratoires du ministère de l'économie et des
 
 ##### Section IV : Obligations des redevables.
 
-###### Article 209
+###### Article 211
 
-Lorsqu'un fabricant meurt, son poinçon est remis, dans les cinquante jours du décès [*délai*], au bureau de garantie dont il
-dépendait, pour y être biffé.
-
-Pendant ce temps, le dépositaire du poinçon est responsable de l'usage qui pourrait en être fait, comme le sont les
-fabricants en exercice.
+Les personnes qui fabriquent ou mettent en vente des objets d'or, d'argent ou de platine soumis à la réglementation en
+matière de garantie et qui fabriquent ou mettent en vente, en même temps, et dans le même local, des objets en métaux divers,
+doublés, plaqués, dorés, argentés, platinés ou non, sont tenues d'indiquer, de façon apparente, dans les vitrines
+d'exposition, sur les catalogues et emballages, ainsi que sur les factures qu'elles délivrent aux acheteurs, la nature réelle
+de ces derniers objets. Les détaillants doivent placer dans un lieu visible de l'extérieur de leur magasin un tableau ou
+affiche représentant les différents modèles de poinçons du service de la garantie, les titres auxquels ils correspondent,
+ainsi que les modèles des poinçons des fabricants.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: EDITION 1979-07-01
+	  - Décret n°82-881 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 3 (V) JORF 7 NOVEMBRE 1980
+
+
+##### Section VI : Frappe des médailles.
+
+###### Article 213
+
+Les personnes autorisées à frapper des médailles munies ou non de belière sont tenues d'apposer sur celles-ci leur poinçon de
+maître. Ce poinçon a, suivant le cas, l'une des formes indiquées ci-après :
+
+Losange, pour les médailles en platine, or ou argent;
+
+Carré parfait pour les médailles en métal commun doublé ou plaqué d'or ou d'argent ou bien en métal commun doré ou argenté;
+
+Triangle pour les médailles en métal commun.
+
+Chaque poinçon de maître doit porter la lettre initiale du nom du fabricant ou de l'industriel avec un symbole.
+
+Le mot "doublé" en toutes lettres doit être empreint sur les médailles en métal commun doublé ou plaqué d'or ou d'argent.
+
+Le poinçon de maître doit être apposé dès l'achèvement de la fabrication.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°80-871 du 30 octobre 1980 - art. 4 (V) JORF 7 NOVEMBRE 1980
 
 
 #### Chapitre III : Droits divers
