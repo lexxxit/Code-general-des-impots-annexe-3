@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2002-04-05
+Version Consolidée au 2002-08-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -423,8 +423,9 @@ mentionnée au I, sur un compte ouvert au nom de l'associé dans la comptabilit�
 documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à la fin de la troisième année suivant celle
 de l'expiration de l'engagement mentionné au I.
 
-III. - Les associés joignent à chacune de leurs déclarations des revenus un exemplaire du document mentionné au II de
-l'article 2 septdecies.
+III. - Les associés joignent à chacune de leurs déclarations des revenus y compris pendant la période de mise à disposition
+du logement prévue au deuxième alinéa du e et au troisième alinéa du g du 1° du I de l'article 31 du code général des impôts
+un exemplaire du document mentionné au II de l'article 2 septdecies.
 
 **Liens relatifs à cet article**
 
@@ -435,15 +436,15 @@ l'article 2 septdecies.
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-1207 2002-09-27
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 2 quaterdecies
@@ -590,15 +591,15 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 
 ###### Article 2 septdecies
 
-I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies et 2
-sexdecies incombent à cette société. L'engagement prévu à l'article 2 quaterdecies est joint par la société à sa déclaration
-du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la déduction
-forfaitaire majorée. L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa déclaration du
-résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat
-de l'année d'achèvement des travaux.
+I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
+sexdecies et 2 sexdecies A incombent à cette société. L'engagement prévu à l'article 2 quaterdecies est joint par la société
+à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de
+la déduction forfaitaire majorée. L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa
+déclaration du résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa
+déclaration du résultat de l'année d'achèvement des travaux.
 
 II. - La société doit, avant le 16 février de chaque année, faire parvenir à ses associés un document établi en double
-exemplaire, conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
+exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
 suivants :
 
 1° L'identité et l'adresse de l'associé ;
@@ -619,6 +620,10 @@ l'amortissement ;
 forfaitaire ou des déductions au titre de l'amortissement que l'associé doit ajouter au revenu foncier de l'année au cours de
 laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue.
 
+7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions
+prévues au deuxième alinéa du e et au troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les
+éléments figurant sur la note annexe prévue à l'article 2 sexdecies A.
+
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
 III. - La société joint chaque année à sa déclaration de résultat l'état mentionné au IV de l'article 2 quindecies. Elle y
@@ -629,11 +634,16 @@ correspondant aux droits de chaque associé.
 
 	**Cite**:
 
-	  - CGIAN3 2 quaterdecies, 2 quindecies, 2 sexdecies, 2 duodecies, 2 terdecies
+	  - CGI 31
+	  - CGIAN3 2 quaterdecies, 2 quindecies, 2 sexdecies, 2 duodecies, 2 terdecies, 2 sexdecies A
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°99-244 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Décret n°2002-1207 2002-09-27
+
+	**Modifié par**:
+
+	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
 
 	**Cité par**:
 
@@ -641,7 +651,7 @@ correspondant aux droits de chaque associé.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 2 sexdecies
@@ -712,8 +722,8 @@ quindecies.
 
 ###### Article 2 sexdecies A
 
-Pendant la période de mise à disposition du logement prévue au cinquième alinéa du e et au troisième alinéa du g du 1° du I
-de l'article 31 du code général des impôts, le contribuable joint chaque année à sa déclaration de revenu une note annexe
+Pendant la période de mise à disposition du logement prévue au deuxième alinéa du e et au troisième alinéa du g du 1° du I de
+l'article 31 du code général des impôts, le contribuable joint chaque année à sa déclaration de revenu une note annexe
 établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants :
 
 a) L'identité et l'adresse du contribuable ;
@@ -740,13 +750,21 @@ départ des lieux de l'ascendant ou descendant du contribuable.
 
 	  - CGI 31
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2002-455 du 3 avril 2002 - art. 1 () JORF 5 avril 2002
+	  - Décret n°2002-1207 2002-09-27
+
+	**Modifié par**:
+
+	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 2 terdecies
@@ -6161,24 +6179,24 @@ de marge d'amortissements dégagés par cette dernière.
 I. La demande d'option prévue à l'article 93 A du code général des impôts, établie sur papier libre, doit parvenir, en simple
 exemplaire, au service des impôts dont dépend le lieu d'exercice de la profession ou le principal établissement du demandeur,
 avant le 1er février de la première année au titre de laquelle l'impôt sur le revenu est établi conformément aux dispositions
-de l'article 93 A précité.
+de l'article 93 A précité. 
+
+Toutefois, dans la situation prévue au deuxième alinéa du I de l'article 93 A du code général des impôts, ce délai est
+prolongé jusqu'à la limite prévue pour le dépôt de la déclaration visée à l'article 97 du même code. 
 
 II. Les contribuables renoncent au bénéfice des dispositions de l'article 93 A du code précité selon les modalités fixées au
-I.
+premier alinéa du I.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2002-440 du 2 avril 2002 - art. 1 () JORF 3 avril 2002
+
 	**Cite**:
 
-	  - CGI 93 A
-
-	**Créé par**:
-
-	  - Décret n°96-790 du 10 septembre 1996 - art. 1 () JORF 12 septembre 1996
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, CGI. - art. 93 A (V)
+	  - Code général des impôts, CGI. - art. 97 (V)
 
 
 ###### Article 41-0 bis B
@@ -9578,16 +9596,16 @@ II. - Les dispositions du II et du III de l'article 46 AGD s'appliquent au prés
 I. Pour l'application du 3° du 3 de l'article 199 undecies du code général des impôts, les montants annuels du loyer et des
 ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus en 2001, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2002, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 780 F dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
+1° 123 Euros dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
 année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
 consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 1 020 F dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond est
-révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices
-des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
+2° 164 Euros dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond
+est révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des
+indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
 Pour le calcul de ces plafonds, il est fait application de la dernière variation annuelle publiée par l'Institut national de
 la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
@@ -9595,17 +9613,17 @@ la statistique et des études économiques au 1er décembre de l'année qui pré
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2001, les plafonds annuels de ressources sont fixés à :
+Pour les baux conclus en 2002, les plafonds annuels de ressources sont fixés à :
 
-1°  140 000 F pour une personne seule et 280 000 F pour un couple marié soumis à imposition commune dans les départements
-d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 16 200 F par personne à charge au sens
-des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 21 600 F par enfant à partir du troisième.
-Ces montants sont relevés chaque année selon les modalités définies au 1.
+1°  21 808 Euros pour une personne seule et 43 616 Euros pour un couple marié soumis à imposition commune dans les
+départements d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 2 523 Euros par personne à
+charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 371 Euros par enfant à
+partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
-2° 140 000 F pour une personne seule et 280 000 F pour un couple marié soumis à imposition commune dans les territoires
-d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 16 200 F par personne à
-charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 21 600 F par enfant à partir
-du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+2° 21 851 Euros pour une personne seule et 43 702 Euros pour un couple marié soumis à imposition commune dans les territoires
+d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 2 528 Euros par personne
+à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 378 Euros par enfant à
+partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
 3. Dans le cas mentionné au troisième alinéa du 4 de l'article 199 undecies du code général des impôts, les conditions
 prévues au 1 et au 2 s'apprécient en tenant compte du montant :
@@ -9640,7 +9658,8 @@ services fiscaux auprès de laquelle la société souscrit sa déclaration de r�
 
 La société délivre en double exemplaire à chaque souscripteur un document attestant que la location et, le cas échéant, la
 sous-location remplissent les conditions prévues par le présent article. Le souscripteur en joint un exemplaire à sa
-déclaration de revenus de l'année au cours de laquelle le bail est signé.
+déclaration de revenus de l'année au cours de laquelle le bail est signé.    (Ces dispositions s'appliquent aux
+investissements réalisés jusqu'au 31 décembre 2000).
 
 **Liens relatifs à cet article**
 
@@ -9650,15 +9669,15 @@ déclaration de revenus de l'année au cours de laquelle le bail est signé.
 
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2002-1207 2002-09-27
 
 	**Modifié par**:
 
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 46 AG duodecies
@@ -9666,14 +9685,14 @@ déclaration de revenus de l'année au cours de laquelle le bail est signé.
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants :
 
-1. Pour les baux conclus en 2001, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2002, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 120 euros dans les départements d'outre-mer et dans la collectivité départementale de Mayotte. Ce plafond est révisé
+1° 123 Euros dans les départements d'outre-mer et dans la collectivité départementale de Mayotte. Ce plafond est révisé
 chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des
 prix à la consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 160 euros dans les territoires d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-
+2° 164 Euros dans les territoires d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-
 Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que la variation la plus élevée de la
 moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
@@ -9693,10 +9712,17 @@ c) En Nouvelle-Calédonie, de la dernière variation annuelle publiée par l'Ins
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2001, les plafonds annuels de ressources sont fixés à 21 350 euros pour une personne seule et à 42
-700 euros pour un couple marié soumis à imposition commune. Ces sommes sont majorées de 2 470 euros par personne à charge au
-sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 300 euros par enfant à partir du
-troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
+Pour les baux conclus en 2002, les plafonds annuels de ressources sont fixés à :
+
+1° 21 808 Euros pour une personne seule et 43 616 Euros pour un couple marié soumis à imposition commune dans les
+départements d'outre-mer et dans la collectivité départementale de Mayotte. Ces sommes sont majorées de 2 523 Euros par
+personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 3 371 Euros par
+enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1 ;
+
+2° 21 851 Euros pour une personne seule et 43 702 Euros pour un couple marié soumis à imposition commune dans les territoires
+d'outre-mer, dans la collectivité territoriale de Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ces sommes sont majorées
+de 2 528 Euros par personne à charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée
+à 3 378 Euros par enfant à partir du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
 3. Dans le cas mentionné au troisième alinéa du 7 de l'article 199 undecies A du code général des impôts, les conditions
 prévues au 1 et au 2 s'apprécient en tenant compte du montant :
@@ -9713,9 +9739,13 @@ c) Des ressources du sous-locataire.
 
 	  - CGI 199 undecies A, 196 à 196 B
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2001-1373 du 31 décembre 2001 - art. 1 () JORF 1er janvier 2002
+	  - Décret n°2002-1207 2002-09-27
+
+	**Modifié par**:
+
+	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
 
 	**Cité par**:
 
@@ -9730,7 +9760,7 @@ c) Des ressources du sous-locataire.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 46 AG nonies
@@ -13139,6 +13169,45 @@ de conservation des titres.
 	**Créé par**:
 
 	  - Décret n°2002-292 du 22 février 2002 - art. 1 () JORF 1er mars 2002
+
+
+##### Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural
+
+###### Article 46 quater-0 ZZ sexies
+
+I. Pour bénéficier de l'amortissement exceptionnel prévu à l'article 217 quaterdecies du code général des impôts, le
+souscripteur au capital d'une société d'investissement régional doit joindre à sa déclaration de résultats un relevé délivré
+par cette société et comprenant :
+
+a) La raison sociale et l'adresse de la société ;
+
+b) L'identité et l'adresse de l'actionnaire ;
+
+c) Le nombre et le numéro des actions souscrites, le montant et la date de leur souscription ;
+
+d) La date et le montant des versements effectués au titre de la souscription des actions ;
+
+e) Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire, ainsi que le montant et la date de cession.
+
+II. Lorsque les actions cédées au cours d'un exercice ont été souscrites depuis moins de cinq ans par le cédant, la société
+d'investissement régional adresse, dans les deux mois suivant la cession des actions, au service des impôts dont dépend le
+domicile du cédant le relevé mentionné au I ou un duplicata de ce relevé.
+
+Ce relevé est établi sur papier libre ou sur support informatique, conformément au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 217 quaterdecies
+
+	**Créé par**:
+
+	  - Décret n°2002-574 du 18 avril 2002 - art. 1 () JORF 25 avril 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -29223,6 +29292,93 @@ compléments de taxe sont liquidés en même temps que la taxe due au titre du m
 
 #### Chapitre III : Enregistrement
 
+##### Section I : Contribution alimentant le fonds commun des accidents du travail agricole
+
+###### Article 336 bis
+
+I. - La déclaration mentionnée au septième alinéa de l'article 1622 du code général des impôts est adressée à la Caisse des
+dépôts et consignations.
+
+II. - Pour l'application du 2° de l'article 1622 précité :
+
+a. La déclaration annuelle effectuée par la Caisse centrale de la mutualité sociale agricole mentionne le nombre de personnes
+affiliées au régime d'assurance des non-salariés agricoles contre les accidents du travail et des maladies professionnelles,
+auprès de chaque caisse départementale et pluridépartementale de mutualité sociale agricole ;
+
+b. La déclaration annuelle effectuée par le groupement visé à l'article L. 752-14 du code rural mentionne le nombre de
+personnes affiliées au régime d'assurance des non-salariés agricoles contre les accidents du travail et des maladies
+professionnelles, auprès de chacun des organismes assureurs autres que les caisses de mutualité sociale agricole.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-1097 du 28 août 2002 - art. 1 () JORF 30 août 2002
+
+	**Cite**:
+
+	  - CGI 1622
+	  - Code rural L752-14
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+
+###### Article 336 quater
+
+Les contributions mentionnées à l'article 1622 du code général des impôts sont acquittées en un seul versement, avant le 30
+octobre de chaque année, auprès du service des impôts chargé du recouvrement dont relève leur siège social.
+
+Ce versement est effectué au vu d'une déclaration conforme au modèle prescrit par l'administration.
+
+**Nota:**
+
+NOTA : dispositions devenues sans objet : loi n° 2002-1576 du 30 décembre 2002, art. 64.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1622
+
+	**Créé par**:
+
+	  - Décret n°2002-1097 du 28 août 2002 - art. 1 () JORF 30 août 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2002
+	  - PEREMPTION: Loi - art. 64 (V) JORF 31 décembre 2002
+
+
+###### Article 336 ter
+
+Au vu du budget prévisionnel annuel du fonds commun des accidents du travail agricole que la Caisse des dépôts et
+consignations établit et des déclarations qu'elle reçoit conformément aux dispositions de l'article 336 bis, les ministres
+chargés du budget et de l'agriculture fixent par arrêté, avant le 15 septembre de chaque année, le montant total des
+contributions nécessaires au financement du fonds en le répartissant entre les organismes concernés. 
+
+Les contributions dues sont notifiées à chacun des organismes, par la Caisse des dépôts et consignations, avant le 30
+septembre de chaque année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-1097 du 28 août 2002 - art. 1 () JORF 30 août 2002
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis (V)
+
+
 ##### Section III : Taxe perçue au profit de l'office des migrations internationales.
 
 ###### Article 344 bis
@@ -29393,7 +29549,7 @@ ter X du même code ;
 
 10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du même code ;
 
-11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 335 ;
+11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 336 bis ;
 
 12° A la déclaration de taxe sur les conventions d'assurance prévue à l'article 991 du même code ;
 
@@ -29411,22 +29567,21 @@ terdecies.
 
 	**Cite**:
 
-	  - CGI 172, 223, 209 B, 287, 229, 1647 E, 1477, 172 bis, 235 ter X, 990 F, 335, 991, 978, 1010, 231 ter, 235 ter J, 235 ter KD, 46 C, 235 ter Y
+	  - CGI 172, 223, 209 B, 287, 1647 E, 1477, 172 bis, 229, 235 ter KD, 235 ter J, 990 F, 336 bis, 991, 978, 1010, 231 ter, 406 terdecies, 46 C, 235 ter X, 235 ter Y
 	  - CGIAN2 102 Z, 161
-	  - CGIAN3 344-0 A, 46 quater-0 F, 406 terdecies
+	  - CGIAN3 344-0 A, 46 quater-0 F
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1218 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-1218 du 13 décembre 2000 - art. 2 (V)
-	  - HISTO: Edition du 31 mars 2001
+	  - Décret n°2002-1097 du 28 août 2002 - art. 2 () JORF 30 août 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
 
 
 ###### Article 344-0 C

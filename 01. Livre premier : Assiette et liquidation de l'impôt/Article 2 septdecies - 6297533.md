@@ -1,14 +1,14 @@
 # Article 2 septdecies
 
-I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies et 2
-sexdecies incombent à cette société. L'engagement prévu à l'article 2 quaterdecies est joint par la société à sa déclaration
-du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la déduction
-forfaitaire majorée. L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa déclaration du
-résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat
-de l'année d'achèvement des travaux.
+I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
+sexdecies et 2 sexdecies A incombent à cette société. L'engagement prévu à l'article 2 quaterdecies est joint par la société
+à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de
+la déduction forfaitaire majorée. L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa
+déclaration du résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa
+déclaration du résultat de l'année d'achèvement des travaux.
 
 II. - La société doit, avant le 16 février de chaque année, faire parvenir à ses associés un document établi en double
-exemplaire, conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
+exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
 suivants :
 
 1° L'identité et l'adresse de l'associé ;
@@ -29,6 +29,10 @@ l'amortissement ;
 forfaitaire ou des déductions au titre de l'amortissement que l'associé doit ajouter au revenu foncier de l'année au cours de
 laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue.
 
+7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions
+prévues au deuxième alinéa du e et au troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les
+éléments figurant sur la note annexe prévue à l'article 2 sexdecies A.
+
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
 III. - La société joint chaque année à sa déclaration de résultat l'état mentionné au IV de l'article 2 quindecies. Elle y
@@ -39,11 +43,16 @@ correspondant aux droits de chaque associé.
 
 	**Cite**:
 
-	  - CGIAN3 2 quaterdecies, 2 quindecies, 2 sexdecies, 2 duodecies, 2 terdecies
+	  - CGI 31
+	  - CGIAN3 2 quaterdecies, 2 quindecies, 2 sexdecies, 2 duodecies, 2 terdecies, 2 sexdecies A
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°99-244 du 29 mars 1999 - art. 1 () JORF 30 mars 1999
+	  - Décret n°2002-1207 2002-09-27
+
+	**Modifié par**:
+
+	  - Décret n°2002-1207 du 27 septembre 2002 - art. 3 () JORF 29 septembre 2002
 
 	**Cité par**:
 
@@ -51,4 +60,4 @@ correspondant aux droits de chaque associé.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 août 2002
