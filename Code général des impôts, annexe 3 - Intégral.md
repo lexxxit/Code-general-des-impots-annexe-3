@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-09-24
+Version Consolidée au 2004-09-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9314,38 +9314,34 @@ après déduction de la quote-part y afférente des subventions, quelle que soit
 L'application des articles 41 E à 41 G peut être étendue aux immeubles qui, bien que non classés parmi les monuments
 historiques ni inscrits à l'inventaire supplémentaire, font partie du patrimoine national à raison de leur caractère
 historique ou artistique particulier. Toutefois, la déduction des charges visées au I de l'article 41 F est réservée à ceux
-de ces immeubles qui sont ouverts au public ; elle est limitée à 50 p. 100 de leur montant.
+de ces immeubles qui sont ouverts au public ; elle est limitée à 50% de leur montant. 
 
 Pour être admis au bénéfice des dispositions du présent article, les immeubles doivent faire l'objet d'un agrément spécial
-accordé par le ministre de l'économie et des finances (1).
+accordé par le ministre chargé du budget.
 
-(1) Annexe IV, art. 17 quinquies A.
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 26-I [l] et XI-3 de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 41 E
-	  - CGIAN3 41 F I
-	  - CGIAN3 41 G
-	  - CGIAN4 17 quinquies A
-
 	**Modifié par**:
 
-	  - Décret n°88-144 du 10 février 1988 - art. 2 (V) JORF 16 février 1988
+	  - Décret n°2004-1016 du 22 septembre 2004 - art. 1 () JORF 29 septembre 2004
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 E
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 quinquies (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 quinquies A (P)
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 41 I
@@ -9367,29 +9363,59 @@ l'immeuble soit considéré comme ouvert au public (1).
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F (V)
 
 
+###### Article 41 I bis
+
+Pour les immeubles qui, bien que non classés parmi les monuments historiques, ni inscrits à l'inventaire supplémentaire, ni
+objets d'un agrément ministériel, font partie du patrimoine national à raison du label délivré par la "Fondation du
+patrimoine", les charges déductibles afférentes à ces immeubles sont exclusivement celles qui correspondent aux travaux de
+réparation et d'entretien. Pour les immeubles habitables, seuls les travaux de cette nature, afférents aux murs, aux façades
+et aux toitures, ouvrent droit à déduction. La déduction est en outre réservée à ceux de ces immeubles qui sont visibles de
+la voie publique. La déduction des charges est limitée à 50 % de leur montant. Cette déduction est toutefois portée à 100 %
+lorsque les travaux sont subventionnés à hauteur de 20 % au moins de leur montant. Ces pourcentages de déduction s'appliquent
+à la seule fraction des travaux non couverte par une subvention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1016 du 22 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 J (V)
+
+
 ###### Article 41 J
 
-Pour bénéficier de la déduction des charges énumérées à l'article 41 F, les propriétaires d'immeubles classés monuments
-historiques ou inscrits à l'inventaire supplémentaire ou faisant l'objet de l'agrément spécial prévu à l'article 41 H sont
-tenus de joindre à la déclaration annuelle de leurs revenus une note indiquant :
+Pour bénéficier de la déduction des charges énumérées aux articles 41 F et 41 I bis, les propriétaires d'immeubles classés
+monuments historiques, inscrits à l'inventaire supplémentaire ou faisant l'objet de l'agrément spécial prévu à l'article 41 H
+ou bénéficiant du label délivré par la " Fondation du patrimoine " mentionné à l'article 41 I bis sont tenus de joindre à la
+déclaration annuelle de leurs revenus une note indiquant : 
 
-Le détail des sommes dont la déduction est demandée;
+Le détail des sommes dont la déduction est demandée ; 
 
 La date du décret, de l'arrêté ou de la décision qui a, selon le cas, soit classé l'immeuble ou certaines parties de
 l'immeuble sur la liste des monuments historiques, soit décidé son inscription à l'inventaire supplémentaire, soit accordé
-l'agrément spécial.
+l'agrément spécial. 
 
 Pour les monuments classés, elle est accompagnée d'une attestation de l'administration des affaires culturelles certifiant
 que les travaux exécutés ont effectivement le caractère de travaux d'entretien et de réparation et indiquant d'une part, le
 montant du devis correspondant établi par l'architecte en chef des monuments historiques et, d'autre part, le cas échéant, le
-taux de la subvention accordée.
+taux de la subvention accordée. 
+
+Pour les immeubles ayant reçu le label délivré par la " Fondation du patrimoine ", elle est accompagnée d'une copie de la
+décision d'octroi de ce label.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-1016 du 22 septembre 2004 - art. 1 () JORF 29 septembre 2004
+
 	**Cite**:
 
-	  - CGIAN3 41 F
-	  - CGIAN3 41 H
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 I bis (V)
 
 
 ##### II : Engagements d'épargne à long terme.
@@ -12240,15 +12266,18 @@ impôts sont prélevées sur les bénéfices dans les conditions prévues au I e
 
 ###### Article 46 quater-0 FB
 
-L'engagement prévu au c du 2 de l'article 119 ter du code général des impôts doit faire l'objet d'une déclaration qui est
-adressée à la fois à l'établissement payeur en France des dividendes et à la direction des services généraux et de
-l'informatique (centre-recette des impôts des entreprises étrangères). Cette déclaration doit être souscrite par la personne
-morale bénéficiaire des dividendes avant la date de la première mise en paiement des dividendes suivant la date d'inscription
-en compte des titres de la société émettrice.
+L'engagement prévu au c du 2 de l'article 119 ter, au deuxième alinéa du 1 de l'article 119 quater et au 2 de l'article 182 B
+bis du code général des impôts doit faire l'objet d'une déclaration qui est adressée à la fois à l'établissement payeur en
+France des dividendes ou au débiteur ou à la personne qui assure le paiement des intérêts ou des redevances et à la direction
+des services généraux et de l'informatique (centre-recette des impôts des entreprises étrangères). Cette déclaration doit
+être souscrite par la personne morale bénéficiaire des dividendes, intérêts et redevances avant la date de la première mise
+en paiement des dividendes, intérêts et redevances suivant la date d'inscription en compte des titres de la société
+émettrice.
 
 Elle comprend les renseignements suivants :
 
-a. l'engagement prévu au c du 2 de l'article 119 ter du code précité ;
+a. l'engagement prévu au c du 2 de l'article 119 ter, au deuxième alinéa du 1 de l'article 119 quater et au 2 de l'article
+182 B bis du code précité ;
 
 b. le nombre et la nature des titres composant le capital de la société émettrice ;
 
@@ -12262,25 +12291,19 @@ inscrits ;
 
 f. la date de leur acquisition et la date de leur inscription en compte si elle est différente ;
 
-g. le nom et l'adresse de la personne ou de l'organisme qui assure le paiement des dividendes ;
+g. le nom et l'adresse de la personne ou de l'organisme qui assure le paiement des dividendes, intérêts et redevances ;
 
 h. le nom et l'adresse de la personne désignée comme représentant.
-
-**Nota:**
-
-NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
-2 de l'article 218 A et aux articles 990 E à 990 F du code général des impôts sont tenues de souscrire à compter de cette
-date.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 119 ter
+	  - CGI 119 ter, 182 B bis, 119 quater
 
 	**Modifié par**:
 
-	  - Décret n°2004-950 du 8 septembre 2004 - art. 1 () JORF 9 septembre 2004
+	  - Décret n°2004-1017 du 22 septembre 2004 - art. 1 () JORF 29 septembre 2004
 
 	**Cité par**:
 
@@ -12293,44 +12316,46 @@ date.
 
 ###### Article 46 quater-0 FC
 
-La déclaration visée à l'article 46 quater 0-FB sera accompagnée de la reconnaissance par le représentant désigné qu'il est
-responsable, en cas de non-respect de l'engagement mentionné au même article, du paiement de la retenue à la source visée au
-1 de l'article 119 ter du même code, ainsi que, le cas échéant, des pénalités mentionnées à l'article 1765 bis du même code.
+La déclaration visée à l'article 46 quater-0 FB sera accompagnée de la reconnaissance par le représentant désigné qu'il est
+responsable, en cas de non-respect de l'engagement mentionné au même article, du paiement des retenues à la source ou du
+prélèvement mentionnés au 1 de l'article 119 ter et au premier alinéa du 1 de l'article 119 quater du même code, ainsi que,
+le cas échéant, des pénalités mentionnées à l'article 1765 bis du même code.
+
+Ces dispositions sont applicables à l'exonération de la retenue à la source opérée sur les paiements de redevances prévue à
+l'article 182 B bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 119 ter, 1765 bis, 46 quater-0 FB
+	  - CGI 119 ter, 119 quater, 1765 bis, 182 B bis
+	  - CGIAN3 46 quater-0 FB
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-389 du 22 avril 1997 - art. 1 () JORF 24 avril 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Décret n°2004-1017 du 22 septembre 2004 - art. 2 () JORF 29 septembre 2004
 
 
 ###### Article 46 quater-0 FD
 
-Le délai de deux ans prévu au c du 2 de l'article 119 ter du code général des impôts, pendant lequel les titres doivent être
-conservés, est décompté de la date de leur inscription en compte, à moins qu'il ne soit établi que la date d'acquisition des
-titres est différente.
+Le délai de deux ans prévu au c du 2 de l'article 119 ter et au deuxième alinéa du 1 de l'article 119 quater du code général
+des impôts, pendant lequel les titres doivent être conservés, est décompté de la date de leur inscription en compte, à moins
+qu'il ne soit établi que la date d'acquisition des titres est différente. 
+
+Ces dispositions sont applicables à l'exonération de la retenue à la source opérée sur les paiements de redevances prévue à
+l'article 182 B bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2004-1017 du 22 septembre 2004 - art. 3 () JORF 29 septembre 2004
+
 	**Cite**:
 
-	  - CGI 119 ter
-
-	**Créé par**:
-
-	  - Décret n°97-389 du 22 avril 1997 - art. 1 () JORF 24 avril 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Code général des impôts, CGI. - art. 119 quater (V)
+	  - Code général des impôts, CGI. - art. 119 ter (V)
+	  - Code général des impôts, CGI. - art. 182 B bis (V)
 
 
 ##### Section V : Profits de construction
