@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1990-06-15
+Version Consolidée au 1990-07-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4020,37 +4020,6 @@ leur première déclaration de résultats une note donnant la composition et le 
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
-
-
-##### Obligations particulières au régime transitoire d'imposition.
-
-###### Article 38 sexdecies RD
-
-I. - Les exploitants soumis au régime transitoire d'imposition doivent tenir et présenter aux agents de l'administration :
-
-a) Un livre-journal tenu au jour le jour présentant le détail des recettes et des dépenses ;
-
-b) Les factures et autres pièces justificatives relatives à ces recettes et dépenses ;
-
-c) Un document appuyé des pièces justificatives correspondantes comportant la date d'acquisition ou de création et le prix de
-revient des éléments d'actif affectés à l'exercice de leur profession, le montant des amortissements effectués sur ces
-éléments ainsi que, éventuellement, le prix et la date de cession de ces mêmes éléments.    II. - Les documents comptables et
-pièces justificatives énumérés au I doivent être conservés jusqu'à l'expiration du délai de six ans prévu à l'article L. 82
-du livre des procédures fiscales.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L82
-
-	**Créé par**:
-
-	  - Décret n°87-642 du 6 août 1987 - art. 3 (V) JORF 8 août 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
 
 
 ##### F : Cultures agréées dans les départements d'outre-mer
@@ -9382,7 +9351,10 @@ En cas de moins-value, celle-ci est diminuée des mêmes amortissements différ�
 
 III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
 immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette
-immobilisation.    Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
+immobilisation ou lors de l'apport d'une immobilisation amortissable entre sociétés du groupe lorsque cet apport bénéficie
+des dispositions de l'article 210 A du code général des impôts.
+
+Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
 
 Pour une immobilisation amortissable, sa valeur nette comptable dans les écritures de la société qui en est propriétaire ;
 
@@ -9392,20 +9364,19 @@ Pour une immobilisation non amortissable, son prix d'acquisition par la sociét�
 
 	**Cite**:
 
-	  - CGI 223 F
-	  - CGI 39 B
+	  - CGI 223 F, 39 B, 210 A
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 23 Finances pour 1990 JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°90-552 du 3 juillet 1990 - art. 2 (V) JORF 5 juillet 1990
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 24 juin 1991
 
 
 ###### Article 46 quater-0 ZI
@@ -9521,35 +9492,37 @@ L'état des rectifications apportées à son résultat pour la détermination du
 La déclaration du résultat d'ensemble visée à l'article 223 Q du code général des impôts comprend les éléments nécessaires à
 la détermination et au contrôle de ce résultat. La société mère doit joindre à cette déclaration :
 
-" Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné à l'article 46 quater-0 ZK ;
+Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné à l'article 46 quater-0 ZK ;
 
-" Un tableau de synthèse de ces rectifications ;
+Un tableau de synthèse de ces rectifications ;
 
-" Un tableau de détermination du résultat d'ensemble du groupe ;
+Un tableau de détermination du résultat d'ensemble du groupe ;
 
-" Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme d'ensemble
+Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme d'ensemble
 et les crédits d'impôt susceptibles d'être utilisés par la société mère.
 
-" Ces renseignements sont présentés sur un des documents conformes aux modèles établis par l'administration.
+En cas de fusion ou d'apport entre sociétés du groupe, une déclaration de l'option pour la dispense prévue à la première
+phrase du deuxième alinéa du b du 6 de l'article 223 L du code général des impôts, des états permettant de déterminer et de
+suivre les réintégrations dont la société mère a demandé la dispense et un tableau de synthèse de ces réintégrations.
+
+Ces renseignements sont présentés sur un des documents conformes aux modèles établis par l'administration.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 223 L 6 b al. 2
 	  - CGI 223 Q
 	  - CGIAN3 46 quater-0 ZK
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+	  - TXT_SOURCE: Loi n°89-935 1989-12-29 art. 23 Finances pour 1990
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-318 du 28 mars 1988 - art. 10 (V) JORF 8 avril 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°90-552 du 3 juillet 1990 - art. 1 (V) JORF 5 juillet 1990
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 
 ###### Article 46 quater-0 ZM
@@ -13953,20 +13926,6 @@ viandes d'espèces animales différentes est égal à celui prévu pour la viand
 	**Abrogé par**:
 
 	  - Décret n°94-520 du 24 juin 1994 - art. 2 () JORF 25 juin 1994
-
-
-#### Chapitre IV : Taxe de protection sanitaire et d'organisation des marchés des viandes.
-
-###### Article 111 quater I
-
-Les saisies totales ou partielles pratiquées par les services d'inspection sanitaire ainsi que les exportations ne donnent
-pas lieu au remboursement de la taxe déjà perçue.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
