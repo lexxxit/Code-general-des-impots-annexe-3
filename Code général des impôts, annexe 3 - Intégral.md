@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1992-02-07
+Version Consolidée au 1992-02-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -20333,38 +20333,6 @@ F, le complément sera réclamé au requérant.
 	**Codifié par**:
 
 	  - Décret n°91-883 1991-09-09
-
-
-###### Article 291 bis
-
-Le tarif des salaires exigibles lors de la demande de délivrance des copies et des extraits de fiches personnelles de
-propriétaire ou de fiches d'immeuble est fixé à :
-
-1° Copies et extraits de fiches personnelles de propriétaires :
-
-- 40 F par personne individuellement désignée.
-
-2° Copies et extraits de fiches d'immeuble :
-
-- 40 F par immeuble indiqué.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-1350 1955-10-14 ART. 85-1 2
-
-	**Modifié par**:
-
-	  - Décret n°85-842 du 5 août 1985 - art. 7 (V) JORF 9 août 1985, en vigueur le 1er octobre 1985
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°92-155 1992-02-20 art. 4
-
-	**Abrogé par**:
-
-	  - Décret n°92-155 du 20 février 1992 - art. 2 (V) JORF 22 février 1992
 
 
 ##### 4 : Minimum de perception.
