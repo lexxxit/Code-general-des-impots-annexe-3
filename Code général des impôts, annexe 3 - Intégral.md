@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-01-12
+Version Consolidée au 1983-01-20
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -16090,6 +16090,31 @@ L'impôt sur les sociétés est recouvré dans les conditions prévues aux artic
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 359
+
+L'impôt sur les sociétés donne lieu au versement d'acomptes pour chaque période servant de base aux impositions,dans les
+conditions fixées par l'article 1668 du code général des impôts,le premier de ces acomptes étant celui dont
+l'échéance,consécutive au commencement de ladite période,en est le plus rapprochée.
+
+Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus les sociétés pour lesquelles le montant de l'impôt sur les
+sociétés correspondant aux bénéfices de référence définis à l'article 360 n'excède pas 1.000 F.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1668
+	  - CGIAN3 360
+
+	**Modifié par**:
+
+	  - Décret n°82-1248 du 31 décembre 1982 - art. 1 (V) JORF 20 janvier 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
+
+
 ###### Article 361
 
 En ce qui concerne les sociétés nouvelles chaque acompte est égal au quart de l'impôt calculé sur le produit évalué à 5 % du
@@ -17947,31 +17972,6 @@ services fiscaux pour servir de pièces justificatives aux agents du service du 
 ## PAIEMENT DE L'IMPOT
 
 ### IMPOTS DIRECTS ET TAXES ASSIMILEES.
-
-###### Article 359
-
-L'impôt sur les sociétés donne lieu au versement d'acomptes pour chaque période servant de base aux impositions  dans les
-conditions fixées par l'article 1668 du code général des impôts  le premier de ces acomptes étant celui dont l'échéance
-consécutive au commencement de ladite période  en est le plus rapprochée.
-
-Sont dispensées de verser les acomptes prévus à l'alinéa ci-dessus  les sociétés pour lesquelles le montant de l'impôt sur
-les sociétés correspondant aux bénéfices de référence définis à l'article 360 n'excède pas 100 F.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1668
-	  - CGIAN3 360
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 M (V)
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
 
 ###### Article 360
 
