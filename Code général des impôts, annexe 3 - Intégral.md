@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1980-12-30
+Version Consolidée au 1980-12-31
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -424,54 +424,6 @@ contenues dans les produits exportés  le paiement antérieur de la taxe affére
 	**Liens**:
 
 	  - HISTO: EDITION 1979-07-01
-
-
-###### Article 333-0 A
-
-1. Les taux de la taxe spéciale sur les huiles végétales  fluides ou concrètes  instituée au profit du budget annexe des
-prestations sociales agricoles [*BAPSA, organisme bénéficiaire*] par l'article 1618 quinquies du code général des impôts sont
-fixés comme suit suit (1) :
-
-Huile d'olive : 0,375 F par kilogramme ou 0,34 F par litre;
-
-Huiles d'arachide et de mais : 0,335 F par kilogramme ou 0,31 F par litre;
-
-Huile de colza : 0,175 F par kilogramme ou 0,160 F par litre;
-
-Autres huiles végétales fluides et huiles d'animaux marins autres que de baleine : 0,29 F par kilogramme ou 0,26 F par litre;
-
-Huiles de coprah et de palmiste : 0,225 F par kilogramme;
-
-Huile de palme et huile de baleine : 0,20 F par kilogramme.
-
-2. Un arrêté (2) du ministre de l'économie et des finances fixe le tarif forfaitaire de la taxe spéciale mentionnée au 1 sur
-les produits alimentaires importés dans lesquels sont incorporées des huiles végétales fluides ou concrètes ou des huiles
-d'animaux marins.
-
-(1) Tarif applicable à compter du 1er janvier 1979. Pour le tarif applicable du 1er juillet au 31 décembre 1978, voir le
-décret n° 78-675 du 28 juin 1978 (J.O. du 29).
-
-(2) Annexe IV, art. 159 ter A.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1618 quinquies
-	  - CGIAN4 159 ter A
-	  - Décret n°78-675 1978-06-28
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-	**Abrogé par**:
-
-	  - Loi n°80-1094 du 30 décembre 1980 - art. 16 (P) JORF 31 DECEMBRE 1980
-
-	**Codifié par**:
-
-	  - Décret n°81-866 1981-09-15
 
 
 #### TAXE ADDITIONNELLE AU PRIX DES PLACES DANS LES SALLES DE SPECTACLES CINEMATOGRAPHIQUES.
@@ -1595,6 +1547,58 @@ déficitaire.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 A (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
+
+
+##### a : Entreprises de recherches et d'exploitation d'hydrocarbures.
+
+###### Article 10 C
+
+La provision constituée à la clôture d'un exercice doit, dans le délai de cinq ans ou d'un an prévu à l'article 39 ter-1,
+troisième alinéa, du code général des impôts être utilisée :
+
+a Soit à tous travaux ou immobilisations nécessaires aux recherches d'hydrocarbures entreprises dans la France
+métropolitaine, dans les départements et les territoires français d'outre-mer  dans les Etats de la Communauté, ainsi qu'en
+Algérie, au Maroc, en Tunisie, au Togo et au Cameroun, à l'exclusion des travaux ou immobilisations portant sur un gisement
+reconnu ayant donné lieu à attribution d'un titre d'exploitation;
+
+b Soit à l'acquisition de participations dans les sociétés et organismes désignés par arrêté du ministre de l'économie et des
+finances et du ministre de l'industrie (1) ayant pour objet d'effectuer la recherche et l'exploitation de gisements
+d'hydrocarbures dans les mêmes territoires et pays.
+
+Ne pourront être considérées comme "participations" utilisées au titre de la provision pour reconstitution des gisements
+que :
+
+a Les actions, parts sociales ou parts d'intérêts souscrites aux augmentations de capital des sociétés et organismes ci-
+dessus visés et sous réserve que les souscripteurs s'engagent auprès du ministère de l'industrie (direction des carburants) à
+ne pas négocier les titres souscrits pendant un délai de deux ans à compter de la réalisation de l'augmentation de capital;
+
+b Les sommes avancées, sans intérêt, à ces sociétés et organismes en contrepartie soit d'une participation ultérieure au
+capital desdites sociétés ou desdits organismes, soit d'une participation en nature ou en espèces à leur production
+d'hydrocarbures.
+
+(1) Annexe IV, art. 4 A et 4 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 39 ter 1 AL. 3
+	  - CGIAN4 4 A
+	  - CGIAN4 4 B
+
+	**Modifié par**:
+
+	  - Loi n°80-1094 du 30 décembre 1980 - art. 8 (P) JORF 31 DECEMBRE 1980
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
 
 
