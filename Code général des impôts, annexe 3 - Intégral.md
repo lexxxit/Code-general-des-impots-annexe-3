@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1987-06-18
+Version Consolidée au 1987-07-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2297,6 +2297,27 @@ titres.
 	**Modifié par**:
 
 	  - Loi n°83-1 1983-01-03 art. 47 JORF 4 janvier 1983
+
+
+###### Article 38 sexies
+
+La dépréciation des immobilisations qui ne se déprécient pas de manière irréversible, notamment les terrains, les fonds de
+commerce, les titres de participation, donne lieu à la constitution de provisions dans les conditions prévues au 5° du 1 de
+l'article 39 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 5 I 2° JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 (VT)
 
 
 ##### 4 : Dispositions diverses
@@ -8554,6 +8575,54 @@ employeurs appartenant aux professions qui relèvent du régime agricole au rega
 
 
 
+###### Article 53 bis
+
+Doivent acquitter la taxe sur les salaires visée à l'article 231 du code général des impôts, dans les conditions et délais et
+sous les sanctions prévus par les articles 1679, 1679 bis, 1727, 1728, 1729, 1731 et 1736 dudit code et 50, 51, 369 et 374-I,
+les organismes coopératifs, mutualistes et professionnels agricoles énumérés ci-après :
+
+Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à
+l'article 1235 du code rural ;
+
+Caisses de crédit agricole mutuel ;
+
+Sociétés coopératives agricoles ;
+
+Sociétés d'intérêt collectif agricoles ;
+
+Syndicats agricoles ;
+
+Chambres d'agriculture ;
+
+Unions ou fédérations des organismes précités et, généralement, tous groupements coopératifs mutualistes et professionnels
+agricoles régulièrement constitués.
+
+Toutefois, le présent article n'est applicable à l'égard des sociétés coopératives de culture en commun et des sociétés
+coopératives d'utilisation en commun de matériel agricole qu'en ce qui concerne les salariés occupés dans leurs services
+administratifs et leurs ateliers de réparation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 231, 1679, 1679 bis, 1727, 1728, 1729, 1731, 1736
+	  - CGIAN3 50, 51, 369, 374 1
+	  - Code rural 1235
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81 II Finances pour 1987 JORF 31 décembre 1986
+	  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 quater (V)
+
+
 ###### Article 53 quater
 
 Les dispositions des articles 53 bis et 53 ter ne sont pas applicables aux organismes professionnels et autres employeurs
@@ -14196,6 +14265,38 @@ de formation professionnelle et les acquisitions immobilières portant sur des f
 	**Codifié par**:
 
 	  - Décret n°90-798 1990-09-10
+
+
+###### Article 266
+
+Sous réserve des dispositions de l'article 300 de l'annexe II au code général des impôts, l'application des dispositions de
+l'article 265 est subordonnée à l'agrément préalable à l'acquisition par le ministre du budget. L'agrément est délivré dans
+les conditions prévues à l'article 1649 nonies du code précité.
+
+L'agrément préalable n'est pas exigé lorsque, une demande d'agrément ayant été déposée, l'acquéreur prend l'engagement dans
+l'acte d'acquisition d'acquitter le complément de taxe et l'intérêt de retard ainsi que la majoration prévue à l'article 1727
+du code général des impôts, si l'agrément ouvrant droit à la réduction du droit de mutation n'était pas délivré.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 nonies
+	  - CGI 1727
+	  - CGIAN2 300
+	  - CGIAN3 265
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20 Décret 90-798 1990-09-10
+
+	**Abrogé par**:
+
+	  - Loi n°89-935 1989-12-29 art. 20 Finances pour 1990 JORF 30 décembre 1989
 
 
 ##### 2 : Opérations concourant à la production ou à la livraison d'immeubles
@@ -22890,6 +22991,42 @@ Leur paiement doit intervenir dans le mois suivant chaque échéance.
 	  - HISTO: Edition du 15 juillet 1985
 
 
+###### Article 403
+
+Le redevable est déchu du bénéfice du crédit :
+
+en cas de défaut de constitution des garanties ou du complément de garanties dans les délais respectivement impartis à
+l'article 400 ;
+
+en cas de retard dans le paiement de l'un quelconque des termes échus.
+
+La déchéance entraîne l'exigibilité immédiate des droits en suspens, majorés des pénalités prévues à l'article 1731 du code
+général des impôts. Ces pénalités sont exclusives de l'intérêt prévu à l'article 401.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1731
+	  - CGIAN3 400, 401
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 2 V, VI JORF 9 juillet 1987
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-07-15
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 404
 
 Les droits ayant fait l'objet de l'octroi du crédit peuvent être acquittés par anticipation. Dans cette hypothèse, les
@@ -24182,35 +24319,6 @@ visée à l'article 364, sera appliquée aux sommes qui n'auront pas été vers�
 	**Cite**:
 
 	  - CGIAN3 364
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-### ENREGISTREMENT - PUBLICITE FONCIERE.
-
-###### Article 403
-
-Le redevable est déchu du bénéfice du crédit [*déchéance*] :
-
-en cas de défaut de constitution des garanties ou du complément de garanties dans les délais respectivement impartis à
-l'article 400;     en cas de retard dans le paiement de l'un quelconque des termes échus.
-
-La déchéance entraîne l'exigibilité immédiate des droits en suspens  majorés de l'indemnité de retard prévue à l'article 1727
-du code général des impôts. Cette indemnité est exclusive de l'intérêt prévu à l'article 401.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1727
-	  - CGIAN3 400
-	  - CGIAN3 401
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
 
 	**Liens**:
 
