@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-03-12
+Version Consolidée au 2004-03-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8653,7 +8653,7 @@ intervient cet événement
 ###### Article 41-00 A
 
 Les personnes morales ou groupements de droit ou de fait, dont le chiffre d'affaires hors taxes ou le total de l'actif brut
-figurant au bilan est supérieur ou égal à 600 millions d'euros à la clôture de l'exercice ainsi que les sociétés bénéficiant
+figurant au bilan est supérieur ou égal à 400 millions d'euros à la clôture de l'exercice ainsi que les sociétés bénéficiant
 de l'agrément prévu à l'article 209 quinquies du code général des impôts, sont tenues de joindre à la déclaration prévue aux
 articles 172, 172 bis ou 223 du code précité :
 
@@ -8685,14 +8685,13 @@ répertoire national des établissements (numéro SIRET).
 
 	  - CGI 209 quinquies, 172, 172 bis, 223
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1217 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
+	  - Décret n°2004-245 du 18 mars 2004 - art. 1 () JORF 20 mars 2004
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2000-1217 du 13 décembre 2000 - art. 2 (V)
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2004
 	  - TXT_ASSOCIE: Instruction 2002-04-18 13K-5-02
 
 
@@ -32053,7 +32052,7 @@ Les ressortissants des Etats parties contractantes à la Charte sociale europée
 Le lieu de dépôt des déclarations fiscales est fixé au service chargé des grandes entreprises créé par arrêté pour :
 
 1° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait dont, à la clôture de l'exercice, le
-chiffre d'affaires hors taxes ou le total de l'actif brut figurant au bilan est supérieur ou égal à 600 millions d'euros ;
+chiffre d'affaires hors taxes ou le total de l'actif brut figurant au bilan est supérieur ou égal à 400 millions d'euros ;
 
 2° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait détenant à la clôture de l'exercice,
 directement ou indirectement, plus de la moitié du capital ou des droits de vote d'une personne morale ou d'un groupement
@@ -32069,25 +32068,15 @@ personnes morales imposables en France faisant partie du périmètre de consolid
 5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A du code général des
 impôts lorsque celui-ci comprend au moins une personne mentionnée aux 1°, 2°, 3° et 4°.
 
-**Nota:**
-
-NOTA : Ces dispositions s'appliquent à compter du 1er janvier 2002.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 209 quinquies, 223 A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1218 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2000-1218 du 13 décembre 2000 - art. 2 (V)
-	  - HISTO: Edition du 31 mars 2001
-	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
+	  - Décret n°2004-245 du 18 mars 2004 - art. 1 () JORF 20 mars 2004
 
 	**Cité par**:
 
@@ -32098,6 +32087,11 @@ NOTA : Ces dispositions s'appliquent à compter du 1er janvier 2002.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 sexies (V)
 	  - Livre des procédures fiscales - art. R*80 B-5 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
 
 
 ###### Article 344-0 B
@@ -32168,54 +32162,44 @@ terdecies.
 ###### Article 344-0 C
 
 I. Les dispositions des articles 344-0 A et 344-0 B s'appliquent aux déclarations qui doivent être souscrites à compter du
-début du deuxième exercice suivant celui à la clôture duquel l'une au moins des conditions prévues aux 1° à 4° de l'article
-344-0 A est remplie.
+1er février de la deuxième année suivant celle au cours de laquelle l'une au moins des conditions prévues aux 1° à 4° de
+l'article 344-0 A est remplie à la clôture de l'exercice. 
 
 Les sociétés qui entrent dans un groupe ayant opté pour le régime fiscal prévu à l'article 223 A du code général des impôts
 dont les membres relèvent du service des grandes entreprises mentionné au premier alinéa de l'article 344-0 A doivent elles-
-mêmes satisfaire à leurs obligations déclaratives auprès de ce service à compter du début de l'exercice suivant celui de leur
-entrée dans ce groupe.
+mêmes satisfaire à leurs obligations déclaratives auprès de ce service à compter du 1er février de la 1re année suivant celle
+de leur entrée dans ce groupe. 
 
-Les dispositions des articles 344-0 A et 344-0 B continuent à s'appliquer pendant les trois exercices suivant celui à la
-clôture duquel les conditions ont cessé d'être remplies. Par dérogation au premier alinéa, si, à la clôture de l'un de ces
-exercices, les conditions sont à nouveau remplies, les dispositions des articles 344-0 A et 344-0 B s'appliquent à compter du
-début du premier exercice suivant.
+Les dispositions des articles 344-0 A et 344-0 B continuent à s'appliquer jusqu'au 31 janvier de la quatrième année suivant
+celle au cours de laquelle les conditions ont cessé d'être remplies à la clôture de l'exercice. Par dérogation au premier
+alinéa, si, au cours de cette période, les conditions sont à nouveau remplies à la clôture d'un exercice, les dispositions
+des articles 344-0 A et 344-0 B s'appliquent à compter du début du premier exercice suivant. 
 
-II. - Les personnes morales ou groupements de personnes de droit ou de fait qui ont bénéficié d'une transmission de
-patrimoine d'une entreprise relevant du service chargé des grandes entreprises au titre du 1° de l'article 344-0 A dans le
-cadre d'une opération de fusion, de scission ou de confusion de patrimoine en application de l'article 1844-5 du code civil
-peuvent déposer leurs déclarations fiscales auprès de ce service à compter de la date de l'opération en cause. A cet effet,
-elles doivent en informer le service chargé des grandes entreprises dès le dépôt de la première déclaration concernée et au
-plus tard 30 jours après la date de l'opération.
+II.-Les personnes morales ou groupements de personnes de droit ou de fait qui ont bénéficié d'une transmission de patrimoine
+d'une entreprise relevant du service chargé des grandes entreprises au titre du 1° de l'article 344-0 A dans le cadre d'une
+opération de fusion, de scission ou de confusion de patrimoine en application de l'article 1844-5 du code civil peuvent
+déposer leurs déclarations fiscales auprès de ce service à compter de la date de l'opération en cause. A cet effet, elles
+doivent en informer le service chargé des grandes entreprises dès le dépôt de la première déclaration concernée et au plus
+tard 30 jours après la date de l'opération. 
 
-Les dispositions prévues à l'article 406 terdecies leur sont alors applicables.
+Les dispositions prévues à l'article 406 terdecies leur sont alors applicables. 
 
-L'option s'applique pendant les trois exercices suivant celui au cours duquel l'opération a eu lieu. Par dérogation au
-premier alinéa du I, si, à la clôture de l'un de ces exercices, les conditions prévues aux 1° à 4° de l'article 344-0 A sont
-remplies, les dispositions des articles 344-0 A et 344-0 B s'appliquent à compter du début de l'exercice suivant (1).
-
-**Nota:**
-
-(1) Ces dispositions s'appliquent aux opérations de transmission de patrimoine qui interviennent à compter du 1er janvier
-2002.
+L'option s'applique jusqu'au 31 janvier de la quatrième année suivant celle au cours de laquelle l'opération a eu lieu. Par
+dérogation au premier alinéa du I, si, au cours de cette période, les conditions prévues aux 1° à 4° de l'article 344-0 A
+sont remplies à la clôture d'un exercice, les dispositions des articles 344-0 A et 344-0 B s'appliquent à compter du début de
+l'exercice suivant.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 A
-	  - CGIAN3 344-0 A, 344-0 B, 406 terdecies
-	  - Code civil - art. 1844-5 (M)
-
 	**Modifié par**:
 
-	  - Décret n°2001-1260 du 21 décembre 2001 - art. 1 () JORF 28 décembre 2001
+	  - Décret n°2004-245 du 18 mars 2004 - art. 1 () JORF 20 mars 2004
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2001-1260 du 21 décembre 2001 - art. 2 (V)
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A (V)
+	  - Code général des impôts, CGI. - art. 223 A (VT)
+	  - Code civil - art. 1844-5 (V)
 
 	**Cité par**:
 
