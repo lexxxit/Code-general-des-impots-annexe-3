@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2003-10-02
+Version Consolidée au 2003-11-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13469,6 +13469,48 @@ celui de la sortie du groupe de la société qui en est propriétaire, si cette 
 
 	  - HISTO: Edition du 15 juillet 1988
 	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+
+
+##### Section VIII bis : Régime de taxation au tonnage
+
+###### Article 46 quater-0 ZS bis
+
+Les entreprises doivent exercer l'option mentionnée au III de l'article 209-0 B du code général des impôts au plus tard à la
+date limite de dépôt de la déclaration de résultat du premier exercice de la période pour laquelle elles désirent bénéficier
+du régime prévu audit article. 
+
+L'option est notifiée sur papier libre ou par voie électronique au service des impôts auprès duquel est souscrite la
+déclaration de résultat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1105 du 17 novembre 2003 - art. 1 () JORF 22 novembre 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 209-0 B (V)
+
+
+###### Article 46 quater-0 ZS bis A
+
+Les entreprises qui ont exercé l'option mentionnée au III de l'article 209-0 B doivent joindre aux déclarations de résultat
+qu'elles sont tenues de souscrire un état de détermination des bénéfices conforme au modèle établi par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209-0 B
+
+	**Créé par**:
+
+	  - Décret n°2003-1105 du 17 novembre 2003 - art. 1 () JORF 22 novembre 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies
