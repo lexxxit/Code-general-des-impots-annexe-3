@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1996-05-12
+Version Consolidée au 1996-11-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -29046,16 +29046,16 @@ I. Sont exclues du champ d'application de la taxe locale d'équipement les const
 
 2° Des zones de rénovation urbaine qui ont fait l'objet :
 
-a. D'une convention approuvée avant le 1er octobre 1968;
+a. D'une convention approuvée avant le 1er octobre 1968 ;
 
 b. D'une convention approuvée après accord du ministre de l'équipement et du logement entre le 1er octobre 1968 et le 1er
 janvier 1969 ;
 
-3° Des zones ayant fait l'objet  avant le 1er janvier 1969, d'un bilan financier approuvé par le conseil de direction du
-fonds de développement économique et social ;
+3° Des zones ayant fait l'objet avant le 1er janvier 1969, d'un bilan financier approuvé par le comité des investissements à
+caractère économique et social ;
 
 4° Des périmètres destinés à recevoir une ou plusieurs implantations industrielles ou commerciales ayant fait l'objet d'une
-décision administrative avant le 1er janvier 1969 et qui  par leur situation ou leur dimension  imposent la réalisation
+décision administrative avant le 1er janvier 1969 et qui par leur situation ou leur dimension imposent la réalisation
 d'équipements publics nouveaux d'une importance exceptionnelle par rapport aux ouvrages existants.
 
 Ces périmètres, dans lesquels le coût de tout ou partie des équipements est mis à la charge des aménageurs ou des
@@ -29064,12 +29064,12 @@ participation éventuellement demandée sont également approuvés par un arrêt
 
 II. Peuvent être exclues du champ d'application de la taxe locale d'équipement les constructions édifiées à l'intérieur :
 
-1° Des zones ayant fait l'objet soit d'une avance du fonds national d'aménagement et d'urbanisme  soit de l'octroi  avant le
+1° Des zones ayant fait l'objet soit d'une avance du fonds national d'aménagement et d'urbanisme soit de l'octroi avant le
 1er janvier 1969, d'une bonification d'intérêt du même fonds ;
 
-2° Des zones dont l'aménagement et l'équipement ont été entrepris en France métropolitaine avant le 1er janvier 1969  ou dans
-les départements d'outre-mer avant la date d'entrée en vigueur de l'article 51-I de la loi no 75-1328 du 31 décembre 1975
-portant réforme de la politique foncière  selon l'une des modalités suivantes :
+2° Des zones dont l'aménagement et l'équipement ont été entrepris en France métropolitaine avant le 1er janvier 1969 ou dans
+les départements d'outre-mer avant la date d'entrée en vigueur de l'article 51-I de la loi n° 75-1328 du 31 décembre 1975
+portant réforme de la politique foncière selon l'une des modalités suivantes :
 
 a. Réalisation conduite directement par la collectivité publique ou l'établissement public qui a pris l'initiative de la
 création ;
@@ -29085,10 +29085,10 @@ Approuvée par le préfet si cette convention est conforme à une convention typ
 Approuvée par arrêté conjoint du ministre de l'équipement et du logement et du ministre de l'intérieur dans les autres cas.
 
 III. Dans chaque département les zones dans lesquelles les constructions sont exclues du champ d'application de la taxe
-locale d'équipement  en vertu des I et II, sont inscrites sur une liste arrêtée par le commissaire de la République et
-publiée au recueil des actes administratifs du département.
+locale d'équipement en vertu des I et II, sont inscrites sur une liste arrêtée par le préfet et publiée au recueil des actes
+administratifs du département.
 
-L'inscription des zones visées au I est de droit. Pour les zones visées au II, le préfet apprécie  dans chaque cas  si les
+L'inscription des zones visées au I est de droit. Pour les zones visées au II, le préfet apprécie dans chaque cas si les
 équipements prévus à l'article 317 quater de l'annexe II au code général des impôts sont bien mis à la charge des
 constructeurs.
 
@@ -29099,25 +29099,20 @@ constructeurs.
 	**Cite**:
 
 	  - CGIAN2 317 quater
-	  - CGIAN4 155 A, 155 B
-	  - Loi n°75-1328 1975-12-31 art. 51 I
-	  - Loi n°76-1285 du 31 décembre 1976 - art. 60, v. init.
+	  - Loi n°75-1328 du 31 décembre 1975
+	  - Loi n°76-1285 du 31 décembre 1976 - art. 60
 
 	**Modifié par**:
 
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+	  - Décret n°96-1022 du 27 novembre 1996 - art. 8 () JORF 29 novembre 1996
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2012-88 du 25 janvier 2012 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 155 B (P)
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
 
 
 ###### Article 328 D ter
