@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-03-05
+Version Consolidée au 1986-03-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5588,6 +5588,45 @@ soit des cessions ou locations portant sur des terrains ou immeubles qu'ils ont 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter (V)
+
+
+###### Article 46 ter
+
+L'exonération prévue à l'article 46 bis est subordonnée à la condition :
+
+1° En ce qui concerne les établissements publics, qu'ils aient été créés et fonctionnent conformément aux dispositions des
+articles L 321-2 à L 321-8 et R 321-20 à R 321-22 du code de l'urbanisme et que les bénéfices dont l'exonération est demandée
+proviennent d'opérations conformes à leur objet ;
+
+2° En ce qui concerne les sociétés d'économie mixte, qu'elles fonctionnent conformément aux dispositions de l'article R
+321-21 du code de l'urbanisme et que les bénéfices dont l'exonération est demandée proviennent d'opérations effectuées par
+elles dans le cadre d'une concession d'aménagement prévue à l'article L 300-4 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 bis
+	  - Code de l'urbanisme - art. L300-4 (M)
+	  - Code de l'urbanisme L321-2 à L321-8, R321-20 à R321-22, R321-21, L300-4
+
+	**Modifié par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 1 () JORF 19 juillet 1985
+	  - Décret n°86-517 1986-03-14 art. 53 III, V JORF 16 mars 1986
+	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs
@@ -14902,6 +14941,38 @@ sont acquittés uniquement par l'apposition de timbres mobiles.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BI (V)
 
 
+###### Article 313 BI
+
+Peuvent être acquittés au moyen du visa pour timbre au comptant les droits de timbre dus sur :
+
+1° Les écrits rédigés en contravention aux lois sur le timbre présentés spontanément par les parties ou annexés à des actes
+soumis à l'enregistrement ;
+
+2° Les photocopies et reproductions obtenues par un moyen photographique ;
+
+3° Les actes et effets de commerce passés ou rédigés en dehors des départements français et pour lesquels le droit de timbre
+devient exigible.
+
+4° Les effets de commerce émis par les redevables admis à se libérer de leurs impositions auprès des comptables des impôts au
+moyen d'obligations cautionnées ;
+
+5° Les actes sous-seing privé présentés à la formalité de l'enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 313 BI
+
+	**Modifié par**:
+
+	  - Décret n°86-449 du 13 mars 1986 - art. 1 (V) JORF 16 mars 1986
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BH (V)
+
+
 ###### Article 313 BJ
 
 Toutes les fois qu'un document administratif ou un visa normalement soumis au droit de timbre sont délivrés gratuitement par
@@ -18979,6 +19050,39 @@ Le recouvrement en est effectué pour le compte du fonds de garantie par les soc
 	**Modifié par**:
 
 	  - Décret n°85-926 du 30 août 1985 - art. 1 (V) JORF 3 septembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+
+###### Article 340 sexies
+
+1. Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
+corporels de chasse sont les suivants :
+
+a. Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie ;
+
+b. Contribution des  responsables , non assurés, d'accidents qui donnent naissance à des dommages résultant d'atteintes à la
+personne :
+
+Taux normal : 10% des indemnités restant à leur charge ;
+
+Taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des articles
+393 à 395 du code rural : 5% ;
+
+c. Contribution forfaitaire des assurés : 1,50 F par personne garantie.
+
+2. Le versement d'acomptes sur leur contribution peut être demandé aux sociétés d'assurances par le fonds de garantie.
+
+3. Le recouvrement de la contribution des assurés est effectué pour le compte du fonds de garantie par les sociétés
+d'assurances et sous leur responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-452 du 14 mars 1986 - art. 26 () JORF 16 mars 1986
 
 	**Codifié par**:
 
