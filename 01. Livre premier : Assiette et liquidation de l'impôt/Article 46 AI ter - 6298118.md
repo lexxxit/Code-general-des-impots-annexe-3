@@ -10,8 +10,8 @@ II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds e
 41 sexdecies A à 41 sexdecies F, 280 A et R. 87-1 du livre des procédures fiscales.
 
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de distribution d'une partie de ses avoirs, la
-société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 39
-quater et 39 quinquies.
+société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 41
+duovicies F et 41 duovicies G.
 
 IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, à la direction des services fiscaux
 désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article 3 du décret n° 97-237 du
@@ -29,42 +29,41 @@ c) L'identité et l'adresse du souscripteur ;
 
 d) Le nombre de parts souscrites, le montant et la date de leur souscription.
 
-Cet état précise que les conditions mentionnées à l'article 22-1 de la loi n° 88-1201 du 23 décembre 1988 modifiée relative
-aux organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créances et au 1 du VI
-de l'article 199 terdecies-0 A du code général des impôts sont remplies.
+Cet état précise que les conditions mentionnées à l'article L. 214-41 du code monétaire et financier et au 1 du VI de
+l'article 199 terdecies-0 A du code général des impôts sont remplies.
 
 VI. La société de gestion du fonds ou le dépositaire des actifs de ce fonds isole dans un compte spécial les parts dont la
 souscription ouvre droit au bénéfice de la réduction d'impôt. Il tient ce compte jusqu'à l'expiration de la cinquième année
 qui suit celle de la souscription.
 
 VII. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du fonds sont cédées ou rachetées ou lorsque,
-dans ce même délai, l'une des conditions prévues à l'article 22-1 de la loi du 23 décembre 1988 susvisée cesse d'être
-remplie, la société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction
-des services fiscaux désignée au I, un état individuel qui comprend, outre les informations indiquées au V, le nombre des
-parts cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas échéant, la nature de la
-condition qui cesse d'être remplie.
+dans ce même délai, l'une des conditions prévues à l'article L. 214-41 du code monétaire et financier cesse d'être remplie,
+la société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction des
+services fiscaux désignée au I, un état individuel qui comprend, outre les informations indiquées au V, le nombre des parts
+cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas échéant, la nature de la condition
+qui cesse d'être remplie.
 
 Cet état doit être délivré avant le 16 février de l'année qui suit celle de la cession ou du rachat des parts ou du non-
-respect de l'une des conditions prévues à l'article 22-1 de la loi du 23 décembre 1988 susvisée.
+respect de l'une des conditions prévues à l'article L. 214-41 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 199 terdecies-0 A
-	  - CGIAN3 39 quater, 39 quinquies
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (M)
+	  - CGIAN3 41 duovicies F, 41 duovicies G
 	  - Décret n°97-237 du 14 mars 1997 - art. 3 (M)
 	  - Livre des procédures fiscales - art. R87-1 (M)
 	  - Livre des procédures fiscales 41 sexdecies A à 41 sexdecies F, 280 A, R87-1
+	  - Code monétaire et financier - art. L214-41 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-237 du 14 mars 1997 - art. 5 (V) JORF 16 mars 1997
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 81° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
@@ -74,4 +73,4 @@ respect de l'une des conditions prévues à l'article 22-1 de la loi du 23 déce
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001

@@ -51,8 +51,8 @@ celles-ci ;
 
 4° Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
 
-5° Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 modifiés
-de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
+5° Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles L. 225-25 et L.
+225-72 du code de commerce ;
 
 6° Les coopératives artisanales et leurs unions, les coopératives d'entreprises de transports, les coopératives artisanales
 de transport fluvial ainsi que les coopératives maritimes et leurs unions, visées aux titres I et II et au chapitre Ier du
@@ -60,11 +60,11 @@ titre III de la loi n° 83-657 du 20 juillet 1983 relative au développement de 
 ces sociétés fonctionnent conformément aux dispositions de la loi précitée, pour la souscription ou la cession de leurs parts
 ou actions ;
 
-7° Les sociétés coopératives agricoles et leurs unions régies par les articles L. 521-1 à L. 526-2 du code rural pour la
-souscription ou la cession de leurs parts ou actions ;
+7° Les sociétés coopératives agricoles et leurs unions régies par les articles L. 521-1 à L. 526-2 du code rural et de la
+pêche maritime pour la souscription ou la cession de leurs parts ou actions ;
 
 8° Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
-Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
+Ier du livre V du code rural et de la pêche maritime, pour la souscription ou la cession de leurs parts.
 
 **Liens relatifs à cet article**
 
@@ -72,17 +72,18 @@ Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
 
 	  - CGI 83 bis
 	  - Code rural L521-1 à L526-2
-	  - Loi n°66-537 1966-07-24 art. 95, art. 130
 	  - Loi n°83-657 1983-07-20
+	  - Code de commerce. - art. L225-25 (M)
+	  - Code de commerce. - art. L225-72 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 	**Modifié par**:
 
-	  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
+	  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21

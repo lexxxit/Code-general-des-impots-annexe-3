@@ -1,4 +1,4 @@
-# Article 39 ter
+# Article 41 duovicies E
 
 Le gérant du fonds commun de placement ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant, adresse,
 avant le 1er février de chaque année, à la direction des services fiscaux désignée au premier alinéa de l'article 41
@@ -11,7 +11,7 @@ l'article 41 sexdecies B ainsi que le nombre de parts qu'il détient ;
 2° (Devenu sans objet)
 
 3° Le montant global des rachats de parts effectués au profit de chaque propriétaire au cours de l'année précédente,
-lorsqu'il excède 10.000 F ; 
+lorsqu'il excède 1500 euros  ; 
 
 4° Dans la même limite que celle fixée au 3°, la valeur globale des apports en nature de valeurs mobilières effectués par
 chaque propriétaire de parts ; 
@@ -29,29 +29,23 @@ mobiliers revenant à la suite de la liquidation.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 41 duovicies E
+	  - CGIAN3 39 ter
 
 	**Cite**:
 
-	  - CGIAN3 41 sexdecies A
-	  - CGIAN3 41 sexdecies B
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-	  - Décret n°2001-435 2001-05-21
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982
-
-	**Transféré par**:
-
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+	  - CGIAN3 41 sexdecies A, 41 sexdecies B
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 juillet 1983
+	  - SPEC_APPLI: Décret n°2001-96 2001-02-02 art. 1 C
 	  - HISTO: Edition du 31 mars 2001
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Créé par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001

@@ -1,4 +1,4 @@
-# Article 39 quater
+# Article 41 duovicies F
 
 En cas de rachat ou de cession de parts, le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques doit
 fournir au propriétaire des parts rachetées ou cédées tous les éléments de calcul de la plus-value, et notamment :
@@ -15,19 +15,15 @@ cession.
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 41 duovicies F
-
-	**Modifié par**:
-
-	  - Décret n°2001-171 du 19 février 2001 - art. 1 () JORF 24 février 2001
+	  - CGIAN3 39 quater
 
 	**Codifié par**:
 
 	  - Décret n°2001-435 2001-05-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 

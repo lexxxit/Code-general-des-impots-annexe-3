@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2001-02-24
+Version Consolidée au 2001-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -121,11 +121,11 @@ conclusion du bail.
 ###### Article 2 octies
 
 Pour l'application de l'article 15 ter du code général des impôts, les montants annuels des ressources du locataire sont
-limités à 110 130 F en région Ile-de-France et à 100 650 F dans les autres régions pour une personne seule. Ces montants sont
+limités à 111 670 F en région Ile-de-France et à 102 060 F dans les autres régions pour une personne seule. Ces montants sont
 doublés pour un couple marié.
 
 Ces montants s'entendent des revenus nets de frais professionnels du locataire figurant sur son avis d'imposition établi au
-titre des revenus de 1999.
+titre des revenus de 2000.
 
 **Liens relatifs à cet article**
 
@@ -135,21 +135,21 @@ titre des revenus de 1999.
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
 
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 2 septies
 
-Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder 586 F
-annuels par mètre carré de surface habitable en région Ile-de-France et 521 F annuels par mètre carré de surface habitable
+Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder 594 F
+annuels par mètre carré de surface habitable en région Ile-de-France et 528 F annuels par mètre carré de surface habitable
 dans les autres régions.
 
 Pendant la durée mentionnée à l'article 15 ter déjà cité, l'augmentation annuelle du loyer ne peut être supérieure à celle de
@@ -164,15 +164,15 @@ l'indice national mesurant le coût de la construction publié par l'Institut na
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
 
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### 2° : Mise aux normes des bâtiments agricoles. Déduction des dépenses d'amélioration et de construction
@@ -181,41 +181,38 @@ l'indice national mesurant le coût de la construction publié par l'Institut na
 
 Les dépenses prévues au c bis du 2° du I de l'article 31 du code général des impôts sont les dépenses d'amélioration et de
 construction, qui s'incorporent aux bâtiments d'exploitation rurale affectés aux activités définies dans la nomenclature des
-installations classées pour la protection de l'environnement prévue à l'article 2 de la loi n° 76-663 du 19 juillet 1976
-modifiée relative aux installations classées pour la protection de l'environnement et qui sont rendues obligatoires.
+installations classées pour la protection de l'environnement prévue à l'article L. 511-2 du code de l'environnement et qui
+sont rendues obligatoires. 
 
-Le bailleur doit joindre à sa déclaration de revenus au titre de l'année au cours de laquelle est payée la dépense :
+Le bailleur doit joindre à sa déclaration de revenus au titre de l'année au cours de laquelle est payée la dépense : 
 
-1° Une copie, selon le cas, de l'autorisation préfectorale prévue à l'article 3 de la loi précitée ou de la déclaration
-prévue au même article accompagnée du récépissé délivré par le préfet ;
+1° Une copie, selon le cas, de l'autorisation préfectorale prévue à l'article L. 512-1 du code de l'environnement ou de la
+déclaration prévue à l'article L. 512-8 du même code accompagnée du récépissé délivré par le préfet ; 
 
 2° Les factures des dépenses effectuées mentionnant distinctement les travaux obligatoires, leur description précise et leur
 montant, ainsi que la désignation des immeubles sur lesquels ils sont réalisés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 31
-	  - Loi n°76-663 du 19 juillet 1976 - art. 2 (Ab)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
-
-	**Créé par**:
-
-	  - Décret n°96-836 du 20 septembre 1996 - art. 1 () JORF 22 septembre 1996
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1997-02-03 5D-4-97
-
 	**Modifié par**:
 
-	  - Loi n°96-1236 du 30 décembre 1996 - art. 45 () JORF 1er janvier 1997
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°2001-435 2001-05-21
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code de l'environnement - art. L511-2 (V)
+	  - Code de l'environnement - art. L512-1 (VT)
+	  - Code de l'environnement - art. L512-8 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### 3° : Dispositions particulières applicables aux bailleurs de logements intermédiaires et sociaux
@@ -225,9 +222,9 @@ montant, ainsi que la désignation des immeubles sur lesquels ils sont réalisé
 Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier 2000 et le 31 décembre 2000, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 66 F par mètre carré en zone I bis, 56 F en zone I, 36 F en zone II et 31 F en zone III. Les plafonds
-sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2001, les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 67 F par mètre carré en zone I bis, 57 F en zone I, 37 F en zone II et 32 F en zone III. Les plafonds sont
+relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de
 l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique et des études
 économiques. La moyenne mentionnée ci-dessus est celle du dernier indice connu à la date de référence et des indices des
 trois trimestres qui précèdent.
@@ -243,7 +240,7 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du
 contrat de location.
 
-Pour les baux conclus en 2000, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2001, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION du foyer locataire :
 
@@ -251,9 +248,9 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 116 430
+Ile-de-France (en francs) : 120 150
 
-Province (en francs) : 97 200 
+Province (en francs) : 100 310 
 
 COMPOSITION du foyer locataire :
 
@@ -261,9 +258,9 @@ Couple marié
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 191 350
+Ile-de-France (en francs) : 197 460
 
-Province (en francs) : 148 830 
+Province (en francs) : 153 590 
 
 COMPOSITION du foyer locataire :
 
@@ -271,9 +268,9 @@ Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 229 830
+Ile-de-France (en francs) : 237 170
 
-Province (en francs) : 178 190 
+Province (en francs) : 183 880 
 
 COMPOSITION du foyer locataire :
 
@@ -281,9 +278,9 @@ Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 274 370
+Ile-de-France (en francs) : 283 130
 
-Province (en francs) : 215 650 
+Province (en francs) : 222 540 
 
 COMPOSITION du foyer locataire :
 
@@ -291,9 +288,9 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 325 000
+Ile-de-France (en francs) : 335 380
 
-Province (en francs) : 253 110 
+Province (en francs) : 261 200 
 
 COMPOSITION du foyer locataire :
 
@@ -301,9 +298,9 @@ Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 365 490
+Ile-de-France (en francs) : 377 160
 
-Province (en francs) : 285 510 
+Province (en francs) : 294 630 
 
 COMPOSITION du foyer locataire :
 
@@ -311,9 +308,9 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 41 510
+Ile-de-France (en francs) : + 42 840
 
-Province (en francs) : 32 400 
+Province (en francs) : + 33 440 
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
 Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
@@ -322,14 +319,6 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 196 B du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Modifié par**:
-
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
 
 	**Cité par**:
 
@@ -356,9 +345,17 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code de la construction et de l'habitation. - art. R331-10 (M)
 	  - Code de la construction et de l'habitation. - art. R353-16 (M)
 
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Modifié par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 2 novodecies
@@ -716,10 +713,9 @@ quindecies.
 Pour l'application du troisième alinéa du  g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier 2000 et le 31 décembre 2000, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 76 F par mètre carré en zone I bis, 66 F en zone I, 51 F en zone II et 46 F en zone III. Les plafonds
-sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article 2
-duodecies.
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2001, les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 77 F par mètre carré en zone I bis, 67 F en zone I, 52 F en zone II et 47 F en zone III. Les plafonds sont
+relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article 2 duodecies.
 
 Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
@@ -736,11 +732,11 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
 
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 	**Cité par**:
 
@@ -749,7 +745,7 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 2 vicies
@@ -3782,6 +3778,73 @@ opérations qui participent à la réalisation du résultat imposable en France.
 	  - Code général des impôts, CGI. - art. 38 (VT)
 
 
+##### M bis : Renseignements à fournir par les entreprises sur les états de suivi et de situation de propriété prévus à l'article 54 septies du code général des impôts.
+
+###### Article 38 quindecies
+
+I. L'état dont la production est prévue au I de l'article 54 septies du code général des impôts mentionne la date de
+réalisation et la nature de l'opération, les nom ou dénomination et adresse des personnes physiques et morales concernées et,
+par nature d'élément :
+
+1° Pour les biens non amortissables :
+
+a) La valeur comptable ;
+
+b) La valeur fiscale servant pour le calcul du résultat imposable des cessions ultérieures ;
+
+c) Le montant de la soulte éventuellement perçue lors de l'opération ;
+
+d) Le montant de la soulte imposée lors de l'opération d'échange ou d'apport ;
+
+e) La valeur d'échange ou d'apport des biens ;
+
+2° Pour les biens amortissables :
+
+a) Le montant des plus-values et moins-values réalisées lors de l'opération ;
+
+b) La durée de réintégration de ces plus-values ;
+
+c) Le montant des plus-values déjà réintégrées dans les résultats des exercices précédents ;
+
+d) Le montant des plus-values réintégrées dans les résultats de l'exercice ;
+
+e) Le montant des plus-values restant à réintégrer.
+
+II. Il est souscrit un état par opération et par exercice tant qu'il existe, au titre de l'opération concernée, des éléments
+auxquels est attaché un sursis d'imposition prévu par l'un des régimes mentionnés au I de l'article 54 septies du code
+général des impôts.
+
+III. L'état dont la production est prévue au III de l'article 54 septies du code général des impôts mentionne, pour chaque
+opération de scission, la dénomination et l'adresse de la société scindée ainsi que la date de l'approbation de la scission
+par les assemblées générales et, pour chaque associé :
+
+1° Son nom ou sa dénomination ;
+
+2° Son adresse ;
+
+3° Le nombre de titres grevés de l'engagement de conservation :
+
+a) Attribués à la suite de l'opération de scission ;
+
+b) Détenus sur toute la période couverte par l'exercice ;
+
+c) Le cas échéant, cédés au cours de l'exercice.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 54 septies
+
+	**Modifié par**:
+
+	  - Décret n°2000-740 du 1 août 2000 - art. 1 () JORF 4 août 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
 ##### N : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 54 octies du code général des impôts
 
 ###### Article 38 quindecies A
@@ -3823,78 +3886,67 @@ l'entreprise, répondant à des normes qui seront fixées par arrêté (1).
 ###### Article 38 quindecies E
 
 Le locataire d'un fonds de commerce, d'un fonds artisanal ou de l'un de leurs éléments incorporels non amortissables loué
-dans les conditions prévues au 3° de l'article 1er de la loi n° 66-445 du 2 juillet 1966 modifiée doit joindre une
-attestation délivrée par l'entreprise bailleresse à la déclaration de résultat de l'exercice au cours duquel le contrat de
-crédit-bail a été conclu.
+dans les conditions prévues au 3 de l'article L. 313-7 du code monétaire et financier doit joindre une attestation délivrée
+par l'entreprise bailleresse à la déclaration de résultat de l'exercice au cours duquel le contrat de crédit-bail a été
+conclu. 
 
-Cette attestation comporte les renseignements suivants :
+Cette attestation comporte les renseignements suivants : 
 
-L'identité et l'adresse du locataire ;
+L'identité et l'adresse du locataire ; 
 
-La date et la durée du contrat ;
+La date et la durée du contrat ; 
 
-Le prix convenu pour l'acceptation de la promesse unilatérale de vente prévue au contrat ;
+Le prix convenu pour l'acceptation de la promesse unilatérale de vente prévue au contrat ; 
 
-Pour chaque échéance le montant des loyers dus et la quote-part de ces loyers prise en compte pour la fixation de ce prix ;
+Pour chaque échéance le montant des loyers dus et la quote-part de ces loyers prise en compte pour la fixation de ce prix ; 
 
-Les modalités stipulées en cas de résiliation du contrat ou de non-acceptation de la promesse unilatérale de vente.
+Les modalités stipulées en cas de résiliation du contrat ou de non-acceptation de la promesse unilatérale de vente. 
 
 L'attestation est établie sur papier libre conformément au modèle fixé par l'administration.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
+	  - Décret n°2001-435 2001-05-21
 
 	**Cite**:
 
-	  - Loi n°66-445 1966-07-02 art. 1
-
-	**Modifié par**:
-
-	  - Loi n°89-1008 du 31 décembre 1989 - art. 2 () JORF 2 janvier 1990
+	  - Code monétaire et financier - art. L313-7 (V)
 
 
 ##### 2 : Crédit-bail mobilier, immobilier et sur les éléments incorporels amortissables d'un fonds de commerce ou d'un fonds artisanal
 
 ###### Article 38 quindecies F
 
-Le locataire d'un bien loué dans les conditions prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966
-et au 3° du même article en ce qu'il concerne les éléments incorporels amortissables d'un fonds de commerce ou d'un fonds
-artisanal, qui cède le contrat de crédit-bail ou le bien acquis à l'échéance d'un tel contrat, joint à la déclaration de
-résultats de l'exercice en cours lors de la cession un état établi sur un document conforme au modèle fixé par
-l'administration.
+Le locataire d'un bien loué dans les conditions prévues aux 1 et 2 de l'article L. 313-7 du code monétaire et financier et au
+3 du même article en ce qu'il concerne les éléments incorporels amortissables d'un fonds de commerce ou d'un fonds artisanal,
+qui cède le contrat de crédit-bail ou le bien acquis à l'échéance d'un tel contrat, joint à la déclaration de résultats de
+l'exercice en cours lors de la cession un état établi sur un document conforme au modèle fixé par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 24 juin 1991
-
-	**Cite**:
-
-	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
-
-	**Créé par**:
-
-	  - Décret n°90-420 1990-05-16 art. 1 JORF 22 mai 1990
-	  - Décret n°91-471 du 14 mai 1991 - art. 2 () JORF 17 mai 1991
-	  - Décret n°91-471 du 14 mai 1991 - art. 3 (V) JORF 17 mai 1991
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°2001-435 2001-05-21
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L313-7 (V)
 
 
 ###### Article 38 quindecies G
 
 Pour l'application de l'article 39 duodecies A du code général des impôts, l'acquéreur des droits afférents à un contrat de
-crédit-bail conclu dans les conditions prévues au 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966, joint à la
+crédit-bail conclu dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier joint à la
 déclaration de résultats de l'exercice en cours lors de l'acquisition un état établi sur un document conforme au modèle fixé
 par l'administration. Cet état comporte notamment les renseignements nécessaires à la ventilation du prix d'acquisition des
 droits entre sa fraction représentative des constructions et celle représentative du terrain.
@@ -3913,80 +3965,73 @@ l'objet d'une levée d'option d'achat au cours de cette période.
 	**Cite**:
 
 	  - CGI 39 duodecies A
-	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
+	  - Code monétaire et financier - art. L313-7 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-420 1990-05-16 art. 1 JORF 22 mai 1990
-	  - Décret n°91-471 du 14 mai 1991 - art. 2 () JORF 17 mai 1991
-	  - Décret n°91-471 du 14 mai 1991 - art. 3 (V) JORF 17 mai 1991
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°91-883 1991-09-09
+	  - Décret n°2001-435 2001-05-21
 
 	**Liens**:
 
-	  - HISTO: Edition 24 juin 1991
+	  - HISTO: Edition 31 mars 2001
 
 
 ##### 3 : Crédit-bail immobilier
 
 ###### Article 38 quindecies H
 
-I. Les entreprises qui donnent en location des biens immobiliers dans les conditions prévues au 2° de l'article 1er de la loi
-n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail doivent, pour chaque opération réalisée,
-conserver à l'appui de leur comptabilité pendant toute la durée du contrat un état récapitulant les conditions générales et
-un tableau faisant apparaître, pour chaque loyer, la quote-part de ce dernier prise en compte pour la fixation du prix de
-cession éventuelle de l'immeuble à l'issue du contrat.
+I. Les entreprises qui donnent en location des biens immobiliers dans les conditions prévues au 2 de l'article L. 313-7 du
+code monétaire et financier doivent, pour chaque opération réalisée, conserver à l'appui de leur comptabilité pendant toute
+la durée du contrat un état récapitulant les conditions générales et un tableau faisant apparaître, pour chaque loyer, la
+quote-part de ce dernier prise en compte pour la fixation du prix de cession éventuelle de l'immeuble à l'issue du contrat. 
 
-II. L'état récapitulatif visé au I comporte les renseignements suivants :
+II. L'état récapitulatif visé au I comporte les renseignements suivants : 
 
-a) L'identité et l'adresse du locataire ;
+a) L'identité et l'adresse du locataire ; 
 
-b) La date de conclusion et la durée du contrat ;
+b) La date de conclusion et la durée du contrat ; 
 
 c) Le prix convenu pour l'acquisition de l'immeuble à l'issue du contrat ou les informations permettant de déterminer celui-
-ci ;
+ci ; 
 
 d) Le prix des éléments non amortissables et des éléments amortissables figurant à l'actif du bilan de l'entreprise
-bailleresse ainsi que les frais d'acquisition de l'immeuble ;
+bailleresse ainsi que les frais d'acquisition de l'immeuble ; 
 
-e) Le lieu de situation.
+e) Le lieu de situation. 
 
 Lorsque l'économie du contrat est modifiée en raison de changements dans la situation du preneur ou des biens pris en crédit-
-bail, un état récapitulatif modifié doit être établi par le bailleur.
+bail, un état récapitulatif modifié doit être établi par le bailleur. 
 
 III. Le tableau visé au I doit faire apparaître, pour chaque échéance, la quote-part du loyer prise en compte pour la
 fixation du prix de cession éventuelle de l'immeuble à l'issue du contrat ou les informations permettant de déterminer celle-
 ci, ainsi que son affectation au financement respectif des frais d'acquisition, des éléments amortissables et des éléments
-non amortissables.
+non amortissables. 
 
 IV. Un exemplaire de l'état récapitulatif et du tableau mentionnés aux II et III est délivré au locataire à la prise d'effet
 du contrat et des avenants éventuels.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
-
-	**Créé par**:
-
-	  - Décret n°95-617 du 6 mai 1995 - art. 1 (V) JORF 7 mai 1995
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 quindecies I (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 quindecies K (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code monétaire et financier - art. L313-7 (V)
 
 
 ###### Article 38 quindecies I
@@ -4015,30 +4060,25 @@ bénéfice imposable. En cas de cession du contrat, une copie de ces documents e
 
 ###### Article 38 quindecies J
 
-Le locataire d'un bien loué dans les conditions prévues au 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative
-aux entreprises pratiquant le crédit-bail, qui cède le contrat de crédit-bail ou acquiert le bien pris en location, joint à
-la déclaration de résultats de l'exercice en cours lors de la cession ou de l'acquisition un état comportant le montant de la
-quote-part des loyers non déduite pour la détermination du résultat imposable au titre de chaque échéance de la période de
-location, en distinguant, le cas échéant, la quote-part afférente à des éléments non amortissables de celle relative aux
-éléments amortissables.
+Le locataire d'un bien loué dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, qui cède
+le contrat de crédit-bail ou acquiert le bien pris en location, joint à la déclaration de résultats de l'exercice en cours
+lors de la cession ou de l'acquisition un état comportant le montant de la quote-part des loyers non déduite pour la
+détermination du résultat imposable au titre de chaque échéance de la période de location, en distinguant, le cas échéant, la
+quote-part afférente à des éléments non amortissables de celle relative aux éléments amortissables.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°66-455 du 2 juillet 1966 - art. 1 (M)
-
-	**Créé par**:
-
-	  - Décret n°95-617 du 6 mai 1995 - art. 3 (V) JORF 7 mai 1995
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 47° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2001-435 2001-05-21
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code monétaire et financier - art. L313-7 (V)
 
 
 ###### Article 38 quindecies K
@@ -5768,8 +5808,8 @@ celles-ci ;
 
 4° Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
 
-5° Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles 95 et 130 modifiés
-de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
+5° Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles L. 225-25 et L.
+225-72 du code de commerce ;
 
 6° Les coopératives artisanales et leurs unions, les coopératives d'entreprises de transports, les coopératives artisanales
 de transport fluvial ainsi que les coopératives maritimes et leurs unions, visées aux titres I et II et au chapitre Ier du
@@ -5777,11 +5817,11 @@ titre III de la loi n° 83-657 du 20 juillet 1983 relative au développement de 
 ces sociétés fonctionnent conformément aux dispositions de la loi précitée, pour la souscription ou la cession de leurs parts
 ou actions ;
 
-7° Les sociétés coopératives agricoles et leurs unions régies par les articles L. 521-1 à L. 526-2 du code rural pour la
-souscription ou la cession de leurs parts ou actions ;
+7° Les sociétés coopératives agricoles et leurs unions régies par les articles L. 521-1 à L. 526-2 du code rural et de la
+pêche maritime pour la souscription ou la cession de leurs parts ou actions ;
 
 8° Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
-Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
+Ier du livre V du code rural et de la pêche maritime, pour la souscription ou la cession de leurs parts.
 
 **Liens relatifs à cet article**
 
@@ -5789,20 +5829,21 @@ Ier du livre V du code rural, pour la souscription ou la cession de leurs parts.
 
 	  - CGI 83 bis
 	  - Code rural L521-1 à L526-2
-	  - Loi n°66-537 1966-07-24 art. 95, art. 130
 	  - Loi n°83-657 1983-07-20
+	  - Code de commerce. - art. L225-25 (M)
+	  - Code de commerce. - art. L225-72 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 	**Modifié par**:
 
-	  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
+	  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
 
 
 ##### 2° : Dispositions applicables aux sociétés nouvelles créées à compter du 1er janvier 1992 et jusqu'au 31 décembre 1996 et aux souscriptions libérées au plus tard le 31 décembre 1999
@@ -5865,10 +5906,14 @@ Lorsque le salarié se trouve dans un cas de dispense de reprise mentionnés au 
 impôts, la déclaration des revenus est accompagnée d'une note précisant sa situation.
 
 3. Lorsque les titres de la société nouvelle sont apportés à une société civile ou à un fonds commun de placement
-d'entreprise mentionné à l'article 21 modifié de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement
-collectif en valeurs mobilières, la société nouvelle est tenue aux obligations du 2 en cas de cession par un salarié de tout
-ou partie de ses parts dans la société civile ou dans le fonds commun de placement d'entreprise. Il en est de même en cas de
-cession des titres de la société nouvelle par la société civile ou par le fonds commun de placement.
+d'entreprise mentionné à l'article L. 214-40 du code monétaire et financier, la société nouvelle est tenue aux obligations du
+2 en cas de cession par un salarié de tout ou partie de ses parts dans la société civile ou dans le fonds commun de placement
+d'entreprise. Il en est de même en cas de cession des titres de la société nouvelle par la société civile ou par le fonds
+commun de placement.
+
+**Nota:**
+
+Modification effectuée en conséquence de la péremption de l'article 83 ter du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -5876,19 +5921,20 @@ cession des titres de la société nouvelle par la société civile ou par le fo
 
 	  - CGI 83 ter
 	  - CGIAN3 38 septdecies H
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
+	  - Code monétaire et financier - art. L214-40
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 81° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Créé par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°2001-435 2001-05-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 38 septdecies J
@@ -5987,15 +6033,23 @@ d'une même entreprise ;
 	  - CGI 87, 231, 182 A
 	  - Livre des procédures fiscales R81 A-1
 
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
 	**Modifié par**:
 
-	  - Décret n°2000-339 du 17 avril 2000 - art. 1 () JORF 19 avril 2000
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 	**Cité par**:
 
 	  - Arrêté du 19 février 2010 - art. 3 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39-0 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 M bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 39 A
@@ -6186,204 +6240,6 @@ articles 39 B et 47 A.
 
 
 ##### VII : Bénéfices des professions non commerciales
-
-##### A : Taxation des gains nets en capital
-
-##### 1° : Fonds communs de placement.
-
-###### Article 39 bis
-
-En cas de rachat de parts, le gérant d'un fonds commun de placement ou le dépositaire des actifs du fonds agissant pour le
-compte du gérant, doit tenir à la disposition du propriétaire de parts les éléments nécessaires à la détermination de la
-valeur moyenne pondérée d'acquisition des parts rachetées.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 41 duovicies D
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-	  - Décret n°83-899 1983-10-06
-
-	**Transféré par**:
-
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 juillet 1983
-	  - HISTO: Edition du 31 mars 2001
-
-	**Modifié par**:
-
-	  - Loi n°83-1 du 3 janvier 1983 - art. 23 () JORF 4 janvier 1983
-
-
-###### Article 39 ter
-
-Le gérant du fonds commun de placement ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant, adresse,
-avant le 1er février de chaque année, à la direction des services fiscaux désignée au premier alinéa de l'article 41
-sexdecies A un document faisant apparaître :
-
-1° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
-période pendant laquelle la limite de 10 % a été dépassée, l'identité et le domicile fiscal de l'intéressé mentionnés à
-l'article 41 sexdecies B ainsi que le nombre de parts qu'il détient ; 
-
-2° (Devenu sans objet)
-
-3° Le montant global des rachats de parts effectués au profit de chaque propriétaire au cours de l'année précédente,
-lorsqu'il excède 10.000 F ; 
-
-4° Dans la même limite que celle fixée au 3°, la valeur globale des apports en nature de valeurs mobilières effectués par
-chaque propriétaire de parts ; 
-
-5° En cas de dissolution du fonds : 
-
-La date de la dissolution ;
-
-L'identité et l'adresse de chaque propriétaire de parts mentionné à l'article 41 sexdecies B ; 
-
-Le nombre de parts dont il disposait et leur valeur pondérée d'acquisition ; 
-
-le montant des attributions en espèces ou en nature autres que celles présentant le caractère de revenus de capitaux
-mobiliers revenant à la suite de la liquidation.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 41 duovicies E
-
-	**Cite**:
-
-	  - CGIAN3 41 sexdecies A
-	  - CGIAN3 41 sexdecies B
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-	  - Décret n°2001-435 2001-05-21
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 7 (P) JORF 30 décembre 1982
-
-	**Transféré par**:
-
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 juillet 1983
-	  - HISTO: Edition du 31 mars 2001
-
-
-##### 2° : Fonds communs de placements à risques.
-
-###### Article 39 quater
-
-En cas de rachat ou de cession de parts, le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques doit
-fournir au propriétaire des parts rachetées ou cédées tous les éléments de calcul de la plus-value, et notamment :
-
-a. Les éléments nécessaires à la détermination de la valeur moyenne pondérée d'acquisition des parts rachetées ou cédées ;
-
-b. La date et le montant de ces rachats ou cessions de parts ;
-
-c. (abrogé)
-
-En cas de cession de parts effectuée sans l'intervention du gérant, le cédant fait connaître au gérant ou au dépositaire le
-nombre et la catégorie des parts cédées, l'identité et le domicile du cessionnaire ainsi que la date et le montant de la
-cession.
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 41 duovicies F
-
-	**Modifié par**:
-
-	  - Décret n°2001-171 du 19 février 2001 - art. 1 () JORF 24 février 2001
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Transféré par**:
-
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 39 quinquies
-
-Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques adresse, ayant le 16 février de chaque année,
-à la direction des services fiscaux auprès de laquelle il souscrit sa déclaration de bénéfices ou de revenus un relevé des
-opérations de l'année précédente mentionnant :
-
-1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a effectuées et des rachats opérés par le fonds.
-
-2° La valeur globale des apports en nature de titres effectués par chaque propriétaire de parts ;
-
-3° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
-période pendant laquelle la limite de 10 % a été dépassée, les renseignements mentionnés à l'article 41 sexdecies B
-concernant l'intéressé, ainsi que le nombre de parts qu'il détient ;
-
-4° En cas de dissolution du fonds ou de distribution par le fonds d'une partie de ses avoirs entraînant annulation d'une
-fraction des parts de ce fonds :
-
-a. La date de la dissolution ou de la distribution des avoirs ;
-
-b. Les renseignements mentionnés à l'article 41 sexdecies B concernant chaque propriétaire de parts ainsi que le nombre et la
-catégorie des parts dont il disposait avant la dissolution ou, en cas de distribution d'avoirs, le nombre de ses parts
-annulées, leur catégorie et leur valeur moyenne pondérée d'acquisition ;
-
-c. Le montant des attributions en nature ou en espèces, autres que celles présentant le caractère de revenus de capitaux
-mobiliers, revenant à chaque propriétaire.
-
-5° En cas de distribution d'une partie des avoirs du fonds effectuée sans annulation de parts :
-
-a. La date de la distribution ;
-
-b. Les renseignements mentionnés à l'article 41 sexdecies B concernant chaque propriétaire de parts ainsi que le nombre et la
-catégorie de parts détenues ouvrant droit à la distribution et leur valeur moyenne pondérée d'acquisition ;
-
-c. Le montant de la distribution, qu'elle soit en nature ou en espèces revenant à chaque propriétaire.
-
-d. (abrogé)
-
-**Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - CGIAN3 41 duovicies G
-
-	**Cite**:
-
-	  - CGIAN3 41 sexdecies B
-
-	**Modifié par**:
-
-	  - Décret n°2001-171 du 19 février 2001 - art. 1 () JORF 24 février 2001
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Transféré par**:
-
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
 
 ##### C : Déclarations spéciales
 
@@ -8157,6 +8013,178 @@ immobilière.
 	  - HISTO: Edition du 31 mars 2002
 
 
+###### Article 41 duovicies D
+
+En cas de rachat de parts, le gérant d'un fonds commun de placement ou le dépositaire des actifs du fonds agissant pour le
+compte du gérant, doit tenir à la disposition du propriétaire de parts les éléments nécessaires à la détermination de la
+valeur moyenne pondérée d'acquisition des parts rachetées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 39 bis
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Créé par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+
+###### Article 41 duovicies E
+
+Le gérant du fonds commun de placement ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant, adresse,
+avant le 1er février de chaque année, à la direction des services fiscaux désignée au premier alinéa de l'article 41
+sexdecies A un document faisant apparaître :
+
+1° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
+période pendant laquelle la limite de 10 % a été dépassée, l'identité et le domicile fiscal de l'intéressé mentionnés à
+l'article 41 sexdecies B ainsi que le nombre de parts qu'il détient ; 
+
+2° (Devenu sans objet)
+
+3° Le montant global des rachats de parts effectués au profit de chaque propriétaire au cours de l'année précédente,
+lorsqu'il excède 1500 euros  ; 
+
+4° Dans la même limite que celle fixée au 3°, la valeur globale des apports en nature de valeurs mobilières effectués par
+chaque propriétaire de parts ; 
+
+5° En cas de dissolution du fonds : 
+
+La date de la dissolution ;
+
+L'identité et l'adresse de chaque propriétaire de parts mentionné à l'article 41 sexdecies B ; 
+
+Le nombre de parts dont il disposait et leur valeur pondérée d'acquisition ; 
+
+le montant des attributions en espèces ou en nature autres que celles présentant le caractère de revenus de capitaux
+mobiliers revenant à la suite de la liquidation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 39 ter
+
+	**Cite**:
+
+	  - CGIAN3 41 sexdecies A, 41 sexdecies B
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-96 2001-02-02 art. 1 C
+	  - HISTO: Edition du 31 mars 2001
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Créé par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+
+###### Article 41 duovicies F
+
+En cas de rachat ou de cession de parts, le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques doit
+fournir au propriétaire des parts rachetées ou cédées tous les éléments de calcul de la plus-value, et notamment :
+
+a. Les éléments nécessaires à la détermination de la valeur moyenne pondérée d'acquisition des parts rachetées ou cédées ;
+
+b. La date et le montant de ces rachats ou cessions de parts ;
+
+c. (abrogé)
+
+En cas de cession de parts effectuée sans l'intervention du gérant, le cédant fait connaître au gérant ou au dépositaire le
+nombre et la catégorie des parts cédées, l'identité et le domicile du cessionnaire ainsi que la date et le montant de la
+cession.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 39 quater
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Créé par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 41 duovicies G
+
+Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques adresse, ayant le 16 février de chaque année,
+à la direction des services fiscaux auprès de laquelle il souscrit sa déclaration de bénéfices ou de revenus un relevé des
+opérations de l'année précédente mentionnant :
+
+1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a effectuées et des rachats opérés par le fonds.
+
+2° La valeur globale des apports en nature de titres effectués par chaque propriétaire de parts ;
+
+3° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
+période pendant laquelle la limite de 10 % a été dépassée, les renseignements mentionnés à l'article 41 sexdecies B
+concernant l'intéressé, ainsi que le nombre de parts qu'il détient ;
+
+4° En cas de dissolution du fonds ou de distribution par le fonds d'une partie de ses avoirs entraînant annulation d'une
+fraction des parts de ce fonds :
+
+a. La date de la dissolution ou de la distribution des avoirs ;
+
+b. Les renseignements mentionnés à l'article 41 sexdecies B concernant chaque propriétaire de parts ainsi que le nombre et la
+catégorie des parts dont il disposait avant la dissolution ou, en cas de distribution d'avoirs, le nombre de ses parts
+annulées, leur catégorie et leur valeur moyenne pondérée d'acquisition ;
+
+c. Le montant des attributions en nature ou en espèces, autres que celles présentant le caractère de revenus de capitaux
+mobiliers revenant à chaque propriétaire.
+
+5° En cas de distribution d'une partie des avoirs du fonds effectuée sans annulation de parts :
+
+a. La date de la distribution ;
+
+b. Les renseignements mentionnés à l'article 41 sexdecies B concernant chaque propriétaire de parts ainsi que le nombre et la
+catégorie de parts détenues ouvrant droit à la distribution et leur valeur moyenne pondérée d'acquisition ;
+
+c. Le montant de la distribution, qu'elle soit en nature ou en espèces revenant à chaque propriétaire.
+
+d. (abrogé)
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 39 quinquies
+
+	**Cite**:
+
+	  - CGIAN3 41 sexdecies B
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Créé par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 X (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
 ##### X quater : Report d'imposition de la plus-value constatée lors de la levée de l'option d'achat d'un immeuble acquis en crédit-bail et précédemment donné en sous-location
 
 ###### Article 41 novovicies
@@ -8199,11 +8227,59 @@ intervient cet événement
 
 ##### XI : Dispositions communes aux différentes catégories de revenus
 
-##### 1° : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale.
+##### 1° : Informations complémentaires à joindre aux déclarations des contribuables relevant de la Direction des grandes entreprises
+
+###### Article 41-00 A
+
+Les personnes morales ou groupements de droit ou de fait, dont le chiffre d'affaires hors taxes ou le total de l'actif brut
+figurant au bilan est supérieur ou égal à 600 millions d'euros à la clôture de l'exercice ainsi que les sociétés bénéficiant
+de l'agrément prévu à l'article 209 quinquies du code général des impôts, sont tenues de joindre à la déclaration prévue aux
+articles 172, 172 bis ou 223 du code précité :
+
+1° La liste des personnes ou groupements de personnes de droit ou de fait détenant au moins 10 % de leur capital, en
+précisant, pour chacune d'entre elles, le nombre de parts ou d'actions et le taux de détention ainsi que, pour les personnes
+morales, leur dénomination, adresse et, pour celles établies en France, leur numéro d'identification au répertoire national
+des établissements (numéro SIRET) ou pour les personnes physiques leurs nom, prénoms, adresse, date et lieu de naissance ;
+
+2° La liste des personnes morales ou groupements de personnes de droit ou de fait détenant à la clôture de l'exercice,
+indirectement, plus de la moitié de leur capital ou des droits de vote, ainsi que des personnes ou groupements qui, quel que
+soit le taux de détention, sont interposés dans la chaîne des participations, en indiquant leur dénomination, leur adresse,
+le taux de détention et, pour ceux établis en France, leur numéro d'identification au répertoire national des établissements
+(numéro SIRET) ;
+
+3° La liste des personnes morales ou groupements de personnes de droit ou de fait dont elles détiennent à la clôture de
+l'exercice, directement ou indirectement, plus de la moitié du capital ou des droits de vote, ainsi que des personnes ou
+groupements qui, quel que soit le taux de détention, sont interposés dans la chaîne des participations, en indiquant leur
+dénomination, leur adresse, le taux de détention et, pour ceux établis en France, leur numéro d'identification au répertoire
+national des établissements (numéro SIRET) ;
+
+4° Pour les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies du code général des impôts, la liste des
+personnes morales ou groupements de personnes de droit ou de fait faisant partie du périmètre de consolidation, en indiquant
+leur dénomination, leur adresse, le taux de détention et, pour ceux établis en France, leur numéro d'identification au
+répertoire national des établissements (numéro SIRET).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quinquies, 172, 172 bis, 223
+
+	**Créé par**:
+
+	  - Décret n°2000-1217 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1217 du 13 décembre 2000 - art. 2 (V)
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2002-04-18 13K-5-02
+
+
+##### 2° : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale ou libérale
 
 ###### Article 41-0 A
 
-I. Pour l'application du troisième alinéa de l'article 151 septies du code général des impôts, les travaux agricoles et
+I. Pour l'application du quatrième alinéa de l'article 151 septies du code général des impôts, les travaux agricoles et
 forestiers sont définis comme suit :
 
 1° Travaux agricoles :
@@ -8230,14 +8306,14 @@ carbonisation ;
 
 e) Enlèvement jusqu'aux aires de chargement.
 
-II. 1° Constituent des matériels agricoles ou forestiers au sens du troisième alinéa de l'article 151 septies du même code,
+II. 1° Constituent des matériels agricoles ou forestiers au sens du quatrième alinéa de l'article 151 septies du même code,
 les biens d'équipement qui sont exclusivement affectés à la réalisation des travaux visés au I ;
 
 2° Les entrepreneurs de travaux agricoles ou forestiers s'entendent de ceux qui effectuent à titre principal, pour le compte
 des exploitants agricoles ou forestiers, les travaux énumérés au I. Cette activité doit procurer à l'entreprise plus de 50 p.
 100 de son chiffre d'affaires annuel.
 
-III. La limite d'un million de francs visée au troisième alinéa de l'article 151 septies précité s'entend du chiffre
+III. La limite d'un million de francs visée au quatrième alinéa de l'article 151 septies précité s'entend du chiffre
 d'affaires total de l'entreprise.
 
 **Liens relatifs à cet article**
@@ -8248,15 +8324,16 @@ d'affaires total de l'entreprise.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2001
 
 	**Modifié par**:
 
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
+	  - Loi - art. 14 (V) JORF 31 décembre 2000
+	  - Loi n°2000-1352 2000-12-30 art. 14 V 1°, 5° Finances pour 2001 JORF 31 décembre 2000
 
 	**Codifié par**:
 
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2001-435 2001-05-21
 
 
 ##### 3° : Plus-values réalisées à l'occasion d'apports en sociétés
@@ -8378,73 +8455,6 @@ sociétés et organismes prévue à l'article 39 quinquies du code général des
 	  - Code général des impôts, CGI. - art. 39 quinquies (V)
 
 
-##### 4° : Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.
-
-###### Article 41 DC
-
-Pour l'application du I de l'article 15 bis, du III de l'article 35 bis et de l'article 92 L du code général des impôts, le
-prix de location ne doit pas excéder 341 F annuels par mètre carré habitable en région Ile-de-France, et 283 F annuels par
-mètre carré habitable dans les autres régions.
-
-Ces prix sont révisés chaque année le 1er janvier en fonction de la variation annuelle de l'indice national mesurant le coût
-de la construction publié par l'Institut national de la statistique et des études économiques. La date de référence de
-l'indice est celle du deuxième trimestre de l'année précédente.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 15 bis, 35 bis, 92 L
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Modifié par**:
-
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 41 DD
-
-Les modalités d'agrément prévues au II de l'article 15 bis, au troisième alinéa du III de l'article 35 bis et au deuxième
-alinéa de l'article 92 L du code général des impôts visant la mise en oeuvre du droit au logement sont les suivantes :
-
-1. Peuvent être agréés par le représentant de l'Etat dans le département les organismes sans but lucratif dont l'un des
-objets est de contribuer au logement des personnes défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai
-1990 par la mise à leur disposition de logements.
-
-L'organisme doit justifier d'une compétence dans le domaine de l'action sociale et d'une expérience en matière d'insertion
-sociale ou de logement des personnes défavorisées.
-
-2. L'agrément est accordé par décision du préfet pour une dur ée indéterminée. En cas de manquements graves de l'organisme
-agréé à ses obligations, et après que celui-ci a été mis en mesure de présenter ses observations, le retrait de l'agrément
-peut être prononcé par le représentant de l'Etat dans le département.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 92 L, 15 bis, 35 bis
-	  - Loi n°90-449 1990-05-31 art. 1
-
-	**Créé par**:
-
-	  - Décret n°90-783 du 3 septembre 1990 - art. 2 (V) JORF 6 septembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-883 1991-09-09
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-
 ##### 5° : Obligations des gestionnaires de fonds salariaux
 
 ###### Article 41 DA
@@ -8483,6 +8493,72 @@ Ces renseignements  sont mentionnés sur la déclaration prévue au 1 de l'artic
 
 
 ##### 6° : Locations ou sous-locations en faveur des personnes défavorisées : obligations des contribuables exonérés d'impôt sur le revenu.
+
+###### Article 41 DC
+
+Pour l'application du I de l'article 15 bis, du III de l'article 35 bis et de l'article 92 L du code général des impôts, le
+prix de location ne doit pas excéder 346 F annuels par mètre carré habitable en région Ile-de-France, et 287 F annuels par
+mètre carré habitable dans les autres régions.
+
+Ces prix sont révisés chaque année le 1er janvier en fonction de la variation annuelle de l'indice national mesurant le coût
+de la construction publié par l'Institut national de la statistique et des études économiques. La date de référence de
+l'indice est celle du deuxième trimestre de l'année précédente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 15 bis, 35 bis, 92 L
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Modifié par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 41 DD
+
+Les modalités d'agrément prévues au II de l'article 15 bis, au troisième alinéa du III de l'article 35 bis et au deuxième
+alinéa de l'article 92 L du code général des impôts visant la mise en oeuvre du droit au logement sont les suivantes :
+
+1. Peuvent être agréés par le représentant de l'Etat dans le département les organismes sans but lucratif dont l'un des
+objets est de contribuer au logement des personnes défavorisées mentionnées à l'article 1er de la loi n° 90-449 du 31 mai
+1990 modifié par la mise à leur disposition de logements.
+
+L'organisme doit justifier d'une compétence dans le domaine de l'action sociale et d'une expérience en matière d'insertion
+sociale ou de logement des personnes défavorisées.
+
+2. L'agrément est accordé par décision du préfet pour une dur ée indéterminée. En cas de manquements graves de l'organisme
+agréé à ses obligations, et après que celui-ci a été mis en mesure de présenter ses observations, le retrait de l'agrément
+peut être prononcé par le représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 92 L, 15 bis, 35 bis
+	  - Loi n°90-449 1990-05-31 art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+	**Modifié par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 140 () JORF 14 décembre 2000
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 84 () JORF 14 décembre 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
 
 ###### Article 41 DE
 
@@ -8606,16 +8682,16 @@ service des impôts dont dépend le lieu d'exercice de l'activité ou le princip
 
 Pour l'application des dispositions du deuxième alinéa du 3° du I de l'article 156 du code général des impôts, les organismes
 qui prennent l'initiative d'une opération de restauration immobilière dans un secteur sauvegardé ou une zone de protection du
-patrimoine architectural, urbain et paysager doivent relever de l'une des catégories énumérées ci-après :
+patrimoine architectural, urbain et paysager doivent relever de l'une des catégories énumérées ci-après : 
 
-a) Etablissements publics d'aménagement créés en application des articles L. 321-1 à L. 321-9 du code de l'urbanisme ;
+a) Etablissements publics d'aménagement créés en application des articles L. 321-1 à L. 321-9 du code de l'urbanisme ; 
 
 b) Sociétés d'économie mixte répondant aux conditions définies par l'article L. 300-4 du code de l'urbanisme, et qui sont
-chargées de l'opération de restauration en vertu d'une convention ou d'une concession d'aménagement conclue avec la
-collectivité publique ;
+chargées de l'opération de restauration en vertu d'une convention publique d'aménagement conclue avec la collectivité
+publique ; 
 
 c) Organismes d'habitation à loyer modéré habilités à réaliser des opérations d'aménagement en vertu des articles L. 421-1,
-L. 421-4 et L. 422-2 du code de la construction et de l'habitation ;
+L. 421-4 et L. 422-2 du code de la construction et de l'habitation ; 
 
 d) Associations sans but lucratif dont l'un des objets est l'amélioration de l'habitat ou la restauration immobilière,
 comprenant dans leur organe dirigeant un ou plusieurs représentants de l'Etat ou de l'une des collectivités territoriales
@@ -8625,31 +8701,27 @@ le présent article.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 156
-	  - Code de l'urbanisme - art. L300-4 (M)
-	  - Code de l'urbanisme L321-1 à L321-9, L300-4
-	  - Code de la construction et de l'habitation. - art. L421-1 (M)
-	  - Code de la construction et de l'habitation. - art. L421-4 (M)
-	  - Code de la construction et de l'habitation. - art. L422-2 (M)
-
-	**Créé par**:
-
-	  - Décret n°95-386 du 11 avril 1995 - art. 1 (V) JORF 13 avril 1995
+	  - Loi n°2000-1208 2000-12-13 art. 8 1° JORF 14 décembre 2000
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
 	  - Code du patrimoine - art. D633-1 (V)
 	  - Code du patrimoine - art. D643-1 (Ab)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - Code général des impôts, CGI. - art. 156 (V)
+	  - Code de l'urbanisme - art. L300-4 (V)
+	  - Code de l'urbanisme - art. L321-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-1 (V)
+	  - Code de la construction et de l'habitation. - art. L421-4 (V)
+	  - Code de la construction et de l'habitation. - art. L422-2 (V)
 
 
 ##### 0I ter : Opérations de réaménagement d'immeubles situés dans les zones franches urbaines
@@ -9197,7 +9269,7 @@ Il précise le nombre de parts, leur catégorie, la date et le montant total de 
 ###### Article 41 X
 
 Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
-adresse avant le 16 février de chaque année, à la direction des services fiscaux désignée à l'article 39 quinquies :
+adresse avant le 16 février de chaque année, à la direction des services fiscaux désignée à l'article 41 duovicies G :
 
 a) Une copie de l'engagement prévu au I de l'article 163 quinquies B du code général des impôts ;
 
@@ -9210,19 +9282,19 @@ année suivant celle de l'expiration de l'engagement.
 
 	**Cite**:
 
-	  - CGI 39 quinquies, 163 quinquies B
-
-	**Créé par**:
-
-	  - Décret n°85-41 du 8 janvier 1985 - art. 5 (V) JORF 12 janvier 1985
+	  - CGI 41 duovicies G, 163 quinquies B
 
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°2001-435 2001-05-21
+
+	**Modifié par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 41 Y
@@ -9233,27 +9305,24 @@ dépositaire des actifs du fonds doit mentionner :
 1° sur le relevé visé à l'article 41 sexdecies F le montant global des sommes ou valeurs auxquelles donnent droit les parts
 initialement souscrites et qui ont bénéficié de l'exonération instituée par le I de l'article 163 quinquies B susvisé ; 
 
-2° sur le relevé prévu à l'article 39 quinquies les renseignements visés audit article concernant les rachats ou cessions de
-parts.
+2° sur le relevé prévu à l'article 41 duovicies G les renseignements visés audit article concernant les rachats ou cessions
+de parts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 163 quinquies B
-	  - CGIAN3 39 quinquies, 41 sexdecies F
-
-	**Créé par**:
-
-	  - Décret n°85-41 du 8 janvier 1985 - art. 6 (V) JORF 12 janvier 1985
-
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°2001-435 2001-05-21
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies G (V)
+	  - Code général des impôts, CGI. - art. 163 quinquies B (V)
 
 
 ##### II quater : Copropriété de navires.
@@ -9917,6 +9986,65 @@ III. Une copie de la déclaration d'achèvement des travaux, accompagnée d'une 
 	  - HISTO: Edition du 31 mars 2002
 
 
+###### Article 46 AGD
+
+I. - Pour l'application du quatrième alinéa de l'article 199 decies E du code général des impôts, les contribuables sont
+tenus de joindre à leur déclaration de revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est
+demandé :
+
+1° Une note annexe, établie conformément à un modèle fixé par l'administration, qui comporte les éléments suivants :
+
+a) L'identité et l'adresse du contribuable ;
+
+b) L'adresse du logement concerné ;
+
+c) Le prix d'acquisition du logement ;
+
+d) La date d'achèvement du logement ou de son acquisition si elle est postérieure ;
+
+e) L'engagement de louer le logement nu, pendant une durée d'au moins neuf ans, à l'exploitant de la résidence de tourisme ;
+
+2° Une copie du bail conclu avec l'exploitant de la résidence de tourisme mentionnant la date d'effet de la location ainsi
+que, lorsqu'il y a lieu, la durée totale, par année civile, des périodes d'occupation du logement que le propriétaire se
+réserve.
+
+II. - En cas de changement d'exploitant de la résidence au cours de la période couverte par l'engagement mentionné au I, le
+contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du bail
+conclu avec le nouvel exploitant comportant les mentions définies au 2° du I.
+
+III. - Pour l'application du sixième alinéa de l'article 199 decies E du code général des impôts, le conjoint survivant joint
+à la déclaration de revenus qu'il souscrit au titre de l'année du décès pour la période postérieure à cet événement une note
+établie conformément à un modèle fixé par l'administration qui comporte l'engagement de louer le logement nu à l'exploitant
+de la résidence de tourisme pour la fraction de la période de neuf ans couverte par l'engagement de location initial et
+restant à courir à la date du décès.
+
+En cas de changement d'exploitant de la résidence, les dispositions du II sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 decies E
+
+	**Modifié par**:
+
+	  - Loi - art. 79 (V) JORF 31 décembre 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. D421-2 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGE (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGF ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
 ###### Article 46 AGE
 
 I.-Lorsque le logement appartient à une société non soumise à l'impôt sur les sociétés, les obligations fixées à l'article 46
@@ -10051,8 +10179,8 @@ II. - Les dispositions du II et du III de l'article 46 AGD s'appliquent au prés
 Pour l'application du 3° du premier alinéa de l'article 199 decies B du code général des impôts, les montants annuels du
 loyer et des ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus entre le 1er janvier et le 31 décembre 2000, les plafonds de loyer, charges non comprises, sont
-fixés à 855 F annuels par mètre carré de surface habitable en région Ile-de-France et 608 F annuels par mètre carré de
+1. Pour les baux conclus entre le 1er janvier et le 31 décembre 2001, les plafonds de loyer, charges non comprises, sont
+fixés à 867 F annuels par mètre carré de surface habitable en région Ile-de-France et 616 F annuels par mètre carré de
 surface habitable dans les autres régions. Ces plafonds sont relevés chaque année le 1er janvier dans la même proportion que
 l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des études
 économiques. La date de référence de l'indice est celle du deuxième trimestre de l'année précédente.
@@ -10060,11 +10188,11 @@ l'indice national mesurant le coût de la construction publié par l'Institut na
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Les plafonds annuels de ressources sont fixés, pour une personne seule, à 163 560 F en région Ile-de-France et à 126 510 F
-dans les autres régions pour les revenus 1999.
+Les plafonds annuels de ressources sont fixés, pour une personne seule, à 165 850 F en région Ile-de-France et à 128 280 F
+dans les autres régions pour les revenus 2000.
 
 Ces montants sont doublés pour un couple marié. Ils sont relevés chaque année dans la même proportion que la limite
-supérieure de la première tranche du barème de l'impôt sur le revenu. Les montant obtenus sont arrondis, s'il y a lieu, à la
+supérieure de la première tranche du barème de l'impôt sur le revenu. Les montants obtenus sont arrondis, s'il y a lieu, à la
 centaine de francs supérieure.
 
 **Liens relatifs à cet article**
@@ -10073,73 +10201,17 @@ centaine de francs supérieure.
 
 	  - CGI 199 decies B
 
-	**Modifié par**:
-
-	  - Loi - art. 2 (P) JORF 31 décembre 1999
-
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
+	**Modifié par**:
 
-###### Article 46 AGD
-
-I. - Pour l'application du troisième alinéa de l'article 199 decies E du code général des impôts, les contribuables sont
-tenus de joindre à leur déclaration de revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est
-demandé :
-
-1° Une note annexe, établie conformément à un modèle fixé par l'administration, qui comporte les éléments suivants :
-
-a) L'identité et l'adresse du contribuable ;
-
-b) L'adresse du logement concerné ;
-
-c) Le prix d'acquisition du logement ;
-
-d) La date d'achèvement du logement ou de son acquisition si elle est postérieure ;
-
-e) L'engagement de louer le logement nu, pendant une durée d'au moins neuf ans, à l'exploitant de la résidence de tourisme ;
-
-2° Une copie du bail conclu avec l'exploitant de la résidence de tourisme mentionnant la date d'effet de la location ainsi
-que, lorsqu'il y a lieu, la durée totale, par année civile, des périodes d'occupation du logement que le propriétaire se
-réserve.
-
-II. - En cas de changement d'exploitant de la résidence au cours de la période couverte par l'engagement mentionné au I, le
-contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du bail
-conclu avec le nouvel exploitant comportant les mentions définies au 2° du I.
-
-III. - Pour l'application du cinquième alinéa de l'article 199 decies E du code général des impôts, le conjoint survivant
-joint à la déclaration de revenus qu'il souscrit au titre de l'année du décès pour la période postérieure à cet événement une
-note établie conformément à un modèle fixé par l'administration qui comporte l'engagement de louer le logement nu à
-l'exploitant de la résidence de tourisme pour la fraction de la période de neuf ans couverte par l'engagement de location
-initial et restant à courir à la date du décès.
-
-En cas de changement d'exploitant de la résidence, les dispositions du II sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 decies E
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°98-1267 1998-12-30 art. 13 Finances rectificative pour 1998
-	  - HISTO: Edition du 31 mars 1999
-
-	**Créé par**:
-
-	  - Décret n°99-180 du 10 mars 1999 - art. 1 () JORF 12 mars 1999
-
-	**Cité par**:
-
-	  - Code du tourisme. - art. D421-2 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGE (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGF ter (V)
+	  - Loi - art. 2 () JORF 31 décembre 2000
 
 
 ##### 3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer
@@ -10149,14 +10221,14 @@ En cas de changement d'exploitant de la résidence, les dispositions du II sont 
 I. Pour l'application du 3° du 3 de l'article 199 undecies du code général des impôts, les montants annuels du loyer et des
 ressources du locataire ne peuvent excéder les limites suivantes :
 
-1. Pour les baux conclus en 2000, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2001, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à :
 
-1° 764 F dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
+1° 780 F dans les départements d'outre-mer et dans la collectivité territoriale de Mayotte. Ce plafond est révisé chaque
 année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
 consommation hors tabac de chacun des quatre départements d'outre-mer ;
 
-2° 1 009 F dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond est
+2° 1 020 F dans les territoires d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon. Ce plafond est
 révisé chaque année le 1er janvier dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices
 des prix à la consommation de la Polynésie française et de la Nouvelle-Calédonie.
 
@@ -10166,16 +10238,16 @@ la statistique et des études économiques au 1er décembre de l'année qui pré
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2000, les plafonds annuels de ressources sont fixés à :
+Pour les baux conclus en 2001, les plafonds annuels de ressources sont fixés à :
 
-1°  137 818 F pour une personne seule et 275 636 F pour un couple marié soumis à imposition commune dans les départements
-d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 15 921 F par personne à charge au sens
-des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 21 228 F par enfant à partir du troisième.
+1°  140 000 F pour une personne seule et 280 000 F pour un couple marié soumis à imposition commune dans les départements
+d'outre-mer et la collectivité territoriale de Mayotte. Ces sommes sont majorées de 16 200 F par personne à charge au sens
+des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 21 600 F par enfant à partir du troisième.
 Ces montants sont relevés chaque année selon les modalités définies au 1.
 
-2° 137 786 F pour une personne seule et 275 572 F pour un couple marié soumis à imposition commune dans les territoires
-d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 15 918 F par personne à
-charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 21 224 F par enfant à partir
+2° 140 000 F pour une personne seule et 280 000 F pour un couple marié soumis à imposition commune dans les territoires
+d'outre-mer et la collectivité territoriale de Saint-Pierre-et-Miquelon. Ces sommes sont majorées de 16 200 F par personne à
+charge au sens des articles 196 à 196 B du code général des impôts. Cette majoration est fixée à 21 600 F par enfant à partir
 du troisième. Ces montants sont relevés chaque année selon les modalités définies au 1.
 
 3. Dans le cas mentionné au troisième alinéa du 4 de l'article 199 undecies du code général des impôts, les conditions
@@ -10221,15 +10293,15 @@ déclaration de revenus de l'année au cours de laquelle le bail est signé.
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
 
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 46 AG nonies
@@ -10434,11 +10506,10 @@ II. Pour bénéficier de la réduction d'impôt prévue au VI de l'article 199 t
 contribuable joint à sa déclaration de revenus les documents qui lui ont été remis conformément au V de l'article 46 AI ter
 ainsi qu'une copie de l'engagement de conservation mentionné au I.
 
-III. Lorsque le fonds ou le contribuable cesse de remplir l'une des conditions fixées à l'article 22-1 de la loi n° 88-1201
-du 23 décembre 1988 modifiée relative aux organismes de placement collectif en valeurs mobilières et portant création des
-fonds communs de créances et au 1 du VI de l'article 199 terdecies-0 A du code général des impôts, le contribuable qui a
-bénéficié de la réduction d'impôt prévue à cet article procède au calcul de la reprise d'impôt et porte le montant
-correspondant sur la déclaration d'impôt sur le revenu déposée au titre de l'année considérée.
+III. Lorsque le fonds ou le contribuable cesse de remplir l'une des conditions fixées à l'article L 214-41 du code monétaire
+et financier et au 1 du VI de l'article 199 terdecies-0 A du code général des impôts, le contribuable qui a bénéficié de la
+réduction d'impôt prévue à cet article procède au calcul de la reprise d'impôt et porte le montant correspondant sur la
+déclaration d'impôt sur le revenu déposée au titre de l'année considérée.
 
 **Liens relatifs à cet article**
 
@@ -10446,23 +10517,23 @@ correspondant sur la déclaration d'impôt sur le revenu déposée au titre de l
 
 	  - CGI 199 terdecies-0 A
 	  - CGIAN3 46 AI ter
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (M)
+	  - Code monétaire et financier - art. L214-41 (M)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°97-237 du 14 mars 1997 - art. 6 (V) JORF 16 mars 1997
+	  - HISTO: Edition du 31 mars 2001
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 81° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI quinquies (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 46 AI ter
@@ -10477,8 +10548,8 @@ II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds e
 41 sexdecies A à 41 sexdecies F, 280 A et R. 87-1 du livre des procédures fiscales.
 
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de distribution d'une partie de ses avoirs, la
-société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 39
-quater et 39 quinquies.
+société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 41
+duovicies F et 41 duovicies G.
 
 IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, à la direction des services fiscaux
 désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article 3 du décret n° 97-237 du
@@ -10496,42 +10567,41 @@ c) L'identité et l'adresse du souscripteur ;
 
 d) Le nombre de parts souscrites, le montant et la date de leur souscription.
 
-Cet état précise que les conditions mentionnées à l'article 22-1 de la loi n° 88-1201 du 23 décembre 1988 modifiée relative
-aux organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créances et au 1 du VI
-de l'article 199 terdecies-0 A du code général des impôts sont remplies.
+Cet état précise que les conditions mentionnées à l'article L. 214-41 du code monétaire et financier et au 1 du VI de
+l'article 199 terdecies-0 A du code général des impôts sont remplies.
 
 VI. La société de gestion du fonds ou le dépositaire des actifs de ce fonds isole dans un compte spécial les parts dont la
 souscription ouvre droit au bénéfice de la réduction d'impôt. Il tient ce compte jusqu'à l'expiration de la cinquième année
 qui suit celle de la souscription.
 
 VII. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du fonds sont cédées ou rachetées ou lorsque,
-dans ce même délai, l'une des conditions prévues à l'article 22-1 de la loi du 23 décembre 1988 susvisée cesse d'être
-remplie, la société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction
-des services fiscaux désignée au I, un état individuel qui comprend, outre les informations indiquées au V, le nombre des
-parts cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas échéant, la nature de la
-condition qui cesse d'être remplie.
+dans ce même délai, l'une des conditions prévues à l'article L. 214-41 du code monétaire et financier cesse d'être remplie,
+la société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction des
+services fiscaux désignée au I, un état individuel qui comprend, outre les informations indiquées au V, le nombre des parts
+cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas échéant, la nature de la condition
+qui cesse d'être remplie.
 
 Cet état doit être délivré avant le 16 février de l'année qui suit celle de la cession ou du rachat des parts ou du non-
-respect de l'une des conditions prévues à l'article 22-1 de la loi du 23 décembre 1988 susvisée.
+respect de l'une des conditions prévues à l'article L. 214-41 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 199 terdecies-0 A
-	  - CGIAN3 39 quater, 39 quinquies
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (M)
+	  - CGIAN3 41 duovicies F, 41 duovicies G
 	  - Décret n°97-237 du 14 mars 1997 - art. 3 (M)
 	  - Livre des procédures fiscales - art. R87-1 (M)
 	  - Livre des procédures fiscales 41 sexdecies A à 41 sexdecies F, 280 A, R87-1
+	  - Code monétaire et financier - art. L214-41 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-237 du 14 mars 1997 - art. 5 (V) JORF 16 mars 1997
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 81° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
@@ -10541,7 +10611,7 @@ respect de l'une des conditions prévues à l'article 22-1 de la loi du 23 déce
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### 8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés.
@@ -10677,132 +10747,6 @@ durée de l'intervention.
 	  - HISTO: Edition du 22 avril 1998
 
 
-##### 9° : Réduction d'impôt au titre des intérêts des prêts à la consommation
-
-###### Article 46 AP
-
-I. Les contribuables qui demandent, pour l'imposition des revenus de chacune des années 1996 et 1997, le bénéfice des
-dispositions de l'article 199 septdecies du code général des impôts à raison de crédits affectés au financement de biens ou
-de services déterminés doivent joindre à leur déclaration annuelle de revenus, pour chaque prêt souscrit, une attestation
-établie par le prêteur mentionnant :
-
-a) L'identité et l'adresse du prêteur et du ou des emprunteurs ;
-
-b) La nature et la date de conclusion du contrat ;
-
-c) Le montant du capital emprunté et la durée du crédit ;
-
-d) La désignation du bien ou du service financé ;
-
-e) Le montant annuel des intérêts payés ; ceux-ci s'entendent comme étant composés par l'ensemble des éléments constitutifs
-du taux effectif global au sens de l'article L. 313-1 du code de la consommation.
-
-II. Lorsque le prêt prend la forme d'une ouverture de crédit qui mentionne le bien ou le service financé, la part des
-intérêts mentionnée sur l'attestation prévue au I qui ouvre droit à la réduction d'impôt est déterminée par le rapport entre
-la valeur de ce bien ou de ce service et le montant total du prêt.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 septdecies
-	  - Code de la consommation - art. L313-1 (M)
-
-	**Créé par**:
-
-	  - Décret n°96-440 du 22 mai 1996 - art. 1 () JORF 24 mai 1996
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 46 AQ
-
-I. Les contribuables qui ont employé un prêt personnel dans un délai de deux mois dans les conditions prévues par l'article
-199 septdecies du code général des impôts doivent, pour bénéficier de la réduction d'impôt prévue à cet article, produire à
-l'appui de leur déclaration annuelle de revenus une attestation établie par le prêteur qui mentionne l'ensemble des
-informations énumérées au I de l'article 46 AP, à l'exception de celle relative à la désignation du bien ou du service
-financé.
-
-Pour justifier de la nature du bien ou du service financé, l'attestation à joindre à la déclaration est complétée par la
-facture ou une attestation de vente délivrée par le fournisseur du bien ou du service financé.
-
-II. La part des intérêts acquittés au titre d'un prêt personnel, afférente au bien ou au service financé et qui ouvre droit à
-la réduction d'impôt prévue à l'article 199 septdecies du code général des impôts est déterminée, selon les indications
-fournies sur l'attestation par le prêteur à l'emprunteur, par le rapport entre la valeur de ce bien ou de ce service et le
-montant total du prêt.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 septdecies
-	  - CGIAN3 46 AP
-
-	**Créé par**:
-
-	  - Décret n°96-440 du 22 mai 1996 - art. 1 () JORF 24 mai 1996
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 46 AR
-
-I. Pour l'imposition des revenus de chacune des années 1996 et 1997, les contribuables qui ont souscrit un contrat de
-location-vente ou un contrat de location avec option d'achat entre le 1er janvier 1996 et le 31 décembre 1996 doivent joindre
-à leur déclaration annuelle de revenus une attestation établie par le bailleur mentionnant :
-
-a) L'identité et l'adresse du bailleur et du ou des locataires ;
-
-b) La nature et la date de conclusion du contrat ;
-
-c) Le montant et la durée du financement ;
-
-d) La désignation du bien financé ;
-
-e) Le coût annuel du financement effectivement payé.
-
-II. Le coût annuel du financement mentionné au I est égal au montant des loyers hors prestations acquittés au cours de
-l'année considérée sous déduction de la différence :
-
-a) Pour 1996, entre le prix d'achat du bien financé et la valeur d'interruption après paiement du montant du dernier loyer de
-l'année ;
-
-b) Pour 1997, entre cette dernière valeur et la valeur de l'option d'achat après paiement du montant du dernier loyer de
-l'année.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°96-440 du 22 mai 1996 - art. 1 () JORF 24 mai 1996
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 31 mars 2001
-
-
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
 
 ###### Article 46 B
@@ -10933,31 +10877,31 @@ revenu soumis à l'impôt au titre de cette période.
 
 ###### Article 46 bis
 
-Les établissements publics et sociétés d'économie mixte concessionnaires d'opérations d'aménagement, en application du
-deuxième alinéa de l'article L 300-4 du code de l'urbanisme, sont éxonérés de l'impôt sur les sociétés, sous les conditions
-énoncées à l'article 46 ter, pour la fraction de leurs bénéfices nets provenant soit de l'exécution des travaux
+Les établissements publics et sociétés d'économie mixte chargés de l'aménagement par une convention contractée en application
+du deuxième alinéa de l'article L 300-4 du code de l'urbanisme, sont éxonérés de l'impôt sur les sociétés, sous les
+conditions énoncées à l'article 46 ter, pour la fraction de leurs bénéfices nets provenant soit de l'exécution des travaux
 d'aménagement, d'équipement général ou des ouvrages qu'ils effectuent sur des terrains dont ils ne sont pas propriétaires,
 soit des cessions ou locations portant sur des terrains ou immeubles qu'ils ont préalablement pourvus des aménagements,
 équipements généraux ou ouvrages nécessaires à leur utilisation.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 46 ter
-	  - Code de l'urbanisme - art. L300-4 (M)
-
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 40 () JORF 19 juillet 1985
+	  - Loi n°2000-1208 2000-12-13 art. 8 1°, art. 9 JORF 14 décembre 2000
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 9 () JORF 14 décembre 2000
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 ter (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L300-4 (V)
 
 
 ###### Article 46 ter
@@ -10970,7 +10914,7 @@ proviennent d'opérations conformes à leur objet ;
 
 2° En ce qui concerne les sociétés d'économie mixte, qu'elles fonctionnent conformément aux dispositions de l'article R
 321-21 du code de l'urbanisme et que les bénéfices dont l'exonération est demandée proviennent d'opérations effectuées par
-elles dans le cadre d'une concession d'aménagement prévue à l'article L 300-4 du même code.
+elles dans le cadre d'une convention publique d'aménagement prévue à l'article L 300-4 du même code.
 
 **Liens relatifs à cet article**
 
@@ -10982,13 +10926,11 @@ elles dans le cadre d'une concession d'aménagement prévue à l'article L 300-4
 
 	**Modifié par**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 1 () JORF 19 juillet 1985
-	  - Décret n°86-517 1986-03-14 art. 53 III, V JORF 16 mars 1986
-	  - Décret n°86-517 du 14 mars 1986 - art. 53 () JORF 16 mars 1986
+	  - Loi n°2000-1208 2000-12-13 art. 8 1° JORF 14 décembre 2000
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
@@ -10996,7 +10938,7 @@ elles dans le cadre d'une concession d'aménagement prévue à l'article L 300-4
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### Section I bis : Entreprises créées en Corse
@@ -12850,37 +12792,30 @@ l'origine de la détention en cause.
 
 Les sociétés filiales qui acceptent de faire partie du groupe défini à l'article 223 A du code général des impôts adressent
 l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles relèvent avant la date d'ouverture de l'exercice au
-titre duquel le régime défini à l'article 223 A déjà cité s'applique. L'accord est donné pour la durée restant à courir de
-l'option prévue à ce dernier article.
+titre duquel le régime défini à l'article 223 A déjà cité s'applique. L'accord est valable jusqu'à la sortie du groupe de la
+société filiale concernée. Il peut être dénoncé avant l'ouverture du premier exercice de la période couverte par le
+renouvellement de l'option prévu au cinquième alinéa de l'article 223 A précité.
 
-((Devenu sans objet)) (M)    Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le
-résultat d'ensemble par décision de la société mère en informent le service des impôts dont elles relèvent avant l'ouverture
-de cet exercice.
+Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
+décision de la société mère en informent le service des impôts dont elles relèvent avant l'ouverture de cet exercice.
 
 Pour remplir les obligations prévues au présent article et à l'article 46 quater-0 ZD, la société doit utiliser des documents
 conformes aux modèles établis par l'administration.
-
-(M) Modification du Décret 96-556.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 223 A
-	  - Décret n°96-556 1996-06-21
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
+	  - CGIAN3 46 quater-0 ZD
 
 	**Modifié par**:
 
-	  - Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 juin 1996
+	  - Décret n°2000-392 du 2 mai 2000 - art. 1 () JORF 10 mai 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 46 quater-0 ZF
@@ -13121,8 +13056,8 @@ La déclaration de résultats visée à l'article 53 A du code général des imp
 du résultat d'ensemble. Elle est souscrite en double exemplaire par chaque société membre du groupe, qui doit joindre en
 outre :
 
-a) La liste des sociétés membres du groupe défini à l'article 223 A du code général des impôts ; cette liste indique le taux
-de détention directe et indirecte par la société mère ;
+a) La liste des sociétés membres du groupe et des sociétés qui cessent d'être membres de ce groupe défini à l'article 223 A
+du code général des impôts ; cette liste indique le taux de détention directe et indirecte par la société mère ;
 
 b) L'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble.
 
@@ -13137,7 +13072,7 @@ III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies 
 
 	**Modifié par**:
 
-	  - Décret n°97-343 1997-04-11 art. 5 1 JORF 13 avril 1997
+	  - Décret n°2000-392 du 2 mai 2000 - art. 1 () JORF 10 mai 2000
 
 	**Cité par**:
 
@@ -13145,8 +13080,7 @@ III de l'article 44 octies et du cinquième alinéa du I de l'article 44 decies 
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
-	  - TXT_ASSOCIE: Instruction 1995-03-24 4H-3-95
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 46 quater-0 ZL
@@ -15986,7 +15920,7 @@ sous les sanctions prévus par les articles 1679, 1679 A, 1679 bis, 1727, 1728, 
 et le 1 de l'article 374, les organismes coopératifs, mutualistes et professionnels agricoles énumérés ci-après :
 
 Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à
-l'article 1235 du code rural ;
+l'article L. 771-1 du code rural ;
 
 Caisses de crédit agricole mutuel ;
 
@@ -16011,23 +15945,24 @@ administratifs et leurs ateliers de réparation.
 
 	  - CGI 231, 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1736
 	  - CGIAN3 50, 51, 369, 374 1
-	  - Code rural 1235
+	  - Code rural L771-1
+
+	**Modifié par**:
+
+	  - Rapport - art. 1 (V) JORF 22 juin 2000
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 quater (V)
 
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Modifié par**:
-
-	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
-
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 53 quater
@@ -16306,6 +16241,48 @@ ceux qui influent sur le résultat d'entreprises exploitées en France.
 	  - Loi - art. 15 (V) JORF 31 décembre 2002
 
 
+###### Article 58 O
+
+Pour bénéficier du crédit d'impôt prévu à l'article 235 ter YA du code général des impôts, les institutions financières
+doivent déposer, au titre de chacune des années pour lesquelles un crédit d'impôt apparaît, une déclaration spéciale,
+conforme au modèle prévu par l'administration. Cette déclaration doit comporter les mentions suivantes :
+
+a. L'identification de l'établissement ;
+
+b. La détermination du crédit d'impôt ;
+
+c. Le suivi de l'imputation du crédit d'impôt ;
+
+d. La date et la signature.
+
+Elle est annexée à la déclaration mentionnée au III de l'article 235 ter Y (1) du code général des impôts.
+
+**Nota:**
+
+(1) L'article 235 ter Y du code général des impôts cesse d'être applicable aux dépenses et charges engagées à compter de
+2004.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 235 ter YA, 235 ter Y
+
+	**Créé par**:
+
+	  - Décret n°2000-758 du 31 juillet 2000 - art. 1 () JORF 6 août 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2001
+	  - SPEC_APPLI: Loi n°2002-1575 2002-12-30 art. 15 II Finances pour 2003
+
+	**Abrogé par**:
+
+	  - Loi - art. 15 (V) JORF 31 décembre 2002
+
+
 #### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III
 
 ##### Section I : Impôt sur le revenu et impôt sur les sociétés
@@ -16397,8 +16374,7 @@ La liste des intermédiaires agréés prévue à l'article 248 C du code génér
 
 a. Les prestataires de services d'investissement ;
 
-b. la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet
-1966 sur les sociétés commerciales ;
+b. la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article L. 233-3 du code de commerce ;
 
 c. La Banque de France ; 
 
@@ -16423,19 +16399,19 @@ k. Le Crédit foncier de France.
 	**Cite**:
 
 	  - CGI 248 C
-	  - Loi n°66-537 1966-07-24 art. 355-1
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - Code de commerce. - art. L233-3 (M)
 
 	**Modifié par**:
 
-	  - Loi n°98-261 du 6 avril 1998 - art. 6 () JORF 7 avril 1998
+	  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ### Titre II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -17749,20 +17725,42 @@ impôts sont tenues d'indiquer sur leurs factures le numéro d'autorisation et l
 L'application du taux réduit de la taxe sur la valeur ajoutée aux recettes provenant de la fourniture des repas dans les
 cantines d'entreprises est subordonnée à la réalisation des conditions suivantes :
 
-Les personnes qui assurent la fourniture des repas doivent être liées aux entreprises avec lesquelles elles traitent par un
-contrat écrit prévoyant les conditions de la fourniture des repas au personnel. Elles doivent, dans le mois de son
-approbation par les parties, déposer un exemplaire de ce contrat auprès du service des impôts dont elles dépendent et de
-celui dont relèvent les entreprises avec lesquelles elles ont contracté ;
+a) L'objet de la cantine consiste à fournir de façon habituelle des repas au personnel, qui doit être en mesure de justifier
+de son appartenance à l'entreprise ;
 
-Les repas doivent être servis de façon habituelle et au seul personnel de l'entreprise partie au contrat, dans les locaux de
-celle-ci ;
+b) Conformément aux dispositions de l'article R. 432-4 du code du travail, la cantine est gérée par le comité d'entreprise ou
+par l'employeur ou par une association ou par un groupement de comités d'entreprises ou d'employeurs. Son fonctionnement est,
+en tout état de cause, soumis au contrôle de représentants du personnel et de l'entreprise ;
 
-Chaque consommateur doit être en mesure de justifier de son appartenance à l'entreprise ;
+c) Les repas doivent être fournis dans les locaux dont le gestionnaire de la cantine a la libre disposition ;
 
-Le prix des repas doit être sensiblement inférieur à celui pratiqué par les restaurants similaires ouverts au public ;
+d) Le prix des repas doit être sensiblement inférieur à celui pratiqué, pour des prestations similaires, par les restaurants
+ouverts au public ;
 
-Les opérations effectuées dans le cadre de chacun des contrats doivent être comptabilisées distinctement.
+e) Les opérations réalisées dans le cadre de la cantine font l'objet d'une comptabilisation distincte par le gestionnaire ;
 
+f) Dans le cas où il fait appel à un prestataire extérieur, le gestionnaire de la cantine doit conclure avec ce dernier un
+contrat prévoyant les conditions de la fourniture des repas. Le prestataire doit, dans le mois de sa signature par les
+parties, déposer un exemplaire de ce contrat auprès du service des impôts dont il dépend et de celui dont relève le
+gestionnaire de la cantine.
+
+Les opérations effectuées dans le cadre de chacun des contrats doivent être comptabilisées distinctement par le prestataire
+extérieur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2001-237 du 20 mars 2001 - art. 1 () JORF 21 mars 2001
+
+	**Cite**:
+
+	  - Code du travail - art. R432-4 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2001-03-21 3A-5-01
 
 
 ##### 3 : Concerts
@@ -18151,7 +18149,7 @@ visites mentionnées au IV de l'article 289 bis du code général des impôts.
 	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
 
 
-##### 3° Déclaration des échanges de biens entre Etats membres de la Communauté économique européenne.
+##### 3° : Déclaration des échanges de biens entre Etats membres de l'Union européenne
 
 ###### Article 96 J
 
@@ -18163,13 +18161,10 @@ suivants :
 aux articles 293 B et 298 bis A du code général des impôts ;
 
 2° A l'introduction ou à l'acquisition si elle réalise, dans les conditions prévues à l'article 20-5 du règlement (C.E.E.) n°
-3330-91, un montant annuel d'introduction ou d'acquisition égal ou supérieur à un seuil fixé par arrêté du directeur général
-des douanes et des droits indirects.    ((Lorsque la personne établie hors de France est dispensée de désigner un
-représentant en application du deuxième alinéa du I de l'article 289 A du code général des impôts, la déclaration afférente
-aux acquisitions intracommunautaires visées au 4° du I de l'article 277 A du même code est souscrite par la personne
-mentionnée à l'article 85 D)) (M).
-
-(M) Modification du décret.
+3330-91, un montant annuel d'introduction ou d'acquisition égal ou supérieur à un seuil fixé par arrêté du ministre chargé
+des douanes. Lorsque la personne établie hors de France est dispensée de désigner un représentant en application du deuxième
+alinéa du I de l'article 289 A du code général des impôts, la déclaration afférente aux acquisitions intracommunautaires
+visées au 4° du I de l'article 277 A du même code est souscrite par la personne mentionnée à l'article 85 D.
 
 **Liens relatifs à cet article**
 
@@ -18179,9 +18174,9 @@ mentionnée à l'article 85 D)) (M).
 	  - CGI 277 A, 289 A, 289, 293 B, 298 bis A
 	  - CGIAN3 85 D
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-672 du 25 juillet 1996 - art. 7 () JORF 28 juillet 1996
+	  - Décret n°2000-1313 du 26 décembre 2000 - art. 8 () JORF 30 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Cité par**:
 
@@ -18189,31 +18184,31 @@ mentionnée à l'article 85 D)) (M).
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 96 K
 
-((I. La déclaration mentionnée à l'article 289 C du code général des impôts est produite auprès de l'administration des
-douanes sur support papier ou par voie informatique, au plus tard le dixième jour ouvrable qui suit :
+I. La déclaration mentionnée à l'article 289 C du code général des impôts est produite auprès de l'administration des douanes
+sur support papier ou par voie informatique, au plus tard le dixième jour ouvrable qui suit :
 
-((a) Pour les livraisons, le mois au cours duquel la taxe est devenue exigible dans l'autre Etat membre, conformément à
+a) Pour les livraisons, le mois au cours duquel la taxe est devenue exigible dans l'autre Etat membre, conformément à
 l'article 28 quinquies-2 de la directive (CEE) n° 77/388 modifiée du 17 mai 1977 du Conseil des Communautés européennes ;
 
-((b) Pour les acquisitions intracommunautaires de biens, le mois au cours duquel la taxe est devenue exigible ;
+b) Pour les acquisitions intracommunautaires de biens, le mois au cours duquel la taxe est devenue exigible ;
 
-((c) Pour les autres opérations, le mois au cours duquel a eu lieu le mouvement de marchandises.
+c) Pour les autres opérations, le mois au cours duquel a eu lieu le mouvement de marchandises.
 
-((Lorsque la déclaration est produite sur support papier, elle est obligatoirement établie sur les formulaires CERFA n°
-30-2943 ou n° 30-2944 intitulés "Déclaration d'échanges de biens entre Etats membres de la CEE". Des dérogations peuvent être
-accordées aux entreprises remplissant les conditions déterminées par arrêté.
+mouvement de marchandises.
 
-((La déclaration est souscrite, datée et signée par la personne mentionnée à l'article 96 J ou par la tierce personne
-mandatée expressément à cet effet)) (M).
+Lorsque la déclaration est produite sur support papier, elle est obligatoirement établie sur les formulaires CERFA intitulés
+"Déclaration d'échanges de biens entre Etats membres de la CEE" ou "Déclaration simplifiée d'échanges de biens entre Etats
+membres de la CEE". Des dérogations peuvent être accordées aux entreprises remplissant les conditions déterminées par arrêté.
+
+La déclaration est souscrite, datée et signée par la personne mentionnée à l'article 96 J ou par la tierce personne mandatée
+expressément à cet effet.
 
 II. Une déclaration distincte est déposée par nature de flux : introduction-acquisition ou expédition-livraison.
-
-(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -18225,20 +18220,17 @@ II. Une déclaration distincte est déposée par nature de flux : introduction-a
 
 	**Modifié par**:
 
-	  - Décret n°96-635 du 12 juillet 1996 - art. 1 () JORF 19 juillet 1996
+	  - Décret n°2000-1313 du 26 décembre 2000 - art. 1 () JORF 30 décembre 2000 en vigueur le 1er janvier 2001
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°97-661 1997-05-28
+	  - SPEC_APPLI: Décret n°2000-1313 du 26 décembre 2000 - art. 10 (V)
+	  - HISTO: Edition du 31 mars 2001
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 L (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 M (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article 96 L
@@ -18259,20 +18251,20 @@ d) La nature du flux d'échanges ;
 e) Le niveau d'obligation statistique de l'opérateur et, s'il y a lieu, le nom et le numéro d'agrément de la tierce personne
 mentionnée à l'article 96 K ;
 
-f) Le régime de l'opération ;
+f) Le régime de l'opération, sous réserve des dispositions du 3.
 
-2 ((Au titre des livraisons de biens quelle que soit leur valeur)) (M) :
+2 Au titre des livraisons de biens quelle que soit leur valeur :
 
-a) ((Le numéro d'identification à la T.V.A. de l'acquéreur pour les livraisons de biens exonérées en application du I de
-l'article 262 ter du code général des impôts)) (M) et pour les régularisations effectuées en application du 1 de l'article
-272 du code général des impôts ;
+a) Le numéro d'identification à la T.V.A. de l'acquéreur pour les livraisons de biens exonérées en application du I de
+l'article 262 ter du code général des impôts et pour les régularisations effectuées en application du 1 de l'article 272 du
+code général des impôts ;
 
 b) En cas de transfert des biens pour les besoins de l'entreprise dans un autre Etat membre où leur affectation est taxable,
 le numéro d'identification à la T.V.A. délivré à cette entreprise par cet Etat ;
 
-c) Abrogé (M) ;
+c) Abrogé ;
 
-d)((La valeur fiscale en francs des livraisons de biens effectuées)) (M) ;
+d) La valeur fiscale en francs des livraisons de biens effectuées ;
 
 e) S'il y a lieu, le montant des régularisations commerciales effectuées en application du 1 de l'article 272 du code général
 des impôts ;
@@ -18281,7 +18273,7 @@ des impôts ;
 
 1° Le nombre et la nature des autres informations portées sur la déclaration dépendent de la nature des flux précisés à
 l'article 96 J et du montant des échanges par rapport aux seuils statistiques définis à l'article 28 du règlement (C.E.E.) n°
-3330-91 et fixés par arrêté du directeur général des douanes et des droits indirects.
+3330-91 et fixés par arrêté du ministre chargé des douanes.
 
 a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation :
 
@@ -18294,6 +18286,10 @@ a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires
 4° La valeur statistique en francs déterminée selon les modalités prévues à l'article 12 du règlement C.E.E. n° 3046-92 du 22
 octobre 1992 dès lors que la valeur fiscale n'est pas exigée ;
 
+Ces opérateurs ont la possibilité de mentionner au maximum dix des sous-positions de la nomenclature combinée des produits
+les plus importantes en valeur de leurs déclarations et de regrouper l'ensemble des autres produits sous une position unique
+de la nomenclature combinée fixée par arrêté du ministre chargé des douanes.
+
 b) De plus, pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil de
 simplification :
 
@@ -18301,25 +18297,28 @@ simplification :
 
 2° La masse nette de la marchandise et, le cas échéant, les unités supplémentaires ;
 
-3° La nature de la transaction ;
-
-4° Les conditions de livraison ;
-
-5° Le mode de transport ;
-
-6° Le département d'expédition initiale ou de destination du produit ;
+3° La nature de la transaction.
 
 c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au b dont le montant annuel des échanges
 intracommunautaires excède un seuil fixé par arrêté :
 
-d) Les opérateurs ont la possibilité de regrouper, sous une position globale de la nomenclature combinée, les transactions
-dont le montant en valeur est inférieur à un seuil fixé par arrêté du directeur général des douanes et droits indirects. Dans
-ce cas, les informations visées au b ne sont pas renseignées.
+1° La valeur statistique en francs ;
 
-Pour chaque redevable de la déclaration d'échanges de biens, le montant mensuel total repris sous la position globale de la
-nomenclature combinée ne peut cependant pas excéder une valeur fixée par ledit arrêté.
+2° Les conditions de livraison ;
 
-(M) Modifications du décret.
+3° Le mode de transport ;
+
+4° Le département d'expédition initiale ou de destination du produit.
+
+d) Les opérateurs ont la possibilité de regrouper sous une position unique de la nomenclature combinée les transactions dont
+le montant en valeur est inférieur à un seuil fixé par arrêté du ministre chargé des douanes. Dans ce cas, les informations
+visées aux b et c ne sont pas renseignées.
+
+Pour les opérateurs visés aux b et c, le montant total repris sous cette position unique de la nomenclature combinée ne peut
+cependant pas excéder une valeur fixée par arrêté du ministre chargé des douanes.
+
+e) Les opérateurs visés aux a et b peuvent se dispenser de la mention du régime pour les opérations n'impliquant pas
+l'indication du numéro d'identification à la TVA du partenaire étranger.
 
 **Liens relatifs à cet article**
 
@@ -18332,7 +18331,12 @@ nomenclature combinée ne peut cependant pas excéder une valeur fixée par ledi
 
 	**Modifié par**:
 
-	  - Décret n°96-773 du 4 septembre 1996 - art. 1 () JORF 6 septembre 1996
+	  - Décret n°2000-1313 du 26 décembre 2000 - art. 1 () JORF 30 décembre 2000 en vigueur le 1er janvier 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1313 du 26 décembre 2000 - art. 10 (V)
+	  - HISTO: Edition du 31 mars 2001
 
 	**Cité par**:
 
@@ -18340,10 +18344,8 @@ nomenclature combinée ne peut cependant pas excéder une valeur fixée par ledi
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 sexies A (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 sexies B (VD)
 
-	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
-
+##### 3° Déclaration des échanges de biens entre Etats membres de la Communauté économique européenne.
 
 ###### Article 96 M
 
@@ -18429,6 +18431,33 @@ cent ans d'âge.
 	  - Décret n°2015-1077 du 26 août 2015 - art. 11 (V)
 
 
+##### III : Régime applicable à l'or d'investissement
+
+###### Article 98 B
+
+Afin de bénéficier de l'exonération de taxe sur la valeur ajoutée prévue à l'article 298 sexdecies A du code général des
+impôts, la facture relative aux opérations portant sur les pièces d'or d'investissement désignées au b du 2 de cet article
+mentionne pour ces pièces : 
+
+a. Leur dénomination ; 
+
+b. L'année et le pays de leur émission ; 
+
+c. Leur poids en or ; 
+
+d. Le cours de l'or fin sur le marché libre au jour de la livraison.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-490 du 2 juin 2000 - art. 1 () JORF 6 juin 2000
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 298 sexdecies A (V)
+
+
 ##### Section IX : Exploitants agricoles
 
 ###### Article 98 bis
@@ -18482,22 +18511,27 @@ fiscales et les représenter à toute demande des agents de l'administration des
 
 La redevance sanitaire d'abattage est perçue par le service des impôts dans tous les établissements où il est procédé à
 l'abattage des animaux ou au traitement du gibier sauvage dans les établissements bénéficiant de l'agrément prévu à l'article
-260 du code rural. Elle est assise sur le nombre de carcasses d'animaux de chaque espèce.
+L. 233-2 du code rural. Elle est assise sur le nombre de carcasses d'animaux de chaque espèce.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 260
+	  - Code rural L233-2
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°88-1193 1988-12-29 art. 35 Finances rectificative pour 1988
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2001
 
 	**Modifié par**:
 
-	  - Décret n°98-334 du 29 avril 1998 - art. 1 () JORF 7 mai 1998
+	  - Rapport - art. 2 (V) JORF 22 juin juin 2000
+	  - Rapport - art. 7 (V) JORF 22 juin juin 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
 
 
 ###### Article 111 quater G
@@ -18665,21 +18699,27 @@ emballés avec celle-ci.
 Pour les viandes de volailles, de lapin domestique ou de gibier d'élevage ou sauvage autre qu'ongulé, la redevance sanitaire
 de découpage n'est pas due sur les carcasses pour lesquelles l'abatteur, le tiers abatteur, la personne qui procède au
 traitement du gibier sauvage, celle qui réalise des acquisitions intracommunautaires, l'importateur ou le déclarant en douane
-justifie d'une destination autre qu'un atelier de découpe agréé en application de l'article 260 du code rural.
+justifie d'une destination autre qu'un atelier de découpe agréé en application de l'article L. 233-2 du code rural.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural 260
-
-	**Modifié par**:
-
-	  - Décret n°99-826 du 17 septembre 1999 - art. 1 () JORF 21 septembre 1999
+	  - Code rural L233-2
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001
+
+	**Modifié par**:
+
+	  - Rapport - art. 2 (V) JORF 22 juin 2000
+	  - Rapport - art. 7 (V) JORF 22 juin 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
 
 
 ###### Article 111 quater N
@@ -19038,64 +19078,6 @@ détachés de la carcasse mais pesés et emballés avec celle-ci.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater Q (V)
 
 
-#### Chapitre VI : Contribution annuelle sur les logements sociaux.
-
-###### Article 111 quater S
-
-La déclaration prévue au IV de l'article 302 bis ZC du code général des impôts mentionne l'identité du déclarant, l'adresse
-de son siège et son numéro d'identification SIREN. Elle précise le montant de la taxe due en détaillant le nombre de
-logements assujettis à la taxe pour chacun de ses tarifs, déterminés dans les conditions fixées au II de l'article 302 bis ZC
-précité.
-
-Cette déclaration est établie par le redevable sur un document conforme au modèle mentionné en annexe I au décret n° 96-745
-du 20 août 1996 fixant les obligations déclaratives des organismes bailleurs redevables de la contribution annuelle sur les
-logements à usage locatif instituée par l'article 14 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995).
-
-Cette déclaration est établie par le redevable sur un document conforme au modèle mentionné en annexe I au décret n° 97-327
-du 9 avril 1997.
-
-Une liste, établie sur un état conforme au modèle mentionné en annexe II au décret n° 96-745 du 20 août 1996, est jointe à la
-déclaration prévue au premier alinéa. Elle mentionne, pour chaque immeuble géré par l'organisme déclarant, son adresse, le
-nombre total de logements, le nombre de logements soumis à la contribution et la ventilation en nombre de logements pour
-chacun des tarifs de la contribution.    Le paiement de l'acompte prévu à l'article 1693 ter du code général des impôts doit
-être accompagné d'un imprimé conforme au modèle joint en annexe II au décret n° 97-327 du 9 avril 1997. La demande de
-remboursement prévue au III de l'article 302 bis ZC précité est présentée sur un imprimé conforme au modèle joint en annexe
-III au décret n° 97-327 du 9 avril 1997. Elle doit être accompagnée d'une liste, conforme au modèle mentionné en annexe III
-bis au décret n° 93-327 du 9 avril 1997, des immeubles pour lesquels une restitution est demandée.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 bis ZC, 1693 ter
-	  - Loi n°95-1346 1995-12-30 art. 14 Finances pour 1996
-	  - Décret n°96-745 1996-08-20 annexe I, annexe II
-	  - Décret n°97-327 1997-04-09 annexe I, annexe II, annexe III
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 2001-02-06 3P-1-01
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 31 mars 2001
-
-	**Créé par**:
-
-	  - Décret n°96-745 du 20 août 1996 - art. 1 () JORF 23 août 1996
-
-	**Modifié par**:
-
-	  - Décret n°97-327 du 9 avril 1997 - art. 1 () JORF 11 avril 1997
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
-	  - Décret n°2001-435 2001-05-21
-
-	**Abrogé par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 167 () JORF 14 décembre 2000
-
-
 #### Chapitre VII : Taxe sur les achats de viandes.
 
 ###### Article 111 quater T
@@ -19253,6 +19235,411 @@ ressortissant étranger, il doit être en possession d'un titre de séjour valab
 ### Titre III : Contributions indirectes et taxes diverses
 
 #### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés
+
+##### Section II : Titres de mouvement
+
+###### Article 111 H bis
+
+I. - Les documents d'accompagnement utilisés exclusivement pour des mouvements au sein du territoire fiscal de la France
+métropolitaine et des départements d'outre-mer peuvent être établis sans les informations prévues dans les cases 12, 13, 14
+et 19 des documents mentionnés au I de l'article 302 M du code général des impôts et les cases 3, 6, 9 et 13 des documents
+mentionnés au II de l'article 302 M précité.
+
+II. - 1° Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les débitants de boissons
+mentionnés aux articles 501 et 502 du même code peuvent être autorisés par le directeur régional des douanes et droits
+indirects à utiliser leurs factures ou tout autre document commercial, en lieu et place des documents d'accompagnement
+mentionnés à l'article 302 M du code précité.
+
+Ces documents commerciaux doivent contenir les mêmes informations que celles contenues dans le document administratif
+d'accompagnement prévu par le règlement (CEE) n° 2719/92 de la Commission du 11 septembre 1992 modifié par le règlement (CEE)
+n° 2225/93 de la Commission du 27 juillet 1993 et dans le document simplifié d'accompagnement prévu par le règlement (CEE) n°
+3649/92 de la Commission du 17 décembre 1992.
+
+La nature de ces informations doit pouvoir être identifiée par le numéro correspondant aux codes des cases figurant sur ces
+mêmes documents.
+
+2° Les entrepositaires agréés, qui optent pour le ou les documents commerciaux au lieu et place du ou des documents
+d'accompagnement mentionnés à l'article 302 M du code général des impôts, informent l'administration de la teneur de ceux-ci,
+préalablement à la mise en service des documents, et en déposent un spécimen auprès du service des douanes et droits
+indirects dont ils dépendent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 M, 302 G, 501, 502
+	  - Règlement CEE 2225/93 1993-07-27 (Commission)
+	  - Règlement CEE 2719/92 1992-09-11 (Commission)
+	  - Règlement CEE 3649/92 1992-12-17 (Commission)
+
+	**Créé par**:
+
+	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54 B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 111 H nonies
+
+Les alcools et boissons alcooliques acquis ou reçus en France, transportés par un particulier et destinés à son usage
+personnel dans des conditions excédant les limites fixées à l'article 111 H octies, sont accompagnés d'un document commercial
+comportant le nom et l'adresse de l'entrepositaire agréé, le nom et l'adresse du particulier, le numéro de référence et la
+date d'établissement du document, les quantités, la nature et la désignation des produits transportés avec leur dénomination
+ou, le cas échéant, leur appellation d'origine et, selon le cas, le titre alcoométrique acquis ou volumique des boissons. Ce
+document est présenté à toute réquisition des agents de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-786 du 24 août 2000 - art. 1 () JORF 25 août 2000
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H octies (V)
+
+
+###### Article 111 H octies
+
+Le document d'accompagnement mentionné au II de l'article 302 M du code général des impôts n'est pas exigé lors du transport
+en France d'alcools ou de boissons alcooliques par des particuliers qui les ont reçus ou acquis en France pour leurs besoins
+personnels, sous réserve qu'il puisse être justifié de leur situation régulière au regard du paiement de l'impôt au moyen
+d'un document commercial ou économique. 
+
+Ces dispositions s'appliquent aux produits transportés dans les conditions suivantes : 
+
+a) Les vins, mentionnés au 1° et aux a et a bis du 2° de l'article 438 du même code, contenus dans des récipients, autres que
+des bouteilles, de volumes inférieurs ou égaux à 33 litres et dans la limite de 90 litres ; 
+
+b) Les autres boissons, mentionnées aux b et c du 2° de l'article 438 dudit code, contenues dans des récipients et des
+bouteilles de volumes inférieurs ou égaux à 33 litres et dans la limite de 90 litres ; 
+
+c) Les produits intermédiaires, définis au a du I de l'article 401 dudit code, contenus dans des récipients de volumes
+inférieurs ou égaux à 5 litres et dans la limite de 20 litres ; 
+
+d) Les alcools, définis au b du I de l'article 401 dudit code, contenus dans des récipients de volumes inférieurs ou égaux à
+4,5 litres et dans la limite de 10 litres. 
+
+Les entrepositaires agréés qui fournissent aux particuliers ces alcools et boissons alcooliques indiquent dans leur
+comptabilité matières la date, le numéro de référence du document commercial ou économique des expéditions réalisées, la
+nature et les quantités de produits sortis du stock de l'entrepôt fiscal suspensif de droits d'accises. 
+
+Le particulier transporteur conserve le document commercial ou économique délivré par l'entrepositaire agréé pour justifier
+de la détention régulière du produit et de l'acquittement des droits indirects. Ce document indique le nom et l'adresse de
+l'entrepositaire agréé, le numéro de référence et la date d'établissement du document, les quantités, la nature et la
+désignation des produits transportés avec leur dénomination ou, le cas échéant, leur appellation d'origine et, selon le cas,
+le titre alcoométrique acquis ou volumique des boissons. Ce document est présenté à toute réquisition des agents de
+l'administration. 
+
+Les limites quantitatives et la détention d'un document commercial ou économique ne sont pas applicables en cas de changement
+de domicile des particuliers non récoltants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-786 du 24 août 2000 - art. 1 () JORF 25 août 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H nonies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 M (V)
+	  - Code général des impôts, CGI. - art. 401 (V)
+	  - Code général des impôts, CGI. - art. 438 (V)
+
+
+###### Article 111 H quater
+
+La justification de l'apurement des opérations d'expédition, sous le régime de la suspension de l'impôt, prévue aux articles
+302 O et 302 P du code général des impôts, doit être apportée par les destinataires des produits ou, pour les exportations,
+par les expéditeurs eux-mêmes ou leurs mandataires soit au coup par coup, soit de façon globalisée, en fin de mois.
+
+L'apurement de chaque opération est dans tous les cas attesté par le destinataire des produits ou par les autorités
+compétentes des Etats membres de l'Union européenne sur le certificat de réception ou d'exportation en case C des documents
+d'accompagnement mentionnés au I de l'article 302 M du code précité, dans les conditions et modalités déterminées par
+l'administration.
+
+Un état des opérations n'ayant pas fait l'objet d'un apurement dans les délais prévus à l'article 302 P du code général des
+impôts doit être adressé au service des douanes et droits indirects par les expéditeurs des produits, au plus tard le 5 du
+troisième mois suivant celui des expéditions, sur la base d'une déclaration mensuelle dont les modalités, le modèle et le
+contenu sont déterminés par arrêté du ministre chargé du budget.
+
+1° L'apurement est admis sur la base du renvoi :
+
+a) De l'exemplaire n° 3 du document d'accompagnement précité ;
+
+b) D'un état global établi et signé par le destinataire des produits mentionnant les références des titres de mouvement et
+attestant des réceptions des opérations d'un même expéditeur au cours d'un mois donné ; les exemplaires n° 3 des documents
+d'accompagnement sont dans ce cas conservés par le destinataire des produits. Cette procédure s'applique aux opérations
+effectuées au sein du territoire fiscal de la France ou, en cas d'accord administratif bilatéral ou multilatéral, à celles
+effectuées avec les autres Etats membres de l'Union européenne concernés.
+
+2° L'apurement est admis sur la base du renvoi par télécopie des documents visés au 1°.
+
+L'exemplaire n° 3 du document d'accompagnement et le rapport d'émission de la télécopie sont conservés par le destinataire
+des produits.
+
+L'expéditeur des produits joint la télécopie qu'il a reçue à l'exemplaire du document correspondant à l'envoi, qu'il a
+conservé.
+
+Cette procédure s'applique aux opérations effectuées au sein du territoire fiscal de la France ou, en cas d'accord
+administratif bilatéral ou multilatéral, à celles effectuées avec les autres Etats membres de l'Union européenne concernés.
+
+3° Le renvoi des documents visés au 1° est admis, par voie d'une transmission d'un message informatique ou télématique émis
+par le destinataire à destination de l'expéditeur des produits, sous réserve du respect des principes suivants :
+
+a) Indication des références au document d'accompagnement des produits ;
+
+b) Confirmation de l'inscription des produits dans la comptabilité matières des stocks de l'entrepôt fiscal suspensif des
+droits d'accises du destinataire, avec la date et l'heure de celle-ci ;
+
+c) Indication du nom du signataire du document émis par le destinataire pour justifier de l'apurement ;
+
+d) Indication, le cas échéant, des réserves relatives à la réception des produits.
+
+Une copie papier des informations transmises et reçues est conservée tant par le destinataire que par l'expéditeur des
+produits.
+
+L'exemplaire n° 3 du document d'accompagnement est conservé par le destinataire des produits.
+
+Cette procédure s'applique aux opérations effectuées au sein du territoire fiscal de la France ou, en cas d'accord
+administratif bilatéral ou multilatéral, à celles effectuées avec les autres Etats membres de l'Union européenne concernés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 O, 302 P, 302 M
+
+	**Créé par**:
+
+	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Modifié par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 111 H quinquies
+
+Les conditions d'utilisation des machines à timbrer et des matériels ou logiciels informatiques sécurisés pour les documents
+d'accompagnement mentionnés à l'article 302 M du code général des impôts sont fixées par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 M
+
+	**Créé par**:
+
+	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 111 H septies
+
+Les mentions d'appellation d'origine, signes de qualité et autres mentions prévues par les accords interprofessionnels
+étendus ne sont portés en case 23 du document d'accompagnement que si les vins, produits intermédiaires ou eaux-de-vie sont
+produits, élaborés ou détenus conformément à la réglementation communautaire et nationale.
+
+En outre, les appellations d'origine contrôlée "Armagnac", "Cognac", "Martinique" et "Calvados" ne peuvent être certifiées à
+la case 23 du document d'accompagnement que par les entrepositaires agréés détenant un certificat émis par le bureau
+interprofessionnel compétent. Ce document est annexé à la comptabilité matières pour valoir justificatif de la mention
+apposée en case 23 dudit document d'accompagnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 111 H sexies
+
+I. - Pour l'application des dispositions de l'article 443 du code général des impôts, l'entrepositaire agréé qui souhaite
+expédier à partir de ses locaux les produits sous le régime de la suspension des droits d'accises, sans établir le titre de
+mouvement mentionné au I de l'article 302 M du code général des impôts, est tenu d'en faire la demande au directeur régional
+des douanes et droits indirects ayant dans le ressort territorial de sa circonscription l'entrepôt fiscal suspensif des
+droits d'accises d'où sont expédiés les produits.
+
+II. - Le directeur régional des douanes et droits indirects autorise l'entrepositaire agréé à ne pas établir le titre de
+mouvement s'il a mis en place un système de gestion et de suivi de ses expéditions permettant :
+
+a) De transmettre, par l'intermédiaire d'un système informatique ou de tout autre système de transmission à distance, toutes
+les informations requises pour l'établissement du titre de mouvement ;
+
+b) De garantir que ces informations sont reprises dans la comptabilité matières de l'entrepôt fiscal suspensif des droits
+d'accises du lieu d'enlèvement des produits, préalablement à l'expédition, et sont inscrites parallèlement dans la
+comptabilité matières de l'entrepôt fiscal suspensif des droits d'accises du lieu de destination ou prises en charge par le
+destinataire de manière effective. Les conditions et modalités de prise en charge et de transfert de responsabilité sont
+définies par convention passée entre l'administration et les entrepositaires agréés concernés ;
+
+c) De justifier, lors de la circulation des produits, du statut fiscal suspensif de ceux-ci par tout document comportant les
+informations nécessaires à l'identification de l'opération dans la comptabilité matières de l'expéditeur et du destinataire
+et les références à l'autorisation qui lui a été donnée ;
+
+d) De valider l'opération d'expédition ;
+
+e) De justifier de la validation de l'opération de réception.
+
+III. - Le document mentionné au c du II du présent article comporte au minimum les informations suivantes :
+
+a) Les références de l'autorisation mentionnée au II ;
+
+b) Le nom et l'adresse de l'expéditeur ;
+
+c) Le numéro d'identification de l'entrepôt fiscal suspensif des droits d'accises du lieu d'enlèvement des produits ;
+
+d) Le nom et l'adresse du destinataire ;
+
+e) Le numéro d'identification de l'entrepôt fiscal suspensif des droits d'accises du lieu de destination des produits ;
+
+f) La nature (désignation commerciale) et les quantités de produits (exprimées en volume) ;
+
+g) Le titre alcoométrique acquis ou volumique des produits.
+
+IV. - L'apurement du régime suspensif est effectué en application des dispositions de l'article 302 P du code général des
+impôts par la validation de la réception des produits dans la comptabilité matières du destinataire. La preuve de l'apurement
+doit être apportée par la transmisssion d'un message informatique ou télématique émis par le destinataire à l'attention de
+l'expéditeur des produits, sous réserve du respect des principes suivants :
+
+a) Confirmation de l'inscription des produits dans la comptabilité matières des stocks de l'entrepôt fiscal suspensif des
+droits d'accises du destinataire, avec la date et l'heure de celle-ci ;
+
+b) Indication du nom du signataire du document émis par le destinataire pour justifier de l'apurement ;
+
+c) Indication, le cas échéant, des réserves relatives à la réception des produits.
+
+V. - La validation des opérations d'expédition et de réception réalisées dans les conditions définies au II, au III et au IV
+du présent article est effectuée dans les conditions et selon les modalités prévues aux articles 111 H ter et 111 H
+quinquies.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 78-II et V de la loi n° 2007-1824 du 25 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 443, 302 M, 302 P, 111 H ter, 111 H quinquies
+
+	**Créé par**:
+
+	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
+
+	**Liens**:
+
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 111 H ter
+
+I. - La validation des documents d'accompagnement mentionnés à l'article 302 M du code général des impôts est assurée, avant
+l'expédition des produits et à la réception, par le visa du service des douanes et droits indirects ou sur délégation de
+l'administration :
+
+a) Par l'entrepositaire agréé au moyen d'un matériel ou logiciel informatique sécurisé ;
+
+b) Par l'entrepositaire agréé au moyen d'un matériel mécanique.
+
+L'administration peut autoriser des groupements d'entrepositaires agréés, des syndicats et des organismes professionnels
+représentant les entrepositaires agréés à valider des documents d'accompagnement au moyen des matériels et logiciels
+susvisés.
+
+L'administration peut fournir des titres de mouvement pré-validés aux entrepositaires agréés qui justifient d'une bonne
+moralité fiscale et présentent toutes les garanties pour l'utilisation des documents concernés.
+
+L'administration peut autoriser les syndicats et organismes professionnels susvisés à prévalider les documents et à les
+remettre aux entrepositaires agréés qui justifient d'une bonne moralité fiscale et présentent toutes les garanties pour
+l'utilisation des documents concernés. Cette possibilité est réservée aux entrepositaires agréés désignés dans l'autorisation
+accordée à ces syndicats et organismes professionnels.
+
+La validation des documents d'accompagnement mentionnés au II de l'article 302 M du code général des impôts n'est obligatoire
+à la réception que si les produits sont remis sous le régime de la suspension des droits lors de leur prise en charge dans un
+entrepôt fiscal suspensif des droits d'accises, dans les conditions déterminées par l'administration.
+
+II. - 1° Les entrepositaires agréés, groupements d'entrepositaires agréés, syndicats et organismes professionnels auxquels
+est déléguée la possibilité de valider les documents d'accompagnement au moyen des matériels ou logiciels mentionnés au I,
+ainsi que ceux auxquels ont été remis des documents d'accompagnement prévalidés informent l'administration, à première
+réquisition, des livraisons expédiées et reçues par eux.
+
+Ils précisent à l'administration sur la déclaration récapitulative mensuelle, prévue aux articles 286 I et 286 J de l'annexe
+II au code général des impôts, les numéros d'empreinte ou les numéros des documents d'accompagnement prévalidés utilisés au
+cours de la période de référence de cette déclaration. Cette information est donnée, par catégorie d'opérations, sur la base
+des numéros de début et de fin de période.
+
+2° Les entrepositaires agréés auxquels n'a pas été déléguée la possibilité de valider les documents d'accompagnement déposent
+au service des douanes et droits indirects un exemplaire de ces documents lors de chaque expédition ou réception.
+
+Lorsque la validation n'est pas déléguée aux entrepositaires agréés, l'administration est informée des mouvements des
+produits expédiés ou reçus sous le régime de la suspension des droits, lors de chaque opération, par un exemplaire
+supplémentaire du document d'accompagnement ou par tout autre justificatif déterminé par l'administration, y compris les
+supports informatiques, comportant les mêmes informations.
+
+Les entrepositaires agréés sont dispensés d'informer l'administration de chaque mouvement pour toutes les expéditions et
+réceptions effectuées en droits acquittés ou sous le régime de l'exemption ou de l'exonération des droits, sans préjudice des
+obligations qui leur incombent au regard des dispositions des articles 302 D à 302 V, 406, 440 bis, 441, 442 et 508 du code
+général des impôts.
+
+3° Tous les entrepositaires agréés informent en outre l'administration, pour les expéditions réalisées sous le régime de la
+suspension des droits, du contenu de l'envoi au moyen d'une transmission électronique contenant les informations du document
+d'accompagnement, ou de tout autre document, comportant les mêmes informations, transmis au service des douanes et droits
+indirects. Les modalités, délais et conditions de transmission de ces informations sont déterminées par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 M, 302 D à 302 V, 406, 440 bis, 441, 442, 508
+	  - CGIAN2 286 I, 286 J
+
+	**Créé par**:
+
+	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AM (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 AO (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 G (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 54 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
 
 ##### Section III : Capsules représentatives de droits
 
@@ -20715,58 +21102,55 @@ Les pharmaciens d'officine sont tenus de déposer au bureau de déclarations de 
 indirects, dès l'arrivée des chargements, les documents mentionnés au I de l'article 302 M du code général des impôts ayant
 accompagné les produits visés à l'article 178 A. 
 
-Ils peuvent délivrer ces produits seulement aux conditions suivantes :
+Ils peuvent délivrer ces produits seulement aux conditions suivantes : 
 
-1° Sous forme de préparations magistrales ou de préparations composées inscrites à la pharmacopée ou au formulaire national ;
+1° Sous forme de préparations magistrales ou de préparations composées inscrites à la pharmacopée ou au formulaire
+national ; 
 
-2° En nature, dans les conditions fixées à l'article 641 du code de la santé publique.
+2° En nature, dans les conditions fixées à l'article L. 3322-5 du code de la santé publique. 
 
 Les pharmaciens d'officine doivent tenir, sur un registre préalablement coté et paraphé par le pharmacien inspecteur de santé
-publique, un compte d'entrées et de sorties par nature de produits.
+publique, un compte d'entrées et de sorties par nature de produits. 
 
-Ce compte fait apparaître, d'une part :
+Ce compte fait apparaître, d'une part : 
 
-a. Les quantités existant dans l'officine lors de l'ouverture ou de la reprise du compte ;
+a. Les quantités existant dans l'officine lors de l'ouverture ou de la reprise du compte ; 
 
-b. Les quantités reçues de l'extérieur ;
+b. Les quantités reçues de l'extérieur ; 
 
-c. Les excédents constatés aux inventaires ;
+c. Les excédents constatés aux inventaires ; 
 
-et, d'autre part :
+et, d'autre part : 
 
-a. Les quantités utilisées sur place ou vendues en nature ;
+a. Les quantités utilisées sur place ou vendues en nature ; 
 
-b. Les quantités reconnues manquantes aux inventaires.
+b. Les quantités reconnues manquantes aux inventaires. 
 
 Les quantités reçues et les utilisations qui ne donnent pas lieu à inscription à l'ordonnancier sont immédiatement portées au
 compte. Les utilisations et les ventes qui donnent lieu à inscription à l'ordonnancier peuvent n'être transcrites que mois
-par mois.
+par mois. 
 
 Les pharmaciens inspecteurs de santé publique contrôlent l'utilisation qui est faite des essences, et éventuellement de
-l'anéthol, dans les officines et dans les établissements pharmaceutiques.
+l'anéthol, dans les officines et dans les établissements pharmaceutiques. 
 
 Le ministre des affaires sociales informe le ministre de l'économie et des finances de tout abus constaté, en vue de
 permettre l'application, le cas échéant, des dispositions répressives prévues en la matière.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 302 M
-	  - CGIAN3 178 A
-	  - Code de la santé publique 641
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Rapport - art. 1 (V) JORF 22 juin 2000
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 A (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
+	  - Code de la santé publique - art. L3322-5 (V)
 
 	**Cité par**:
 
@@ -22595,102 +22979,40 @@ finis élaborés à partir du sirop d'inuline en leur possession.
 	  - Décret n°2007-484 2007-03-30
 
 
-#### Chapitre V : Dispositions communes à l'ensemble des contributions indirectes.
+### Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses
 
-###### Article 244 bis
+#### Chapitre 0I : Alcools, boissons alcooliques et tabacs manufacturés
 
-La validation du document administratif d'accompagnement avant l'expédition des produits hors de France et à la réception en
-France est assurée :
+##### Section 0I : Entrepositaires agréés.
 
-Par l'entrepositaire agréé au moyen d'une machine à timbrer ;
+###### Article 111-0 A
 
-Par le visa du service des douanes dans les autres cas.
+Sans préjudice des dispositions de l'article 502 du code général des impôts, les niveaux mentionnés au 3° du I de l'article
+302 G dudit code sont égaux ou supérieurs à :
 
-**Liens relatifs à cet article**
+a) 10 litres pour les alcools et les boissons spiritueuses ;
 
-	**Créé par**:
+b) 20 litres pour les produits intermédiaires ;
 
-	  - Décret n°92-1353 du 23 décembre 1992 - art. 1 (V) JORF 26 décembre 1992
+c) 90 litres pour les vins et autres produits fermentés, dont 60 litres pour les vins mousseux ;
 
-	**Codifié par**:
+d) 60 litres pour les vins mousseux ;
 
-	  - Décret n°93-1127 1993-09-24
-
-	**Abrogé par**:
-
-	  - Décret n°2000-785 du 24 août 2000 - art. 2 () JORF 25 août 2000
-
-
-###### Article 244 quater
-
-Les conditions d'utilisation des machines à timbrer pour les documents d'accompagnement sont fixées par arrêté.
+e) 110 litres pour les bières.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°92-1353 du 23 décembre 1992 - art. 3 (V) JORF 26 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Abrogé par**:
-
-	  - Décret n°2000-785 du 24 août 2000 - art. 2 () JORF 25 août 2000
-
-
-###### Article 244 quinquies
-
-Les mentions d'appellation d'origine ou de provenance géographique ne sont portées à la case 23 du document d'accompagnement
-que si les vins et les eaux-de-vie sont élaborés et détenus conformément à la réglementation communautaire et nationale.
-
-En outre, les appellations d'origine contrôlée "Armagnac" et "Cognac" ne peuvent être certifiées à la case 23 du document
-d'accompagnement que par :
-
-Les entrepositaires agréés qui, ne recevant aucune espèce de spiritueux, élaborent ces eaux-de-vie sous contrôle du service
-des douanes ;
-
-Les entrepositaires agréés détenant ces mêmes eaux-de-vie, à la condition que celles-ci soient placées dans un magasin séparé
-par la voie publique de tout local renfermant des spiritueux de toute autre origine.
-
-**Liens relatifs à cet article**
+	  - CGI 502, 302 G
 
 	**Créé par**:
 
-	  - Décret n°92-1353 du 23 décembre 1992 - art. 4 (V) JORF 26 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Abrogé par**:
-
-	  - Décret n°2000-785 du 24 août 2000 - art. 2 () JORF 25 août 2000
-
-
-###### Article 244 ter
-
-Les entrepositaires agréés, qui optent pour le document commercial au lieu et place du document administratif
-d'accompagnement, le soumettent préalablement à l'agrément de la direction générale des douanes et droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-1353 du 23 décembre 1992 - art. 2 (V) JORF 26 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2000-784 du 24 août 2000 - art. 1 () JORF 25 août 2000
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6
-
-	**Abrogé par**:
-
-	  - Décret n°2000-785 du 24 août 2000 - art. 2 () JORF 25 août 2000
+	  - HISTO: Edition du 31 mars 2001
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
@@ -28960,6 +29282,164 @@ La taxe est perçue au taux de 12 F pour les ressortissants des parties contract
 
 #### Chapitre premier : Obligations des contribuables
 
+##### 00I : Déclarations souscrites auprès de la Direction des grandes entreprises
+
+###### Article 344-0 A
+
+Le lieu de dépôt des déclarations fiscales est fixé au service chargé des grandes entreprises créé par arrêté pour :
+
+1° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait dont, à la clôture de l'exercice, le
+chiffre d'affaires hors taxes ou le total de l'actif brut figurant au bilan est supérieur ou égal à 600 millions d'euros ;
+
+2° Les personnes physiques ou morales ou groupements de personnes de droit ou de fait détenant à la clôture de l'exercice,
+directement ou indirectement, plus de la moitié du capital ou des droits de vote d'une personne morale ou d'un groupement
+mentionné au 1° ;
+
+3° Les personnes morales ou groupements de personnes de droit ou de fait dont plus de la moitié du capital ou des droits de
+vote est détenue à la clôture de leur exercice, directement ou indirectement, par une personne ou un groupement mentionné au
+1° ;
+
+4° Les sociétés bénéficiant de l'agrément prévu à l'article 209 quinquies du code général des impôts ainsi que toutes les
+personnes morales imposables en France faisant partie du périmètre de consolidation ;
+
+5° Les personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A du code général des
+impôts lorsque celui-ci comprend au moins une personne mentionnée aux 1°, 2°, 3° et 4°.
+
+**Nota:**
+
+NOTA : Ces dispositions s'appliquent à compter du 1er janvier 2002.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 quinquies, 223 A
+
+	**Créé par**:
+
+	  - Décret n°2000-1218 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1218 du 13 décembre 2000 - art. 2 (V)
+	  - HISTO: Edition du 31 mars 2001
+	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 313 BRA (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 sexies (V)
+	  - Livre des procédures fiscales - art. R*80 B-5 (V)
+
+
+###### Article 344-0 B
+
+Les dispositions de l'article 344-0 A s'appliquent :
+
+1° Aux déclarations de résultat mentionnées aux articles 172 et 223 du code général des impôts et aux déclarations et
+documents devant y être annexés ;
+
+2° A la déclaration de précompte prévue à l'article 46 quater-0 F ;
+
+3° A la déclaration dont l'article 102 Z de l'annexe II du code général des impôts prévoit la production pour les entreprises
+ou personnes morales qui sont dans le champ d'application de l'article 209 B du même code ;
+
+4° Aux déclarations de taxe sur la valeur ajoutée et taxes assimilées prévues à l'article 287 du même code, ainsi qu'aux
+déclarations et documents se rapportant aux taxes, contributions et redevances assises et contrôlées comme en matière de taxe
+sur la valeur ajoutée ;
+
+5° Aux déclarations de taxes et participations assises sur les salaires prévues aux articles 229, 235 ter J, 235 ter KD du
+code précité et 161 de l'annexe II au même code ;
+
+6° A la déclaration récapitulative de taxe professionnelle prévue au III de l'article 1477 et à la déclaration de cotisation
+minimum de taxe professionnelle prévue au IV de l'article 1647 E du même code ;
+
+7° A la déclaration des sociétés immobilières mentionnée aux articles 172 bis du même code et 46 C ;
+
+8° A la déclaration de taxe sur les excédents de provisions des entreprises d'assurances de dommages prévue à l'article 235
+ter X du même code ;
+
+9° A la déclaration de contribution à la charge des institutions financières prévue à l'article 235 ter Y du même code ;
+
+10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du même code ;
+
+11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 335 ;
+
+12° A la déclaration de taxe sur les conventions d'assurance prévue à l'article 991 du même code ;
+
+13° A la déclaration d'impôt sur les opérations de bourse prévu à l'article 978 du même code ;
+
+14° A la déclaration de taxe sur les véhicules de tourisme des sociétés prévue à l'article 1010 du même code ;
+
+15° Sur option, à la déclaration de taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et de stockage
+dans la région Ile-de-France prévue à l'article 231 ter du même code. L'option ne peut être exercée que si l'entreprise a
+opté pour le paiement des taxes foncières auprès du comptable du service des grandes entreprises mentionné au premier alinéa
+de l'article 344-0 A. Elle est formulée dans les mêmes conditions que celles prévues pour l'option mentionnée à l'article 406
+terdecies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 172, 223, 209 B, 287, 229, 1647 E, 1477, 172 bis, 235 ter X, 990 F, 335, 991, 978, 1010, 231 ter, 235 ter J, 235 ter KD, 46 C, 235 ter Y
+	  - CGIAN2 102 Z, 161
+	  - CGIAN3 344-0 A, 46 quater-0 F, 406 terdecies
+
+	**Créé par**:
+
+	  - Décret n°2000-1218 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1218 du 13 décembre 2000 - art. 2 (V)
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
+
+
+##### 001 : Déclarations souscrites auprès de la Direction des grandes entreprises.
+
+###### Article 344-0 C
+
+Les dispositions des articles 344-0 A et 344-0 B s'appliquent aux déclarations qui doivent être souscrites à compter du début
+du deuxième exercice suivant celui à la clôture duquel l'une au moins des conditions prévues aux 1° à 4° de l'article 344-0 A
+est remplie.
+
+Les sociétés qui entrent dans un groupe ayant opté pour le régime fiscal prévu à l'article 223 A du code général des impôts
+dont les membres relèvent du service des grandes entreprises mentionné au premier alinéa de l'article 344-0 A doivent elles-
+mêmes satisfaire à leurs obligations déclaratives auprès de ce service à compter du début de l'exercice suivant celui de leur
+entrée dans ce groupe.
+
+Les dispositions des articles 344-0 A et 344-0 B continuent à s'appliquer pendant les trois exercices suivant celui à la
+clôture duquel les conditions ont cessé d'être remplies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 A
+	  - CGIAN3 344-0 A, 344-0 B
+
+	**Créé par**:
+
+	  - Décret n°2000-1218 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1218 du 13 décembre 2000 - art. 2 (V)
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
+
+
 ##### 0I : Déclarations des comptes ouverts, utilisés ou clos à l'étranger
 
 ###### Article 344 A
@@ -29316,6 +29796,76 @@ objet des transferts qu'elles réalisent pour leur propre compte ou pour celui d
 	  - HISTO: Edition du 24 juin 1991
 
 
+#### Chapitre I ter : Transmission des déclarations professionnelles par voie électronique
+
+###### Article 344 I quater
+
+Pour effectuer des transmissions de déclarations professionnelles par voie électronique vers la direction générale des
+impôts, l'émetteur doit posséder la qualité de "partenaire EDI".
+
+Est "partenaire EDI" au sens de l'article 344 I ter toute personne qui conclut avec la direction générale des impôts une
+convention conforme au modèle défini par arrêté du ministre chargé du budget, pris après avis de la Commission nationale de
+l'informatique et des libertés. Seules peuvent conclure une telle convention les personnes qui justifient être à jour de
+leurs obligations fiscales au sens de l'article 54 du code des marchés publics.
+
+Cette convention prévoit les modalités de transmission et les mesures et systèmes destinés à assurer la sécurité des
+transmissions et traitements. Elle précise les conditions dans lesquelles il est recouru au chiffrement des informations
+transmises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 344 I ter
+	  - Code des marchés publics 54
+
+	**Créé par**:
+
+	  - Décret n°2000-1036 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
+
+	**Cité par**:
+
+	  - Décret n°2012-432 du 30 mars 2012 - art. 151 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 344 I ter
+
+I. - Pour l'application des articles 1649 quater B bis et 1649 quater B quater du code général des impôts, les déclarations
+professionnelles, leurs annexes et tout document les accompagnant sont transmis par voie électronique à la direction générale
+des impôts, soit par l'intermédiaire d'un organisme relais, partenaire de la direction générale des impôts pour les échanges
+de données informatisées, dénommé "partenaire EDI" et choisi par les contribuables, soit par les contribuables eux-mêmes
+s'ils ont acquis cette qualité. Le "partenaire EDI" est habilité à agir pour le compte des contribuables dans les conditions
+fixées soit par le contrat d'adhésion qui lie l'administration et le contribuable, lorsque la transmission par voie
+électronique est facultative, soit par arrêté du ministre chargé du budget, lorsque la transmission par voie électronique est
+obligatoire en application de l'article 1649 quater B quater du code précité.
+
+II. - Pour chaque catégorie de déclaration professionnelle, les modalités de transmission et de traitement dont elle fait
+l'objet, notamment celles prévues dans le contrat d'adhésion, sont définies par un arrêté du ministre chargé du budget pris
+après avis de la Commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1649 quater B bis, 1649 quater B quater
+
+	**Créé par**:
+
+	  - Décret n°2000-1036 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I quater (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
 #### Chapitre II : Centres de gestion agréés
 
 ###### Article 344 IA
@@ -29443,27 +29993,27 @@ ci-dessus.
 ###### Article 344 ID
 
 Après consultation de la commission mentionnée à l'article 371 G de l'annexe II au code général des impôts, le directeur
-régional des impôts peut retirer l'habilitation si les engagements pris ne sont pas respectés. 
+mentionné à ce même article peut retirer l'habilitation si les engagements pris ne sont pas respectés.
 
 Le centre de gestion agréé doit informer ses adhérents de cette décision dans le délai d'un mois.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - 2001-435 2001-05-21
+
 	**Cite**:
 
 	  - CGIAN2 371 G
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°83-388 du 11 mai 1983 - art. 4 (V) JORF 17 mai 1983
+	  - Décret n°2000-1037 du 23 octobre 2000 - art. 2 () JORF 25 octobre 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 juillet 1983
+	  - HISTO: Edition du 31 mars 2001
 
 
 #### Chapitre IV : Agrément
@@ -29688,6 +30238,10 @@ le justifie, faire fonctionner plusieurs commissions dans un même département.
 3. La ou les commissions départementales des impôts directs et des taxes sur le chiffre d'affaires sont installées au chef
 lieu du département.
 
+4. Pour le département de Paris, les représentants de l'administration appelés à siéger au sein de la commission
+départementale des impôts directs et des taxes sur le chiffre d'affaires sont désignés par le directeur chargé de la
+direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris.
+
 V. - Le quorum est égal à la moitié du nombre des membres appelés à siéger, quelle que soit la formation.
 
 **Liens relatifs à cet article**
@@ -29698,15 +30252,11 @@ V. - Le quorum est égal à la moitié du nombre des membres appelés à siéger
 
 	**Modifié par**:
 
-	  - Décret n°87-985 du 8 décembre 1987 - art. 2 (V) JORF 9 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-1037 du 23 octobre 2000 - art. 2 () JORF 25 octobre 2000
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2001
 	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
 
 
@@ -29714,23 +30264,28 @@ V. - Le quorum est égal à la moitié du nombre des membres appelés à siéger
 
 ###### Article 349
 
-Dans les départements où il existe plusieurs directions des services fiscaux  les représentants de l'administration appelés à
-faire partie de la commission de conciliation instituée par l'article 1653 A du code général des impôts sont désignés par le
-directeur régional des impôts territorialement compétent.
+Dans les départements où existent plusieurs directions des services fiscaux, plusieurs commissions de conciliation peuvent
+être instituées par arrêté du ministre chargé du budget qui fixe leur siège et leur circonscription. Les représentants de
+l'administration appelés à siéger au sein de ces commissions sont désignés pour chacune d'entre elles par le directeur des
+services fiscaux dont le ressort territorial de la direction correspond à celui de la commission.
 
-Plusieurs commissions peuvent  s'il est nécessaire  être instituées dans un même département par un arrêté du ministre de
-l'économie et des finances qui fixe leur siège et leur circonscription. Les membres fonctionnaires de ces commissions sont
-désignés par le directeur régional des impôts territorialement compétent.
+Pour le département de Paris, les représentants de l'administration appelés à siéger au sein de la commission départementale
+de conciliation sont désignés par le directeur chargé de la direction spécialisée des impôts pour la région d'Ile-de-France
+et pour Paris.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1653 A
-
 	**Modifié par**:
 
-	  - Décret n°85-1101 du 9 octobre 1985 - art. 1 (V) JORF 17 octobre 1985
+	  - Décret n°2000-1037 du 23 octobre 2000 - art. 2 () JORF 25 octobre 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 34
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 350 A
@@ -30040,16 +30595,19 @@ alinéa de l'article 575 D du code général des impôts et prescrire les mentio
 ###### Article 350 terdecies
 
 I. Sous réserve des dispositions des articles 409 et 410 de l'annexe II au code général des impôts, seuls les fonctionnaires
-titulaires de la direction générale des impôts appartenant à des corps des catégories A et B peuvent fixer les bases
-d'imposition et liquider les impôts, taxes et redevances ainsi que notifier les redressements.
+de la direction générale des impôts appartenant à des corps des catégories A et B peuvent fixer les bases d'imposition et
+liquider les impôts, taxes et redevances ainsi que notifier les redressements.
 
-Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour les opérations de contrôle par des stagiaires
-et par tout autre fonctionnaire des impôts affecté ou non dans le ressort territorial du même service.
+Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour les opérations de contrôle par des
+fonctionnaires stagiaires et par tout autre fonctionnaire des impôts affecté ou non dans le même service déconcentré ou
+service à compétence nationale.
 
 II. Les fonctionnaires mentionnés au premier alinéa du I peuvent exercer les attributions que ces dispositions leur confèrent
-à l'égard des personnes physiques ou morales ou groupements de personnes de droit ou de fait qui ont déposé ou auraient dû
-déposer dans le ressort territorial de leur service d'affectation une déclaration, un acte ou tout autre document ainsi qu'à
-l'égard des personnes ou groupements qui, en l'absence d'obligation déclarative, y ont été ou auraient dû y être imposés.
+à l'égard des personnes physiques ou morales ou groupements de personne de droit ou de fait qui ont déposé ou auraient dû
+déposer dans le ressort territorial du service déconcentré ou du service à compétence nationale dans lequel ils sont affectés
+une déclaration, un acte ou tout autre document ainsi qu'à l'égard des personnes ou groupements qui, en l'absence
+d'obligation déclarative, y ont été ou auraient dû y être imposés ou qui y ont leur résidence principale, leur siège ou leur
+principal établissement.
 
 III. Les fonctionnaires mentionnés au premier alinéa du I et compétents territorialement pour procéder aux contrôles visés à
 l'article L. 47 du livre des procédures fiscales d'une personne physique ou morale ou d'un groupement peuvent exercer les
@@ -30073,18 +30631,11 @@ relèvent de leur compétence.
 
 Les liens existant entre les personnes ou groupements s'entendent de l'appartenance ou du rattachement à un même foyer
 fiscal, de l'exercice d'un rôle de direction de droit ou de fait, d'une relation d'association, de subordination ou
-d'interposition, ou de l'appartenance à un même groupe d'intérêts. Les arrêtés d'attributions des services définissent, s'il
-y a lieu, la compétence des agents au regard des personnes unies par ces liens.
+d'interposition, ou de l'appartenance à un même groupe d'intérêts. Les arrêtés d'attributions des services déconcentrés et
+des services à compétence nationale définissent, s'il y a lieu, la compétence des agents au regard des personnes unies par
+ces liens.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°96-804 du 12 septembre 1996 - art. 1 (V) JORF 15 septembre 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
 
 	**Cité par**:
 
@@ -30100,9 +30651,13 @@ y a lieu, la compétence des agents au regard des personnes unies par ces liens.
 	  - Livre des procédures fiscales - art. L47 (M)
 	  - Livre des procédures fiscales - art. R213-4 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2000-1037 du 23 octobre 2000 - art. 2 () JORF 25 octobre 2000
+
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001
 
 
 # Livre II : Recouvrement de l'impôt
@@ -30860,60 +31415,6 @@ jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle
 
 ##### 3 ter : Contribution temporaire sur l'impôt sur les sociétés.
 
-###### Article 366 J
-
-La contribution temporaire mentionnée à l'article 235 ter ZB du code général des impôts est recouvrée dans les conditions
-prévues aux articles 366 C à 366 I.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter ZB
-	  - CGIAN3 366 C à 366 I
-
-	**Créé par**:
-
-	  - Décret n°97-1079 du 24 novembre 1997 - art. 1 () JORF 26 novembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-	  - HISTO: Edition du 22 avril 1998
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 366 K
-
-Pour bénéficier des dispositions du troisième alinéa de l'article 235 ter ZB du code général des impôts, les personnes
-morales, autres que celles qui n'ont pas de capital social, doivent joindre à la déclaration des résultats de la période
-d'imposition considérée un état de répartition du capital social conforme au modèle fixé par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 235 ter ZB
-
-	**Créé par**:
-
-	  - Décret n°97-1079 du 24 novembre 1997 - art. 1 () JORF 26 novembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-	  - HISTO: Edition du 22 avril 1998
-	  - HISTO: Edition du 31 mars 2001
-
-
 ###### Article 366 L
 
 Les versements anticipés prévus au I de l'article 1668 D du code général des impôts sont calculés et versés dans les
@@ -30942,6 +31443,52 @@ l'impôt sur les sociétés de référence n'excède pas 1 000 F.
 	**Créé par**:
 
 	  - Décret n°2000-498 du 6 juin 2000 - art. 1 () JORF 8 juin 2000
+
+
+##### 3 quater : Contribution sociale sur l'impôt sur les sociétés
+
+###### Article 366 M
+
+Les dispositions prévues au deuxième alinéa de l'article 361 et aux articles 362 à 366 s'appliquent à la contribution sociale
+et aux versements anticipés auxquels elle donne lieu.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 361, 362, 364, 365, 366
+
+	**Créé par**:
+
+	  - Décret n°2000-498 du 6 juin 2000 - art. 1 () JORF 8 juin 2000
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article 366 N
+
+Le complément de contribution sociale sur les bénéfices afférents, le cas échéant, au complément d'impôt mentionné à
+l'article 366 AA est recouvré dans les conditions définies à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 366 AA
+
+	**Créé par**:
+
+	  - Décret n°2000-498 du 6 juin 2000 - art. 1 () JORF 8 juin 2000
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001
 
 
 ##### 6 : Taxe sur les salaires
@@ -32264,8 +32811,7 @@ d'enregistrement, à la taxe de publicité foncière et aux taxes additionnelles
 
 2° des apports en société prévus aux 3° du I et au II de l'article 809 du code précité ;
 
-3° des acquisitions effectuées dans le cadre des dispositions des articles 81 ou 155 modifiés de la loi n° 85-98 du 25
-janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ;
+3° des acquisitions effectuées dans le cadre des dispositions des articles L. 621-83 ou L. 622-17 du code de commerce ;
 
 4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices ;
 
@@ -32278,24 +32824,6 @@ reconnue par le ministre de l'agriculture ;
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1717, 809
-	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
-	  - Loi n°85-98 1985-01-25 art. 81, art. 155
-	  - Loi n°85-98 du 25 janvier 1985 - art. 155 (M)
-	  - Code rural 686
-
-	**Modifié par**:
-
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 17 (V) JORF 31 décembre 1993
-	  - Loi n°94-475 du 10 juin 1994 - art. 49 () JORF 11 juin 1994
-	  - Loi n°94-475 du 10 juin 1994 - art. 72 () JORF 11 juin 1994
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
 	**Cité par**:
 
 	  - Arrêté du 3 septembre 2009 (V)
@@ -32307,9 +32835,25 @@ reconnue par le ministre de l'agriculture ;
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 E (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 
+	**Cite**:
+
+	  - CGI 1717, 809
+	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
+	  - Code de commerce. - art. L621-83 (Ab)
+	  - Code de commerce. - art. L622-17 (M)
+	  - Code rural 686
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18 art. 4 I 33° JORF 21 septembre 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article 397
@@ -33220,6 +33764,51 @@ mentionné à l'article 527 du code général des impôts.
 	**Modifié par**:
 
 	  - Loi n°94-6 1994-01-01 art. 7, art. 31 JORF 5 janvier 1994
+
+
+###### Article 406 terdecies
+
+I. - Les impôts et taxes dus par les personnes et groupements mentionnés à l'article 344-0 A sont payés au comptable du
+service des grandes entreprises mentionné au premier alinéa de l'article 344-0 A.
+
+II. - Les dispositions du I s'appliquent à l'impôt sur les sociétés, à l'imposition forfaitaire annuelle des sociétés, à la
+contribution sur les revenus locatifs, à la contribution sur l'impôt sur les sociétés, à la contribution sociale sur l'impôt
+sur les sociétés prévues respectivement aux articles 223 septies, 234 nonies, 235 ter ZA et 235 ter ZC du code général des
+impôts, à la taxe professionnelle et à la cotisation minimum citées au 6° de l'article 344-0 B de même qu'aux taxes
+additionnelles et annexes à cette taxe ainsi qu'aux impôts et taxes mentionnés aux 2° à 5° et 7° à 15° de l'article 344-0 B.
+
+Elles s'appliquent en outre, sur option de l'entreprise, à la taxe sur les salaires prévue à l'article 231 du code précité,
+aux taxes foncières sur les propriétés bâties et non bâties et à leurs taxes additionnelles et annexes recouvrées dans les
+mêmes conditions. L'option s'applique aux cotisations dues au titre de l'ensemble des établissements et immeubles de
+l'entreprise. Formulée par écrit avant le 30 novembre d'une année, l'option prend effet le 1er janvier de l'année suivante,
+pour une durée de cinq ans, renouvelable par tacite reconduction à défaut de dénonciation trente jours au moins avant
+l'expiration de la période. En matière de taxe sur les salaires, l'option s'applique aux versements dus au titre des salaires
+versés à compter de la date d'effet de l'option.
+
+III. - Les dispositions des I et II s'appliquent aux paiements dans les mêmes conditions que celles prévues à l'article 344-0
+C.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 septies, 234 nonies, 235 ter ZA, 235 ter ZC, 231
+	  - CGIAN3 344-0 A, 344-0 B, 344-0 C
+
+	**Créé par**:
+
+	  - Décret n°2000-1218 du 13 décembre 2000 - art. 1 () JORF 15 décembre 2000
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2000-1218 du 13 décembre 2000 - art. 2 (V)
+	  - HISTO: Edition du 31 mars 2001
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
 
 
 ## Chapitre I bis : Pénalités

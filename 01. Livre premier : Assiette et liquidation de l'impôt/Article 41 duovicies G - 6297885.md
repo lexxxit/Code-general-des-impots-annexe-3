@@ -1,4 +1,4 @@
-# Article 39 quinquies
+# Article 41 duovicies G
 
 Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques adresse, ayant le 16 février de chaque année,
 à la direction des services fiscaux auprès de laquelle il souscrit sa déclaration de bénéfices ou de revenus un relevé des
@@ -22,7 +22,7 @@ catégorie des parts dont il disposait avant la dissolution ou, en cas de distri
 annulées, leur catégorie et leur valeur moyenne pondérée d'acquisition ;
 
 c. Le montant des attributions en nature ou en espèces, autres que celles présentant le caractère de revenus de capitaux
-mobiliers, revenant à chaque propriétaire.
+mobiliers revenant à chaque propriétaire.
 
 5° En cas de distribution d'une partie des avoirs du fonds effectuée sans annulation de parts :
 
@@ -37,25 +37,25 @@ d. (abrogé)
 
 **Liens relatifs à cet article**
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - CGIAN3 41 duovicies G
+	  - CGIAN3 39 quinquies
 
 	**Cite**:
 
 	  - CGIAN3 41 sexdecies B
 
-	**Modifié par**:
-
-	  - Décret n°2001-171 du 19 février 2001 - art. 1 () JORF 24 février 2001
-
 	**Codifié par**:
 
 	  - Décret n°2001-435 2001-05-21
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 X (V)
 
 	**Liens**:
 

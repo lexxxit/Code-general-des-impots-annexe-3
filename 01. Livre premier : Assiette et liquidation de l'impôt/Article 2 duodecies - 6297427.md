@@ -3,9 +3,9 @@
 Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier 2000 et le 31 décembre 2000, les plafonds de loyer mensuel, charges non
-comprises, sont fixés à 66 F par mètre carré en zone I bis, 56 F en zone I, 36 F en zone II et 31 F en zone III. Les plafonds
-sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2001, les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 67 F par mètre carré en zone I bis, 57 F en zone I, 37 F en zone II et 32 F en zone III. Les plafonds sont
+relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de
 l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique et des études
 économiques. La moyenne mentionnée ci-dessus est celle du dernier indice connu à la date de référence et des indices des
 trois trimestres qui précèdent.
@@ -21,7 +21,7 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la signature du
 contrat de location.
 
-Pour les baux conclus en 2000, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2001, les plafonds annuels de ressources sont les suivants :
 
 COMPOSITION du foyer locataire :
 
@@ -29,9 +29,9 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 116 430
+Ile-de-France (en francs) : 120 150
 
-Province (en francs) : 97 200 
+Province (en francs) : 100 310 
 
 COMPOSITION du foyer locataire :
 
@@ -39,9 +39,9 @@ Couple marié
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 191 350
+Ile-de-France (en francs) : 197 460
 
-Province (en francs) : 148 830 
+Province (en francs) : 153 590 
 
 COMPOSITION du foyer locataire :
 
@@ -49,9 +49,9 @@ Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 229 830
+Ile-de-France (en francs) : 237 170
 
-Province (en francs) : 178 190 
+Province (en francs) : 183 880 
 
 COMPOSITION du foyer locataire :
 
@@ -59,9 +59,9 @@ Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 274 370
+Ile-de-France (en francs) : 283 130
 
-Province (en francs) : 215 650 
+Province (en francs) : 222 540 
 
 COMPOSITION du foyer locataire :
 
@@ -69,9 +69,9 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 325 000
+Ile-de-France (en francs) : 335 380
 
-Province (en francs) : 253 110 
+Province (en francs) : 261 200 
 
 COMPOSITION du foyer locataire :
 
@@ -79,9 +79,9 @@ Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 365 490
+Ile-de-France (en francs) : 377 160
 
-Province (en francs) : 285 510 
+Province (en francs) : 294 630 
 
 COMPOSITION du foyer locataire :
 
@@ -89,9 +89,9 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en francs) : 41 510
+Ile-de-France (en francs) : + 42 840
 
-Province (en francs) : 32 400 
+Province (en francs) : + 33 440 
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
 Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
@@ -100,14 +100,6 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 196 B du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Modifié par**:
-
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
 
 	**Cité par**:
 
@@ -134,6 +126,14 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code de la construction et de l'habitation. - art. R331-10 (M)
 	  - Code de la construction et de l'habitation. - art. R353-16 (M)
 
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
+
+	**Modifié par**:
+
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001

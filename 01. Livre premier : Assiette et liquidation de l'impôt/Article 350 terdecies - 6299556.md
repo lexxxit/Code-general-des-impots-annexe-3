@@ -1,16 +1,19 @@
 # Article 350 terdecies
 
 I. Sous réserve des dispositions des articles 409 et 410 de l'annexe II au code général des impôts, seuls les fonctionnaires
-titulaires de la direction générale des impôts appartenant à des corps des catégories A et B peuvent fixer les bases
-d'imposition et liquider les impôts, taxes et redevances ainsi que notifier les redressements.
+de la direction générale des impôts appartenant à des corps des catégories A et B peuvent fixer les bases d'imposition et
+liquider les impôts, taxes et redevances ainsi que notifier les redressements.
 
-Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour les opérations de contrôle par des stagiaires
-et par tout autre fonctionnaire des impôts affecté ou non dans le ressort territorial du même service.
+Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour les opérations de contrôle par des
+fonctionnaires stagiaires et par tout autre fonctionnaire des impôts affecté ou non dans le même service déconcentré ou
+service à compétence nationale.
 
 II. Les fonctionnaires mentionnés au premier alinéa du I peuvent exercer les attributions que ces dispositions leur confèrent
-à l'égard des personnes physiques ou morales ou groupements de personnes de droit ou de fait qui ont déposé ou auraient dû
-déposer dans le ressort territorial de leur service d'affectation une déclaration, un acte ou tout autre document ainsi qu'à
-l'égard des personnes ou groupements qui, en l'absence d'obligation déclarative, y ont été ou auraient dû y être imposés.
+à l'égard des personnes physiques ou morales ou groupements de personne de droit ou de fait qui ont déposé ou auraient dû
+déposer dans le ressort territorial du service déconcentré ou du service à compétence nationale dans lequel ils sont affectés
+une déclaration, un acte ou tout autre document ainsi qu'à l'égard des personnes ou groupements qui, en l'absence
+d'obligation déclarative, y ont été ou auraient dû y être imposés ou qui y ont leur résidence principale, leur siège ou leur
+principal établissement.
 
 III. Les fonctionnaires mentionnés au premier alinéa du I et compétents territorialement pour procéder aux contrôles visés à
 l'article L. 47 du livre des procédures fiscales d'une personne physique ou morale ou d'un groupement peuvent exercer les
@@ -34,18 +37,11 @@ relèvent de leur compétence.
 
 Les liens existant entre les personnes ou groupements s'entendent de l'appartenance ou du rattachement à un même foyer
 fiscal, de l'exercice d'un rôle de direction de droit ou de fait, d'une relation d'association, de subordination ou
-d'interposition, ou de l'appartenance à un même groupe d'intérêts. Les arrêtés d'attributions des services définissent, s'il
-y a lieu, la compétence des agents au regard des personnes unies par ces liens.
+d'interposition, ou de l'appartenance à un même groupe d'intérêts. Les arrêtés d'attributions des services déconcentrés et
+des services à compétence nationale définissent, s'il y a lieu, la compétence des agents au regard des personnes unies par
+ces liens.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°96-804 du 12 septembre 1996 - art. 1 (V) JORF 15 septembre 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-661 1997-05-28
 
 	**Cité par**:
 
@@ -61,6 +57,10 @@ y a lieu, la compétence des agents au regard des personnes unies par ces liens.
 	  - Livre des procédures fiscales - art. L47 (M)
 	  - Livre des procédures fiscales - art. R213-4 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2000-1037 du 23 octobre 2000 - art. 2 () JORF 25 octobre 2000
+
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 2001

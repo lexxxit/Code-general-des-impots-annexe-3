@@ -1,7 +1,7 @@
 # Article 2 septies
 
-Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder 586 F
-annuels par mètre carré de surface habitable en région Ile-de-France et 521 F annuels par mètre carré de surface habitable
+Pour l'application de l'article 15 ter du code général des impôts, le loyer, charges non comprises, ne doit pas excéder 594 F
+annuels par mètre carré de surface habitable en région Ile-de-France et 528 F annuels par mètre carré de surface habitable
 dans les autres régions.
 
 Pendant la durée mentionnée à l'article 15 ter déjà cité, l'augmentation annuelle du loyer ne peut être supérieure à celle de
@@ -16,12 +16,12 @@ l'indice national mesurant le coût de la construction publié par l'Institut na
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2001-435 2001-05-21
 
 	**Modifié par**:
 
-	  - Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF 3 juin 2000
+	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2001

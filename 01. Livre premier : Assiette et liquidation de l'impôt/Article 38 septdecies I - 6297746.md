@@ -16,10 +16,14 @@ Lorsque le salarié se trouve dans un cas de dispense de reprise mentionnés au 
 impôts, la déclaration des revenus est accompagnée d'une note précisant sa situation.
 
 3. Lorsque les titres de la société nouvelle sont apportés à une société civile ou à un fonds commun de placement
-d'entreprise mentionné à l'article 21 modifié de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement
-collectif en valeurs mobilières, la société nouvelle est tenue aux obligations du 2 en cas de cession par un salarié de tout
-ou partie de ses parts dans la société civile ou dans le fonds commun de placement d'entreprise. Il en est de même en cas de
-cession des titres de la société nouvelle par la société civile ou par le fonds commun de placement.
+d'entreprise mentionné à l'article L. 214-40 du code monétaire et financier, la société nouvelle est tenue aux obligations du
+2 en cas de cession par un salarié de tout ou partie de ses parts dans la société civile ou dans le fonds commun de placement
+d'entreprise. Il en est de même en cas de cession des titres de la société nouvelle par la société civile ou par le fonds
+commun de placement.
+
+**Nota:**
+
+Modification effectuée en conséquence de la péremption de l'article 83 ter du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -27,16 +31,17 @@ cession des titres de la société nouvelle par la société civile ou par le fo
 
 	  - CGI 83 ter
 	  - CGIAN3 38 septdecies H
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
+	  - Code monétaire et financier - art. L214-40
+
+	**Modifié par**:
+
+	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 81° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
 
 	**Codifié par**:
 
-	  - Décret n°95-1281 1995-12-11
-
-	**Créé par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995 - art. 4 () JORF 13 décembre 1995
+	  - Décret n°2001-435 2001-05-21
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - HISTO: Edition du 31 mars 2001

@@ -1,6 +1,6 @@
 # Article 46 AGD
 
-I. - Pour l'application du troisième alinéa de l'article 199 decies E du code général des impôts, les contribuables sont
+I. - Pour l'application du quatrième alinéa de l'article 199 decies E du code général des impôts, les contribuables sont
 tenus de joindre à leur déclaration de revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est
 demandé :
 
@@ -24,11 +24,11 @@ II. - En cas de changement d'exploitant de la résidence au cours de la période
 contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du bail
 conclu avec le nouvel exploitant comportant les mentions définies au 2° du I.
 
-III. - Pour l'application du cinquième alinéa de l'article 199 decies E du code général des impôts, le conjoint survivant
-joint à la déclaration de revenus qu'il souscrit au titre de l'année du décès pour la période postérieure à cet événement une
-note établie conformément à un modèle fixé par l'administration qui comporte l'engagement de louer le logement nu à
-l'exploitant de la résidence de tourisme pour la fraction de la période de neuf ans couverte par l'engagement de location
-initial et restant à courir à la date du décès.
+III. - Pour l'application du sixième alinéa de l'article 199 decies E du code général des impôts, le conjoint survivant joint
+à la déclaration de revenus qu'il souscrit au titre de l'année du décès pour la période postérieure à cet événement une note
+établie conformément à un modèle fixé par l'administration qui comporte l'engagement de louer le logement nu à l'exploitant
+de la résidence de tourisme pour la fraction de la période de neuf ans couverte par l'engagement de location initial et
+restant à courir à la date du décès.
 
 En cas de changement d'exploitant de la résidence, les dispositions du II sont applicables.
 
@@ -38,17 +38,20 @@ En cas de changement d'exploitant de la résidence, les dispositions du II sont 
 
 	  - CGI 199 decies E
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: Loi n°98-1267 1998-12-30 art. 13 Finances rectificative pour 1998
-	  - HISTO: Edition du 31 mars 1999
+	  - Loi - art. 79 (V) JORF 31 décembre 2000
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°99-180 du 10 mars 1999 - art. 1 () JORF 12 mars 1999
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. D421-2 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGE (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGF ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2001

@@ -5,7 +5,7 @@ sous les sanctions prévus par les articles 1679, 1679 A, 1679 bis, 1727, 1728, 
 et le 1 de l'article 374, les organismes coopératifs, mutualistes et professionnels agricoles énumérés ci-après :
 
 Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à
-l'article 1235 du code rural ;
+l'article L. 771-1 du code rural ;
 
 Caisses de crédit agricole mutuel ;
 
@@ -30,20 +30,21 @@ administratifs et leurs ateliers de réparation.
 
 	  - CGI 231, 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1736
 	  - CGIAN3 50, 51, 369, 374 1
-	  - Code rural 1235
+	  - Code rural L771-1
+
+	**Modifié par**:
+
+	  - Rapport - art. 1 (V) JORF 22 juin 2000
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-435 2001-05-21
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 quater (V)
 
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Modifié par**:
-
-	  - Décret n°93-1127 du 24 septembre 1993 - art. 4 () JORF 28 septembre 1993
-
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2001
