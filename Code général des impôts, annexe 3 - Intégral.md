@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1985-12-14
+Version Consolidée au 1985-12-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3536,6 +3536,84 @@ les actions ou parts souscrites ou reçues en rémunération de l'apport de vale
 	**Codifié par**:
 
 	  - Décret n°85-1007 1985-09-24
+
+
+##### D : Obligations des employeurs
+
+##### Déclaration annuelle de données sociales
+
+###### Article 39 E
+
+La déclaration reçue par un centre de transfert de données sociales est réputée remise, à la date de cette reception, à
+l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1343 1985-12-16 art. 6 JORF 20 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+###### Article 39 F
+
+Dans les départements où la procédure instituée par l'article 39 C n'est pas devenue obligatoire, les dispositions de
+l'article 87 du code général des impôts demeurent applicables pour le dépôt des déclarations autres que celles mentionnées au
+articles 39 B et 47 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 87
+	  - CGIAN3 39 C, 39 B, 47 A
+
+	**Créé par**:
+
+	  - Décret n°85-1344 du 16 décembre 1985 - art. 2 (V) JORF 20 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1430 du 22 décembre 2008 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+
+##### Obligations des employeurs
+
+##### Déclaration annuelle de données sociales.
+
+###### Article 39 D
+
+La déclaration annuelle de données sociales peut être faite par un procédé informatique si le déclarant le demande et
+s'engage à se conformer aux prescriptions d'un cahier des charges approuvé par arrêté conjoint des minitres chargés du budget
+et de la sécurité sociale.
+
+A défaut de recours à un procédé informatique, la déclaration est effectuée à l'aide d'un formulaire unique dont le modèle
+est approuvé par arrêté conjoint des ministres ci-dessus mentionnés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1343 1985-12-16 art. 3 JORF 20 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
 
 
 ##### VII : Bénéfices des professions non commerciales
