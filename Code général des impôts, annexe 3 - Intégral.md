@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-01-04
+Version Consolidée au 1983-01-12
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -378,28 +378,6 @@ produits considérés.
 	  - Décret n°82-1162 du 30 décembre 1982 - art. 1 (V) JORF 31 décembre 1982
 	  - Décret n°82-1162 du 30 décembre 1982 - art. 2 (V) JORF 31 décembre 1982
 	  - Décret n°82-1162 du 30 décembre 1982 - art. 3 (V) JORF 31 décembre 1982
-
-
-#### TAXE SPECIALE SUR LES HUILES.
-
-###### Article 333 E
-
-Les huiles taxables exportées  en l'état ou après incorporation dans des produits destinés à l'alimentation humaine  ouvrent
-droit à remboursement de la taxe spéciale.
-
-Les déclarations d'exportation relatives à des produits destinés à l'alimentation humaine dans lesquels ont été incorporées
-des huiles végétales fluides ou concrètes ou des huiles d'animaux marins doivent mentionner expressément la proportion des
-différentes catégories d'huiles utilisées.
-
-Le remboursement est accordé aux exportateurs qui en font la demande et apportent toutes les justifications nécessaires
-notamment en ce qui concerne la réalité de l'exportation  la destination des produits  les quantités d'huiles taxables
-contenues dans les produits exportés  le paiement antérieur de la taxe afférente auxdites quantités [*conditions*].
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
 
 
 #### TAXE ADDITIONNELLE AU PRIX DES PLACES DANS LES SALLES DE SPECTACLES CINEMATOGRAPHIQUES.
@@ -15141,6 +15119,39 @@ attestation en est redevable du seul fait de cette mention.
 
 	  - HISTO: EDITION 1979-07-01
 	  - HISTO: Edition du 18 août 1993
+
+
+###### Article 333 E
+
+Les huiles taxables exportées  en l'état ou après incorporation dans des produits destinés à l'alimentation humaine  ouvrent
+droit à remboursement de la taxe spéciale.
+
+Les déclarations d'exportation relatives à des produits destinés à l'alimentation humaine dans lesquels ont été incorporées
+des huiles végétales fluides ou concrètes ou des huiles d'animaux marins doivent mentionner expressément la proportion des
+différentes catégories d'huiles utilisées.
+
+Le remboursement est accordé aux exportateurs qui en font la demande et apportent toutes les justifications nécessaires
+notamment en ce qui concerne la réalité de l'exportation  la destination des produits  les quantités d'huiles taxables
+contenues dans les produits exportés  le paiement antérieur de la taxe afférente auxdites quantités [*conditions*].
+
+Les exportateurs sont autorisés à recevoir ou à importer en franchise de taxe spéciale, dans les conditions définies à
+l'article 275 du code général des impôts, les huiles qu'ils destinent à l'exportation (1).
+
+(1) Disposition applicable pour les livraisons et les importations d'huiles intervenues à compter du 1er janvier 1983.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 275
+
+	**Modifié par**:
+
+	  - Décret n°82-1234 du 31 décembre 1982 - art. 2 (V) JORF 12 janvier 1983
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
 
 
 ###### Article 333 F
