@@ -2,8 +2,8 @@
 
 Les comptables publics mentionnés à l'article 1724 A du code général des impôts sont les comptables de la direction générale
 des impôts et ceux de la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les
-contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et le droit spécifique
-mentionné à l'article 527 du code général des impôts.
+contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution mentionnée à
+l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -11,14 +11,10 @@ mentionné à l'article 527 du code général des impôts.
 
 	  - CGI 1724 A, 527
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°94-6 1994-01-01 art. 7, art. 31 JORF 5 janvier 1994
+	  - HISTO: Edition du 31 août 2004
