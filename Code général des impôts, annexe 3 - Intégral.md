@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-02-09
+Version Consolidée au 1991-03-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18841,6 +18841,37 @@ III. Les documents désignés au I ne sont plus soumis au visa périodique des r
 
 
 ##### II : Obligations des agents de l'administration : Salaires des conservateurs
+
+##### 1 : Généralités
+
+###### Article 285
+
+Les salaires des conservateurs des hypothèques  pour les fonctions dont ces agents sont chargés sont fixés conformément aux
+tarifs énoncés dans la présente section.
+
+Le montant des salaires est arrondi au franc inférieur.
+
+Lorsque le conservateur  en application de l'article 880 du code général des impôts, prononce, à défaut de versement d'avance
+des salaires et hors les cas d'exception prévus par les dispositions en vigueur le refus du dépôt des expéditions extraits
+copies ou bordereaux à publier ce refus a lieu dans les conditions fixées à l'article 74 du décret n° 55-1350 modifié du 14
+octobre 1955 ; à défaut du même versement les états et certificats établis sont retenus jusqu'au complet paiement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 880
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 74 (M)
+
+	**Modifié par**:
+
+	  - Décret n°91-25 1991-01-17 art. 2, art. 3 JORF 11 janvier 1991 en vigueur le 1er mars 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°91-25 1991-01-17 art. 3
+	  - HISTO: Edition du 24 juin 1991
+
 
 ##### 2 : Salaires fixes
 
