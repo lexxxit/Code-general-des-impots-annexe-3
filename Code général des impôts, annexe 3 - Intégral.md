@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1994-03-03
+Version Consolidée au 1994-05-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -237,6 +237,29 @@ Ce document est établi conformément au modèle fixé par l'administration.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 38 (VT)
+
+
+##### A bis: Régime fiscal des contrats d'échange de taux d'intérêt ou de devises réalisés par les établissements de crédit.
+
+###### Article 2 D
+
+Pour l'application des dispositions du troisième alinéa de l'article 38 bis C du code général des impôts, le taux
+d'actualisation qu'il y a lieu de retenir est égal à la moyenne arithmétique des taux médians, définis ci-après, pratiqués
+par les établissements de crédit qui interviennent de manière significative sur les marchés.
+
+Le taux médian constitue, pour chacun de ces établissements, la moyenne entre, d'une part, le taux fixe auquel il accepte de
+prêter de l'argent et, d'autre part, le taux fixe auquel il accepte d'emprunter, pratiqués sur chaque marché dont les
+opérations sont de même durée et libellées dans la même devise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 38 bis C
+
+	**Créé par**:
+
+	  - Décret n°94-413 du 17 mai 1994 - art. 1 () JORF 25 mai 1994
 
 
 ##### B : Provision pour fluctuation des cours
@@ -13769,21 +13792,6 @@ dans les conditions prévues à l'article R. 45 B-1 du livre des procédures fis
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. R45 B-1 (V)
-
-
-##### Section V : Crédit d'impôt pour dépenses de recherche effectuées par les entreprises industrielles et commerciales.
-
-###### Article 49 septies K
-
-Pour le calcul du crédit d'impôt, les dépenses de recherche des deux années précédentes sont revalorisées en fonction de la
-variation de l'indice moyen annuel des prix à la consommation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-506 du 25 mars 1993 - art. 3 () JORF 27 mars 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ##### Section V bis : Crédit d'impôt pour dépenses de formation professionnelle.
