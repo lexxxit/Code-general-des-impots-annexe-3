@@ -37,7 +37,7 @@ ans ;
 
 b. Donner lieu à un prêt d'une durée au moins égale à neuf ans ;
 
-c. Etre d'un montant au moins égal à 100.000 F.
+c. Etre d'un montant au moins égal à 100 000 F (15 000 euros à compter du 1er janvier 2002).
 
 3. Lorsque ces acquisitions ont pour effet de porter la superficie des terres appartenant à l'exploitant au-delà de la
 surface globale maximale prévue pour l'application de la législation sur les cumuls ou lorsque la valeur desdites
@@ -57,3 +57,16 @@ opérée la dernière déduction. Ce rapport s'effectue sur le même nombre d'an
 	**Cite**:
 
 	  - Loi n°70-1199 1970-12-21 Finances pour 1971
+
+	**Modifié par**:
+
+	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 31 mars 2002
+
+	**Abrogé par**:
+
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
