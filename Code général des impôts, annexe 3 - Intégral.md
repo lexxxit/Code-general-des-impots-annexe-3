@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1991-02-03
+Version Consolidée au 1991-02-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -25798,24 +25798,22 @@ recouvrement des impôts directs du lieu d'imposition défini par l'article 218 
 société modifie le lieu de son principal établissement après l'échéance du premier acompte afférent à un exercice déterminé
 les acomptes subséquents doivent être versés à la caisse du comptable du Trésor habilité à percevoir le premier acompte.
 
-Chacun des premier et quatrième acomptes est égal [*montant*] à 9,75 p. 100 [*(1)*] du bénéfice imposable déterminé d'après
-les résultats du plus récent exercice clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une
-année d'après les résultats de la dernière période d'imposition.
+Chacun des premier et quatrième acomptes est égal [*montant*] à 9,25 p. 100 du bénéfice imposable déterminé d'après les
+résultats du plus récent exercice clos à la date de son échéance ou lorsqu'aucun exercice n'a été clos au cours d'une année
+d'après les résultats de la dernière période d'imposition.
 
-Chacun des deuxième et troisième acomptes est égal à 10 p. 100 du bénéfice imposable défini [*(1)*].
+Chacun des deuxième et troisième acomptes est égal à 9,75 p. 100 du bénéfice imposable défini.
 
 Toutefois  en cas d'exercice d'une durée inférieure ou supérieure à un an  les acomptes sont calculés sur la base des
 bénéfices rapportés à une période de douze mois.
 
 Par dérogation aux dispositions du deuxième alinéa  l'acompte dont l'échéance est comprise entre la date de clôture d'un
 exercice ou la fin d'une période d'imposition et l'expiration du délai de déclaration fixé à l'article 223-1, deuxième alinéa
-du code général des impôts  est égal, s'il y a lieu, à 9,75 p. 100 [*(1)*] du bénéfice afférent à l'exercice ou à la période
+du code général des impôts  est égal, s'il y a lieu, à 9,25 p. 100 du bénéfice afférent à l'exercice ou à la période
 d'imposition précédente et dont le délai de déclaration est expiré. Le montant de cet acompte est régularisé sur la base des
 résultats du dernier exercice ou de la dernière période d'imposition lors du versement du plus prochain acompte.
 
 Le montant des acomptes est arrondi au franc inférieur.
-
-[*(1)*] Ces dispositions s'appliquent aux acomptes échus au cours d'exercices ouverts à compter du 1er janvier 1990.
 
 **Liens relatifs à cet article**
 
@@ -25826,12 +25824,8 @@ Le montant des acomptes est arrondi au franc inférieur.
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 18 Finances pour 1990 JORF 30 décembre 1989
-	  - Décret n°90-205 du 8 mars 1990 - art. 1 (V) JORF 9 mars 1990
-
-	**Codifié par**:
-
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°91-151 du 8 février 1991 - art. 1 (V) JORF 9 février 1991
+	  - Modification directe incorporée dans l'édition du 24 juin 1991
 
 	**Cité par**:
 
