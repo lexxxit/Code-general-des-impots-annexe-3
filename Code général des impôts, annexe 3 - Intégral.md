@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-09-08
+Version Consolidée au 2004-09-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12092,9 +12092,9 @@ impôts sont prélevées sur les bénéfices dans les conditions prévues au I e
 
 L'engagement prévu au c du 2 de l'article 119 ter du code général des impôts doit faire l'objet d'une déclaration qui est
 adressée à la fois à l'établissement payeur en France des dividendes et à la direction des services généraux et de
-l'informatique (centre des impôts des non-résidents). Cette déclaration doit être souscrite par la personne morale
-bénéficiaire des dividendes avant la date de la première mise en paiement des dividendes suivant la date d'inscription en
-compte des titres de la société émettrice.
+l'informatique (centre-recette des impôts des entreprises étrangères). Cette déclaration doit être souscrite par la personne
+morale bénéficiaire des dividendes avant la date de la première mise en paiement des dividendes suivant la date d'inscription
+en compte des titres de la société émettrice.
 
 Elle comprend les renseignements suivants :
 
@@ -12116,19 +12116,21 @@ g. le nom et l'adresse de la personne ou de l'organisme qui assure le paiement d
 
 h. le nom et l'adresse de la personne désignée comme représentant.
 
+**Nota:**
+
+NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
+2 de l'article 218 A et aux articles 990 E à 990 F du code général des impôts sont tenues de souscrire à compter de cette
+date.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 119 ter
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-389 du 22 avril 1997 - art. 1 () JORF 24 avril 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2004-950 du 8 septembre 2004 - art. 1 () JORF 9 septembre 2004
 
 	**Cité par**:
 
@@ -12136,7 +12138,7 @@ h. le nom et l'adresse de la personne désignée comme représentant.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quater-0 FC
@@ -26790,7 +26792,13 @@ en France dans un ou plusieurs établissements, au centre des impôts du lieu du
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
 plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au centre des impôts du lieu
 de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, l'engagement est déposé
-au centre des impôts des non-résidents.
+au centre-recette des impôts des entreprises étrangères.
+
+**Nota:**
+
+NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
+2 de l'article 218 A et aux articles 990 E à 990 F du code général des impôts sont tenues de souscrire à compter de cette
+date.
 
 **Liens relatifs à cet article**
 
@@ -26798,17 +26806,13 @@ au centre des impôts des non-résidents.
 
 	  - CGI 990 E
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-819 du 14 mai 1993 - art. 2 () JORF 15 mai 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2004-950 du 8 septembre 2004 - art. 1 () JORF 9 septembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 août 2004
 
 
 ## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes

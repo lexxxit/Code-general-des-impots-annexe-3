@@ -8,7 +8,13 @@ en France dans un ou plusieurs établissements, au centre des impôts du lieu du
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
 plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au centre des impôts du lieu
 de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, l'engagement est déposé
-au centre des impôts des non-résidents.
+au centre-recette des impôts des entreprises étrangères.
+
+**Nota:**
+
+NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
+2 de l'article 218 A et aux articles 990 E à 990 F du code général des impôts sont tenues de souscrire à compter de cette
+date.
 
 **Liens relatifs à cet article**
 
@@ -16,14 +22,10 @@ au centre des impôts des non-résidents.
 
 	  - CGI 990 E
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-819 du 14 mai 1993 - art. 2 () JORF 15 mai 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°2004-950 du 8 septembre 2004 - art. 1 () JORF 9 septembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 août 2004
