@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1988-05-08
+Version Consolidée au 1988-07-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -24,6 +24,22 @@ constructions, sous déduction d'une décote égale à 8 % par année de bail au
 ##### III : Bénéfices industriels et commerciaux
 
 ##### A : Opérations réalisées sur des marchés financiers à terme
+
+###### Article 2 A
+
+Les titres reçus par une entreprise qui exerce une option d'achat portant sur les valeurs mobilières sont inscrits à son
+actif au cours du marché à la date de l'exercice de l'option.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-316 du 28 mars 1988 - art. 1 (V) JORF 7 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
 
 ###### Article 2 B
 
@@ -50,6 +66,35 @@ financiers ont été conclus. Il est établi conformément au modèle fixé par 
 	**Codifié par**:
 
 	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 2 C
+
+Le document qui doit être annexé à la déclaration de résultats de chaque exercice en application du 3° du 6 de l'article 38
+du code général des impôts mentionne les positions symétriques prises au cours de l'exercice et celles qui sont en cours à la
+clôture de l'exercice. Il comporte pour chacune des positions symétriques les renseignements suivants : nature, montant ou
+valeur nominale, date d'ouverture, prix d'achat et date d'échéance. 
+
+Ces renseignements doivent être mentionnés distinctement selon que les positions sont ou non prises sur des instruments
+financiers à terme soumis au régime défini au 1° du 6 de l'article 38 du code général des impôts ; les positions prises sur
+des valeurs mobilières, des devises, des titres de créances négociables, des prêts ou des emprunts, ou des engagements
+portant sur ces éléments, sont également mentionnées distinctement. 
+
+Ce document est établi conformément au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°88-316 du 28 mars 1988 - art. 3 (V) JORF 7 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 38 (VT)
 
 
 ##### B : Provision pour fluctuation des cours
@@ -4168,6 +4213,38 @@ d'hospitalisation, de soins, de cure et de prévention relevant du ministère de
 
 ##### B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires
 
+###### Article 38 septdecies A
+
+Le contribuable qui, dans les conditions prévues aux 2° quater et 2° quinquies de l'article 83 et au I de l'article 83 bis du
+code général des impôts, déduit d'un salaire les intérêts d'un emprunt contracté pour souscrire au capital d'une société
+nouvelle ou d'une société coopérative ouvrière de production ou pour acquérir des actions ou des parts d'une société en vue
+de sa reprise doit fournir les mêmes renseignements que ceux prévus au troisième alinéa de l'article 43.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 10 () JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies-0 A (P)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 43 (V)
+	  - Code général des impôts, CGI. - art. 83 (V)
+	  - Code général des impôts, CGI. - art. 83 bis (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
 ###### Article 38 septdecies B
 
 Pour chaque souscription au capital d'une société, le contribuable doit joindre à la déclaration des revenus de l'année au
@@ -4279,6 +4356,33 @@ les actions ou parts souscrites ou reçues en rémunération de l'apport de vale
 	**Codifié par**:
 
 	  - Décret n°85-1007 1985-09-24
+
+
+##### C : Rachat d'une entreprise par ses salariés
+
+##### 1° : Dispositions applicables aux emprunts contractés entre le 15 avril 1987 et le 31 décembre 1991
+
+###### Article 38 septdecies F
+
+En cas de souscription à une augmentation du capital d'une société mentionnée au premier alinéa du I de l'article 220 quater
+A du code général des impôts, effectuée au cours de l'année de sa création, le bénéfice de la déduction prévue au II de
+l'article 83 bis du même code est subordonné à la réduction des emprunts mentionnés au deuxième alinéa du même article 220
+quater A dans un délai de deux mois à compter de cette augmentation de capital.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 1 (V) JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quater A (V)
+	  - Code général des impôts, CGI. - art. 83 bis (V)
 
 
 ##### Rachat d'une entreprise par ses salariés.
@@ -6658,6 +6762,624 @@ parts.
 	  - HISTO: Edition du 15 juillet 1985
 
 
+##### II ter : Plan d'épargne en vue de la retraite.
+
+###### Article 41 Z
+
+Chaque contribuable mentionné à l'article 1er de la loi n° 87-416 du 17 juin 1987 sur l'épargne peut ouvrir un plan d'épargne
+en vue de la retraite qui est constitué d'un ou de plusieurs comptes d'épargne retraite, ouverts à son nom ou au nom de l'un
+ou des deux époux soumis à imposition commune.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°87-416 1987-06-17 art. 1
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 1 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZA
+
+La date d'ouverture du plan d'épargne en vue de la retraite est celle du premier versement effectué sur le premier compte
+d'épargne retraite ouvert.
+
+La date du premier retrait ou de la première liquidation de pension intervenu sur le plan à partir du soixantième
+anniversaire du contribuable ou du plus âgé des époux soumis à imposition commune est celle du premier retrait ou de la
+première liquidation de pension intervenu sur l'un quelconque des comptes d'épargne retraite à partir de ce même
+anniversaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 2 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZB
+
+L'ouverture d'un compte d'épargne retraite donne lieu à l'établissement d'un certificat d'ouverture et d'un contrat entre le
+souscripteur et l'organisme auprès duquel le compte est ouvert.
+
+Le certificat, qui mentionne le numéro et la date d'ouverture du compte, est remis au souscripteur par l'organisme auprès
+duquel le compte est ouvert.
+
+Le contrat précise les droits et obligations des deux parties, notamment ceux qui résultent des articles 41 Z à 41 ZP. Il
+indique le montant et le mode de calcul des frais de fonctionnement du compte. Il précise si le souscripteur se réserve la
+possibilité de prendre lui-même les décisions d'achats et de ventes des valeurs ou titres pouvant figurer sur le compte ou
+s'il donne mandat à l'organisme de procéder pour son compte à ces opérations. Ce mandat est révocable à tout moment. Le
+rappel des dispositions fiscales applicables aux plans d'épargne en vue de la retraite doit figurer en annexe à ce contrat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts annexe 3, CGIAN3 41 à 41
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 3 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZC
+
+Lorsque les emplois du compte d'épargne consistent en valeurs ou titres mentionnés aux a à d du I de l'article 4 de la loi n°
+87-416 du 17 juin 1987, l'organisme gestionnaire ouvre un compte espèces sur lequel il porte au crédit les versements en
+numéraire effectués par le souscripteur, les sommes transférées d'un autre compte d'épargne retraite, le montant des produits
+des valeurs ou titres et des avoirs fiscaux ou crédits d'impôt restitués par l'administration, les remboursements ainsi que
+le montant des ventes de valeurs ou titres et de droits détachés de valeurs mobilières. Il porte au débit du compte le
+montant des souscriptions et des achats de valeurs ou titres et de droits de souscription ou d'attribution, les frais de
+gestion, le montant des retraits et des sommes transférées sur un autre compte d'épargne retraite ainsi que le montant de
+l'impôt prélevé dans les conditions prévues aux articles 91 A et 91 B du code général des impôts et celui du prélèvement
+libératoire en cas d'option du contribuable en application de l'article 91 E du même code. Il conserve les valeurs et titres
+acquis pour le compte du souscripteur sur un compte de dépôt spécifique.
+
+Lorsque les emplois du compte d'épargne retraite consistent en opérations mentionnées au e du I de l'article 4 de la loi n°
+87-416 du 17 juin 1987, l'organisme gestionnaire enregistre dans le cadre du compte les versements en numéraire du
+souscripteur, les sommes transférées en provenance ou à destination d'un autre compte d'épargne retraite, les frais de
+gestion de ce compte, les retraits, les versements d'arrérages de pension ainsi que le montant de l'impôt prélevé dans les
+conditions prévues aux articles 91 A et 91 B du code général des impôts et celui du prélèvement libératoire en cas d'option
+du contribuable, en application de l'article 91 E du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 A, 91 B, 91 E
+	  - Loi n°87-416 du 17 juin 1987 - art. 4 (M)
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 4 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZD
+
+I. - Le pourcentage maximal de liquidités, entendues comme les sommes déposées à vue, pouvant être détenu sur un plan
+d'épargne en vue de la retraite en application de l'article 4 de la loi n° 87-416 du 17 juin 1987 sur l'épargne est de 15 p.
+100 de la valeur totale des actifs de ce plan. Le pourcentage est vérifié quatre fois par an, le dernier jour du dernier mois
+de chaque trimestre.
+
+Lorsque les sommes placées dans un plan d'épargne en vue de la retraite sont investies en valeurs mobilières et titres de
+créance négociables, le respect de la détention minimale de 75 p. 100 de valeurs et titres émis par l'Etat, une collectivité
+publique ou des sociétés françaises prévue par le même article de cette loi est vérifié aux mêmes dates.
+
+II. - Les sociétés d'investissement à capital variable ou les fonds communs de placement dont les actions ou parts peuvent
+être compris dans un plan d'épargne en vue de la retraite doivent s'engager à respecter le pourcentage minimal de 75 p. 100
+de valeurs et titres émis par l'Etat, une collectivité publique ou des sociétés françaises dans leurs actifs ainsi que le
+pourcentage maximal de liquidités fixé à 15 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°87-416 du 17 juin 1987 - art. 4 (M)
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 5 (T) JORF 13 novembre 1987
+	  - Décret n°87-907 du 10 novembre 1987 - art. 6 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZE
+
+I. - Les opérations autorisées dans le cadre du plan d'épargne en vue de la retraite au titre du code des assurances sont les
+opérations d'assurance sur la vie et de capitalisation qui comportent une valeur de rachat ou de réduction et une garantie en
+cas de vie, et qui relèvent des branches d'activité 20, 22, 23, 24, 26 et 28 de l'article R. 321-1 de ce code, à l'exclusion
+des garanties complémentaires.
+
+II - Les opérations autorisées dans le cadre du plan d'épargne en vue de la retraite au titre du code de la mutualité sont
+les opérations de vieillesse et vie prévues à l'article L. 321-1 de ce code, qui comportent une valeur de rachat ou de
+réduction et une garantie en cas de vie, à l'exclusion des garanties complémentaires.
+
+III - Les opérations autorisées dans le cadre du plan d'épargne en vue de la retraite au titre du code de la sécurité sociale
+sont les opérations d'épargne qui sont réalisées par les institutions mentionnées à l'article R. 731-1 de ce code et qui
+comportent une valeur de rachat ou de réduction et une garantie en cas de vie.
+
+IV - Les opérations autorisées dans le cadre du plan d'épargne en vue de la retraite au titre du code rural sont les
+opérations d'épargne qui sont réalisées par les institutions mentionnées à l'article 16 du décret du 21 mai 1953 et qui
+comportent une valeur de rachat ou de déduction et une garantie en cas de vie.
+
+V. - Lorsque les opérations mentionnées aux I à IV comportent une garantie en cas de décès, le montant de celle-ci ne doit
+pas excéder quatre fois le montant garanti du capital en cas de vie ou du capital constitutif de la rente lors de sa mise en
+service.
+
+Le montant de la prime payée est pris en compte dans les limites fixées à l'article 163 novodecies du code général des
+impôts, soit partiellement, soit intégralement, conformément aux dispositions prévues par arrêté du ministre chargé de
+l'économie et des finances (1).
+
+(1) Voir l'article 17 nonies de l'annexe IV.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 novodecies
+	  - Décret n°53-503 du 21 mai 1953 - art. 16 (V)
+	  - Code de la sécurité sociale. - art. R731-1 (M)
+	  - Code des assurances R321-1
+	  - Code de la mutualité - art. L321-1 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 7 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZF
+
+Le souscripteur peut choisir d'affecter à un compte d'épargne retraite, dans les conditions prévues à l'article 41 ZE, les
+primes afférentes à une opération d'assurance conclue avant le 1er janvier 1988. Ce choix doit intervenir au plus tard lors
+du versement de la première prime échue à compter de cette date et, en tout état de cause, avant le 31 décembre 1988. La part
+du montant du capital acquis avant cette affectation n'est pas soumise aux dispositions prévues pour les plans d'épargne en
+vue de la retraite. Cette part est calculée à partir de la provision mathématique constituée au moyen des primes versées par
+le contribuable avant cette affectation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts annexe 3, CGIAN3 41
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 8 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZG
+
+L'avoir fiscal et le crédit d'impôt attachés aux produits mentionnés à l'article 41 ZC donnent lieu à la délivrance d'un
+certificat distinct d'avoir fiscal, conformément aux dispositions de l'article 77 de l'annexe II au code général des impôts.
+
+Le certificat est établi au nom du souscripteur et porte la désignation du compte d'épargne retraite.
+
+La restitution de l'avoir fiscal ou du crédit d'impôt mentionné sur le certificat est demandée par l'organisme chargé de la
+tenue du compte d'épargne retraite.
+
+Cette demande, accompagnée du certificat, est adressée à la direction des services fiscaux de la résidence de l'organisme
+dans les conditions et délais prévus au II de l'article 94 de la même annexe.
+
+La restitution est opérée au profit de cet organisme, à charge pour lui d'enregistrer les sommes correspondantes selon les
+modalités prévues à l'article 41 ZC.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN2 77, 94
+	  - CGIAN3 41
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 9 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZH
+
+Lorsqu'au cours d'une année le retrait dépasse la somme de 100 000 F, le contribuable peut demander l'application du système
+prévu à l'article 150 R du code général des impôts dans les conditions fixées au d du 5 de l'article 158 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 R, 158
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 10 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZI
+
+Lorsque le contribuable fait donation de titres acquis dans le cadre d'un plan d'épargne en vue de la retraite, les
+liquidités nécessaires au paiement de l'impôt de 10 p. 100 ou 5 p. 100 éventuellement dû en application des articles 91 A et
+91 B du code général des impôts doivent figurer sur son compte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 A, 91 B
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 11 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+
+
+###### Article 41 ZJ
+
+Le titulaire d'un plan d'épargne en vue de la retraite peut transférer tout ou partie des sommes qui figurent sur un compte
+d'épargne retraite à un autre compte d'épargne retraite.
+
+L'opération de transfert n'est considérée ni comme un retrait du premier compte, ni comme un versement sur le second compte
+si les conditions suivantes sont remplies :
+
+1. Le titulaire du plan remet à l'organisme gestionnaire de son premier compte un certificat d'identification de son second
+compte sur lequel le transfert doit avoir lieu ; ce certificat est établi par l'organisme auprès duquel le second compte est
+ouvert.
+
+2. Les sommes sont transférées par virement du premier compte au second compte.
+
+La procédure de transfert est applicable sous les mêmes conditions aux titres compris dans un compte d'épargne retraite. Pour
+l'application des dispositions de l'article 41 ZO le montant du transfert est constitué par la valeur des titres au jour de
+l'opération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 41
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 12 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+
+
+###### Article 41 ZK
+
+En cas de changement de la situation matrimoniale du titulaire d'un compte d'épargne retraite ou lorsqu'il devient imposable
+dans les conditions prévues au 4 de l'article 6 du code général des impôts, ce compte d'épargne retraite est considéré comme
+faisant partie d'un nouveau plan au nom du nouveau contribuable.
+
+Toutefois, la date d'ouverture de ce nouveau plan est celle du plan initial.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 6
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 13 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZL
+
+I. - En cas de décès du titulaire d'un plan d'épargne en vue de la retraite, l'imposition est établie au nom du défunt si, au
+plus tard six mois après son décès, les héritiers n'ont pas affecté l'ensemble des sommes qui figuraient sur ses comptes
+d'épargne retraite à de nouveaux plans d'épargne en vue de la retraite.
+
+II - En cas de divorce, séparation de corps ou de biens mentionnés à l'article 91 G du code général des impôts, les sommes
+qui reviennent au contribuable à la suite de la dissolution de la communauté sont imposées à son nom lorsqu'elles ne sont pas
+immédiatement affectées à un nouveau plan.
+
+III - Pour l'application des dispositions des I et II, la base d'imposition correspondant à des titres est constituée par la
+valeur de ces titres à la date du décès ou de la dissolution de la communauté.
+
+IV - En cas de décès, de divorce, de séparation de corps ou de biens de titulaires d'un plan d'épargne en vue de la retraite,
+les opérations de transfert prévues aux articles 91 F et 91 G du même code s'effectuent selon les modalités définies à
+l'article 41 ZJ. Le certificat d'identification du compte d'épargne retraite sur lequel le transfert doit avoir lieu
+mentionne, selon le cas, le compte de l'héritier, du contribuable divorcé ou séparé de corps ou de biens.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 F, 91 G
+	  - CGIAN3 41
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 14 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZM
+
+Le contribuable ou ses ayants cause sont tenus de fournir les renseignements suivants à l'organisme auprès duquel un compte
+d'épargne retraite est ouvert :
+
+1. La date de naissance du titulaire du compte et de son conjoint s'il est marié.
+
+2. La date d'ouverture du plan d'épargne retraite par la production du certificat d'ouverture du premier compte d'épargne
+retraite ouvert.
+
+3. La date du premier retrait ou de la première liquidation de pension intervenu sur le plan d'épargne en vue de la retraite
+à partir du soixantième anniversaire du contribuable ou du plus âgé des époux soumis à imposition commune.
+
+4. Dans les trente jours de la survenance de l'événement et en tout état de cause avant toute nouvelle opération sur le
+compte, la date du mariage, du divorce ou de la séparation entraînant l'imposition distincte prévue au 4 de l'article 6 du
+code général des impôts et la date du décès du titulaire du compte ou de son conjoint.
+
+5. Le cas échéant, les documents justifiant que les conditions prévues à l'article 91 C du code général des impôts pour
+bénéficier de la dispense de paiement de l'impôt de 10 p. 100 ou 5 p. 100 prévu aux articles 91 A et 91 B du même code sont
+remplies.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 6, 91 A, 91 B, 91 C
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 15 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZN
+
+Pour exercer l'option pour le prélèvement libératoire mentionné à l'article 91 E du code général des impôts, le contribuable
+doit avoir au préalable fourni à l'organisme chargé de la tenue de son compte d'épargne retraite les renseignements
+mentionnés aux 1, 2 et 3 de l'article 41 ZM.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 91 E
+	  - CGIAN3 41
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 16 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZO
+
+L'organisme auprès duquel un compte d'épargne retraite est ouvert doit adresser à la direction des services fiscaux de sa
+résidence, avant le 16 février de chaque année, et aussi longtemps que ce compte existe, les renseignements suivants relatifs
+à l'année précédente en les mentionnant sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts :
+
+1. L'identification du titulaire du compte : ses nom, prénoms, adresse, sa date de naissance et celle de son conjoint.
+
+2. L'identification du plan d'épargne en vue de la retraite : date d'ouverture, numéro du compte, date du premier retrait ou
+de la première liquidation de pension après soixante ans, date de clôture le cas échéant.
+
+3. Le montant des versements effectués sur le compte.
+
+4. La situation du compte au regard du respect des pourcentages de liquidités et de valeurs françaises.
+
+5. Le montant des retraits, y compris les donations de titres, ou arrérages de pension en distinguant selon qu'ils sont
+effectués ou versés avant ou à partir du soixantième anniversaire du souscripteur ou de son conjoint s'il est plus âgé. Les
+retraits ou arrérages antérieurs au soixantième anniversaire sont portés pour leur montant net de l'impôt de 10 p. 100 ou 5
+p. 100. Les retraits ou arrérages postérieurs à ce même anniversaire sont portés lorsqu'ils n'ont pas été soumis au
+prélèvement libératoire prévu à l'article 91 E du code général des impôts. Les arrérages versés après le soixantième
+anniversaire de l'intéressé sont mentionnés distinctement lorsqu'ils correspondent à une pension liquidée avant ce même
+anniversaire.
+
+6. Le montant et le taux de l'impôt de 10 p. 100 ou 5 p. 100, la mention du non-prélèvement de cet impôt sur justification du
+souscripteur ainsi que les montants et les taux du crédit d'impôt ou du prélèvement libératoire en cas d'option du
+souscripteur.
+
+7. Le montant des transferts en provenance ou à destination du compte.
+
+Dans le même délai, l'organisme remet au contribuable un duplicata de cette déclaration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 242 ter, 91 E
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 17 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+
+
+###### Article 41 ZP
+
+Le contribuable doit récapituler sur sa déclaration de revenus annuelle le montant des versements effectués, des sommes
+retirées ou des échéances de pension perçues dans le cadre de son plan d'épargne en vue de la retraite.
+
+Il précise le nombre d'organismes auprès desquels un compte d'épargne retraite a été ouvert et joint les duplicata des
+déclarations reçues de ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°87-907 du 10 novembre 1987 - art. 18 (T) JORF 13 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 12 (V) JORF 31 décembre 1999
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+
+
 ##### III : Présentation et contenu des déclarations
 
 ###### Article 42
@@ -7223,6 +7945,44 @@ elles dans le cadre d'une concession d'aménagement prévue à l'article L 300-4
 	  - HISTO: Edition du 31 juillet 1986
 
 
+##### Section I bis : Entreprises créées en Corse
+
+###### Article 46 quater
+
+Pour l'application de l'article 208 sexies du code général des impôts, l'entreprise nouvelle doit joindre à sa déclaration
+des résultats de chaque exercice un état qui mentionne les renseignements suivants : 
+
+a) La nature exacte de l'activité exercée par l'entreprise ; 
+
+b) La désignation complète de ses actionnaires ou associés : 
+
+nom, prénoms, profession et adresse des personnes physiques, dénomination ou raison sociale, activité et siège social des
+sociétés ; 
+
+c) La répartition, à la date d'ouverture de l'exercice, des droits de vote attachés aux titres émis par la société nouvelle
+ainsi que les modifications apportées à cette répartition au cours de cet exercice. 
+
+Cet état est établi sur papier libre, conformément au modèle fixé par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1061 1987-12-30 art. 22 Finances rectificative pour 1987
+
+	**Créé par**:
+
+	  - Décret n°88-438 du 25 avril 1988 - art. 1 (V) JORF 27 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 208 sexies (V)
+
+
 ##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs
 
 ###### Article 46 quater-0 A
@@ -7741,6 +8501,41 @@ II. Les dispositions de l'article 238 octies précité cessent de s'appliquer au
 
 ##### Section V bis : Rachat d'une entreprise par ses salariés
 
+###### Article 46 quater-0 RA
+
+Pour l'application de l'article 220 quater A du code général des impôts, les intérêts qui servent de base au calcul du crédit
+d'impôt s'entendent de ceux qui viennent à échéance au cours de l'exercice au titre duquel le crédit d'impôt est accordé et
+dont le montant correspond à une période au plus égale à la durée de l'exercice. 
+
+La proportion des droits sociaux que la société nouvelle détient dans la société rachetée correspond au taux de la
+participation qu'elle détenait de façon continue au cours de l'exercice précédant celui au titre duquel le crédit d'impôt est
+demandé. 
+
+Pour le premier exercice, cette proportion est appréciée au premier jour de l'exercice. 
+
+Si l'exercice de la société nouvelle est d'une durée inférieure à celle de l'exercice précédent de la société rachetée,
+l'impôt sur les sociétés acquitté au titre de ce dernier exercice est retenu dans la limite du rapport entre les durées
+respectives de ces deux exercices.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 2 (V) JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quater A (V)
+
+
 ###### Article 46 quater-0 RB
 
 Pour l'application de l'article 220 quater A du code général des impôts, les droits détenus indirectement par des sociétés
@@ -7757,6 +8552,42 @@ Les fonctions de direction s'entendent des fonctions de gérant ou de président
 	**Créé par**:
 
 	  - Décret n°87-991 du 13 novembre 1987 - art. 2 (V) JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quater A (V)
+
+
+###### Article 46 quater-0 RC
+
+Pour l'application de l'article 220 quater A du code général des impôts, la direction de la société rachetée est considérée
+comme assurée par une ou plusieurs des personnes salariées mentionnées au c du II du même article si celles-ci exercent les
+fonctions de gérant ou de président du conseil d'administration ou du directoire et détiennent la majorité des droits de vote
+dans les organes de gestion de la société rachetée. 
+
+Sont considérés comme détenus indirectement par un salarié le s droits de vote de la société nouvelle ou de la société
+rachetée qui sont détenus par les membres de son foyer fiscal ainsi que par les ascendants du salarié ou de son conjoint et
+ceux qui sont détenus par des sociétés avec lesquelles le salarié ou les personnes désignées ci-dessus ont des liens de
+nature à établir une véritable communauté d'intérêts ou dans lesquelles ils exercent des fonctions de direction. Les
+fonctions de direction s'entendent des fonctions de gérant ou du président du conseil d'administration ou du directoire. 
+
+Pour l'application du deuxième alinéa du d du II de l'article 220 quater A du même code, l'obligation de céder les titres de
+la société rachetée à la société nouvelle contre remise de titres de cette dernière société ne s'applique pas aux ascendants
+du salarié ou de son conjoint si la cession intervient lors de la création de la société nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 3 (V) JORF 14 novembre 1987
 
 	**Codifié par**:
 
@@ -7790,6 +8621,97 @@ mois au moins. Cet effectif est calculé en tenant compte de la durée de prése
 	**Codifié par**:
 
 	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 46 quater-0 RE
+
+Les échéances d'intérêts des emprunts mentionnés au deuxième alinéa du I de l'article 220 quater A du code général des impôts
+sont fixées à la date de clôture des exercices de la société nouvelle.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 6 (V) JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quater A (V)
+
+
+###### Article 46 quater-0 RF
+
+La demande d'accord du ministre chargé des finances pour l'application des dispositions de l'article 220 quater A est
+présentée par l'ensemble des repreneurs ; elle est signée par chacun d'eux. Elle est adressée au directeur général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 quater A
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 7 (V) JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 46 quater-0 RG
+
+Pour obtenir le remboursement ou l'imputation du crédit d'impôt dans les conditions prévues à l'article 220 quater A du code
+général des impôts, la société constituée pour le rachat doit :
+
+Fixer son siège social à la même adresse que la société rachetée, arrêter ses exercices à la même date que celle-ci et
+souscrire ses déclarations au même lieu d'imposition que la société rachetée ;
+
+Présenter une demande de remboursement ou d'imputation sur des documents conformes aux modèles établis par l'administration.
+
+La demande de remboursement ou d'imputation est accompagnée :
+
+D'un document attestant le versement de l'impôt sur les sociétés par la société nouvelle et par la société rachetée pour
+l'exercice précédant celui au titre duquel le remboursement ou l'imputation sont demandés ;
+
+D'une copie des contrats de prêts consentis au profit de la société nouvelle mentionnant le taux d'intérêt nominal et le taux
+actuariel brut de ces prêts ainsi que le montant et la date des échéances d'amortissement et d'intérêts.
+
+Le remboursement du crédit d'impôt est subordonné à la remise au comptable du Trésor d'une copie de la quittance certifiant
+du paiement des intérêts dont le montant sert de base au calcul du crédit d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 quater A
+
+	**Créé par**:
+
+	  - Décret n°87-991 du 13 novembre 1987 - art. 8 (V) JORF 14 novembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - TXT_SOURCE: Loi n°87-416 du 17 juin 1987 - art. 26, v. init.
 
 
 ##### Section VI : Report en arrière des déficits
@@ -8325,6 +9247,74 @@ résultats pour la détermination du résultat d'ensemble.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZM (V)
 
 
+###### Article 46 quater-0 ZE
+
+Les sociétés filiales qui acceptent de faire partie du groupe défini à l'article 223 A du code général des impôts adressent
+l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles relèvent avant la date d'ouverture de l'exercice au
+titre duquel le régime défini à l'article 223 A déjà cité s'applique. L'accord est donné pour la durée restant à courir de
+l'option prévue à ce dernier article.
+
+Pour les exercices ouverts au cours des six premiers mois de l'année 1988, cet accord est donné, au plus tard, à la date de
+l'option de la société mère.
+
+Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
+décision de la société mère en informent le service des impôts dont elles relèvent avant l'ouverture de cet exercice.
+
+Pour remplir les obligations prévues au présent article et à l'article 46 quater-0 ZD, la société doit utiliser des documents
+conformes aux modèles établis par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 A
+	  - CGIAN3 46 quater-0 ZD
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 2 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
+
+
+###### Article 46 quater-0 ZF
+
+Pour l'application des dispositions de l'article 223 A du code général des impôts, la détention de 95 p. 100 au moins du
+capital d'une société s'entend de la détention en pleine propriété de 95 p. 100 au moins des droits à dividendes et de 95 p.
+100 au moins des droits de vote attachés aux titres émis par cette société.
+
+Les droits détenus indirectement s'entendent des droits détenus par l'intermédiaire d'une chaîne de participation. Le
+pourcentage de ces droits est apprécié en multipliant entre eux les taux de détention successifs. Toutefois, pour cette
+appréciation, la société qui détient 95 p. 100 au moins du capital d'une autre société est considérée comme détenant ce
+capital en totalité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 A
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 3 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
 ###### Article 46 quater-0 ZG
 
 La subvention indirecte mentionnée au cinquième alinéa de l'article 223 B du code général des impôts s'entend des
@@ -8467,6 +9457,69 @@ sortie. "
 	  - Décret n°88-1001 1988-10-20
 
 
+###### Article 46 quater-0 ZJ
+
+Pour l'application du 2 de l'article 223 N du code général des impôts, les acomptes que la société mère doit verser pour le
+compte de la société qui cesse de faire partie du groupe sont payés au comptable du Trésor du lieu d'imposition de cette
+dernière société. Ces acomptes sont déterminés d'après le résultat de cette même société selon les modalités prévues à
+l'article 1668 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 N, 1668
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 8 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 46 quater-0 ZK
+
+La déclaration de résultats visée à l'article 53 A du code général des impôts comporte les éléments nécessaires au contrôle
+du résultat d'ensemble. Elle est souscrite en double exemplaire par chaque société membre du groupe, qui doit joindre en
+outre :
+
+La liste des sociétés membres du groupe défini à l'article 223 A du code général des impôts ; cette liste indique le taux de
+détention directe et indirecte par la société mère ;
+
+L'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 53 A, 223 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - TXT_ASSOCIE: Instruction 1995-03-24 4H-3-95
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+
+	**Créé par**:
+
+	  - Décret n°88-318 du 28 mars 1988 - art. 9 (V) JORF 8 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+
+
 ###### Article 46 quater-0 ZL
 
 La déclaration du résultat d'ensemble visée à l'article 223 Q du code général des impôts comprend les éléments nécessaires à
@@ -8565,6 +9618,178 @@ impositions complémentaires sont mises en recouvrement par voie de rôle dans l
 
 	  - Décret n°88-1001 1988-10-20
 	  - Décret n°95-1281 1995-12-11
+
+
+###### Article 46 quater-0 ZO
+
+Lorsqu'une société mère agréée en application de l'article  209 sexies du code général des impôts opte pour le régime de
+groupe défini à l'article 223 A de ce code, ses déficits reportables du point de vue fiscal à l'ouverture du premier exercice
+d'application de ce régime sont imputables sur ses bénéfices ultérieurs dans les conditions prévues aux troisième et
+quatrième alinéas du I de l'article 209 et à l'article 223 I du code déjà cité.
+
+Toutefois, si le montant du déficit déductible au titre d'un exercice en application de l'alinéa précédent est inférieur au
+pourcentage fixé ci-après du bénéfice d'ensemble déterminé après déduction du déficit d'ensemble des exercices antérieurs, la
+société mère peut imputer sur son résultat fiscal, à hauteur de la différence entre ce pourcentage de bénéfice et ce montant
+de déficit déductible, une fraction complémentaire des déficits mentionnés à l'alinéa précédent, autres que ceux imputables
+dans les conditions prévues au troisième alinéa du I de l'article 209 du même code.
+
+Le pourcentage mentionné à l'alinéa précédent est égal à un tiers pour le premier exercice d'application à la société mère
+visée au présent article du régime défini à l'article 223 A du code général des impôts. Il est augmenté d'un sixième pour
+chacun des quatre exercices suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 sexies, 223 A, 209 I, 223 I
+
+	**Créé par**:
+
+	  - Décret n°88-592 du 6 mai 1988 - art. 1 (V) JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+
+###### Article 46 quater-0 ZP
+
+Pour l'application des dispositions du a du 1 de l'article  223 G du code général des impôts, le bénéfice qu'une société mère
+agréée en application de l'article 209 sexies du même code a déclaré au titre des exercices précédant la date d'effet de
+l'option mentionnée à l'article 223 A de ce code s'entend du résultat de cette société, égal à la somme algébrique de son
+résultat propre et de ceux de ses filiales qui étaient assimilées à ses établissements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 sexies, 223 A, 223 G
+
+	**Créé par**:
+
+	  - Décret n°88-592 du 6 mai 1988 - art. 2 (V) JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20 Décret 96-556 1996-06-21
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°96-556 du 21 juin 1995 - art. 4 () JORF 23 février 1996
+	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 15 juillet 1988
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+
+
+###### Article 46 quater-0 ZQ
+
+Si une société mère agréée en application de l'article  209 sexies du code général des impôts opte pour le régime défini à
+l'article 223 A de ce code, le délai de cinq ans mentionné à l'article 223 J et au b du 6 de l'article 223 L du même code
+court pour cette société à compter de la date d'effet de l'option, même si cette date d'effet est antérieure au terme fixé
+initialement pour l'agrément délivré en application de l'article 209 sexies du code déjà cité. Cette même règle est
+applicable aux sociétés qui étaient assimilées, à la date d'effet de l'option, à des établissements de la société agréée et
+qui font partie à compter de cette date du groupe mentionné à l'article 223 A du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 209 sexies, 223 A, 223 J, 223 L
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 31 mars 2000
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+	  - PEREMPTION: Décret n°2000-477 du 2 juin 2000 - art. 3 () JORF du 3 juin 2000
+
+	**Créé par**:
+
+	  - Décret n°88-592 du 6 mai 1988 - art. 3 (V) JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2000-477 2000-06-02
+
+
+###### Article 46 quater-0 ZR
+
+En application de l'article 223 P du code général des impôts, lorsqu'une société mère agréée en application de l'article 209
+sexies de ce code opte pour le régime défini à l'article 223 A du même code au plus tard à l'expiration de la période
+couverte par la décision d'agrément, cette société doit, par exception aux dispositions du deuxième alinéa de l'article 223 M
+et du 1 de l'article 223 N de ce code :
+
+Acquitter l'imposition forfaitaire annuelle due, au titre de la première année d'application des dispositions de l'article
+223 A déjà cité, par les sociétés qui étaient assimilées à ses établissements et dont les résultats sont pris en compte pour
+la détermination du résultat du groupe mentionné à ce dernier article ;
+
+Déterminer le montant des acomptes prévus à l'article 1668 du code général des impôts, qu'elle est tenue de verser pour la
+période de douze mois ouverte à compter du début de l'exercice au titre duquel elle a opté pour le régime défini à l'article
+223 A du même code, d'après le résultat imposable pour l'application de l'article 209 sexies déjà cité au titre du dernier
+exercice placé sous ce régime.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 P, 209 sexies, 223 A, 223 M, 223 N
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Créé par**:
+
+	  - Décret n°88-592 du 6 mai 1988 - art. 4 (V) JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+
+###### Article 46 quater-0 ZS
+
+I. - Lorsqu'une société mère agréée en application de l'article 209 sexies du code général des impôts opte pour le régime
+défini à l'article 223 A de ce code, elle doit déclarer les plus-values ou moins-values afférentes aux cessions successives
+d'un même bien entre sociétés assimilées à des établissements de la société mère pour l'application de l'article 209 sexies
+déjà cité ou entre la société mère et les sociétés en cause, si ces plus-values ou moins-values n'ont pas été retenues pour
+la détermination du résultat ou de la plus-value ou moins-value nette à long terme.
+
+Cette déclaration, présentée sur un état conforme au modèle établi par l'administration, doit être jointe lors de la
+notification de l'option aux documents mentionnés à l'article 46 quater-0 ZD.
+
+II. - Le montant des plus-values ou des moins-values définies au I est compris dans le résultat ou plus-value ou moins-value
+nette à long terme d'ensemble de l'exercice de la première cession du bien à compter de la date d'effet de l'option ou de
+celui de la sortie du groupe de la société qui en est propriétaire, si cette sortie précède la cession.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 46 quater-0 ZD
+
+	**Créé par**:
+
+	  - Décret n°88-592 du 6 mai 1988 - art. 5 (V) JORF 8 mai 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 2
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -10167,6 +11392,36 @@ régionale à la formation professionnelle dont dépend l'entreprise. "
 	  - Décret n°88-1001 1988-10-20
 
 
+##### Section V bis : Crédit d'impôt pour dépenses de formation.
+
+###### Article 49 septies S
+
+La revalorisation des dépenses de formation prévue au I de l'article 244 quater C du code général des impôts est égale au
+pourcentage d'augmentation du montant des salaires versés par l'entreprise au cours de l'année au titre de laquelle le crédit
+d'impôt est calculé par rapport au montant des salaires de l'année précédente.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater C I
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 69 Finances pour 1988
+	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 30 mars 2007
+	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Créé par**:
+
+	  - Décret n°88-427 du 25 avril 1988 - art. 4 (V) JORF 26 avril 1988
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
+
+
 ##### Section VI : Indemnités de congé payé
 
 ###### Article 49 octies
@@ -10252,6 +11507,34 @@ utilisés par ceux-ci avant la date de la fusion ou sa date d'effet si les parti
 	**Créé par**:
 
 	  - Décret n°87-1029 du 22 décembre 1987 - art. 3 (V) JORF 24 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 (VT)
+
+
+###### Article 49 octies C
+
+Lorsqu'une entreprise soumise au régime défini au premier alinéa du 1° bis du 1 de l'article 39 du code général des impôts
+absorbe une entreprise qui a opté pour le régime prévu au deuxième alinéa du 1° bis du 1 du même article, l'indemnité qui
+correspond aux droits acquis et non utilisés par les salariés transférés à la date de l'opération, ou à sa date d'effet
+lorsque les parties lui ont donné un caractère rétroactif, n'est pas déductible pour la détermination du résultat imposable
+de la société apporteuse.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°86-1317 1986-12-30 art. 7, art. 8 Finances pour 1987
+	  - TXT_SOURCE: Loi n°86-1317 du 30 décembre 1986 - art. 7, v. init.
+
+	**Créé par**:
+
+	  - Décret n°87-1029 du 22 décembre 1987 - art. 4 (V) JORF 24 décembre 1987
 
 	**Codifié par**:
 
@@ -11269,6 +12552,119 @@ marchandises.
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
+
+
+##### D : Exportation
+
+###### Article 74
+
+1  Les livraisons réalisées par les assujettis et portant sur des objets ou marchandises exportés sont exonérées de la taxe
+sur la valeur ajoutée à condition, savoir :
+
+a  Que le fournisseur inscrive les envois sur le registre prévu à l'article 286-3° du code général des impôts, par ordre de
+date, avec l'indication de la date de l'inscription, du nombre des marques et numéros de colis, de l'espèce, de la valeur et
+de la destination des objets ou marchandises;
+
+b  Que la date d'inscription audit registre, ainsi que les marques et numéros des colis soient portés sur la pièce (titre de
+transport, bordereau, feuille de gros, etc.), qui accompagne l'envoi et soient consignés avec le nom de l'expéditeur sur la
+déclaration en douane par la personne chargée de présenter les objets ou marchandises pour l'exportation;
+
+c  Que le fournisseur établisse pour chaque envoi une déclaration d'exportation, conforme au modèle donné par
+l'administration, qui doit, après visa par le service des douanes du point de sortie, être mise à l'appui du registre visé au
+a.
+
+2  En ce qui concerne les exportations de perles fines (no 71-01 du tarif des douanes) et de pierres gemmes brutes ou
+taillées (no 71-02, 71-03, 85-22-10 et 91-14-20 du tarif des douanes), les bureaux de douane de Paris-Choron, de Saint-Claude
+(Jura), de Marseille-Port (Bouches-du-Rhône) et de Lyon-Port Rambaud (Rhône) sont seuls habilités à délivrer les déclarations
+d'exportations prévues au 1-c.
+
+Les exportations par la voie postale de pierres gemmes brutes ou taillées, de perles fines, de métaux précieux, de
+bijouterie, de joaillerie, d'orfèvrerie et d'autres ouvrages en métaux précieux, doivent, outre les formalités prévues au 1,
+faire l'objet d'une déclaration au bureau de garantie où, après vérification, le service assure, de concert avec les
+déclarants, la remise des boîtes et paquets à l'administration des postes.
+
+Pour les envois de toutes autres marchandises effectués par la poste, les fonctionnaires des postes peuvent, au moment du
+dépôt des plis, paquets ou boîtes, appeler le service local des douanes ou des impôts à procéder à la vérification du
+contenu, en présence de l'intéressé ou de son représentant. Les reçus de la poste doivent, en toute hypothèse, être rattachés
+au livre d'expédition tenu par l'exportateur.
+
+3  Les exportations effectuées par l'intermédiaire d'un commissionnaire sont exonérées de l'impôt à condition :
+
+a  Que les livraisons aux commissionnaires soient inscrites sur le registre cité à l'article 286-3° du code général des
+impôts par ordre de date avec indication :
+
+1° De la date de l'inscription;
+
+2° Des nom et adresse du commissionnaire récepteur;
+
+3° S'il y a lieu, du nombre, des marques et numéros des colis;
+
+4° De l'espèce et de la valeur des objets ou marchandises;
+
+5° Du nom et de la résidence de la personne pour le compte de laquelle les objets ou marchandises ont été livrés au
+commissionnaire ou à défaut, de la contre-marque ou de tout autre signe analogue servant au commissionnaire à désigner cette
+personne;
+
+b  Que le fournisseur délivre au commissionnaire une facture qui est conservée par celui-ci, contenant le détail et le prix
+des objets ou marchandises livrés, ainsi que l'indication, soit des nom et adresse de la personne pour le compte de laquelle
+les objets ou marchandises ont été livrés au commissionnaire, soit de la contre-marque ou de tout autre signe analogue
+servant au commissionnaire à désigner cette personne;
+
+c  Que le fournisseur mette à l'appui du registre prévu ou à la copie de la facture qui lui est envoyée par le
+commissionnaire après visa par le service des douanes du point de sortie.
+
+4  Les opérations de commission ou de courtage portant sur des objets ou marchandises exportés sont exemptes de l'impôt à la
+condition :
+
+a  Que le commissionnaire inscrive sur un registre spécialement affecté à cet usage, par ordre de date, les livraisons qu'il
+reçoit d'objets ou marchandises destinés à l'exportation, avec l'indication [*mentions*] :
+
+1° De la date de l'inscription;
+
+2° Des nom et adresse du négociant pour le compte duquel il agit;
+
+3° Du nombre et, s'il y a lieu, des marques et numéros des colis;
+
+4° De l'espèce et de la valeur des objets ou marchandises;
+
+b  Qu'il inscrive sur un autre registre spécialement affecté à cet usage, par ordre de date, les expéditions qu'il effectue
+avec l'indication de la date de l'inscription, du nombre, des marques et des numéros des colis, de l'espèce, de la valeur et
+de la destination des objets ou marchandises;
+
+c  Qu'il établisse, pour chaque expédition, une déclaration d'exportation conforme au modèle donné par l'administration, qui
+doit, après visa par le service des douanes du point de sortie, être mise à l'appui du registre visé au b;
+
+d  Qu'il renvoie au fournisseur une copie de sa facture, visée par le service des douanes du point de sortie;
+
+e  (Abrogé)
+
+4 bis  Toutes vérifications utiles sont effectuées à la sortie des objets ou marchandises par le service des douanes, et chez
+les fournisseurs et les commissionnaires exportateurs, par les agents du service compétent, auxquels doivent être représentés
+les registres et factures prescrits par le présent article ainsi que, le cas échéant, toutes autres pièces susceptibles de
+venir à l'appui des énonciations desdits documents.
+
+5  Les dispositions qui précèdent sont applicables aux expéditions faites pour l'avitaillement des navires pêcheurs et
+autres.
+
+6  (Abrogé)
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 286 3°
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+
+	**Cité par**:
+
+	  - Décret n°2015-1077 du 26 août 2015 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Règlement CEE 2658/87 1987-07-23 (conseil)
 
 
 ##### Section II : Assiette de la taxe
@@ -13412,6 +14808,51 @@ des alcools libérés du droit de consommation au taux maximal.
 
 
 ##### Section II : Vins et cidres
+
+##### A : Production
+
+##### Déclarations
+
+###### Article 169 bis
+
+1. Outre les énonciations prévues aux articles 407 et 408 du code général des impôts, à l'article 267 octies de l'annexe II
+audit code et à l'article 12 du code du vin, les déclarations prévues auxdits articles doivent indiquer : 
+
+1° Si l'exploitant désire commercialiser tout ou partie de sa production ou, au contraire, si celle-ci doit être réservée
+entièrement à la consommation familiale ; 
+
+2° Les modifications de structure, autres que celles résultant d'arrachages ou de plantations, intervenues dans le vignoble
+depuis la précédente déclaration ; 
+
+3° Pour les vins autres que ceux pour lesquels une appellation d'origine contrôlée est revendiquée, les titres alcoométriques
+volumiques ainsi que les quantités de vin obtenues correspondant à ces richesses alcooliques ; 
+
+4° Les quantités pour lesquelles le bénéfice de la dénomination " vins de pays " suivie du nom du département ou de la zone
+de production est revendiqué dans les conditions prévues aux décrets n° 79-755 et n° 79-756 du 4 septembre 1979 modifié. 
+
+Dans ce cas, une déclaration donnant la consistance de l'encépagement de l'exploitation est annexée à la déclaration prévue à
+l'article 407 du code général des impôts. 
+
+2. En application des dispositions de l'article 33 du décret n° 64-902 du 31 août 1964, la délivrance des titres de mouvement
+peut être refusée au producteur en cas d'infraction aux prescriptions du 1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°64-902 du 31 août 1964 - art. 33
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 267 octies
+	  - Code général des impôts, CGI. - art. 407
+	  - Code du vin - art. 12
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1577 du 2 décembre 2015 - art. 5
+
 
 ##### B : Régime fiscal
 
@@ -16341,6 +17782,31 @@ obligatoirement soumis à la formalité fusionnée.
 ##### II : Des impositions
 
 ##### Assiette et liquidation
+
+###### Article 261
+
+Pour la perception du droit ou de la taxe proportionnels ou du droit progressif et des taxes proportionnelles de toute nature
+prévues par :
+
+1° Les chapitres I, III, et IV du titre IV de la première partie du livre Ier du code général des impôts (impôts d'Etat) ;
+
+2° Le chapitre III du titre I de la deuxième partie du livre Ier du même code (impositions communales) ;
+
+3° Le chapitre III du titre II de la deuxième partie du livre Ier du même code (impositions départementales) ;
+
+3° bis Le chapitre II  du titre II bis de la deuxième partie du livre Ier du même code (impositions régionales) ;
+
+4° Le chapitre III du titre III de la deuxième partie du livre Ier du même code (impositions perçues au profit de certains
+établissements publics et d'organismes divers) ; il est fait abstraction des fractions de sommes et valeurs inférieures à 10
+F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-1001 1988-10-20
+	  - Décret n°99-382 1999-05-18
+
 
 ###### Article 263
 
