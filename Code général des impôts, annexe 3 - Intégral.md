@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1978-01-24
+Version Consolidée au 1978-04-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -153,6 +153,38 @@ II. (Devenu sans objet).
 	**Modifié par**:
 
 	  - Loi n°77-1468 du 30 décembre 1977 - art. 1 (V) JORF 31 décembre 1977
+
+
+## Deuxième partie : Impositions perçues au profit des collectivités locales et de divers organismes
+
+### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
+
+#### Chapitre II : Contributions indirectes
+
+##### Section I ter : Taxe sur les farines, semoules et gruaux de blé tendre perçue au profit du budget annexe des prestations sociales agricoles.
+
+###### Article 333 H
+
+Les farines, semoules et gruaux exportés ainsi que les farines utilisées pour la fabrication d'amidon sont exonérés de la
+taxe visée à l'article 1618 septies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1618 septies
+
+	**Créé par**:
+
+	  - Décret n°78-525 1978-03-20 art. 1 JORF 7 avril 1978 rectificatif JORF 24 juin 1978
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°90-1169 du 29 décembre 1990 - art. 50 (V) JORF 30 décembre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°91-866 du 4 septembre 1991 - art. 5 () JORF 6 septembre 1991
 
 
 # Livre II : Recouvrement de l'impôt
