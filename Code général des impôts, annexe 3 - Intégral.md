@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1986-05-22
+Version Consolidée au 1986-07-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19155,6 +19155,37 @@ d'assurances et sous leur responsabilité.
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
+
+
+##### Section III : Taxe perçue au profit de l'office des migrations internationales.
+
+###### Article 344 bis
+
+Conformément à l'article D 341-1 du code du travail, le montant de la taxe prévue à l'article 1635 bis du code général des
+impôts est perçu lors de la remise d'un titre de séjour valant autorisation de travail ou portant mention de celle-ci à un
+étranger titulaire d'un tel titre et en remplacement de celui-ci.
+
+Les changements de validité professionnelle ou géographique sur la carte de séjour temporaire portant la mention "salarié" ne
+donnent pas lieu à la perception de la taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1635 bis
+	  - Code du travail - art. D341-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°86-810 1986-07-07 art. 1 JORF 9 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
