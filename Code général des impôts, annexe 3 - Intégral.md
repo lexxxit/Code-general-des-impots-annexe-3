@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1984-05-27
+Version Consolidée au 1984-07-15
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -509,9 +509,16 @@ Le recouvrement en est effectué pour le compte du fonds de garantie par les soc
 1. Les taux des contributions destinées à l'alimentation du fonds de garantie pour l'indemnisation des victimes d'accidents
 corporels de chasse sont les suivants :
 
-Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie.
+a. Contribution des entreprises d'assurances : 10 % de la totalité des charges du fonds de garantie ;
 
-Contribution forfaitaire des assurés : 1,50 F par personne garantie.
+b. Contribution des  responsables d'accidents corporels non assurés :
+
+Taux normal : 10% des indemnités restant à leur charge ;
+
+Taux réduit lorsque l'accident résulte d'une opération de destruction des animaux nuisibles effectuée en vertu des articles
+393 à 395 du code rural : 5% ;
+
+c. Contribution forfaitaire des assurés : 1,50 F par personne garantie.
 
 2. Le versement d'acomptes sur leur contribution peut être demandé aux sociétés d'assurances par le fonds de garantie.
 
@@ -520,13 +527,13 @@ d'assurances et sous leur responsabilité.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°83-483 1983-06-09 art. 1 JORF 14 juin 1983
-
 	**Codifié par**:
 
-	  - Décret n°83-899 1983-10-06
+	  - Décret n°85-1007 1985-09-24
+
+	**Modifié par**:
+
+	  - Décret n°85-1007 1985-09-24 : code des assurances R420-40
 
 
 #### TAXE PERCUE AU PROFIT DE L'OFFICE NATIONAL D'IMMIGRATION.
