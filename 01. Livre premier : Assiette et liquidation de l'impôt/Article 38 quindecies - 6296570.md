@@ -48,16 +48,26 @@ b) Détenus sur toute la période couverte par l'exercice ;
 
 c) Le cas échéant, cédés au cours de l'exercice.
 
+IV. - L'état dont la production est prévue au deuxième alinéa de l'article 221 bis du code général des impôts doit mentionner
+pour chacune des immobilisations qui fait l'objet d'une réévaluation lors du premier exercice au titre duquel l'option a été
+exercée :
+
+1° La valeur comptable ;
+
+2° La valeur fiscale servant pour le calcul du résultat imposable de cessions ultérieures ;
+
+3° La valeur réévaluée.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 54 septies
+	  - CGI 54 septies, 221 bis
 
 	**Modifié par**:
 
-	  - Décret n°2000-740 du 1 août 2000 - art. 1 () JORF 4 août 2000
+	  - Décret n°2003-645 du 11 juillet 2003 - art. 1 () JORF 13 juillet 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 août 2003

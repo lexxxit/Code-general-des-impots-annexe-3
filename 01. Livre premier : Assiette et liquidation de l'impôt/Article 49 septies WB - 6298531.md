@@ -5,7 +5,7 @@ annexée à la déclaration de résultat de l'exercice ou de la période d'impos
 investissements.
 
 L'option prévue au premier alinéa du II de l'article 244 quater E précité est réputée exercée au moment du dépôt de la
-déclaration spéciale mentionnée à l'alinéa précédent au titre du premier exercice ou de la première période d'imposition au
+déclaration spéciale mentionnée au premier alinéa au titre du premier exercice ou de la première période d'imposition au
 cours de laquelle un investissement éligible au crédit d'impôt pour investissement en Corse est réalisé.
 
 **Liens relatifs à cet article**
@@ -14,10 +14,14 @@ cours de laquelle un investissement éligible au crédit d'impôt pour investiss
 
 	  - CGI 244 quater E
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+	  - Décret n°2003-933 2003-09-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-933 du 30 septembre 2003 - art. 3 () JORF 2 octobre 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2003

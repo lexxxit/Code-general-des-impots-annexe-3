@@ -17,7 +17,7 @@ d) Le nombre des titres souscrits, le montant et la date de leur souscription ;
 e) La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de
 capital.
 
-Cet état doit préciser que la société remplit les conditions mentionnées aux a, b et c du I de l'article 199 terdecies-0 A du
+Cet état doit préciser que la société remplit les conditions mentionnées aux c, d et e du I de l'article 199 terdecies-0 A du
 code général des impôts.
 
 II. Pour bénéficier de la réduction d'impôt, le contribuable joint à sa déclaration de revenus les documents qui lui ont été
@@ -40,14 +40,14 @@ apports en numéraire.
 
 	  - CGI 199 terdecies-0 A
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Loi n°2003-721 du 1 août 2003 - art. 29 (V) JORF 5 août 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2003

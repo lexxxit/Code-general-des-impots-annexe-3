@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2003-07-13
+Version Consolidée au 2003-08-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -360,7 +360,7 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 ###### Article 2 duodecies A
 
-Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
+Pour l'application du quatrième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
 a. Pour les baux conclus, reconduits ou renouvelés entre le 1er janvier 2003 et le 31 décembre 2003, les plafonds de loyer
@@ -446,13 +446,13 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	  - CGI 31, 2 duodecies, 1417, 196 à 196 B
 
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
 	**Modifié par**:
 
-	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
+	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
 
 
 ###### Article 2 novodecies
@@ -504,7 +504,7 @@ impôts est constaté lors du dépôt de la déclaration des revenus de l'année
 les revenus peuvent bénéficier de la déduction forfaitaire majorée ou, si elle est postérieure, de l'année au cours de
 laquelle les parts ont été acquises.
 
-L'engagement de conservation des titres prévu au cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts
+L'engagement de conservation des titres prévu au quatrième alinéa du e du 1° du I de l'article 31 du code général des impôts
 est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
 pour la première fois à la déduction forfaitaire majorée.
 
@@ -533,18 +533,17 @@ mentionné au II de l'article 2 septdecies.
 	  - CGI 31
 	  - CGIAN3 2 septdecies
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
+
 	**Modifié par**:
 
-	  - Loi - art. 9 (V) JORF 31 décembre 2002
-	  - Loi n°2002-1575 2002-12-30 art. 9 I, II Finances pour 2003 JORF 31 décembre 2002
+	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
 
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
+	  - Décret n°2003-933 2003-09-30
 
 
 ###### Article 2 quaterdecies
@@ -601,7 +600,7 @@ titre de l'avant-dernière année précédant celle de la signature du contrat d
 
 ###### Article 2 quaterdecies A
 
-I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables
+I. - Pour l'application du quatrième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables
 sont tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle la location ouvre droit pour la première
 fois à la déduction forfaitaire majorée :
 
@@ -633,18 +632,22 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 
 	  - CGI 31, 2 duodecies
 
-	**Créé par**:
-
-	  - Décret n°2002-1296 du 24 octobre 2002 - art. 1 () JORF 27 octobre 2002
-
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
 
 
 ###### Article 2 quaterdecies B
 
-Pour l'application des deuxième et cinquième alinéas du e du 1° du I de l'article 31 du code général des impôts, les
+Pour l'application des deuxième et quatrième alinéas du e du 1° du I de l'article 31 du code général des impôts, les
 logements doivent répondre aux normes définies par le décret n° 2002-120 du 30 janvier 2002.
 
 **Liens relatifs à cet article**
@@ -654,13 +657,17 @@ logements doivent répondre aux normes définies par le décret n° 2002-120 du 
 	  - CGI 31
 	  - Décret n°2002-120 2002-01-30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1296 2002-10-24 art. 1 C JORF 27 octobre 2002
+	  - loi 2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 2 quindecies
@@ -929,8 +936,8 @@ départ des lieux de l'ascendant ou descendant du contribuable.
 
 ###### Article 2 sexdecies-0 A
 
-I. - Pour l'application du sixième alinéa du e du 1° du I de l'article 31 du code général des impôts, les conditions prévues
-au cinquième alinéa du e du 1° du I du même article s'apprécient en tenant compte du montant :
+I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les conditions
+prévues au quatrième alinéa du e du 1° du I du même article s'apprécient en tenant compte du montant :
 
 a. Du loyer payé au bailleur par l'organisme sans but lucratif locataire ;
 
@@ -962,19 +969,23 @@ l'engagement de location mentionné au d du 1° du I de l'article 2 quaterdecies
 	  - CGI 31
 	  - CGIAN3 2 quaterdecies A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1296 du 24 octobre 2002 - art. 1 () JORF 27 octobre 2002
+	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 2 sexdecies-0 A bis
 
-Les modalités de l'agrément prévu au sixième alinéa du e du 1° du I de l'article 31 du code général des impôts sont celles de
-l'article 58-0 A.
+Les modalités de l'agrément prévu au cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts sont celles
+de l'article 58-0 A.
 
 **Liens relatifs à cet article**
 
@@ -982,13 +993,17 @@ l'article 58-0 A.
 
 	  - CGI 31 I 1° e, 58-0 A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-262 du 17 mars 2003 - art. 1 () JORF 22 mars 2003
+	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 2 terdecies
@@ -4188,19 +4203,29 @@ b) Détenus sur toute la période couverte par l'exercice ;
 
 c) Le cas échéant, cédés au cours de l'exercice.
 
+IV. - L'état dont la production est prévue au deuxième alinéa de l'article 221 bis du code général des impôts doit mentionner
+pour chacune des immobilisations qui fait l'objet d'une réévaluation lors du premier exercice au titre duquel l'option a été
+exercée :
+
+1° La valeur comptable ;
+
+2° La valeur fiscale servant pour le calcul du résultat imposable de cessions ultérieures ;
+
+3° La valeur réévaluée.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 54 septies
+	  - CGI 54 septies, 221 bis
 
 	**Modifié par**:
 
-	  - Décret n°2000-740 du 1 août 2000 - art. 1 () JORF 4 août 2000
+	  - Décret n°2003-645 du 11 juillet 2003 - art. 1 () JORF 13 juillet 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 août 2003
 
 
 ##### N : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 54 octies du code général des impôts
@@ -10472,7 +10497,7 @@ d) Le nombre des titres souscrits, le montant et la date de leur souscription ;
 e) La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de
 capital.
 
-Cet état doit préciser que la société remplit les conditions mentionnées aux a, b et c du I de l'article 199 terdecies-0 A du
+Cet état doit préciser que la société remplit les conditions mentionnées aux c, d et e du I de l'article 199 terdecies-0 A du
 code général des impôts.
 
 II. Pour bénéficier de la réduction d'impôt, le contribuable joint à sa déclaration de revenus les documents qui lui ont été
@@ -10495,17 +10520,17 @@ apports en numéraire.
 
 	  - CGI 199 terdecies-0 A
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Loi n°2003-721 du 1 août 2003 - art. 29 (V) JORF 5 août 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 31 août 2003
 
 
 ##### 6° : Réduction d'impôt au titre des souscriptions de parts de fonds communs de placement dans l'innovation
@@ -11071,6 +11096,44 @@ elles dans le cadre d'une convention publique d'aménagement prévue à l'articl
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
+
+
+##### Section 0I bis : Exonération édictée en faveur des sociétés d'investissements immobiliers cotées
+
+###### Article 46 ter A
+
+I. - L'option mentionnée au II de l'article 208 C du code général des impôts est notifiée sur papier libre ou par voie
+électronique au service des impôts auprès duquel est souscrite la déclaration de résultat.
+
+La société d'investissements immobiliers cotée doit, lors de la notification de l'option, fournir la liste de ses filiales
+qui optent en indiquant leur dénomination, l'adresse de leur siège social, le numéro SIRET et la répartition de leur capital.
+Cette liste, mise à jour, doit être fournie chaque année lors du dépôt de la déclaration de résultat.
+
+Les filiales doivent indiquer, lors de la notification de leur option et du dépôt des déclarations de résultats ultérieurs,
+le nom, l'adresse du siège social et le numéro SIRET de la société d'investissements immobiliers cotée.
+
+L'engagement prévu au deuxième alinéa de l'article 221 bis du même code figure dans l'option souscrite dans les conditions
+visées au premier alinéa.
+
+II. - La société d'investissements immobiliers cotée et ses filiales qui ont opté conformément au premier alinéa du I doivent
+joindre à leur déclaration de résultat un état, conforme au modèle établi par l'administration, qui fait apparaître la
+décomposition de leur résultat fiscal et de celui des organismes visés à l'article 8 du code général des impôts selon les
+opérations visées aux deuxième, troisième et quatrième alinéas du II de l'article 208 C du code précité ainsi que les
+obligations de distribution y afférentes et le respect des obligations antérieures.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208 C, 221 bis, 8
+
+	**Créé par**:
+
+	  - Décret n°2003-645 du 11 juillet 2003 - art. 1 () JORF 13 juillet 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
 
 
 ##### Section I bis : Entreprises créées en Corse
@@ -13613,6 +13676,30 @@ modèle établi par l'administration.
 	  - Code général des impôts, CGI. - art. 219 (V)
 
 
+##### Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées
+
+###### Article 46 quater-0 ZZ bis B
+
+La société d'investissements immobiliers cotée et ses filiales qui ont opté pour l'exonération de l'impôt sur les sociétés en
+application du II de l'article 208 C du code général des impôts doivent joindre à leur déclaration visée au 3 de l'article
+201 du code général des impôts un détail des plus-values sur immeubles et parts des organismes visés à l'article 8 du code
+précité soumises à la taxation prévue au IV de l'article 219 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208 C, 201, 8, 219
+
+	**Créé par**:
+
+	  - Décret n°2003-645 du 11 juillet 2003 - art. 1 () JORF 13 juillet 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
+
+
 ##### Section XIII : Déduction des investissements réalisés outre-mer
 
 ###### Article 46 quater-0 ZZ ter
@@ -15827,7 +15914,7 @@ annexée à la déclaration de résultat de l'exercice ou de la période d'impos
 investissements.
 
 L'option prévue au premier alinéa du II de l'article 244 quater E précité est réputée exercée au moment du dépôt de la
-déclaration spéciale mentionnée à l'alinéa précédent au titre du premier exercice ou de la première période d'imposition au
+déclaration spéciale mentionnée au premier alinéa au titre du premier exercice ou de la première période d'imposition au
 cours de laquelle un investissement éligible au crédit d'impôt pour investissement en Corse est réalisé.
 
 **Liens relatifs à cet article**
@@ -15836,13 +15923,17 @@ cours de laquelle un investissement éligible au crédit d'impôt pour investiss
 
 	  - CGI 244 quater E
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2003-139 du 14 février 2003 - art. 1 () JORF 21 février 2003
+	  - Décret n°2003-933 2003-09-30
+
+	**Modifié par**:
+
+	  - Décret n°2003-933 du 30 septembre 2003 - art. 3 () JORF 2 octobre 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 49 septies WC
@@ -17466,16 +17557,22 @@ livrés, majorée de la soulte.
 
 ###### Article 77
 
-1. Les redevables qui effectuent des opérations passibles de la taxe sur la valeur ajoutée pour lesquelles le fait générateur
-est constitué par l'encaissement du prix ou de la rémunération et qui entendent acquitter cette taxe d'après les débits
-doivent en faire la demande auprès du service des impôts dont ils relèvent pour son paiement.
+Les redevables qui effectuent des opérations passibles de la taxe sur la valeur ajoutée lors de l'encaissement du prix ou de
+la rémunération et qui entendent acquitter cette taxe d'après les débits doivent en faire la demande auprès du service des
+impôts dont ils relèvent pour son paiement.
 
 L'autorisation qui leur est accordée s'applique à l'ensemble des opérations réalisées ; elle demeure valable tant que les
 redevables n'expriment pas, par demande écrite, leur désir de revenir au régime du paiement d'après les encaissements.
 
-2. Les redevables autorisés dans les conditions visées ci-dessus à acquitter la taxe sur la valeur ajoutée d'après leurs
-débits doivent en faire mention sur les factures qu'ils délivrent à leurs clients.
+**Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2003-659 du 18 juillet 2003 - art. 1 () JORF 20 juillet 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
 
 
 ##### II : Entrepreneurs de travaux immobiliers
@@ -17549,13 +17646,21 @@ activité, dans les quinze jours de leur installation ou du commencement de leur
 
 Pour bénéficier de l'option, l'entrepreneur doit mentionner expressément, dans les contrats établis pour les marchés en
 cause, qu'il a opté pour le paiement de la taxe sur la valeur ajoutée lors de la livraison des travaux immobiliers et
-reproduire cette mention sur toutes les factures ou mémoires afférents à ces marchés.
+reproduire cette mention sur tous les mémoires afférents à ces marchés.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-659 du 18 juillet 2003 - art. 1 () JORF 20 juillet 2003
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 82 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 81
@@ -18583,9 +18688,74 @@ Ils doivent conserver les bandes de contrôle pendant six ans et les présenter 
 
 ###### Article 96 F
 
-Les informations mentionnées au deuxième alinéa du I de l'article 289 bis du code général des impôts sont restituables sur
-écran, sur support informatique ou sur papier à la demande de l'administration. La restitution porte sur l'intégralité des
-informations émises et reçues, qu'elles soient obligatoires ou facultatives.
+I. - 1. a. Les factures émises dans les conditions visées au premier alinéa du V de l'article 289 du code général des impôts
+tiennent lieu de factures d'origine lorsque l'authenticité de leur origine et l'intégrité de leur contenu sont garanties au
+moyen d'une signature électronique.
+
+La signature électronique est une donnée sous forme électronique qui est jointe ou liée logiquement à d'autres données
+électroniques et qui sert de méthode d'authentification du signataire et de l'origine des informations.
+
+Le signataire est celui qui détient et met en oeuvre le moyen de création de la signature électronique. Il peut s'agir d'une
+personne morale, auquel cas la signature électronique est produite automatiquement lors de l'envoi des factures, ou d'une
+personne physique émettant les factures après les avoir signées en son nom pour le compte de l'entreprise.
+
+b. La signature électronique doit satisfaire aux exigences suivantes :
+
+1° Etre propre au signataire ;
+
+2° Permettre d'identifier le signataire ;
+
+3° Etre créée par des moyens que le signataire puisse garder sous son contrôle exclusif ;
+
+4° Garantir le lien avec les factures auxquelles elle s'attache, de telle sorte que toute modification ultérieure de ces
+factures soit détectable.
+
+c. La signature électronique repose sur un certificat électronique qui est délivré par un prestataire de service de
+certification. Ce certificat comporte :
+
+1° Les informations identifiant de manière univoque le possesseur de la clé publique liée à la signature électronique ;
+
+2° La clé publique du signataire ;
+
+3° La période de validité du certificat ;
+
+4° Un numéro de série unique ;
+
+5° La signature électronique du prestataire de service de certification qui assure l'authentification de la clé et
+l'intégrité des informations contenues dans le certificat.
+
+Le certificat électronique attaché à la signature électronique est communiqué au destinataire des factures.
+
+2. L'entreprise destinataire des factures vérifie la signature électronique apposée sur les factures au moyen des données de
+vérification contenues dans le certificat électronique. Elle s'assure également de l'authenticité et de la validité du
+certificat attaché à la signature électronique.
+
+3. Les factures, la signature électronique à laquelle elles sont liées ainsi que le certificat électronique y attaché sont
+conservés dans leur contenu originel par l'entreprise chargée de s'assurer qu'une facture est émise au sens du I de l'article
+289 du code général des impôts et par l'entreprise destinataire de ces factures, dans les conditions et dans les délais fixés
+par l'article L. 102 B du livre des procédures fiscales.
+
+4. Les informations émises et reçues doivent être identiques. Sur demande de l'administration, elles sont restituées en
+langage clair par l'entreprise chargée de s'assurer qu'une facture est émise au sens du I de l'article 289 du code général
+des impôts. Elles sont, en outre, restituées dans les mêmes conditions par l'entreprise destinataire de ces factures.
+
+Les informations mentionnées au premier alinéa sont restituables sur écran, sur support informatique ou sur papier à la
+demande de l'administration. La restitution porte sur l'intégralité des informations émises et reçues, qu'elles soient
+obligatoires ou facultatives.
+
+Les données sont restituées lisiblement en mode caractères, en langage clair et intelligible.
+
+5. Les assujettis qui émettent ou s'assurent que sont émises en leur nom et pour leur compte des factures sécurisées au moyen
+d'une signature électronique en informent l'administration en joignant à leur déclaration de résultats ou de bénéfices un
+état mentionnant les éléments suivants :
+
+a. Les coordonnées du service responsable de la transmission des factures ;
+
+b. Le nom du logiciel de signature et sa version.
+
+II. Les informations mentionnées au deuxième alinéa du I de l'article 289 bis du code général des impôts sont restituables
+sur écran, sur support informatique ou sur papier à la demande de l'administration. La restitution porte sur l'intégralité
+des informations émises et reçues, qu'elles soient obligatoires ou facultatives.
 
 La restitution doit pouvoir être opérée de manière sélective, notamment en fonction des informations que la liste
 récapitulative mentionnée au III de l'article 289 bis du code général des impôts doit comporter.
@@ -18596,16 +18766,16 @@ Les données sont restituées lisiblement en mode caractères, en langage clair 
 
 	**Cite**:
 
-	  - CGI 289 bis
+	  - CGI 289, 289 bis
+	  - Livre des procédures fiscales - art. L102 B (M)
 
 	**Modifié par**:
 
-	  - Décret n°99-337 du 3 mai 1999 - art. 1 () JORF 4 mai 1999
+	  - Décret n°2003-659 du 18 juillet 2003 - art. 1 () JORF 20 juillet 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
+	  - HISTO: Edition du 31 août 2003
 
 
 ###### Article 96 H
@@ -18889,6 +19059,42 @@ Cette déclaration, souscrite auprès de l'administration des douanes, comporte 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 L (V)
 
 
+##### Section VII bis : Identification des assujettis non établis dans la Communauté européenne fournissant des services par voie électronique
+
+###### Article 97 bis
+
+Le numéro individuel d'identification prévu au 3 de l'article 298 sexdecies F du code général des impôts est composé de
+l'acronyme " EU ", suivi de trois chiffres propres à l'Etat membre d'identification, des cinq chiffres de l'identifiant
+unique et d'un chiffre clef.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-658 du 18 juillet 2003 - art. 2 () JORF 20 juillet 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+
+
+###### Article 97 ter
+
+Lorsque l'administration le radie du registre d'identification dans les cas prévus au 4 de l'article 298 sexdecies F du code
+général des impôts, l'assujetti non établi dans la Communauté en est informé par voie électronique. Cette information reprend
+les motifs de la radiation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-658 du 18 juillet 2003 - art. 2 () JORF 20 juillet 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+
+
 ##### Section VIII : Régimes spéciaux
 
 ##### II : Biens d'occasion, oeuvres d'art, objets de collection et d'antiquité
@@ -18972,6 +19178,39 @@ d. Le cours de l'or fin sur le marché libre au jour de la livraison.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 298 sexdecies A (V)
+
+
+##### IV : Services fournis par voie électronique
+
+###### Article 98 C
+
+Sont considérés comme des services fournis par voie électronique au sens du 12° de l'article 259 B du code général des
+impôts : 
+
+a. La fourniture et l'hébergement de sites informatiques, la maintenance à distance de programmes et d'équipement ; 
+
+b. La fourniture de logiciels et la mise à jour de ceux-ci ; 
+
+c. La fourniture d'images, de textes et d'informations et la mise à disposition de bases de données ; 
+
+d. La fourniture de musique, de films et de jeux, y compris les jeux de hasard ou d'argent, et d'émissions ou de
+manifestations politiques, culturelles, artistiques, sportives, scientifiques ou de divertissement ; 
+
+e. La fourniture de services d'enseignement à distance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-658 du 18 juillet 2003 - art. 1 () JORF 20 juillet 2003
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 259 B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
 
 
 ##### Section IX : Exploitants agricoles
@@ -21854,10 +22093,10 @@ les vins traités est admise en décharge pour l'assiette du droit de circulatio
 Les entrepositaires agréés, les importateurs et les personnes qui réalisent des acquisitions intracommunautaires, redevables
 du droit de circulation dans les conditions visées à l'article 302 D du code général des impôts, ne peuvent bénéficier du
 tarif prévu pour les vins visés au a bis du 2° de l'article 438 du même code obtenus conformément aux dispositions prévues
-par les règlements communautaires 822/87/CEE et 823/87/CEE du 16 mars 1987 qu'après justification auprès du bureau de
-déclaration de la direction générale des douanes et droits indirects que l'alcool contenu dans le produit résulte entièrement
-d'une fermentation et que le produit n'a fait l'objet d'aucun enrichissement, même si celui-ci est autorisé dans les
-conditions prévues à l'article 18 du règlement 822/87/CEE et au 2 de l'article 8 du règlement 823/87/CEE.
+par le règlement n° 1493/1999 du Conseil du 17 mai 1999 qu'après justification auprès du bureau de déclaration de la
+direction générale des douanes et droits indirects que l'alcool contenu dans le produit résulte entièrement d'une
+fermentation et que le produit n'a fait l'objet d'aucun enrichissement, même si celui-ci est autorisé dans les conditions
+prévues au C de l'annexe V et aux 2, 3, et 4 du F de l'annexe VI au règlement n° 1493/1999 précité.
 
 Est considéré comme justificatif tout document attestant du respect des conditions précitées, émanant d'une autorité
 administrative chargée du contrôle des modes de production et d'élaboration des produits viti-vinicoles dans l'Etat de
@@ -21868,20 +22107,15 @@ production.
 	**Cite**:
 
 	  - CGI 438, 302 D
-	  - Règlement CEE 822/87 1987-03-16 art. 18 (conseil)
-	  - Règlement CEE 823/87 1987-03-16 art. 8 (conseil)
-
-	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Règlement CE 1493/1999 1999-05-17 (conseil)
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2003-933 2003-09-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 août 2003
 
 
 ##### Section V : Régimes particuliers
@@ -30155,6 +30389,31 @@ septembre de chaque année.
 
 ##### Section III : Taxes perçues au profit de l'Office des migrations internationales
 
+###### Article 344 bis
+
+Conformément à l'article D 341-1 du code du travail, le montant de la taxe prévue à l'article 1635 bis du code général des
+impôts est perçu lors de la remise d'un titre de séjour valant autorisation de travail ou portant mention de celle-ci à un
+étranger titulaire d'un tel titre et en remplacement de celui-ci.
+
+Les changements de validité professionnelle ou géographique sur la carte de séjour temporaire portant la mention "salarié" ne
+donnent pas lieu à la perception de la taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1635 bis
+	  - Code du travail - art. D341-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2003-356 du 17 avril 2003 - art. 1 () JORF 18 avril 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
+
+
 ###### Article 344 quater
 
 Le montant de la taxe prévue à l'article 1635-0 bis du code général des impôts est fixé à 220 Euros. Ce montant est de 55
@@ -30169,6 +30428,50 @@ Euros pour les étrangers auxquels est délivrée une carte de séjour temporair
 	**Créé par**:
 
 	  - Décret n°2003-356 du 17 avril 2003 - art. 1 () JORF 18 avril 2003
+
+
+###### Article 344 quinquies
+
+Les taxes sont acquittées au moyen de timbres mobiles d'un modèle spécial, dont l'administration assure la fabrication et la
+vente.
+
+Les dépenses relatives à l'impression, à l'approvisionnement et à la débite de ces timbres sont à la charge de l'office des
+migrations internationales et sont réglées par un prélèvement sur le produit des ventes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-356 du 17 avril 2003 - art. 2 () JORF 18 avril 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
+
+
+###### Article 344 ter
+
+Le montant de la taxe prévue à l'article 1635 bis du code général des impôts est fixé à 55 euros.
+
+Les ressortissants des Etats parties contractantes à la Charte sociale européenne sont exonérés du versement de cette taxe.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1635 bis
+
+	**Modifié par**:
+
+	  - Décret n°2003-356 du 17 avril 2003 - art. 1 () JORF 18 avril 2003
+
+	**Cité par**:
+
+	  - Code du travail - art. D5221-38 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties

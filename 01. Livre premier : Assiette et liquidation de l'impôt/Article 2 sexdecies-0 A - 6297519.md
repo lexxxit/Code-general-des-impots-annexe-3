@@ -1,7 +1,7 @@
 # Article 2 sexdecies-0 A
 
-I. - Pour l'application du sixième alinéa du e du 1° du I de l'article 31 du code général des impôts, les conditions prévues
-au cinquième alinéa du e du 1° du I du même article s'apprécient en tenant compte du montant :
+I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les conditions
+prévues au quatrième alinéa du e du 1° du I du même article s'apprécient en tenant compte du montant :
 
 a. Du loyer payé au bailleur par l'organisme sans but lucratif locataire ;
 
@@ -33,10 +33,14 @@ l'engagement de location mentionné au d du 1° du I de l'article 2 quaterdecies
 	  - CGI 31
 	  - CGIAN3 2 quaterdecies A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1296 du 24 octobre 2002 - art. 1 () JORF 27 octobre 2002
+	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 31 août 2003

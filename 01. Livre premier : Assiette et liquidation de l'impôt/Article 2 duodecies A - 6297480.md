@@ -1,6 +1,6 @@
 # Article 2 duodecies A
 
-Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
+Pour l'application du quatrième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
 a. Pour les baux conclus, reconduits ou renouvelés entre le 1er janvier 2003 et le 31 décembre 2003, les plafonds de loyer
@@ -86,10 +86,10 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	  - CGI 31, 2 duodecies, 1417, 196 à 196 B
 
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
 	**Modifié par**:
 
-	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
+	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-933 2003-09-30
