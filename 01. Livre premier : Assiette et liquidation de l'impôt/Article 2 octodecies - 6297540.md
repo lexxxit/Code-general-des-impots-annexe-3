@@ -9,9 +9,9 @@ L'engagement de conservation des titres prévu au quatrième alinéa du e du 1°
 est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
 pour la première fois à la déduction forfaitaire majorée.
 
-L'engagement de conservation des titres prévu au dixième alinéa du g du 1° du I de l'article précité est constaté lors du
-dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si elle est
-postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de
+L'engagement de conservation des titres prévu au dixième alinéa du g et h du 1° du I de l'article précité est constaté lors
+du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si elle
+est postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de
 l'amortissement des dépenses de reconstruction et d'agrandissement, l'engagement de conservation des titres doit être joint à
 la déclaration des revenus de l'année d'achèvement des travaux. L'engagement de conservation des titres formulé par le
 conjoint survivant doit être joint à la déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son
@@ -34,14 +34,10 @@ mentionné au II de l'article 2 septdecies.
 	  - CGI 31
 	  - CGIAN3 2 septdecies
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
-
 	**Modifié par**:
 
-	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2003-933 2003-09-30
+	  - HISTO: Edition du 1er janvier 2004

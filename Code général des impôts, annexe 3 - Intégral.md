@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2003-11-22
+Version Consolidée au 2003-12-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -222,14 +222,13 @@ montant, ainsi que la désignation des immeubles sur lesquels ils sont réalisé
 Pour l'application du deuxième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2003, les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 11,4 euros par mètre carré en zone I bis, 9,8 euros en zone I, 6,2 euros en zone II et 5,7 euros en zone III.
-Les plafonds sont relevés chaque année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre
-trimestres de l'indice national mesurant le coût de la construction publiée par l'Institut national de la statistique et des
-études économiques. La moyenne mentionnée ci-dessus est celle du dernier indice connu à la date de référence et des indices
-des trois trimestres qui précèdent.
+a) Pour les baux conclus entre le 3 avril et le 31 décembre 2003, les plafonds de loyer mensuel, charges non comprises, sont
+fixés à 14,4 Euros par mètre carré en zone A, 9,4 Euros en zone B et 6,8 Euros en zone C. Les plafonds sont relevés chaque
+année, au 1er janvier, dans la même proportion que la variation de la moyenne sur quatre trimestres de l'indice national
+mesurant le coût de la construction publiée par l'Institut national de la statistique et des études économiques. La moyenne
+mentionnée ci-dessus est celle des quatre derniers indices connus au 1er novembre qui précède la date de référence.
 
-Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
+Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement.
 
 La surface à prendre en compte pour l'appréciation du plafond de loyer s'entend de la surface habitable au sens de l'article
@@ -248,9 +247,11 @@ Personne seule
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 19 516 euros
+Zone A : 27 446 euros
 
-Province : 16 293 euros
+Zone B : 21 211 euros
+
+Zone C : 18 560 euros
 
 COMPOSITION du foyer locataire :
 
@@ -258,9 +259,11 @@ Couple marié
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 32 073 euros
+Zone A : 41 018 euros
 
-Province : 24 297 euros
+Zone B : 28 325 euros
+
+Zone C : 24 947 euros
 
 COMPOSITION du foyer locataire :
 
@@ -268,9 +271,11 @@ Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 38 523 euros
+Zone A : 49 307 euros
 
-Province : 29 867 euros
+Zone B : 34 064 euros
+
+Zone C : 29 867 euros
 
 COMPOSITION du foyer locataire :
 
@@ -278,9 +283,11 @@ Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 45 988 euros
+Zone A : 59 063 euros
 
-Province : 36 146 euros
+Zone B : 41 122 euros
+
+Zone C : 36 146 euros
 
 COMPOSITION du foyer locataire :
 
@@ -288,9 +295,11 @@ Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 54 474 euros
+Zone A : 69 919 euros
 
-Province : 42 425 euros
+Zone B : 48 374 euros
+
+Zone C : 42 425 euros
 
 COMPOSITION du foyer locataire :
 
@@ -298,9 +307,11 @@ Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France : 61 260 euros
+Zone A : 78 678 euros
 
-Province : 47 856 euros
+Zone B : 54 514 euros
+
+Zone C : 47 856 euros
 
 COMPOSITION du foyer locataire :
 
@@ -308,9 +319,11 @@ Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Ile-de-France : + 6 960 euros
+Zone A : + 8 766 euros
 
-Province : + 5 433 euros
+Zone B : + 6 080 euros
+
+Zone C : + 5 433 euros
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
 Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
@@ -319,14 +332,6 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 196 B du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
-	**Modifié par**:
-
-	  - Décret n°2003-298 du 31 mars 2003 - art. 3 () JORF 2 avril 2003
 
 	**Cité par**:
 
@@ -353,9 +358,13 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code de la construction et de l'habitation. - art. R331-10 (M)
 	  - Code de la construction et de l'habitation. - art. R353-16 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 2 duodecies A
@@ -363,12 +372,12 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 Pour l'application du quatrième alinéa du e du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a. Pour les baux conclus, reconduits ou renouvelés entre le 1er janvier 2003 et le 31 décembre 2003, les plafonds de loyer
-mensuel, charges non comprises, sont fixés à 8,3 euros par mètre carré en zone I bis, 6,7 euros en zone I, 4,7 euros en zone
-II et 4,2 euros en zone III. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les
-plafonds de loyer prévus à l'article 2 duodecies.
+a.  Pour les baux conclus, reconduits ou renouvelés entre le 3 avril 2003 et le 31 décembre 2003, les plafonds de loyer
+mensuel, charges non comprises, sont fixés à 8,3 Euros par mètre carré en zone A, 4,7 Euros en zone B et 4,2 Euros en zone C.
+Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à
+l'article 2 duodecies.
 
-Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
+Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
 l'application de l'article 2 duodecies ;
 
@@ -382,57 +391,71 @@ COMPOSITION DU FOYER LOCATAIRE : Personne seule
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 9 758
+Zone A : 13 723 
 
-Province (en euros) : 8 147 
+Zone B : 10 606 
+
+Zone C :  9 280 
 
 COMPOSITION DU FOYER LOCATAIRE : Couple marié
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 16 037
+Zone A : 20 509 
 
-Province (en euros) : 12 474 
+Zone B : 14 162 
+
+Zone C : 12 474 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant une personne à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 19 262
+Zone A : 24 654
 
-Province (en euros) : 14 934 
+Zone B : 17 032 
+
+Zone C : 14 934 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant deux personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 22 994
+Zone A : 29 532
 
-Province (en euros) : 18 074 
+Zone B : 20 561 
+
+Zone C : 18 074 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant trois personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 27 238
+Zone A : 34 960
 
-Province (en euros) : 21 213 
+Zone B : 24 187 
+
+Zone C : 21 213 
 
 COMPOSITION DU FOYER LOCATAIRE : Personne seule ou couple marié ayant quatre personnes à charge
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 30 630
+Zone A : 39 339
 
-Province (en euros) : 23 928
+Zone B : 27 257 
+
+Zone C : 23 928 
 
 COMPOSITION DU FOYER LOCATAIRE : Majoration par personne à charge à partir de la cinquième
 
 LIEU DE LA LOCATION
 
-Ile-de-France (en euros) : 3 480
+Zone A : + 4 383
 
-Province (en euros) : 2 717 
+Zone B : + 3 040 
+
+Zone C : + 2 717 
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
 l'article 2 duodecies.
@@ -448,11 +471,7 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	**Modifié par**:
 
-	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
-
-	**Codifié par**:
-
-	  - Décret n°2003-933 2003-09-30
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
 
 
 ###### Article 2 novodecies
@@ -497,6 +516,58 @@ sont afférents.
 	  - Code général des impôts, CGI. - art. 31 (V)
 
 
+###### Article 2 novodecies A
+
+Pour l'application du h du 1° du I de l'article 31 du code général des impôts, la déduction au titre de l'amortissement est
+calculée dans les conditions prévues à l'article 2 novodecies.
+
+Pour les logements acquis par le contribuable en vue de les réhabiliter, la déduction au titre de l'amortissement est
+calculée sur le prix payé pour l'acquisition du logement et la réalisation des travaux de réhabilitation mentionnés à
+l'article 2 quindecies B, majoré des frais afférents à ces opérations. Il est tenu compte notamment des prestations d'études,
+d'organisation et de suivi des travaux de réhabilitation et des frais liés à l'établissement des états et attestations prévus
+à l'article 2 quindecies C.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - CGIAN3 2 novodecies, 2 quindecies B, 2 quindecies C
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 vicies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 2 novodecies B
+
+Pour l'application de l'article 31 bis du code général des impôts, la déduction au titre de l'amortissement est calculée sur
+95 % du montant de la souscription effectivement versée par le contribuable au 31 décembre de l'année au titre de laquelle la
+souscription a été effectuée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 vicies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 31 bis (V)
+
+
 ###### Article 2 octodecies
 
 I. - L'engagement de conservation des titres prévu au deuxième alinéa du e du 1° du I de l'article 31 du code général des
@@ -508,9 +579,9 @@ L'engagement de conservation des titres prévu au quatrième alinéa du e du 1°
 est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
 pour la première fois à la déduction forfaitaire majorée.
 
-L'engagement de conservation des titres prévu au dixième alinéa du g du 1° du I de l'article précité est constaté lors du
-dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si elle est
-postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de
+L'engagement de conservation des titres prévu au dixième alinéa du g et h du 1° du I de l'article précité est constaté lors
+du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si elle
+est postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de
 l'amortissement des dépenses de reconstruction et d'agrandissement, l'engagement de conservation des titres doit être joint à
 la déclaration des revenus de l'année d'achèvement des travaux. L'engagement de conservation des titres formulé par le
 conjoint survivant doit être joint à la déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son
@@ -533,17 +604,97 @@ mentionné au II de l'article 2 septdecies.
 	  - CGI 31
 	  - CGIAN3 2 septdecies
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
-
 	**Modifié par**:
 
-	  - Loi n°2003-590 2003-07-02 art. 91 I A 3° JORF 3 juillet 2003
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2003-933 2003-09-30
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 2 octodecies A
+
+I. - L'engagement de conservation des titres prévu au deuxième alinéa de l'article 31 bis du code général des impôts est
+constaté lors du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites.
+
+II. - Les parts détenues par les associés qui entendent bénéficier de la déduction au titre de l'amortissement sont
+inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration des revenus mentionnée au I, sur un compte
+ouvert au nom de l'associé dans la comptabilité de la société ou sur un registre spécial. Les documents relatifs aux
+opérations ayant affecté ce compte sont conservés jusqu'à la fin de la troisième année suivant celle de l'expiration de
+l'engagement mentionné au I.
+
+III. - Les associés joignent à chacune de leurs déclarations des revenus un exemplaire des documents mentionnés à l'article 2
+octodecies B ainsi que les modalités de décompte de la déduction au titre de l'amortissement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31 bis
+	  - CGIAN3 2 octodecies B
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 2 octodecies B
+
+La société civile de placement immobilier mentionnée au premier alinéa de l'article 31 bis doit, avant le 16 février de
+chaque année, faire parvenir à ses associés un document établi en double exemplaire conformément à un modèle fixé par
+l'administration et comportant les éléments suivants :
+
+1° L'identité et l'adresse des associés ;
+
+2° Le nombre et les numéros des parts ou actions souscrites pour lesquelles le bénéfice de la déduction est demandé ainsi que
+le montant du capital souscrit correspondant ;
+
+3° La date de souscription des parts ou actions et du versement des fonds ;
+
+4° Le nombre et les numéros des parts détenues au 1er janvier et au 31 décembre et, le cas échéant, des parts souscrites,
+acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
+
+5° L'attestation que 95 % de la souscription, appréciés sans tenir compte des frais de collecte, pour laquelle le bénéfice de
+la déduction a été demandé, servent exclusivement à financer un investissement pour lequel les conditions d'application de la
+déduction prévue au h du 1° du I de l'article 31 du code général des impôts sont réunies ;
+
+6° La nature des investissements réalisés au moyen des parts ou actions souscrites pour lesquelles le bénéfice de la
+déduction a été demandée, l'adresse des logements concernés, leur date d'acquisition ou d'achèvement, la date de leur
+première location et la surface à prendre en compte pour l'appréciation du plafond de loyer telle qu'elle est définie par
+l'article 2 terdecies A ;
+
+7° L'attestation que le produit de la souscription annuelle est intégralement investi dans les dix-huit mois qui suivent la
+clôture de celle-ci ;
+
+8° L'engagement par la société de louer le logement dans les conditions et limites prévues au h du 1° du I de l'article 31 du
+code général des impôts. La société indique également le montant du loyer mensuel, charges non comprises, tel qu'il résulte
+du bail.
+
+Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31 bis, 31
+	  - CGIAN3 2 terdecies A
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 2 quaterdecies
@@ -672,54 +823,55 @@ logements doivent répondre aux normes définies par le décret n° 2002-120 du 
 
 ###### Article 2 quindecies
 
-I. - Pour bénéficier de la déduction au titre de l'amortissement, les contribuables sont tenus de joindre à leur déclaration
-des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle est postérieure :
+I.-Pour bénéficier de la déduction au titre de l'amortissement prévue au g du 1° du I de l'article 31 du code général des
+impôts, les contribuables sont tenus de joindre à leur déclaration des revenus de l'année d'achèvement de l'immeuble ou de
+son acquisition si elle est postérieure : 
 
-1° L'option prévue au g du 1° du I de l'article 31 du code général des impôts, formulée dans une note annexe établie sur un
-imprimé fourni par l'administration, qui comporte les éléments suivants :
+1° L'option formulée dans une note annexe établie sur un imprimé fourni par l'administration, qui comporte les éléments
+suivants : 
 
-a) L'identité et l'adresse du contribuable ;
+a) L'identité et l'adresse du contribuable ; 
 
 b) L'adresse du logement concerné, sa date d'acquisition ou d'achèvement, la date de sa première location et la surface à
-prendre en compte pour l'appréciation du plafond de loyer telle qu'elle est définie par l'article 2 terdecies ;
+prendre en compte pour l'appréciation du plafond de loyer telle qu'elle est définie par l'article 2 terdecies ; 
 
-c) Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ;
+c) Le montant du loyer mensuel, charges non comprises, tel qu'il résulte du bail ; 
 
 d) L'engagement de louer le logement non meublé, pendant une durée de neuf ans au moins, à des personnes qui en font leur
-habitation principale ;
+habitation principale ; 
 
-e) Les modalités de décompte de la déduction au titre de l'amortissement ;
+e) Les modalités de décompte de la déduction au titre de l'amortissement ; 
 
-2° Une copie du bail ;
+2° Une copie du bail ; 
 
 3° Une copie de l'avis d'imposition ou de non-imposition du locataire établi au titre de l'avant-dernière année précédant
-celle de la signature du contrat de location ;
+celle de la signature du contrat de location ; 
 
-4° Les documents suivants :
+4° Les documents suivants : 
 
 a) Pour les immeubles que le contribuable fait construire, une copie de la déclaration d'ouverture de chantier mentionnée à
 l'article R. 421-40 du code de l'urbanisme et de la déclaration d'achèvement des travaux, accompagnées des pièces attestant
-de leur réception en mairie ;
+de leur réception en mairie ; 
 
 b) Pour les locaux que le contribuable transforme en logement, une copie de la déclaration d'achèvement des travaux,
 accompagnée d'une pièce attestant de sa réception en mairie et d'une note précisant la nature de l'affectation précédente des
-locaux.
+locaux. 
 
 Si le logement n'est pas loué au moment du dépôt de la déclaration des revenus de l'année d'achèvement de l'immeuble ou de
 son acquisition ou si elle est postérieure, les documents mentionnés aux 2° et 3° sont joints à la déclaration des revenus de
-l'année en cours de laquelle le bail est signé.
+l'année en cours de laquelle le bail est signé. 
 
-II. - L'engagement de location prévu au 1 du g du 1° du I de l'article 31 du code général des impôts doit être formulé dans
-une note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par
-l'administration et comportant l'indication des modalités de décompte de la déduction au titre de l'amortissement.
+II.-L'engagement de location prévu au 1 du g du 1° du I de l'article 31 du code général des impôts doit être formulé dans une
+note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par
+l'administration et comportant l'indication des modalités de décompte de la déduction au titre de l'amortissement. 
 
-III. - L'option prévue au cinquième alinéa du g du 1° du I de l'article 31 du code général des impôts doit être formulée dans
+III.-L'option prévue au cinquième alinéa du g du 1° du I de l'article 31 du code général des impôts doit être formulée dans
 une note établie conformément à un modèle fixé par l'administration, qui doit être jointe à la déclaration des revenus
 souscrite par le conjoint survivant au titre de l'année du décès de son conjoint pour la période postérieure à cet événement.
 Elle comporte l'engagement de louer le logement non meublé à des personnes, qui en font leur habitation principale, pour la
-fraction de la période de neuf ans couverte par l'engagement de location initial restant à courir à la date du décès.
+fraction de la période de neuf ans couverte par l'engagement de location initial restant à courir à la date du décès. 
 
-IV. - Pendant la période couverte par l'engagement de location mentionné aux I, II et III, le contribuable joint à chacune de
+IV.-Pendant la période couverte par l'engagement de location mentionné aux I, II et III, le contribuable joint à chacune de
 ses déclarations des revenus un état établi conformément à un modèle fixé par l'administration et faisant apparaître, pour
 chaque logement, le détail du calcul du montant de la déduction pratiquée au titre de l'amortissement ainsi qu'une note
 indiquant le nom des locataires de l'immeuble. En outre, en cas de changement de locataire au cours de cette période, il
@@ -729,19 +881,9 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 31
-	  - CGIAN3 2 terdecies
-	  - Code de l'urbanisme - art. R421-40 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
 
 	**Cité par**:
 
@@ -750,23 +892,153 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies (V)
 
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies (V)
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code de l'urbanisme - art. R*421-40 (Ab)
+
+
+###### Article 2 quindecies A
+
+I. - Pour le bénéfice de la déduction au titre de l'amortissement prévue au h du 1° du I de l'article 31 du code général des
+impôts, les contribuables sont tenus de joindre à leur déclaration des revenus de l'année d'achèvement de l'immeuble, ou de
+son acquisition si elle est postérieure, les mêmes documents que ceux visés au I de l'article 2 quindecies à l'exception de
+celui visé au 3° du même I.
+
+En outre, pour les logements que le contribuable acquiert en vue de les réhabiliter, les contribuables sont tenus de joindre
+à leur déclaration des revenus de l'année d'achèvement des travaux les états et attestations prévus à l'article 2 quindecies
+C ainsi que, lorsque ces états sont requis, les états prévus aux articles L. 1334-5 et L. 1334-7 du code de la santé publique
+fournis par le vendeur lors de la promesse de vente ou annexés à l'acte authentique de vente du logement.
+
+II. - L'engagement de location prévu au 1 du h du 1° du I de l'article 31 du code général des impôts doit être formulé dans
+une note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par
+l'administration et comportant l'indication des modalités de décompte de la déduction au titre de l'amortissement.
+
+III. - L'option prévue au cinquième alinéa du h du 1° du I de l'article 31 du code général des impôts doit être formulée dans
+une note établie selon les mêmes modalités que celles prévues au III de l'article 2 quindecies.
+
+IV. - Pendant la période couverte par l'engagement de location mentionné aux I, II et III, le contribuable joint à chacune de
+ses déclarations des revenus un état établi conformément à un modèle fixé par l'administration et faisant apparaître, pour
+chaque logement, le détail du calcul du montant de la déduction pratiquée au titre de l'amortissement ainsi qu'une note
+indiquant le nom des locataires de l'immeuble. En outre, en cas de changement de locataire au cours de cette période, il
+joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du nouveau bail.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - CGIAN3 2 quindecies, 2 quindecies C
+	  - Code de la santé publique - art. L1334-5 (M)
+	  - Code de la santé publique - art. L1334-7 (M)
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter (V)
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 2 quindecies B
+
+I. - Le logement qui ne satisfait pas aux caractéristiques de décence au sens du deuxième alinéa du h du 1° du I de l'article
+31 du code général des impôts s'entend de celui qui ne répond pas, pour au moins quatre des rubriques figurant sur
+l'attestation prévue au 1° de l'article 2 quindecies C, aux caractéristiques de la décence définies par le décret n° 2002-120
+du 30 janvier 2002 relatif aux caractéristiques du logement décent.
+
+II. - Les travaux de réhabilitation visés au deuxième alinéa du h du 1° du I de l'article 31 du code général des impôts
+s'entendent des travaux réalisés sur le logement, et le cas échéant sur les parties communes, qui permettent de donner au
+logement l'ensemble des performances techniques fixées par arrêté des ministres chargés du budget et du logement. Au moins
+six de ces performances techniques doivent avoir été obtenues à la suite de ces travaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - CGIAN3 2 quindecies C
+	  - Décret n°2002-120 2002-01-30
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
+	**Cité par**:
+
+	  - Décret n°2010-30 du 8 janvier 2010 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R*631-21 (V)
+	  - Code général des impôts, CGI. - art. 199 sexvicies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 novodecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 2 quindecies C
+
+Pour le bénéfice de la déduction au titre de l'amortissement prévue au h du 1° du I de l'article 31 du code général des
+impôts applicable aux logements acquis par le contribuable en vue de les réhabiliter, le contribuable fait établir par un
+contrôleur technique ou un technicien de la construction qualifié, indépendant des personnes physiques ou morales
+susceptibles de réaliser les travaux de réhabilitation et couvert par une assurance pour cette activité :
+
+1° Avant la réalisation des travaux, un état descriptif du logement contenant les rubriques fixées par un arrêté des
+ministres chargés du budget et du logement. La personne qui établit cet état fournit également une attestation indiquant les
+rubriques pour lesquelles le logement ne correspond pas aux caractéristiques de la décence mentionnées au I de l'article 2
+quindecies B ;
+
+2° Après la réalisation des travaux, un état descriptif du logement contenant les mêmes rubriques que celles mentionnées au
+1°. La personne qui établit cet état fournit également une attestation indiquant d'une part que les travaux de réhabilitation
+ont permis de donner au logement l'ensemble des caractéristiques d'un logement décent mentionnées au I de l'article 2
+quindecies B et d'autre part que l'ensemble des performances techniques mentionnées au II du même article est respecté et
+qu'au moins six d'entre elles ont été obtenues à la suite des travaux de réhabilitation. Dans une copropriété, cette
+attestation indique que l'état apparent des parties communes qui desservent le logement est considéré comme décent, que
+celles-ci aient ou non fait l'objet de travaux ; l'appréciation est faite au regard des mêmes caractéristiques que celles
+prises en compte pour un logement individuel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - CGIAN 3 2 quindecies B
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
+	**Cité par**:
+
+	  - Décret n°2010-30 du 8 janvier 2010 - art. 3 (V)
+	  - Code de la construction et de l'habitation. - art. R*631-10 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 novodecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA nonies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 2 septdecies
 
 I. - Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quaterdecies A, 2
-quindecies, 2 sexdecies, 2 sexdecies-0 A et 2 sexdecies A incombent à cette société. L'engagement prévu à l'article 2
-quaterdecies est joint par la société à sa déclaration du résultat de l'année au cours de laquelle a pris effet la location
-dont les revenus peuvent bénéficier de la déduction forfaitaire majorée. L'engagement prévu à l'article 2 quaterdecies A est
-joint par la société à sa déclaration du résultat de l'année au cours de laquelle la location ouvre droit pour la première
-fois à la déduction forfaitaire majorée.
-
-L'option prévue à l'article 2 quindecies est jointe par la société, selon le cas, à sa déclaration du résultat de l'année
-d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année
-d'achèvement des travaux.
+quindecies, 2 quindecies A, 2 sexdecies, 2 sexdecies-0 A, 2 sexdecies-0 A ter et 2 sexdecies A incombent à cette société.
+L'engagement prévu à l'article 2 quaterdecies est joint par la société à sa déclaration du résultat de l'année au cours de
+laquelle a pris effet la location dont les revenus peuvent bénéficier de la déduction forfaitaire majorée. L'engagement prévu
+à l'article 2 quaterdecies A est joint par la société à sa déclaration du résultat de l'année au cours de laquelle la
+location ouvre droit pour la première fois à la déduction forfaitaire majorée. Les options prévues aux articles 2 quindecies
+et 2 quindecies A sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement
+ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux.
 
 II. - La société doit, avant le 16 février de chaque année, faire parvenir à ses associés un document établi en double
 exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements
@@ -778,7 +1050,7 @@ suivants :
 acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
 
 3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2
-duodecies, 2 duodecies A, 2 terdecies, 2 sexdecies et 2 sexdecies-0 A ;
+duodecies, 2 duodecies A, 2 terdecies, 2 terdecies A, 2 sexdecies, 2 sexdecies-0 A et 2 sexdecies-0 A ter ;
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ;
 
@@ -796,25 +1068,20 @@ annexe prévue à l'article 2 sexdecies A.
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
-III. - La société joint chaque année à sa déclaration de résultat l'état mentionné au IV de l'article 2 quindecies. Elle y
-indique, en outre, l'identité et l'adresse des associés ainsi que la part des revenus des immeubles de la société
-correspondant aux droits de chaque associé.
+III. - La société joint chaque année à sa déclaration de résultat l'état mentionné au IV des articles 2 quindecies et 2
+quindecies A. Elle y indique, en outre, l'identité et l'adresse des associés ainsi que la part des revenus des immeubles de
+la société correspondant aux droits de chaque associé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 31
-	  - CGIAN3 2 sexdecies A, 2 quaterdecies, 2 quaterdecies A, 2 quindecies, 2 sexdecies, 2 sexdecies-0 A, 2 sexdecies A, 2 duodecies, 2 duodecies A, 2 terdecies
+	  - CGIAN3 2 quaterdecies, 2 quaterdecies A, 2 quindecies, 2 quindecies A, 2 sexdecies, 2 sexdecies-0 A, 2 sexdecies-0 A ter, 2 sexdecies A, 2 duodecies, 2 duodecies A, 2 terdecies, 2 terdecies A, 2 sexdecies A
 
 	**Modifié par**:
 
-	  - Loi - art. 9 (V) JORF 31 décembre 2002
-	  - Loi n°2002-1575 2002-12-30 art. 9 I, II Finances pour 2003 JORF 31 décembre 2002
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
 
 	**Cité par**:
 
@@ -822,7 +1089,7 @@ correspondant aux droits de chaque associé.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 2 sexdecies
@@ -1006,6 +1273,45 @@ de l'article 58-0 A.
 	  - HISTO: Edition du 31 août 2003
 
 
+###### Article 2 sexdecies-0 A ter
+
+Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts :
+
+1° La condition de loyer s'apprécie en tenant compte du montant du loyer payé au bailleur par l'organisme locataire et du
+loyer payé à cet organisme par le sous-locataire.
+
+Il n'est toutefois pas tenu compte de la redevance versée par le sous-locataire, en sus du loyer et des charges locatives, à
+un organisme indépendant de l'organisme locataire et représentative des frais de gestion, d'assurance, de gardiennage,
+d'amortissement des locaux collectifs, d'équipement des logements et, le cas échéant, d'ameublement. Cette disposition
+s'applique à la condition que le logement soit situé dans une résidence dotée de services collectifs et composée d'un
+ensemble homogène de dix logements au moins à usage d'habitation principale et que le montant annuel de la redevance n'excède
+pas le montant annuel des loyers payés par le sous-locataire ;
+
+2° Les contribuables doivent joindre à leur déclaration des revenus de l'année d'achèvement de l'immeuble ou de son
+acquisition si elle est postérieure, la note annexe prévue au II de l'article 2 quindecies A, une copie de bail conclu avec
+l'organisme locataire ainsi qu'une copie du contrat de sous-location faisant apparaître le montant de la redevance payée par
+le sous-locataire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 31
+	  - CGIAN3 2 quindecies A
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
 ###### Article 2 terdecies
 
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
@@ -1047,12 +1353,46 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 	  - HISTO: Edition du 1er janvier 2003
 
 
+###### Article 2 terdecies A
+
+Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
+mensuel, charges non comprises, sont fixés, pour les baux conclus en 2003, à 18 Euros par mètre carré en zone A, 12,5 Euros
+en zone B et 9 Euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les
+plafonds de loyer prévus à l'article 2 duodecies.
+
+Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
+logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
+l'application de l'article 2 duodecies.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 29 juillet 2004 - art. 2 (V)
+	  - Décret n°2010-30 du 8 janvier 2010 - art. 3 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
+
+	**Cite**:
+
+	  - CGI 31
+	  - CGIAN3 2 duodecies
+
+	**Créé par**:
+
+	  - Décret n°2003-1219 2003-12-19 art. 1 C JORF 21 décembre 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
 ###### Article 2 vicies
 
-Pour la première année, la déduction calculée sur les bases d'amortissement mentionnées à l'article 2 novodecies est admise
-dans la proportion existant entre, d'une part, le nombre de mois décompté à partir de celui mentionné aux premier, deuxième
-et neuvième alinéas du g du 1° du I de l'article 31 du code général des impôts jusqu'à la fin de l'année, et, d'autre part,
-le nombre 12.
+Pour la première année, la déduction calculée sur les bases d'amortissement mentionnées aux articles 2 novodecies, 2
+novodecies A et 2 novodecies B est admise dans la proportion existant entre, d'une part, le nombre de mois décompté à partir
+de celui mentionné aux premier, deuxième et neuvième alinéas du g et du h du 1° du I de l'article 31 du code général des
+impôts et au premier alinéa de l'article 31 bis jusqu'à la fin de l'année, et, d'autre part, le nombre 12.
 
 Lorsque la déduction au titre de l'amortissement prend fin en cours d'année, elle est admise dans la proportion existant
 entre, d'une part, le nombre de mois compris entre le 1er janvier et le premier jour du mois au cours duquel expire l'annuité
@@ -1060,26 +1400,23 @@ d'amortissement et, d'autre part, le nombre 12.
 
 Lorsque le taux d'amortissement est réduit de 8 % à 2,5 % en cours d'année, chaque période est décomptée selon les modalités
 définies aux premier et deuxième alinéas. Il en est de même l'année de reprise de l'engagement par le conjoint survivant
-prévue aux cinquième et dixième alinéas du g du 1° du I de l'article 31 du code général des impôts.
+prévue aux cinquième et dixième alinéas du g et aux cinquième et onzième alinéas du h du 1° du I de l'article 31 du code
+général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 31
-	  - CGIAN3 2 novodecies
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
+	  - CGIAN3 2 novodecies, 2 novodecies A, 2 novodecies B, 31 bis
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### III : Bénéfices industriels et commerciaux
