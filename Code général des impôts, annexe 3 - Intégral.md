@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1978-12-30
+Version Consolidée au 1979-03-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -67,6 +67,111 @@ déficitaire.
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 A (P)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
+
+
+### Titre III : Contributions indirectes et taxes diverses
+
+#### Chapitre premier : Boissons
+
+##### Section I : Alcools
+
+##### A : Production
+
+##### III : Fabrication des boissons de raisins secs.
+
+###### Article 138
+
+Le compte général de fabrication est suivi pour le volume et pour le titre alcoométrique volumique.
+
+Il est chargé au minimum :
+
+1° D'une quantité de boissons de raisins secs correspondant à la quantité de raisins secs mis en oeuvre, à raisin de 3
+hectolitres de boissons par 100 kilogrammes de raisins secs ;
+
+2° D'une quantité d'alcool correspondant à la quantité de raisins secs mis en oeuvre, à raison de 30 litres d'alcool pur par
+100 kilogrammes de raisins secs.
+
+Les excédents en volume ou en alcool constatés dans les cuves de fermentation ou à l'entonnement sont ajoutés aux charges.
+
+Le compte général est déchargé :
+
+a. En ce qui concerne le volume :
+
+1° Des quantités de boissons, excédents compris, qui, dès l'achèvement de chaque fabrication, sont portées à l'état de
+produits comme passibles du droit de fabrication ;
+
+2° Des pertes matérielles dûment constatées.
+
+b. En ce qui concerne les titres alcoométriques volumiques :
+
+1° Des quantités d'alcool qui, après l'achèvement de chaque fabrication, sont prises en charge au compte définitif des
+produits achevés ;
+
+2° Des manquants constatés, soit à l'entonnement, soit en cours de fabrication et qui ont donné lieu à la constatation
+immédiate du droit de consommation sur l'alcool ;
+
+3° Des quantités d'alcool correspondant aux pertes matérielles dûment constatées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 art. 3 JORF 11 mars 1979
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+
+### Titre III : Contributions indirectes et monopoles fiscaux - Taxes diverses
+
+#### Chapitre premier : Boissons
+
+##### Section I : Alcools
+
+##### A : Production
+
+##### II : Déduction spéciale accordée aux fabricants de mistelles.
+
+###### Article 120
+
+La déclaration que tout fabricant de mistelles doit souscrire au bureau de déclarations de la direction générale des impôts,
+en exécution de l'article 343 du code général des impôts, doit indiquer, en dehors des renseignements exigés par d'autres
+lois ou règlements :
+
+1° L'heure du commencement et l'heure approximative de l'achèvement des opérations;
+
+2° L'espèce (blanche ou rouge) des mistelles qui doivent être fabriquées;
+
+3° Le numéro d'ordre des vaisseaux dans lesquels les vendanges, moûts et esprits doivent être versés;
+
+4° Le poids ou le volume, le titre alcoométrique volumique et la richesse saccharine des vendanges ou moûts mis en oeuvre;
+
+5° Le volume et le titre alcoométrique volumique de l'alcool versé ;
+
+6° Le volume et la richesse alcoolique des mistelles à obtenir.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 343
+
+	**Modifié par**:
+
+	  - Décret n°79-200 1979-03-05 ART. 4 JORF 11 MARS 1979
+
+	**Codifié par**:
+
+	  - Décret n°81-866 1981-09-15
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
