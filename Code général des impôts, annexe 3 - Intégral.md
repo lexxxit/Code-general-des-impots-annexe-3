@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1990-07-05
+Version Consolidée au 1990-07-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -27118,10 +27118,10 @@ d'enregistrement, à la taxe de publicité foncière et aux taxes additionnelles
 
 2° des apports en société prévus aux articles 809-I-3° 809-II et au 1° du I de l'article 812 du code précité ;
 
-3° des acquisitions effectuées dans le cadre des dispositions de l'article 88 de la loi n° 67-563 du 13 juillet 1967 sur le
-règlement judiciaire la liquidation des biens la faillite personnelle et les banqueroutes ;
+3° des acquisitions effectuées dans le cadre des dispositions des articles 81 ou 155 de la loi n° 85-98 du 25 janvier 1985
+relative au redressement et à la liquidation judiciaires des entreprises;
 
-4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices ;
+4° des paiements d'indemnités entre officiers publics et ministériels par suite de suppression d'offices;
 
 5° des acquisitions effectuées par des Français rapatriés d'outre-mer à l'aide des prêts de reclassement prévus à l'article
 30 du décret n° 62-261 modifié du 10 mars 1962 et de celles effectuées par des migrants agricoles à l'aide de prêts consentis
@@ -27149,16 +27149,13 @@ reconnue par le ministre de l'agriculture.
 	  - CGI 809 I 3°, II
 	  - CGI 812 I 1°
 	  - Décret n°62-261 du 10 mars 1962 - art. 30 (V)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 155 (M)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 88 (Ab)
 	  - Code rural 686
-	  - Loi n°67-563 du 13 juillet 1967 - art. 88 (V)
 
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 16 (P) JORF 28 décembre 1989, incorporée à l'annexe 3 le 14 juillet 1989
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
+	  - Décret n°90-566 du 5 juillet 1990 - art. 1 (V) JORF 7 juillet 1990
 
 
 ###### Article 397
