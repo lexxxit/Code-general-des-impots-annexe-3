@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-12-29
+Version Consolidée au 2004-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5368,28 +5368,6 @@ d'après le bénéfice réel.
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
 
 
-###### Article 38 sexdecies JF
-
-L'option souscrite en application du III de l'article 69 du code général des impôts par les exploitants qui relèvent de plein
-droit du régime simplifié d'imposition d'après le bénéfice réel et qui désirent être placés sous le régime normal est valable
-pour cinq exercices. Elle se reconduit tacitement par période de cinq exercices sauf renonciation adressée au service des
-impôts, dans le délai de déclaration des résultats du dernier exercice de chaque période quinquennale.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2005-1 du 3 janvier 2005 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 69 (V)
-
-
 ##### C bis : Régime transitoire d'imposition
 
 ###### Article 38 sexdecies JH
@@ -7626,41 +7604,6 @@ gérant du fonds doit également informer la direction des services fiscaux de c
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
-
-
-###### Article 41 sexdecies B
-
-La liste constatant la propriété des parts prévue à l'article 1er du décret n° 83-357 du 2 mai 1983 fixant les conditions
-d'application de la loi n° 79-594 du 13 juillet 1979 relative aux fonds communs de placement doit mentionner : 
-
-Si le souscripteur est une personne physique : les nom, prénoms, date de naissance et domicile fiscal de celle-ci ; 
-
-S'il s'agit d'une personne morale : les dénomination ou raison sociale, forme juridique, numéro SIRET et lieu du siège social
-de cette dernière ; 
-
-S'il s'agit d'un fonds commun de placement : la dénomination de ce fonds ainsi que l'identité et le domicile fiscal de son
-gérant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°79-594 1979-07-13
-	  - Décret n°83-357 du 2 mai 1983 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Décret n°83-357 du 2 mai 1983 - art. 1 (V) JORF 3 mai 1983
-	  - Décret n°83-357 du 2 mai 1983 - art. 43 (Ab) JORF 3 mai 1983
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 juillet 1983
-	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 41 sexdecies C
