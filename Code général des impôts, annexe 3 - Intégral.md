@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1981-04-30
+Version Consolidée au 1981-05-12
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -291,6 +291,24 @@ attestation délivrée par le greffe du tribunal de commerce.
 
 	  - Arrêté 1975-01-13 ART. 5
 	  - CGIAN3 330
+
+	**Liens**:
+
+	  - HISTO: EDITION 1979-07-01
+
+
+#### TAXE PERCUE AU PROFIT DU BUDGET ANNEXE DES PRESTATIONS SOCIALES AGRICOLES *BAPSA*.
+
+###### Article 331-0 D
+
+Le taux de la taxe perçue au profit du budget annexe des prestations sociales agricoles en application de l'article 1603 du
+code général des impôts est fixé à 5,50 %.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1603
 
 	**Liens**:
 
