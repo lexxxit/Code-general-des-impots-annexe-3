@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1993-03-10
+Version Consolidée au 1993-03-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11675,27 +11675,31 @@ personnes doivent notifier leur option avant la date d'ouverture de cet exercice
 
 ###### Article 46 terdecies B
 
-Pour les sociétés [*entreprises*] nouvelles, l'option prévue à l'article 239 bis AA du code général des impôts produit
-immédiatement effet tant en matière de droit d'apport que d'impôt sur les bénéfices, si elle est formulée dans l'acte
-constatant la création. Cet acte précise alors les liens de parenté entre les associés ; une copie en est adressée au service
-des impôts auprès duquel doit être souscrite la déclaration de résultats.
+Pour les sociétés nouvelles, l'option prévue à l'article 239 bis AA du code général des impôts produit immédiatement effet
+tant en matière de droit d'apport que d'impôt sur les bénéfices, si elle est formulée dans l'acte constatant la création. Cet
+acte précise alors les liens de parenté entre les associés ; une copie en est adressée au service des impôts auprès duquel
+doit être souscrite la déclaration de résultats.
 
-**Nota:**
-
-Nota : modification de la table des matières par le décret 92-836 pour l'édition du 4 juillet 1992 ; avant cette date
-l'intitulé était le suivant : Section 0I : Sociétés à responsabilité limitée.
-
-Option des sociétés à responsabilité limitée pour le régime fiscal des sociétés de personnes.
+Il en est de même, sous les mêmes conditions, lorsqu'une société déjà soumise au régime fiscal des sociétés de personnes se
+transforme, sans création d'une personne morale nouvelle, en une société à responsabilité limitée mentionnée à l'article 46
+terdecies A ou lorsque l'associé unique d'une société à responsabilité limitée cède des parts à l'une ou plusieurs des
+personnes parentes visées au même article. L'acte mentionné à l'alinéa qui précède est alors celui qui constate soit la
+transformation de la société soit la cession de ses parts par l'associé unique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 239 bis AA
+	  - CGI 239 bis AA, 46 terdecies A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-894 du 1 octobre 1981 - art. 2 (V) JORF 3 OCTOBRE 1981
+	  - Décret n°93-481 du 24 mars 1993 - art. 1 () JORF 26 mars 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - TXT_ASSOCIE: Instruction 1993-05-26 4H-14-93
 
 
 ###### Article 46 terdecies C
