@@ -1,32 +1,23 @@
 # Article 46 quater-0 ZZ ter
 
 Les documents mentionnés au premier alinéa de l'article 140 nonies de l'annexe II au code général des impôts sont ceux
-énumérés aux 1 à 3 du II de l'article 46 AG decies et, concernant le locataire, celui mentionné au 4 de ce même II. La
-période mentionnée au second alinéa de l'article 140 nonies déjà cité est celle indiquée au 2 du II de l'article 46 AG
-decies.
+énumérés au II de l'article 46 AG quaterdecies. La période mentionnée au second alinéa de l'article 140 nonies déjà cité est
+celle indiquée au 1° du I de l'article 217 undecies du code général des impôts.
 
 Pour l'application du troisième alinéa de l'article 140 nonies, les montants annuels du loyer et des ressources du locataire
-ne peuvent excéder les limites mentionnées aux 1 et 2 du I de l'article 46 AG decies.
+ne peuvent excéder les limites mentionnées aux 1 et 2 de l'article 46 AG duodecies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 46 AG quaterdecies, 217 undecies, 140 nonies, 46 AG duodecies
 	  - CGIAN2 140 nonies
-	  - CGIAN3 46 AG decies
-
-	**Créé par**:
-
-	  - Décret n°99-158 du 5 mars 1999 - art. 1 () JORF 6 mars 1999
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
 
 	**Modifié par**:
 
-	  - Décret n°99-382 du 18 mai 1999 - art. 3 () JORF 20 mai 1999
+	  - Décret n°2004-14 du 5 janvier 2004 - art. 1 () JORF 7 janvier 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2004

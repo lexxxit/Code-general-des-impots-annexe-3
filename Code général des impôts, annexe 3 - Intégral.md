@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-01-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14057,35 +14057,26 @@ précité soumises à la taxation prévue au IV de l'article 219 du même code.
 ###### Article 46 quater-0 ZZ ter
 
 Les documents mentionnés au premier alinéa de l'article 140 nonies de l'annexe II au code général des impôts sont ceux
-énumérés aux 1 à 3 du II de l'article 46 AG decies et, concernant le locataire, celui mentionné au 4 de ce même II. La
-période mentionnée au second alinéa de l'article 140 nonies déjà cité est celle indiquée au 2 du II de l'article 46 AG
-decies.
+énumérés au II de l'article 46 AG quaterdecies. La période mentionnée au second alinéa de l'article 140 nonies déjà cité est
+celle indiquée au 1° du I de l'article 217 undecies du code général des impôts.
 
 Pour l'application du troisième alinéa de l'article 140 nonies, les montants annuels du loyer et des ressources du locataire
-ne peuvent excéder les limites mentionnées aux 1 et 2 du I de l'article 46 AG decies.
+ne peuvent excéder les limites mentionnées aux 1 et 2 de l'article 46 AG duodecies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - CGI 46 AG quaterdecies, 217 undecies, 140 nonies, 46 AG duodecies
 	  - CGIAN2 140 nonies
-	  - CGIAN3 46 AG decies
-
-	**Créé par**:
-
-	  - Décret n°99-158 du 5 mars 1999 - art. 1 () JORF 6 mars 1999
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
 
 	**Modifié par**:
 
-	  - Décret n°99-382 du 18 mai 1999 - art. 3 () JORF 20 mai 1999
+	  - Décret n°2004-14 du 5 janvier 2004 - art. 1 () JORF 7 janvier 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière
@@ -14596,6 +14587,137 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2002-5
 
 	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
 	  - HISTO: Edition du 4 juillet 1992
+
+
+###### Article 46 quaterdecies V
+
+La commission consultative prévue au deuxième alinéa du 2 du III de l'article 217 undecies du code général des impôts rend un
+avis motivé au ministre chargé du budget sur le respect des conditions prévues au 1 du III de l'article 217 undecies précité.
+
+En l'absence de demande de saisine de la commission consultative, un délai d'une durée identique à celle mentionnée au
+premier alinéa du 2 du III de l'article 217 undecies précité court à compter de l'expiration du délai de quinze jours.
+
+La commission consultative est nationale lorsque l'agrément est délivré par le ministre chargé du budget ou locale lorsqu'en
+application des dispositions de l'article 1649 nonies du code général des impôts et dans les conditions prévues à l'article
+170 decies de l'annexe IV au code général des impôts l'agrément est délivré par le directeur des services fiscaux de la
+collectivité dans laquelle le programme d'investissement est réalisé.
+
+Tout dossier pour lequel une demande d'agrément a été déposée après la date de promulgation de la loi du 21 juillet 2003
+susvisée et qui est susceptible de faire l'objet d'une décision de retrait d'agrément doit également être transmis à la
+commission pour avis selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 217 undecies, 1649 nonies
+	  - CGIAN4 170 decies
+	  - Loi n°2003-660 2003-07-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Créé par**:
+
+	  - Décret n°2004-14 du 5 janvier 2004 - art. 2 () JORF 7 janvier 2004
+
+
+###### Article 46 quaterdecies W
+
+La commission consultative nationale est composée comme suit :
+
+a) Le directeur des affaires économiques, sociales et culturelles du ministère de l'outre-mer, président ;
+
+b) Le sous-directeur des affaires économiques du ministère de l'outre-mer ;
+
+c) L'inspecteur général des finances chargé de l'outre-mer ;
+
+d) Le directeur général des impôts ;
+
+e) Le directeur du budget ;
+
+f) Le directeur du Trésor ;
+
+g) Le délégué général à l'emploi et à la formation professionnelle ;
+
+h) Le ou les représentants des ministres concernés par l'activité ;
+
+i) Le directeur général de l'Agence française de développement,<r l=""> ou leurs représentants.
+
+Le secrétariat de la commission centrale est assuré par les services de la direction des affaires économiques, sociales et
+culturelles du ministère de l'outre-mer.
+
+La commission se réunit sur convocation du président. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués huit
+jours au moins avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins quatre membres
+présents. En cas de partage égal des voix, la voix du président est prépondérante.
+
+La commission entend, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
+
+Les membres de la commission, ainsi que les personnalités ou experts entendus, sont tenus au secret professionnel.
+
+Les avis sont émis par la commission en présence des seuls membres ayant voix délibérative.
+
+</r>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-14 du 5 janvier 2004 - art. 2 () JORF 7 janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 46 quaterdecies X
+
+En Guadeloupe, en Guyane, à la Martinique, à la Réunion, et à compter du 1er janvier 2007 à Mayotte, la commission locale est
+composée comme suit :
+
+a) Le préfet, président ;
+
+b) Le trésorier-payeur général ;
+
+c) Le secrétaire général des affaires économiques ou le fonctionnaire en tenant lieu ;
+
+d) Le directeur des services fiscaux ;
+
+e) Le directeur du travail et de l'emploi ;
+
+f) Le ou les chefs de service concernés par l'activité ;
+
+g) Le directeur local de l'Agence française de développement,
+
+ou leurs représentants.
+
+Le secrétariat de la commission est assuré par le secrétaire général des affaires économiques ou le fonctionnaire en tenant
+lieu.
+
+La commission se réunit sur convocation de son président. Sauf en cas d'urgence dûment motivé, ses membres sont convoqués
+huit jours au moins avant la date fixée pour la réunion. Elle délibère valablement à condition qu'il y ait au moins trois
+membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
+
+La commission entend, à titre consultatif, les personnalités et experts dont elle estime utile de prendre l'avis.
+
+Les membres de la commission, ainsi que les personnalités ou experts, sont tenus au secret professionnel.
+
+Les avis sont émis par la commission en présence des seuls membres ayant voix délibérative.
+
+Chaque commission consultative locale établit un rapport annuel sur le bilan de ses activités et l'adresse, avant le 30 avril
+de chaque année, à la commission interministérielle nationale pour la mise au point de sa contribution au rapport annuel de
+suivi du dispositif d'aide fiscale à l'investissement du Gouvernement au Parlement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-14 du 5 janvier 2004 - art. 2 () JORF 7 janvier 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles
