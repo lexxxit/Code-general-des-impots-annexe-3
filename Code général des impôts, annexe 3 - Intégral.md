@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 1983-12-28
+Version Consolidée au 1983-12-30
 
 # ASSIETTE ET LIQUIDATION DE L'IMPOT
 
@@ -142,34 +142,6 @@ cours d'eau utilisés  dans les conditions fixées par les articles 316 à 321 B
 	**Cite**:
 
 	  - CGIAN3 316 A CGIAN3 321 B
-
-	**Liens**:
-
-	  - HISTO: EDITION 1979-07-01
-
-
-##### REGLES D'EVALUATION DE LA VALEUR LOCATIVE DES BIENS IMPOSABLES.
-
-###### Article 324 AL
-
-I. Les formules visées à l'article 324 AJ comportent  à la date de leur souscription  les renseignements utiles à
-l'évaluation de chaque propriété ou fraction de propriété définies à l'article 324 A.
-
-Toutefois  en cas de location  le montant annuel du loyer est celui en vigueur au 1er janvier 1970, date à retenir également
-pour l'évaluation des charges.
-
-II. Par dérogation aux dispositions du I, premier alinéa  les renseignements utiles à l'évaluation des établissements
-industriels dont les immobilisations figurent à l'actif d'une entreprise industrielle ou commerciale astreinte aux
-obligations définies à l'article 54 du code général des impôts sont tirés du bilan du dernier exercice clos antérieurement à
-la date de souscription des déclarations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 54
-	  - CGIAN3 324 A
-	  - CGIAN3 324 AJ
 
 	**Liens**:
 
@@ -3109,6 +3081,49 @@ cet impôt compte tenu de leur quote-part dans les résultats réels accusés pa
 
 ##### V : Bénéfices de l'exploitation agricole
 
+##### A : Détermination du régime réel d'imposition 
+
+###### Article 38 sexdecies A
+
+Les recettes à retenir pour l'appréciation des limites prévues à l'article 69 du code général des impôts s'entendent de
+toutes les sommes encaissées au cours de l'année civile augmentées de la valeur des produits prélevés dans l'exploitation et
+alloués soit au personnel salarié, soit au propriétaire du fonds en paiement du fermage.
+
+Toutefois, il n'est pas tenu compte des opérations portant sur les éléments de l'actif immobilisé ou effectuées dans le cadre
+de l'entraide agricole, des subventions et primes d'équipement, des redevances ayant leur origine dans le droit de propriété
+et des recettes accessoires provenant d'activités n'ayant pas un caractère agricole.
+
+En outre, un abattement de 30 % est appliqué au montant des recettes provenant d'élevages pour lesquels le pourcentage moyen
+du bénéfice brut par rapport aux recettes est inférieur à 20 %. Un arrêté du ministre de l'économie et des finances fixe la
+liste des élevages qui peuvent bénéficier de cette disposition (1).
+
+(1) Annexe IV, art. 4 M.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 69
+	  - CGIAN4 4 M
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies B (Ab)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 M (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
 ##### B : Détermination et imposition du bénéfice des exploitants soumis au régime du bénéfice réel.
 
 ###### Article 38 sexdecies F
@@ -3251,6 +3266,31 @@ standard ou à tous autres éléments statistiques.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
 
 
+##### C : Option pour l'un des régimes d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies JF
+
+L'option souscrite en application du III de l'article 69 du code général des impôts par les exploitants qui relèvent de plein
+droit du régime simplifié d'imposition d'après le bénéfice réel et qui désirent être placés sous le régime normal s'applique
+aux exercices e arrêtés au cours d'une période de cinq ans commençant à courir à la date d'ouverture du premier exercice
+qu'elle concerne. Elle est reconduite tacitement par période de cinq ans sauf renonciation adressée au service des impôts,
+dans le délai de déclaration des résultats du dernier exercice de chaque période quinquennale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 69
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+
 ##### D : Dispositions applicables en cas de changement de régime d'imposition
 
 ##### 1° : Passage du régime des micro-exploitations à un régime réel
@@ -3270,6 +3310,32 @@ Ils sont répartis sur la durée d'utilisation restant à courir, telle qu'elle 
 
 
 ##### 1° : Passage du régime du forfait au régime normal d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies N
+
+I. Les récoltes comprises dans le stock d'entrée du premier exercice dont les résultats sont déterminés selon le régime
+normal d'imposition d'après le bénéfice réel sont évaluées d'après leur valeur au 31 décembre de l'année au cours de laquelle
+elles ont été levées.
+
+Elles sont reprises pour la même valeur dans les inventaires suivants, dans la mesure où elles n'ont pas encore été vendues.
+
+II. (Transféré sous l'article 38 sexdecies OC).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies OC
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
 
 ###### Article 38 sexdecies O
 
@@ -3324,6 +3390,132 @@ déduction du prix reçu par le cédant.
 
 
 
+##### Passage du régime du forfait au régime normal d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies K
+
+Les immobilisations acquises ou créées avant la date d'ouverture du premier exercice dont les résultats sont déterminés selon
+le régime normal d'imposition d'après le bénéfice réel.
+
+Pour leur valeur d'origine lorsqu'elles ne sont pas amortissables;
+
+Pour leur valeur nette comptable à la date d'ouverture de ce premier exercice, lorsqu'elles sont amortissables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+
+###### Article 38 sexdecies L
+
+I  La valeur nette comptable des éléments amortissables est obtenue en appliquant à la valeur d'origine le rapport existant
+entre :
+
+D'une part, leur durée probable d'utilisation restant à courir à la date d'ouverture du premier exercice dont les résultats
+sont déterminés selon le régime normal d'imposition d'après le bénéfice réel ;
+
+D'autre part, leur durée totale d'utilisation appréciée à la même date.
+
+II  La valeur d'origine des biens acquis avant le 1er janvier 1959 est réévaluée à l'aide des coefficients prévus à l'article
+21.
+
+III  La valeur nette comptable déterminée en application des dispositions qui précèdent ne peut excéder la valeur de
+réalisation du bien.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 21
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies M (V)
+
+
+###### Article 38 sexdecies OA
+
+En cas de passage du régime du forfait au régime normal d'imposition d'après le bénéfice réel :
+
+- les animaux figurant dans le stock d'entrée du premier exercice dont les résultats sont imposés d'après le mode réel, sont
+évalués au prix de revient majoré de 20 %. Cette valeur ne peut excéder le cours du jour à la date d'ouverture de cet
+exercice;
+
+- les produits de la viticulture en stock à la date du changement de régime d'imposition sont évalués au cours du jour à la
+même date, sous déduction d'une décote forfaitaire. Un arrêté du ministre de l'économie et des finances fixe les taux de
+cette décote en fonction de l'âge des produits (1).
+
+1)  Annexe IV, art. 4 O
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN4 4 O
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies GB (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (M)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+
+##### Passage du régime du forfait au régime simplifié d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies OB
+
+En cas de passage du régime du forfait au régime simplifié d'imposition d'après le bénéfice réel.
+
+- les immobilisations et les stocks d'entrée sont évalués conformément aux dispositions des articles 38 sexdecies-0 K à 38
+sexdecies N-I et 38 sexdecies OA;
+
+- les recettes et les dépenses se rapportant à des créances et à des dettes nées sous le régime du forfait ne sont pas
+retenues pour la détermination du bénéfice selon le régime simplifié.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdeces N I
+	  - CGIAN3 38 sexdecies K
+	  - CGIAN3 38 sexdecies L
+	  - CGIAN3 38 sexdecies M
+	  - CGIAN3 38 sexdecies OA
+	  - CGIAN3 38 sexdecies-0 K
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 78 (V) JORF 30 décembre 1983
+
+
 ##### 3° : Passage du régime du bénéfice réel au régime du forfait.
 
 ###### Article 38 sexdecies OC
@@ -3348,9 +3540,145 @@ de l'exercice, elle fait l'objet d'une imposition séparée selon le régime pr�
 	  - CGI 42 septies
 
 
+##### 4° : Passage du régime normal au régime simplifié d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies OE
+
+En cas de passage du régime normal au régime simplifié d'imposition d'après le bénéfice réel :
+
+a. aucune modification n'est apportée à l'évaluation des immobilisations et des stocks; les récoltes comprises dans le stock
+d'entrée du premier exercice imposé selon le régime simplifié peuvent être reprises pour la même valeur si elles figurent
+dans les inventaires suivants ;
+
+b. les animaux inscrits en immobilisations sous le régime normal doivent figurer dans le stock d'entrée du premier exercice
+imposé sous le régime simplifié pour leur valeur nette comptable à la clôture de l'exercice précédent ;
+
+c. les provisions constituées sous le régime normal demeurent valables dans les conditions de droit commun.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 84 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies GB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies H (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
+##### 5° : Passage du régime simplifié d'imposition d'après le bénéfice réel au régime du forfait.
+
+###### Article 38 sexdecies OF
+
+En cas de passage du régime simplifié d'imposition d'après le bénéfice réel au régime du forfait :
+
+a. les matières premières achetées figurant dans le stock de sortie du dernier exercice clos sous le régime simplifié
+d'imposition sont évaluées à leur prix de revient ; les autres produits sont estimés au cours du jour à la date de clôture de
+cet exercice et la valeur des animaux est déterminée selon les modalités prévues à l'article 38 sexdecies JC ;
+
+b. les dispositions de l'article 38 sexdecies OD sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies JC, 38 sexdecies OD
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2002
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 84 (V) JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
+
+
+##### 6° : Passage du régime simplifié au régime normal d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies OG
+
+En cas de passage du régime simplifié au régime normal d'imposition d'après le bénéfice réel :
+
+a. aucune modification n'est apportée à la valeur des immobilisations et des stocks ; les récoltes comprises dans le stock
+d'entrée du premier exercice imposé selon le régime normal sont reprises pour la même valeur si elles figurent dans les
+inventaires suivants ;
+
+b. Les exploitants ont la possibilité d'inscrire en immobilisations, pour leur valeur de stock, les équidés et les bovidés,
+selon les modalités prévues au II de l'article 38 sexdecies D.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies D II
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2002
+
+
 ##### E : Obligations des exploitants
 
 ##### 1° : Obligations applicables aux régimes réels
+
+###### Article 38 sexdecies Q
+
+Les exploitants placés sous un régime d'imposition d'après le bénéfice réel sont soumis à l'ensemble des obligations
+déclaratives incombant aux contribuables désignés à l'article 53 A du code général des impôts. Ils produisent leurs
+déclarations dans les délais prévus au premier alinéa de l'article 175 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 53 A, 175
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies R (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies V (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 84 (V) JORF 30 décembre 1983
+
 
 ###### Article 38 sexdecies QA
 
@@ -3365,6 +3693,186 @@ Ces renseignements doivent être fournis avant le 31 mars de l'année suivant ce
 	**Abrogé par**:
 
 	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
+
+
+##### Obligations applicables aux régimes d'imposition selon le mode réel.
+
+###### Article 38 sexdecies P
+
+I  Les exploitants placés sous un régime d'imposition d'après le bénéfice réel doivent tenir et présenter aux agents de
+l'administration :
+
+- Un livre-journal servi au jour le jour et enregistrant le détail de leurs opérations;
+
+- Un livre d'inventaire;
+
+- Les factures et autres pièces justificatives relatives aux recettes, aux dépenses et aux stocks.
+
+II  Quelle que soit leur situation au regard de la taxe sur la valeur ajoutée, les éleveurs d'animaux de boucherie ou de
+charcuterie doivent se conformer aux obligations définies à l'article 267 quater-I de l'annexe II au présent code.
+
+III  Les documents comptables et pièces justificatives énumérés ci-dessus doivent être conservés jusqu'à l'expiration du
+délai prévu à l'article L. 82 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L82
+	  - CGIAN2 267 quater I
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 78 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies RB (V)
+
+
+##### 2° : Obligations particulières au régime normal d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies R
+
+Indépendamment des documents visés à l'article 38 sexdecies Q, les contribuables qui deviennent imposables selon le régime
+normal d'imposition d'après le bénéfice réel sont tenus de fournir, en même temps que leur première déclaration, les
+renseignements énumérés ci-après :
+
+1° Une copie du bilan d'entrée ;
+
+2° Des tableaux présentant :
+
+a. Pour chaque élément de l'actif immobilisé : l'année ou, à défaut, la période d'acquisition ainsi que le prix d'achat ou de
+revient ;
+
+b. Pour les éléments amortissables :
+
+Le prix de revient réévalué lorsqu'il s'agit de biens acquis ou créés avant le 1er janvier 1959 ;
+
+La valeur nette comptable restant à amortir ;
+
+La durée d'utilisation restant à courir ;
+
+c. (Abrogé)
+
+3° Une note indiquant de manière détaillée la composition et le mode d'évaluation du stock d'entrée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies Q
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+
+###### Article 38 sexdecies RA
+
+En cas de passage du régime simplifié au régime normal d'imposition d'après le bénéfice réel, les exploitants fournissent à
+l'appui de leur première déclaration souscrite sous le régime du bénéfice réel les renseignements prévus aux 1° et 2° de
+l'article 38 sexdecies R.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 38 sexdecies R
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2002
+
+
+##### 3° : Obligations particulières au régime simplifié d'imposition d'après le bénéfice réel.
+
+###### Article 38 sexdecies RB
+
+Les exploitants placés sous le régime simplifié d'imposition d'après le bénéfice réel doivent établir ou produire les
+documents et déclarations mentionnés aux articles 38 sexdecies P et 38 sexdecies Q, selon les modalités particulières ci-
+après :
+
+a. Le livre journal enregistre le détail des recettes et des dépenses ;
+
+b. Le tableau des immobilisations et des amortissements et le compte simplifié du résultat fiscal prévus à l'article 74 A du
+code général des impôts sont reportés sur le livre d'inventaire ; t    c. La déclaration annuelle des résultats qui est faite
+sur un imprimé établi par l'administration comporte un compte simplifié de résultat fiscal et un tableau des immobilisations
+et des amortissements ; les pièces annexes mentionnées au II de l'article 38 ne sont pas produites.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 74 A
+	  - CGIAN3 38 sexdecies P, 38 sexdecies Q, 38 II
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 84 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies V (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+
+###### Article 38 sexdecies RC
+
+En cas de passage du régime du forfait au régime simplifié d'imposition d'aprés le bénéfice réel, les exploitants joignent à
+leur première déclaration de résultats une note donnant la composition et le mode d'évaluation du stock d'entrée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Abrogé par**:
+
+	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 2002
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 82 (V) JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 83 (V) JORF 30 décembre 1983
 
 
 ##### F : Cultures agréées dans les départements d'outre-mer
@@ -3738,6 +4246,35 @@ collectivités étrangères désignées au 1°, 2° et 7° de l'article 120 du c
 
 
 ##### C : Prélèvement sur les produits de placements à revenu fixe
+
+###### Article 41 duodecies A
+
+Les personnes, sociétés et organismes définis à l'article 75 de l'annexe II au code général des impôts, dénommés ci-après "
+établissements payeurs " qui payent, à quelque titre que ce soit, des intérêts, arrérages et autres produits visés au I de
+l'article 125 A du code précité doivent se conformer aux dispositions des articles 41 duodecies B à 41 duodecies G et 381 S.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 92 (V) JORF 30 décembre 1983
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 75 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 S (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies B (V)
+	  - Code général des impôts, CGI. - art. 125 A (V)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies O (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
 
 ###### Article 41 duodecies B
 
@@ -4543,6 +5080,47 @@ demandé, l'origine des revenus et leur répartition sur la période d'échelonn
 	  - HISTO: EDITION 1979-07-01
 
 
+###### Article 43
+
+Les déclarants doivent fournir toutes indications nécessaires au sujet de leur situation et de leurs charges de famille.
+
+Ils doivent également, pour avoir droit au bénéfice des déductions ou des réductions d'impôt prévues aux articles 156, 199
+sexies et 199 septies du code général des impôts, produire l'état des charges à retenir pour déterminer le revenu imposable
+ou le montant des réductions d'impôt.
+
+Cet état précise, au sujet des dettes contractées et des rentes payées à titre obligatoire et gratuit, le nom et le domicile
+du créancier, la date du titre constatant la créance et la nature de ce titre comportant, s'il y a lieu, l'indication du nom
+et de la résidence de l'officier public qui a dressé l'acte ou de la juridiction dont émane le jugement, enfin le chiffre des
+intérêts ou arrérages annuels.
+
+En ce qui concerne les intérêts des dettes contractées pour la conservation, l'acquisition, la construction, la réparation ou
+l'amélioration des propriétés et dont la déduction est demandée pour la détermination des revenus nets des propriétés
+foncières bâties et non bâties, le déclarant doit fournir les mêmes renseignements que ceux qui sont prévus à l'alinéa
+précédent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 156, 199 sexies, 199 septies
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (P)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
+
+
 ###### Article 45
 
 Les déclarations dûment signées sont remises ou adressées par les contribuables au service des impôts du lieu de leur
@@ -4559,6 +5137,34 @@ Il en est délivré récépissé.
 	**Liens**:
 
 	  - HISTO: Edition 1979-07-01
+
+
+###### Article 46
+
+Le ministre de l'économie et des finances peut décider par arrêté que les déclarations visées aux articles 42 à 45 ci-dessus
+et les déclarations spéciales prévues par les articles 53 A, 97, 101 et 302 sexies du code général des impôts doivent être
+fournies en plusieurs exemplaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 101
+	  - CGI 302 sexies
+	  - CGI 53 A
+	  - CGI 97
+	  - CGIAN3 42
+	  - CGIAN3 43
+	  - CGIAN3 44
+	  - CGIAN3 45
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
@@ -14999,6 +15605,36 @@ formules sont fixés par arrêté du ministre de l'économie et des finances (1)
 La date de référence de la première revision quinquennale des évaluations foncières des propriétés bâties est fixée au 1er
 janvier 1970.
 
+
+
+###### Article 324 AL
+
+I. Les formules visées à l'article 324 AJ comportent à la date de leur souscription les renseignements utiles à l'évaluation
+de chaque propriété ou fraction de propriété définies à l'article 324 A. 
+
+Toutefois en cas de location le montant annuel du loyer est celui en vigueur au 1er janvier 1970, date à retenir également
+pour l'évaluation des charges. 
+
+II. Par dérogation aux dispositions du I, premier alinéa les renseignements utiles à l'évaluation des établissements
+industriels dont les immobilisations figurent à l'actif d'une entreprise industrielle ou commerciale astreinte aux
+obligations définies à l'article 53 A du code général des impôts sont tirés du bilan du dernier exercice clos antérieurement
+à la date de souscription des déclarations.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 74 (V) JORF 30 décembre 1983
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AJ (V)
+	  - Code général des impôts, CGI. - art. 53 A (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-875 1984-10-01
 
 
 #### Chapitre premier : Impôts directs et taxes assimiléees
