@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2004-11-01
+Version Consolidée au 2004-12-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12107,159 +12107,6 @@ exercice.
 
 	  - HISTO: Edition du 27 octobre 1995
 	  - PEREMPTION: Loi - art. 11 (V) JORF 31 décembre 1992
-
-
-##### Section IV : Modalités d'application du précompte.
-
-###### Article 46 quater-0 C
-
-Toute personne morale française visée à l'article 108 du code général des impôts est tenue de se conformer aux dispositions
-des articles 46 quater-0 D à 46 quater-0 FA en vue de l'application du précompte institué par l'article 223 sexies du code
-précité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 108, 223 sexies
-	  - CGIAN3 46 quater-0 D à 46 quater-0 FA
-
-	**Modifié par**:
-
-	  - Décret n°90-834 du 18 septembre 1990 - art. 1 (V) JORF 22 septembre 1990
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 46 quater-0 D
-
-I. Les distributions qui n'ouvrent pas droit à l'avoir fiscal prévu à l'article 158 bis du code général des impôts sont
-prélevés, par priorité, sur les bénéfices soumis à l'impôt sur les sociétés ou exonérés de cet impôt au titre du dernier
-exercice clos et, en cas d'insuffisance de ces bénéfices, sur ceux des exercices antérieurs les plus récents.
-
-II. Les distributions qui ouvrent droit à l'avoir fiscal sont prélevées ensuite dans l'ordre suivant :
-
-D'abord, sur les bénéfices disponibles qui ont été soumis à l'impôt sur les sociétés au taux normal prévu au deuxième alinéa
-du I de l'article 219 du code déjà cité au titre du dernier exercice clos;
-
-Puis, sur les bénéfices disponibles qui ont été imposés à ce même taux au titre d'exercices antérieurs clos depuis cinq ans
-au plus ;
-
-Enfin, sur tous autres bénéfices ou réserves disponibles.
-
-Toutefois, si la personne morale a encaissé, au cours d'exercices clos depuis cinq ans au plus, des produits de
-participations ouvrant droit au régime des sociétés mères, les distributions peuvent être librement imputées sur ces
-produits.
-
-II bis. Les distributions mises en paiement à compter du 1er janvier 2000, ouvrant droit ou non à l'avoir fiscal, sont
-prélevées d'abord sur les bénéfices soumis à l'impôt sur les sociétés ou exonérés au titre d'exercices clos depuis cinq ans
-au plus, puis sur tous les autres bénéfices ou réserves disponibles.
-
-III (Abrogé).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 158 bis, 219
-
-	**Modifié par**:
-
-	  - Décret n°99-1093 du 21 décembre 1999 - art. 1 () JORF 24 décembre 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 46 quater-0 E
-
-I. Les bénéfices visés à l'article 46 quater-0 D s'entendent, pour chaque exercice, des bénéfices diminués du montant de
-l'impôt sur les sociétés et de la dotation à la réserve légale afférents audit exercice. L'impôt sur les sociétés s'impute
-obligatoirement sur les résultats auxquels il s'applique.
-
-II. Les sommes dont l'imputation est réglée par le II et par le II bis du même article s'entendent du total des revenus
-distribués et du précompte afférent à la distribution.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 46 quater-0 D II, II bis
-
-	**Modifié par**:
-
-	  - Décret n°99-1093 du 21 décembre 1999 - art. 1 () JORF 24 décembre 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
-
-
-###### Article 46 quater-0 F
-
-La personne morale est tenue d'adresser au bureau désigné à l'article 381 T de la présente annexe une déclaration faisant
-connaître les imputations opérées conformément aux dispositions de l'article 46 quater-0 D.
-
-Cette déclaration doit être souscrite dans le mois qui suit la répartition des produits, sur des imprimés fournis par
-l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 381 T, 46 quater-0 D
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 46 quater-0 FA
-
-Les distributions qui sont exonérées de précompte en application du 8° du 3 de l'article 223 sexies du code général des
-impôts sont prélevées sur les bénéfices dans les conditions prévues au I et au II bis de l'article 46 quater-0 D.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 sexies
-	  - CGIAN3 46 quater-0 D I, II bis
-
-	**Modifié par**:
-
-	  - Décret n°99-1093 du 21 décembre 1999 - art. 1 () JORF 24 décembre 1999
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2000
 
 
 ##### Section IV bis : Modalités de l'exonération de la retenue à la source ou du prélèvement applicable aux dividendes, intérêts et redevances distribués ou payées entre sociétés associées d'Etats membres de la Communauté européenne
@@ -31706,7 +31553,7 @@ Les dispositions de l'article 344-0 A s'appliquent :
 1° Aux déclarations de résultat mentionnées aux articles 172 et 223 du code général des impôts et aux déclarations et
 documents devant y être annexés ;
 
-2° A la déclaration de précompte prévue à l'article 46 quater-0 F ;
+2° (Abrogé) ;
 
 3° A la déclaration dont l'article 102 Z de l'annexe II du code général des impôts prévoit la production pour les entreprises
 ou personnes morales qui sont dans le champ d'application de l'article 209 B du même code ;
@@ -31749,19 +31596,15 @@ terdecies.
 
 	  - CGI 172, 223, 209 B, 287, 1647 E, 172 bis, 229, 235 ter KD, 235 ter J, 990 F, 336 bis, 991, 978, 1010, 231 ter, 406 terdecies, 46 C, 235 ter X, 235 ter Y
 	  - CGIAN2 102 Z, 161
-	  - CGIAN3 344-0 A, 46 quater-0 F, 369
+	  - CGIAN3 344-0 A, 369
 
 	**Modifié par**:
 
-	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article 344-0 C
@@ -34267,29 +34110,6 @@ Il fixe les conditions dans lesquelles le prélèvement opéré par ces établis
 	**Liens**:
 
 	  - HISTO: Edition du 22 avril 1998
-
-
-##### 11 : Précompte exigible sur certaines distributions.
-
-###### Article 381 T
-
-Lorsqu'il est exigible, le précompte institué par l'article 223 sexies du code général des impôts doit être versé à la
-recette des impôts du lieu où la personne morale est imposée à l'impôt sur les sociétés ou, à défaut, du lieu de son
-principal établissement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 sexies
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### 12 : Participation des employeurs au développement de la formation professionnelle continue
