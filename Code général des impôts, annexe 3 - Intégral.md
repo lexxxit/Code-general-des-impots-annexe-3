@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-01-04
+Version Consolidée au 2005-04-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9927,6 +9927,54 @@ cotisations ou primes mentionnées au 1 du I de l'article 163 quatervicies préc
 
 	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
 	  - Code de la sécurité sociale. - art. L241-3 (V)
+
+
+###### Article 41 ZZ quater
+
+Les organismes gestionnaires des plans, contrats ou régimes mentionnés au 1 du I de l'article 163 quatervicies du code
+général des impôts délivrent aux cotisants, avant le 1er mars de chaque année, une attestation indiquant le montant des
+cotisations ou primes versées au cours de l'année civile écoulée ouvrant droit à déduction du revenu global. Pour les régimes
+de retraite complémentaire mentionnés au c du 1 du I de l'article 163 quatervicies précité, cette attestation fait apparaître
+distinctement, le cas échéant, le montant des cotisations ou primes correspondant aux rachats mentionnés au c du 2 du I du
+même article. 
+
+Un double de l'attestation mentionnée au premier alinéa est produit dans le même délai à l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Modifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
+
+
+###### Article 41 ZZ ter
+
+Pour l'application des dispositions du 2 du I de l'article 163 quatervicies du code général des impôts, les cotisations ou
+primes versées au cours d'une année s'imputent en priorité sur le plafond de déduction déterminé au titre de la même année
+conformément au a du 2 du I de l'article précité, puis, le cas échéant, sur les soldes non utilisés des plafonds de déduction
+des trois années précédentes définis au b du 2 du I du même article, en commençant par le plus ancien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2005-330 2005-04-06
+
+	**Modifié par**:
+
+	  - Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
 
 
 ##### III : Présentation et contenu des déclarations
