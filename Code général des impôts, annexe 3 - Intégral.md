@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-04-09
+Version Consolidée au 2005-04-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17361,6 +17361,178 @@ Une copie de la déclaration spéciale doit être adressée dans le même délai
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2005
+
+
+##### Section V septies : Crédit d'impôt pour relocalisation d'activité en France.
+
+###### Article 49 septies YD
+
+Le crédit d'impôt prévu à l'article 244 quater I du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater I du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater I
+
+	**Créé par**:
+
+	  - Décret n°2005-394 du 26 avril 2005 - art. 1 () JORF 29 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YE
+
+En cas de clôture d'exercice en cours d'année, le crédit d'impôt prévu à l'article 244 quater I du code général des impôts
+est imputé sur l'impôt sur les sociétés dû au titre de l'exercice au cours duquel chaque période de douze mois s'achève.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater I du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater I
+
+	**Créé par**:
+
+	  - Décret n°2005-394 du 26 avril 2005 - art. 1 () JORF 29 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YF
+
+Pour l'application des dispositions des articles 199 ter H, 220 J et 244 quater I du code général des impôts, les entreprises
+doivent annexer une déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer en vertu de
+l'article 53 A du code général des impôts.
+
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
+comptable de la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
+relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les
+déclarations spéciales des sociétés au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe sont
+dispensées d'annexer la déclaration spéciale les concernant à la déclaration qu'elles sont tenues de déposer en vertu du 1 de
+l'article 223 du code précité.
+
+L'associé personne morale de société de personnes ou de groupement assimilé ayant engagé des dépenses ouvrant droit au crédit
+d'impôt prévu à l'article 244 quater I du code général des impôts doit déposer une déclaration spéciale récapitulant le
+crédit d'impôt prévu à l'article précité dont bénéficie chacune des sociétés de personnes ou groupement assimilé dont il est
+associé ou membre.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater I du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter H, 220 J, 244 quater I, 53 A, 360, 223 A, 223
+
+	**Créé par**:
+
+	  - Décret n°2005-394 du 26 avril 2005 - art. 1 () JORF 29 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YG
+
+Pour pouvoir bénéficier du crédit d'impôt prévu à l'article 244 quater I du code général des impôts, les entreprises
+fournissent à l'autorité chargée de délivrer l'agrément, préalablement à l'opération de relocalisation, tous documents
+permettant de justifier du respect des conditions prévues au XI de l'article 244 quater I précité. Elles doivent en outre
+s'engager par écrit à respecter ces conditions, et notamment la condition du maintien des emplois créés ou des
+investissements réalisés pendant une durée minimale de cinq ans.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater I du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater I
+
+	**Créé par**:
+
+	  - Décret n°2005-394 du 26 avril 2005 - art. 1 () JORF 29 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YH
+
+Les entreprises adressent chaque année à l'autorité qui a délivré l'agrément un exemplaire de la déclaration spéciale prévue
+à l'article 49 septies YF. Elles communiquent également annuellement à cette même autorité tous renseignements permettant de
+vérifier le respect de la condition de financement d'au moins 25 % des investissements par l'entreprise bénéficiaire du
+crédit d'impôt prévue au d du XI de l'article 244 quater I du code général des impôts et de la condition de maintien des
+emplois créés ou des investissements réalisés prévue au e du même XI.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater I du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 49 septies YF
+
+	**Créé par**:
+
+	  - Décret n°2005-394 du 26 avril 2005 - art. 1 () JORF 29 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YI
+
+L'agrément peut être retiré par l'autorité compétente aux entreprises qui cessent de remplir les conditions prévues au XI de
+l'article 244 quater I du code général des impôts, et notamment qui ne peuvent justifier du maintien des emplois créés ou des
+investissements réalisés pendant une durée minimale de cinq ans.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater I du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater I
+
+	**Créé par**:
+
+	  - Décret n°2005-394 du 26 avril 2005 - art. 1 () JORF 29 avril 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section V octies : Crédit d'impôt en faveur de l'apprentissage
