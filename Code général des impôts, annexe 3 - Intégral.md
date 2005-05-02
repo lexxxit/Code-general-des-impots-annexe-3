@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-04-29
+Version Consolidée au 2005-05-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13074,35 +13074,40 @@ concerné.
 	  - Code général des impôts, CGI. - art. 220 septies
 
 
-##### Section VI quater : Crédit d'impôt pour dépenses dans la production d'oeuvres cinématographiques
+##### Section VI quater : Crédit d'impôt pour dépenses de production d'oeuvres cinématographiques ou audiovisuelles
 
 ###### Article 46 quater-0 YL
 
 Les oeuvres cinématographiques de longue durée dont les dépenses de production ouvrent droit au bénéfice du crédit d'impôt
 prévu aux articles 220 sexies et 220 F du code général des impôts sont celles définies au 1° de l'article 6 du décret n°
-99-130 du 24 février 1999 relatif au soutien financier de l'industrie cinématographique.
+99-130 du 24 février 1999 relatif au soutien financier de l'industrie cinématographique. 
 
-Les entreprises de production déléguées qui peuvent bénéficier du crédit d'impôt prévu aux articles 220 sexies et 220 F du
-code général des impôts sont celles définies au 5° de l'article 6 du décret précité.
+Les entreprises de production déléguées qui peuvent bénéficier du crédit d'impôt pour dépenses de production d'oeuvres
+cinématographiques prévu aux articles 220 sexies et 220 F du code général des impôts sont celles définies au 5° de l'article
+6 du décret précité. 
+
+Les entreprises de production déléguées qui peuvent bénéficier du crédit d'impôt pour dépenses de production d'oeuvres
+audiovisuelles prévu aux articles 220 sexies et 220 F précités sont celles définies au II de l'article 3 du décret n° 95-110
+du 2 février 1995 relatif au soutien financier à la production, à la préparation et à la distribution d'oeuvres
+audiovisuelles.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 220 sexies, 220 F
-	  - Décret n°99-130 du 24 février 1999 - art. 6 (M)
+	  - Décret n°95-110 du 2 février 1995 - art. 3 (V)
+	  - Décret n°99-130 du 24 février 1999 - art. 6 (V)
+	  - Code général des impôts, CGI. - art. 220 F (V)
+	  - Code général des impôts, CGI. - art. 220 sexies (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-368 du 28 avril 2004 - art. 1 () JORF 29 avril 2004
+	  - Décret n°2005-407 2005-04-29 art. 1 I, II JORF 3 mai 2005
+	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
 
 	**Cité par**:
 
 	  - Code du cinéma et de l'image animée - art. D331-18 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quater-0 YM
@@ -13110,17 +13115,20 @@ code général des impôts sont celles définies au 5° de l'article 6 du décre
 Pour la détermination des dépenses mentionnées au III de l'article 220 sexies du code général des impôts, il y a lieu de
 retenir :
 
-1° Pour les oeuvres cinématographiques de fiction ainsi que pou r les oeuvres cinématographiques documentaires :
+1° Pour les oeuvres cinématographiques ou audiovisuelles de fiction et les oeuvres cinématographiques ou audiovisuelles
+documentaires :
 
-a. Au titre des salaires et charges sociales afférents aux techniciens et ouvriers de la production cinématographique engagés
-par l'entreprise de production : les rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où
-elles correspondent à des cotisations sociales obligatoires ;
+a. Au titre des salaires et charges sociales afférents aux techniciens et ouvriers de la production engagés par l'entreprise
+de production : les rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où elles correspondent
+à des cotisations sociales obligatoires. Lorsque les techniciens et ouvriers de la production sont employés par l'entreprise
+de production à titre permanent, seuls sont pris en compte les salaires et charges sociales correspondant à la période durant
+laquelle ces personnels ont été effectivement employés à la réalisation de l'oeuvre éligible au crédit d'impôt ;
 
 b. Au titre des dépenses liées à l'utilisation de studios de prises de vues, y compris la construction de décors, d'effets
 spéciaux de tournage, de costumes et de coiffures et maquillage : les dépenses de location des plateaux de tournage et
-annexes, de construction de décors en studio ou dans des lieux loués exclusivement affectés au tournage, d'éclairage, de
-préparation et de réalisation des effets spéciaux de tournage, y compris les cascades, de location et de fabrication des
-costumes, coiffures et de maquillage ;
+annexes, de location de lieux loués spécifiquement pour le tournage à l'exclusion des lieux d'habitation, de construction de
+décors sur les lieux de tournage, d'éclairage, de préparation et de réalisation des effets spéciaux de tournage, y compris
+les cascades, de location et de fabrication des costumes, coiffures et de maquillage ;
 
 c. Au titre des dépenses de matériels techniques nécessaires au tournage : les dépenses de matériels de prise de vues, de
 machinerie, d'éclairage et de prise de son ;
@@ -13133,12 +13141,15 @@ e. Au titre des dépenses de pellicules et autres supports d'images et des dépe
 pellicules négatives image, de pellicules magnétiques son, de laboratoires de tournage, de laboratoires de finition, de
 laboratoire vidéo et de sous-titrage ;
 
-2° Pour les oeuvres cinématographiques d'animation :
+2° Pour les oeuvres cinématographiques ou audiovisuelles d'animation :
 
-a. Au titre des salaires et charges sociales afférents aux techniciens de la production cinématographique et aux
-collaborateurs chargés de la préparation et de la fabrication de l'animation engagés par l'entreprise de production : les
-rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où elles correspondent à des cotisations
-sociales obligatoires ;
+a. Au titre des salaires et charges sociales afférents aux techniciens de la production et aux collaborateurs chargés de la
+préparation et de la fabrication de l'animation engagés par l'entreprise de production : les rémunérations et leurs
+accessoires ainsi que les charges sociales, dans la mesure où elles correspondent à des cotisations sociales obligatoires.
+Lorsque les techniciens de la production et les collaborateurs chargés de la préparation et de la fabrication de l'animation
+sont employés par l'entreprise de production à titre permanent, seuls sont pris en compte les salaires et charges sociales
+correspondant à la période durant laquelle ces personnels ont été effectivement employés à la réalisation de l'oeuvre
+éligible au crédit d'impôt ;
 
 b. Au titre des dépenses liées au recours à des prestataires spécialisés dans les travaux de préparation et de fabrication de
 l'animation : les dépenses correspondant aux travaux facturés par les entreprises qui effectuent, pour le compte des
@@ -13164,9 +13175,10 @@ titrages.
 
 	  - CGI 220 sexies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-368 du 28 avril 2004 - art. 1 () JORF 29 avril 2004
+	  - Décret n°2005-407 2005-04-29 art. 1 I, III JORF 3 mai 2005
+	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
 
 	**Cité par**:
 
@@ -13174,7 +13186,7 @@ titrages.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 46 quater-0 YN
@@ -13182,9 +13194,9 @@ titrages.
 Pour la détermination des dépenses visées aux b, c, d et e du 1° du 1 du III et aux b, c, d et e du 2° du 1 du III de
 l'article 220 sexies du code général des impôts, il y a lieu de retenir les dotations aux amortissements fiscalement
 déductibles afférentes aux immobilisations détenues par l'entreprise de production déléguée et affectées directement à la
-réalisation de l'oeuvre cinématographique ouvrant droit au crédit d'impôt. Seules sont prises en compte les dotations aux
-amortissements correspondant à la période durant laquelle l'immobilisation a été effectivement utilisée pour la réalisation
-de l'oeuvre éligible au crédit d'impôt.
+réalisation de l'oeuvre cinématographique ou de l'oeuvre audiovisuelle ouvrant droit au crédit d'impôt. Seules sont prises en
+compte les dotations aux amortissements correspondant à la période durant laquelle l'immobilisation a été effectivement
+utilisée pour la réalisation de l'oeuvre éligible au crédit d'impôt.
 
 **Liens relatifs à cet article**
 
@@ -13192,44 +13204,42 @@ de l'oeuvre éligible au crédit d'impôt.
 
 	  - CGI 220 sexies
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 2004-12-30 art. 48 I A, II Finances pour 2005 JORF 31 décembre 2004
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 48 (V) JORF 31 décembre 2004
+	  - Décret n°2005-407 2005-04-29 art. 1 I, IV JORF 3 mai 2005
+	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2005-330 2005-04-06
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 46 quater-0 YO
 
 Les personnels mentionnés au a du 1° et au a du 2° de l'article 46 quater-0 YM sont ceux engagés par l'entreprise de
-production déléguée pour la réalisation d'une oeuvre cinématographique déterminée. Ils comprennent :
+production déléguée pour la réalisation d'une oeuvre cinématographique ou d'une oeuvre audiovisuelle déterminée. Ils
+comprennent :
 
-1° Pour les oeuvres cinématographiques de fiction et pour les oeuvres cinématographiques documentaires :
+1° Pour les oeuvres cinématographiques ou audiovisuelles de fiction et les oeuvres cinématographiques ou audiovisuelles
+documentaires :
 
-a. Les techniciens de la production cinématographique autres que le réalisateur qui sont ceux en charge : de la préparation
-et de l'assistance de réalisation ; de la technique et de la qualité artistique des prises de vues ; de la technique et de la
-qualité artistique des enregistrements sonores ; de la création artistique et de l'exécution des décors ; de la création
-artistique des costumes, perruques et accessoires vestimentaires ; de la confection des costumes et accessoires
-vestimentaires ; de l'habillage et de l'entretien des costumes ; du maquillage de composition des acteurs ; de la confection
-des perruques et postiches et de l'exécution des coiffures ; des accessoires de plateau et de décor ; de l'assemblage
-artistique et technique des images et des sons ; de la préparation et de la réalisation des effets spéciaux de tournage, y
-compris les cascades ; de la direction et de la gestion administrative, technique et comptable de la production ;
+a. Les techniciens de la production autres que le réalisateur qui sont ceux en charge : de la préparation et de l'assistance
+de réalisation ; de la technique et de la qualité artistique des prises de vues ; de la technique et de la qualité artistique
+des enregistrements sonores ; de la création artistique et de l'exécution des décors ; de la création artistique des
+costumes, perruques et accessoires vestimentaires ; de la confection des costumes et accessoires vestimentaires ; de
+l'habillage et de l'entretien des costumes ; du maquillage de composition des acteurs ; de la confection des perruques et
+postiches et de l'exécution des coiffures ; des accessoires de plateau et de décor ; de l'assemblage artistique et technique
+des images et des sons ; de la préparation et de la réalisation des effets spéciaux de tournage, y compris les cascades ; de
+la direction et de la gestion administrative, technique et comptable de la production ;
 
-b. Les ouvriers de la production cinématographique qui sont ceux en charge : de la machinerie ; de l'éclairage ; de la
-construction des décors ;
+b. Les ouvriers de la production qui sont ceux en charge : de la machinerie ; de l'éclairage ; de la construction des
+décors ;
 
-2° Pour les oeuvres cinématographiques d'animation :
+2° Pour les oeuvres cinématographiques ou audiovisuelles d'animation :
 
-a. Les techniciens de la production cinématographique autres que le réalisateur qui sont ceux en charge : de l'assistance de
-réalisation, de la direction artistique et de la direction d'écriture de l'oeuvre cinématographique ; de la direction et de
-la gestion administrative, technique et comptable de la production ;
+a. Les techniciens de la production autres que le réalisateur qui sont ceux en charge : de l'assistance de réalisation, de la
+direction artistique et de la direction d'écriture de l'oeuvre cinématographique ou audiovisuelle ; de la direction et de la
+gestion administrative, technique et comptable de la production ;
 
 b. Les collaborateurs chargés de la préparation de l'animation qui sont ceux en charge : de la création du scénarimage ; de
 la conception et de la modélisation des personnages ; de la conception et de la modélisation des décors ; des feuilles
@@ -13246,23 +13256,26 @@ technique des images et du son.
 
 	  - CGIAN3 46 quater-0 YM
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-368 du 28 avril 2004 - art. 1 () JORF 29 avril 2004
+	  - Décret n°2005-407 2005-04-29 art. 1 I, V JORF 3 mai 2005
+	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 46 quater-0 YP
 
 Pour l'application des dispositions des articles 220 sexies et 220 F du code général des impôts, les entreprises doivent
-déposer une déclaration spéciale auprès du comptable de la direction générale des impôts avec le relevé de solde de
-l'exercice concerné. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code
-général des impôts, la société mère joint les déclarations spéciales du groupe au relevé de solde relatif au résultat
-d'ensemble. Les sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration de
-résultat qu'elles sont tenues de déposer en vertu du 1 de l'article 223 du code précité.
+déposer une déclaration spéciale avec le relevé de solde mentionné à l'article 360 auprès du comptable de la direction
+générale des impôts.
+
+S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
+société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. Les
+sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration qu'elles sont tenues de
+déposer en vertu du 1 de l'article 223 du code précité.
 
 Une copie de la déclaration spéciale doit être adressée dans le même délai au Centre national de la cinématographie.
 
@@ -13270,57 +13283,29 @@ Une copie de la déclaration spéciale doit être adressée dans le même délai
 
 	**Cite**:
 
-	  - CGI 220 sexies, 220 F, 223 A, 223
+	  - CGI 220 sexies, 220 F, 223 A, 223, 360
 
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 46 quater-0 YQ
-
-Pour une oeuvre cinématographique déterminée, le point de départ du délai prévu au dernier alinéa de l'article 220 F du code
-général des impôts s'entend de la clôture du dernier exercice au titre duquel un crédit d'impôt a été obtenu à raison des
-dépenses de production afférentes à cette oeuvre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220 F
-
-	**Créé par**:
-
-	  - Décret n°2004-368 du 28 avril 2004 - art. 1 () JORF 29 avril 2004
-
-	**Abrogé par**:
-
+	  - Décret n°2005-407 2005-04-29 art. 1 I, VI JORF 3 mai 2005
 	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
 
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
-	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article 46 quater-0 YR
 
-Le crédit d'impôt en faveur des entreprises de production cinématographique est imputé sur l'impôt dû après les prélèvements
-non libératoires et les crédits d'impôt non restituables.
+Le crédit d'impôt en faveur des entreprises de production cinématographique et des entreprises de production audiovisuelle
+est imputé sur l'impôt dû après les prélèvements non libératoires et les crédits d'impôt non restituables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-368 du 28 avril 2004 - art. 1 () JORF 29 avril 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2005-407 2005-04-29 art. 1 I, VII JORF 3 mai 2005
+	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
 
 
 ##### Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural

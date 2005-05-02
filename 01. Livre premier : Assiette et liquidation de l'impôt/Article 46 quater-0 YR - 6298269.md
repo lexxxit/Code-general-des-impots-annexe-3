@@ -1,14 +1,11 @@
 # Article 46 quater-0 YR
 
-Le crédit d'impôt en faveur des entreprises de production cinématographique est imputé sur l'impôt dû après les prélèvements
-non libératoires et les crédits d'impôt non restituables.
+Le crédit d'impôt en faveur des entreprises de production cinématographique et des entreprises de production audiovisuelle
+est imputé sur l'impôt dû après les prélèvements non libératoires et les crédits d'impôt non restituables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-368 du 28 avril 2004 - art. 1 () JORF 29 avril 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2005-407 2005-04-29 art. 1 I, VII JORF 3 mai 2005
+	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005

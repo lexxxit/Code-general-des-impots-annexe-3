@@ -3,17 +3,20 @@
 Pour la détermination des dépenses mentionnées au III de l'article 220 sexies du code général des impôts, il y a lieu de
 retenir :
 
-1° Pour les oeuvres cinématographiques de fiction ainsi que pou r les oeuvres cinématographiques documentaires :
+1° Pour les oeuvres cinématographiques ou audiovisuelles de fiction et les oeuvres cinématographiques ou audiovisuelles
+documentaires :
 
-a. Au titre des salaires et charges sociales afférents aux techniciens et ouvriers de la production cinématographique engagés
-par l'entreprise de production : les rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où
-elles correspondent à des cotisations sociales obligatoires ;
+a. Au titre des salaires et charges sociales afférents aux techniciens et ouvriers de la production engagés par l'entreprise
+de production : les rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où elles correspondent
+à des cotisations sociales obligatoires. Lorsque les techniciens et ouvriers de la production sont employés par l'entreprise
+de production à titre permanent, seuls sont pris en compte les salaires et charges sociales correspondant à la période durant
+laquelle ces personnels ont été effectivement employés à la réalisation de l'oeuvre éligible au crédit d'impôt ;
 
 b. Au titre des dépenses liées à l'utilisation de studios de prises de vues, y compris la construction de décors, d'effets
 spéciaux de tournage, de costumes et de coiffures et maquillage : les dépenses de location des plateaux de tournage et
-annexes, de construction de décors en studio ou dans des lieux loués exclusivement affectés au tournage, d'éclairage, de
-préparation et de réalisation des effets spéciaux de tournage, y compris les cascades, de location et de fabrication des
-costumes, coiffures et de maquillage ;
+annexes, de location de lieux loués spécifiquement pour le tournage à l'exclusion des lieux d'habitation, de construction de
+décors sur les lieux de tournage, d'éclairage, de préparation et de réalisation des effets spéciaux de tournage, y compris
+les cascades, de location et de fabrication des costumes, coiffures et de maquillage ;
 
 c. Au titre des dépenses de matériels techniques nécessaires au tournage : les dépenses de matériels de prise de vues, de
 machinerie, d'éclairage et de prise de son ;
@@ -26,12 +29,15 @@ e. Au titre des dépenses de pellicules et autres supports d'images et des dépe
 pellicules négatives image, de pellicules magnétiques son, de laboratoires de tournage, de laboratoires de finition, de
 laboratoire vidéo et de sous-titrage ;
 
-2° Pour les oeuvres cinématographiques d'animation :
+2° Pour les oeuvres cinématographiques ou audiovisuelles d'animation :
 
-a. Au titre des salaires et charges sociales afférents aux techniciens de la production cinématographique et aux
-collaborateurs chargés de la préparation et de la fabrication de l'animation engagés par l'entreprise de production : les
-rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où elles correspondent à des cotisations
-sociales obligatoires ;
+a. Au titre des salaires et charges sociales afférents aux techniciens de la production et aux collaborateurs chargés de la
+préparation et de la fabrication de l'animation engagés par l'entreprise de production : les rémunérations et leurs
+accessoires ainsi que les charges sociales, dans la mesure où elles correspondent à des cotisations sociales obligatoires.
+Lorsque les techniciens de la production et les collaborateurs chargés de la préparation et de la fabrication de l'animation
+sont employés par l'entreprise de production à titre permanent, seuls sont pris en compte les salaires et charges sociales
+correspondant à la période durant laquelle ces personnels ont été effectivement employés à la réalisation de l'oeuvre
+éligible au crédit d'impôt ;
 
 b. Au titre des dépenses liées au recours à des prestataires spécialisés dans les travaux de préparation et de fabrication de
 l'animation : les dépenses correspondant aux travaux facturés par les entreprises qui effectuent, pour le compte des
@@ -57,9 +63,10 @@ titrages.
 
 	  - CGI 220 sexies
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-368 du 28 avril 2004 - art. 1 () JORF 29 avril 2004
+	  - Décret n°2005-407 2005-04-29 art. 1 I, III JORF 3 mai 2005
+	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
 
 	**Cité par**:
 
@@ -67,4 +74,4 @@ titrages.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2006
