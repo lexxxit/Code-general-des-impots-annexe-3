@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-05-19
+Version Consolidée au 2005-05-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17675,6 +17675,173 @@ en vertu du 1 de l'article 223 du code précité.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2005
+
+
+##### Section V nonies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale
+
+###### Article 49 septies YP
+
+En cas de clôture d'exercice en cours d'année, le crédit d'impôt prévu à l'article 244 quater J du code général des impôts
+est calculé en prenant en compte les avances remboursables sans intérêt versées au titre de la dernière année civile écoulée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater J (VT)
+
+
+###### Article 49 septies YQ
+
+Pour le calcul du crédit d'impôt prévu à l'article 244 quater J du code général des impôts au titre d'une année, les avances
+remboursables doivent être prises en compte dans leur totalité à compter du premier déblocage des fonds.
+
+Les éléments de nature à modifier le montant et les conditions de remboursement de l'avance remboursable sans intérêt doivent
+être pris en compte pour la production de l'attestation portant le calcul du crédit d'impôt et délivrée par l'organisme
+mentionné au troisième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de
+crédit.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater J
+	  - Code de la construction et de l'habitation. - art. L312-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YR
+
+Le crédit d'impôt prévu à l'article 244 quater J du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater J (VT)
+
+
+###### Article 49 septies YS
+
+Pour l'application des dispositions des articles 199 ter I, 220 K et 244 quater J du code général des impôts, les
+établissements de crédit mentionnés au I de l'article 244 quater J précité doivent annexer une déclaration spéciale à la
+déclaration de résultat qu'elles sont tenues de déposer auprès du service des impôts dont elles dépendent.
+
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
+comptable de la direction générale des impôts avec le relevé de solde de l'exercice. S'agissant des sociétés relevant du
+régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations
+spéciales des sociétés membres du groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe
+sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultats qu'elles sont tenues de
+déposer en vertu du 1 de l'article 223 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter I, 220 K, 244 quater J, 223 A, 223
+
+	**Créé par**:
+
+	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YT
+
+L'organisme mentionné au troisième alinéa de l'article L. 312-1 du code de la construction et de l'habitation est tenu de
+transmettre au service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque
+établissement de crédit, un état relatif au crédit d'impôt en faveur de la première accession à la propriété pour chaque
+établissement de crédit tenu de déposer une déclaration spéciale lui ayant déclaré des avances remboursables sans intérêt. 
+
+Cet état doit faire apparaître les éléments suivants : 
+
+a) Le montant global des avances remboursables sans intérêt ainsi que des crédits d'impôts dégagés au cours des années
+antérieures et de l'année concernée ; 
+
+b) Le suivi des crédits d'impôts ; 
+
+c) Les crédits d'impôts ou fractions de crédit d'impôt reversés ou non imputés suite au non-respect des conditions d'octroi
+des avances remboursables mentionnées au I de l'article 244 quater J du code général des impôts, au non-respect des
+conditions relatives à l'affectation du logement et à ses caractéristiques mentionnées au I de l'article susmentionné, aux
+remboursements totaux ou partiels d'avances remboursables sans intérêts intervenant pendant la durée de remboursement de
+l'avance ainsi que l'origine du reversement ou de l'arrêt d'imputation du crédit d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater J (VT)
+	  - Code de la construction et de l'habitation. - art. L312-1 (VT)
+
+
+##### Section V decies : Crédit d'impôt pour dépenses de prospection commerciale
+
+###### Article 49 septies YU
+
+Le crédit d'impôt prévu à l'article 244 quater H du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-568 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater H (V)
+
+
+###### Article 49 septies YV
+
+Pour l'application des dispositions des articles 199 ter G, 220 I et 244 quater H du code général des impôts, les entreprises
+doivent annexer une déclaration spéciale selon un modèle établi par l'administration à la déclaration de résultat qu'elles
+sont tenues de déposer en vertu des articles 53 A et 97 du code général des impôts auprès du service des impôts dont elles
+dépendent.
+
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
+comptable de la direction générale des impôts avec le relevé de solde de l'exercice. S'agissant des sociétés relevant du
+régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations
+spéciales des sociétés membres du groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe
+sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultat qu'elles sont tenues de déposer
+en vertu du 1 de l'article 223 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter G, 220 I, 244 quater H, 53 A, 97, 223 A, 223
+
+	**Créé par**:
+
+	  - Décret n°2005-568 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section VI : Indemnités de congé payé
