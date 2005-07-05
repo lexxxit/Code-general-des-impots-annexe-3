@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-05-28
+Version Consolidée au 2005-07-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -22059,6 +22059,293 @@ prévu au deuxième alinéa du V de l'article 302 G.
 	  - HISTO: Edition du 31 mars 2002
 
 
+##### Section 0I bis : Modalités d'exonération des droits d'accises sur les alcools et les boissons alcooliques
+
+###### Article 111-0 E
+
+I.-Pour l'application des I et II de l'article 302 D bis du code général des impôts, le fournisseur d'alcools et de boissons
+alcooliques, ci-après dénommé " fournisseur ", à savoir la personne qui fabrique, importe, réalise des acquisitions
+intracommunautaires ou détient ces produits qu'elle a reçus ou achetés et qui sont destinés à la réexpédition ou à la revente
+en l'état, doit : 
+
+1° Exercer son activité en tant qu'entrepositaire agréé, dans les conditions prévues à l'article 302 G du code général des
+impôts ; 
+
+2° Conserver, selon le cas, la copie de l'exemplaire de la déclaration préalable de profession des intermédiaires mentionnés
+au 2° du II ou des utilisateurs d'alcools et de boissons alcooliques définis à l'article 111-0 F, que ces intermédiaires ou
+utilisateurs lui ont transmise, pour être présentée à toute réquisition des agents des douanes et droits indirects ; 
+
+3° Tenir une liste récapitulative des personnes auxquelles il livre des alcools et des boissons alcooliques, dénommée " liste
+clients ". Le fournisseur doit justifier, à toute réquisition des agents des douanes et droits indirects et par tout moyen ou
+document, que les livraisons qu'il a réalisées sous le régime de l'exonération de droits d'accises ont été effectuées à
+destination d'une personne dûment autorisée ; 
+
+4° Expédier les alcools et les boissons alcooliques sous couvert, selon le cas, du document d'accompagnement mentionné à
+l'article 302 M du code général des impôts ou d'un document économique ci-après mentionné aux a et c : 
+
+a. Le fournisseur établit à l'attention des utilisateurs définis à l'article 111-0 F le document d'accompagnement mentionné
+au II de l'article 302 M du code général des impôts ou un document économique. Outre le numéro d'identification de
+l'utilisateur figurant sur la déclaration préalable de profession mentionnée au 2° et les informations prescrites par le
+règlement (CEE) n° 3649/92 de la Commission du 17 décembre 1992, le fournisseur indique :
+
+- lorsqu'il utilise le formulaire type figurant en annexe du règlement susmentionné, la mention : " Produits exonérés (art.
+302 D bis du CGI) " ;
+
+- lorsqu'il utilise le document commercial en lieu et place du formulaire type tel que prévu par ledit règlement, en
+intitulé, les mentions : " Communauté européenne " et " Document commercial simplifié d'accompagnement pour le contrôle
+fiscal des produits soumis à accises en régime d'exonération de droits " ; 
+
+b. Le numéro d'identification figurant sur la déclaration préalable de profession mentionnée au 2° ci-dessus doit être
+indiqué sur le document d'accompagnement mentionné au I de l'article 302 M du code général des impôts destiné à un
+intermédiaire mentionné au 2° du II ; 
+
+c. Lorsqu'il utilise un document économique, outre le numéro d'identification de l'utilisateur ou de l'intermédiaire figurant
+sur la déclaration préalable de profession mentionnée au 2°, le fournisseur indique la mention : " Produits exonérés (art.
+302 D bis du CGI) " ainsi que la nature du produit qui justifie l'exonération ; 
+
+d. Le document d'accompagnement n'est pas exigé lors du transport, au sein du territoire fiscal de la France métropolitaine
+et des départements d'outre-mer, des échantillons visés au e du II de l'article 302 D bis du même code, sous réserve qu'il
+puisse être justifié de leur situation régulière au moyen d'une marque spécifique, comportant l'indication " ECHANTILLON "
+portée sur les récipients contenant les produits ou sur les documents économiques les accompagnant ; 
+
+5° Conserver les documents visés aux 2° à 4° et les pièces justificatives, selon les modalités fixées à l'article L. 102 B du
+livre des procédures fiscales. 
+
+II.-S'agissant des cas visés au d du II de l'article 302 D bis du code général des impôts propres au secteur des préparations
+alimentaires à usage humain, outre les formalités et obligations fixées au I du présent article : 
+
+1° Le fournisseur qui fabrique, importe ou réalise des acquisitions intracommunautaires d'alcools et de boissons alcooliques
+doit revêtir les récipients d'une marque comportant l'une des deux indications suivantes : 
+
+" Usage réservé aux professionnels pour les préparations alimentaires " ou " Destiné à la fabrication de denrées alimentaires
+et non à la vente au détail ". 
+
+La marque doit être indélébile, facilement lisible et visible dans les conditions habituelles de présentation. L'apposition
+de cette marque doit être effectuée de telle manière que son retrait éventuel ou sa réutilisation soit impossible ; 
+
+2° Le fournisseur qui reçoit ou achète des alcools et des boissons alcooliques dans des récipients revêtus de la marque visée
+au 1° ci-dessus et qui sont destinés à la réexpédition ou à la revente en l'état, dénommé " intermédiaire ", doit faire une
+déclaration préalable de profession en justifiant de son identité et de son activité auprès du service des douanes et droits
+indirects dont il dépend afin que celui-ci lui attribue un numéro d'identification. 
+
+Tout refus d'attribution d'un numéro d'identification par l'administration des douanes et droits indirects est motivé et
+notifié au déclarant. 
+
+L'intermédiaire communique au fournisseur défini au I une copie de l'exemplaire de la déclaration préalable de profession. 
+
+L'intermédiaire est tenu de faire savoir au service des douanes et droits indirects dont il dépend tout changement ou
+modification intervenant dans son activité, en établissant une nouvelle déclaration préalable de profession. 
+
+Il appartient à l'intermédiaire d'informer son fournisseur de l'attribution d'un nouveau numéro d'identification, en cas de
+changement ou modification de son activité, et de lui transmettre, le cas échéant, une copie de l'exemplaire de la
+déclaration préalable de profession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-758 du 4 juillet 2005 - art. 1 () JORF 6 juillet 2005
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 F (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 G (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 H (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 D bis (V)
+	  - Code général des impôts, CGI. - art. 302 G (V)
+	  - Livre des procédures fiscales - art. L102 B (VT)
+
+
+###### Article 111-0 F
+
+I. - Pour l'application du III de l'article 302 D bis du code général des impôts, l'opérateur qui veut bénéficier des
+exonérations prévues au I et au II de cet article ou qui veut se livrer au commerce des alcools totalement dénaturés
+mentionnés au a du I dudit article, dénommé "utilisateur", doit :
+
+1° Faire une déclaration préalable de profession en justifiant de son identité et de son activité auprès du service des
+douanes et droits indirects territorialement compétent afin que celui-ci attribue un numéro d'identification.
+
+Tout refus d'attribution d'un numéro d'identification par l'administration des douanes et droits indirects est motivé et
+notifié au déclarant.
+
+L'utilisateur est tenu de faire savoir au service des douanes et droits indirects dont il dépend tout changement ou
+modification intervenant dans son activité, en établissant une nouvelle déclaration préalable de profession ;
+
+2° Communiquer, selon le cas, au fournisseur ou à l'intermédiaire défini à l'article 111-0 E, une copie de l'exemplaire de la
+déclaration préalable de profession indiquant le numéro d'identification mentionné au 1° ci-dessus ;
+
+3° Conserver les documents d'accompagnement mentionnés au 4° du I de l'article 111-0 E et les pièces justificatives, selon
+les modalités fixées à l'article L. 102 B du livre des procédures fiscales.
+
+Le numéro d'identification est retiré par l'administration des douanes et droits indirects qui l'a délivré, en cas de
+manquements de son titulaire aux dispositions législatives et réglementaires concernant l'exonération des droits sur l'alcool
+et les boissons alcooliques dans les cas prévus à l'article 302 D bis du code général des impôts ou de changement de son
+activité ne permettant plus le bénéfice de cette exonération. La décision de retrait du numéro d'identification est motivée
+et notifiée à l'intéressé.
+
+Il appartient à l'utilisateur d'informer ses fournisseurs du retrait de son numéro d'identification ou de l'attribution d'un
+nouveau numéro d'identification, en cas de changement ou modification de son activité, et de leur transmettre, le cas
+échéant, une copie de l'exemplaire de la déclaration préalable de profession.
+
+II. - L'utilisateur d'alcools et de boissons alcooliques, à savoir la personne qui reçoit ces produits pour les utiliser aux
+fins et dans les cas prévus au b du I et au II de l'article 302 D bis du code général des impôts, et outre les formalités et
+obligations prévues au I, doit :
+
+1° Produire à l'appui de la déclaration préalable de profession mentionnée au 1° du I, lorsqu'il utilise des alcools et des
+boissons alcooliques dans les conditions fixées au b du I et aux a à d, h et i du II de l'article 302 D bis du code général
+des impôts, selon le cas, tout document sur la nature et la composition détaillée des produits fabriqués, les procédés et
+techniques de fabrication, une estimation des taux moyens de déchets ainsi que la procédé de dénaturation utilisé ;
+
+2° Justifier que les quantités d'alcools et de boissons alcooliques qu'il a reçues correspondent effectivement aux besoins
+réels et normaux de sa profession ou de son activité économique et de l'utilisation de ces quantités aux fins et dans les
+conditions prévues à l'article 302 D bis du code général des impôts, par tout moyen ou document et notamment par la
+production d'échantillons de produits obtenus à partir d'alcools et de boissons alcooliques ou de notices décrivant ces
+produits, par la communication des procédés et techniques de fabrication ou par la présentation de ses procédures et de ses
+méthodes de contrôle interne de la qualité ;
+
+3° S'il est débitant de boissons, stocker les récipients revêtus de la marque visée au 1° du II de l'article 111-0 E de
+manière distincte de ceux qu'il reçoit dans le cadre de son activité de débitant de boissons.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 D bis, 111-0 E
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Créé par**:
+
+	  - Décret n°2005-758 du 4 juillet 2005 - art. 1 () JORF 6 juillet 2005
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 G (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 H (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 G (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 H (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 111-0 G
+
+Dans les cas prévus au b du I et aux b à i du II de l'article 302 D bis du code général des impôts, en plus des formalités et
+obligations fixées à l'article 111-0 F, et dès lors qu'ils reçoivent annuellement dans des quantités supérieures ou égales
+pour les alcools à 100 litres et 500 litres pour des boissons alcooliques, quantités exprimées en volume effectif, les
+utilisateurs doivent tenir une comptabilité matières des produits qu'ils reçoivent et qu'ils utilisent. 
+
+1° La comptabilité matières est constituée : 
+
+a. D'un compte principal décrivant les réceptions et les détentions d'alcool et de boissons alcooliques ; 
+
+b. D'un compte de fabrication de produits. 
+
+2° Les quantités d'alcools et boissons alcooliques sont exprimées en volume d'alcool pur, s'il s'agit d'alcools, en volume
+effectif, s'il s'agit de produits intermédiaires ou de produits mentionnés à l'article 438 du code général des impôts, ou en
+volume effectif par degré alcoométrique, s'il s'agit de bières. 
+
+La comptabilité matières comprend les renseignements suivants : 
+
+a. Dans la colonne " Entrées " du compte principal doivent figurer les quantités d'alcool ou de boissons alcooliques reçues
+et détenues par l'utilisateur ; 
+
+b. Dans la colonne " Sorties " du compte principal, doivent figurer les quantités d'alcool ou de boissons alcooliques
+destinées à être mises en oeuvre ; 
+
+c. Dans la colonne " Entrées " du compte de fabrication et pour chaque produit fabriqué doivent figurer les quantités
+d'alcools et de boissons alcooliques mises en oeuvre ; 
+
+d. Dans la colonne " Sorties " du compte de fabrication doivent figurer les quantités de produits fabriqués et la teneur en
+alcool de ces produits. 
+
+3° La comptabilité matières est tenue, par exercice comptable, sur un livre aux pages numérotées, jour par jour, sans blanc
+ni rature, ou selon une procédure informatisée, dans les conditions et selon les modalités prévues à l'article 50-00 D de
+l'annexe IV au code général des impôts. 
+
+Les inscriptions sur la comptabilité matières doivent être faites au plus tard le jour ouvrable qui suit le jour de la
+réalisation de l'opération constituant une entrée ou une sortie selon les dispositions du 2°. 
+
+4° La comptabilité matières et les pièces justificatives doivent être conservées selon les modalités prévues à l'article L.
+102 B du livre des procédures fiscales, pour être présentées à toute réquisition des agents des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-758 du 4 juillet 2005 - art. 1 () JORF 6 juillet 2005
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 F (V)
+	  - Code général des impôts, CGI. - art. 302 D bis (V)
+	  - Code général des impôts, CGI. - art. 438 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 I (V)
+
+
+###### Article 111-0 H
+
+S'agissant du cas prévu au a du II de l'article 302 D bis du code général des impôts, les personnes qui produisent du
+vinaigre en tant qu'utilisateurs doivent, en plus des formalités et obligations fixées à l'article 111-0 F : 
+
+1° Tenir une comptabilité matières des alcools et boissons alcooliques qu'elles reçoivent et qu'elles mettent en oeuvre,
+comptabilité matières constituée d'un compte principal retraçant les réceptions et les détentions de produits ainsi que les
+produits issus de leur transformation en dilutions acéto-alcooliques. 
+
+La comptabilité matières des fabricants de vinaigre doit contenir une colonne " Entrées " et une colonne " Sorties ", comme
+ci-après : 
+
+a. Dans la colonne " Entrées " du compte principal doivent figurer les quantités de produits ou de toutes autres matières
+premières et leur richesse alcoolique effective, reçues et détenues par l'utilisateur ; 
+
+b. Dans la colonne " Sorties " du compte principal doivent figurer les quantités de produits qui ont été mises en oeuvre pour
+la fabrication de vinaigre ; 
+
+2° Pour les fabricants de vinaigre qui reçoivent et utilisent des produits vitivinicoles régis par le règlement (CE) n°
+1493/1999 du Conseil du 17 mai 1999 portant organisation commune du marché vitivinicole, transmettre au service des douanes
+et droits indirects territorialement compétent, au plus tard le dixième jour de chaque mois, une déclaration récapitulant : 
+
+a. Les quantités de produits vitivinicoles qui ont été mises en oeuvre pour la fabrication de vinaigre au cours du mois
+précédent ; 
+
+b. Le total des quantités de produits vitivinicoles qui ont été mises en oeuvre depuis le début de la campagne, excepté les
+quantités définies au a ; 
+
+c. Le total des quantités de produits vitivinicoles définies au a et au b ; 
+
+3° La comptabilité matières est tenue, par exercice comptable, sur un livre aux pages numérotées, jour par jour, sans blanc
+ni rature, ou selon une procédure informatisée, dans les conditions et selon les modalités prévues à l'article 50-00 D de
+l'annexe IV au code général des impôts. 
+
+Les inscriptions sur la comptabilité matières doivent être faites au plus tard le jour ouvrable qui suit le jour de la
+réalisation de l'opération constituant une entrée ou une sortie selon les dispositions du 1°.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-758 du 4 juillet 2005 - art. 1 () JORF 6 juillet 2005
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 F (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 D (V)
+	  - Code général des impôts, CGI. - art. 302 D bis (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 I (V)
+
+
 ##### Section II : Titres de mouvement
 
 ###### Article 111 H bis
@@ -22949,6 +23236,39 @@ peut être refusée au producteur en cas d'infraction aux prescriptions du 1.
 	**Abrogé par**:
 
 	  - Décret n°2015-1577 du 2 décembre 2015 - art. 5
+
+
+###### Article 170
+
+Pour l'application du 2° des I et II de l'article 435 au code général des impôts, les vins, les boissons ou les produits
+fermentés mousseux sont ceux qui sont présentés dans des bouteilles fermées par un bouchon "champignon" maintenu à l'aide
+d'attaches ou de liens ou ceux qui ont une surpression due à l'anhydride carbonique en solution égale ou supérieure à 3 bar.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 435
+
+	**Nouveaux textes**:
+
+	  - CGIAN3 171
+
+	**Créé par**:
+
+	  - Décret n°2005-758 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
+
+	**Transféré par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### B : Régime fiscal
