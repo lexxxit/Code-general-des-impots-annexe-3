@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-07-06
+Version Consolidée au 2005-08-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10106,6 +10106,45 @@ plusieurs exemplaires.
 
 ##### Section III : Calcul de l'impôt
 
+###### Article 46 AX bis
+
+I. - Le crédit d'impôt mentionné à l'article 200 decies du code général des impôts est accordé sur demande du contribuable
+formulée sur la déclaration prévue au 1 de l'article 170 du même code. Pour justifier du bien-fondé de ce crédit d'impôt, le
+bénéficiaire conserve l'attestation mentionnée à l'article 46 AX établie par son ou ses employeurs jusqu'à l'expiration du
+délai au cours duquel l'administration est susceptible d'exercer son droit de reprise.
+
+II. - La personne qui sollicite le versement par anticipation du crédit d'impôt en fait la demande expresse, sous peine de
+forclusion, dans les deux mois suivant la fin de la période des six premiers mois d'activité professionnelle.
+
+La demande est adressée ou déposée auprès du centre des impôts du lieu du domicile du demandeur au 1er janvier de l'année de
+la demande. La personne produit à cet effet le formulaire de demande de versement anticipé établi par l'administration,
+dûment complété et signé, accompagné des documents suivants :
+
+1° Un relevé d'identité bancaire, postal ou de caisse d'épargne à son nom ;
+
+2° Une copie de pièce d'identité à son nom ;
+
+3° Une copie des bulletins de salaires justifiant de l'activité professionnelle exercée au cours des six premiers mois
+d'activité ;
+
+4° L'attestation du ou des employeurs mentionnée à l'article 46 AX.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 200 decies, 170
+	  - CGIAN3 46 AX
+
+	**Créé par**:
+
+	  - Décret n°2005-896 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
 ##### 1° : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France
 
 ###### Article 46 A
@@ -11718,6 +11757,24 @@ mentionnées à l'article L. 311-9 du code de la consommation.
 	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 30 mars 2007
 	  - HISTO: Edition du 1er janvier 2007
 	  - HISTO: Edition du 31 août 2004
+
+
+##### 12° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement
+
+###### Article 46 AX ter
+
+Le versement du crédit d'impôt est effectué par virement sur le compte bancaire, postal ou de caisse d'épargne ouvert au nom
+du demandeur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-896 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
