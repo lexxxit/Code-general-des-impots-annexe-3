@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-10-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18332,31 +18332,61 @@ des impôts du siège de la direction de la personne morale ou de l'organisme ou
 Les modalités de l'agrément prévu au 10° du III de l'article 234 nonies du code général des impôts sont les suivantes :
 
 1. Peuvent être agréés par le représentant de l'Etat dans le département du lieu de leur siège social les organismes à but
-non lucratif dont l'un des objets est de contribuer au logement des personnes défavorisées mentionnées à l'article 1er de la
-loi n° 90-449 du 31 mai 1990 par la mise à leur disposition de logements.
+non lucratif ou les unions d'économie sociale dont l'un des objets est de contribuer au logement des personnes défavorisées
+mentionnées à l'article 1er de la loi n° 90-449 du 31 mai 1990 par la mise à leur disposition de logements.
 
-L'organisme doit justifier d'une compétence dans le domaine de l'action sociale et d'une expérience en matière d'insertion
-sociale ou de logement des personnes défavorisées.
+L'organisme ou l'union doit justifier d'une compétence dans le domaine de l'action sociale et d'une expérience en matière
+d'insertion sociale ou de logement des personnes défavorisées.
 
 2. L'agrément est accordé par décision du représentant de l'Etat dans le département pour une durée indéterminée. Si l'une ou
-l'autre des conditions mentionnées au 1 cesse d'être remplie et après que l'organisme a été mis en mesure de présenter ses
-observations, le retrait de l'agrément peut être prononcé par le représentant de l'Etat dans le département du lieu du siège
-de l'organisme à but non lucratif.
+l'autre des conditions mentionnées au 1 cesse d'être remplie et après que l'organisme ou l'union a été mis en mesure de
+présenter ses observations, le retrait de l'agrément peut être prononcé par le représentant de l'Etat dans le département du
+lieu du siège de l'organisme à but non lucratif ou de l'union d'économie sociale.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la loi n° 2009-323 du 25 mars 2009, article 2-II 5°.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 234 nonies
-	  - Loi n°90-449 1990-05-31 art. 1
+	  - Loi n°90-449 du 31 mai 1990
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2006
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+
+	**Modifié par**:
+
+	  - Décret n°2005-1252 du 3 octobre 2005 - art. 1 () JORF 6 octobre 2005
+
+
+###### Article 58-0 A bis
+
+I. - Pour l'application du 11° du III de l'article 234 nonies du code général des impôts, les travaux de réhabilitation des
+logements s'entendent des travaux de modification ou de remise en état du gros oeuvre ou des travaux d'aménagement interne
+qui, par leur nature, équivalent à de la reconstruction ainsi que des travaux d'amélioration qui leur sont indissociables.
+
+II. - Les contribuables doivent pouvoir justifier, sur demande de l'administration, de la date d'achèvement du logement et
+des travaux de réhabilitation, du montant des travaux de réhabilitation effectivement payé et du montant de la subvention
+versée à ce titre par l'Agence nationale pour l'amélioration de l'habitat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 234 nonies
 
 	**Créé par**:
 
-	  - Décret n°2002-1322 du 29 octobre 2002 - art. 1 () JORF 6 novembre 2002
+	  - Décret n°2005-1252 du 3 octobre 2005 - art. 1 () JORF 6 octobre 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
