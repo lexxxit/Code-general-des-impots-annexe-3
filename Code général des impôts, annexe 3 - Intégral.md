@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-10-06
+Version Consolidée au 2005-12-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17895,6 +17895,121 @@ en vertu du 1 de l'article 223 du code précité.
 	**Créé par**:
 
 	  - Décret n°2005-568 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
+##### Section V undecies : Crédit d'impôt pour dépenses d'équipement en nouvelles technologies
+
+###### Article 49 septies YW
+
+Les dépenses mentionnées aux 1°, 3° et 4° du II de l'article 244 quater K du code général des impôts relatives à la mise en
+place de réseaux intranet ou extranet et à la protection de ces réseaux sont éligibles au crédit d'impôt mentionné au I du
+même article lorsqu'elles ne constituent pas des dépenses liées à la modification, à l'extension ou au renouvellement d'un
+réseau existant.
+
+Les dépenses mentionnées au 2° du II du même article relatives à l'acquisition à l'état neuf d'immobilisations corporelles
+permettant un accès à internet à haut débit sont éligibles au crédit d'impôt mentionné au premier alinéa en ce qui concerne
+la première acquisition de tels biens.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater K du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater K
+
+	**Créé par**:
+
+	  - Décret n°2005-1517 du 7 décembre 2005 - art. 1 () JORF 9 décembre 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YX
+
+En cas de clôture d'exercice en cours d'année, le montant du crédit d'impôt prévu à l'article 244 quater K du code général
+des impôts est calculé en prenant en compte les dépenses éligibles exposées au titre de la dernière année civile écoulée.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater K du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater K
+
+	**Créé par**:
+
+	  - Décret n°2005-1517 du 7 décembre 2005 - art. 1 () JORF 9 décembre 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YY
+
+Le crédit d'impôt prévu à l'article 244 quater K du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater K du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater K
+
+	**Créé par**:
+
+	  - Décret n°2005-1517 du 7 décembre 2005 - art. 1 () JORF 9 décembre 2005
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2006
+
+
+###### Article 49 septies YZ
+
+Pour l'application des dispositions des articles 199 ter J, 220 L et 244 quater K du code général des impôts, les entreprises
+doivent annexer une déclaration spéciale selon un modèle établi par l'administration à la déclaration annuelle de résultat
+qu'elles sont tenues de déposer en vertu des articles 53 A et 97 du code général des impôts.
+
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
+comptable de la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
+relevant du régime des groupes de sociétés prévu à l'article 233 A du code général des impôts, la société mère dépose les
+déclarations spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de
+solde relatif au résultat d'ensemble du groupe.
+
+L'associé personne morale de société de personnes ou de groupement assimilé ayant engagé des dépenses ouvrant droit au crédit
+d'impôt prévu à l'article 244 quater K du code général des impôts doit déposer une déclaration spéciale récapitulant le
+crédit d'impôt prévu à l'article précité dont bénéficie chacune des sociétés de personnes ou groupement assimilé dont il est
+associé ou membre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter J, 220 L, 244 quater K, 53 A, 97, 360, 233 A
+
+	**Créé par**:
+
+	  - Décret n°2005-1517 du 7 décembre 2005 - art. 1 () JORF 9 décembre 2005
 
 	**Liens**:
 
