@@ -4,9 +4,9 @@ Pour l'application des dispositions prévues au I de l'article 244 quater G du c
 calculer le nombre moyen annuel d'apprentis comme suit :
 
 Le nombre moyen annuel d'apprentis est calculé au titre d'une année civile en prenant en compte les apprentis dont le contrat
-a atteint une durée d'au moins six mois. Cette condition s'apprécie au 31 mars de l'année civile suivant celle au titre de
-laquelle le crédit d'impôt est calculé. Pour le calcul du nombre moyen annuel d'apprentis, le temps de présence d'un apprenti
-dans l'entreprise au cours d'une année est calculé en mois. Tout mois commencé est comptabilisé comme un mois entier.
+a atteint une durée d'au moins un mois. Cette condition s'apprécie au 31 décembre de l'année civile au titre de laquelle le
+crédit d'impôt est calculé. Pour le calcul du nombre moyen annuel d'apprentis, le temps de présence d'un apprenti dans
+l'entreprise au cours d'une année est calculé en mois. Tout mois commencé est comptabilisé comme un mois entier.
 
 Un nombre moyen annuel d'apprentis doit être calculé pour chaque catégorie d'apprentis ouvrant droit à un montant de crédit
 d'impôt différent tel que mentionné au I de l'article 244 quater G du code général des impôts. Un nombre moyen annuel
@@ -19,21 +19,21 @@ travail et des apprentis bénéficiant de l'accompagnement personnalisé prévu 
 l'article L. 322-4-17-2 du code du travail.
 
 Chaque nombre moyen annuel d'apprentis calculé au titre d'une année est obtenu en divisant par douze le nombre total de mois
-de présence dans l'entreprise, pour cette même année, des apprentis employés depuis plus de six mois au sens du deuxième
-alinéa de l'article 49 septies YJ.
+de présence dans l'entreprise, pour cette même année, des apprentis employés depuis plus d'un mois au sens du deuxième
+alinéa.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 244 quater G, 49 septies YJ
+	  - CGI 244 quater G
 	  - Code du travail - art. L322-4-17-2 (AbD)
 	  - Code du travail - art. L323-10 (M)
 	  - Code du travail L117-1 à L117-18, L323-10, L322-4-17-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-304 du 31 mars 2005 - art. 1 () JORF 1er avril 2005
+	  - Décret n°2005-1745 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -41,4 +41,4 @@ alinéa de l'article 49 septies YJ.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006

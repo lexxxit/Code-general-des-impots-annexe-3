@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2005-12-30
+Version Consolidée au 2005-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17642,9 +17642,9 @@ Pour l'application des dispositions prévues au I de l'article 244 quater G du c
 calculer le nombre moyen annuel d'apprentis comme suit :
 
 Le nombre moyen annuel d'apprentis est calculé au titre d'une année civile en prenant en compte les apprentis dont le contrat
-a atteint une durée d'au moins six mois. Cette condition s'apprécie au 31 mars de l'année civile suivant celle au titre de
-laquelle le crédit d'impôt est calculé. Pour le calcul du nombre moyen annuel d'apprentis, le temps de présence d'un apprenti
-dans l'entreprise au cours d'une année est calculé en mois. Tout mois commencé est comptabilisé comme un mois entier.
+a atteint une durée d'au moins un mois. Cette condition s'apprécie au 31 décembre de l'année civile au titre de laquelle le
+crédit d'impôt est calculé. Pour le calcul du nombre moyen annuel d'apprentis, le temps de présence d'un apprenti dans
+l'entreprise au cours d'une année est calculé en mois. Tout mois commencé est comptabilisé comme un mois entier.
 
 Un nombre moyen annuel d'apprentis doit être calculé pour chaque catégorie d'apprentis ouvrant droit à un montant de crédit
 d'impôt différent tel que mentionné au I de l'article 244 quater G du code général des impôts. Un nombre moyen annuel
@@ -17657,21 +17657,21 @@ travail et des apprentis bénéficiant de l'accompagnement personnalisé prévu 
 l'article L. 322-4-17-2 du code du travail.
 
 Chaque nombre moyen annuel d'apprentis calculé au titre d'une année est obtenu en divisant par douze le nombre total de mois
-de présence dans l'entreprise, pour cette même année, des apprentis employés depuis plus de six mois au sens du deuxième
-alinéa de l'article 49 septies YJ.
+de présence dans l'entreprise, pour cette même année, des apprentis employés depuis plus d'un mois au sens du deuxième
+alinéa.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 244 quater G, 49 septies YJ
+	  - CGI 244 quater G
 	  - Code du travail - art. L322-4-17-2 (AbD)
 	  - Code du travail - art. L323-10 (M)
 	  - Code du travail L117-1 à L117-18, L323-10, L322-4-17-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-304 du 31 mars 2005 - art. 1 () JORF 1er avril 2005
+	  - Décret n°2005-1745 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -17679,7 +17679,7 @@ alinéa de l'article 49 septies YJ.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 49 septies YK
@@ -17703,22 +17703,19 @@ les charges sociales correspondantes dans la mesure où celles-ci correspondent 
 
 En cas de clôture d'exercice en cours d'année, le crédit d'impôt et le montant du plafond de ce dernier, prévus à l'article
 244 quater G du code général des impôts, sont calculés en prenant en compte les apprentis dont le contrat a atteint une durée
-d'au moins six mois au sens du deuxième alinéa de l'article 49 septies YJ ainsi que les dépenses liées aux apprentis engagées
+d'au moins un mois au sens du deuxième alinéa de l'article 49 septies YJ, ainsi que les dépenses liées aux apprentis engagées
 au titre de la dernière année civile écoulée.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2005-1745 du 30 décembre 2005 - art. 2 () JORF 31 décembre 2005
+
 	**Cite**:
 
-	  - CGI 244 quater G, 49 septies YJ
-
-	**Créé par**:
-
-	  - Décret n°2005-304 du 31 mars 2005 - art. 1 () JORF 1er avril 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
+	  - Code général des impôts, CGI. - art. 244 quater G (V)
 
 
 ###### Article 49 septies YM
@@ -17764,26 +17761,25 @@ Pour l'application des dispositions des articles 199 ter F, 220 H et 244 quater 
 doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du service des
 impôts dont elles dépendent.
 
-Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer une déclaration spéciale auprès du
-comptable de la direction générale des impôts avec le relevé de solde de l'exercice. S'agissant des sociétés relevant du
-régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations
-spéciales des sociétés membres du groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe
-sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultat qu'elles sont tenues de déposer
-en vertu du 1 de l'article 223 du code précité.
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
+comptable de la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
+relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les
+déclarations spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de
+solde relatif au résultat d'ensemble du groupe.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 199 ter F, 220 H, 244 quater G, 223 A, 223
+	  - CGI 199 ter F, 220 H, 244 quater G, 360, 223 A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-304 du 31 mars 2005 - art. 1 () JORF 1er avril 2005
+	  - Décret n°2005-1745 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section V nonies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale
@@ -33645,28 +33641,24 @@ ci-dessus.
 
 ###### Article 344 ID
 
-Après consultation de la commission mentionnée à l'article 371 G de l'annexe II au code général des impôts, le directeur
-mentionné à ce même article peut retirer l'habilitation si les engagements pris ne sont pas respectés.
+La commission régionale d'agrément mentionnée à l'article 371 G de l'annexe II au code général des impôts peut retirer
+l'habilitation si les engagements pris ne sont pas respectés. 
 
 Le centre de gestion agréé doit informer ses adhérents de cette décision dans le délai d'un mois.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - 2001-435 2001-05-21
-
-	**Cite**:
-
-	  - CGIAN2 371 G
-
 	**Modifié par**:
 
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 2 () JORF 25 octobre 2000
+	  - Décret n°2005-1734 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 G
 
 
 #### Chapitre IV : Agrément
