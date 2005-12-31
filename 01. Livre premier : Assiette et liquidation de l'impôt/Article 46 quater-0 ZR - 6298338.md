@@ -2,8 +2,8 @@
 
 En application de l'article 223 P du code général des impôts, lorsqu'une société mère agréée en application de l'article 209
 sexies de ce code opte pour le régime défini à l'article 223 A du même code au plus tard à l'expiration de la période
-couverte par la décision d'agrément, cette société doit, par exception aux dispositions du deuxième alinéa de l'article 223 M
-et du 1 de l'article 223 N de ce code :
+couverte par la décision d'agrément, cette société doit, par exception aux dispositions de l'article 223 M et du 1 de
+l'article 223 N de ce code :
 
 Acquitter l'imposition forfaitaire annuelle due, au titre de la première année d'application des dispositions de l'article
 223 A déjà cité, par les sociétés qui étaient assimilées à ses établissements et dont les résultats sont pris en compte pour
@@ -14,6 +14,10 @@ période de douze mois ouverte à compter du début de l'exercice au titre duque
 223 A du même code, d'après le résultat imposable pour l'application de l'article 209 sexies déjà cité au titre du dernier
 exercice placé sous ce régime.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 68 A de la loi n° 87-1060 du 30 décembre 1987.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -22,13 +26,14 @@ exercice placé sous ce régime.
 
 	**Liens**:
 
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 1er janvier 2006
+	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-592 du 6 mai 1988 - art. 4 (V) JORF 8 mai 1988
+	  - Loi n°2005-1719 2005-12-30 art. 21 III, IV Finances pour 2006 JORF 31 décembre 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 21 (V) JORF 31 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°2006-356 2006-03-24

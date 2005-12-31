@@ -1,10 +1,10 @@
 # Article 446 ter A
 
 La personne qui sollicite le versement de l'acompte de prime pour l'emploi prévu à l'article 1665 bis du code général des
-impôts en fait la demande expresse, sous peine de forclusion, dans les deux mois suivant le sixième mois de la reprise de
+impôts en fait la demande expresse, sous peine de forclusion, dans les deux mois suivant le quatrième mois de la reprise de
 l'activité professionnelle.
 
-La demande est adressée ou déposée auprès du centre des impôts du lieu du domicile du demandeur au 1er janvier de l'année de
+La demande est adressée ou déposée auprès du service des impôts du lieu du domicile du demandeur au 1er janvier de l'année de
 la demande. La personne produit à cet effet le formulaire de demande d'acompte, établi par l'administration, dûment complété
 et signé, accompagné des documents suivants :
 
@@ -15,9 +15,9 @@ et signé, accompagné des documents suivants :
 3° Une copie de pièce d'identité à son nom ;
 
 4° Si elle exerce une activité salariée, la copie des bulletins de salaire justifiant de l'activité professionnelle exercée
-au cours des six mois qui suivent la période au cours de laquelle elle a été inscrite comme demandeur d'emploi ou au titre de
-laquelle elle a bénéficié de l'une des allocations mentionnées au premier alinéa du I de l'article 1665 bis du code général
-des impôts ;
+au cours des quatre mois qui suivent la période au cours de laquelle elle a été inscrite comme demandeur d'emploi ou au titre
+de laquelle elle a bénéficié de l'une des allocations mentionnées au premier alinéa du I de l'article 1665 bis du code
+général des impôts ;
 
 5° Si elle exerce une activité professionnelle non salariée, la copie du certificat d'identification au répertoire national
 des entreprises et de leurs établissements.
@@ -28,10 +28,15 @@ des entreprises et de leurs établissements.
 
 	  - CGI 1665 bis
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2004-331 2004-03-16 art. 1 JORF 18 avril 2004
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 6 (V) JORF 31 décembre 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005

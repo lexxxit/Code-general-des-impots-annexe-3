@@ -5,7 +5,7 @@ impôts est constaté lors du dépôt de la déclaration des revenus de l'année
 les revenus peuvent bénéficier de la déduction forfaitaire majorée ou, si elle est postérieure, de l'année au cours de
 laquelle les parts ont été acquises.
 
-L'engagement de conservation des titres prévu au quatrième alinéa du e du 1° du I de l'article 31 du code général des impôts
+L'engagement de conservation des titres prévu au cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts
 est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
 pour la première fois à la déduction forfaitaire majorée.
 
@@ -36,8 +36,12 @@ mentionné au II de l'article 2 septdecies.
 
 	**Modifié par**:
 
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 109 () JORF 19 janvier 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2006

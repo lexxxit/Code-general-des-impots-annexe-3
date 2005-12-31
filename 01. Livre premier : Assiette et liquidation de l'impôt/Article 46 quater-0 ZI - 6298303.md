@@ -9,8 +9,7 @@ II. (Abrogé).
 
 III. La société mère doit joindre à la déclaration du résultat d'ensemble un état, conforme à un modèle établi par
 l'administration, qui fait apparaître les cotisations d'imposition forfaitaire annuelle payées au titre de l'année de clôture
-de l'exercice, le montant des cotisations des deux années antérieures et le montant imputé sur l'impôt dû sur le résultat
-d'ensemble de l'exercice.
+de l'exercice, et le montant des cotisations des deux années antérieures.
 
 **Liens relatifs à cet article**
 
@@ -20,8 +19,13 @@ d'ensemble de l'exercice.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Loi n°2005-1719 2005-12-30 art. 21 III, IV Finances pour 2006 JORF 31 décembre 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 21 (V) JORF 31 décembre 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006

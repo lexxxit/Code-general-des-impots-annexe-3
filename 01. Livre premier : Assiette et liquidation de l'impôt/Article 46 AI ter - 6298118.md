@@ -14,8 +14,8 @@ société de gestion du fonds ou le dépositaire des actifs de ce fonds est soum
 duovicies F et 41 duovicies G.
 
 IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, à la direction des services fiscaux
-désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article 3 du décret n° 97-237 du
-14 mars 1997 relatif aux fonds communs de placement dans l'innovation, à l'appui du bilan et du compte de résultats.
+désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article D. 214-72 du code
+monétaire et financier, à l'appui du bilan et du compte de résultats.
 
 V. La société de gestion du fonds ou le dépositaire des actifs de ce fonds délivre, au plus tard le 16 février de l'année
 civile qui suit celle de la souscription des parts, aux souscripteurs qui entendent bénéficier de la réduction d'impôt prévue
@@ -52,18 +52,20 @@ respect de l'une des conditions prévues à l'article L. 214-41 du code monétai
 
 	  - CGI 199 terdecies-0 A
 	  - CGIAN3 41 duovicies F, 41 duovicies G
-	  - Décret n°97-237 du 14 mars 1997 - art. 3 (M)
 	  - Livre des procédures fiscales - art. R87-1 (M)
 	  - Livre des procédures fiscales 41 sexdecies A à 41 sexdecies F, 280 A, R87-1
+	  - Code monétaire et financier - art. D214-72 (V)
 	  - Code monétaire et financier - art. L214-41 (M)
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 art. 4 I 81° JORF 16 décembre 2000 en vigueur le 1er janvier 2001
+	  - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
+	  - Décret n°2005-1007 du 2 août 2005 - art. 2 (V) JORF 25 août 2005
+	  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
 
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
@@ -73,4 +75,4 @@ respect de l'une des conditions prévues à l'article L. 214-41 du code monétai
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006

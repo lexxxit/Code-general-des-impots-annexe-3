@@ -20,7 +20,7 @@ doivent être des personnes physiques et l'associé désigné pour exploiter le 
 sexies en cas de :
 
 a) Location-gérance ou "gérance libre" émanant d'une commune ou d'un groupement de communes en zone rurale, ou d'un
-particulier dans les zones de revitalisation rurale précisées par le décret n° 96-119 du 14 février 1996 ;
+particulier dans les zones de revitalisation rurale précisées par le décret n° 2005-1435 du 21 novembre 2005 ;
 
 b) Exploitation de magasins franchisés en zone de revitalisation rurale citée au a.
 
@@ -61,25 +61,25 @@ moins deux des trois conditions suivantes :
 	**Cite**:
 
 	  - CGIAN3 244 sexies
-	  - Décret n°96-119 1996-02-14
-
-	**Anciens textes**:
-
-	  - CGIAN3 244 undecies
+	  - Décret n°2005-1435 2005-11-21
 
 	**Cité par**:
 
 	  - Décret n°63-1104 du 30 octobre 1963 - art. 1 (V)
 	  - Décret n°2006-156 du 13 février 2006 - art. 1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 1 (Ab) JORF 22 novembre 2005
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 2 (Ab) JORF 22 novembre 2005
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 3 (Ab) JORF 22 novembre 2005
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 4 (Ab) JORF 22 novembre 2005
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 5 (Ab) JORF 22 novembre 2005
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 6 (Ab) JORF 22 novembre 2005
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 7 (Ab) JORF 22 novembre 2005
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 8 (Ab) JORF 22 novembre 2005
+	  - Décret n°2005-1435 du 21 novembre 2005 - art. 9 (Ab) JORF 22 novembre 2005
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007

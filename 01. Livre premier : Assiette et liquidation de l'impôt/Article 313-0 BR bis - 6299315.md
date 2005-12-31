@@ -3,29 +3,23 @@
 L'engagement prévu au 3° de l'article 990 E du code général des impôts est déposé :
 
 1. Pour les personnes morales qui ont leur siège en France, et pour les autres personnes morales qui exercent leur activité
-en France dans un ou plusieurs établissements, au centre des impôts du lieu du principal établissement ;
+en France dans un ou plusieurs établissements, au service des impôts du lieu du principal établissement ;
 
 2. Pour les personnes morales, autres que celles visées au 1, qui, directement ou par personne interposée, possèdent un ou
-plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au centre des impôts du lieu
+plusieurs immeubles situés en France ou sont titulaires de droits réels portant sur ces biens, au service des impôts du lieu
 de situation de ces biens. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, l'engagement est déposé
-au centre-recette des impôts des entreprises étrangères.
-
-**Nota:**
-
-NOTA : Ces dispositions entrent en vigueur le 1er septembre 2004 pour toutes les déclarations que les sociétés mentionnées au
-2 de l'article 218 A et aux articles 990 E à 990 F du code général des impôts sont tenues de souscrire à compter de cette
-date.
+au service des impôts des entreprises étrangères.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - CGI 990 E
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Décret n°2004-950 du 8 septembre 2004 - art. 1 () JORF 9 septembre 2004
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2006-356 2006-03-24

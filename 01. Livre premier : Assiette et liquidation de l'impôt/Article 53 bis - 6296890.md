@@ -1,8 +1,9 @@
 # Article 53 bis
 
 Doivent acquitter la taxe sur les salaires visée à l'article 231 du code général des impôts, dans les conditions et délais et
-sous les sanctions prévus par les articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et 1736 dudit code et 50, 51, 369
-et le 1 de l'article 374, les organismes coopératifs, mutualistes et professionnels agricoles énumérés ci-après :
+sous les sanctions prévus par les articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et par les I et IV de l'article
+1754 dudit code et 50, 51, 369 et le 1 de l'article 374, les organismes coopératifs, mutualistes et professionnels agricoles
+énumérés ci-après :
 
 Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à
 l'article L. 771-1 du code rural ;
@@ -28,18 +29,17 @@ administratifs et leurs ateliers de réparation.
 
 	**Cite**:
 
-	  - CGI 231, 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1736
+	  - CGI 231, 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1754
 	  - CGIAN3 50, 51, 369, 374 1
 	  - Code rural L771-1
 
 	**Modifié par**:
 
-	  - Rapport - art. 1 (V) JORF 22 juin 2000
-	  - Rapport - art. 6 (V) JORF 22 juin 2000
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
@@ -47,4 +47,4 @@ administratifs et leurs ateliers de réparation.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2006

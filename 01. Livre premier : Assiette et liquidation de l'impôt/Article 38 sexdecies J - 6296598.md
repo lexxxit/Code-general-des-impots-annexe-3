@@ -21,8 +21,7 @@ b) Evénement ayant justifié l'application sur les productions animales ou vég
 administrative prévues aux articles L. 234-4, L. 251-2 et L. 251-9 du code rural ;
 
 c) Evénement ayant justifié l'application, sur l'exploitation conchylicole, de mesures de police sanitaire prévues par
-l'article 8 du décret n° 95-100 du 26 janvier 1995 modifié ou de mesures sanitaires prévues par l'article 5 du décret n°
-94-340 du 28 avril 1994 modifié ;
+l'article D. 236-14 du code rural ou de mesures sanitaires prévues par l'article D. 231-39 du même code ;
 
 3° Aléas familiaux :
 
@@ -63,17 +62,23 @@ moyenne, il n'est pas tenu compte des reports déficitaires.
 	**Cite**:
 
 	  - CGI 72 D bis, 73
-	  - Code rural R361-42, L361-3, L223-8, L221-2, L234-4, L251-2, L251-9, L411-30 à L411-34, L411-58
+	  - Code rural R361-42, L361-3, L223-8, L221-2, L234-4, L251-2, L251-9, L411-30 à L411-34, L411-58, D236-14, D231-39
 	  - Décret n°83-228 du 22 mars 1983 - art. 15 (M)
-	  - Décret n°94-340 du 28 avril 1994 - art. 5 (Ab)
-	  - Décret n°95-100 du 26 janvier 1995 - art. 8 (M)
 	  - Code de la sécurité sociale. - art. L341-4 (V)
 	  - Code des assurances - art. L125-1 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2004-1401 du 20 décembre 2004 - art. 1 () JORF 26 décembre 2004
+	  - Décret n°2003-768 du 1 août 2003 - art. 2 (V) JORF 7 août 2003
+	  - Décret n°2003-768 du 1 août 2003 - art. 3 (V) JORF 7 août 2003
+	  - Décret n°2003-768 du 1 août 2003 - art. 6 (V) JORF 7 août 2003
+	  - Décret n°2005-368 du 19 avril 2005 - art. 10 (V) JORF 22 avril 2005
+	  - Décret n°2005-368 du 19 avril 2005 - art. 12 (V) JORF 22 avril 2005
+
+	**Codifié par**:
+
+	  - Décret n°2006-356 2006-03-24
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006

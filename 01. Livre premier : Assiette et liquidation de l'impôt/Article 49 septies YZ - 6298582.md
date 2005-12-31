@@ -6,7 +6,7 @@ qu'elles sont tenues de déposer en vertu des articles 53 A et 97 du code géné
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
 comptable de la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
-relevant du régime des groupes de sociétés prévu à l'article 233 A du code général des impôts, la société mère dépose les
+relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les
 déclarations spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de
 solde relatif au résultat d'ensemble du groupe.
 
@@ -15,16 +15,25 @@ d'impôt prévu à l'article 244 quater K du code général des impôts doit dé
 crédit d'impôt prévu à l'article précité dont bénéficie chacune des sociétés de personnes ou groupement assimilé dont il est
 associé ou membre.
 
+**Nota:**
+
+Article devenu sans objet en conséquence de la péremption de l'article 244 quater K du code général des impôts.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 199 ter J, 220 L, 244 quater K, 53 A, 97, 360, 233 A
+	  - CGI 199 ter J, 220 L, 244 quater K, 53 A, 97, 360, 223 A
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2005-1517 du 7 décembre 2005 - art. 1 () JORF 9 décembre 2005
+	  - Décret n°2006-356 2006-03-24
+
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
 
 	**Liens**:
 
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
 	  - HISTO: Edition du 1er janvier 2006

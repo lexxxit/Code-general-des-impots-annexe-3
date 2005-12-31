@@ -17,9 +17,9 @@ III. - L'option mentionnée au I doit être formulée par les entreprises selon 
 pour le dépôt du relevé de solde ou de la déclaration de résultat relatifs à l'exercice pour lequel elles souhaitent
 bénéficier du crédit d'impôt.
 
-Lorsqu'une société mère opte pour le crédit d'impôt en vertu de l'article 223 O, elle doit déposer la déclaration spéciale
-mentionnée au I. Cette déclaration récapitule notamment les parts en accroissement et les parts en volume de chacune des
-sociétés membres du groupe ayant exposé des dépenses de recherche ouvrant droit au crédit d'impôt.
+Lorsqu'une société mère opte pour le crédit d'impôt en vertu de l'article 223 O du code général des impôts, elle doit déposer
+la déclaration spéciale mentionnée au I. Cette déclaration récapitule notamment les parts en accroissement et les parts en
+volume de chacune des sociétés membres du groupe ayant exposé des dépenses de recherche ouvrant droit au crédit d'impôt.
 
 L'associé ou membre d'une société de personnes ou d'un groupement mentionnés aux articles 8, 238 bis L, 239 quater, 239
 quater B et 239 quater C du code général des impôts et ayant engagé des dépenses ouvrant droit au crédit d'impôt recherche,
@@ -40,18 +40,17 @@ de la technologie.
 
 **Nota:**
 
-NOTA : ces dispositions s'appliquent au crédit d'impôt relatif aux dépenses de recherche exposées à compter du 1er janvier
-2004.
+ces dispositions s'appliquent au crédit d'impôt relatif aux dépenses de recherche exposées à compter du 1er janvier 2004.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 244 quater B, 360, 53 A, 223 A, 223, 223 O, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C
+	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Décret n°2005-27 du 13 janvier 2005 - art. 1 () JORF 15 janvier 2005
+	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
 
 	**Cité par**:
 
@@ -60,4 +59,4 @@ NOTA : ces dispositions s'appliquent au crédit d'impôt relatif aux dépenses d
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006

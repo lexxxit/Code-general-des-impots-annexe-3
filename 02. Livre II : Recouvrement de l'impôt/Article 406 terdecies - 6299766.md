@@ -4,10 +4,10 @@ I. - Les impôts et taxes dus par les personnes et groupements mentionnés à l'
 service des grandes entreprises mentionné au premier alinéa de l'article 344-0 A.
 
 II. - Les dispositions du I s'appliquent à l'impôt sur les sociétés, à l'imposition forfaitaire annuelle des sociétés, à la
-contribution sur les revenus locatifs, à la contribution sur l'impôt sur les sociétés, à la contribution sociale sur l'impôt
-sur les sociétés prévues respectivement aux articles 223 septies, 234 nonies, 235 ter ZA et 235 ter ZC du code général des
-impôts, à la taxe professionnelle et à la cotisation minimum citées au 6° de l'article 344-0 B de même qu'aux taxes
-additionnelles et annexes à cette taxe ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B.
+contribution sur les revenus locatifs, à la contribution sociale sur l'impôt sur les sociétés prévues respectivement aux
+articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la taxe professionnelle et à la cotisation
+minimum citées au 6° de l'article 344-0 B de même qu'aux taxes additionnelles et annexes à cette taxe ainsi qu'aux impôts et
+taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B.
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
 leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique aux cotisations dues au titre
@@ -29,19 +29,13 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 septies, 234 nonies, 235 ter ZA, 235 ter ZC
-	  - CGIAN3 344-0 A, 344-0 B, 344-0 C
-
 	**Modifié par**:
 
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 5 () JORF 29 décembre 2004
-	  - Décret n°2004-1422 du 23 décembre 2004 - art. 6 (V) JORF 29 décembre 2004
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 25 (V) JORF 31 décembre 2004
 
 	**Codifié par**:
 
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2006-356 2006-03-24
 
 	**Cité par**:
 
@@ -51,4 +45,4 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006

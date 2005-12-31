@@ -22,9 +22,9 @@ Un représentant désigné par la chambre départementale d'agriculture d'Ajacci
 
 Un représentant désigné par la chambre départementale d'agriculture de Bastia ;
 
-Un représentant désigné par la chambre départementale de métiers de la Haute-Corse ;
+Un représentant désigné par la chambre départementale de métiers et de l'artisanat de la Haute-Corse ;
 
-Un représentant désigné par la chambre départementale de métiers de la Corse-du-Sud.
+Un représentant désigné par la chambre départementale de métiers et de l'artisanat de la Corse-du-Sud.
 
 Le secrétariat de la commission est assuré par un agent de la direction générale des impôts désigné par le préfet de région,
 sur proposition du directeur des services fiscaux de la Corse-du-Sud.
@@ -35,14 +35,14 @@ sur proposition du directeur des services fiscaux de la Corse-du-Sud.
 
 	  - CGI 208 quater A
 
-	**Créé par**:
-
-	  - Décret n°91-629 du 4 juillet 1991 - art. 1 (V) JORF 6 juillet 1991
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°2006-356 2006-03-24
+
+	**Modifié par**:
+
+	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 1er janvier 2006
