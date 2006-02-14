@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-02-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -25767,32 +25767,6 @@ charges.
 	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
 
 
-###### Article 244 vicies
-
-Le non-respect par le revendeur des dispositions prévues aux articles 244 septdecies à 244 novodecies entraîne le retrait de
-la faculté de revendre des tabacs manufacturés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 septdecies à 244 novodecies
-
-	**Anciens textes**:
-
-	  - CGIAN3 244 quatervicies
-
-	**Modifié par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
-
-
-#### Chapitre VI : Tabac
-
 ###### Article 244 undecies
 
 I. - L'attribution de la gérance d'un débit de tabac ordinaire s'effectue par voie d'adjudication, sauf en cas :
@@ -25804,7 +25778,7 @@ b) De permutation entre époux ou entre associés d'une société en nom collect
 
 II. - En cas de recours à la procédure de mise en adjudication :
 
-1. Le candidat retenu est celui qui s'engage à payer annuellement le montant le plus élevé de la redevance à laquelle est
+1. Le candidat retenu est celui qui s'engage à payer annuellement le montant le plus élevé du droit de licence auquel est
 tenu tout gérant de débit de tabac ordinaire, conformément au premier alinéa de l'article 568 du code général des impôts. Cet
 engagement est ci-après dénommé "soumission".
 
@@ -25818,8 +25792,9 @@ de la date du dépôt du cahier des charges sont donnés à la population du pé
 d'information approprié. Le cahier des charges est déposé pour une durée maximale de trente jours.
 
 3. Le montant de la soumission minimale citée au premier alinéa du 2 est fixé par le directeur régional des douanes et droits
-indirects. Elle correspond, par rapport à un chiffre d'affaires estimé, au montant annuel de redevance attendu pour le débit
-de tabac ordinaire concerné, compte tenu des données géographiques, économiques et commerciales du secteur d'adjudication.
+indirects. Elle correspond, par rapport à un chiffre d'affaires estimé, au montant annuel du droit de licence attendu pour le
+débit de tabac ordinaire concerné, compte tenu des données géographiques, économiques et commerciales du secteur
+d'adjudication.
 
 4. Toute personne qui souhaite participer à une adjudication doit apposer sa signature, en précisant ses nom, prénom et
 adresse complète, sur le cahier des charges déposé au service des douanes et droits indirects le plus proche de la commune
@@ -25841,12 +25816,11 @@ précisent s'il est associé de la société en nom collectif ou s'il est son co
 solidarité. Le suppléant doit également signer le cahier des charges.
 
 III. - 1. Chaque signataire du cahier des charges doit adresser sa soumission, accompagnée d'un engagement écrit de verser la
-somme choisie au titre de la redevance annuelle, à l'administration des douanes et droits indirects, sous double enveloppe
+somme choisie au titre du droit de licence annuel, à l'administration des douanes et droits indirects, sous double enveloppe
 cachetée et en recommandé avec accusé de réception, au plus tard dans les deux mois à compter de la date du dépôt du cahier
 des charges.
 
-2. La soumission est établie sur papier revêtu d'un timbre fiscal, en application des articles 899 et 905 à 907 du code
-général des impôts, sous une enveloppe fermée sur laquelle le candidat a mentionné ses nom et prénoms.
+2. La soumission est établie sous une enveloppe fermée sur laquelle le candidat a mentionné ses nom et prénoms.
 
 3. Dans les dix jours ouvrés qui suivent la date limite de dépôt des soumissions, le directeur régional des douanes et droits
 indirects, ou son représentant, en présence d'un représentant d'une organisation professionnelle représentative sur le plan
@@ -25859,9 +25833,9 @@ Toute soumission qui n'est pas établie conformément au cahier des charges est 
 alinéa, sans entraîner la nullité de la procédure de mise en adjudication.
 
 Si la soumission la plus forte est souscrite par plus d'un candidat, pour une somme identique, ces candidats sont invités,
-par courrier avec accusé de réception, à préparer de nouvelles soumissions sur papier timbré et à les retourner sous pli
-cacheté au service dans les dix jours ouvrés à compter de la date de réception du courrier, en recommandé avec accusé de
-réception. Il est procédé à nouveau à l'opération visée au premier alinéa dans les mêmes délais.
+par courrier avec accusé de réception, à préparer de nouvelles soumissions et à les retourner sous pli cacheté au service
+dans les dix jours ouvrés à compter de la date de réception du courrier, en recommandé avec accusé de réception. Il est
+procédé à nouveau à l'opération visée au premier alinéa dans les mêmes délais.
 
 4. Le procès-verbal de séance est signé par l'ensemble des participants mentionnés au premier alinéa du 3.
 
@@ -25904,7 +25878,7 @@ deuxième soumission la plus forte est invité par courrier avec accusé de réc
 documents dans les dix jours ouvrés à compter de la date de réception dudit courrier du directeur régional des douanes et
 droits indirects. Cette procédure est répétée en tant que de besoin.
 
-3. - Le candidat retenu s'engage à verser, pendant ses trois premières années d'activité, une redevance annuelle
+3. - Le candidat retenu s'engage à verser, pendant ses trois premières années d'activité, un droit de licence annuel
 correspondant, au minimum, au montant de la soumission cachetée offerte.
 
 Si le gérant veut cesser l'exploitation du débit de tabac dont la gérance lui a été concédée avant l'expiration du délai de
@@ -25922,27 +25896,42 @@ douanes et droits indirects et le second par le débitant de tabac.
 
 	**Cite**:
 
-	  - CGI 568
-	  - CGI 899, 905 à 907
-	  - CGIAN3 244 sexies, 244 septies
+	  - CGI 568, 244 sexies, 244 septies
 	  - Décret n°1936-10-29 art. 7
 	  - Loi n°63-156 1963-02-23
 
+	**Modifié par**:
+
+	  - Loi n°2004-1485 2004-12-30 art. 95 I, IV Finances rectificative pour 2004 JORF 31 décembre 2004
+	  - Décret n°2006-157 du 13 février 2006 - art. 5 () JORF 15 février 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
+
+
+###### Article 244 vicies
+
+Le non-respect par le revendeur des dispositions prévues aux articles 244 septdecies à 244 novodecies entraîne le retrait de
+la faculté de revendre des tabacs manufacturés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 septdecies à 244 novodecies
+
 	**Anciens textes**:
 
-	  - CGIAN3 244 quinquedecies
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
+	  - CGIAN3 244 quatervicies
 
 	**Modifié par**:
 
 	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2007-906 du 15 mai 2007 - art. 28 (V) JORF 16 mai 2007
 
 
 ### Titre IV : Enregistrement, publicité foncière, timbre
