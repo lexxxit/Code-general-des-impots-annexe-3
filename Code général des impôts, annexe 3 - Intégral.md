@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-02-15
+Version Consolidée au 2006-02-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -37196,18 +37196,23 @@ justificatives aux comptables du Trésor.
 
 ###### Article 446 ter
 
-Le versement de l'acompte est effectué par virement sur le compte bancaire, postal ou de caisse d'épargne ouvert au nom du
+Le versement de l'acompte prévu par l'article 1665 bis du code général des impôts ou des acomptes mensuels prévus par
+l'article 1665 ter est effectué par virement sur le compte bancaire, postal ou de caisse d'épargne ouvert au nom du
 demandeur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2004-331 2004-03-16 art. 1 JORF 18 avril 2004
+	  - CGI 1665 bis, 1665 ter
+
+	**Modifié par**:
+
+	  - Décret n°2006-213 du 22 février 2006 - art. 1 () JORF 24 février 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 446 ter A
