@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-02-24
+Version Consolidée au 2006-03-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12845,137 +12845,168 @@ audiovisuelles.
 ###### Article 46 quater-0 YM
 
 Pour la détermination des dépenses mentionnées au III de l'article 220 sexies du code général des impôts, il y a lieu de
-retenir :
+retenir : 
 
-1° Pour les oeuvres cinématographiques ou audiovisuelles de fiction et les oeuvres cinématographiques ou audiovisuelles
-documentaires :
+1. Pour les oeuvres cinématographiques ou audiovisuelles de fiction et les oeuvres cinématographiques ou audiovisuelles
+documentaires : 
 
-a. Au titre des salaires et charges sociales afférents aux techniciens et ouvriers de la production engagés par l'entreprise
-de production : les rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où elles correspondent
-à des cotisations sociales obligatoires. Lorsque les techniciens et ouvriers de la production sont employés par l'entreprise
-de production à titre permanent, seuls sont pris en compte les salaires et charges sociales correspondant à la période durant
-laquelle ces personnels ont été effectivement employés à la réalisation de l'oeuvre éligible au crédit d'impôt ;
+a. Au titre des rémunérations et charges sociales afférentes aux auteurs énumérés à l'article L. 113-7 du code de la
+propriété intellectuelle : les avances à valoir sur les recettes d'exploitation versées par l'entreprise de production aux
+auteurs en contrepartie de la commande et de l'acquisition des droits nécessaires à la réalisation de l'oeuvre, ainsi que les
+charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ; 
 
-b. Au titre des dépenses liées à l'utilisation de studios de prises de vues, y compris la construction de décors, d'effets
-spéciaux de tournage, de costumes et de coiffures et maquillage : les dépenses de location des plateaux de tournage et
-annexes, de location de lieux loués spécifiquement pour le tournage à l'exclusion des lieux d'habitation, de construction de
-décors sur les lieux de tournage, d'éclairage, de préparation et de réalisation des effets spéciaux de tournage, y compris
-les cascades, de location et de fabrication des costumes, coiffures et de maquillage ;
+b. Au titre des rémunérations et charges sociales afférentes aux artistes-interprètes visés à l'article L. 212-4 du code de
+la propriété intellectuelle : la part de la rémunération versée par l'entreprise de production aux artistes-interprètes
+correspondant aux rémunérations minimales prévues par les conventions collectives et accords collectifs de la production
+cinématographique ou audiovisuelle, ainsi que les charges sociales afférentes dans la mesure où elles correspondent à des
+cotisations sociales obligatoires ; 
 
-c. Au titre des dépenses de matériels techniques nécessaires au tournage : les dépenses de matériels de prise de vues, de
-machinerie, d'éclairage et de prise de son ;
+c. Au titre des salaires et charges sociales afférents aux personnels de la réalisation et de la production : les
+rémunérations et leurs accessoires versés par l'entreprise de production aux techniciens et ouvriers de la production, ainsi
+que les charges sociales dans la mesure où elles correspondent à des cotisations sociales obligatoires. Lorsque les
+techniciens et ouvriers de la production sont employés par l'entreprise de production à titre permanent, seuls sont pris en
+compte les salaires et charges sociales correspondant à la période durant laquelle ces personnels ont été effectivement
+employés à la réalisation de l'oeuvre éligible au crédit d'impôt ; 
 
-d. Au titre des dépenses de postproduction, y compris les effets spéciaux : les dépenses de laboratoire image, de montage des
-images, d'enregistrement des voix, de bruitage et création sonore, de mixage, de montage du son, d'effets spéciaux numériques
-et de génériques et bandes-annonces ;
+d. Au titre des dépenses liées au recours aux industries et autres prestataires de la création cinématographique et
+audiovisuelle : 
 
-e. Au titre des dépenses de pellicules et autres supports d'images et des dépenses de laboratoires : les dépenses de
-pellicules négatives image, de pellicules magnétiques son, de laboratoires de tournage, de laboratoires de finition, de
-laboratoire vidéo et de sous-titrage ;
+1° Les dépenses liées à l'utilisation de studios de prises de vues, y compris la construction de décors, d'effets spéciaux de
+tournage, de costumes et de coiffures et maquillage, à savoir : les dépenses de location des plateaux de tournage et annexes,
+de location de lieux loués spécifiquement pour le tournage à l'exclusion des lieux d'habitation, de construction de décors
+sur les lieux de tournage, d'éclairage, de préparation et de réalisation des effets spéciaux de tournage, y compris les
+cascades, de location et de fabrication des costumes, coiffures et de maquillage ; 
 
-2° Pour les oeuvres cinématographiques ou audiovisuelles d'animation :
+2° Les dépenses de matériels techniques de tournage, à savoir : 
 
-a. Au titre des salaires et charges sociales afférents aux techniciens de la production et aux collaborateurs chargés de la
-préparation et de la fabrication de l'animation engagés par l'entreprise de production : les rémunérations et leurs
-accessoires ainsi que les charges sociales, dans la mesure où elles correspondent à des cotisations sociales obligatoires.
-Lorsque les techniciens de la production et les collaborateurs chargés de la préparation et de la fabrication de l'animation
-sont employés par l'entreprise de production à titre permanent, seuls sont pris en compte les salaires et charges sociales
-correspondant à la période durant laquelle ces personnels ont été effectivement employés à la réalisation de l'oeuvre
-éligible au crédit d'impôt ;
+les dépenses de matériels de prises de vues, de machinerie, d'éclairage et de prise de son ; 
 
-b. Au titre des dépenses liées au recours à des prestataires spécialisés dans les travaux de préparation et de fabrication de
-l'animation : les dépenses correspondant aux travaux facturés par les entreprises qui effectuent, pour le compte des
-entreprises de production, la préparation et la fabrication de l'animation ainsi que les dépenses de construction de décors ;
+3° Les dépenses de postproduction, y compris les effets spéciaux, à savoir : les dépenses de laboratoire image, de montage
+des images, d'enregistrement des voix, de bruitage et création sonore, de mixage, de montage du son, d'effets spéciaux
+numériques et de génériques et bandes-annonces ; 
 
-c. Au titre des dépenses de matériels techniques nécessaires à la fabrication des images : les dépenses de matériels de prise
-de vues et d'éclairage, ainsi que les dépenses d'équipements, de fournitures, de matériels et logiciels informatiques
+4° Les dépenses de pellicules et autres supports d'images et les dépenses de laboratoire, à savoir : les dépenses de
+pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques
+d'images et de son, de laboratoires de tournage, de laboratoires de finition, de laboratoire vidéo et de sous-titrage. 
+
+2. Pour les oeuvres cinématographiques ou audiovisuelles d'animation : 
+
+a. Au titre des rémunérations et charges sociales afférentes aux auteurs énumérés à l'article L. 113-7 du code de la
+propriété intellectuelle : les avances à valoir sur les recettes d'exploitation versées par l'entreprise de production aux
+auteurs en contrepartie de la commande et de l'acquisition des droits nécessaires à la réalisation de l'oeuvre, ainsi que les
+charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ; 
+
+b. Au titre des rémunérations et charges sociales afférentes aux artistes-interprètes visés à l'article L. 212-4 du code de
+la propriété intellectuelle : la part de la rémunération versée aux artistes-interprètes correspondant aux rémunérations
+minimales prévues par les conventions collectives et accords collectifs de la production cinématographique ou audiovisuelle,
+ainsi que les charges sociales afférentes dans la mesure où elles correspondent à des cotisations sociales obligatoires ; 
+
+c. Au titre des salaires et charges sociales afférents aux personnels de la réalisation et de la production : les
+rémunérations et leurs accessoires versés par l'entreprise de production aux techniciens de la production et aux
+collaborateurs chargés de la préparation et de la fabrication de l'animation, ainsi que les charges sociales dans la mesure
+où elles correspondent à des cotisations sociales obligatoires. Lorsque les techniciens de la production et les
+collaborateurs chargés de la préparation et de la fabrication de l'animation sont employés par l'entreprise de production à
+titre permanent, seuls sont pris en compte les salaires et charges sociales correspondant à la période durant laquelle ces
+personnels ont été effectivement employés à la réalisation de l'oeuvre éligible au crédit d'impôt ; 
+
+d. Au titre des dépenses liées au recours aux industries techniques et autres prestataires de la création cinématographique
+ou audiovisuelle : 
+
+1° Les dépenses liées au recours à des prestataires spécialisés dans les travaux de préparation et de fabrication de
+l'animation, à savoir : les dépenses correspondant aux travaux facturés par les entreprises qui effectuent, pour le compte
+des entreprises de production, la préparation et la fabrication de l'animation ainsi que les dépenses de construction de
+décors ; 
+
+2° Les dépenses de matériels techniques nécessaires à la fabrication des images, à savoir : les dépenses de matériels de
+prise de vues et d'éclairage ainsi que les dépenses d'équipements, de fournitures, de matériels et logiciels informatiques
 directement affectés à la mise en place et à la fabrication de l'animation d'une oeuvre déterminée. Les logiciels
 informatiques précités doivent être amortis au cours de la période de réalisation de l'oeuvre pour laquelle ils ont été
-spécialement créés ou acquis ;
+spécialement créés ou acquis ; 
 
-d. Au titre des dépenses de postproduction, y compris les effets spéciaux : les dépenses de laboratoire image, de montage des
-images, d'enregistrement des voix, de bruitage et création sonore, de mixage, de montage du son, d'effets spéciaux numériques
-et de génériques et bandes-annonces ;
+3° Les dépenses de postproduction, y compris les effets spéciaux, à savoir : les dépenses de laboratoire image, de montage
+des images, d'enregistrement des voix, de bruitage et création sonore, de mixage, de montage du son, d'effets spéciaux
+numériques et de génériques et bandes-annonces ; 
 
-e. Au titre des dépenses de pellicules et autres supports d'images et des dépenses de laboratoires : les dépenses de
-pellicules négatives image, de pellicules magnétiques son, de laboratoires de finition, de laboratoire vidéo et de sous-
-titrages.
+4° Les dépenses de pellicules et autres supports d'images et des dépenses de laboratoires, à savoir : les dépenses de
+pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques
+d'images et de son, de laboratoires de finition, de laboratoire vidéo et de sous-titrages.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 220 sexies
-
 	**Modifié par**:
 
-	  - Décret n°2005-407 2005-04-29 art. 1 I, III JORF 3 mai 2005
-	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
+	  - Décret n°2006-317 du 20 mars 2006 - art. 1 () JORF 21 mars 2006
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L113-7 (V)
+	  - Code de la propriété intellectuelle - art. L212-4 (V)
+	  - Code général des impôts, CGI. - art. 220 sexies (VT)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YO (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 
 ###### Article 46 quater-0 YN
 
-Pour la détermination des dépenses visées aux b, c, d et e du 1° du 1 du III et aux b, c, d et e du 2° du 1 du III de
-l'article 220 sexies du code général des impôts, il y a lieu de retenir les dotations aux amortissements fiscalement
-déductibles afférentes aux immobilisations détenues par l'entreprise de production déléguée et affectées directement à la
-réalisation de l'oeuvre cinématographique ou de l'oeuvre audiovisuelle ouvrant droit au crédit d'impôt. Seules sont prises en
-compte les dotations aux amortissements correspondant à la période durant laquelle l'immobilisation a été effectivement
-utilisée pour la réalisation de l'oeuvre éligible au crédit d'impôt.
+Pour la détermination des dépenses visées au d du 1 du III de l'article 220 sexies du code général des impôts, il y a lieu de
+retenir les dotations aux amortissements fiscalement déductibles afférentes aux immobilisations détenues par l'entreprise de
+production déléguée et affectées directement à la réalisation de l'oeuvre cinématographique ou de l'oeuvre audiovisuelle
+ouvrant droit au crédit d'impôt. Seules sont prises en compte les dotations aux amortissements correspondant à la période
+durant laquelle l'immobilisation a été effectivement utilisée pour la réalisation de l'oeuvre éligible au crédit d'impôt.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 220 sexies
-
 	**Modifié par**:
 
-	  - Décret n°2005-407 2005-04-29 art. 1 I, IV JORF 3 mai 2005
-	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
+	  - Décret n°2006-317 du 20 mars 2006 - art. 2 () JORF 21 mars 2006
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 220 sexies (VT)
 
 
 ###### Article 46 quater-0 YO
 
-Les personnels mentionnés au a du 1° et au a du 2° de l'article 46 quater-0 YM sont ceux engagés par l'entreprise de
-production déléguée pour la réalisation d'une oeuvre cinématographique ou d'une oeuvre audiovisuelle déterminée. Ils
-comprennent :
+I.-Les artistes-interprètes mentionnés au b du 1 et au b du 2 de l'article 46 quater-0 YM comprennent : 
+
+a. Les acteurs assurant les rôles principaux et les rôles secondaires des oeuvres appartenant au genre de la fiction ainsi
+que les artistes-interprètes assurant le commentaire ou la postsynchronisation des oeuvres appartenant au genre du
+documentaire et au genre de l'animation. Pour les oeuvres appartenant au genre de la fiction, sont considérés comme rôles
+principaux les rôles pour lesquels la présence à l'écran des artistes-interprètes est requise pour la moitié au moins des
+scènes de l'oeuvre et comme rôles secondaires les rôles d'au moins quatre cachets ; 
+
+b. Les artistes musiciens engagés pour l'enregistrement sonore de leur interprétation ou exécution d'oeuvres musicales
+destinées à être incorporées aux oeuvres cinématographiques ou audiovisuelles ; 
+
+II.-Les personnels mentionnés au c du 1 et au c du 2 de l'article 46 quater-0 YM comprennent : 
 
 1° Pour les oeuvres cinématographiques ou audiovisuelles de fiction et les oeuvres cinématographiques ou audiovisuelles
-documentaires :
+documentaires : 
 
-a. Les techniciens de la production autres que le réalisateur qui sont ceux en charge : de la préparation et de l'assistance
-de réalisation ; de la technique et de la qualité artistique des prises de vues ; de la technique et de la qualité artistique
+a. les techniciens de la production qui sont ceux en charge : de la réalisation ; de la préparation et de l'assistance de
+réalisation ; de la technique et de la qualité artistique des prises de vues ; de la technique et de la qualité artistique
 des enregistrements sonores ; de la création artistique et de l'exécution des décors ; de la création artistique des
 costumes, perruques et accessoires vestimentaires ; de la confection des costumes et accessoires vestimentaires ; de
 l'habillage et de l'entretien des costumes ; du maquillage de composition des acteurs ; de la confection des perruques et
 postiches et de l'exécution des coiffures ; des accessoires de plateau et de décor ; de l'assemblage artistique et technique
 des images et des sons ; de la préparation et de la réalisation des effets spéciaux de tournage, y compris les cascades ; de
-la direction et de la gestion administrative, technique et comptable de la production ;
+la direction artistique et du développement ; de la direction et de la gestion administrative, technique et comptable de la
+production ; 
 
 b. Les ouvriers de la production qui sont ceux en charge : de la machinerie ; de l'éclairage ; de la construction des
-décors ;
+décors ; 
 
-2° Pour les oeuvres cinématographiques ou audiovisuelles d'animation :
+2° Pour les oeuvres cinématographiques ou audiovisuelles d'animation : 
 
-a. Les techniciens de la production autres que le réalisateur qui sont ceux en charge : de l'assistance de réalisation, de la
-direction artistique et de la direction d'écriture de l'oeuvre cinématographique ou audiovisuelle ; de la direction et de la
-gestion administrative, technique et comptable de la production ;
+a. les techniciens de la production qui sont ceux en charge : de la réalisation ; de l'assistance de réalisation, de la
+direction artistique et de la direction d'écriture de l'oeuvre cinématographique ou audiovisuelle ; de la direction
+artistique et du développement ; de la direction et de la gestion administrative, technique et comptable de la production ; 
 
 b. Les collaborateurs chargés de la préparation de l'animation qui sont ceux en charge : de la création du scénarimage ; de
 la conception et de la modélisation des personnages ; de la conception et de la modélisation des décors ; des feuilles
-d'exposition ;
+d'exposition ; 
 
 c. Les collaborateurs chargés de la fabrication de l'animation qui sont ceux en charge : de la mise en place de l'animation ;
 de l'exécution de l'animation ; de la mise en place des décors ; de l'exécution des décors ; du traçage-gouachage, de la
@@ -12984,18 +13015,13 @@ technique des images et du son.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 46 quater-0 YM
-
 	**Modifié par**:
 
-	  - Décret n°2005-407 2005-04-29 art. 1 I, V JORF 3 mai 2005
-	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
+	  - Décret n°2006-317 du 20 mars 2006 - art. 3 () JORF 21 mars 2006
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YM (V)
 
 
 ###### Article 46 quater-0 YP

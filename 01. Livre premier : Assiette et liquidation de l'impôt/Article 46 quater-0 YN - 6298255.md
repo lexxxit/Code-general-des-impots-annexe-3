@@ -1,23 +1,17 @@
 # Article 46 quater-0 YN
 
-Pour la détermination des dépenses visées aux b, c, d et e du 1° du 1 du III et aux b, c, d et e du 2° du 1 du III de
-l'article 220 sexies du code général des impôts, il y a lieu de retenir les dotations aux amortissements fiscalement
-déductibles afférentes aux immobilisations détenues par l'entreprise de production déléguée et affectées directement à la
-réalisation de l'oeuvre cinématographique ou de l'oeuvre audiovisuelle ouvrant droit au crédit d'impôt. Seules sont prises en
-compte les dotations aux amortissements correspondant à la période durant laquelle l'immobilisation a été effectivement
-utilisée pour la réalisation de l'oeuvre éligible au crédit d'impôt.
+Pour la détermination des dépenses visées au d du 1 du III de l'article 220 sexies du code général des impôts, il y a lieu de
+retenir les dotations aux amortissements fiscalement déductibles afférentes aux immobilisations détenues par l'entreprise de
+production déléguée et affectées directement à la réalisation de l'oeuvre cinématographique ou de l'oeuvre audiovisuelle
+ouvrant droit au crédit d'impôt. Seules sont prises en compte les dotations aux amortissements correspondant à la période
+durant laquelle l'immobilisation a été effectivement utilisée pour la réalisation de l'oeuvre éligible au crédit d'impôt.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 220 sexies
-
 	**Modifié par**:
 
-	  - Décret n°2005-407 2005-04-29 art. 1 I, IV JORF 3 mai 2005
-	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
+	  - Décret n°2006-317 du 20 mars 2006 - art. 2 () JORF 21 mars 2006
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 220 sexies (VT)
