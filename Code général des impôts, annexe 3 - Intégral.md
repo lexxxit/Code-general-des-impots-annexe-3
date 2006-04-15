@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-04-13
+Version Consolidée au 2006-04-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7140,24 +7140,17 @@ exercée que si l'emprunt n'est pas assorti d'une clause d'indexation.
 
 Le prélévement prévu par l'article 125 A du code général des impots et dû à raison des gains mentionnés à l'article 124 B du
 même code est pratiqué sur le compte approvisionné par le contribuable à cet effet par la personne chez laquelle les titres
-de créances sont inscrits en compte  ou déposés en application des dispositions du premier alinéa de l'article 124 D du code
-déjà cité ou par la personne désignée par le contribuable pour acquitter ce prélévement.
+de créances sont inscrits en compte ou déposés en application des dispositions du premier alinéa de l'article 124 D du code
+déjà cité ou par la personne désignée par le contribuable pour acquitter ce prélévement. 
+
+Ces dispositions ne sont pas applicables au prélèvement dû à raison des gains mentionnés au I de l'article 125 D du code
+précité.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 124 B
-	  - CGI 124 D
-	  - CGI 125 A
-
-	**Créé par**:
-
-	  - Décret n°86-216 du 17 février 1986 - art. 1 (V) JORF 18 février 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2006-446 du 14 avril 2006 - art. 1 () JORF 16 avril 2006
 
 	**Cité par**:
 
@@ -7167,9 +7160,12 @@ déjà cité ou par la personne désignée par le contribuable pour acquitter ce
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies O (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies P (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - Code général des impôts, CGI. - art. 124 B (V)
+	  - Code général des impôts, CGI. - art. 124 D (V)
+	  - Code général des impôts, CGI. - art. 125 A (V)
+	  - Code général des impôts, CGI. - art. 125 D (V)
 
 
 ###### Article 41 duodecies K
@@ -7197,29 +7193,25 @@ cession des titres comporte les effets du paiement au jour de la cession.
 
 L'option pour le prélèvement est exercée par le cédant auprés des personnes mentionnées à l'article 41 duodecies J au moment
 où il communique le montant de la cession qu'il a effectuée et au plus tard dix jours à partir de la date de cession. A cette
-occasion, il indique le montant du gain pour lequel l'option est formulée.
+occasion, il indique le montant du gain pour lequel l'option est formulée. 
+
+Ces dispositions ne sont pas applicables au prélèvement dû à raison des revenus, produits et gains mentionnés aux I et II de
+l'article 125 D du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-446 du 14 avril 2006 - art. 1 () JORF 16 avril 2006
+
 	**Cite**:
 
-	  - CGIAN3 41 duodecies J
-
-	**Créé par**:
-
-	  - Décret n°86-216 du 17 février 1986 - art. 3 (V) JORF 18 février 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies J (V)
+	  - Code général des impôts, CGI. - art. 125 D (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies M (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
 
 
 ###### Article 41 duodecies M
@@ -7699,6 +7691,64 @@ les rapports mentionnés au troisième alinéa du 1 du même article justifiant 
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2005
+
+
+##### G ter : Prélèvement sur les produits de placements à revenu fixe et les produits de bons ou contrats de capitalisation de source européenne
+
+###### Article 41 sexdecies K
+
+I. - La déclaration mentionnée à l'article 125 D du code général des impôts est souscrite sur un formulaire normalisé. Elle
+comporte :
+
+a. la nature et le montant des revenus, produits et gains pour lesquels l'option est exercée ;
+
+b. le montant du prélèvement dû ;
+
+c. le montant des contributions et prélèvements sociaux dus en application des articles 1600-0 D, 1600-0 F bis et 1600-0 I du
+code général des impôts ainsi que du 2° de l'article 11 de la loi n° 2004-626 du 30 juin 2004.
+
+Cette déclaration mentionne en outre la dénomination et l'adresse de la personne visée au IV de l'article 125 D précité qui
+est mandatée par le contribuable pour effectuer en son nom et pour son compte les formalités déclaratives et de paiement
+dudit prélèvement, ainsi que son numéro d'identification en cas de conclusion de la convention prévue au VI du même article
+125 D.
+
+II. - La déclaration mentionnée au I est déposée, accompagnée du paiement des impôts dus, dans les délais prévus au IV de
+l'article 125 D précité au service des impôts désigné par le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-446 du 14 avril 2006 - art. 1 () JORF 16 avril 2006 Rectificatif JORF 13 mai 2006
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies L (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 41 sexdecies L
+
+La convention mentionnée au VI de l'article 125 D du code général des impôts organise les modalités déclaratives et de
+paiement des impôts prévues à l'article 41 sexdecies K pour les personnes visées au IV de l'article 125 D précité qui sont
+mandatées par plusieurs contribuables pour effectuer en leur nom et pour leur compte lesdites formalités déclaratives et de
+paiement des impôts. 
+
+Cette convention doit être conforme au modèle délivré par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-446 du 14 avril 2006 - art. 1 () JORF 16 avril 2006
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies K (V)
+	  - Code général des impôts, CGI. - art. 125 D (V)
 
 
 ##### VIII bis : Profits réalisés sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'options
@@ -35090,31 +35140,18 @@ Le versement est fait au service des impôts désigné par le ministre chargé d
 l'administration.
 
 3. Un arrêté détermine la nature et le contenu des documents que les établissements payeurs doivent établir et conserver à la
-disposition de l'administration en vue du contrôle (1).
+disposition de l'administration en vue du contrôle.
 
-Il fixe les conditions dans lesquelles le prélèvement opéré par ces établissements peut faire l'objet de versements globaux
-(2).
+Il fixe les conditions dans lesquelles le prélèvement opéré par ces établissements peut faire l'objet de versements globaux.
 
-**Nota:**
-
-NOTA : (1) Voir les articles 17 B et 17 C de l'annexe IV.
-
-(2) Voir l'article 188 I de l'annexe IV.
+4. Les dispositions des 1 à 3 ne sont pas applicables au prélèvement dû à raison des revenus, produits et gains mentionnés à
+l'article 125 D du code précité.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 125 A
-	  - CGIAN4 17 B, 17 C, 188 I
-
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-446 du 14 avril 2006 - art. 1 () JORF 16 avril 2006
 
 	**Cité par**:
 
@@ -35122,7 +35159,7 @@ NOTA : (1) Voir les articles 17 B et 17 C de l'annexe IV.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### 12 : Participation des employeurs au développement de la formation professionnelle continue
