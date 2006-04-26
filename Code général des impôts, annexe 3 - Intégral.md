@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-04-16
+Version Consolidée au 2006-04-27
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -28841,6 +28841,32 @@ total des emplois salariés estimé au 31 décembre de la septième année préc
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
+
+
+##### IV : Valeur locative des biens cédés entre entreprises liées
+
+###### Article 324-0 A
+
+Les conditions d'exercice du contrôle prévu au 3° quater de l'article 1469 du code général des impôts doivent être remplies à
+un moment quelconque au cours des six mois qui précèdent ou suivent la cession du bien.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1469
+
+	**Créé par**:
+
+	  - Décret n°2006-476 du 25 avril 2006 - art. 1 () JORF 27 avril 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section III bis : Règles d'évaluation de la valeur locative des biens imposables
