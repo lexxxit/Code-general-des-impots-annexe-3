@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-06-01
+Version Consolidée au 2006-06-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11534,6 +11534,28 @@ du demandeur.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
+
+
+##### 13° : Réduction apportée au titre de l'aide accordée à certains créateurs d'entreprise
+
+###### Article 46 AY
+
+La réduction d'impôt prévue à l'article 200 octies du code général des impôts est majorée de 400 € lorsque l'aide est
+apportée à une personne handicapée au sens de l'article L. 114 du code de l'action sociale et des familles. 
+
+La date à laquelle il convient d'apprécier l'existence du handicap du bénéficiaire de l'aide est celle de la conclusion de la
+convention tripartite mentionnée au troisième alinéa du I de l'article 200 octies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-638 du 1 juin 2006 - art. 1 () JORF 2 juin 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200 octies (V)
+	  - Code de l'action sociale et des familles - art. L114 (V)
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
