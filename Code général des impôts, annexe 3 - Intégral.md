@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-06-22
+Version Consolidée au 2006-06-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -27597,20 +27597,25 @@ Le salaire alloué pour chaque déclaration soit de cession d'antériorité, soi
 changement de domicile par le même acte est liquidé, au taux unique de 0,05 %, sur les sommes faisant l'objet de la
 subrogation ou, dans le cas de cession d'antériorité, sur la valeur de la plus faible inscription.
 
+Le même salaire s'applique à la publication de la convention de rechargement prévue à l'article 2422 du code civil.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
 
 	**Modifié par**:
 
-	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V) JORF 29 juillet 1981
-	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V) JORF 29 juillet 1981
+	  - Décret n°2006-729 du 22 juin 2006 - art. 1 () JORF 24 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 2422
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er septembre 1982
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 295
@@ -27618,31 +27623,37 @@ subrogation ou, dans le cas de cession d'antériorité, sur la valeur de la plus
 Le salaire alloué pour chaque radiation d'inscription est liquidé, au taux unique de 0,10 %, sur les sommes faisant l'objet
 de la radiation.
 
-En cas de réduction du gage  le salaire est liquidé sur le montant total des sommes garanties par l'inscription ou sur la
-valeur de l'immeuble affranchi  si cette valeur est déclarée dans l'acte et est inférieure au montant des sommes garanties.
-En cas de mainlevée partielle ayant pour objet la division de l'hypothèque  de telle sorte que chaque immeuble ou fraction
-d'immeuble ne garantisse plus qu'une partie de la créance  le salaire afférent à chacun des dégrèvements partiels résultant
+En cas de réduction du gage, le salaire est liquidé sur le montant total des sommes garanties par l'inscription ou sur la
+valeur de l'immeuble affranchi, si cette valeur est déclarée dans l'acte et est inférieure au montant des sommes garanties.
+En cas de mainlevée partielle ayant pour objet la division de l'hypothèque, de telle sorte que chaque immeuble ou fraction
+d'immeuble ne garantisse plus qu'une partie de la créance, le salaire afférent à chacun des dégrèvements partiels résultant
 de la division ne peut être liquidé sur une somme supérieure à la fraction de la créance originaire dont chaque immeuble ou
 fraction d'immeuble reste grevé.
 
+Par dérogation aux dispositions qui précèdent, le salaire alloué pour la radiation requise conformément au troisième alinéa
+de l'article 2441 du code civil est liquidé au taux unique de 0,05 % sur les sommes faisant l'objet de la radiation.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V) JORF 29 juillet 1981
-	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V) JORF 29 juillet 1981
 
 	**Cité par**:
 
 	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2006-729 du 22 juin 2006 - art. 2 () JORF 24 juin 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code civil - art. 2441
+
 	**Liens**:
 
-	  - HISTO: Edition du 1er septembre 1982
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 296
