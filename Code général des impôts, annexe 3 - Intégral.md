@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-06-24
+Version Consolidée au 2006-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21079,6 +21079,42 @@ fiscales et les représenter à toute demande des agents de l'administration des
 	  - Livre des procédures fiscales - art. L102 B (VT)
 
 
+#### Chapitre II : Taxe de solidarité sur les billets d'avion
+
+###### Article 99
+
+Le montant de la majoration mentionnée au VI de l'article 302 bis K du code général des impôts est fixé comme suit :
+
+Passagers embarqués à destination de la France, d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie
+à l'accord sur l'Espace économique européen
+
+PASSAGERS POUVANT bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne peut accéder
+gratuitement : 10 euros
+
+AUTRES passagers : 1 euro
+
+Passagers embarqués à destination d'un autre Etat
+
+PASSAGERS POUVANT bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne peut accéder
+gratuitement : 40 euros
+
+AUTRES passagers : 4 euros
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 bis K
+
+	**Créé par**:
+
+	  - Décret n°2006-663 du 6 juin 2006 - art. 1 () JORF 8 juin 2006 en vigueur le 1er juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
 #### Chapitre IV : Redevance sanitaire d'abattage
 
 ###### Article 111 quater A
@@ -35776,6 +35812,22 @@ Communauté européenne et qui n'ont pas désigné un représentant fiscal en Fr
 	**Codifié par**:
 
 	  - Décret n°95-1281 1995-12-11
+
+
+###### Article 384 A ter
+
+Dans les ports où la direction générale des douanes et des droits indirects perçoit le droit de port exigible à raison des
+opérations commerciales ou des séjours qui y sont effectués, les comptables de cette administration sont habilités à
+accepter, pour le compte du port et sur la base de la liquidation effectuée par ce dernier, les paiements relatifs à la taxe
+sur la valeur ajoutée due, le cas échéant, sur le droit de port.
+
+Les paiements reçus sont versés aux ports suivant les mêmes modalités que le droit de port auquel ils se rapportent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1747 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er juillet 2006
 
 
 ### Section III : Enregistrement, publicité foncière, timbre
