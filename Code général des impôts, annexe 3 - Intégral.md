@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-07-01
+Version Consolidée au 2006-07-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17951,6 +17951,123 @@ Article devenu sans objet en conséquence de la péremption de l'article 244 qua
 
 	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
 	  - HISTO: Edition du 1er janvier 2006
+
+
+##### Section V duodecies : Crédit d'impôt en faveur de l'agriculture biologique
+
+###### Article 49 septies Z
+
+Pour déterminer si l'entreprise respecte le seuil de 40 % mentionné au premier alinéa du I de l'article 244 quater L du code
+général des impôts, il convient d'établir le rapport entre :
+
+a. d'une part, le montant des recettes qui proviennent des activités mentionnées à l'article 63 du code général des impôts
+qui ont fait l'objet d'une certification en agriculture biologique au sens de l'article 8 du règlement (CEE) n° 2092/91 du
+Conseil du 24 juin 1991, concernant le mode de production biologique de produits agricoles et sa présentation sur les
+produits agricoles et les denrées alimentaires ;
+
+b. et, d'autre part, le montant des recettes qui proviennent des activités mentionnées à l'article 63 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater L, 63
+
+	**Créé par**:
+
+	  - Décret n°2006-793 du 4 juillet 2006 - art. 1 () JORF 6 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 49 septies ZA
+
+Le contrat territorial d'exploitation mentionné au deuxième alinéa du I de l'article 244 quater L du code général des impôts
+est celui prévu à l'article L. 311-3 du code rural dans sa rédaction antérieure à la publication du décret n° 2003-675 du 22
+juillet 2003. Le contrat d'aide à l'agriculture durable est celui mentionné aux articles R. 311-1 et R. 311-2 du code rural.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de l'article 132-III de la loi n° 2010-1657 du 29 décembre 2010.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L311-3, R311-1, R311-2
+	  - Décret n°2003-675 du 22 juillet 2003
+
+	**Créé par**:
+
+	  - Décret n°2006-793 du 4 juillet 2006 - art. 1 () JORF 6 juillet 2006
+
+	**Liens**:
+
+	  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 49 septies ZB
+
+Le crédit d'impôt prévu à l'article 244 quater L du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt. L'excédent de crédit d'impôt non imputé est restitué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-793 du 4 juillet 2006 - art. 1 () JORF 6 juillet 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater L (V)
+
+
+###### Article 49 septies ZB bis
+
+Pour l'application des dispositions des articles 199 ter K, 220 M et 244 quater  L du code général des impôts, les
+entreprises doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration.
+
+Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
+la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du
+régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations
+spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au
+résultat d'ensemble du groupe.
+
+Les autres entreprises joignent la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer
+en vertu de l'article 53 A du code général des impôts.
+
+Pour les sociétés de personnes et les groupements assimilés, dont les groupements agricoles d'exploitation en commun, qui ne
+seraient pas tenus au dépôt de la déclaration annuelle de résultat prévue à l'article 53 A du code général des impôts, la
+déclaration spéciale mentionnée au premier alinéa est adressée au service des impôts des entreprises dont relève la société
+de personnes ou le groupement assimilé dans le même délai que la déclaration de revenus des associés lorsque ceux-ci sont des
+personnes physiques ou que la déclaration annuelle de résultat lorsque les associés sont des personnes morales tenues de
+déposer cette déclaration en application de l'article 53 A précité.
+
+Les associés personnes physiques joignent à leur déclaration de revenus une déclaration spéciale indiquant les quotes-parts
+de crédit d'impôt issues de leur participation dans les groupements susvisés.
+
+Les associés personnes morales joignent cette même déclaration spéciale à leur déclaration annuelle de résultat lorsqu'elles
+sont tenues de la déposer en application de l'article 53 A du code général des impôts.
+
+Les exploitants individuels non tenus au dépôt de la déclaration annuelle de résultat prévue à l'article 53 A précité
+joignent la déclaration spéciale mentionnée au premier alinéa à leur déclaration de revenus.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter K, 220 M, 244 quater L, 360, 223 A, 53 A
+
+	**Créé par**:
+
+	  - Décret n°2006-793 du 4 juillet 2006 - art. 1 () JORF 6 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section V quaterdecies : Crédit d'impôt en faveur de l'emploi de réservistes
