@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-07-06
+Version Consolidée au 2006-07-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11609,6 +11609,120 @@ supérieur au moment de la souscription du prêt.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 200 terdecies (V)
+
+
+##### 15° : Crédit d'impôt au titre des dépenses de remplacement pour congé de certains exploitants agricoles
+
+###### Article 46 AZA
+
+La condition d'une activité requérant la présence du contribuable sur l'exploitation chaque jour de l'année, mentionnée à
+l'article 200 undecies du code général des impôts, est réputée satisfaite lorsque l'exploitant exerce une activité d'élevage
+qui nécessite des travaux, des soins ou de la surveillance quotidiennement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-800 du 6 juillet 2006 - art. 1 () JORF 7 juillet 2006
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA bis (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200 undecies (V)
+
+
+###### Article 46 AZA bis
+
+Si l'exploitant agricole exerce une activité autre que celle définie à l'article 46 AZA, cette activité peut être éligible au
+crédit d'impôt si l'exploitant fournit avec la déclaration spéciale mentionnée à l'article 46 AZA quater un calendrier des
+travaux de ses différentes productions montrant que celles-ci nécessitent sa présence tous les jours de l'année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-800 du 6 juillet 2006 - art. 1 () JORF 7 juillet 2006
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA quater (V)
+
+
+###### Article 46 AZA quater
+
+Pour l'application des dispositions de l'article 200 undecies du code général des impôts, les contribuables exerçant une
+activité dont les revenus sont imposés dans la catégorie des bénéfices agricoles sont tenus de souscrire une déclaration
+spéciale conforme à un modèle établi par l'administration. 
+
+Cette déclaration doit être jointe à la déclaration annuelle de résultat que le contribuable exerçant une activité
+professionnelle agricole est tenue de déposer en vertu de l'article 53 A du code général des impôts. 
+
+Les exploitants individuels et les associés personnes physiques de sociétés de personnes ou de groupements assimilés, dont
+les groupements agricoles d'exploitation en commun, qui ne seraient pas tenus au dépôt de la déclaration annuelle de résultat
+prévue à l'article 53 A précité joignent la déclaration spéciale mentionnée au premier alinéa à leur déclaration de revenus
+de l'année au titre de laquelle le bénéfice du crédit d'impôt est demandé. 
+
+Pour les associés personnes physiques de sociétés de personnes ou de groupements assimilés, dont les groupements agricoles
+d'exploitation en commun, la déclaration spéciale indique la quote-part du crédit d'impôt revenant à chaque associé en
+fonction de sa participation dans le groupement concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-800 du 6 juillet 2006 - art. 1 () JORF 7 juillet 2006
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA quinquies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200 undecies (V)
+	  - Code général des impôts, CGI. - art. 53 A (V)
+
+
+###### Article 46 AZA quinquies
+
+Les contribuables sont également tenus de joindre à la déclaration spéciale mentionnée à l'article 46 AZA quater une copie de
+la facture de la prestation de service de remplacement ou une copie du contrat de travail mentionnant le coût du salaire
+horaire du remplaçant et le nombre de jours de remplacement de l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-800 du 6 juillet 2006 - art. 1 () JORF 7 juillet 2006
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA quater (V)
+
+
+###### Article 46 AZA ter
+
+Les dépenses de remplacement mentionnées au I de l'article 200 undecies du code général des impôts comprennent les
+rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où celles-ci correspondent à des
+cotisations sociales obligatoires.
+
+Le taux horaire minimum garanti permettant d'apprécier le plafond du crédit d'impôt prévu au II de l'article 200 undecies
+précité est celui en vigueur, en application des articles L. 141-3 à L. 141-8 du code du travail, au 31 décembre de l'année
+au titre de laquelle le crédit d'impôt est calculé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-800 du 6 juillet 2006 - art. 1 () JORF 7 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
@@ -27923,6 +28037,61 @@ visés à l'article 288, à une majoration de 50 % de ces salaires.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 1999
+
+
+#### Chapitre I bis : Impôt de solidarité sur la fortune
+
+###### Article 299 bis
+
+I. - La personne qui demande le bénéfice pour la première fois des dispositions de l'article 885 I ter du code général des
+impôts au titre d'une souscription auprès d'une société donnée produit une attestation émanant de cette société précisant :
+
+1° Son siège de direction effective et la nature de ses activités au 1er janvier de l'année d'imposition ainsi que le nombre
+et la nature des titres détenus à la même date par le demandeur et reçus en contrepartie de la souscription satisfaisant les
+conditions prévues par l'article 885 I ter du code général des impôts. Pour le dénombrement des titres, les cessions et
+transmissions de titres postérieures à la souscription mentionnée au premier alinéa sont réputées porter en priorité sur les
+titres que la personne n'a pas reçus en contrepartie d'une souscription satisfaisant les conditions prévues par l'article 885
+I ter précité ;
+
+2° La date à laquelle les titres ont été souscrits et le nombre de titres reçus à cette occasion ;
+
+3° Lorsqu'elle a déjà clôturé un exercice à la date mentionnée au 2°, l'ensemble des éléments permettant d'établir qu'elle
+répond, à cette date, à la définition des petites et moyennes entreprises mentionnée à l'article 885 I du code général des
+impôts ;
+
+4° En cas de souscription en nature, la désignation et la valeur retenue des biens éligibles, ainsi que leur affectation.
+
+II. - Les années suivant celle mentionnée au I, la personne qui entend bénéficier des dispositions de l'article 885 I ter du
+code général des impôts produit une attestation de la société au capital de laquelle il a été souscrit précisant les
+informations mentionnées au 1° du I.
+
+Lorsque la personne entend bénéficier du régime de faveur pour des titres reçus en contrepartie d'une nouvelle souscription
+satisfaisant aux conditions prévues par l'article 885 I ter précité, l'attestation comprend en outre pour ces titres les
+précisions mentionnées aux 2°, 3° et 4° du I.
+
+III. - Lorsque les éléments mentionnés au 3° du I n'ont pu être fournis la première année, la personne mentionnée au I
+produit l'année suivant celle au titre de laquelle le bénéfice des dispositions de l'article 885 I ter du code général des
+impôts a été demandé pour la première fois et dans les conditions mentionnées au IV une attestation de la société au capital
+de laquelle il a été souscrit comprenant ces éléments.
+
+IV. - Les attestations mentionnées aux I et II sont adressées à l'administration par la personne qui bénéficie des
+dispositions de l'article 885 I ter du code général des impôts lors du dépôt de sa déclaration d'impôt de solidarité sur la
+fortune ou adressés au service des impôts de son domicile, avant le 15 juin de l'année au titre de laquelle le bénéfice du
+régime de faveur est demandé, lorsqu'elle n'est pas tenue de déposer une déclaration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 885 I ter, 885 I
+
+	**Créé par**:
+
+	  - Décret n°2006-799 du 5 juillet 2006 - art. 1 () JORF 7 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 #### Chapitre II : Droits de timbre
