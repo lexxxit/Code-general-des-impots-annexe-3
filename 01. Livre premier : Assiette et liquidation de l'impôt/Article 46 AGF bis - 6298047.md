@@ -1,19 +1,16 @@
 # Article 46 AGF bis
 
 Pour l'application de l'article 199 decies EA du code général des impôts, les travaux de réhabilitation des logements
-s'entendent des travaux de modification ou de remise en état du gros oeuvre ou des travaux d'aménagement interne qui, par
-leur nature, équivalent à de la reconstruction ainsi que des travaux d'amélioration qui leur sont indissociables.
+s'entendent des travaux qui permettent après leur réalisation de satisfaire à l'ensemble des performances techniques
+mentionnées au II de l'article 2 quindecies B. Le coût des travaux de réhabilitation une fois achevés doit s'élever à un
+montant au moins égal à 20 % du prix d'acquisition du logement avant travaux.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-820 du 7 juillet 2006 - art. 2 () JORF 9 juillet 2006
+
 	**Cite**:
 
-	  - CGI 199 decies EA
-
-	**Créé par**:
-
-	  - Décret n°2004-1221 du 17 novembre 2004 - art. 1 () JORF 19 novembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 199 decies EA (V)
