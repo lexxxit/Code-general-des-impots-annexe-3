@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-07-09
+Version Consolidée au 2006-07-13
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7068,20 +7068,18 @@ dont le domicile fiscal ou le siège social est situé hors de France.
 
 ###### Article 41 duodecies D
 
-Le prélèvement prévu à l'article 41 duodecies C est également applicable aux produits qui sont payés hors de la France
-métropolitaine et des départements d'outre-mer.
-
-Dans ce cas, le prélèvement est opéré par le débiteur, même s'il n'assure pas lui-même le paiement des revenus.
-
-Il en est de même en ce qui concerne les produits qui sont soumis au prélèvement en vertu des dispositions du II de l'article
-125 A du code général des impôts.
+Le débiteur des revenus qui sont soumis au prélèvement en vertu des dispositions du II de l'article 125 A du code général des
+impôts opère lui-même le prélèvement, même s'il n'assure pas en personne le paiement de ces produits.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 125 A II
-	  - CGIAN3 41 duodecies C
+	  - Code général des impôts, CGI. - art. 125 A (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-860 2006-07-11 art. 1 JORF 13 juillet 2006
 
 
 ###### Article 41 duodecies E
