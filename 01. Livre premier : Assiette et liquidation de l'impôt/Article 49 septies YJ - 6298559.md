@@ -16,24 +16,35 @@ différent doit ainsi être calculé par l'entreprise au titre :
 
 2° Des apprentis ayant la qualité de travailleurs handicapés conformément aux dispositions de l'article L. 323-10 du code du
 travail et des apprentis bénéficiant de l'accompagnement personnalisé prévu à la dernière phrase du premier alinéa de
-l'article L. 322-4-17-2 du code du travail.
+l'article L. 322-4-17-2 du code du travail ;
+
+3° Des apprentis employés par une entreprise portant le label "Entreprise du patrimoine vivant" au sens de l'article 23 de la
+loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises ;
+
+4° Des apprentis dont le contrat d'apprentissage est signé dans les conditions prévues à l'article L. 337-3 du code de
+l'éducation ;
+
+5° Des apprentis dont le contrat d'apprentissage est signé à l'issue d'un contrat de volontariat pour l'insertion mentionné à
+l'article L. 130-1 du code du service national.
 
 Chaque nombre moyen annuel d'apprentis calculé au titre d'une année est obtenu en divisant par douze le nombre total de mois
-de présence dans l'entreprise, pour cette même année, des apprentis employés depuis plus d'un mois au sens du deuxième
-alinéa.
+de présence dans l'entreprise, pour cette même année, des apprentis employés depuis au moins un mois.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 244 quater G
+	  - Loi n°2005-882 2005-08-02 art. 23
+	  - Code de l'éducation - art. L337-3 (M)
+	  - Code du service national - art. L130-1 (V)
 	  - Code du travail - art. L322-4-17-2 (AbD)
 	  - Code du travail - art. L323-10 (M)
 	  - Code du travail L117-1 à L117-18, L323-10, L322-4-17-2
 
 	**Modifié par**:
 
-	  - Décret n°2005-1745 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2006-907 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 	**Cité par**:
 
@@ -41,4 +52,4 @@ alinéa.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007

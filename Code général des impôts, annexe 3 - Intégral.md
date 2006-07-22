@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-07-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17837,24 +17837,35 @@ différent doit ainsi être calculé par l'entreprise au titre :
 
 2° Des apprentis ayant la qualité de travailleurs handicapés conformément aux dispositions de l'article L. 323-10 du code du
 travail et des apprentis bénéficiant de l'accompagnement personnalisé prévu à la dernière phrase du premier alinéa de
-l'article L. 322-4-17-2 du code du travail.
+l'article L. 322-4-17-2 du code du travail ;
+
+3° Des apprentis employés par une entreprise portant le label "Entreprise du patrimoine vivant" au sens de l'article 23 de la
+loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises ;
+
+4° Des apprentis dont le contrat d'apprentissage est signé dans les conditions prévues à l'article L. 337-3 du code de
+l'éducation ;
+
+5° Des apprentis dont le contrat d'apprentissage est signé à l'issue d'un contrat de volontariat pour l'insertion mentionné à
+l'article L. 130-1 du code du service national.
 
 Chaque nombre moyen annuel d'apprentis calculé au titre d'une année est obtenu en divisant par douze le nombre total de mois
-de présence dans l'entreprise, pour cette même année, des apprentis employés depuis plus d'un mois au sens du deuxième
-alinéa.
+de présence dans l'entreprise, pour cette même année, des apprentis employés depuis au moins un mois.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 244 quater G
+	  - Loi n°2005-882 2005-08-02 art. 23
+	  - Code de l'éducation - art. L337-3 (M)
+	  - Code du service national - art. L130-1 (V)
 	  - Code du travail - art. L322-4-17-2 (AbD)
 	  - Code du travail - art. L323-10 (M)
 	  - Code du travail L117-1 à L117-18, L323-10, L322-4-17-2
 
 	**Modifié par**:
 
-	  - Décret n°2005-1745 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005
+	  - Décret n°2006-907 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 	**Cité par**:
 
@@ -17862,7 +17873,7 @@ alinéa.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 49 septies YK
@@ -24958,11 +24969,26 @@ Modifications effectuées en conséquence de l'article 63 [1°] de la loi n° 20
 
 ###### Article 183
 
-Les poinçons utilisés tant par les fabricants ou importateurs que par le service de la garantie doivent être conformes aux
-modèles fixés par décret.
+Les poinçons de maître et de responsabilité, les poinçons de garantie utilisés par les professionnels habilités par une
+convention conclue avec l'administration des douanes et droits indirects dans les conditions prévues au deuxième alinéa du I
+de l'article 535 du code général des impôts, par les organismes de contrôle agréés dans les conditions prévues au II de cet
+article et par les services de la garantie doivent être conformes aux modèles fixés par décret.
 
 Ils sont apposés sur les ouvrages dans les conditions que l'administration détermine.
 
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 535
+
+	**Modifié par**:
+
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 184
@@ -24990,12 +25016,11 @@ de garantie et en conserve les matrices.
 
 ###### Article 186 bis
 
-Les ouvrages en alliage d'or aux titres légaux de 585 millièmes et 375 millièmes sont revêtus respectivement des poinçons de
-titre conformes au tableau annexé au décret n° 95-612 du 5 mai 1995.
+Les ouvrages d'or aux titres légaux de 585 millièmes et 375 millièmes sont revêtus respectivement des poinçons de titre
+conformes au tableau annexé au décret n° 95-612 du 5 mai 1995.
 
-Les fabricants d'ouvrages en alliage d'or aux titres légaux de 585 millièmes et 375 millièmes peuvent, en outre, y faire
-figurer une indication du titre en millièmes, sans préjudice de l'apposition du poinçon de garantie, qui seul fait foi du
-titre.
+Les fabricants d'ouvrages d'or aux titres légaux de 585 millièmes et 375 millièmes peuvent, en outre, y faire figurer une
+indication du titre en millièmes, sans préjudice de l'apposition du poinçon de garantie, qui seul fait foi du titre.
 
 **Liens relatifs à cet article**
 
@@ -25003,18 +25028,13 @@ titre.
 
 	  - Décret n°95-612 1995-05-05 annexe
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-612 du 5 mai 1995 - art. 1 (V) JORF 7 mai 1995
-	  - Décret n°95-612 du 5 mai 1995 - art. 2 (V) JORF 7 mai 1995
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 186 ter
@@ -25042,7 +25062,8 @@ contenant de l'argent.
 
 ###### Article 187
 
-Le poinçonnement des ouvrages est fait après essai par le bureau de garantie le plus proche du lieu de fabrication.
+Le poinçonnement des ouvrages, hors les cas où le professionnel bénéficie d'une délégation de poinçon de garantie, est
+effectué par le bureau de garantie du ressort dont relève l'opérateur ou par un organisme de contrôle agréé.
 
 Le nombre et les circonscriptions des bureaux de garantie sont fixés par le ministre chargé des finances.
 
@@ -25050,30 +25071,37 @@ Le nombre et les circonscriptions des bureaux de garantie sont fixés par le min
 
 	**Modifié par**:
 
-	  - Décret n°80-871 du 30 octobre 1980 - art. 1 (V) JORF 7 novembre 1980
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 189
 
-L'essai est effectué au touchau. Il peut également être procédé à un essai à la coupelle ou à un essai par la voie humide
-lorsque le bureau de garantie l'estime nécessaire.
+L'essai est effectué au touchau. Il peut également être procédé à un essai à la coupelle ou à un essai par la voie humide ou
+à un essai par toute autre méthode en vigueur assurant un niveau de sécurité et de fiabilité équivalent, auprès du service
+commun des laboratoires du ministère de l'économie, des finances et de l'industrie lorsque le bureau de garantie l'estime
+nécessaire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°80-871 du 30 octobre 1980 - art. 1 (V) JORF 7 novembre 1980
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 
 ###### Article 190
 
-L'essai peut porter exceptionnellement sur les prélèvements de métal opérés par l'inspecteur au cours de la fabrication.
+L'essai peut porter également sur les prélèvements de métal opérés par le service des douanes et droits indirects au cours de
+la fabrication.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°80-871 du 30 octobre 1980 - art. 1 (V) JORF 7 novembre 1980
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 
 ###### Article 191
@@ -25098,114 +25126,66 @@ entrant dans leurs fabrications. La rémunération du bureau est fixée par arr�
 
 ###### Article 203
 
-Les ouvrages d'or ou contenant de l'or, d'argent et de platine qui, sans être au-dessous du plus bas des titres fixés par la
-loi, ne sont pas exactement à l'un d'eux, sont marqués au titre légal immédiatement inférieur à celui trouvé par l'essai ou
-sont rompus ou exportés si le propriétaire le préfère.
+Les ouvrages d'or, d'argent et de platine qui, sans être au-dessous du plus bas des titres fixés par la loi, ne sont pas
+exactement à l'un d'eux, sont marqués au titre légal immédiatement inférieur à celui trouvé par l'essai ou sont brisés ou
+exportés si le propriétaire le souhaite. Toutefois, il peut être demandé un nouvel essai par le propriétaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°94-899 1994-10-17
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°94-6 1994-01-01 art. 2, 9, 19, 31 JORF 5 janvier 1994
-
 
 ###### Article 204
 
-En cas de contestation sur le titre, il doit être fait une prise d'essai sur l'ouvrage pour être envoyée, sous les cachets du
-fabricant et de l'essayeur, au directeur général des douanes et droits indirects qui le fait essayer.
+En cas de contestation sur le titre, une prise d'essai sur l'ouvrage peut être effectuée et envoyée au service commun des
+laboratoires du ministère de l'économie, des finances et de l'industrie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
-	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 A (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 14 juillet 1989
-
 
 ###### Article 205
 
-Pendant ce temps, l'ouvrage présenté est laissé au bureau de garantie sous les cachets de l'essayeur et du fabricant, et,
-lorsque le laboratoire de la direction générale des douanes et droits indirects a fait connaître les résultats de son essai,
-l'ouvrage est définitivement titré et, s'il y a lieu, marqué conformément à ce résultat.
+En fonction des résultats de l'essai du service commun des laboratoires du ministère de l'économie, des finances et de
+l'industrie, l'ouvrage est définitivement titré et, s'il y a lieu, marqué conformément à ce résultat ou est brisé ou exporté
+s'il est inférieur au titre minimum légal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°88-372 du 18 avril 1988 - art. 1 (V) JORF 20 avril 1988
-	  - Décret n°88-372 du 18 avril 1988 - art. 2 (V) JORF 20 avril 1988
-
-	**Codifié par**:
-
-	  - Décret n°89-801 1989-10-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 14 juillet 1989
-
-
-###### Article 206
-
-Lorsque la contestation a été soulevée à tort par l'essayeur, les frais de transport sont à la charge de l'administration; au
-cas contraire, ils sont supportés par le propriétaire de l'objet.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
 
 	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 
 ###### Article 207
 
-Tout propriétaire d'un ouvrage d'or ou contenant de l'or, de platine ou d'argent portant le poinçon de la garantie peut
-exercer une action contre le fabricant ou l'importateur si le titre réel ne correspond pas à celui indiqué par le poinçon. En
-cas de doute, il peut demander au ministre de l'économie, des finances et de l'industrie un nouvel essai.
+Tout propriétaire d'un ouvrage d'or, de platine ou d'argent portant le poinçon de la garantie peut exercer une action contre
+le fabricant ou l'importateur si le titre réel ne correspond pas à celui indiqué par le poinçon. En cas de doute, il peut
+demander au directeur régional des douanes et droits indirects territorialement compétent un nouvel essai.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe, JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
 
 
 ###### Article 208
@@ -25218,116 +25198,126 @@ Dans tous les cas, les cornets et boutons d'essai sont remis au propriétaire de
 
 ###### Article 209
 
-En cas de décès d'un fabricant, son poinçon de responsabilité est remis par son dépositaire, dans un délai de trois mois, au
-bureau de garantie dont il dépendait.
+En cas de décès d'un fabricant ou d'un importateur, son poinçon de maître ou de responsabilité est remis par son dépositaire,
+dans un délai de trois mois, au bureau de garantie ou au bureau de douane dont il dépendait.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°80-871 du 30 octobre 1980 - art. 2 (V) JORF 7 novembre 1980
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 
 ###### Article 209-0 A
 
-La déclaration prévue à l'article 527 du code général des impôts mentionne le nombre des ouvrages en platine, en or ou
-contenant de l'or et en argent poinçonnés le mois précédent par le bureau de garantie, la date de l'apport à la marque et le
-montant de la contribution correspondant. Elle doit être accompagnée des fiches d'apport à la marque de ces ouvrages,
-établies par l'opérateur et visées par le bureau de garantie lors du dépôt des ouvrages en métaux précieux auprès de ce
-bureau pour être marqués des poinçons de titre légaux. Cette déclaration est envoyée ou déposée auprès de la recette des
-douanes et droits indirects territorialement compétente dans le ressort de laquelle est établi le bureau de garantie dont
-dépend le redevable. Lorsque les redevables paient la contribution au comptant, les ouvrages en métaux précieux ne leur sont
-restitués que sur présentation de la quittance de paiement. La forme et le contenu des fiches d'apport à la marque sont
-définis par arrêté du ministre chargé du budget.
+La déclaration prévue à l'article 527 du code général des impôts mentionne le nombre des ouvrages en platine, en or et en
+argent poinçonnés le mois précédent par le bureau de garantie, la date de l'apport à la marque et le montant de la
+contribution correspondant. Elle doit être accompagnée des fiches d'apport à la marque de ces ouvrages, établies par
+l'opérateur et visées par le bureau de garantie lors du dépôt des ouvrages en métaux précieux auprès de ce bureau pour être
+marqués des poinçons de titre légaux. Cette déclaration est envoyée ou déposée auprès de la recette des douanes et droits
+indirects territorialement compétente dans le ressort de laquelle est établi le bureau de garantie dont dépend le redevable.
+Lorsque les redevables paient la contribution au comptant, les ouvrages en métaux précieux ne leur sont restitués que sur
+présentation de la quittance de paiement. La forme et le contenu des fiches d'apport à la marque sont définis par arrêté du
+ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 527
-
 	**Modifié par**:
 
-	  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J vicies (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 527 (V)
 
 
 ###### Article 209-0 B
 
-Les fabricants peuvent adresser leurs ouvrages au bureau de garantie par la voie postale pour y être essayés et marqués. Dans
-ce cas, ils supportent les frais de réexpédition et versent, pour les couvrir, une avance auprès de la recette des douanes et
-droits indirects de rattachement du bureau de garantie dont ils dépendent.
+Les professionnels peuvent faire livrer leurs ouvrages au bureau de garantie pour y être essayés et marqués dès lors que ces
+professionnels supportent l'intégralité des formalités et des frais afférents à l'expédition des ouvrages vers le bureau de
+garantie.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-14 1993-01-04 art. 10 JORF 5 janvier 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 
 ###### Article 209-0 C
 
-Dès réception des paquets contenant les ouvrages, le bureau de garantie en adresse l'inventaire au fabricant.
+Dès réception des paquets contenant les ouvrages, le bureau de garantie en adresse l'inventaire aux professionnels.
 
-Après les avoir essayés et marqués, le bureau de garantie renvoie les ouvrages au fabricant dans des paquets scellés.
+Après accomplissement des formalités de garantie, le bureau de garantie tient les ouvrages à disposition des professionnels.
+
+Au moment de la restitution des ouvrages et après inventaire contradictoire, les ouvrages sont pris en charge par les
+professionnels qui en assument dès lors tant la réexpédition physique que la responsabilité matérielle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°84-875 1984-10-01
-
-	**Créé par**:
-
-	  - Décret n°84-623 du 16 juillet 1984 - art. 4 (V) JORF 19 juillet 1984
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 
 ###### Article 210
 
-En cas de cessation d'activité, le fabricant remet son poinçon de responsabilité au bureau de garantie dans un délai de
-trente jours.
+En cas de cessation d'activité, le fabricant ou l'importateur remet son poinçon de maître ou de responsabilité au bureau de
+garantie ou au bureau de douane dans un délai de trente jours.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°80-871 du 30 octobre 1980 - art. 2 (V) JORF 7 novembre 1980
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 
 ###### Article 211
 
-Les personnes qui fabriquent ou mettent en vente des objets d'or ou contenant de l'or, d'argent ou de platine soumis à la
-réglementation en matière de garantie et qui fabriquent ou mettent en vente, en même temps, et dans le même local, des objets
-en métaux divers, doublés, plaqués, dorés, argentés, platinés ou non, sont tenues d'indiquer, de façon apparente, dans les
-vitrines d'exposition, sur les catalogues et emballages, ainsi que sur les factures qu'elles délivrent aux acheteurs, la
-nature réelle de ces derniers objets. Les détaillants doivent placer dans un lieu visible de l'extérieur de leur magasin un
-tableau ou affiche représentant les différents modèles de poinçons du service de la garantie, les titres auxquels ils
-correspondent, ainsi que les modèles des poinçons des fabricants.
+Les personnes qui fabriquent ou mettent en vente des objets d'or, d'argent ou de platine soumis à la réglementation en
+matière de garantie et qui fabriquent ou mettent en vente, en même temps, et dans le même local, des objets en métaux divers,
+doublés, plaqués, dorés, argentés, platinés ou non, sont tenues d'indiquer, de façon apparente, dans les vitrines
+d'exposition, sur les catalogues et emballages, ainsi que sur les factures qu'elles délivrent aux acheteurs, la nature réelle
+de ces derniers objets. Les détaillants doivent placer dans un lieu visible de l'extérieur de leur magasin un tableau ou
+affiche représentant les différents modèles de poinçons du service de la garantie, les titres auxquels ils correspondent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
 	**Modifié par**:
 
-	  - Loi n°94-6 1994-01-01 art. 26, 31 JORF 5 janvier 1994
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
+
+
+###### Article 211 A
+
+Le dépôt d'une déclaration de profession visée à l'article 533, à l'article 534 ou à l'article 550 du code général des impôts
+doit être accompagné d'une attestation d'enregistrement à la chambre de métiers et de l'artisanat ou au registre du commerce
+ou d'une copie de l'extrait K bis de la société mentionnant l'activité de fabrication, importation, vente ou achat d'ouvrages
+en métaux précieux, de doublage ou placage de l'or, de l'argent ou du platine.
+
+Lors de l'enregistrement de la déclaration, le bureau de garantie doit s'assurer de l'identité et de la qualité du déclarant.
+Il lui en est délivré une copie.
+
+La déclaration reprend le nom du professionnel ou de la société, la désignation exacte de l'activité et de l'adresse du siège
+social et du lieu d'exercice. Elle est datée et signée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 550, 533, 534
+
+	**Créé par**:
+
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section IV bis : Exportations ou livraisons à destination d'un autre Etat membre de l'Union européenne
@@ -25403,7 +25393,7 @@ connaître au service de la garantie la composition du substrat et le titre du m
 Les personnes autorisées à frapper des médailles munies ou non de belière sont tenues d'apposer sur celles-ci leur poinçon de
 maître. Ce poinçon a, suivant le cas, l'une des formes indiquées ci-après :
 
-Losange, pour les médailles en platine, or ou contenant de l'or ou argent ;
+Losange, pour les médailles en platine, or ou argent ;
 
 Carré parfait pour les médailles en métal commun doublé ou plaqué d'or ou d'argent ou bien en métal commun doré ou argenté ;
 
@@ -25411,23 +25401,15 @@ Triangle pour les médailles en métal commun.
 
 Chaque poinçon de maître doit porter la lettre initiale du nom du fabricant ou de l'industriel avec un symbole.
 
-Le mot "doublé" en toutes lettres doit être empreint sur les médailles en métal commun doublé ou plaqué d'or ou d'argent.
+Le mot "doublé" en toutes lettres doit être apposé sur les médailles en métal commun doublé ou plaqué d'or ou d'argent.
 
 Le poinçon de maître doit être apposé dès l'achèvement de la fabrication.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
 
-	  - Loi n°94-6 1994-01-01 art. 26, 31 JORF 5 janvier 1994
+	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 
 ###### Article 214
