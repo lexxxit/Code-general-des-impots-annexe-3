@@ -1,7 +1,7 @@
 # Article 2 novodecies A
 
-Pour l'application du h du 1° du I de l'article 31 du code général des impôts, la déduction au titre de l'amortissement est
-calculée dans les conditions prévues à l'article 2 novodecies.
+Pour l'application du h et du l du 1° du I de l'article 31 du code général des impôts, la déduction au titre de
+l'amortissement est calculée dans les conditions prévues à l'article 2 novodecies. 
 
 Pour les logements acquis par le contribuable en vue de les réhabiliter, la déduction au titre de l'amortissement est
 calculée sur le prix payé pour l'acquisition du logement et la réalisation des travaux de réhabilitation mentionnés à
@@ -11,19 +11,17 @@ d'organisation et de suivi des travaux de réhabilitation et des frais liés à 
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
+
 	**Cite**:
 
-	  - CGI 31
-	  - CGIAN3 2 novodecies, 2 quindecies B, 2 quindecies C
-
-	**Créé par**:
-
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 novodecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
+	  - Code général des impôts, CGI. - art. 31 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 vicies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004

@@ -1,8 +1,8 @@
 # Article 2 quaterdecies A
 
-I. - Pour l'application du cinquième alinéa du e du 1° du I de l'article 31 du code général des impôts, les contribuables
+I. - Pour l'application du troisième alinéa du j du 1° du I de l'article 31 du code général des impôts, les contribuables
 sont tenus de joindre à leur déclaration des revenus de l'année au cours de laquelle la location ouvre droit pour la première
-fois à la déduction forfaitaire majorée :
+fois à la déduction calculée en fonction du revenu brut :
 
 1° Une note annexe qui comporte les éléments suivants :
 
@@ -19,7 +19,7 @@ habitation principale ;
 2° Une copie du bail ;
 
 3° Une copie de l'avis d'impôt sur le revenu du locataire établi au titre de l'avant-dernière année précédant celle pour
-laquelle la location à ce locataire ouvre droit pour la première fois à la déduction forfaitaire majorée.
+laquelle la location à ce locataire ouvre droit pour la première fois à la déduction calculée en fonction du revenu brut.
 
 II. - En cas de changement de locataire au cours de la période couverte par l'engagement de location mentionné au d du 1° du
 I, le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie
@@ -33,14 +33,12 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 	  - CGI 31
 	  - CGIAN3 2 duodecies
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 109 () JORF 19 janvier 2005
+	  - Décret n°2006-1005 2006-08-10 art. 1 B, C JORF 11 août 2006
+	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - HISTO: Edition du 1er janvier 2007

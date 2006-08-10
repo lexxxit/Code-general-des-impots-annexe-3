@@ -1,36 +1,36 @@
 # Article 2 sexdecies
 
-Pour l'application du troisième alinéa du e et du deuxième alinéa du g du 1° du I de l'article 31 du code général des
-impôts :
+Pour l'application du deuxième alinéa du j et du deuxième alinéa du g du 1° du I de l'article 31 du code général des
+impôts : 
 
 1° Le personnel des organismes publics ou privés, sous-locataire du logement, s'entend des personnes employées par ces
 organismes et dont les rémunérations principales entrent dans la catégorie des traitements et salaires au sens de l'article
-79 du code général des impôts ;
+79 du code général des impôts ; 
 
-2° Les conditions prévues au deuxième alinéa du e et au deuxième alinéa du g du 1° du I de l'article 31 du code général des
-impôts s'apprécient en tenant compte du montant :
+2° Les conditions prévues au premier alinéa du j et au deuxième alinéa du g du 1° du I de l'article 31 du code général des
+impôts s'apprécient en tenant compte du montant : 
 
-a) Du loyer payé au bailleur par l'organisme locataire ;
+a) Du loyer payé au bailleur par l'organisme locataire ; 
 
-b) Du loyer payé à cet organisme par le sous-locataire ;
+b) Du loyer payé à cet organisme par le sous-locataire ; 
 
-c) Des ressources du sous-locataire ;
+c) Des ressources du sous-locataire ; 
 
 3° Les contribuables doivent joindre à leur déclaration des revenus de l'année au cours de laquelle a pris effet la location
-dont les revenus peuvent bénéficier de la déduction forfaitaire majorée ou, pour l'application du régime de la déduction au
-titre de l'amortissement, à leur déclaration des revenus de l'année d'achèvement de l'immeuble ou de son acquisition si elle
-est postérieure :
+dont les revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut ou, pour l'application du régime de
+la déduction au titre de l'amortissement, à leur déclaration des revenus de l'année d'achèvement de l'immeuble ou de son
+acquisition si elle est postérieure : 
 
 a) La note annexe prévue au I de l'article 2 quaterdecies ou au 1° du I de l'article 2 quindecies complétée du nom du sous-
-locataire et des nom et adresse de son employeur ;
+locataire et des nom et adresse de son employeur ; 
 
-b) Une copie de bail conclu avec l'organisme locataire ;
+b) Une copie de bail conclu avec l'organisme locataire ; 
 
-c) Alinéa abrogé.
+c) Alinéa abrogé. 
 
 d) Une copie de l'avis d'imposition ou de non-imposition du sous-locataire établi au titre de l'avant-dernière année
 précédant celle de la signature du contrat de sous-location ainsi qu'un document faisant mention du montant du loyer payé par
-le sous-locataire ;
+le sous-locataire ; 
 
 4° Si le bail ou le contrat de sous-location n'est pas signé à la date de la déclaration susmentionnée, les documents
 énumérés aux b et d du 3° sont joints à la déclaration des revenus de l'année au cours de laquelle le bail ou le contrat de
@@ -40,20 +40,18 @@ quindecies.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-1005 2006-08-10 art. 1 A, C, J JORF 11 août 2006
+	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
+
 	**Cite**:
 
-	  - CGI 31, 79
-	  - CGIAN3 2 quaterdecies, 2 quindecies
-	  - Décret n°99-244 1999-03-29
-
-	**Créé par**:
-
-	  - Décret n°2002-1296 du 24 octobre 2002 - art. 2 () JORF 27 octobre 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies (V)
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code général des impôts, CGI. - art. 79 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003

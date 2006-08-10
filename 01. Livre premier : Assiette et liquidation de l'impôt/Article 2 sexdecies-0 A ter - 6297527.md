@@ -15,7 +15,14 @@ pas le montant annuel des loyers payés par le sous-locataire ;
 2° Les contribuables doivent joindre à leur déclaration des revenus de l'année d'achèvement de l'immeuble ou de son
 acquisition si elle est postérieure, la note annexe prévue au II de l'article 2 quindecies A, une copie de bail conclu avec
 l'organisme locataire ainsi qu'une copie du contrat de sous-location faisant apparaître le montant de la redevance payée par
-le sous-locataire.
+le sous-locataire ;
+
+3° Lorsque le contribuable demande l'application des dispositions du l du 1° du I de l'article 31 du code général des impôts,
+la condition de ressources s'apprécie en tenant compte des ressources du sous-locataire.
+
+Les contribuables doivent joindre à leur déclaration des revenus de l'année au cours de laquelle a pris effet la location une
+copie de l'avis d'impôt sur le revenu du sous-locataire établi au titre de l'avant-dernière année précédant celle de la
+signature du contrat de sous-location.
 
 **Liens relatifs à cet article**
 
@@ -24,9 +31,9 @@ le sous-locataire.
 	  - CGI 31
 	  - CGIAN3 2 quindecies A
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
 
 	**Cité par**:
 
@@ -34,4 +41,4 @@ le sous-locataire.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2007
