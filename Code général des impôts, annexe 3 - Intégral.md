@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-08-22
+Version Consolidée au 2006-08-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18395,6 +18395,127 @@ joignent la déclaration spéciale mentionnée au premier alinéa à leur décla
 	**Créé par**:
 
 	  - Décret n°2006-793 du 4 juillet 2006 - art. 1 () JORF 6 juillet 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+##### Section V terdecies : Crédit d'impôt pour formation des dirigeants
+
+###### Article 49 septies ZC
+
+Pour l'application des dispositions de l'article 244 quater M du code général des impôts, les chefs d'entreprise s'entendent
+des exploitants individuels, des gérants, des présidents, des administrateurs, des directeurs généraux et des membres du
+directoire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1040 du 23 août 2006 - art. 1 () JORF 25 août 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater C (V)
+
+
+###### Article 49 septies ZD
+
+Les formations ouvrant droit au crédit d'impôt sont celles qui entrent dans le champ d'application des dispositions relatives
+à la formation professionnelle continue mentionnées à l'article L. 900-2 du code du travail et réalisées dans les conditions
+prévues par l'article L. 920-1 du même code, dont les dépenses correspondantes sont admises en déduction du bénéfice
+imposable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1040 du 23 août 2006 - art. 1 () JORF 25 août 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 49 septies ZE
+
+Le taux horaire du salaire minimum de croissance mentionné au I de l'article 244 quater M du code général des impôts est
+celui en vigueur au 31 décembre de l'année au titre de laquelle est calculé le crédit d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1040 du 23 août 2006 - art. 1 () JORF 25 août 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater M (V)
+
+
+###### Article 49 septies ZF
+
+Le crédit d'impôt prévu à l'article 244 quater M du code général des impôts est plafonné au niveau de chaque entreprise, y
+compris pour les sociétés de personnes, par année civile. En cas de clôture d'exercice en cours d'année, le crédit d'impôt
+est calculé en prenant en compte les heures passées par le ou les dirigeants en formation au cours de la dernière année
+civile écoulée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1040 du 23 août 2006 - art. 1 () JORF 25 août 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater M (V)
+
+
+###### Article 49 septies ZG
+
+Le crédit d'impôt prévu à l'article 244 quater M du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1040 du 23 août 2006 - art. 1 () JORF 25 août 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater M (V)
+
+
+###### Article 49 septies ZH
+
+Pour l'application des dispositions des articles 199 ter L, 220 N et 244 quater M du code général des impôts, les entreprises
+souscrivent une déclaration spéciale conforme à un modèle établi par l'administration.
+
+Les personnes morales passibles de l'impôt sur les sociétés déposent cette déclaration spéciale auprès du comptable de la
+direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime
+des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales
+pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat
+d'ensemble du groupe.
+
+Les autres entreprises joignent la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer
+en vertu des articles 53 A et 97 du code général des impôts.
+
+L'associé personne morale de société de personnes ou de groupement assimilé dont le dirigeant a suivi des heures de formation
+éligibles au crédit d'impôt prévu à l'article 244 quater M du code général des impôts dépose une déclaration spéciale
+récapitulant le crédit d'impôt prévu à l'article précité dont bénéficie chacune des sociétés de personnes ou groupement
+assimilé dont il est associé ou membre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter L, 220 N, 244 quater M, 360, 223 A, 53 A, 97
+
+	**Créé par**:
+
+	  - Décret n°2006-1040 du 23 août 2006 - art. 1 () JORF 25 août 2006
 
 	**Liens**:
 
