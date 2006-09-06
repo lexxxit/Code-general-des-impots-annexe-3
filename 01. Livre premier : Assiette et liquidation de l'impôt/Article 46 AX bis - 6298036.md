@@ -12,7 +12,7 @@ La demande est adressée ou déposée auprès du service des impôts du lieu du 
 la demande. La personne produit à cet effet le formulaire de demande de versement anticipé établi par l'administration,
 dûment complété et signé, accompagné des documents suivants :
 
-1° Un relevé d'identité bancaire, postal ou de caisse d'épargne à son nom ;
+1° Un relevé d'identité bancaire ou de caisse d'épargne à son nom ;
 
 2° Une copie de pièce d'identité à son nom ;
 
@@ -21,6 +21,10 @@ d'activité ;
 
 4° L'attestation du ou des employeurs mentionnée à l'article 46 AX.
 
+**Nota:**
+
+Article périmé en conséquence de la péremption de l'article 200 decies du code général des impôts.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -28,14 +32,10 @@ d'activité ;
 	  - CGI 200 decies, 170
 	  - CGIAN3 46 AX
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Décret n°2006-1116 du 5 septembre 2006 - art. 1 () JORF 7 septembre 2006
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 3

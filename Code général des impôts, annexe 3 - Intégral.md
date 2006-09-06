@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-08-25
+Version Consolidée au 2006-09-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11580,7 +11580,7 @@ La demande est adressée ou déposée auprès du service des impôts du lieu du 
 la demande. La personne produit à cet effet le formulaire de demande de versement anticipé établi par l'administration,
 dûment complété et signé, accompagné des documents suivants :
 
-1° Un relevé d'identité bancaire, postal ou de caisse d'épargne à son nom ;
+1° Un relevé d'identité bancaire ou de caisse d'épargne à son nom ;
 
 2° Une copie de pièce d'identité à son nom ;
 
@@ -11589,6 +11589,10 @@ d'activité ;
 
 4° L'attestation du ou des employeurs mentionnée à l'article 46 AX.
 
+**Nota:**
+
+Article périmé en conséquence de la péremption de l'article 200 decies du code général des impôts.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -11596,33 +11600,33 @@ d'activité ;
 	  - CGI 200 decies, 170
 	  - CGIAN3 46 AX
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Décret n°2006-1116 du 5 septembre 2006 - art. 1 () JORF 7 septembre 2006
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 3
 
 
 ###### Article 46 AX ter
 
-Le versement du crédit d'impôt est effectué par virement sur le compte bancaire, postal ou de caisse d'épargne ouvert au nom
-du demandeur.
+Le versement du crédit d'impôt est effectué par virement sur le compte bancaire ou de caisse d'épargne ouvert au nom du
+demandeur.
+
+**Nota:**
+
+Article périmé en conséquence de la péremption de l'article 200 decies du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-896 du 2 août 2005 - art. 1 () JORF 3 août 2005
+	  - Décret n°2006-1116 du 5 septembre 2006 - art. 1 () JORF 7 septembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 3
 
 
 ##### 13° : Réduction apportée au titre de l'aide accordée à certains créateurs d'entreprise
@@ -38340,22 +38344,22 @@ justificatives aux comptables du Trésor.
 ###### Article 446 ter
 
 Le versement de l'acompte prévu par l'article 1665 bis du code général des impôts ou des acomptes mensuels prévus par
-l'article 1665 ter est effectué par virement sur le compte bancaire, postal ou de caisse d'épargne ouvert au nom du
-demandeur.
+l'article 1665 ter est effectué par virement sur le compte bancaire ou de caisse d'épargne ouvert au nom du demandeur.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la la loi n° 2008-1249 du 1er décembre 2008, article 12 8° et 28-II B.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1665 bis, 1665 ter
-
 	**Modifié par**:
 
-	  - Décret n°2006-213 du 22 février 2006 - art. 1 () JORF 24 février 2006
+	  - Décret n°2006-1116 du 5 septembre 2006 - art. 1 () JORF 7 septembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 446 ter A
@@ -38368,7 +38372,7 @@ La demande est adressée ou déposée auprès du service des impôts du lieu du 
 la demande. La personne produit à cet effet le formulaire de demande d'acompte, établi par l'administration, dûment complété
 et signé, accompagné des documents suivants :
 
-1° Un relevé d'identité bancaire, postal ou de caisse d'épargne à son nom ;
+1° Un relevé d'identité bancaire ou de caisse d'épargne à son nom ;
 
 2° Une copie de la "carte d'inscription ANPE" ou "l'historique d'inscription" comme demandeur d'emploi ;
 
@@ -38382,24 +38386,20 @@ général des impôts ;
 5° Si elle exerce une activité professionnelle non salariée, la copie du certificat d'identification au répertoire national
 des entreprises et de leurs établissements.
 
+**Nota:**
+
+Article devenu sans objet en conséquence de la la loi n° 2008-1249 du 1er décembre 2008, article 12 8° et 28-II B.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1665 bis
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 6 (V) JORF 31 décembre 2005
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Décret n°2006-1116 du 5 septembre 2006 - art. 1 () JORF 7 septembre 2006
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 446 ter B
