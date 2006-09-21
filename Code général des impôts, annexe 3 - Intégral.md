@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-09-07
+Version Consolidée au 2006-09-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10277,17 +10277,24 @@ fraction de la période de neuf ans couverte par l'engagement initial et restant
 
 ###### Article 46 AGH
 
-Pour l'application du a du 2 de l'article 199 decies H du code général des impôts, les contribuables sont tenus de joindre à
-leur déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé une note annexe,
-établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants :
+Pour l'application du a et du d du 2 de l'article 199 decies H du code général des impôts, les contribuables sont tenus de
+joindre à leur déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé une
+note annexe, établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants :
 
 a. L'identité et l'adresse du contribuable ;
 
-b. La désignation de la parcelle du terrain en nature de bois et forêts ou du terrain nu à boiser concerné ;
+b. La désignation de la ou des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées ;
 
-c. Le prix et la date d'acquisition du terrain ;
+c. Pour l'application du a du 2 de l'article 199 decies H du code général des impôts, le prix et la date d'acquisition du ou
+des terrains concernés ;
 
-d. La déclaration d'engagement prévue par ces dispositions.
+d. Pour l'application du d du 2 de l'article 199 decies H du code général des impôts, la nature, le montant et la date de
+paiement des travaux forestiers réalisés ;
+
+e. Pour l'application du d du 2 de l'article 199 decies H du code général des impôts, la date d'agrément du plan simple de
+gestion ou la date d'adhésion au règlement type de gestion applicable à l'unité de gestion concernée ;
+
+f. La déclaration d'engagement prévue par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -10295,30 +10302,41 @@ d. La déclaration d'engagement prévue par ces dispositions.
 
 	  - CGI 199 decies H
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1157 du 11 septembre 2002 - art. 1 () JORF 14 septembre 2002
+	  - Décret n°2006-1169 du 20 septembre 2006 - art. 1 () JORF 22 septembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 46 AGI
 
 I. - Lorsqu'un contribuable entend bénéficier de la réduction d'impôt en application des b et c du 2 de l'article 199 decies
 H du code général des impôts, il informe de cette intention le groupement forestier ou la société d'épargne forestière dont
-il a souscrit ou acquis les parts, au plus tard le 31 décembre de l'année de souscription ou d'acquisition. Le groupement ou
+il a souscrit ou acquis les parts au plus tard le 31 décembre de l'année de souscription ou d'acquisition. Le groupement ou
 la société doit alors joindre à la déclaration de résultat de cette même année les déclarations d'engagement prévues par ces
 dispositions, établies conformément à des modèles fixés par l'administration.
 
+Pour l'application du e du 2 de l'article 199 decies H du code général des impôts, le groupement doit joindre à sa
+déclaration de résultat de l'année où les travaux sont payés les déclarations d'engagement prévues par ces dispositions,
+établies conformément à des modèles fixés par l'administration.
+
 II. - Le groupement ou la société doit, avant le 16 février de l'année civile qui suit celle de la souscription ou
-l'acquisition de parts, délivrer à ses associés qui entendent bénéficier de la réduction d'impôt un document établi
-conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements suivants :
+l'acquisition de parts ou celle du paiement des travaux forestiers réalisés par le groupement, délivrer à ses associés qui
+entendent bénéficier de la réduction d'impôt un document établi conformément à un modèle fixé par l'administration et
+comportant, pour l'année précédente, les renseignements suivants :
 
 a. La raison sociale et l'adresse du siège social du groupement ou de la société ;
 
 b. L'attestation que les engagements mentionnés au I ont été pris et sont respectés.
+
+Pour l'application du e du 2 de l'article 199 decies H du code général des impôts, ce document précise également :
+
+c. La nature, le montant total et la date de paiement des travaux forestiers ;
+
+d. Le nombre et le pourcentage de parts du groupement détenues par l'associé.
 
 III. - Chaque année, le groupement ou la société doit joindre à sa déclaration de résultat un document établi conformément à
 un modèle fixé par l'administration et comportant les renseignements suivants :
@@ -10331,15 +10349,17 @@ c. L'identité et l'adresse de chacun des associés ;
 
 d. Le nombre, les numéros et les valeurs nominales des parts détenues par chacun des associés au 1er janvier et au 31
 décembre de l'année précédente et, le cas échéant, des parts souscrites, acquises et transmises au cours de l'année ainsi que
-la date de ces opérations.
+la date de ces opérations ;
+
+e. La nature, le montant et la date de paiement des travaux forestiers éligibles à la réduction d'impôt, ainsi que la
+désignation de la ou des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées.
 
 IV. - Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sont inscrites, dans les trente
-jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle les parts ouvrant droit au
-bénéfice de la réduction d'impôt ont été souscrites ou acquises, sur un compte ouvert au nom de l'associé dans la
-comptabilité du groupement ou de la société ou sur un registre spécial. Le groupement ou la société tient ce compte ou ce
-registre et conserve les documents relatifs aux opérations qui l'affectent jusqu'à la fin de la troisième année suivant celle
-de l'expiration de l'engagement de conservation des parts prévu aux b et c du 2 de l'article 199 decies H du code général des
-impôts.
+jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle la réduction d'impôt a été
+demandée, sur un compte ouvert au nom de l'associé dans la comptabilité du groupement ou de la société ou sur un registre
+spécial. Le groupement ou la société tient ce compte ou ce registre et conserve les documents relatifs aux opérations qui
+l'affectent jusqu'à la fin de la troisième année suivant celle de l'expiration de l'engagement de conservation des parts
+prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -10347,20 +10367,21 @@ impôts.
 
 	  - CGI 199 decies H
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1157 du 11 septembre 2002 - art. 1 () JORF 14 septembre 2002
+	  - Décret n°2006-1169 du 20 septembre 2006 - art. 1 () JORF 22 septembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 46 AGJ
 
-I. - L'engagement de conservation des parts prévu aux b et c du 2 de l'article 199 decies H du code général des impôts,
+I. - L'engagement de conservation des parts prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôts,
 établi conformément à un modèle fixé par l'administration, est joint à la déclaration des revenus de l'année au cours de
-laquelle les parts ouvrant droit au bénéfice de la réduction d'impôt ont été souscrites ou acquises.
+laquelle les parts ouvrant droit au bénéfice de la réduction d'impôt ont été souscrites ou acquises, ou au cours de laquelle
+le groupement forestier a payé les dépenses de travaux forestiers qui ont ouvert droit à cette réduction.
 
 II. - Les associés joignent à cette déclaration le document mentionné au II de l'article 46 AGI.
 
@@ -10369,15 +10390,35 @@ II. - Les associés joignent à cette déclaration le document mentionné au II 
 	**Cite**:
 
 	  - CGI 199 decies H
-	  - CGIAN3 46 AGI
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1157 du 11 septembre 2002 - art. 1 () JORF 14 septembre 2002
+	  - Décret n°2006-1169 du 20 septembre 2006 - art. 1 () JORF 22 septembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 46 AGK
+
+Pour l'application des d et e du 2 de l'article 199 decies H du code général des impôts, sont éligibles à la réduction
+d'impôt les travaux de plantation, de reconstitution, de renouvellement, de sauvegarde et d'amélioration des peuplements et
+les travaux de création et d'amélioration des dessertes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 decies H
+
+	**Créé par**:
+
+	  - Décret n°2006-1169 du 20 septembre 2006 - art. 2 () JORF 22 septembre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### 3° : Réduction d'impôt au titre de certains investissements réalisés outre-mer
@@ -20113,6 +20154,57 @@ la date de cette renonciation.
 ##### Section IV : Liquidation de la taxe
 
 ##### OI : Déductions
+
+###### Article 84 A
+
+Pour l'application des dispositions de l'article 273 septies C du code général des impôts, le service technique des remontées
+mécaniques et des transports guidés certifie, au vu des documents transmis par le demandeur : 
+
+1° Que le certificat d'immatriculation du véhicule, ou, le cas échéant, le contrat de location du véhicule, est établi au nom
+d'un exploitant de remontées mécaniques ou de domaines skiables ; 
+
+2° Que le demandeur s'est engagé sur l'honneur à affecter exclusivement le véhicule concerné à l'exploitation de ces
+infrastructures ; 
+
+3° Que le véhicule comprend, d'origine ou à la suite de travaux dont la réalisation est attestée par les documents déposés à
+l'appui de la demande, trois au moins des équipements techniques suivants : 
+
+a. Plateau de chargement ; 
+
+b. Arceau de sécurité pour habitacle ; 
+
+c. Portique de levage ; 
+
+d. Crochet d'attelage ; 
+
+e. Treuil frontal ; 
+
+f. Bac de benne ; 
+
+g. Blocage de différentiel ; 
+
+h. Boîte de transfert ; 
+
+i. Arceau porte-échelle arrière de cabine ; 
+
+j. Plusieurs points d'arrimage sur les côtés des ridelles ; 
+
+k. Pneus mixtes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1168 du 20 septembre 2006 - art. 1 () JORF 22 septembre 2006
+
+	**Cité par**:
+
+	  - Décret n°2016-1062 du 3 août 2016 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 273 septies C (V)
+
 
 ##### I :  Régime suspensif
 
