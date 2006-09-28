@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-09-22
+Version Consolidée au 2006-09-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1311,6 +1311,82 @@ celle-ci.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 31
+
+
+##### 5° : Déduction pour travaux de restauration et de gros entretien effectués sur des espaces naturels
+
+###### Article 2 duovicies
+
+Pour l'application du c quinquies du 2° du I de l'article 31 du code général des impôts, les contribuables sont tenus de
+joindre à la déclaration des revenus de l'année au titre de laquelle la déduction est pratiquée : 
+
+a. Une copie de la décision administrative permettant d'établir que les parcelles sur lesquelles sont réalisés les travaux de
+restauration ou de gros entretien sont incluses dans un espace protégé mentionné au c quinquies du 2° du I de l'article 31 du
+code général des impôts ou, à défaut, une attestation de l'autorité compétente mentionnée à l'article 2 tervicies ; 
+
+b. Une copie de l'accord préalable à la réalisation des travaux, délivré par l'autorité compétente mentionnée au même article
+2 tervicies ; 
+
+c. Les pièces justifiant de la nature, du montant et du paiement des travaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1191 du 27 septembre 2006 - art. 1 () JORF 29 septembre 2006
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 tervicies (V)
+	  - Code général des impôts, CGI. - art. 31 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 2 tervicies
+
+L'autorité compétente vérifie la compatibilité des travaux de restauration ou de gros entretien, mentionnés au c quinquies du
+2° du I de l'article 31 du code général des impôts, avec les objectifs qui ont justifié la mesure de classement et, le cas
+échéant, avec le document de gestion ou d'objectifs approuvé au titre de la réglementation concernée. En ce qui concerne les
+espaces remarquables du littoral au sens de l'article L. 146-6 du code de l'urbanisme, tels qu'ils figurent dans le document
+d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 146-2 du code de
+l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 146-6 et du e de
+l'article R. 146-2 du code de l'urbanisme. 
+
+Les autorités compétentes sont les suivantes : 
+
+a. Pour un parc national : le directeur de l'établissement public du parc national ; 
+
+b. Pour une réserve naturelle nationale : le préfet ; 
+
+c. Pour une réserve naturelle régionale : le président du conseil régional ; 
+
+d. Pour une réserve naturelle de Corse : le président de la collectivité territoriale de Corse ; 
+
+e. Pour un site classé : soit le préfet pour les travaux hors permis de construire ou assimilés, soit le ministre chargé de
+l'environnement pour les travaux de niveau permis de construire ; 
+
+f. Pour un arrêté de biotope : le préfet ; 
+
+g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protection spéciale) : le préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1191 du 27 septembre 2006 - art. 1 () JORF 29 septembre 2006
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duovicies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code de l'urbanisme - art. L146-6 (V)
+	  - Code de l'urbanisme - art. R*146-2 (V)
 
 
 ##### III : Bénéfices industriels et commerciaux
@@ -27456,19 +27532,14 @@ d'acquisition égale au rapport existant entre 2 500 mètres carrés et la super
 En cas d'acquisition d'un terrain destiné à la construction d'un ensemble de maisons individuelles la limite de 2 500 mètres
 carrés prévue ci-dessus s'applique à chaque maison.
 
-III. Le directeur des impôts du lieu de la situation des immeubles est autorisé à proroger le délai de quatre ans prévu au A
-de l'article 1594-0 G du code général des impôts. La demande de prorogation doit être formulée au plus tard dans le mois qui
-suit l'expiration du délai précédemment imparti.
+III. - La demande de prolongation du délai prévue au IV et au IV bis du A de l'article 1594-0 G du code général des impôts
+doit être formulée au plus tard dans le mois qui suit l'expiration du délai précédemment imparti. Elle doit être motivée et
+énoncer le délai supplémentaire normalement nécessaire à la bonne fin des travaux entrepris.
 
-Lorsqu'il s'agit de la construction d'ensembles à réaliser progressivement par tranches successives  cette prorogation est
-accordée après avis du directeur des services départementaux du ministère de l'équipement et du logement.
+La prorogation susceptible d'être accordée peut être renouvelée dans les mêmes conditions.
 
-Dans les autres cas  la demande de prorogation doit être motivée et énoncer le délai supplémentaire normalement nécessaire à
-la bonne fin des travaux entrepris. La durée de la prorogation susceptible d'être accordée ne peut excéder un an. Elle peut
-être renouvelée dans les mêmes conditions.
-
-Lorsque la prorogation a été accordée  le certificat prévu au I doit être fourni dans les trois mois qui suivent l'expiration
-du délai finalement imparti pour la construction.
+Lorsqu'une prolongation a été accordée, le certificat prévu au I doit être fourni dans les trois mois qui suivent
+l'expiration du délai finalement imparti pour la construction.
 
 **Liens relatifs à cet article**
 
@@ -27476,17 +27547,13 @@ du délai finalement imparti pour la construction.
 
 	  - CGI 1594-0 G
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 39 I 23 Finances pour 1999 JORF 31 décembre 1998
+	  - Décret n°2006-1189 du 27 septembre 2006 - art. 1 () JORF 29 septembre 2006
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°99-382 1999-05-18
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin
@@ -37491,48 +37558,39 @@ excédent serait imputé sur le montant du plus prochain versement.
 
 ###### Article 406 bis
 
-I. La procédure du paiement sur déclaration  prévue à l'article 887 du code général des impôts pour la contribution du
-timbre, est applicable à la taxe sur les véhicules des sociétés visée à l'article 1010 du même code.
+I. La déclaration prévue à l'article 1010 du code général des impôts, souscrite sur des imprimés fournis par
+l'administration, est déposée, dans les deux premiers mois de chaque période d'imposition au service des impôts du lieu où
+doit être établie la déclaration de résultats de l'entreprise. 
 
-La déclaration, souscrite sur des imprimés fournis par l'administration, est déposée, dans les deux premiers mois de chaque
-période d'imposition au service des impôts du lieu où doit être établie la déclaration de résultats de l'entreprise.
+L'impôt exigible est acquitté, lors du dépôt de cette déclaration par les moyens de paiement ordinaires. 
 
-L'impôt exigible est acquitté, lors du dépôt de cette déclaration par les moyens de paiement ordinaires.
+II. (Disposition périmée). 
 
-II. (Disposition périmée).
-
-III. Pour chaque période annuelle d'imposition, la taxe est liquidée par trimestre, en fonction du nombre et de la puissance
-fiscale des véhicules possédés ou utilisés par la personne morale au premier jour du trimestre ou au cours de ce trimestre
-pour les véhicules pris en location.
+III. Pour chaque période annuelle d'imposition, la taxe est liquidée par trimestre, en fonction du nombre et du taux
+d'émission de dioxyde de carbone ou de la puissance fiscale des véhicules possédés par la personne morale au premier jour du
+trimestre ou utilisés par celle-ci au cours de ce trimestre, qu'il s'agisse de véhicules pris en location ou mis à sa
+disposition ou encore pour lesquels elle a procédé au remboursement des frais kilométriques à ses salariés ou dirigeants. 
 
 En ce qui concerne toutefois les véhicules loués, la taxe n'est due que si la durée de la location excède une période d'un
 mois civil ou de trente jours consécutifs. Elle est due au titre d'un seul trimestre si la durée de la location n'excède pas
-trois mois civils consécutifs ou quatre-vingt-dix jours consécutifs.
+trois mois civils consécutifs ou quatre-vingt-dix jours consécutifs. 
 
 IV. Le montant de la taxe due pour un trimestre et au titre d'un véhicule est égal au quart du taux annuel fixé à l'article
-1010 du code général des impôts.
+1010 du code général des impôts. 
 
 V. La taxe est payable en une seule fois, dans les conditions prévues au I, à l'expiration de la période d'imposition définie
 à l'article 310 E de l'annexe II au code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1010, 887
-	  - CGIAN2 310 E
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Décret n°2006-1190 du 27 septembre 2006 - art. 1 () JORF 29 septembre 2006
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 E (V)
+	  - Code général des impôts, CGI. - art. 1010 (V)
 
 
 #### VII : Taxe locale d'équipement
