@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-11-09
+Version Consolidée au 2006-11-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1468,6 +1468,74 @@ Ce document est établi conformément au modèle fixé par l'administration.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 38 (VT)
+
+
+##### A-0 bis : Attribution de ristournes sous forme de parts sociales
+
+###### Article 2 C bis
+
+L'option pour le report d'imposition prévue à l'article 38 sexies du code général des impôts s'exerce par le dépôt de l'état
+de suivi prévu à l'article 2 C ter.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1451 du 24 novembre 2006 - art. 1 () JORF 26 novembre 2006
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 C ter (V)
+	  - Code général des impôts, CGI. - art. 38 sexies (V)
+
+
+###### Article 2 C quater
+
+L'état de suivi prévu à l'article 2 C ter est joint chaque année jusqu'à l'exercice comptable de cession, de transmission ou
+d'apport des parts attribuées ou l'exercice comptable de cessation d'activité si celle-ci est antérieure à la déclaration
+annuelle de résultat que l'associé coopérateur exerçant une activité professionnelle agricole est tenu de déposer en
+application de l'article 53 A du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1451 du 24 novembre 2006 - art. 1 () JORF 26 novembre 2006
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 C ter (V)
+	  - Code général des impôts, CGI. - art. 53 A (V)
+
+
+###### Article 2 C ter
+
+L'état de suivi nécessaire à l'application du report d'imposition prévu à l'article 38 sexies du code général des impôts est
+établi conformément au modèle fixé par l'administration. 
+
+Cet état mentionne notamment : 
+
+a. Le nom et l'adresse de l'associé coopérateur ; 
+
+b. La dénomination et l'adresse de la coopérative agricole dont il est associé ; 
+
+c. Pour chaque attribution de parts sociales, le montant du produit comptabilisé au titre des ristournes et les informations
+nécessaires pour le suivi des produits en report d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1451 du 24 novembre 2006 - art. 1 () JORF 26 novembre 2006
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 C bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 C quater (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 38 sexies (V)
 
 
 ##### A bis : Frais d'émission d'emprunts
