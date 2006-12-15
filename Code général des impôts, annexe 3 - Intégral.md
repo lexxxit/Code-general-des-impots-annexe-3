@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-11-26
+Version Consolidée au 2006-12-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4241,22 +4241,24 @@ pour chacune d'entre elles le nombre de parts ou d'actions et le taux de détent
 dénomination, adresse et numéro d'identification au répertoire national des établissements (numéro SIRET), pour les personnes
 physiques leurs nom, prénoms, adresse, date et lieu de naissance ;
 
-2° La liste, suivant modèle fourni par l'administration, de leurs filiales et de leurs participations, en précisant pour
+2° la liste, suivant modèle fourni par l'administration, de leurs filiales et de leurs participations, en précisant pour
 chacune d'entre elles le taux de détention et son numéro d'identification au répertoire national des établissements (numéro
 SIRET).
 
-IV. les déclarations et les documents qui y sont joints doivent être remis en double exemplaire au service des impôts du
-siège de la direction de l'entreprise ou, à défaut, du lieu du principal établissement. Toutefois, les sociétés ayant pour
-objet la construction d'immeubles en vue de la vente et dont l'activité porte sur un seul immeuble ou groupe d'immeubles
-souscrivent cette déclaration auprès du service des impôts du lieu de situation des constructions.
+IV. Les déclarations et les documents qui y sont joints doivent être remis en double exemplaire au service des impôts du
+siège de la direction de l'entreprise ou, à défaut, du lieu du principal établissement.
+
+Par dérogation au premier alinéa :
+
+1° les personnes physiques qui exercent une activité professionnelle dans la Principauté de Monaco déposent leur déclaration
+auprès du service désigné par le ministre chargé du budget ;
+
+2° les sociétés ayant pour objet la construction d'immeubles en vue de la vente et dont l'activité porte sur un seul immeuble
+ou groupe d'immeubles souscrivent cette déclaration auprès du service des impôts du lieu de situation des constructions.
 
 Il en est délivré récépissé sur demande du contribuable.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
 
 	**Cité par**:
 
@@ -4271,9 +4273,13 @@ Il en est délivré récépissé sur demande du contribuable.
 
 	  - CGI 53 A, 302 septies A bis, 234 nonies, 1647 B sexies, 1647 E
 
+	**Modifié par**:
+
+	  - Décret n°2006-1604 du 14 décembre 2006 - art. 1 () JORF 16 décembre 2006
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 38 A
@@ -6707,70 +6713,76 @@ articles 39 B et 47 A.
 
 I. Les contribuables soumis obligatoirement au régime de la déclaration contrôlée mentionné à l'article 96 du code général
 des impôts ou qui ont opté pour ce régime sont tenus de produire, au plus tard le 30 avril de chaque année, une déclaration
-indiquant :
+indiquant : 
 
-a) La nature de l'activité qu'ils exercent ;
+a) La nature de l'activité qu'ils exercent ; 
 
 b) Le cas échéant, la dénomination et l'adresse de la société ou du groupement au sein de laquelle ils exercent leur
-activité, ainsi que de la société civile de moyens dont ils font partie ;
+activité, ainsi que de la société civile de moyens dont ils font partie ; 
 
-c) La nature et le montant des services assurés de façon régulière et rémunérés par des salaires ;
+c) La nature et le montant des services assurés de façon régulière et rémunérés par des salaires ; 
 
 d) Le nombre total des salariés qu'ils emploient et le montant des salaires versés sous déduction des rémunérations payées à
-des apprentis ou handicapés ;
+des apprentis ou handicapés ; 
 
-e) Le nom et l'adresse du comptable ou du conseil dont ils utilisent éventuellement les services ;
+e) Le nom et l'adresse du comptable ou du conseil dont ils utilisent éventuellement les services ; 
 
-f) Le montant des plus-values nettes ;
+f) Le montant des plus-values nettes ; 
 
-g) Le tableau des immobilisations affectées à l'exercice de la profession et des amortissements correspondants ;
+g) Le tableau des immobilisations affectées à l'exercice de la profession et des amortissements correspondants ; 
 
 h) La nature et le montant des recettes concourant à la détermination du résultat, ainsi que le montant des recettes nettes
-soumises à la contribution mentionnée à l'article 234 nonies du code général des impôts ;
+soumises à la contribution mentionnée à l'article 234 nonies du code général des impôts ; 
 
-i) La nature et le montant de leurs dépenses professionnelles ;
+i) La nature et le montant de leurs dépenses professionnelles ; 
 
-j) Le montant du bénéfice imposable ou du déficit ;
+j) Le montant du bénéfice imposable ou du déficit ; 
 
-k) Le montant de la taxe sur la valeur ajoutée incluse dans les recettes ;
+k) Le montant de la taxe sur la valeur ajoutée incluse dans les recettes ; 
 
-l) En ce qui concerne les adhérents à une association agréée : le nom et l'adresse de l'association ;
+l) En ce qui concerne les adhérents à une association agréée : le nom et l'adresse de l'association ; 
 
 m) La valeur ajoutée définie à l'article 1647 B sexies du code précité, à l'aide d'un tableau dont le modèle est établi par
-l'administration, lorsqu'ils sont soumis à l'obligation prévue à l'article 1647 E du même code.
+l'administration, lorsqu'ils sont soumis à l'obligation prévue à l'article 1647 E du même code. 
 
-II. Les personnes morales doivent également joindre :
+II. Les personnes morales doivent également joindre : 
 
 1° La liste, suivant modèle fourni par l'administration, des personnes détenant au moins 10 % de leur capital, en précisant
 pour chacune d'entre elles le nombre de parts ou d'actions et le taux de détention et, pour les personnes morales, leur
 dénomination, adresse et numéro d'identification au répertoire national des établissements (numéro SIRET), pour les personnes
-physiques leurs nom, prénoms, adresse, date et lieu de naissance ;
+physiques leurs nom, prénoms, adresse, date et lieu de naissance ; 
 
 2° La liste, suivant modèle fourni par l'administration, de leurs filiales et de leurs participations, en précisant pour
 chacune d'entre elles le taux de détention et son numéro d'identification au répertoire national des établissements (numéro
-SIRET).
+SIRET). 
 
 III. Cette déclaration et, le cas échéant, les listes visées au II, est adressée au service des impôts dont dépend le lieu
 d'exercice de la profession ou le principal établissement, en simple exemplaire, à l'aide d'imprimés établis par
-l'administration.
+l'administration. 
+
+Les personnes physiques qui exercent une activité professionnelle dans la Principauté de Monaco déposent leur déclaration
+auprès du service désigné par le ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 96, 234 nonies, 1647 B sexies, 1647 E
-
 	**Modifié par**:
 
-	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
+	  - Décret n°2006-1604 du 14 décembre 2006 - art. 2 () JORF 16 décembre 2006
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 bis E (V)
 
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1647 B sexies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1647 E (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 234 nonies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 96 (V)
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 41-0 bis
@@ -8857,6 +8869,43 @@ II. Les dispositions du I s'appliquent au bénéficiaire de la transmission ment
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 151 octies (V)
+
+
+##### 3° bis : Plus-values réalisées sur des droits ou parts de sociétés de personnes dans lesquelles les contribuables exercent leur activité professionnelle
+
+###### Article 41-0 A ter
+
+I.-Pour l'application du II de l'article 151 nonies du code général des impôts, les deux états à joindre à leur déclaration
+de revenus par les bénéficiaires de la transmission et dont la production est prévue au 2 du II et au VI du même article sont
+établis conformément aux modèles fixés par l'administration. Ces états mentionnent la date de l'opération de transmission,
+les noms et adresses des bénéficiaires concernés, la dénomination sociale et l'adresse de la société dont les droits ou parts
+sont transmis, le nombre et le pourcentage des droits ou parts transmis ainsi que la nature des droits des bénéficiaires sur
+ces droits ou parts et les informations nécessaires pour le suivi des plus-values en report d'imposition. 
+
+L'état prévu au 2 du II de l'article 151 nonies précité mentionne en outre le montant des plus-values réalisées lors de la
+transmission et dont l'imposition est reportée. 
+
+L'état prévu au VI de l'article 151 nonies précité mentionne également les opérations réalisées ou les événements survenus au
+cours de l'année de nature à mettre fin au report d'imposition ou à le transmettre à un nouveau bénéficiaire, ainsi que le
+montant des plus-values demeurant en report d'imposition. 
+
+II.-Pour l'application des III et IV de l'article 151 nonies du code général des impôts, l'état dont la production est prévue
+au VI du même article est établi conformément à un modèle fixé par l'administration. Cet état mentionne les nom et adresse du
+bénéficiaire du report d'imposition, la dénomination sociale et l'adresse de la société dont les droits ou parts sont
+détenus, le nombre de droits ou parts détenus, la nature de l'opération ou de l'événement ayant entraîné le report
+d'imposition, les opérations réalisées ou les événements survenus au cours de l'année de nature à mettre fin au report
+d'imposition ou à le transmettre à un nouveau bénéficiaire, ainsi que le montant des plus-values demeurant en report
+d'imposition et les informations nécessaires pour le suivi des plus-values en report d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1603 du 14 décembre 2006 - art. 1 () JORF 16 décembre 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 151 nonies (V)
 
 
 ##### 4° : Versements à fonds perdus en faveur de la construction
@@ -21277,6 +21326,25 @@ tard le 25 du mois qui suit chaque trimestre civil.
 	  - Code général des impôts, CGI. - art. 262 ter (V)
 	  - Code général des impôts, CGI. - art. 277 A (V)
 	  - Code général des impôts, CGI. - art. 291 (V)
+
+
+###### Article 95 C
+
+Les assujettis établis dans la Principauté de Monaco et réalisant des travaux immobiliers en France déposent les déclarations
+prescrites par le 1 de l'article 287 du code général des impôts auprès du service des impôts de Menton. 
+
+Les établissements bancaires ayant leur siège à Monaco et disposant d'un établissement stable en France sont tenus à la même
+obligation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1604 du 14 décembre 2006 - art. 3 () JORF 16 décembre 2006
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 287 (VT)
 
 
 ###### Article 96 A
@@ -33871,6 +33939,53 @@ Les ressortissants des Etats parties contractantes à la Charte sociale europée
 ## Troisième partie : Dispositions communes aux première et deuxième parties
 
 ### Titre premier : Assiette et contrôle de l'impôt
+
+#### Chapitre 01 : Plafonnement des impôts
+
+###### Article 344-00 A
+
+I. - La demande de restitution prévue au 8 de l'article 1649-0 A du code général des impôts, rédigée sur un imprimé conforme
+à un modèle établi par l'administration, est adressée ou remise au service des impôts du lieu du domicile du demandeur au 1er
+janvier de l'année de paiement des impositions à prendre en compte.
+
+Elle comporte notamment :
+
+a. Les nom de naissance, prénoms, date et lieu de naissance du demandeur et ceux de son conjoint ou de son partenaire lié par
+un pacte civil de solidarité ;
+
+b. Le numéro fiscal du demandeur et celui de son conjoint ou de son partenaire lié par un pacte civil de solidarité, tels
+qu'ils figurent sur la déclaration de revenus prévue au 1 de l'article 170 du code général des impôts ou, le cas échéant, sur
+l'avis d'imposition à l'impôt sur le revenu ;
+
+c. L'adresse du domicile du demandeur au 1er janvier de l'année de paiement des impositions à prendre en compte et, en cas de
+changement d'adresse, celle de son domicile au 1er janvier de l'année de la demande ;
+
+d. L'indication du montant, détaillé par nature, des revenus, déficits et charges mentionnés aux 4 et 5 de l'article 1649-0 A
+du code général des impôts à prendre en compte pour la détermination du droit à restitution ;
+
+e. L'indication du montant, détaillé par nature, des impositions mentionnées au 2 de l'article 1649-0 A du code général des
+impôts ainsi que des restitutions de l'impôt sur le revenu perçues ou des dégrèvements obtenus mentionnés au 3 du même
+article, à prendre en compte pour la détermination du droit à restitution.
+
+II. - L'imprimé mentionné au I, dûment complété et signé par le demandeur, est accompagné d'un relevé d'identité bancaire ou
+de caisse d'épargne établi à son nom.
+
+La restitution de la fraction des impositions qui excède le seuil mentionné à l'article 1er du code général des impôts est
+effectuée par virement sur le compte bancaire ou de caisse d'épargne ouvert au nom du demandeur et dont le relevé a été joint
+à la demande.
+
+III. - Les pièces justifiant des éléments mentionnés au I sont produites par le demandeur à la demande de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1602 du 14 décembre 2006 - art. 1 () JORF 16 décembre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
 
 #### Chapitre premier : Obligations des contribuables
 
