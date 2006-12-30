@@ -31,10 +31,10 @@ dessus, en application des dispositions du troisième alinéa de l'article 223 R
 
 7. (Périmé)
 
-8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies et 44 decies du code général
-des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme
-d'ensemble exonérés en application du III de l'article 44 octies et du neuvième alinéa du I de l'article 44 decies du code
-général des impôts.
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A et 44 decies du
+code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à
+long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A et du neuvième
+alinéa du I de l'article 44 decies du code général des impôts.
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
@@ -42,17 +42,12 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Cite**:
 
-	  - CGI 223 Q, 223 L, 223 I, 223 R, 44 octies, 44 decies
-	  - CGIAN3 46 quater-0 ZK
+	  - CGI 223 Q, 46 quater-0 ZK, 223 L, 223, 223 R, 44 octies, 44 octies A, 44 decies
 
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2006-1796 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2007

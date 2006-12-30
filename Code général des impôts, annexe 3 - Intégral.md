@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2006-12-30
+Version Consolidée au 2006-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12984,6 +12984,40 @@ la quittance certifiant du paiement des intérêts dont le montant sert de base 
 	  - HISTO: Edition du 1er janvier 2005
 
 
+##### Section V ter : Exonération des plus-values à long terme afférentes à des titres de participation
+
+###### Article 46 quater-0 RH
+
+Pour l'application du troisième alinéa du a quinquies du I de l'article 219 du code général des impôts, sont considérées
+comme des sociétés à prépondérance immobilière les sociétés dont l'actif est à la date de la cession de ces titres ou a été à
+la clôture du dernier exercice précédant cette cession, constitué pour plus de 50 % de sa valeur réelle par des immeubles,
+des droits portant sur des immeubles, des droits afférents à un contrat de crédit-bail conclu dans les conditions prévues au
+2 de l'article L. 313-7 du code monétaire et financier ou par des titres d'autres sociétés à prépondérance immobilière. Pour
+l'application de ces dispositions, ne sont pas pris en considération les immeubles ou les droits mentionnés à la phrase
+précédente lorsque ces biens ou droits sont affectés par l'entreprise à sa propre exploitation industrielle, commerciale ou
+agricole ou à l'exercice d'une profession non commerciale.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 26-III-2° et IV-3 de la loi n° 2007-1822 du 24 décembre 2007.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 219
+	  - Code monétaire et financier - art. L313-7
+
+	**Créé par**:
+
+	  - Décret n°2006-1797 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - HISTO: Edition du 1er janvier 2007
+
+
 ##### Section VI : Report en arrière des déficits
 
 ###### Article 46 quater-0 S
@@ -14322,7 +14356,8 @@ outre :
 a) l'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble ;
 
 b) l'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
-III de l'article 44 octies et du neuvième alinéa du I de l'article 44 decies du code général des impôts.
+III de l'article 44 octies, du III de l'article 44 octies A et du neuvième alinéa du I de l'article 44 decies du code général
+des impôts.
 
 La société mère dépose avec son relevé de solde auprès du comptable de la direction générale des impôts la liste des sociétés
 membres du groupe et des sociétés qui cessent d'être membres de ce groupe défini à l'article 223 A du code général des
@@ -14332,11 +14367,11 @@ impôts. Cette liste indique le taux de détention directe et indirecte par la s
 
 	**Cite**:
 
-	  - CGI 53 A, 44 decies, 223 A, 44 octies
+	  - CGI 53 A, 44 decies, 223 A
 
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2006-1796 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 Rectificatif JORF 20 janvier 2007
 
 	**Cité par**:
 
@@ -14344,7 +14379,7 @@ impôts. Cette liste indique le taux de détention directe et indirecte par la s
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 46 quater-0 ZL
@@ -14380,10 +14415,10 @@ dessus, en application des dispositions du troisième alinéa de l'article 223 R
 
 7. (Périmé)
 
-8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies et 44 decies du code général
-des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à long terme
-d'ensemble exonérés en application du III de l'article 44 octies et du neuvième alinéa du I de l'article 44 decies du code
-général des impôts.
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A et 44 decies du
+code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à
+long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A et du neuvième
+alinéa du I de l'article 44 decies du code général des impôts.
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
@@ -14391,20 +14426,15 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Cite**:
 
-	  - CGI 223 Q, 223 L, 223 I, 223 R, 44 octies, 44 decies
-	  - CGIAN3 46 quater-0 ZK
+	  - CGI 223 Q, 46 quater-0 ZK, 223 L, 223, 223 R, 44 octies, 44 octies A, 44 decies
 
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2006-1796 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 46 quater-0 ZM
@@ -16797,92 +16827,83 @@ Cet état est établi sur papier libre, conformément au modèle fixé par l'adm
 Pour l'application du I de l'article 44 octies du code général des impôts, les bénéfices provenant des activités implantées
 dans la zone, ouvrant droit à exonération, s'entendent des bénéfices réalisés à compter du premier jour du mois au cours
 duquel est intervenue la délimitation de la zone. Lorsque le début ou le terme de la période d'exonération prévue au I de
-l'article 44 octies ne coïncide pas avec le début ou le terme de l'année ou de l'exercice d'imposition, la règle du prorata
-du temps est appliquée pour déterminer la fraction du bénéfice imposable et celle du bénéfice exonéré.
+l'article 44 octies ou au I de l'article 44 octies A ne coïncide pas avec le début ou le terme de l'année ou de l'exercice
+d'imposition, la règle du prorata du temps est appliquée pour déterminer la fraction du bénéfice imposable et celle du
+bénéfice exonéré.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-1796 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - CGI 44 octies
-
-	**Créé par**:
-
-	  - Décret n°97-116 du 10 février 1997 - art. 1 () JORF 11 février 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, CGI. - art. 44 octies A (VT)
+	  - Code général des impôts, CGI. - art. 44 sexies (V)
 
 
 ###### Article 49 L
 
-Le contribuable qui peut bénéficier des dispositions de l'article 44 octies du code général des impôts doit joindre à la
-déclaration du résultat de la période d'imposition considérée un document conforme à un modèle établi par l'administration
-comportant les éléments nécessaires à la détermination du bénéfice ouvrant droit à exonération.
+Le contribuable qui peut bénéficier des dispositions de l'article 44 octies ou de l'article 44 octies A du code général des
+impôts doit joindre à la déclaration du résultat de la période d'imposition considérée un document conforme à un modèle
+établi par l'administration comportant les éléments nécessaires à la détermination du bénéfice ouvrant droit à exonération.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-1796 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - CGI 44 octies
-
-	**Créé par**:
-
-	  - Décret n°97-116 du 10 février 1997 - art. 1 () JORF 11 février 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, CGI. - art. 44 octies (VT)
+	  - Code général des impôts, CGI. - art. 44 octies A (VT)
 
 
 ###### Article 49 M
 
-Pour l'application du sixième alinéa du II de l'article 44 octies du code général des impôts, le contribuable est réputé
-avoir exercé l'ensemble de son activité dans les zones franches urbaines s'il n'a pas disposé, en dehors de ces zones et au
-cours de l'année ou de l'exercice considéré, d'immobilisations corporelles au sens du 1° de l'article 1467 du code général
-des impôts.
+Pour l'application du sixième alinéa du II de l'article 44 octies ou du sixième alinéa du II de l'article 44 octies A du code
+général des impôts, le contribuable est réputé avoir exercé l'ensemble de son activité dans les zones franches urbaines s'il
+n'a pas disposé, en dehors de ces zones et au cours de l'année ou de l'exercice considéré, d'immobilisations corporelles au
+sens du 1° de l'article 1467 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 44 octies, 1467
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
+	  - CGI 1467
+	  - CGIAN3 44 octies, 44 octies A
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2006-1796 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 49 N
 
 Les bailleurs d'immeubles visés au 5° du I de l'article 35 du code général des impôts bénéficiant des dispositions de
-l'article 44 octies de ce code doivent joindre à la déclaration du résultat de chaque période d'imposition des bénéfices un
-document mentionnant le lieu d'implantation de chaque immeuble donné à bail. Lorsque tous leurs moyens d'exploitation ne sont
-pas situés dans les zones franches urbaines, ils doivent également joindre en annexe à cette déclaration un compte séparé
-faisant apparaître, pour chaque immeuble situé dans ces zones, le bénéfice net provenant de son exploitation.
+l'article 44 octies ou de l'article 44 octies A de ce code doivent joindre à la déclaration du résultat de chaque période
+d'imposition des bénéfices un document mentionnant le lieu d'implantation de chaque immeuble donné à bail. Lorsque tous leurs
+moyens d'exploitation ne sont pas situés dans les zones franches urbaines, ils doivent également joindre en annexe à cette
+déclaration un compte séparé faisant apparaître, pour chaque immeuble situé dans ces zones, le bénéfice net provenant de son
+exploitation.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-1796 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - CGI 35, 44 octies
-
-	**Créé par**:
-
-	  - Décret n°97-116 du 10 février 1997 - art. 1 () JORF 11 février 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, CGI. - art. 35 (V)
+	  - Code général des impôts, CGI. - art. 44 octies (VT)
+	  - Code général des impôts, CGI. - art. 44 octies A (VT)
 
 
 ###### Article 49 O
@@ -16901,23 +16922,20 @@ les collectivités publiques.
 
 ###### Article 49 P
 
-L'option mentionnée au troisième alinéa du III de l'article 44 octies du code général des impôts est notifiée, sur un
-document conforme à un modèle établi par l'administration, au service des impôts auprès duquel est souscrite la déclaration
+L'option mentionnée au troisième alinéa du III de l'article 44 octies ou au troisième alinéa du III de l'article 44 octies A
+du code général des impôts est notifiée, sur papier libre, au service des impôts auprès duquel est souscrite la déclaration
 du résultat.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2006-1796 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+
 	**Cite**:
 
-	  - CGI 44 octies
-
-	**Créé par**:
-
-	  - Décret n°97-116 du 10 février 1997 - art. 1 () JORF 11 février 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, CGI. - art. 44 octies (VT)
+	  - Code général des impôts, CGI. - art. 44 octies A (VT)
 
 
 ##### Section II quinquies : Entreprises implantées en Corse
