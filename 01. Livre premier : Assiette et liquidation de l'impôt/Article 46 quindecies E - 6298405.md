@@ -1,8 +1,8 @@
 # Article 46 quindecies E
 
-Pour bénéficier de l'avantage fiscal prévu aux articles 163 septdecies et 217 septies du code général des impôts, le
-souscripteur au capital agréé d'une Sofica doit joindre à sa déclaration de revenus ou de résultats un relevé délivré par
-cette société et comprenant :
+Pour bénéficier de l'avantage fiscal prévu à l'article 217 septies du code général des impôts, le souscripteur au capital
+agréé d'une Sofica doit joindre à sa déclaration de revenus ou de résultats un relevé délivré par cette société et
+comprenant :
 
 L'identité et l'adresse de l'actionnaire ;
 
@@ -26,16 +26,16 @@ Ce relevé est établi sur papier libre, conformément au modèle fixé par l'ad
 
 	**Cite**:
 
-	  - CGI 163 septdecies, 217 septies
-
-	**Créé par**:
-
-	  - Décret n°85-982 du 17 septembre 1985 - art. 6 (V) JORF 18 septembre 1985
+	  - CGI 217 septies
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2007-484 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 102 (V) JORF 31 décembre 2006

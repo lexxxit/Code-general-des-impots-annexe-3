@@ -7,15 +7,17 @@ Pour ces mêmes produits expédiés vers les autres Etats membres de la Communau
 de l'exonération de justifier de leur livraison réelle.
 
 Pour les exportations et les expéditions de ces produits vers les autres Etats membres de la Communauté européenne, l'Office
-national interprofessionnel des céréales procède pour le compte du Trésor à la mise en oeuvre de l'exonération de la taxe
-selon la procédure prévue par cet établissement.
+national interprofessionnel des grandes cultures procède pour le compte du Trésor à la mise en oeuvre de l'exonération de la
+taxe selon la procédure prévue par cet établissement.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°93-1332 du 20 décembre 1993 - art. 2 () JORF 26 décembre 1993
-
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Modifié par**:
+
+	  - Loi n°2006-11 2006-01-05 art. 95 III, IV JORF 6 janvier 2006
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 95 (V) JORF 6 janvier 2006

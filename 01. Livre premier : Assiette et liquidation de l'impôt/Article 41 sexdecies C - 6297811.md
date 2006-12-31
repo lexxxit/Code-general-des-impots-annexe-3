@@ -12,8 +12,8 @@ b. De la date de mise en distribution ;
 c. Du nombre de parts du fonds commun de placement existant à chacune de ces trois dernières dates ; 
 
 d. Du montant, déterminé conformément aux dispositions de l'article L. 214-10 précité, de la répartition effectuée au titre
-de l'exercice considéré et de la part de la répartition éligible à la réfaction de 50 % mentionnée au 2° du 3 de l'article
-158 du code général des impôts ; 
+de l'exercice considéré et de la part de la répartition éligible à l'abattement de 40 % mentionné au 2° du 3 de l'article 158
+du code général des impôts ; 
 
 e. Le cas échéant, de la date de distribution et du montant de chacun des acomptes versés au titre du même exercice.
 
@@ -26,7 +26,12 @@ e. Le cas échéant, de la date de distribution et du montant de chacun des acom
 
 	**Modifié par**:
 
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+	  - Loi n°2005-1719 2005-12-30 art. 76 I, XV Finances pour 2006 JORF 31 décembre 2006
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2006
+
+	**Codifié par**:
+
+	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -35,4 +40,4 @@ e. Le cas échéant, de la date de distribution et du montant de chacun des acom
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2007

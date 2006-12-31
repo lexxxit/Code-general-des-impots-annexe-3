@@ -33,8 +33,7 @@ code de la sécurité sociale ou décès des autres membres de la famille de l'e
 
 4° Aléas économiques :
 
-a) Reconversion d'activité par suite d'un changement très important de production au sens du II de l'article 73 du code
-général des impôts ;
+a) Reconversion d'activité par suite d'un changement très important de production ;
 
 b) Résiliation ou non-renouvellement du bail de l'exploitant dans les circonstances prévues aux articles L. 411-30 à L.
 411-34 et L. 411-58 du code rural ;
@@ -59,26 +58,14 @@ moyenne, il n'est pas tenu compte des reports déficitaires.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 72 D bis, 73
-	  - Code rural R361-42, L361-3, L223-8, L221-2, L234-4, L251-2, L251-9, L411-30 à L411-34, L411-58, D236-14, D231-39
-	  - Décret n°83-228 du 22 mars 1983 - art. 15 (M)
-	  - Code de la sécurité sociale. - art. L341-4 (V)
-	  - Code des assurances - art. L125-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2003-768 du 1 août 2003 - art. 2 (V) JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 3 (V) JORF 7 août 2003
-	  - Décret n°2003-768 du 1 août 2003 - art. 6 (V) JORF 7 août 2003
-	  - Décret n°2005-368 du 19 avril 2005 - art. 10 (V) JORF 22 avril 2005
-	  - Décret n°2005-368 du 19 avril 2005 - art. 12 (V) JORF 22 avril 2005
-
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2007-484 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 2006-06-30 art. 67 IV Finances rectificative pour 2006 JORF 31 décembre 2006

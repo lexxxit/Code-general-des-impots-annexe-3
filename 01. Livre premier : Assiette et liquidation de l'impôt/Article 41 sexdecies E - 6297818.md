@@ -1,29 +1,32 @@
 # Article 41 sexdecies E
 
-I - En cas de distribution d'un acompte, le gérant du fonds commun de placement doit, dans le mois de cette distribution
+I-En cas de distribution d'un acompte, le gérant du fonds commun de placement doit, dans le mois de cette distribution
 partielle comme dans le cas d'une distribution globale prévue à l'article 41 sexdecies C, produire un état comportant
 l'indication du montant et de la date de mise en distribution de cet acompte, de l'exercice au titre duquel il est versé
-ainsi que du nombre de parts ayant vocation à cette répartition et de la part de cet acompte éligible à la réfaction de 50 %
-mentionnée au 2° du 3 de l'article 158 du code général des impôts. 
+ainsi que du nombre de parts ayant vocation à cette répartition et de la part de cet acompte éligible à l'abattement de 40 %
+mentionné au 2° du 3 de l'article 158 du code général des impôts. 
 
-II - Pour chaque acompte, le gérant est tenu de rédiger un état analogue à celui prévu à l'article 41 sexdecies D mais tenant
+II-Pour chaque acompte, le gérant est tenu de rédiger un état analogue à celui prévu à l'article 41 sexdecies D mais tenant
 compte uniquement, pour la détermination des divers montants qui doivent y être mentionnés, des produits du fonds compris
 dans l'acompte et des crédits d'impôt attachés à ces produits. 
 
-III - Lors de la répartition pour solde des produits d'un exercice déterminé, des états analogues à ceux prévus
-respectivement aux articles 41 sexdecies C et 41 sexdecies D doivent être rédigés. Ils rappellent, en les récapitulant, les
-éléments afférents aux acomptes déjà versés, d'une part, et mentionnent, d'autre part, les éléments relatifs à ce solde.
+III-Lors de la répartition pour solde des produits d'un exercice déterminé, des états analogues à ceux prévus respectivement
+aux articles 41 sexdecies C et 41 sexdecies D doivent être rédigés. Ils rappellent, en les récapitulant, les éléments
+afférents aux acomptes déjà versés, d'une part, et mentionnent, d'autre part, les éléments relatifs à ce solde.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 158, 41 sexdecies C, 41 sexdecies D
-
 	**Modifié par**:
 
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+	  - Loi n°2005-1719 2005-12-30 art. 76 I, XV Finances pour 2006 JORF 31 décembre 2006
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2006
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Décret n°2007-484 2007-03-30
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies D (V)
+	  - Code général des impôts, CGI. - art. 158 (V)

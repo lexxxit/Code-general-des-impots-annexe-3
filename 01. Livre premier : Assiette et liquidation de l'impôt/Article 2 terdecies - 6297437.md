@@ -3,8 +3,8 @@
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants :
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2006, les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 14,25 euros par mètre carré en zone I bis, 12,61 euros en zone I, 9,73 euros en zone II et 9,18 euros en zone
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2007 les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 14,65 euros par mètre carré en zone I bis, 12,97 euros en zone I, 10,01 euros en zone II et 9,44 euros en zone
 III. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à
 l'article 2 duodecies.
 
@@ -23,11 +23,11 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2007-484 2007-03-30
 
 	**Modifié par**:
 
-	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
+	  - Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
 
 	**Cité par**:
 
@@ -36,4 +36,4 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
