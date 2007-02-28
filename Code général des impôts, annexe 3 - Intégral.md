@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-03-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9967,6 +9967,42 @@ des trois années précédentes définis au b du 2 du I du même article, en com
 	  - Code général des impôts, CGI. - art. 163 quatervicies (V)
 
 
+##### II septies : Compte épargne codéveloppement
+
+###### Article 41 ZZ quinquies
+
+1. Pour l'application de l'article 163 quinvicies du code général des impôts, le contribuable doit joindre, à sa déclaration
+de revenu de l'année au titre de laquelle la déduction du revenu net global est demandée ou au titre de laquelle il a procédé
+au retrait total ou partiel des sommes inscrites au crédit du compte épargne codéveloppement, une copie du document prévu au
+III de l'article D. 221-115 du code monétaire et financier.
+
+2. Le contribuable doit joindre à la déclaration de revenu de l'année au titre de laquelle il a procédé au retrait total ou
+partiel des sommes inscrites au crédit du compte épargne codéveloppement, une copie des pièces mentionnées au I de l'article
+D. 221-116 du code monétaire et financier.
+
+Le contribuable doit également fournir les pièces justifiant de l'emploi effectif des sommes retirées dans les deux mois qui
+suivent cet emploi.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 163 quinvicies du code général des impôts
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 163 quinvicies
+
+	**Créé par**:
+
+	  - Décret n°2007-218 du 19 février 2007 - art. 2 () JORF 21 février 2007 en vigueur le 1er mars 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - HISTO: Edition du 1er janvier 2007
+
+
 ##### III : Présentation et contenu des déclarations
 
 ###### Article 42
@@ -11492,35 +11528,6 @@ Modification effectuée en conséquence de la péremption de l'article 199 terde
 
 	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 3
 	  - HISTO: Edition du 18 août 1993
-
-
-##### 8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet.
-
-###### Article 46 AO bis
-
-Ainsi qu'il est dit au quinzième alinéa de l'article D. 129-11 du code du travail, l'entreprise ou l'association doit
-communiquer à chacun de ses clients une attestation fiscale annuelle, délivrée pour bénéficier de la réduction d'impôt
-définie à l'article 199 sexdecies du code général des impôts. Cette attestation mentionne le nom et l'adresse de l'organisme
-prestataire, son numéro d'identification, le numéro et la date de délivrance de l'agrément, le nom de la personne ayant
-bénéficié du service, son adresse, le numéro de son compte débité, le cas échéant, le montant effectivement acquitté, et un
-récapitulatif des interventions faisant apparaître le nom et le code identifiant de l'intervenant, ainsi que la date et la
-durée de l'intervention.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2005-1360 du 3 novembre 2005 - art. 6 () JORF 31 décembre 2005
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 2002
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
 
 
 ##### 10° : Crédit d'impôt pour l'acquisition ou la location de certains véhicules automobiles
@@ -17437,59 +17444,6 @@ dans les conditions prévues à l'article R. 45 B-1 du livre des procédures fis
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. R45 B-1 (V)
-
-
-##### Section V bis : Crédit d'impôt pour dépenses de formation.
-
-###### Article 49 septies S
-
-La revalorisation des dépenses de formation prévue au I de l'article 244 quater C du code général des impôts est égale au
-pourcentage d'augmentation du montant des salaires versés par l'entreprise au cours de l'année au titre de laquelle le crédit
-d'impôt est calculé par rapport au montant des salaires de l'année précédente.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quater C I
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 69 Finances pour 1988
-	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 30 mars 2007
-	  - HISTO: Edition du 15 juillet 1988
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Créé par**:
-
-	  - Décret n°88-427 du 25 avril 1988 - art. 4 (V) JORF 26 avril 1988
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-
-###### Article 49 septies T
-
-Le crédit d'impôt en faveur de la formation est imputé sur l'impôt dû après les prélèvements non libératoires et les crédits
-d'impôt non restituables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 30 mars 2007
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 1er janvier 2007
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 69 Finances pour 1988
-
-	**Modifié par**:
-
-	  - Loi n°92-1376 1992-12-31 art. 17 Finances pour 1993 JORF 31 décembre 1992
 
 
 ##### Section V quater : Crédit d'impôt pour certains investissements réalisés et exploités en Corse
