@@ -36,17 +36,17 @@ code général des impôts, comportant les éléments nécessaires au calcul de 
 long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A et du neuvième
 alinéa du I de l'article 44 decies du code général des impôts.
 
+9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts
+déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même
+article.
+
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 Q, 46 quater-0 ZK, 223 L, 223, 223 R, 44 octies, 44 octies A, 44 decies
-
 	**Modifié par**:
 
-	  - Décret n°2006-1796 du 23 décembre 2006 - art. 3 () JORF 31 décembre 2006
+	  - Décret n°2007-282 du 1 mars 2007 - art. 2 () JORF 3 mars 2007
 
 	**Liens**:
 
