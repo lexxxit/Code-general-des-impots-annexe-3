@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-03-03
+Version Consolidée au 2007-03-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -32952,8 +32952,8 @@ donnent pas lieu à la perception de la taxe.
 
 ###### Article 344 quater
 
-Le montant de la taxe prévue à l'article 1635-0 bis du code général des impôts est fixé à 220 Euros. Ce montant est de 55
-Euros pour les étrangers auxquels est délivrée une carte de séjour temporaire portant la mention "étudiant".
+Le montant de la taxe prévue à l'article 1635-0 bis du code général des impôts est fixé à 275 euros. Ce montant est de 55
+euros pour les étrangers auxquels est délivrée une carte de séjour temporaire portant la mention "étudiant".
 
 **Liens relatifs à cet article**
 
@@ -32961,9 +32961,17 @@ Euros pour les étrangers auxquels est délivrée une carte de séjour temporair
 
 	  - CGI 1635-0 bis
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-356 du 17 avril 2003 - art. 1 () JORF 18 avril 2003
+	  - Décret n°2007-320 du 8 mars 2007 - art. 1 () JORF 10 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-2 du 2 janvier 2009 - art. 2
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 344 quinquies
@@ -33027,7 +33035,7 @@ Modifications effectuées en conséquence des articles 1er-II [3°] et 155-V de 
 
 ###### Article 344 ter
 
-Le montant de la taxe prévue à l'article 1635 bis du code général des impôts est fixé à 55 euros.
+Le montant de la taxe prévue à l'article 1635 bis du code général des impôts est fixé à 70 euros.
 
 Les ressortissants des Etats parties contractantes à la Charte sociale européenne sont exonérés du versement de cette taxe.
 
@@ -33039,7 +33047,11 @@ Les ressortissants des Etats parties contractantes à la Charte sociale europée
 
 	**Modifié par**:
 
-	  - Décret n°2003-356 du 17 avril 2003 - art. 1 () JORF 18 avril 2003
+	  - Décret n°2007-321 du 8 mars 2007 - art. 1 () JORF 10 mars 2007
+
+	**Abrogé par**:
+
+	  - Décret n°2009-2 du 2 janvier 2009 - art. 2
 
 	**Cité par**:
 
@@ -33047,7 +33059,7 @@ Les ressortissants des Etats parties contractantes à la Charte sociale europée
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section V : Fonds national de garantie des calamités agricoles
