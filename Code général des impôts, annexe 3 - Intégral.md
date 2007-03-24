@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-03-10
+Version Consolidée au 2007-03-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21867,6 +21867,55 @@ AUTRES passagers : 4 euros
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2007
+
+
+#### Chapitre III 
+
+###### Article 102
+
+La taxe prévue à l'article 302 bis KE du code général des impôts est due au taux de 10 % lorsque les opérations portent sur :
+
+a) Des oeuvres et documents cinématographiques qui figurent sur la liste prévue au quatrième alinéa de l'article 12 de la loi
+de finances pour 1976 susvisé ;
+
+b) Des oeuvres et documents audiovisuels dont la diffusion à un public mineur constitue une infraction au sens de l'article
+227-24 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-421 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article 103
+
+Les redevables de la taxe prévue à l'article 302 bis KE du code général des impôts qui procèdent aux opérations mentionnées à
+l'article 102 doivent faire apparaître distinctement dans leur comptabilité le chiffre d'affaires qu'ils réalisent au titre
+de ces opérations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 bis KE, 102
+
+	**Créé par**:
+
+	  - Décret n°2007-421 du 23 mars 2007 - art. 1 () JORF 25 mars 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 331 M ter (V)
 
 
 #### Chapitre IV : Redevance sanitaire d'abattage
