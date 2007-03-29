@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-03-25
+Version Consolidée au 2007-03-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3189,63 +3189,6 @@ l'exercice de la filiale étrangère.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 GA quater (V)
-
-
-##### F : Amortissement exceptionnel des immeubles à usage industriel ou commercial construits dans des zones d'aménagement du territoire.
-
-###### Article 10 GB
-
-I. Pour l'application de l'article 39 quinquies D du code général des impôts :
-
-1. L'effectif des salariés correspond au nombre mensuel moyen de salariés employés au cours du dernier exercice clos à la
-date d'achèvement des constructions et titulaires d'un contrat de travail.
-
-Chaque salarié à temps partiel entre en compte dans l'effectif des salariés au prorata du rapport qui existe entre la durée
-hebdomadaire de travail mentionnée dans son contrat et la durée légale de travail sur la même période ou, si elle est
-inférieure à la durée légale, la durée normale de travail accomplie dans l'établissement ou la partie de l'établissement où
-il est employé.
-
-2. Le chiffre d'affaires s'entend du chiffre d'affaires hors taxes réalisé par l'entreprise au cours du dernier exercice clos
-à la date d'achèvement des constructions, quelle que soit la durée de cet exercice.
-
-3. Le total du bilan correspond à la totalisation de tous les postes d'actif ou de passif afférents au dernier exercice clos
-à la date d'achèvement des constructions.
-
-4. Pour la détermination du pourcentage de 25 p. 100, apprécié à la date de clôture du dernier exercice clos à la date
-d'achèvement de l'immeuble, il n'est pas tenu compte de la participation détenue par les sociétés de développement régional,
-les sociétés de capital-risque au sens du 3° septies de l'article 208 du code général des impôts ainsi que par les sociétés
-financières d'innovation.
-
-5. Sont présumées exercer une activité bancaire, financière, d'assurances, de gestion ou de location d'immeubles les
-entreprises qui retirent d'une telle activité au moins 50 p. 100 de leur chiffre d'affaires, apprécié au titre du dernier
-exercice clos à la date d'achèvement de l'immeuble.
-
-6. Par dérogation aux 1 à 5, lorsque l'achèvement de l'immeuble intervient au cours du premier exercice de l'entreprise, les
-critères ci-dessus s'apprécient à la date de clôture de cet exercice.
-
-II. (Sans objet).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 quinquies D, 208
-
-	**Modifié par**:
-
-	  - Loi - art. 92 () JORF 31 décembre 1999
-
-	**Codifié par**:
-
-	  - Décret n°2000-477 2000-06-02
-
-	**Abrogé par**:
-
-	  - Décret n°2007-473 du 28 mars 2007 - art. 1 () JORF 30 mars 2007
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
 
 
 ##### G : Réinvestissement des plus-values. Exclusion des acquisitions de biens de caractère somptuaire
@@ -16896,6 +16839,72 @@ modèle établi par l'administration, au service des impôts auprès duquel est 
 	  - Code général des impôts, CGI. - art. 44 decies
 
 
+##### Section II sexies : Entreprises implantées dans les bassins d'emploi à redynamiser
+
+###### Article 49 U
+
+Lorsque le début ou le terme de la période d'exonération prévus au I de l'article 44 duodecies du code général des impôts ne
+coïncident pas avec le début ou le terme de l'année ou de l'exercice d'imposition, la règle du prorata du temps est appliquée
+pour déterminer la fraction du bénéfice imposable et celle du bénéfice exonéré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-472 du 28 mars 2007 - art. 1 () JORF 30 mars 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 duodecies (VT)
+
+
+###### Article 49 V
+
+Le contribuable qui peut bénéficier des dispositions de l'article 44 duodecies du code général des impôts doit joindre à sa
+déclaration afférente au résultat de chaque période d'imposition des bénéfices : 
+
+1. Un document conforme à un modèle établi par l'administration comportant les éléments nécessaires à la détermination et au
+suivi du bénéfice ouvrant droit à exonération ainsi qu'à la vérification du respect des conditions et limites prévues par les
+règlements mentionnés au huitième alinéa du II de l'article 44 duodecies du code général des impôts ; 
+
+2. Le cas échéant, pour les bailleurs d'immeubles mentionnés au 5° du I de l'article 35 du code général des impôts, un
+document mentionnant le lieu d'implantation de chaque immeuble donné à bail ainsi qu'un compte séparé joint en annexe à la
+déclaration de résultat indiquant, pour chaque immeuble situé dans les bassins d'emploi à redynamiser, le bénéfice net
+provenant de son exploitation, lorsque tous leurs moyens d'exploitation ne sont pas situés dans ces bassins ; 
+
+3. Le cas échéant, en cas de transfert d'activité dans un bassin d'emploi à redynamiser, un état mentionnant les lieux
+antérieurs d'exercice de l'activité, le service des impôts auprès duquel les déclarations de résultat ont été souscrites, la
+nature et le montant des subventions et aides accordées par l'Etat et les collectivités publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-472 du 28 mars 2007 - art. 1 () JORF 30 mars 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 35 (V)
+	  - Code général des impôts, CGI. - art. 44 duodecies (VT)
+
+
+###### Article 49 W
+
+L'option mentionnée au deuxième alinéa du III de l'article 44 duodecies du code général des impôts est notifiée sur un
+document conforme à un modèle établi par l'administration, au service des impôts auprès duquel est souscrite la déclaration
+de résultat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-472 du 28 mars 2007 - art. 1 () JORF 30 mars 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 duodecies (VT)
+
+
 ##### Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts
 
 ###### Article 49 bis
@@ -28955,6 +28964,41 @@ au regard des critères définis aux articles 2 et 3 ainsi que, le cas échéant
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R45 G-1 (V)
+
+
+##### 5° : Bassins d'emploi à redynamiser
+
+###### Article 315 nonies
+
+I. - Pour bénéficier de l'exonération prévue à l'article 1383 H du code général des impôts, le redevable de la taxe foncière
+sur les propriétés bâties doit souscrire auprès du service des impôts du lieu de situation des immeubles concernés une
+déclaration conforme à un modèle établi par l'administration, comportant tous les éléments d'identification de ces immeubles
+ainsi que les informations suivantes :
+
+a) L'activité exercée à titre principal dans l'immeuble ;
+
+b) Le cas échéant, l'option pour l'un des régimes d'exonération prévus au sixième alinéa de l'article 1383 H du code précité.
+
+II. - La déclaration mentionnée au I doit être souscrite avant le 1er janvier de la première année à compter de laquelle le
+redevable de la taxe foncière sur les propriétés bâties peut, au titre de l'immeuble concerné, bénéficier des dispositions de
+l'article 1383 H précité.
+
+Tout changement au cours d'une année relatif à l'exploitant ou à l'activité exercée doit être porté à la connaissance de
+l'administration avant le 1er janvier de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1383 H, 1383
+
+	**Créé par**:
+
+	  - Décret n°2007-472 du 28 mars 2007 - art. 2 () JORF 30 mars 2007
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### b : Lieu d'imposition
