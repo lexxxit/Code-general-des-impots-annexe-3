@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2007-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14674,6 +14674,93 @@ Dispositions devenues sans objet en conséquence de l'article 26-I [y] de la loi
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 217 quaterdecies
+
+
+##### Section XVI : Déduction pour la souscription au capital de sociétés implantées dans les zones franches urbaines
+
+###### Article 46 quater-0 ZZ nonies
+
+I.-Lorsque la société bénéficiaire des versements ne satisfait pas à la condition prévue au a du II de l'article 217
+sexdecies du code général des impôts, elle indique, sur papier libre, en annexe à la déclaration de résultats de l'exercice
+au cours duquel elle a cessé d'exercer son activité dans les zones franches urbaines dans la période de trois ans mentionnée
+au a précité, l'identification du ou des souscripteurs, la date de cessation de l'activité, ainsi que le montant des sommes
+réintégrées à ses résultats imposables. 
+
+II.-Lorsque cette même société ne satisfait pas à la condition prévue au b du II de l'article 217 sexdecies précité, elle
+indique, sous les mêmes formes, à l'issue de la période de trois ans mentionnée au b précité, l'identification du ou des
+souscripteurs, le montant des sommes non utilisées pour son activité exercée dans les zones franches urbaines, ainsi que le
+montant des sommes réintégrées à ses résultats imposables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-496 du 30 mars 2007 - art. 1 () JORF 1er avril 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 217 sexdecies
+
+
+###### Article 46 quater-0 ZZ octies
+
+Lorsque le souscripteur cède les titres dans le délai de trois ans mentionné au premier alinéa du III de l'article 217
+sexdecies du code général des impôts, il indique, sur papier libre, en annexe à la déclaration de résultats de l'exercice au
+cours duquel les titres sont cédés, l'identification de la société dont les titres sont cédés, la date de cession de ces
+titres et le montant de la déduction réintégrée à ses résultats imposables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-496 du 30 mars 2007 - art. 1 () JORF 1er avril 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 217 sexdecies
+
+
+###### Article 46 quater-0 ZZ septies
+
+Pour bénéficier de la déduction prévue à l'article 217 sexdecies du code général des impôts, le souscripteur au capital d'une
+société exerçant ou créant des activités en zone franche urbaine joint à sa déclaration de résultats au titre de l'exercice
+de réalisation de l'investissement un relevé comprenant : 
+
+a) La dénomination sociale et le numéro d'immatriculation au registre du commerce et des sociétés de la société bénéficiaire
+de la souscription ; 
+
+b) L'adresse du siège de la société bénéficiaire de la souscription, ainsi que son adresse dans la zone franche urbaine si
+elle est différente de celle du siège ; 
+
+c) Le nombre et le numéro des parts ou actions souscrites, le montant et la date de leur souscription ; 
+
+d) Le montant et la date des versements en numéraire effectués au titre de la souscription des parts ou actions ; 
+
+e) Le détail du calcul du montant de la déduction pratiquée par l'investisseur au titre de la souscription. 
+
+Ce relevé est établi sur papier libre ou sur support informatique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-496 du 30 mars 2007 - art. 1 () JORF 1er avril 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 217 sexdecies
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
