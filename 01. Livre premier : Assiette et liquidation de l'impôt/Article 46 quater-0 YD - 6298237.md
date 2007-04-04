@@ -1,33 +1,16 @@
 # Article 46 quater-0 YD
 
-Les sociétés qui souhaitent bénéficier des dispositions de l'article 220 sexies du code général des impôts déposent, pour
-chaque augmentation de capital éligible au crédit d'impôt, une déclaration conforme à un modèle prévu par l'administration.
-
-Cette déclaration comporte :
-
-1° Les renseignements permettant de s'assurer du respect des conditions prévues aux II et X de l'article 220 sexies du code
-précité ;
-
-2° Les éléments nécessaires à la détermination de la base, du calcul, du plafonnement et de l'imputation du crédit d'impôt.
-
-Elle est jointe à la déclaration des résultats du premier exercice clos à compter du 31 décembre de l'année de l'augmentation
-de capital.
+Pour l'application des dispositions du II de l'article 217 quinquies du code général des impôts, les entreprises doivent
+joindre à leur déclaration de résultats de l'exercice au titre duquel elles pratiquent la déduction prévue au premier alinéa
+du II de cet article un état, conforme au modèle établi par l'administration, précisant les éléments de détermination du
+montant de la déduction pratiquée et les modalités juridiques de l'émission d'actions à l'origine de cette déduction.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 220 sexies
-
 	**Créé par**:
 
-	  - Décret n°92-697 du 20 juillet 1992 - art. 1 (Ab) JORF 24 juillet 1992
+	  - Décret n°2007-505 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
+	  - Code général des impôts, CGI. - art. 217 quinquies (V)

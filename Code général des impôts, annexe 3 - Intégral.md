@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-04-01
+Version Consolidée au 2007-04-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8832,6 +8832,59 @@ d. (abrogé)
 	  - HISTO: Edition du 1er janvier 2005
 
 
+###### Article 41 duovicies G bis
+
+I.-Lorsqu'un contribuable entend bénéficier de l'exonération d'impôt sur le revenu prévue, sur option, au 7 du III de
+l'article 150-0 A du code général des impôts, il informe de cette intention la société au capital de laquelle il a souscrit
+les titres cédés, au plus tard le 31 décembre de l'année de la cession. 
+
+Dans ce cas, la société lui délivre, avant le 16 février de l'année qui suit celle de la cession, un état individuel qui
+mentionne : 
+
+a) La raison sociale, l'objet social et le siège social de la société ; 
+
+b) L'identité et l'adresse du souscripteur ; 
+
+c) Le nombre, le montant et la date de souscription et de libération des titres détenus par le contribuable au 1er janvier de
+l'année de la cession de ces titres ; 
+
+d) Le nombre des titres cédés par le contribuable dans l'année ; 
+
+e) La date à partir de laquelle la société a bénéficié du statut de jeune entreprise innovante défini à l'article 44 sexies-0
+A du code général des impôts et, si tel est le cas, la date de fin de ce statut. 
+
+II.-Le contribuable qui entend bénéficier de l'exonération prévue au 7 du III de l'article 150-0 A précité : 
+
+a) Formule l'option prévue à ce même 7 sur la déclaration mentionnée à l'article 74-0 F de l'annexe II au code général des
+impôts et déposée au titre de l'année de la cession des titres ; 
+
+b) Conserve l'état individuel mentionné au I jusqu'à l'expiration de la fin de la troisième année qui suit celle au titre de
+laquelle il a bénéficié de l'exonération précitée.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 17-I D [4°] et [III] de la loi n° 2013-1278 du 29 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-506 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
+	  - Code général des impôts, CGI. - art. 150-0 A
+
+
 ###### Article 41 duovicies H
 
 Pour l'application du III de l'article 150 VA du code général des impôts, les frais supportés par le vendeur à l'occasion de
@@ -13124,37 +13177,20 @@ Modifications effectuées en conséquence de l'article 68 A de la loi n° 87-106
 
 ###### Article 46 quater-0 YD
 
-Les sociétés qui souhaitent bénéficier des dispositions de l'article 220 sexies du code général des impôts déposent, pour
-chaque augmentation de capital éligible au crédit d'impôt, une déclaration conforme à un modèle prévu par l'administration.
-
-Cette déclaration comporte :
-
-1° Les renseignements permettant de s'assurer du respect des conditions prévues aux II et X de l'article 220 sexies du code
-précité ;
-
-2° Les éléments nécessaires à la détermination de la base, du calcul, du plafonnement et de l'imputation du crédit d'impôt.
-
-Elle est jointe à la déclaration des résultats du premier exercice clos à compter du 31 décembre de l'année de l'augmentation
-de capital.
+Pour l'application des dispositions du II de l'article 217 quinquies du code général des impôts, les entreprises doivent
+joindre à leur déclaration de résultats de l'exercice au titre duquel elles pratiquent la déduction prévue au premier alinéa
+du II de cet article un état, conforme au modèle établi par l'administration, précisant les éléments de détermination du
+montant de la déduction pratiquée et les modalités juridiques de l'émission d'actions à l'origine de cette déduction.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 220 sexies
-
 	**Créé par**:
 
-	  - Décret n°92-697 du 20 juillet 1992 - art. 1 (Ab) JORF 24 juillet 1992
+	  - Décret n°2007-505 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°98-400 1998-05-22
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
-	  - HISTO: Edition du 22 avril 1998
+	  - Code général des impôts, CGI. - art. 217 quinquies (V)
 
 
 ###### Article 46 quater-0 YE
@@ -15890,26 +15926,22 @@ entre eux les taux de participation successifs.
 
 Pour l'application des quatrième, cinquième et sixième alinéas de l'article 238 bis HW du code général des impôts, lorsqu'un
 investissement supplémentaire afférent à un site répondant aux conditions fixées à l'article 238 bis HW précité a été décidé
-au plus tard à l'expiration du délai visé au deuxième alinéa du 1 de l'article 223 du même code, pour la déclaration du
-dernier exercice clos à la date de souscription visé au deuxième alinéa de l'article 238 bis HW précité, la consommation
-supplémentaire liée à cet investissement est prise en compte dans la consommation du site concerné.
+au plus tard à l'expiration du délai visé au deuxième alinéa du 1 de l'article 223 du même code, pour la déclaration de
+l'avant-dernier exercice clos à la date de la demande d'agrément visé au deuxième alinéa de l'article 238 bis HW précité, la
+consommation supplémentaire liée à cet investissement est prise en compte dans la consommation du site concerné.
 
 Pour l'application de ces mêmes alinéas, il n'est pas tenu compte de l'électricité produite par l'associé sur un site de
 consommation pour son usage propre dans les volumes d'électricité ou d'énergie consommées.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 238 bis HW, 223
+	  - Décret n°2007-504 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2006-506 du 3 mai 2006 - art. 1 () JORF 5 mai 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 46 quindecies W
