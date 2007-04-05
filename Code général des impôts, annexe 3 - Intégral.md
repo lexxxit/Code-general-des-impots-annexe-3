@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-04-05
+Version Consolidée au 2007-04-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11530,9 +11530,9 @@ Modification effectuée en conséquence de la péremption de l'article 199 terde
 
 ###### Article 46 AS
 
-I. - Pour ouvrir droit au crédit d'impôt prévu au I de l'article 200 quinquies du code général des impôts, les véhicules sur
-lesquels sont effectuées les dépenses de transformation destinées à permettre leur fonctionnement au moyen du gaz de pétrole
-liquéfié sont ceux :
+I. - Pour ouvrir droit au crédit d'impôt prévu au 2 du I de l'article 200 quinquies du code général des impôts, les véhicules
+pour lesquels sont effectuées les dépenses de transformation destinées à permettre leur fonctionnement au moyen du gaz de
+pétrole liquéfié sont ceux :
 
 a) Pour lesquels le délai entre la date de première mise en circulation figurant sur le certificat d'immatriculation et la
 date de la facturation desdites dépenses est inférieur à trois ans ;
@@ -11542,35 +11542,38 @@ assurance en cours de validité ;
 
 c) Qui ne sont pas déclarés économiquement irréparables au sens des articles L. 327-1 et L. 327-2 du code de la route.
 
-II. - Les opérations de la transformation doivent être effectuées par un opérateur agréé conformément aux dispositions de
-l'article 8 de l'arrêté du 15 janvier 1985 modifié relatif à l'équipement des véhicules automobiles utilisant comme source
-d'énergie les gaz de pétrole liquéfiés.
+II. - Le professionnel habilité à effectuer les travaux de transformation s'entend de l'" installateur GPL " défini à
+l'article 1er de l'arrêté du 4 août 1999, modifié en dernier lieu par l'arrêté du 10 novembre 2004, relatif à la
+réglementation des installations de gaz de pétrole liquéfiés des véhicules à moteur.
 
 III. - Le contribuable justifie de la conformité de la transformation du véhicule aux dispositions de l'arrêté du 4 août 1999
-modifié relatif à la réglementation des installations de gaz de pétrole liquéfiés des véhicules à moteur par la production
-d'une copie du certificat d'immatriculation portant la codification "EG".
+précité par la production d'une copie du certificat d'immatriculation portant la codification "EG".
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 63-III et VII de la loi n° 2007-1824 du 25 décembre 2007.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1985-01-15 art. 8
-	  - Arrêté 1999-08-04
+	  - Arrêté 1999-08-04 art. 1
+	  - Arrêté 2004-11-10
 	  - CGI 200 quinquies
-	  - Code de la route. - art. L327-1 (V)
-	  - Code de la route. - art. L327-2 (V)
+	  - Code de la route. - art. L327-1
+	  - Code de la route. - art. L327-2
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 20 () JORF 13 juin 2003
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2007-515 du 4 avril 2007 - art. 1 () JORF 6 avril 2007
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 3
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 46 AT
@@ -11604,7 +11607,7 @@ III. - Le véhicule retiré de la circulation :
 
 a) Appartient à la catégorie des voitures particulières telles que définies à l'article R. 311-1 du code de la route ;
 
-b) A été mis en circulation avant le 1er janvier 1992 ;
+b) A été mis en circulation avant le 1er janvier 1997 ;
 
 c) Est la propriété du bénéficiaire du crédit d'impôt depuis au moins douze mois décomptés entre la date du dernier
 certificat d'immatriculation du véhicule détruit mentionnée sur le bon d'enlèvement cité au I et celle de l'établissement de
@@ -11615,7 +11618,7 @@ d) Fait l'objet à la date de son retrait de la circulation :
 1° D'un certificat d'immatriculation et d'une assurance en cours de validité ;
 
 2° D'un contrôle technique attestant qu'il est apte à la circulation. Cette condition n'est toutefois pas requise pour les
-véhicules de collection définis à l'article R. 323-3 du code de la route ;
+véhicules de collection conformément aux dispositions de l'article R. 323-3 du code de la route ;
 
 e) N'est pas gagé ;
 
@@ -11625,29 +11628,33 @@ IV. - La destruction d'un véhicule répondant aux conditions énoncées au III,
 l'acquisition ou la première souscription d'un contrat de location avec option d'achat ou de location souscrit pour une durée
 d'au moins deux ans d'un véhicule répondant aux conditions énoncées au II sont concomitantes.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 63-III et VII de la loi n° 2007-1824 du 25 décembre 2007.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 200 quinquies
-	  - Décret n°2002-1432 2002-12-09 annexe
-	  - Code de la route. - art. L223-1 (M)
-	  - Code de la route. - art. L327-1 (V)
-	  - Code de la route. - art. L327-2 (V)
-	  - Code de la route. - art. R311-1 (M)
-	  - Code de la route. - art. R323-3 (V)
+	  - Décret n°2002-1432 du 9 décembre 2002
+	  - Code de la route. - art. L223-1
+	  - Code de la route. - art. L327-1
+	  - Code de la route. - art. L327-2
+	  - Code de la route. - art. R311-1
+	  - Code de la route. - art. R323-3
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 29 (V) JORF 31 décembre 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2007-515 du 4 avril 2007 - art. 2 () JORF 6 avril 2007
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - PERIME: Décret n°2008-294 du 1er avril 2008 - art. 3
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ##### 12° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement
