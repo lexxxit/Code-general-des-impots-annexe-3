@@ -3,8 +3,8 @@
 I. - La société de gestion d'un fonds d'investissement de proximité mentionné à l'article L. 214-41-1 du code monétaire et
 financier ou le dépositaire des actifs de ce fonds agissant pour le compte de la société de gestion est soumis aux
 obligations définies aux I à III de l'article 46 AI ter et à celles définies aux V à VII de ce même article lorsque les
-souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt prévue au VI bis de l'article 199
-terdecies-0 A du code général des impôts.
+souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt prévue au VI bis ou au VI ter de l'article
+199 terdecies-0 A du code général des impôts.
 
 II. - A chaque inventaire semestriel, la société de gestion d'un fonds d'investissement de proximité ou le dépositaire des
 actifs de ce fonds agissant pour le compte de la société de gestion s'assure que les sociétés dont les titres ou avances en
@@ -17,8 +17,8 @@ un état de chacun des inventaires semestriels de l'actif du fonds mentionnés a
 compte de résultats.
 
 III. - Les dispositions de l'article 46 AI quater s'appliquent au contribuable qui entend bénéficier de la réduction d'impôt
-prévue au VI bis de l'article 199 terdecies-0 A du code général des impôts pour la souscription en numéraire de parts de
-fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier.
+prévue au VI bis ou au VI ter de l'article 199 terdecies-0 A du code général des impôts pour la souscription en numéraire de
+parts de fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -28,10 +28,6 @@ fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du cod
 	  - CGIAN3 46 AI ter, 46 AI quater
 	  - Code monétaire et financier - art. L214-41-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-589 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2007-724 du 7 mai 2007 - art. 1 () JORF 8 mai 2007 rectificatif JORF 26 mai 2007

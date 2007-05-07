@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-04-19
+Version Consolidée au 2007-05-08
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11443,8 +11443,8 @@ respect de l'une des conditions prévues à l'article L. 214-41 du code monétai
 I. - La société de gestion d'un fonds d'investissement de proximité mentionné à l'article L. 214-41-1 du code monétaire et
 financier ou le dépositaire des actifs de ce fonds agissant pour le compte de la société de gestion est soumis aux
 obligations définies aux I à III de l'article 46 AI ter et à celles définies aux V à VII de ce même article lorsque les
-souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt prévue au VI bis de l'article 199
-terdecies-0 A du code général des impôts.
+souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt prévue au VI bis ou au VI ter de l'article
+199 terdecies-0 A du code général des impôts.
 
 II. - A chaque inventaire semestriel, la société de gestion d'un fonds d'investissement de proximité ou le dépositaire des
 actifs de ce fonds agissant pour le compte de la société de gestion s'assure que les sociétés dont les titres ou avances en
@@ -11457,8 +11457,8 @@ un état de chacun des inventaires semestriels de l'actif du fonds mentionnés a
 compte de résultats.
 
 III. - Les dispositions de l'article 46 AI quater s'appliquent au contribuable qui entend bénéficier de la réduction d'impôt
-prévue au VI bis de l'article 199 terdecies-0 A du code général des impôts pour la souscription en numéraire de parts de
-fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier.
+prévue au VI bis ou au VI ter de l'article 199 terdecies-0 A du code général des impôts pour la souscription en numéraire de
+parts de fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
@@ -11468,13 +11468,9 @@ fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du cod
 	  - CGIAN3 46 AI ter, 46 AI quater
 	  - Code monétaire et financier - art. L214-41-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-589 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2007-724 du 7 mai 2007 - art. 1 () JORF 8 mai 2007 rectificatif JORF 26 mai 2007
 
 
 ##### 8° : Réduction d'impôt au titre du rachat d'une entreprise par ses salariés.
@@ -13825,6 +13821,72 @@ non libératoires et les crédits d'impôt non restituables.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 220 octies (V)
+
+
+##### Section VI sexies : Réduction d'impôt en faveur des petites et moyennes entreprises de croissance
+
+###### Article 46 quater-0 YV
+
+Pour l'application des dispositions de l'article 220 decies du code général des impôts, les dirigeants s'entendent des
+gérants, des présidents, des administrateurs, des directeurs généraux et des membres du directoire.
+
+**Nota:**
+
+Article périmé en conséquence de la péremption de l'article 220 decies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 decies
+
+	**Créé par**:
+
+	  - Décret n°2007-723 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 3
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
+
+###### Article 46 quater-0 YW
+
+Pour l'application des dispositions des articles 220 S et 220 decies du code général des impôts, les entreprises déposent une
+déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article 360
+auprès du comptable de la direction générale des impôts.
+
+S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
+société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble.
+
+**Nota:**
+
+Article périmé en conséquence de la péremption de l'article 220 decies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des impôts annexe 3, CGIAN3 360
+
+	**Créé par**:
+
+	  - Décret n°2007-723 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2011-645 du 9 juin 2011 - art. 3
+
+	**Cité par**:
+
+	  - Code rural et de la pêche maritime - art. R741-8-1 (Ab)
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ##### Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural
@@ -19041,6 +19103,98 @@ le groupement assimilé.
 	  - HISTO: Edition du 1er janvier 2007
 
 
+##### Section V septdecies : Crédit d'impôt en faveur des maîtres restaurateurs
+
+###### Article 49 septies ZR
+
+En cas de clôture d'exercice en cours d'année, le montant du crédit d'impôt prévu à l'article 244 quater Q du code général
+des impôts est calculé en prenant en compte les dépenses éligibles exposées au titre de la dernière année civile écoulée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-726 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater Q (V)
+
+
+###### Article 49 septies ZS
+
+Le crédit d'impôt prévu à l'article 244 quater Q du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-726 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater Q (V)
+
+
+###### Article 49 septies ZT
+
+Pour l'application des dispositions des articles 199 ter P, 220 U et 244 quater Q du code général des impôts, les entreprises
+doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration.
+
+Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
+la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du
+régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations
+spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au
+résultat d'ensemble du groupe.
+
+Les autres entreprises doivent déposer la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
+qu'elles sont tenues de souscrire en vertu de l'article 53 A du code général des impôts.
+
+L'associé d'une société de personnes mentionnée aux articles 8 et 238 bis L du code général des impôts ayant engagé des
+dépenses ouvrant droit au crédit d'impôt mentionné à l'article 244 quater Q du même code dépose la déclaration spéciale
+indiquant la quote-part des crédits d'impôt provenant de chacune des sociétés de personnes dont il est associé. Toutefois,
+lorsque l'associé est une personne physique, il est dispensé de déposer la déclaration spéciale lorsqu'il ne dispose pas d'un
+crédit d'impôt mentionné à l'article 244 quater Q précité autre que celui issu de sa participation dans la société de
+personnes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 ter P, 220 U, 244 quater Q, 360, 223 A, 53 A, 8, 238 bis L
+
+	**Créé par**:
+
+	  - Décret n°2007-726 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZU (M)
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
+
+###### Article 49 septies ZU
+
+Lorsque le titulaire du titre de maître restaurateur est dirigeant de plusieurs entreprises contrôlées dans le cadre de la
+délivrance de ce titre, le dépôt de la déclaration spéciale prévue à l'article 49 septies ZT emporte le choix de l'entreprise
+bénéficiaire du crédit d'impôt prévu à l'article 244 quater Q du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-726 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZT (V)
+	  - Code général des impôts, CGI. - art. 244 quater Q (V)
+
+
 ##### Section VI : Indemnités de congé payé
 
 ###### Article 49 octies
@@ -19762,9 +19916,9 @@ visées à cet alinéa lorsqu'elles constituent l'activité principale de ces pe
 
 ###### Article 72
 
-Pour bénéficier des avantages fiscaux prévus à l'article 298 septies du code général des impôts, les journaux et publications
-périodiques présentant un lien avec l'actualité, apprécié au regard de l'objet de la publication, doivent remplir les
-conditions suivantes :
+Les journaux et écrits périodiques présentant un lien direct avec l'actualité, apprécié au regard de l'objet de la
+publication et présentant un apport éditorial significatif, bénéficient des avantages fiscaux prévus à l'article 298 septies
+du code général des impôts s'ils remplissent les conditions suivantes :
 
 1° Avoir un caractère d'intérêt général quant à la diffusion de la pensée : instruction, éducation, information, récréation
 du public ;
@@ -19788,13 +19942,13 @@ marchandises ou de prestations de services n'ayant aucun lien avec l'objet princ
 Un arrêté conjoint du ministre chargé du budget, du ministre chargé de la communication et du ministre chargé des postes
 précise, en tant que de besoin, les modalités d'application de la présente disposition ;
 
-5° Avoir au plus les deux tiers de leur surface consacrés à la publicité, aux annonces judiciaires et légales et aux annonces
-classées sans que ces dernières excèdent la moitié de la surface totale ;
+5° Avoir au plus les deux tiers de leur surface consacrés aux annonces classées, sans que ces dernières excèdent la moitié de
+la surface totale, à la publicité et aux annonces judiciaires et légales ;
 
 6° N'être assimilables, malgré l'apparence de journaux ou de revues qu'elles pourraient présenter, à aucune des publications
 visées sous les catégories suivantes :
 
-a) Feuilles d'annonces, tracts, guides, prospectus, catalogues, almanachs ;
+a) Feuilles d'annonces, tracts, guides, prospectus, catalogues, almanachs, répertoires, index, lexiques ;
 
 b) Ouvrages publiés par livraison et dont la publication embrasse une période de temps limitée ou qui constituent le
 complément ou la mise à jour d'ouvrages déjà parus ; toutefois, ce complément ou cette mise à jour peut bénéficier des
@@ -19835,16 +19989,15 @@ Pour l'application du présent article, est considérée comme numéro spécial 
 périodique toute publication proposée au public en dehors de la parution normale, à l'occasion d'un événement ou d'une
 manifestation importante.
 
+8° N'être pas susceptible de choquer le lecteur par une représentation dégradante de la personne humaine portant atteinte à
+sa dignité et à la décence ou présentant sous un jour favorable la violence.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 298 septies
 	  - Loi n°1881-07-29 art. 7, art. 10
-
-	**Modifié par**:
-
-	  - Décret n°97-273 du 21 mars 1997 - art. 1 () JORF 23 mars 1997
 
 	**Cité par**:
 
@@ -19856,9 +20009,13 @@ manifestation importante.
 	  - Code de l'environnement - art. L541-10-1 (V)
 	  - Code général des impôts, CGI. - art. 298 septies (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - Décret n°2007-734 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article 73
@@ -19866,44 +20023,36 @@ manifestation importante.
 Sous réserve de répondre aux dispositions des 1°, 2° et 3° de l'article 72, de n'entrer dans aucune des catégories
 mentionnées aux a, b, c, d et e du 6° de ce même article et à condition qu'elles présentent un lien avec l'actualité et que
 la publicité et les annonces n'excèdent pas 20 % de la surface totale, peuvent bénéficier des avantages fiscaux prévus à
-l'article 298 septies du code général des impôts les publications suivantes :
+l'article 298 septies du code général des impôts les publications suivantes : 
 
-1° Les publications d'anciens combattants, mutilés ou victimes de guerre ;
+1° Les publications d'anciens combattants, mutilés ou victimes de guerre ; 
 
-2° Les publications d'information professionnelle éditées par les organisations syndicales représentatives de salariés ;
+2° Les publications d'information professionnelle éditées par les organisations syndicales représentatives de salariés ; 
 
 3° Les publications ayant pour objet essentiel de promouvoir une action ou une philosophie politique, qui ne sont pas éditées
-par ou pour le compte d'une personne morale de droit public ;
+par ou pour le compte d'une personne morale de droit public ; 
 
 4° Les publications éditées par les sociétés mutuelles régies par le code de la mutualité ainsi que celles éditées par les
-groupements constitués et fonctionnant conformément audit code ;
+groupements constitués et fonctionnant conformément audit code ; 
 
 5° Les publications, de diffusion nationale ou internationale, éditées par des organismes à but non lucratif et ayant pour
 objet de contribuer, à titre manifestement désintéressé, à lutter par des actions ou programmes, contre les atteintes ou
 menaces graves à la dignité, à la santé et à la vie humaines, sous réserve d'être destinées à un public large et diversifié
-et de faire appel au soutien du lecteur ;
+et de faire appel au soutien du lecteur ; 
 
 6° Les journaux scolaires publiés ou imprimés, sous la direction et la responsabilité des instituteurs ou des professeurs,
 dans le but d'éduquer les enfants et de renseigner sur la vie et le travail de l'école les parents d'élèves et les écoles
 correspondantes.
 
-Peuvent également bénéficier de ce régime les publications périodiques publiées par l'administration de l'Etat ou par les
-établissements publics de l'Etat, à l'exception de ceux qui ont un caractère industriel ou commercial.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 298 septies
-	  - CGIAN3 72
 
 	**Modifié par**:
 
-	  - Décret n°2006-359 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+	  - Décret n°2007-734 du 7 mai 2007 - art. 2 () JORF 8 mai 2007
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 72 (V)
 
 
 ##### C : Transports, opérations et services exonérés
@@ -34256,6 +34405,41 @@ le ministre chargé du budget l'invite à les produire.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2002
+
+
+#### Chapitre V : Fiducie
+
+###### Article 344 M
+
+La déclaration d'existence de la fiducie prévue à l'article 223 VH du code général des impôts est déposée dans les quinze
+jours de sa création auprès du service des impôts des entreprises du siège ou du lieu du principal établissement du
+fiduciaire ou, en cas de pluralité de fiduciaires, de celui expressément désigné dans le contrat de fiducie pour agir pour le
+compte de la fiducie. Lorsque le fiduciaire n'est pas domicilié en France, la déclaration d'existence est déposée auprès du
+service des impôts des non-résidents.
+
+La déclaration d'existence est établie sur un formulaire homologué conformément aux articles 371 AL et 371 AM de l'annexe II
+au code général des impôts. Elle comporte la dénomination exacte de la fiducie, les nom et adresse du fiduciaire ou, en cas
+de pluralité de fiduciaires, de celui expressément désigné dans le contrat de fiducie pour agir pour le compte de la fiducie,
+les noms et adresses des constituants de la fiducie, l'objet de la fiducie, et la date d'effet de l'événement objet de la
+formalité.
+
+La déclaration est signée par le fiduciaire ou, en cas de pluralité de fiduciaires, par celui expressément désigné dans le
+contrat de fiducie pour agir pour le compte de la fiducie ou de son mandataire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 VH
+	  - CGIAN2 371 AL, 371 AM
+
+	**Créé par**:
+
+	  - Décret n°2007-725 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ### Titre II : Dispositions diverses
