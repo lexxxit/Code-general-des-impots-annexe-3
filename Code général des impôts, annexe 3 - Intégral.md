@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-08-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8981,6 +8981,41 @@ intervient cet événement
 
 
 ##### XI : Dispositions communes aux différentes catégories de revenus
+
+###### Article 41-00 A ter
+
+L'état prévu au deuxième alinéa du IV de l'article 151 septies C du code général des impôts mentionne :
+
+a) La date de l'opération de cession à titre onéreux ;
+
+b) L'adresse de l'immeuble objet de la transmission dans lequel le fonds est exploité, le cas échéant la dénomination sociale
+et l'adresse de la société dont les droits ou parts sont cédés ;
+
+c) La désignation du cessionnaire ;
+
+d) Le montant des plus-values réalisées lors de la cession et dont l'imposition est reportée ;
+
+e) Le nombre d'années d'exploitation échues du bien mis à disposition de l'exploitant à compter de la cession et le solde de
+la plus-value encore imposable compte tenu de ce décompte.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 151 septies C
+
+	**Créé par**:
+
+	  - Décret n°2007-1179 du 3 août 2007 - art. 1 () JORF 5 août 2007
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 4
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
 
 ##### 1° : Informations complémentaires à joindre aux déclarations des contribuables relevant de la Direction des grandes entreprises
 
