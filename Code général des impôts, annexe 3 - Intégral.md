@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-09-15
+Version Consolidée au 2007-09-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6179,6 +6179,33 @@ résulte des dispositions précitées.
 
 
 ##### VI : Traitements, salaires, pensions et rentes viagères
+
+##### A : Heures supplémentaires et complémentaires
+
+###### Article 38 septdecies
+
+La durée minimale mentionnée au quatrième alinéa du III de l'article 81 quater du code général des impôts pendant laquelle
+les heures complémentaires, effectuées de manière régulière au sens du septième alinéa de l'article L. 212-4-3 du code du
+travail, doivent être intégrées à l'horaire contractuel de travail pour bénéficier de l'exonération d'impôt sur le revenu
+prévue aux I et du II de l'article 81 quater est fixée à six mois.
+
+La durée minimale de six mois mentionnée au premier alinéa est, le cas échéant, réduite à la durée restant à courir du
+contrat de travail si celle-ci lui est inférieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1380 du 24 septembre 2007 - art. 4 () JORF 25 septembre 2007
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
 
 ##### B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires
 
