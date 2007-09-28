@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-09-25
+Version Consolidée au 2007-09-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -26777,23 +26777,18 @@ modalités fixées par le directeur général des impôts.
 ###### Article 255
 
 L'extrait d'acte prévu à l'article 860 du code général des impôts est complété par un projet de liquidation détaillée des
-droits exigibles. Il comprend, le cas échéant, les mentions prévues au III de l'article 150 VG du code général des imp<cb>ts.
-
-</cb>
+droits exigibles. Il comprend, le cas échéant, les mentions prévues au III de l'article 150 VG et à la deuxième phrase du
+deuxième alinéa du IV de l'article 1529 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 860, 150 VG
+	  - CGI 860, 1529, 150 VG
 
 	**Modifié par**:
 
-	  - Décret n°2003-1386 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Décret n°2007-1394 du 27 septembre 2007 - art. 2 () JORF 29 septembre 2007
 
 
 ###### Article 256
