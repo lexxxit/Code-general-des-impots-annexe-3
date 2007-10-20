@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-10-05
+Version Consolidée au 2007-10-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -13940,6 +13940,117 @@ Article périmé en conséquence de la péremption de l'article 220 decies du co
 	**Cité par**:
 
 	  - Code rural et de la pêche maritime - art. R741-8-1 (Ab)
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
+
+##### Section VI septies : Crédit d'impôt pour le rachat du capital d'une société
+
+###### Article 46 quater-0 YX
+
+Pour l'application des dispositions de l'article 220 nonies du code général des impôts, le montant de l'impôt sur les
+sociétés dû retenu pour le calcul du crédit d'impôt s'entend de l'impôt sur les sociétés dû avant imputation des réductions
+et crédits d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 nonies (V)
+
+
+###### Article 46 quater-0 YY
+
+Les intérêts dus pris en compte dans le calcul du crédit d'impôt prévu à l'article 220 nonies du code général des impôts
+s'entendent de ceux qui viennent à échéance au cours de l'exercice au titre duquel le crédit d'impôt est calculé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 nonies (V)
+
+
+###### Article 46 quater-0 YZ
+
+Pour le calcul du crédit d'impôt prévu à l'article 220 nonies du code général des impôts, la proportion des droits sociaux
+que les salariés détiennent indirectement dans le capital de la société rachetée correspond à la proportion de droits sociaux
+détenus de manière continue au cours de l'exercice au titre duquel le crédit d'impôt est calculé. Pour le premier exercice au
+titre duquel le crédit d'impôt est calculé, cette proportion est appréciée au dernier jour de l'exercice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 nonies (V)
+
+
+###### Article 46 quater-0 YZA
+
+Pour l'application des dispositions de l'article 220 nonies du code général des impôts, les salariés s'entendent des
+personnes rémunérées directement par l'entreprise et titulaires d'un contrat de travail, à durée déterminée ou non, quelle
+que soit leur situation ou leur affectation et quelle que soit la nature du contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 nonies (V)
+
+
+###### Article 46 quater-0 YZB
+
+Pour l'application des dispositions des articles 220 nonies et 220 R du code général des impôts, les entreprises déposent une
+déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article 360
+auprès du comptable de la direction générale des impôts.
+
+S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
+société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 220 nonies, 220 R, 223 A
+	  - CGIAN3 360
+
+	**Créé par**:
+
+	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
+
+###### Article 46 quater-0 YZC
+
+Le crédit d'impôt prévu à l'article 220 nonies est imputé sur l'impôt dû après les prélèvements non libératoires et les
+autres crédits d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
 
 	**Codifié par**:
 
