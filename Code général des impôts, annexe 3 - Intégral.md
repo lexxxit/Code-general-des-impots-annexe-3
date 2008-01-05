@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2007-12-31
+Version Consolidée au 2008-01-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -29073,6 +29073,113 @@ l'administration avant le 1er janvier de l'année suivante.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2007
+
+
+##### 6° : Parcs nationaux situés dans les départements d'outre-mer
+
+###### Article 315 decies
+
+L'engagement de gestion prévu à l'article 1395 F du code général des impôts porte sur : 
+
+1° Le respect des objectifs de protection définis par la charte du parc national prévue par l'article L. 331-2 du code de
+l'environnement ; 
+
+2° Le respect de la réglementation relative aux activités agricoles, pastorales et forestières dont les modalités
+d'application sont définies par la charte mentionnée au 1°.
+
+**Nota:**
+
+En conséquence de l'article 26-I z duodecies et XI-6 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans
+objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-11 du 3 janvier 2008 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 315 undecies (P)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1395 F
+	  - Code de l'environnement - art. L331-2
+
+
+###### Article 315 duodecies
+
+Le directeur de l'établissement public du parc national s'assure du respect des engagements souscrits dans le cadre de
+l'engagement de gestion. A cet effet, les agents des services de l'Etat et de ses établissements publics habilités à
+constater les infractions conformément à la réglementation en vigueur peuvent procéder à des vérifications sur place. Ils
+informent le propriétaire et, le cas échéant, le preneur des parcelles faisant l'objet de l'engagement de gestion et leur
+proposent d'assister au contrôle. 
+
+Si, lors du contrôle, l'une des obligations prévues par l'engagement de gestion n'est pas respectée, ce constat fait l'objet
+d'un signalement au service des impôts du lieu de situation de la parcelle avant le 1er janvier de l'année suivant celle de
+la réalisation du contrôle.
+
+**Nota:**
+
+En conséquence de l'article 26-I z duodecies et XI-6 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans
+objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-11 du 3 janvier 2008 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
+
+
+###### Article 315 undecies
+
+L'engagement de gestion prévu par l'article 1395 F du code général des impôts comporte les éléments suivants : 
+
+1° L'identité et l'adresse du redevable de la taxe foncière sur les propriétés non bâties mentionné à l'article 1400 du même
+code et, le cas échéant, du preneur des parcelles faisant l'objet de l'engagement de gestion ; 
+
+2° Les références cadastrales, les natures de culture et de propriété définies dans l'instruction ministérielle du 31
+décembre 1908 et la contenance cadastrale des parcelles sur laquelle l'exonération de taxe foncière sur les propriétés non
+bâties est demandée ; 
+
+3° Les mesures de conservation à mettre en oeuvre en vue de respecter les engagements mentionnés à l'article 315 decies. Ces
+mesures de conservation sont définies pour chaque parcelle ou chaque groupe de parcelles pour lesquelles les objectifs de
+protection et les modalités d'application de la réglementation, respectivement mentionnés aux 1° et 2° de ce même article,
+sont identiques.
+
+**Nota:**
+
+En conséquence de l'article 26-I z duodecies et XI-6 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans
+objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-11 du 3 janvier 2008 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2008-11 du 3 janvier 2008 - art. 2 (V)
+
+	**Liens**:
+
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 315 decies (P)
+	  - Code général des impôts, CGI. - art. 1395 F
+	  - Code général des impôts, CGI. - art. 1400
 
 
 ##### b : Lieu d'imposition
