@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-01-06
+Version Consolidée au 2008-01-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6621,10 +6621,9 @@ conformément, respectivement, aux articles 224 et 1599 quinquies A du code gén
 défini aux articles 225 et 225 A du code général des impôts ; 
 
 e) Pour les employeurs assujettis à la participation au développement de la formation professionnelle continue conformément à
-l'article L. 952-1 du code du travail
-, le montant des rémunérations défini au premier alinéa de l'article L. 952-1 précité ainsi que, le cas échéant, le montant
-des rémunérations versées aux titulaires d'un contrat à durée déterminée défini au premier alinéa de l'article L. 931-20 du
-même code ; 
+l'article L. 952-1 du code du travail, le montant des rémunérations défini au premier alinéa de l'article L. 952-1 précité
+ainsi que, le cas échéant, le montant des rémunérations versées aux titulaires d'un contrat à durée déterminée défini au
+premier alinéa de l'article L. 931-20 du même code ; 
 
 2° Concernant chaque salarié rétribué l'année précédente : 
 
@@ -6640,6 +6639,9 @@ et catégories socioprofessionnelles) ;
 d) Le montant des sommes payées pendant l'année en distinguant : 
 
 le montant brut des rémunérations entendu au sens des articles 231 et suivants du code général des impôts ; 
+
+Le montant des salaires et éléments de rémunération afférent aux heures supplémentaires et complémentaires exonéré en
+application de l'article 81 quater du code général des impôts ; 
 
 le total des versements en argent et en nature après déduction des cotisations ouvrières aux assurances sociales et au
 chômage et des retenues pour la retraite ; 
@@ -6691,27 +6693,15 @@ cours d'année en nombre d'heures rémunérées ;
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2008-64 du 17 janvier 2008 - art. 1
+
 	**Cité par**:
 
 	  - Arrêté du 19 février 2010 - art. 3 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39-0 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 M bis (V)
-
-	**Cite**:
-
-	  - CGI 87, 231, 182 A, 83, 81
-	  - Code général des impôts, CGI. - art. 1599 quinquies A
-	  - Code général des impôts, CGI. - art. 224
-	  - Code général des impôts, CGI. - art. 225
-	  - Code général des impôts, CGI. - art. 225 A
-	  - Code du travail - art. L443-1-2
-	  - Code du travail - art. L931-20
-	  - Code du travail - art. L952-1
-	  - Code de la sécurité sociale. - art. L136-2
-
-	**Modifié par**:
-
-	  - Décret n°2007-1887 du 26 décembre 2007 - art. 1
 
 
 ###### Article 39 A
@@ -6803,22 +6793,18 @@ formulaires normalisés, dont les caractéristiques et le modèle sont fixés pa
 
 Les employeurs tenus au dépôt de la déclaration mentionnée à l'article 87 du code général des impôts communiquent dans le
 même délai aux personnes concernées les montants des cotisations ou primes et des sommes mentionnés respectivement aux
-huitième et neuvième alinéas du d du 2° de l'article 39.
+neuvième et dixième alinéas du d du 2° de l'article 39.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2008-64 du 17 janvier 2008 - art. 2
+
 	**Cite**:
 
-	  - CGI 87
-	  - CGIAN3 39
-
-	**Créé par**:
-
-	  - Décret n°2004-1546 du 30 décembre 2004 - art. 1 () JORF 1er janvier 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 87 (V)
 
 
 ##### Déclaration annuelle de données sociales
