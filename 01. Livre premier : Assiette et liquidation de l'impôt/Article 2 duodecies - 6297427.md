@@ -1,135 +1,228 @@
 # Article 2 duodecies
 
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
-ressources du locataire sont les suivants :
+ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2007, les plafonds de loyer mensuel, charges non comprises, sont fixés à 16,35 euros par mètre
-carré en zone A, 10,68 euros en zone B et 7,73 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
+a) Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non comprises, sont fixés à 16,81 euros par mètre
+carré en zone A,10,98 euros en zone B et 7,95 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
 la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et
 des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro
-supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence.
+supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
-logement.
+logement. 
 
 La surface à prendre en compte pour l'appréciation du plafond de loyer s'entend de la surface habitable au sens de l'article
 R. 111-2 du code de la construction et de l'habitation, augmentée de la moitié, dans la limite de 8 mètres carrés par
-logement, de la surface des annexes mentionnées aux articles R. 353-16 et R. 331-10 du même code ;
+logement, de la surface des annexes mentionnées aux articles R. 353-16 et R. 331-10 du même code ; 
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
-signature du contrat de location.
+signature du contrat de location. 
 
-Pour les baux conclus en 2007, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2008, les plafonds annuels de ressources sont les suivants : 
 
-COMPOSITION du foyer locataire :
+<table>
+    <tbody>
+      <tr>
+        <th colspan="4">
 
-Personne seule
+LIEU DE LOCATION 
 
-LIEU DE LA LOCATION
+</th>
+      </tr>
+      <tr>
+        <th>
 
-Zone A : 33 233 euros
+COMPOSITION DU FOYER LOCATAIRE 
 
-Zone B : 25 685 euros
+</th>
+        <th>
 
-Zone C : 22 475 euros
+ZONE A 
 
-COMPOSITION du foyer locataire :
+(en euros) 
 
-Couple
+</th>
+        <th>
 
-LIEU DE LA LOCATION
+ZONE B 
 
-Zone A : 49 668 euros
+(en euros) 
 
-Zone B : 34 298 euros
+</th>
+        <th>
 
-Zone C : 30 209 euros
+ZONE C 
 
-COMPOSITION du foyer locataire :
+(en euros) 
 
-Personne seule ou couple ayant une personne à charge
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-LIEU DE LA LOCATION
+Personne seule. 
 
-Zone A : 59 704 euros
+</td>
+        <td align="center">
 
-Zone B : 41 246 euros
+42 396 
 
-Zone C : 36 165 euros
+</td>
+        <td align="center">
 
-COMPOSITION du foyer locataire :
+32 767 
 
-Personne seule ou couple ayant deux personnes à charge
+</td>
+        <td align="center">
 
-LIEU DE LA LOCATION
+28 672 
 
-Zone A : 71 516 euros
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-Zone B : 49 792 euros
+Couple. 
 
-Zone C : 43 768 euros
+</td>
+        <td align="center">
 
-COMPOSITION du foyer locataire :
+63 362 
 
-Personne seule ou couple ayant trois personnes à charge
+</td>
+        <td align="center">
 
-LIEU DE LA LOCATION
+43 755 
 
-Zone A : 84 661 euros
+</td>
+        <td align="center">
 
-Zone B : 58 573 euros
+38 538 
 
-Zone C : 51 370 euros
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-COMPOSITION du foyer locataire :
+Personne seule ou couple ayant une personne à charge. 
 
-Personne seule ou couple ayant quatre personnes à charge
+</td>
+        <td align="center">
 
-LIEU DE LA LOCATION
+76 165 
 
-Zone A : 95 267 euros
+</td>
+        <td align="center">
 
-Zone B : 66 009 euros
+52 618 
 
-Zone C : 57 946 euros
+</td>
+        <td align="center">
 
-COMPOSITION du foyer locataire :
+46 136 
 
-Majoration par personne à charge à partir de la cinquième
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-LIEU DE LA LOCATION
+Personne seule ou couple ayant deux personnes à charge. 
 
-Zone A : + 10 617 euros
+</td>
+        <td align="center">
 
-Zone B : + 7 362 euros
+91 234 
 
-Zone C : + 6 580 euros
+</td>
+        <td align="center">
+
+63 520 
+
+</td>
+        <td align="center">
+
+55 835 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant trois personnes à charge. 
+
+</td>
+        <td align="center">
+
+108 003 
+
+</td>
+        <td align="center">
+
+74 722 
+
+</td>
+        <td align="center">
+
+65 533 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge. 
+
+</td>
+        <td align="center">
+
+121 533 
+
+</td>
+        <td align="center">
+
+84 208 
+
+</td>
+        <td align="center">
+
+73 922 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Majoration par personne à charge à partir de la cinquième. 
+
+</td>
+        <td align="center">
+
++ 13 545 
+
+</td>
+        <td align="center">
+
++ 9 392 
+
+</td>
+        <td align="center">
+
++ 8 395 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
-Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
+Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 31, 1417, 196 à 196 B
-	  - Code de la construction et de l'habitation R111-2, R353-16, R331-10
-	  - Code de la construction et de l'habitation. - art. R331-10 (M)
-	  - Code de la construction et de l'habitation. - art. R353-16 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2006-1005 2006-08-10 art. 1 A, D JORF 11 août 2006
-	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -149,6 +242,14 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies B (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1417 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 196 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-2
+	  - Code de la construction et de l'habitation. - art. R353-16 (V)

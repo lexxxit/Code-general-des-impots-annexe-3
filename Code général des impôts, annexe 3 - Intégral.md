@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-01-20
+Version Consolidée au 2008-02-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -66,135 +66,228 @@ montant, ainsi que la désignation des immeubles sur lesquels ils sont réalisé
 ###### Article 2 duodecies
 
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
-ressources du locataire sont les suivants :
+ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2007, les plafonds de loyer mensuel, charges non comprises, sont fixés à 16,35 euros par mètre
-carré en zone A, 10,68 euros en zone B et 7,73 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
+a) Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non comprises, sont fixés à 16,81 euros par mètre
+carré en zone A,10,98 euros en zone B et 7,95 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
 la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et
 des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro
-supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence.
+supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
-logement.
+logement. 
 
 La surface à prendre en compte pour l'appréciation du plafond de loyer s'entend de la surface habitable au sens de l'article
 R. 111-2 du code de la construction et de l'habitation, augmentée de la moitié, dans la limite de 8 mètres carrés par
-logement, de la surface des annexes mentionnées aux articles R. 353-16 et R. 331-10 du même code ;
+logement, de la surface des annexes mentionnées aux articles R. 353-16 et R. 331-10 du même code ; 
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
-signature du contrat de location.
+signature du contrat de location. 
 
-Pour les baux conclus en 2007, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2008, les plafonds annuels de ressources sont les suivants : 
 
-COMPOSITION du foyer locataire :
+<table>
+    <tbody>
+      <tr>
+        <th colspan="4">
 
-Personne seule
+LIEU DE LOCATION 
 
-LIEU DE LA LOCATION
+</th>
+      </tr>
+      <tr>
+        <th>
 
-Zone A : 33 233 euros
+COMPOSITION DU FOYER LOCATAIRE 
 
-Zone B : 25 685 euros
+</th>
+        <th>
 
-Zone C : 22 475 euros
+ZONE A 
 
-COMPOSITION du foyer locataire :
+(en euros) 
 
-Couple
+</th>
+        <th>
 
-LIEU DE LA LOCATION
+ZONE B 
 
-Zone A : 49 668 euros
+(en euros) 
 
-Zone B : 34 298 euros
+</th>
+        <th>
 
-Zone C : 30 209 euros
+ZONE C 
 
-COMPOSITION du foyer locataire :
+(en euros) 
 
-Personne seule ou couple ayant une personne à charge
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-LIEU DE LA LOCATION
+Personne seule. 
 
-Zone A : 59 704 euros
+</td>
+        <td align="center">
 
-Zone B : 41 246 euros
+42 396 
 
-Zone C : 36 165 euros
+</td>
+        <td align="center">
 
-COMPOSITION du foyer locataire :
+32 767 
 
-Personne seule ou couple ayant deux personnes à charge
+</td>
+        <td align="center">
 
-LIEU DE LA LOCATION
+28 672 
 
-Zone A : 71 516 euros
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-Zone B : 49 792 euros
+Couple. 
 
-Zone C : 43 768 euros
+</td>
+        <td align="center">
 
-COMPOSITION du foyer locataire :
+63 362 
 
-Personne seule ou couple ayant trois personnes à charge
+</td>
+        <td align="center">
 
-LIEU DE LA LOCATION
+43 755 
 
-Zone A : 84 661 euros
+</td>
+        <td align="center">
 
-Zone B : 58 573 euros
+38 538 
 
-Zone C : 51 370 euros
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-COMPOSITION du foyer locataire :
+Personne seule ou couple ayant une personne à charge. 
 
-Personne seule ou couple ayant quatre personnes à charge
+</td>
+        <td align="center">
 
-LIEU DE LA LOCATION
+76 165 
 
-Zone A : 95 267 euros
+</td>
+        <td align="center">
 
-Zone B : 66 009 euros
+52 618 
 
-Zone C : 57 946 euros
+</td>
+        <td align="center">
 
-COMPOSITION du foyer locataire :
+46 136 
 
-Majoration par personne à charge à partir de la cinquième
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-LIEU DE LA LOCATION
+Personne seule ou couple ayant deux personnes à charge. 
 
-Zone A : + 10 617 euros
+</td>
+        <td align="center">
 
-Zone B : + 7 362 euros
+91 234 
 
-Zone C : + 6 580 euros
+</td>
+        <td align="center">
+
+63 520 
+
+</td>
+        <td align="center">
+
+55 835 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant trois personnes à charge. 
+
+</td>
+        <td align="center">
+
+108 003 
+
+</td>
+        <td align="center">
+
+74 722 
+
+</td>
+        <td align="center">
+
+65 533 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge. 
+
+</td>
+        <td align="center">
+
+121 533 
+
+</td>
+        <td align="center">
+
+84 208 
+
+</td>
+        <td align="center">
+
+73 922 
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Majoration par personne à charge à partir de la cinquième. 
+
+</td>
+        <td align="center">
+
++ 13 545 
+
+</td>
+        <td align="center">
+
++ 9 392 
+
+</td>
+        <td align="center">
+
++ 8 395 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
-Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente.
+Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 31, 1417, 196 à 196 B
-	  - Code de la construction et de l'habitation R111-2, R353-16, R331-10
-	  - Code de la construction et de l'habitation. - art. R331-10 (M)
-	  - Code de la construction et de l'habitation. - art. R353-16 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2006-1005 2006-08-10 art. 1 A, D JORF 11 août 2006
-	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
 
 	**Cité par**:
 
@@ -214,9 +307,17 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies B (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1417 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 196 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
+	  - Code de la construction et de l'habitation. - art. R*111-2
+	  - Code de la construction et de l'habitation. - art. R353-16 (V)
 
 
 ###### Article 2 duodecies A
@@ -1180,51 +1281,43 @@ signature du contrat de sous-location.
 ###### Article 2 terdecies
 
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
-de ressources du locataire sont les suivants :
+de ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2007 les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 14,65 euros par mètre carré en zone I bis, 12,97 euros en zone I, 10,01 euros en zone II et 9,44 euros en zone
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2008 les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 15,06 euros par mètre carré en zone I bis,13,33 euros en zone I,10,29 euros en zone II et 9,71 euros en zone
 III. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à
-l'article 2 duodecies.
+l'article 2 duodecies. 
 
 Pour l'application du présent article, les zones I bis à III sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
-l'application de l'article 2 duodecies ;
+l'application de l'article 2 duodecies ; 
 
 b) Les ressources du locataire s'apprécient de la même façon que pour l'application de l'article 2 duodecies.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 31
-	  - CGIAN3 2 duodecies
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
+	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 duodecies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
 
 ###### Article 2 terdecies A
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts dans sa rédaction en
 vigueur avant la publication de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, les
-plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2007, à 20,45 euros par mètre carré en
-zone A, 14,21 euros en zone B et 10,22 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les
-mêmes modalités que les plafonds de loyer prévus à l'article 2 duodecies.
+plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2008, à 21,02 euros par mètre carré en
+zone A,14,61 euros en zone B et 10,51 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les
+mêmes modalités que les plafonds de loyer prévus à l'article 2 duodecies. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
@@ -1241,30 +1334,21 @@ l'application de l'article 2 duodecies.
 
 	**Cite**:
 
-	  - CGI 31
-	  - CGIAN3 2 duodecies
-	  - Loi n°2006-872 2006-07-13
+	  - Loi n°2006-872 du 13 juillet 2006 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 duodecies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
 
 
 ###### Article 2 terdecies B
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
-mensuel, charges non comprises, sont fixés, pour les baux conclus en 2007, à 20,45 euros par mètre carré en zone A, 14,21
-euros en zone B 1, 11,62 euros en zone B 2 et 8,52 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier,
-selon les mêmes modalités que les plafonds de loyer prévus à l'article 2 duodecies.
+mensuel, charges non comprises, sont fixés, pour les baux conclus en 2008, à 21,02 euros par mètre carré en zone A,14,61
+euros en zone B 1,11,95 euros en zone B 2 et 8,76 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier,
+selon les mêmes modalités que les plafonds de loyer prévus à l'article 2 duodecies. 
 
 Pour l'application du présent article, les zones A, B 1, B 2 et C sont définies par arrêté des ministres chargés du budget et
 du logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
@@ -1285,224 +1369,279 @@ l'application de l'article 2 duodecies.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (M)
 
-	**Cite**:
-
-	  - CGI 31
-	  - CGIAN3 2 duodecies
-
-	**Créé par**:
-
-	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 duodecies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
 
 
 ###### Article 2 terdecies C
 
 Pour l'application du l du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du
-locataire sont les suivants :
+locataire sont les suivants : 
 
-a. Pour les baux conclus en 2007, les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes,
-arrondis au centime d'euro supérieur, de ceux mentionnés au premier alinéa de l'article 2 terdecies B.
+a. Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes,
+arrondis au centime d'euro supérieur, de ceux mentionnés au premier alinéa de l'article 2 terdecies B. 
 
 Pour l'application du présent article, les zones A, B1, B2 et C sont définies par arrêté des ministres chargés du budget et
 du logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
-l'application de l'article 2 duodecies ;
+l'application de l'article 2 duodecies ; 
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
-signature du contrat de location.
+signature du contrat de location. 
 
-Pour les baux conclus en 2007, les plafonds annuels de ressources sont les suivants :
+Pour les baux conclus en 2008, les plafonds annuels de ressources sont les suivants : 
 
-COMPOSITION DU FOYER LOCATAIRE :
+<table>
+    <tbody>
+      <tr>
+        <th colspan="5">LIEU DE LOCATION 
 
-Personne seule.
+</th>
+      </tr>
+      <tr>
+        <th>
 
-LIEU DE LOCATION :
+COMPOSITION DU FOYER LOCATAIRE 
 
-Zone A :
+</th>
+        <th>
 
-33 233 euros
+ZONE A 
 
-Zone B1 :
+(en euros) 
 
-24 685 euros
+</th>
+        <th>
 
-Zone B2 :
+ZONE B1 
 
-22 628 euros
+(en euros) 
 
-Zone C :
+</th>
+        <th>
 
-22 475 euros
+ZONE B2 
 
-COMPOSITION DU FOYER LOCATAIRE :
+(en euros) 
 
-Couple.
+</th>
+        <th>
 
-LIEU DE LOCATION :
+ZONE C 
 
-Zone A :
+(en euros) 
 
-49 668 euros
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-Zone B1 :
+Personne seule. 
 
-36 250 euros
+</td>
+        <td align="center">
 
-Zone B2 :
+42 396 
 
-33 230 euros
+</td>
+        <td align="center">
 
-Zone C :
+31 491 
 
-30 209 euros
+</td>
+        <td align="center">
 
-COMPOSITION DU FOYER LOCATAIRE :
+28 867 
 
-Personne seule ou couple ayant une personne à charge.
+</td>
+        <td align="center">
 
-LIEU DE LOCATION :
+28 672 
 
-Zone A :
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-59 704 euros
+Couple. 
 
-Zone B1 :
+</td>
+        <td align="center">
 
-43 398 euros
+63 362 
 
-Zone B2 :
+</td>
+        <td align="center">
 
-39 782 euros
+46 245 
 
-Zone C :
+</td>
+        <td align="center">
 
-36 165 euros
+42 392 
 
-COMPOSITION DU FOYER LOCATAIRE :
+</td>
+        <td align="center">
 
-Personne seule ou couple ayant deux personnes à charge.
+38 538 
 
-LIEU DE LOCATION :
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-Zone A :
+Personne seule ou couple ayant une personne à charge. 
 
-71 516 euros
+</td>
+        <td align="center">
 
-Zone B1 :
+76 165 
 
-52 521 euros
+</td>
+        <td align="center">
 
-Zone B2 :
+55 363 
 
-48 145 euros
+</td>
+        <td align="center">
 
-Zone C :
+50 750 
 
-43 768 euros
+</td>
+        <td align="center">
 
-COMPOSITION DU FOYER LOCATAIRE :
+46 136 
 
-Personne seule ou couple ayant trois personnes à charge.
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-LIEU DE LOCATION :
+Personne seule ou couple ayant deux personnes à charge. 
 
-Zone A :
+</td>
+        <td align="center">
 
-84 661 euros
+91 234 
 
-Zone B1 :
+</td>
+        <td align="center">
 
-61 644 euros
+67 002 
 
-Zone B2 :
+</td>
+        <td align="center">
 
-56 507 euros
+61 419 
 
-Zone C :
+</td>
+        <td align="center">
 
-51 370 euros
+55 835 
 
-COMPOSITION DU FOYER LOCATAIRE :
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-Personne seule ou couple ayant quatre personnes à charge.
+Personne seule ou couple ayant trois personnes à charge. 
 
-LIEU DE LOCATION :
+</td>
+        <td align="center">
 
-Zone A :
+108 003 
 
-95 267 euros
+</td>
+        <td align="center">
 
-Zone B1 :
+78 640 
 
-69 535 euros
+</td>
+        <td align="center">
 
-Zone B2 :
+72 087 
 
-63 740 euros
+</td>
+        <td align="center">
 
-Zone C :
+65 533 
 
-57 946 euros
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-COMPOSITION DU FOYER LOCATAIRE :
+Personne seule ou couple ayant quatre personnes à charge. 
 
-Majoration par personne à charge supplémentaire à partir de la cinquième :
+</td>
+        <td align="center">
 
-LIEU DE LOCATION :
+121 533 
 
-Zone A :
+</td>
+        <td align="center">
 
-+ 10 617 euros
+88 706 
 
-Zone B1 :
+</td>
+        <td align="center">
 
-+ 7 897 euros
+81 314 
 
-Zone B2 :
+</td>
+        <td align="center">
 
-+ 7 239 euros
+73 922 
 
-Zone C :
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
-+ 6 580 euros
+Majoration par personne à charge à partir de la cinquième. 
+
+</td>
+        <td align="center">
+
+13 545 
+
+</td>
+        <td align="center">
+
+10 075 
+
+</td>
+        <td align="center">
+
+9 235 
+
+</td>
+        <td align="center">
+
+8 395 
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
-l'article 2 duodecies.
+l'article 2 duodecies. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 31, 1417, 196 à 196 B
-	  - CGIAN3 2 terdecies B, 2 duodecies,
-
-	**Créé par**:
-
-	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 3 () JORF 31 mars 2007
+	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
 
 	**Cité par**:
 
@@ -1513,9 +1652,12 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (M)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 18-0 ter (T)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 duodecies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1417 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 196 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
 
 
 ###### Article 2 vicies
