@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-02-01
+Version Consolidée au 2008-02-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -22850,34 +22850,80 @@ fiscales et les représenter à toute demande des agents de l'administration des
 
 Le montant de la majoration mentionnée au VI de l'article 302 bis K du code général des impôts est fixé comme suit :
 
-Passagers embarqués à destination de la France, d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie
-à l'accord sur l'Espace économique européen
+<table>
+  <tbody>
+    <tr>
+      <td width="378">
 
-PASSAGERS POUVANT bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne peut accéder
-gratuitement : 10 euros
+</td>
+      <td width="227">
 
-AUTRES passagers : 1 euro
+PASSAGERS POUVANT
+
+bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne peut accéder gratuitement
+
+</td>
+      <td width="76">
+
+AUTRES passagers
+
+</td>
+    </tr>
+    <tr>
+      <td width="378" valign="top">
+
+Passagers embarqués à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à
+l'accord sur l'Espace économique européen ou de la Confédération suisse
+
+</td>
+      <td width="227" valign="top">
+
+10 €
+
+</td>
+      <td width="76" valign="top">
+
+1 €
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="378">
 
 Passagers embarqués à destination d'un autre Etat
 
-PASSAGERS POUVANT bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne peut accéder
-gratuitement : 40 euros
+</td>
+      <td valign="top" width="227">
 
-AUTRES passagers : 4 euros
+40 €
+
+</td>
+      <td valign="top" width="76">
+
+4 €
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 108-I [1°] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 302 bis K
-
-	**Créé par**:
-
-	  - Décret n°2006-663 du 6 juin 2006 - art. 1 () JORF 8 juin 2006 en vigueur le 1er juillet 2006
+	  - Décret n°2008-173 du 22 février 2008 - art. 1
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 bis K
 
 
 #### Chapitre III 
