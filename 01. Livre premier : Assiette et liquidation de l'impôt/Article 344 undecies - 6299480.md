@@ -2,27 +2,21 @@
 
 Les conventions d'assurance couvrant à titre principal les dommages aux biens mentionnés à l'article L. 361-5 du code rural
 et dont les primes ou cotisations sont soumises aux contributions prévues par l'article 1635 bis A du code général des impôts
-sont définies par le premier alinéa de l'article D. 361-52 du code rural.
+sont définies par l'article D. 361-1-1 du code rural.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 1er-I-2° du décret n° 2007-72 du 19 janvier 2007, et de l'article 2-III du
+décret n° 2007-592 du 24 avril 2007.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGIAN2 326
-
-	**Créé par**:
-
-	  - Décret n°2006-926 du 19 juillet 2006 - art. 1 () JORF 28 juillet 2006
-	  - Décret n°2006-926 du 19 juillet 2006 - art. 3 (V) JORF 28 juillet 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
 	**Modifié par**:
 
-	  - Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 1635 bis A
+	  - Code rural - art. D361-1-1
+	  - Code rural - art. L361-5

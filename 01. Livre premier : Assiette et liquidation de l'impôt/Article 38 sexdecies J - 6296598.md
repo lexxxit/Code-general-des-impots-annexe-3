@@ -1,71 +1,82 @@
 # Article 38 sexdecies J
 
-I. - Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de
-crédit conformément aux dispositions du I de l'article 72 D bis du code général des impôts sont les suivants :
+I.-Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de
+crédit conformément aux dispositions du I de l'article 72 D bis du code général des impôts sont les suivants : 
 
-1° Aléas climatiques et naturels ayant affecté l'exploitation :
+1° Aléas climatiques et naturels ayant affecté l'exploitation : 
 
-a) Sinistre, constaté dans les conditions prévues à l'article R. 361-42 du code rural ;
+a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code rural ; 
 
-b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-3 du code rural ;
+b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-3 du code rural ; 
 
-c) Catastrophe naturelle, constatée dans les conditions prévues à l'article L. 125-1 du code des assurances ;
+c) Catastrophe naturelle, constatée dans les conditions prévues à l'article L. 125-1 du code des assurances ; 
 
-2° Aléas sanitaires :
+2° Aléas sanitaires : 
 
 a) Maladie ou suspicion de maladie des animaux de l'exploitation ayant fait l'objet d'un arrêté portant déclaration
 d'infection en application de l'article L. 223-8 du code rural ou d'une indemnisation prévue à l'article L. 221-2 du code
-rural ;
+rural ; 
 
 b) Evénement ayant justifié l'application sur les productions animales ou végétales de l'exploitant de mesures de police
-administrative prévues aux articles L. 234-4, L. 251-2 et L. 251-9 du code rural ;
+administrative prévues aux articles L. 234-4, L. 251-2 et L. 251-9 du code rural ; 
 
 c) Evénement ayant justifié l'application, sur l'exploitation conchylicole, de mesures de police sanitaire prévues par
-l'article D. 236-14 du code rural ou de mesures sanitaires prévues par l'article D. 231-39 du même code ;
+l'article D. 236-14 du code rural ou de mesures sanitaires prévues par l'article D. 231-39 du même code ; 
 
-3° Aléas familiaux :
+3° Aléas familiaux : 
 
 a) Divorce ou invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L.
-341-4 du code de la sécurité sociale de l'exploitant ou de son conjoint travaillant sur l'exploitation ;
+341-4 du code de la sécurité sociale de l'exploitant ou de son conjoint travaillant sur l'exploitation ; 
 
 b) Invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du
-code de la sécurité sociale ou décès des autres membres de la famille de l'exploitant travaillant sur l'exploitation ;
+code de la sécurité sociale ou décès des autres membres de la famille de l'exploitant travaillant sur l'exploitation ; 
 
-4° Aléas économiques :
+4° Aléas économiques : 
 
-a) Reconversion d'activité par suite d'un changement très important de production ;
+a) Reconversion d'activité par suite d'un changement très important de production ; 
 
 b) Résiliation ou non-renouvellement du bail de l'exploitant dans les circonstances prévues aux articles L. 411-30 à L.
-411-34 et L. 411-58 du code rural ;
+411-34 et L. 411-58 du code rural ; 
 
 c) Expropriation pour cause d'utilité publique ou cession amiable antérieure à la déclaration d'utilité publique lorsque le
-bien cédé est inclus dans l'expropriation par une ordonnance de donné acte ;
+bien cédé est inclus dans l'expropriation par une ordonnance de donné acte ; 
 
 d) Suspension, retrait ou modification de l'autorisation d'exploitation de cultures marines pour motif d'utilité publique ou
 pour motif d'insalubrité non imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines, en application
-de l'article 15 du décret n° 83-228 du 22 mars 1983 modifié ;
+de l'article 15 du décret n° 83-228 du 22 mars 1983 modifié ; 
 
-e. Augmentation du coût de l'énergie de plus de 5 % par rapport au prix moyen de l'année précédente ;
+e. Augmentation du coût de l'énergie de plus de 5 % par rapport au prix moyen de l'année précédente ; 
 
 5° Aléas couverts par une assurance : événement, ayant affecté l'exploitation, qui a entraîné une indemnisation par une
-police d'assurance de dommages aux biens ou pour perte d'exploitation souscrite par l'exploitant.
+police d'assurance de dommages aux biens ou pour perte d'exploitation souscrite par l'exploitant. 
 
-II. - Peut également autoriser l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit
+II.-Peut également autoriser l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit
 conformément aux dispositions de l'article 72 D bis du code général des impôts tout autre aléa d'origine naturelle,
 climatique, sanitaire ou économique, déclaré par l'exploitant et autre que ceux prévus au I, sous réserve qu'il soit suivi
 d'une baisse du résultat excédant 10 % de la moyenne des résultats des trois exercices précédents. Pour le calcul de cette
 moyenne, il n'est pas tenu compte des reports déficitaires.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 2-II du décret n° 2007-592 du 24 avril 2007.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°83-228 du 22 mars 1983 - art. 15
+	  - Code général des impôts, CGI. - art. 72 D bis
+	  - Code rural - art. L221-2
+	  - Code rural - art. L223-8
+	  - Code rural - art. L234-4
+	  - Code rural - art. L251-2
+	  - Code rural - art. L361-3
+	  - Code rural - art. L411-30
+	  - Code rural - art. L411-58
+	  - Code rural - art. R361-41
+	  - Code de la sécurité sociale. - art. L341-4
+	  - Code des assurances - art. L125-1
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 2006-06-30 art. 67 IV Finances rectificative pour 2006 JORF 31 décembre 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3

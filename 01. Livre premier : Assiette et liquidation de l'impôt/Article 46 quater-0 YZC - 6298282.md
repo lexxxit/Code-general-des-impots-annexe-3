@@ -1,14 +1,14 @@
 # Article 46 quater-0 YZC
 
-Le crédit d'impôt prévu à l'article 220 nonies est imputé sur l'impôt dû après les prélèvements non libératoires et les
-autres crédits d'impôt.
+Le crédit d'impôt prévu à l'article 220 nonies du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 220 nonies
