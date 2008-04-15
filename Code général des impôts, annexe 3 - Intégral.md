@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-04-12
+Version Consolidée au 2008-04-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -28326,6 +28326,90 @@ régime de faveur est demandé, lorsqu'elle n'est pas tenue de déposer une déc
 	  - HISTO: Edition du 1er janvier 2007
 
 
+###### Article 299 octies
+
+I.-1. La société de gestion d'un fonds d'investissement de proximité mentionné à l'article L. 214-41-1 du code monétaire et
+financier ou d'un fonds commun de placement dans l'innovation mentionné à l'article L. 214-41 du même code ou d'un fonds
+commun de placement à risque mentionné à l'article L. 214-36 du même code ou le dépositaire des actifs de ces fonds agissant
+pour le compte de la société de gestion est soumis aux obligations définies aux I à III de l'article 46 AI ter lorsque les
+souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III
+de l'article 885-0 V bis du code général des impôts.
+
+2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, avant la date limite de dépôt de la
+déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux souscripteurs qui entendent
+bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de l'article 885-0 V bis du code précité, un
+état individuel qui mentionne : 
+
+a. L'objet pour lequel il est établi : application du III de l'article 885-0 V bis du code précité ; 
+
+b. La dénomination du fonds, la raison sociale et l'adresse de la société de gestion ; 
+
+c. L'identité et l'adresse du souscripteur ; 
+
+d. Le nombre de parts souscrites, le montant et la date de leur souscription ; 
+
+e. La date et le montant des versements effectués au titre de leur souscription. 
+
+Cet état précise que les conditions mentionnées aux articles L. 214-41-1, L. 214-41 ou L. 214-36 du code monétaire et
+financier et au 1 du III de l'article 885-0 V bis du code général des impôts sont satisfaites. 
+
+3. La société de gestion du fonds ou le dépositaire des actifs du fonds isole dans un compte spécial les parts dont la
+souscription ouvre droit au bénéfice de la réduction d'impôt de solidarité sur la fortune. Il tient ce compte jusqu'à
+l'expiration de la cinquième année qui suit celle de la souscription. 
+
+4. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du fonds sont cédées ou rachetées ou lorsque,
+dans ce même délai, l'une des conditions prévues aux articles L. 214-41-1, L. 214-41 ou L. 214-36 du code monétaire et
+financier et au III de l'article 885-0 V bis du code général des impôts cesse d'être satisfaite, la société de gestion du
+fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction des services fiscaux dans le
+ressort de laquelle est souscrite sa déclaration de résultat, un état individuel qui comprend, outre les informations
+mentionnées au 2, le nombre des parts cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas
+échéant, la nature de la condition qui cesse d'être satisfaite. 
+
+Cet état doit être délivré avant la date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la
+cession ou le rachat des parts ou le non-respect de l'une des conditions prévues aux articles L. 214-41-1, L. 214-41 ou L.
+214-36 du code monétaire et financier. 
+
+II.-A chaque inventaire semestriel, la société de gestion d'un fonds d'investissement de proximité, d'un fonds commun de
+placement dans l'innovation ou d'un fonds commun de placement à risque ou le dépositaire des actifs du fonds agissant pour le
+compte de la société de gestion s'assure que les sociétés dont les titres ou avances en compte courant sont retenus pour le
+calcul des proportions mentionnées aux articles L. 214-41-1, L. 214-41 ou L. 214-36 du code monétaire et financier satisfont,
+à la date de clôture de leur dernier exercice précédant l'inventaire, aux conditions mentionnées à ces articles. 
+
+Il s'assure également que les sociétés dont les titres sont retenus pour le calcul du pourcentage mentionné au c du 1 du III
+de l'article 885-0 V bis du code général des impôts satisfont aux conditions mentionnées aux a à e ou aux a à h du 1 du I de
+l'article 885-0 V bis du code précité. 
+
+La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la clôture de chaque exercice, à la direction des
+services fiscaux dont il relève, un état de chacun des inventaires semestriels de l'actif du fonds mentionnés au premier
+alinéa, à l'appui du bilan et du compte de résultats. 
+
+III.-1. L'engagement de conservation des parts prévu au 1 du III de l'article 885-0 V bis du code précité est constaté par un
+document, établi en double exemplaire à l'occasion de chaque souscription, qui précise le nombre de parts, la date et le
+montant total de la souscription réalisée. 
+
+2. Pour bénéficier de la réduction d'impôt prévue au III de l'article 885-0 V bis du code précité, le contribuable joint à sa
+déclaration d'impôt de solidarité sur la fortune l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une
+copie de l'engagement de conservation mentionné au 1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-336 du 14 avril 2008 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 1er août 2011 - art. 3 (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI ter
+	  - Code général des impôts, CGI. - art. 885-0 V bis
+	  - Code monétaire et financier - art. L214-36
+	  - Code monétaire et financier - art. L214-41
+	  - Code monétaire et financier - art. L214-41-1
+
+
 ###### Article 299 quater
 
 En cas d'exonération partielle d'impôt de solidarité sur la fortune prévue à l'article 885 H du code général des impôts, le
@@ -28378,6 +28462,139 @@ Modification effectuée en conséquence de l'article 5, quatrième alinéa du d�
 
 	  - Code général des impôts, CGI. - art. 793
 	  - Code général des impôts, CGI. - art. 885 H
+
+
+###### Article 299 septies
+
+I.-1. Lorsqu'un contribuable souscrit au capital d'une société satisfaisant aux conditions prévues au 1 ou au 2 du I de
+l'article 885-0 V bis du code général des impôts et dont les titres ne sont pas admis aux négociations sur un marché
+d'instruments financiers français ou étranger, cette société lui délivre un état individuel qui mentionne : 
+
+a. L'objet pour lequel il est établi : application de l'article 885-0 V bis du code précité ; 
+
+b. La raison sociale, l'objet social et le siège social de la société ; 
+
+c. L'identité et l'adresse du souscripteur ; 
+
+d. Le nombre des titres souscrits, le montant et la date de leur souscription ; 
+
+e. La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de
+capital. 
+
+Cet état doit préciser que la société satisfait aux conditions mentionnées aux a à e ou aux a à h du 1 du I de l'article
+885-0 V bis du code précité. 
+
+2. Les dispositions du 1 s'appliquent également en cas de souscription au capital d'une société mentionnée au premier alinéa
+du 3 du I de l'article 885-0 V bis du code précité et dont les titres ne sont pas admis aux négociations sur un marché
+d'instruments financiers français ou étranger. 
+
+Dans ce cas, outre les mentions prévues au 1, la société mentionne également sur l'état individuel précité, pour chacun des
+versements effectués au titre de ses souscriptions au capital de sociétés satisfaisant aux conditions prévues aux a à e ou
+aux a à h du 1 du I de l'article 885-0 V bis du code précité, effectués avec les capitaux qu'elle a reçus, au titre de la
+constitution de son capital initial ou de l'augmentation de son capital auquel le contribuable a souscrit : 
+
+a. La raison sociale, l'objet social et le siège social de la société bénéficiaire de la souscription ; 
+
+b. Le nombre de titres souscrits, le montant et la date de leur souscription ; 
+
+c. La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de
+capital ; 
+
+d. Le détail de la fraction mentionnée au deuxième alinéa du b du 3 du I de l'article 885-0 V bis du code précité. 
+
+3. Afin de permettre au contribuable de bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au 1 et au 2
+du I de l'article 885-0 V bis du code précité, la société au capital de laquelle il a souscrit et dont les titres sont admis
+aux négociations sur un marché d'instruments financiers français ou étranger autre que réglementé s'engage, dans le
+prospectus prévu par la directive 2003 / 71 / CE du Parlement européen et du Conseil du 4 novembre 2003, à satisfaire, selon
+le cas, aux conditions prévues aux a à e ou aux a à h du 1, au 2 ou au 3 du I de l'article 885-0 V bis du code précité. A
+défaut de prospectus, elle délivre au contribuable l'état individuel mentionné au premier alinéa du 1. 
+
+4. Lorsqu'un contribuable souscrit au capital d'une société satisfaisant aux conditions prévues au premier alinéa du 3 du I
+de l'article 885-0 V bis du code précité et dont les titres sont admis aux négociations sur un marché d'instruments
+financiers français ou étranger autre que réglementé, il informe la société afin qu'elle lui délivre un état individuel. 
+
+La société indique sur cet état, pour chacun des versements effectués au titre de ses souscriptions au capital de sociétés
+satisfaisant aux conditions prévues aux a à e ou aux a à h du 1 du I de l'article 885-0 V bis précité effectuées avec les
+capitaux qu'elle a reçus, au titre de la constitution de son capital initial ou de l'augmentation de son capital auquel le
+contribuable a souscrit, les mentions prévues au 2. 
+
+II.-1. En cas de souscription au capital d'une société dont les titres ne sont pas admis à la négociation sur un marché
+d'instruments financiers français ou étranger, le contribuable joint à sa déclaration d'impôt de solidarité sur la fortune
+l'état individuel qui lui est remis conformément au I. 
+
+2. En cas de souscription au capital d'une société dont les titres sont admis à la négociation sur un marché d'instruments
+financiers français ou étranger autre que réglementé, le contribuable joint à sa déclaration d'impôt de solidarité sur la
+fortune les documents suivants : 
+
+a. L'avis d'opéré remis par l'établissement financier teneur de son compte sur lequel sont inscrits les titres souscrits ; 
+
+b. La copie de l'information publique publiée par un prestataire de services d'investissement ou l'entreprise de marché
+concernés ou tout autre organisme similaire étranger, indiquant le ratio de titres de capital correspondant à des titres
+nouvellement émis ; 
+
+c. Et, le cas échéant, les états individuels prévus au 3 et au 4 du I. 
+
+Le contribuable précise par ailleurs le nombre de titres mentionnés sur l'avis d'opéré pour lesquels il entend bénéficier de
+la réduction d'impôt de solidarité sur la fortune prévue au I de l'article 885-0 V bis du code précité. 
+
+Le contribuable justifie de l'éligibilité de son investissement à la réduction d'impôt de solidarité sur la fortune par la
+production, sur demande de l'administration fiscale, du prospectus prévu au 3 du I. 
+
+III.-1. Le contribuable produit à l'administration fiscale, sur sa demande, tout document de nature à justifier : 
+
+a. De la durée de détention des titres dont la souscription par celui-ci a ouvert droit à la réduction d'impôt de solidarité
+sur la fortune prévue au I de l'article 885-0 V bis du code précité ; 
+
+b. De la durée de détention par la société mentionnée au premier alinéa du 3 du I de l'article 885-0 V bis du code précité
+des titres reçus en contrepartie des souscriptions qu'elle a effectuées au capital de sociétés satisfaisant à l'ensemble des
+conditions prévues aux a à e ou aux a à h du 1 du I du même article 885-0 V bis du code précité et prises en compte pour le
+bénéfice de la réduction d'impôt de solidarité sur la fortune. 
+
+2. En cas de cession mentionnée au deuxième alinéa du 2 du II de l'article 885-0 V bis du code précité, le contribuable joint
+à sa déclaration d'impôt de solidarité sur la fortune devant être souscrite au titre de l'année d'imposition suivant la
+cession une attestation de la société dont il a cédé les titres, indiquant : 
+
+a. Le nombre des titres cédés ; 
+
+b. Le montant et la date de la cession. 
+
+Cette attestation doit préciser le caractère obligatoire de la cession, au sens du deuxième alinéa du 2 du II de l'article
+885-0 V bis du code précité. 
+
+Le contribuable joint également à sa déclaration d'impôt de solidarité sur la fortune devant être souscrite au titre de
+l'année suivant la cession une attestation de la société dont il a souscrit les titres en remploi du prix de cession des
+titres dont la souscription avait ouvert droit à la réduction d'impôt de solidarité sur la fortune prévue au I de l'article
+885-0 V bis du code précité, indiquant : 
+
+a. La raison sociale, l'objet social et le siège social de la société ; 
+
+b. L'identité et l'adresse du souscripteur ; 
+
+c. Le nombre des titres souscrits, le montant et la date de leur souscription ; 
+
+d. La date et le montant des versements effectués au titre de la souscription au capital initial ou aux augmentations de
+capital. 
+
+Lorsque le remploi intervient après la date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune devant
+être souscrite au titre de l'année suivant la cession, l'attestation de la société est jointe à la déclaration d'impôt de
+solidarité sur la fortune devant être souscrite au titre de l'année suivant ce remploi. 
+
+Cette attestation doit préciser que la société satisfait aux conditions mentionnées aux a à e ou aux a à h du 1 du I de
+l'article 885-0 V bis du code précité. 
+
+Le contribuable produit à l'administration fiscale, sur sa demande, tout document de nature à justifier de la durée de
+détention des titres souscrits en remploi du prix de cession des titres dont la souscription avait ouvert droit à la
+réduction d'impôt de solidarité sur la fortune prévue au I de l'article 885-0 V bis du code précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-336 du 14 avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 885-0 V bis
 
 
 ###### Article 299 sexies
