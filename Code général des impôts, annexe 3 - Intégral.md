@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-04-19
+Version Consolidée au 2008-05-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6113,26 +6113,31 @@ résulte des dispositions précitées.
 ###### Article 38 septdecies
 
 La durée minimale mentionnée au quatrième alinéa du III de l'article 81 quater du code général des impôts pendant laquelle
-les heures complémentaires, effectuées de manière régulière au sens du septième alinéa de l'article L. 212-4-3 du code du
-travail, doivent être intégrées à l'horaire contractuel de travail pour bénéficier de l'exonération d'impôt sur le revenu
-prévue aux I et du II de l'article 81 quater est fixée à six mois.
+les heures complémentaires, effectuées de manière régulière au sens de l'article L. 3123-15 du code du travail, doivent être
+intégrées à l'horaire contractuel de travail pour bénéficier de l'exonération d'impôt sur le revenu prévue aux I et II de
+l'article 81 quater est fixée à six mois. 
 
 La durée minimale de six mois mentionnée au premier alinéa est, le cas échéant, réduite à la durée restant à courir du
 contrat de travail si celle-ci lui est inférieure.
 
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1380 du 24 septembre 2007 - art. 4 () JORF 25 septembre 2007
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 81 quater
+	  - Code du travail - art. L3123-15
 
 
 ##### B : Déduction des intérêts d'emprunts : obligations des contribuables et des intermédiaires
@@ -6427,9 +6432,9 @@ conformément, respectivement, aux articles 224 et 1599 quinquies A du code gén
 défini aux articles 225 et 225 A du code général des impôts ; 
 
 e) Pour les employeurs assujettis à la participation au développement de la formation professionnelle continue conformément à
-l'article L. 952-1 du code du travail, le montant des rémunérations défini au premier alinéa de l'article L. 952-1 précité
+l'article L. 6331-2 du code du travail, le montant des rémunérations défini au deuxième alinéa de l'article L. 6331-2 précité
 ainsi que, le cas échéant, le montant des rémunérations versées aux titulaires d'un contrat à durée déterminée défini au
-premier alinéa de l'article L. 931-20 du même code ; 
+deuxième alinéa de l'article L. 6322-37 du même code ; 
 
 2° Concernant chaque salarié rétribué l'année précédente : 
 
@@ -6467,8 +6472,8 @@ code général des impôts ou, au titre de la retraite supplémentaire, du 2°-0
 même article, sont, selon le cas, déductibles pour la détermination de la rémunération imposable ou ne sont pas ajoutées à
 cette rémunération ;
 
-- le montant des sommes versées par l'employeur à un plan d'épargne pour la retraite collectif défini à l'article L. 443-1-2
-du code du travail et exonérées en application du 18° de l'article 81 du code général des impôts ; 
+- le montant des sommes versées par l'employeur à un plan d'épargne pour la retraite collectif défini aux articles L. 3334-1
+à L. 3334-16 du code du travail et exonérées en application du 18° de l'article 81 du code général des impôts ; 
 
 e) Le taux de la déduction supplémentaire à laquelle la profession exercée ouvre droit, le cas échéant, ainsi que l'option
 choisie par l'entreprise pour l'assiette des taxes assises sur les salaires ; 
@@ -6497,11 +6502,33 @@ cours d'année en nombre d'heures rémunérées ;
 
 3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2° ci-dessus.
 
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-33 du 9 janvier 1986 - art. 2
+	  - Code général des impôts, CGI. - art. 1599 quinquies A
+	  - Code général des impôts, CGI. - art. 182 A
+	  - Code général des impôts, CGI. - art. 224
+	  - Code général des impôts, CGI. - art. 225
+	  - Code général des impôts, CGI. - art. 231
+	  - Code général des impôts, CGI. - art. 81
+	  - Code général des impôts, CGI. - art. 81 quater
+	  - Code général des impôts, CGI. - art. 83
+	  - Code général des impôts, CGI. - art. 87
+	  - Livre des procédures fiscales - art. R*81 A-1
+	  - Code du travail - art. L3334-1
+	  - Code du travail - art. L6322-37
+	  - Code du travail - art. L6331-2
+	  - Code de la sécurité sociale. - art. L136-2
 
 	**Modifié par**:
 
-	  - Décret n°2008-64 du 17 janvier 2008 - art. 1
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
 	**Cité par**:
 
@@ -10276,11 +10303,11 @@ III.-Les associés joignent à chacune de leurs déclarations de revenus un exem
 Pour l'application du cinquième alinéa de l'article 199 decies EA du code général des impôts, l'exploitant de la résidence de
 tourisme prend par écrit l'engagement de réserver un pourcentage d'au moins 15 % de logements pour les salariés saisonniers.
 Cet engagement est joint à la déclaration de résultat de l'exploitant. Une copie de cet engagement est délivrée à l'acquéreur
-d'un logement dans la résidence.
+d'un logement dans la résidence. 
 
-Les salariés saisonniers s'entendent des salariés qui occupent un emploi au sens du 3° de l'article L. 122-1-1 du code du
+Les salariés saisonniers s'entendent des salariés qui occupent un emploi au sens du 3° de l'article L. 1242-2 du code du
 travail et qui sont liés par un contrat de travail avec au moins une entreprise, une association ou un organisme établis sur
-la commune du lieu d'implantation de la résidence ou bien sur une commune limitrophe ou membre du groupement de communes.
+la commune du lieu d'implantation de la résidence ou bien sur une commune limitrophe ou membre du groupement de communes. 
 
 Le pourcentage mentionné au premier alinéa s'apprécie en tenant compte du nombre de logements situés dans la résidence de
 tourisme réhabilitée. Les logements réservés peuvent être situés dans cette résidence ou, le cas échéant, dans les autres
@@ -10288,19 +10315,24 @@ résidences gérées par le même exploitant dès lors qu'elles respectent les m
 même commune ou dans une commune limitrophe incluse dans une zone mentionnée au premier alinéa de l'article 199 decies EA
 précité.
 
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-820 du 7 juillet 2006 - art. 4 () JORF 9 juillet 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AGF ter (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 199 decies EA
+	  - Code du travail - art. L1242-2
 
 
 ###### Article 46 AGF ter
@@ -11814,21 +11846,26 @@ horaire du remplaçant et le nombre de jours de remplacement de l'exploitant.
 
 Les dépenses de remplacement mentionnées au I de l'article 200 undecies du code général des impôts comprennent les
 rémunérations et leurs accessoires ainsi que les charges sociales, dans la mesure où celles-ci correspondent à des
-cotisations sociales obligatoires.
+cotisations sociales obligatoires. 
 
 Le taux horaire minimum garanti permettant d'apprécier le plafond du crédit d'impôt prévu au II de l'article 200 undecies
-précité est celui en vigueur, en application des articles L. 141-3 à L. 141-8 du code du travail, au 31 décembre de l'année
-au titre de laquelle le crédit d'impôt est calculé.
+précité est celui en vigueur, en application des articles L. 3231-4 à L. 3231-12 du code du travail, au 31 décembre de
+l'année au titre de laquelle le crédit d'impôt est calculé.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-800 du 6 juillet 2006 - art. 1 () JORF 7 juillet 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 200 undecies
+	  - Code du travail - art. L3231-4
 
 
 ##### 16° : Crédit d'impôt au titre des intérêts d'emprunt supportés pour l'acquisition ou la construction de l'habitation principale
@@ -15939,44 +15976,43 @@ Commission du 12 janvier 2001. Ce règlement est annexé à leurs statuts.
 
 ###### Article 46 quindecies N
 
-Les statuts doivent contenir une clause aux termes de laquelle ne peuvent être membres des organismes :
+Les statuts doivent contenir une clause aux termes de laquelle ne peuvent être membres des organismes : 
 
 1° Les personnes condamnées pour crime de droit commun ou pour l'un des délits prévus et réprimés par le livre III du code
 pénal, les chapitres II, III et IV du titre III du livre IV du code pénal, les titres IV et V du livre IV du code pénal, le
-titre VI du livre Ier du code monétaire et financier, ou pour tentative ou complicité de l'un de ces crimes ou délits ;
+titre VI du livre Ier du code monétaire et financier, ou pour tentative ou complicité de l'un de ces crimes ou délits ; 
 
 2° Les personnes empêchées d'exercer un commerce en vertu du chapitre VIII du titre II du livre Ier du code de commerce,
 ainsi que les personnes condamnées en application soit du chapitre VIII du titre II du livre III et de la section IV du
-chapitre IV du titre Ier du livre V du code des assurances, soit du titre VII du livre V du code monétaire et financier ;
+chapitre IV du titre Ier du livre V du code des assurances, soit du titre VII du livre V du code monétaire et financier ; 
 
 3° Les personnes qui se sont rendues coupables d'une infraction fiscale reconnue frauduleuse en application de l'article 1741
-du code général des impôts par une décision judiciaire ayant autorité de chose jugée ;
+du code général des impôts par une décision judiciaire ayant autorité de chose jugée ; 
 
-4° Les personnes qui se sont rendues coupables d'infractions aux interdictions prévues à l'article L. 324-9 du code du
-travail ;
+4° Les personnes qui se sont rendues coupables d'infractions aux interdictions prévues à l'article L. 8221-1 du code du
+travail ; 
 
-5° Les faillis non réhabilités par application de l'article L. 653-11 du code de commerce ;
+5° Les faillis non réhabilités par application de l'article L. 653-11 du code de commerce ; 
 
-6° Les anciens officiers ministériels destitués ou révoqués ;
+6° Les anciens officiers ministériels destitués ou révoqués ; 
 
 7° Les personnes révoquées d'un ordre professionnel par mesure disciplinaire.
 
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 3 () JORF 7 mai 2005
-	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 4 (V) JORF 7 mai 2005
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 140 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Code de commerce - art. L653-11
+	  - Code général des impôts, CGI. - art. 1741
+	  - Code du travail - art. L8221-1
 
 
 ###### Article 46 quindecies O
@@ -18915,19 +18951,24 @@ directoire.
 ###### Article 49 septies ZD
 
 Les formations ouvrant droit au crédit d'impôt sont celles qui entrent dans le champ d'application des dispositions relatives
-à la formation professionnelle continue mentionnées à l'article L. 900-2 du code du travail et réalisées dans les conditions
-prévues par l'article L. 920-1 du même code, dont les dépenses correspondantes sont admises en déduction du bénéfice
-imposable.
+à la formation professionnelle continue mentionnées à l'article L. 6313-1 du code du travail et réalisées dans les conditions
+prévues par les articles L. 6353-1 et L. 6353-2 du même code, dont les dépenses correspondantes sont admises en déduction du
+bénéfice imposable.
+
+**Nota:**
+
+Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1040 du 23 août 2006 - art. 1 () JORF 25 août 2006
+	  - Décret n°2008-294 du 1er avril 2008 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code du travail - art. L6313-1
+	  - Code du travail - art. L6353-1
 
 
 ###### Article 49 septies ZE
