@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-05-25
+Version Consolidée au 2008-06-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14013,6 +14013,80 @@ Article périmé en conséquence de la péremption de l'article 220 duodecies du
 	**Codifié par**:
 
 	  - L'article sera codifié ultérieurement
+
+
+##### Section VI decies : Crédit d'impôt en faveur des créateurs de jeux vidéo
+
+###### Article 46 quater-0 YZG
+
+Les dépenses mentionnées au IV de l'article 220 terdecies du code général des impôts s'entendent des dépenses suivantes : 
+
+1. Au titre des dotations aux amortissements mentionnées au 1° du 1 : les dotations aux amortissements fiscalement
+déductibles. Seules sont prises en compte les dotations aux amortissements correspondant à la période durant laquelle
+l'immobilisation a été effectivement utilisée pour la création du jeu vidéo éligible au crédit d'impôt ; 
+
+2. Au titre des dépenses mentionnées au 2° du 1 : les rémunérations versées par l'entreprise ainsi que les charges sociales
+afférentes, dans la mesure où elles correspondent à des cotisations sociales obligatoires ; 
+
+3. Au titre des dépenses mentionnées au 3° du 1 : les rémunérations et leurs accessoires ainsi que les charges sociales
+afférentes, dans la mesure où elles correspondent à des cotisations sociales obligatoires. Lorsque les salariés sont employés
+par l'entreprise de création à titre permanent, seuls sont pris en compte les salaires et charges sociales correspondant à la
+période durant laquelle ces personnels ont été effectivement employés à la création du jeu vidéo éligible au crédit d'impôt ;
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-509 du 29 mai 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. D331-37 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 terdecies
+
+
+###### Article 46 quater-0 YZH
+
+Pour l'application des dispositions des articles 220 terdecies et 220 X du code général des impôts, les entreprises déposent
+une déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article 360
+auprès du service des impôts.
+
+S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
+société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. 
+
+Une copie de la déclaration spéciale est adressée dans le même délai au Centre national de la cinématographie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-509 du 29 mai 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360
+	  - Code général des impôts, CGI. - art. 220 X
+	  - Code général des impôts, CGI. - art. 220 terdecies
+	  - Code général des impôts, CGI. - art. 223 A
+
+
+###### Article 46 quater-0 YZI
+
+Le crédit d'impôt prévu à l'article 220 terdecies du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les crédits d'impôt non restituables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-509 du 29 mai 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 terdecies
 
 
 ##### Section VII : Bénéfice imposable des caisses de crédit mutuel agricole et rural
