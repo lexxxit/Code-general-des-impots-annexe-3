@@ -13,6 +13,10 @@ la déclaration des revenus de l'année d'achèvement des travaux. L'engagement 
 conjoint survivant doit être joint à la déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son
 conjoint pour la période postérieure à cet événement. 
 
+L'engagement de conservation des titres prévu au quatrième alinéa du m du 1° du I de l'article 31 du code général des impôts
+est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
+pour la première fois à la déduction calculée en fonction du revenu brut.
+
 II.-Les parts détenues par les associés qui entendent bénéficier de la déduction calculée en fonction du revenu brut ou de la
 déduction au titre de l'amortissement sont inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration
 des revenus mentionnée au I, sur un compte ouvert au nom de l'associé dans la comptabilité de la société ou sur un registre
@@ -27,4 +31,9 @@ exemplaire du document mentionné au II de l'article 2 septdecies.
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2008-529 du 4 juin 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies
+	  - Code général des impôts, CGI. - art. 31

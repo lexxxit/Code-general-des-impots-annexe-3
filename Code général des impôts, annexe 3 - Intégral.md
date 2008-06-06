@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-06-01
+Version Consolidée au 2008-06-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -427,6 +427,10 @@ la déclaration des revenus de l'année d'achèvement des travaux. L'engagement 
 conjoint survivant doit être joint à la déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son
 conjoint pour la période postérieure à cet événement. 
 
+L'engagement de conservation des titres prévu au quatrième alinéa du m du 1° du I de l'article 31 du code général des impôts
+est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
+pour la première fois à la déduction calculée en fonction du revenu brut.
+
 II.-Les parts détenues par les associés qui entendent bénéficier de la déduction calculée en fonction du revenu brut ou de la
 déduction au titre de l'amortissement sont inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration
 des revenus mentionnée au I, sur un compte ouvert au nom de l'associé dans la comptabilité de la société ou sur un registre
@@ -441,7 +445,12 @@ exemplaire du document mentionné au II de l'article 2 septdecies.
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2008-529 du 4 juin 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies
+	  - Code général des impôts, CGI. - art. 31
 
 
 ###### Article 2 octodecies A
@@ -836,13 +845,13 @@ du contrat de location.
 
 ###### Article 2 septdecies
 
-I.-Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies,2 quindecies,2
-quindecies A,2 quindecies D,2 sexdecies,2 sexdecies-0 A ter et 2 sexdecies A incombent à cette société. L'engagement prévu à
-l'article 2 quaterdecies est joint par la société à sa déclaration du résultat de l'année au cours de laquelle a pris effet
-la location dont les revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut. Les options prévues aux
-articles 2 quindecies,2 quindecies A et 2 quindecies D sont jointes par la société, selon le cas, à sa déclaration du
-résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat
-de l'année d'achèvement des travaux. 
+I.-Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
+quindecies A, 2 quindecies D, 2 sexdecies, 2 sexdecies-0 A ter, 2 sexdecies-0 A quater et 2 sexdecies A incombent à cette
+société.L'engagement prévu à l'article 2 quaterdecies et à l'article 2 sexdecies-0 A quater est joint par la société à sa
+déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la
+déduction calculée en fonction du revenu brut. Les options prévues aux articles 2 quindecies, 2 quindecies A et 2 quindecies
+D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son
+acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux. 
 
 II.-La société doit, avant le 31 mars de chaque année, faire parvenir à ses associés un document établi en double exemplaire
 conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements suivants : 
@@ -853,7 +862,8 @@ conformément à un modèle fixé par l'administration et comportant, pour l'ann
 acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
 
 3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2
-duodecies,2 terdecies,2 terdecies A,2 terdecies B,2 terdecies C,2 sexdecies et 2 sexdecies-0 A ter ; 
+duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 sexdecies, 2 sexdecies-0 A ter et 2 sexdecies-0 A
+quater ; 
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ; 
 
@@ -883,7 +893,24 @@ Modification effectuée en conséquence de la péremption des articles 2 duodeci
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2008-529 du 4 juin 2008 - art. 2
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 sexdecies-0 A quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies D
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+	  - Code général des impôts, CGI. - art. 31
 
 	**Cité par**:
 
@@ -986,6 +1013,61 @@ départ des lieux de l'ascendant ou descendant du contribuable.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 31 (V)
+
+
+###### Article 2 sexdecies-0 A quater
+
+I.-Pour l'application du cinquième alinéa du m du 1° du I de l'article 31 du code général des impôts, les conditions prévues
+au quatrième alinéa du m précité s'apprécient en tenant compte du montant : 
+
+a. Du loyer payé au bailleur par l'organisme locataire ; 
+
+b. Du loyer payé le cas échéant à cet organisme par la personne occupant le logement ; 
+
+c. Des ressources de la personne occupant le logement. 
+
+II.-Les contribuables doivent joindre à leur déclaration des revenus de l'année au cours de laquelle la location à cet
+organisme ouvre droit pour la première fois à la déduction calculée en fonction du revenu brut : 
+
+a. Une copie de la convention conclue avec l'Agence nationale de l'habitat signée par les deux parties ; 
+
+b. Une copie du bail conclu avec l'organisme locataire ; 
+
+c. Le cas échéant, une copie de l'avis d'impôt sur le revenu du sous-locataire ou de l'occupant du logement établi au titre
+de l'avant-dernière année précédant celle pour laquelle la location à cet organisme ouvre droit pour la première fois à la
+déduction calculée en fonction du revenu brut ainsi qu'un document faisant mention du montant du loyer payé par la personne
+occupant le logement ; 
+
+d.L'engagement de louer, directement ou par l'intermédiaire d'un organisme public ou privé, le logement nu pendant toute la
+durée de la convention à des personnes qui en font leur habitation principale. 
+
+III.-Lorsque le logement est la propriété d'une société non soumise à l'impôt sur les sociétés, les associés personnes
+physiques doivent joindre à la déclaration de revenus de l'année au cours de laquelle la location à l'organisme locataire
+ouvre droit pour la première fois à la déduction calculée en fonction du revenu brut, outre les pièces justificatives
+mentionnées aux a, b et c du II : 
+
+a. Une copie de l'engagement de location souscrit par la société propriétaire ; 
+
+b.L'engagement de conserver leurs parts pendant toute la durée de la convention. 
+
+IV.-Si le bail, le contrat de sous-location ou la convention d'occupation n'est pas signé à la date de la déclaration
+susmentionnée, les documents énumérés aux b et c du II sont joints à la déclaration des revenus de l'année au cours de
+laquelle l'un de ces documents est signé. Il en est de même en cas de changement de locataire ou d'occupant pendant la
+période couverte par l'engagement de location mentionné au d du II.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-529 du 4 juin 2008 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (M)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 31
 
 
 ###### Article 2 sexdecies-0 A ter

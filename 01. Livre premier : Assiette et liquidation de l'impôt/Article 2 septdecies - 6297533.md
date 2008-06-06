@@ -1,12 +1,12 @@
 # Article 2 septdecies
 
-I.-Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies,2 quindecies,2
-quindecies A,2 quindecies D,2 sexdecies,2 sexdecies-0 A ter et 2 sexdecies A incombent à cette société. L'engagement prévu à
-l'article 2 quaterdecies est joint par la société à sa déclaration du résultat de l'année au cours de laquelle a pris effet
-la location dont les revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut. Les options prévues aux
-articles 2 quindecies,2 quindecies A et 2 quindecies D sont jointes par la société, selon le cas, à sa déclaration du
-résultat de l'année d'achèvement du logement ou de son acquisition si elle est postérieure, ou à sa déclaration du résultat
-de l'année d'achèvement des travaux. 
+I.-Lorsque l'immeuble appartient à une société, les obligations fixées par les articles 2 quaterdecies, 2 quindecies, 2
+quindecies A, 2 quindecies D, 2 sexdecies, 2 sexdecies-0 A ter, 2 sexdecies-0 A quater et 2 sexdecies A incombent à cette
+société.L'engagement prévu à l'article 2 quaterdecies et à l'article 2 sexdecies-0 A quater est joint par la société à sa
+déclaration du résultat de l'année au cours de laquelle a pris effet la location dont les revenus peuvent bénéficier de la
+déduction calculée en fonction du revenu brut. Les options prévues aux articles 2 quindecies, 2 quindecies A et 2 quindecies
+D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son
+acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux. 
 
 II.-La société doit, avant le 31 mars de chaque année, faire parvenir à ses associés un document établi en double exemplaire
 conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements suivants : 
@@ -17,7 +17,8 @@ conformément à un modèle fixé par l'administration et comportant, pour l'ann
 acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
 
 3° L'attestation que la location et, le cas échéant, la sous-location remplissent les conditions prévues par les articles 2
-duodecies,2 terdecies,2 terdecies A,2 terdecies B,2 terdecies C,2 sexdecies et 2 sexdecies-0 A ter ; 
+duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 sexdecies, 2 sexdecies-0 A ter et 2 sexdecies-0 A
+quater ; 
 
 4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ; 
 
@@ -47,7 +48,24 @@ Modification effectuée en conséquence de la péremption des articles 2 duodeci
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2008-529 du 4 juin 2008 - art. 2
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 sexdecies-0 A quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies D
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+	  - Code général des impôts, CGI. - art. 31
 
 	**Cité par**:
 
