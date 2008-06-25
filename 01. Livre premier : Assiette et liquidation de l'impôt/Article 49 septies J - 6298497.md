@@ -1,20 +1,16 @@
 # Article 49 septies J
 
-Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt est calculé, en ce qui
-concerne la part en volume, par référence aux dépenses exposées au cours de l'année civile et, en ce qui concerne la part en
-accroissement, par comparaison entre les dépenses de l'année civile et la moyenne des dépenses des deux années civiles
-précédentes.
-
-**Nota:**
-
-ces dispositions s'appliquent au crédit d'impôt relatif aux dépenses de recherche exposées à compter du 1er janvier 2004.
+Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt est calculé par référence
+aux dépenses exposées au cours de l'année civile. En cas de clôture d'exercice en cours d'année, le montant du crédit d'impôt
+prévu à l'article 244 quater B du code général des impôts est calculé en prenant en compte les dépenses éligibles exposées au
+titre de la dernière année civile écoulée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-27 du 13 janvier 2005 - art. 1 () JORF 15 janvier 2005
+	  - Décret n°2008-590 du 23 juin 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 244 quater B

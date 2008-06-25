@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-06-07
+Version Consolidée au 2008-06-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17830,49 +17830,20 @@ dans cette activité ou que le bureau de style dispose d'un personnel répondant
 
 ###### Article 49 septies J
 
-Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt est calculé, en ce qui
-concerne la part en volume, par référence aux dépenses exposées au cours de l'année civile et, en ce qui concerne la part en
-accroissement, par comparaison entre les dépenses de l'année civile et la moyenne des dépenses des deux années civiles
-précédentes.
-
-**Nota:**
-
-ces dispositions s'appliquent au crédit d'impôt relatif aux dépenses de recherche exposées à compter du 1er janvier 2004.
+Quelle que soit la date de clôture des exercices et quelle que soit leur durée, le crédit d'impôt est calculé par référence
+aux dépenses exposées au cours de l'année civile. En cas de clôture d'exercice en cours d'année, le montant du crédit d'impôt
+prévu à l'article 244 quater B du code général des impôts est calculé en prenant en compte les dépenses éligibles exposées au
+titre de la dernière année civile écoulée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-27 du 13 janvier 2005 - art. 1 () JORF 15 janvier 2005
+	  - Décret n°2008-590 du 23 juin 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 49 septies K
-
-Pour le calcul de la part en accroissement, les dépenses de recherche des deux années précédentes sont revalorisées en
-fonction de la variation de l'indice moyen annuel des prix à la consommation hors tabac dont la population de référence est
-l'ensemble des ménages.
-
-**Nota:**
-
-ces dispositions s'appliquent au crédit d'impôt relatif aux dépenses de recherche exposées à compter du 1er janvier 2004.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2005-27 du 13 janvier 2005 - art. 1 () JORF 15 janvier 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-590 du 23 juin 2008 - art. 3
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 244 quater B
 
 
 ###### Article 49 septies L
@@ -17896,93 +17867,54 @@ crédits d'impôt.
 	  - HISTO: Edition du 10 juillet 1983
 
 
-###### Article 49 septies L bis
-
-Les crédits d'impôts négatifs constatés au titre de dépenses engagées avant le 1er janvier 2004 et les parts en accroissement
-négatives constatées au titre de dépenses engagées après cette date s'imputent sur les parts en accroissement constatées
-ultérieurement par ordre d'ancienneté.
-
-**Nota:**
-
-ces dispositions s'appliquent au crédit d'impôt relatif aux dépenses de recherche exposées à compter du 1er janvier 2004.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2005-27 du 13 janvier 2005 - art. 1 () JORF 15 janvier 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2008-590 du 23 juin 2008 - art. 3
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-
 ###### Article 49 septies M
 
-I. - L'option pour le crédit d'impôt mentionné à l'article 244 quater B du code général des impôts résulte du dépôt de la
-déclaration spéciale prévue pour le calcul de ce crédit.
+I. Pour l'application des dispositions des articles 199 ter B, 
+220 B et 244 quater B du code général des impôts, les entreprises souscrivent une déclaration spéciale conforme à un modèle
+établi par l'administration. 
 
-II. - La déclaration spéciale doit être déposée par les personnes morales passibles de l'impôt sur les sociétés avec le
-relevé de solde mentionné à l'article 360 auprès du comptable de la direction générale des impôts. Les autres entreprises
-joignent la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer en vertu de l'article
-53 A du code général des impôts.
+Les personnes morales passibles de l'impôt sur les sociétés déposent cette déclaration spéciale auprès du service des impôts
+avec le relevé de solde mentionné à l'article 360.
 
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
-société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. Les
-sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration qu'elles sont tenues de
-déposer en vertu du 1 de l'article 223 du code précité.
+société mère dépose les déclarations spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la
+concernant, au relevé de solde relatif au résultat d'ensemble du groupe. 
 
-III. - L'option mentionnée au I doit être formulée par les entreprises selon les modalités énoncées au II dans le délai prévu
-pour le dépôt du relevé de solde ou de la déclaration de résultat relatifs à l'exercice pour lequel elles souhaitent
-bénéficier du crédit d'impôt.
+Les autres entreprises déposent la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
+qu'elles sont tenues de souscrire en application de l'article 53 A du code général des impôts.
 
-Lorsqu'une société mère opte pour le crédit d'impôt en vertu de l'article 223 O du code général des impôts, elle doit déposer
-la déclaration spéciale mentionnée au I. Cette déclaration récapitule notamment les parts en accroissement et les parts en
-volume de chacune des sociétés membres du groupe ayant exposé des dépenses de recherche ouvrant droit au crédit d'impôt.
+L'associé d'une société de personnes ou d'un groupement mentionnés aux articles 8, 238 bis L, 239 quater, 239 quater B et 239
+quater C du code général des impôts, non soumis à l'impôt sur les sociétés, dépose une déclaration spéciale indiquant la
+quote-part des crédits d'impôt provenant de chacune des sociétés de personnes ou groupements assimilés dont il est associé.
+Toutefois, lorsque l'associé est une personne physique, il est dispensé de déposer la déclaration spéciale lorsqu'il ne
+dispose pas d'un crédit d'impôt mentionné à l'article 244 quater B du code général des impôts autre que celui issu de sa
+participation dans la société de personnes ou le groupement. 
 
-L'associé ou membre d'une société de personnes ou d'un groupement mentionnés aux articles 8, 238 bis L, 239 quater, 239
-quater B et 239 quater C du code général des impôts et ayant engagé des dépenses ouvrant droit au crédit d'impôt recherche,
-doit déposer une déclaration spéciale indiquant notamment la fraction de la part en accroissement et de la part en volume qui
-lui est transférée par chacune des sociétés de personnes ou groupement assimilé dont il est associé ou membre. Toutefois,
-lorsque l'associé ou membre est une personne physique, il est dispensé de déposer la déclaration spéciale lorsqu'il ne
-dispose pas d'un crédit d'impôt recherche autre que celui issu de sa participation dans la société de personnes ou le
-groupement assimilé.
-
-IV. - En cas de transfert de dépenses entre entreprises ayant des liens de dépendance directe ou indirecte, ou résultant de
-fusions, scissions, apports ou opérations assimilées, les entreprises concernées doivent joindre un état spécifique à la
-déclaration spéciale susmentionnée pour la détermination du crédit d'impôt de l'année au titre de laquelle le transfert est
-intervenu et des deux années suivantes.
-
-V. - Une copie de la déclaration spéciale mentionnée aux I, II et III et de l'état spécifique mentionné au IV est adressée,
-dans le même délai que celui qui est prévu pour le dépôt du relevé de solde ou de la déclaration de résultat, à la direction
-de la technologie.
-
-**Nota:**
-
-ces dispositions s'appliquent au crédit d'impôt relatif aux dépenses de recherche exposées à compter du 1er janvier 2004.
+II.-Une copie de la déclaration spéciale mentionnée au I est adressée, dans le même délai que celui qui est prévu pour le
+dépôt du relevé de solde ou de la déclaration de résultat, aux services relevant du ministère chargé de la recherche.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
+	  - Décret n°2008-590 du 23 juin 2008 - art. 2
 
 	**Cité par**:
 
 	  - Code de la recherche - art. L131-3 (Ab)
 	  - Code de la recherche - art. L511-3 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360
+	  - Code général des impôts, CGI. - art. 199 ter B
+	  - Code général des impôts, CGI. - art. 220 B
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 238 bis L
+	  - Code général des impôts, CGI. - art. 239 quater
+	  - Code général des impôts, CGI. - art. 244 quater B
+	  - Code général des impôts, CGI. - art. 53 A
+	  - Code général des impôts, CGI. - art. 8
 
 
 ###### Article 49 septies N
@@ -28585,6 +28517,35 @@ régime de faveur est demandé, lorsqu'elle n'est pas tenue de déposer une déc
 	  - HISTO: Edition du 1er janvier 2007
 
 
+###### Article 299 nonies
+
+Les pièces justificatives mentionnées à l'article 885-0 V bis A du code général des impôts s'entendent des attestations
+délivrées par les organismes bénéficiaires des dons, répondant à un modèle fixé par arrêté du ministre chargé du budget et
+comportant les éléments suivants : 
+
+1° Les nom et adresse de l'organisme bénéficiaire ; 
+
+2° L'objet de l'organisme bénéficiaire ; 
+
+3° Les nom, prénoms et adresse du donateur ; 
+
+4° La nature, la forme, le mode de versement, la date et le montant du don.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-589 du 23 juin 2008 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 26 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 885-0 V bis A
+
+
 ###### Article 299 octies
 
 I.-1. La société de gestion d'un fonds d'investissement de proximité mentionné à l'article L. 214-41-1 du code monétaire et
@@ -34084,7 +34045,7 @@ sur la valeur ajoutée ;
 5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité,161 de
 l'annexe II et 369 de l'annexe III au même code ; 
 
-6° A la déclaration de cotisation minimum de taxe professionnelle prévue au IV de l'article 1647 E du même code ; 
+6° A la déclaration de cotisation minimale de taxe professionnelle prévue au IV de l'article 1647 E du même code ; 
 
 7° A la déclaration des sociétés immobilières mentionnée aux articles 172 bis du même code et 46 C ; 
 
@@ -34109,16 +34070,32 @@ opté pour le paiement des taxes foncières auprès du comptable du service des 
 de l'article 344-0 A. Elle est formulée dans les mêmes conditions que celles prévues pour l'option mentionnée à l'article 406
 terdecies.
 
-**Nota:**
-
-Modification effectuée en conséquence de l'article 12-I B, IV et V de la loi n° 2007-1787 du 20 décembre 2007, et de
-l'article 11-I de la loi n° 2007-1822 du 24 décembre 2007.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2008-591 du 23 juin 2008 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 161
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 369
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C
+	  - Code général des impôts, CGI. - art. 1010
+	  - Code général des impôts, CGI. - art. 1647 E
+	  - Code général des impôts, CGI. - art. 172
+	  - Code général des impôts, CGI. - art. 172 bis
+	  - Code général des impôts, CGI. - art. 209 B
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 231 ter
+	  - Code général des impôts, CGI. - art. 235 ter J
+	  - Code général des impôts, CGI. - art. 235 ter X
+	  - Code général des impôts, CGI. - art. 287
+	  - Code général des impôts, CGI. - art. 990 F
+	  - Code général des impôts, CGI. - art. 991
 
 	**Cité par**:
 
@@ -38211,26 +38188,26 @@ l'article 527 du code général des impôts.
 
 ###### Article 406 terdecies
 
-I. - Les impôts et taxes dus par les personnes et groupements mentionnés à l'article 344-0 A sont payés au comptable du
-service des grandes entreprises mentionné au premier alinéa de l'article 344-0 A.
+I.-Les impôts et taxes dus par les personnes et groupements mentionnés à l'article 344-0 A sont payés au comptable du service
+des grandes entreprises mentionné au premier alinéa de l'article 344-0 A. 
 
-II. - Les dispositions du I s'appliquent à l'impôt sur les sociétés, à l'imposition forfaitaire annuelle des sociétés, à la
+II.-Les dispositions du I s'appliquent à l'impôt sur les sociétés, à l'imposition forfaitaire annuelle des sociétés, à la
 contribution sur les revenus locatifs, à la contribution sociale sur l'impôt sur les sociétés prévues respectivement aux
 articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la taxe professionnelle et à la cotisation
-minimum citées au 6° de l'article 344-0 B de même qu'aux taxes additionnelles et annexes à cette taxe ainsi qu'aux impôts et
-taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B.
+minimale de taxe professionnelle mentionnée au 6° de l'article 344-0 B de même qu'aux taxes additionnelles et annexes à cette
+taxe ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
-leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique aux cotisations dues au titre
+leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions.L'option s'applique aux cotisations dues au titre
 de l'ensemble des établissements et immeubles de l'entreprise. Formulée par écrit avant le 30 novembre d'une année, l'option
 prend effet le 1er janvier de l'année suivante, pour une durée de cinq ans, renouvelable par tacite reconduction à défaut de
-dénonciation trente jours au moins avant l'expiration de la période.
+dénonciation trente jours au moins avant l'expiration de la période. 
 
-III. - Les dispositions des I et II s'appliquent aux paiements dans les mêmes conditions que celles prévues à l'article 344-0
+III.-Les dispositions des I et II s'appliquent aux paiements dans les mêmes conditions que celles prévues à l'article 344-0
 C. Toutefois, les impositions mentionnées au II dues au titre d'une période antérieure à la date à compter de laquelle le
-redevable relève du service chargé des grandes entreprises peuvent être établies et recouvrées par ce même service.
+redevable relève du service chargé des grandes entreprises peuvent être établies et recouvrées par ce même service. 
 
-IV. - Par exception aux dispositions des articles 344-0 A à 344-0 C et des I et II, les rôles, autres que ceux relatifs aux
+IV.-Par exception aux dispositions des articles 344-0 A à 344-0 C et des I et II, les rôles, autres que ceux relatifs aux
 impôts locaux et à leurs taxes additionnelles et annexes, ou avis de mise en recouvrement émis en vue du recouvrement des
 impositions qui ont fait l'objet, ou auraient dû faire l'objet, d'une déclaration ou d'un paiement auprès du service chargé
 des grandes entreprises, sont établis soit par ce service, soit par le service déconcentré dans le ressort duquel est situé
@@ -38242,21 +38219,20 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 25 (V) JORF 31 décembre 2004
+	  - Décret n°2008-591 du 23 juin 2008 - art. 3
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
+	  - Code général des impôts, CGI. - art. 223 septies
+	  - Code général des impôts, CGI. - art. 234 nonies
+	  - Code général des impôts, CGI. - art. 235 ter ZC
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ## Chapitre I bis : Pénalités
