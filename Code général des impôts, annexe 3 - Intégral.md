@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-06-26
+Version Consolidée au 2008-07-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -14282,50 +14282,59 @@ répondent pas aux conditions du 5° du 1 de l'article 39 du code général des 
 
 ###### Article 46 quater-0 ZD
 
-L'option mentionnée au premier alinéa de l'article 223 A du code général des impôts est notifiée au service des impôts auprès
-duquel est souscrite la déclaration du résultat d'ensemble.
+Les options mentionnées au premier et au deuxième alinéas de l'article 223 A du code général des impôts sont notifiées au
+service des impôts auprès duquel est souscrite la déclaration du résultat d'ensemble. 
 
-La société mère adresse à ce même service :
+La société mère adresse à ce même service : 
 
-1. Lors de la notification de l'option :
+1. Lors de la notification de l'option : 
 
-a) La liste des sociétés filiales qui seront membres du groupe ; cette liste indique, pour chaque société, sa désignation,
-l'adresse de son siège social et la répartition de son capital ;
+a) la liste des sociétés filiales et des personnes morales dénuées de capital qui seront membres du groupe. Cette liste
+indique, pour chaque société, sa désignation, l'adresse de son siège social et la répartition de son capital et, pour chaque
+personne morale dénuée de capital, sa désignation, l'adresse de son siège social et la nature du lien qui l'unit à l'entité
+combinante tête du groupe formé en application du deuxième alinéa de l'article 223 A du code général des impôts ; 
 
 b) Des attestations par lesquelles ces sociétés font connaître leur accord pour que la société mère retienne leurs propres
-résultats pour la détermination du résultat d'ensemble.
+résultats pour la détermination du résultat d'ensemble. 
 
-c) Le cas échéant, le document visé au premier alinéa du c du 6 de l'article 223 L du code général des impôts, qui comporte
-la liste et les attestations précédemment mentionnées.
+c) Le cas échéant, le document visé au premier alinéa du c du 6 de l'article 223 L du code général des impôts ou au deuxième
+alinéa du g du 6 du même article, qui comporte la liste et les attestations précédemment mentionnées. 
 
 2. Au plus tard à l'expiration du délai de dépôt de la déclaration de résultat de chacun des exercices arrêtés au cours de la
-période de validité de l'option :
+période de validité de l'option : 
 
-a) La liste mentionnée au a du 1, mise à jour pour l'exercice suivant ;
+a) La liste mentionnée au a du 1, mise à jour pour l'exercice suivant ; 
 
-b) Les attestations mentionnées au b du 1 produites par les sociétés qui seront membres du groupe à compter de cet exercice.
+b) Les attestations mentionnées au b du 1 produites par les sociétés qui seront membres du groupe à compter de cet
+exercice ; 
+
+c) le cas échéant, l'extrait de l'annexe comptable comportant les informations suivantes sur les comptes combinés : nom de
+l'entreprise combinante, liste des entreprises du périmètre de combinaison et description de la nature des liens qui
+permettent de fonder les critères de sélection des entreprises dont les comptes sont combinés, ainsi que l'indication des
+motifs qui justifient la non-combinaison de certaines entreprises. 
 
 3. En même temps que la déclaration du résultat d'ensemble d e l'exercice au cours duquel le capital de la société mère vient
-à être détenu à hauteur de 95 p. 100 au moins, directement ou indirectement, par une personne morale passible de l'impôt sur
-les sociétés dans les conditions prévues au premier alinéa du d du 6 de l'article 223 L du code général des impôts, une
-lettre signée des représentants dûment mandatés de la société mère et de la société détentrice des titres qui indique, de
-manière précise, la nature, les circonstances et les justifications juridiques, économiques ou sociales de l'opération à
-l'origine de la détention en cause.
+à être détenu à hauteur de 95 % au moins, directement ou indirectement, par une personne morale passible de l'impôt sur les
+sociétés dans les conditions prévues au premier alinéa du d du 6 de l'article 223 L du code général des impôts, une lettre
+signée des représentants dûment mandatés de la société mère et de la société détentrice des titres qui indique, de manière
+précise, la nature, les circonstances et les justifications juridiques, économiques ou sociales de l'opération à l'origine de
+la détention en cause.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-591 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
+	  - Décret n°2008-683 du 8 juillet 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZE (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZM (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 223 L
 
 
 ###### Article 46 quater-0 ZE
@@ -14333,13 +14342,13 @@ l'origine de la détention en cause.
 Les sociétés filiales qui acceptent de faire partie du groupe défini à l'article 223 A du code général des impôts adressent
 l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles relèvent au plus tard à l'expiration du délai de
 dépôt de la déclaration de résultat de l'exercice précédant celui au titre duquel le régime défini à l'article 223 A précité
-s'applique. L'accord est valable jusqu'à la sortie du groupe de la société filiale concernée. Il peut être dénoncé au plus
+s'applique.L'accord est valable jusqu'à la sortie du groupe de la société filiale concernée. Il peut être dénoncé au plus
 tard à l'expiration du délai de dépôt de la déclaration de résultat du dernier exercice précédant la période couverte par le
-renouvellement de l'option prévu au cinquième alinéa de l'article 223 A précité.
+renouvellement de l'option prévu au sixième alinéa de l'article 223 A précité. 
 
 Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
 décision de la société mère en informent le service des impôts dont elles relèvent au plus tard à l'expiration du délai de
-dépôt de la déclaration de résultat de l'exercice précédent.
+dépôt de la déclaration de résultat de l'exercice précédent. 
 
 Pour remplir les obligations prévues au présent article et à l'article 46 quater-0 ZD, la société doit utiliser des documents
 conformes aux modèles établis par l'administration.
@@ -14348,11 +14357,12 @@ conformes aux modèles établis par l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2004-591 du 21 juin 2004 - art. 1 () JORF 24 juin 2004
+	  - Décret n°2008-683 du 8 juillet 2008 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZD
+	  - Code général des impôts, CGI. - art. 223 A
 
 
 ###### Article 46 quater-0 ZF
@@ -14540,31 +14550,31 @@ modalités prévues à l'article 1668 du même code.
 ###### Article 46 quater-0 ZJ bis
 
 1. Pour l'application des dispositions du 5 de l'article 223 I du code général des impôts, la fraction du déficit
-correspondant à celui des sociétés membres du groupe ayant cessé et faisant partie du nouveau groupe et pour lesquelles le
-bénéfice de ces dispositions est demandé est calculée par application au déficit restant à reporter après les réintégrations
-mentionnées aux c, d ou e du 6 de l'article 223 L du code général des impôts, du rapport existant, pour chaque exercice,
-entre la somme des déficits pris en compte pour la détermination du résultat d'ensemble au titre de ces sociétés et la somme
-des déficits de même nature pris en compte pour l'ensemble des sociétés du groupe. Cette fraction ne peut excéder le montant
-dont le transfert a été admis, le cas échéant, dans le cadre d'une décision d'agrément prise en application du II de
-l'article 209 du même code.
+correspondant à celui des sociétés membres du groupe ayant cessé ou des sociétés apportées et faisant partie du nouveau
+groupe et pour lesquelles le bénéfice de ces dispositions est demandé est calculée par application au déficit restant à
+reporter après, le cas échéant, les réintégrations mentionnées aux c, d, e ou f du 6 de l'article 223 L du code général des
+impôts, du rapport existant, pour chaque exercice, entre la somme des déficits pris en compte pour la détermination du
+résultat d'ensemble au titre de ces sociétés et la somme des déficits de même nature pris en compte pour l'ensemble des
+sociétés du groupe. Cette fraction ne peut excéder le montant dont le transfert a été admis, le cas échéant, dans le cadre
+d'une décision d'agrément prise en application du II de l'article 209 du même code. 
 
 Lorsque la cessation du groupe résulte d'une scission, le déficit d'ensemble est, préalablement au calcul effectué au premier
 alinéa, réparti entre les branches apportées en fonction de l'origine de ce déficit. Le déficit qui ne peut être affecté à
 une branche est réparti selon les modalités prévues au deuxième membre de la deuxième phrase du premier alinéa du e du 6 de
 l'article 223 L du code général des impôts. Pour chacun des nouveaux groupes, la fraction du déficit restant à reporter et
 qui peut être imputée dans les conditions prévues au 5 de l'article 223 I de ce code est alors calculée, au titre de chaque
-exercice, selon les modalités précisées au premier alinéa.
+exercice, selon les modalités précisées au premier alinéa. 
 
 La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de l'article 223 I du code général des impôts est
-demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d ou e du 6 de l'article 223 L
-concernant l'identité des sociétés membres du nouveau groupe.
+demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e ou g du 6 de l'article 223 L
+concernant l'identité des sociétés membres du nouveau groupe. 
 
-2. Pour l'application du troisième alinéa de l'article 223 R du code général des impôts :
+2. Pour l'application du troisième alinéa de l'article 223 R du code général des impôts : 
 
 a) La partie du déficit qui ne peut plus être imputée si la société qui y est mentionnée sort du groupe est calculée en
-considérant que les déficits déjà imputés correspondent à ceux de cette société ;
+considérant que les déficits déjà imputés correspondent à ceux de cette société ; 
 
-b) La somme ainsi calculée est imputée sur le déficit encore reportable subi au titre de l'exercice le plus ancien ;
+b) La somme ainsi calculée est imputée sur le déficit encore reportable subi au titre de l'exercice le plus ancien ; 
 
 c) La partie du déficit qui demeure imputable dans les conditions prévues au 5 de l'article 223 I du code général des impôts
 est réduite à due concurrence.
@@ -14573,11 +14583,14 @@ est réduite à due concurrence.
 
 	**Modifié par**:
 
-	  - Décret n°2004-467 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
+	  - Décret n°2008-683 du 8 juillet 2008 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 209
+	  - Code général des impôts, CGI. - art. 223 I
+	  - Code général des impôts, CGI. - art. 223 L
+	  - Code général des impôts, CGI. - art. 223 R
 
 
 ###### Article 46 quater-0 ZK
@@ -14618,44 +14631,44 @@ impôts. Cette liste indique le taux de détention directe et indirecte par la s
 ###### Article 46 quater-0 ZL
 
 La déclaration du résultat d'ensemble visée à l'article 223 Q du code général des impôts comprend les éléments nécessaires à
-la détermination et au contrôle de ce résultat. La société mère doit joindre à cette déclaration :
+la détermination et au contrôle de ce résultat. La société mère doit joindre à cette déclaration : 
 
 1. Un état des subventions directes ou indirectes et des abandons de créances consentis ou reçus pour chacune des sociétés
 membres du groupe, à compter du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le
-montant de ces subventions ou abandons.
+montant de ces subventions ou abandons. 
 
-2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au a de l'article 46 quater-0 ZK ;
+2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au a de l'article 46 quater-0 ZK ; 
 
-3. Un tableau de synthèse de ces rectifications ;
+3. Un tableau de synthèse de ces rectifications ; 
 
-4. Un tableau de détermination du résultat d'ensemble du groupe ;
+4. Un tableau de détermination du résultat d'ensemble du groupe ; 
 
 5. Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme
-d'ensemble et les crédits d'impôt susceptibles d'être utilisés par la société mère.
+d'ensemble et les crédits d'impôt susceptibles d'être utilisés par la société mère. 
 
-6. Dans les situations visées aux c, d et e du 6 de l'article 223 L du code général des impôts, des états faisant
-apparaître :
+6. Dans les situations visées aux c, d, e, f ou g du 6 de l'article 223 L du code général des impôts, des états faisant
+apparaître : 
 
-a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé et qui font partie
-du nouveau groupe, mentionnée au 5 de l'article 223 I du même code, et la quote-part de ce déficit qui provient de chacune
-des sociétés pour lesquelles le bénéfice de cette imputation a été demandé ;
+a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé ou des sociétés
+apportées et qui font partie du nouveau groupe, mentionnée au 5 de l'article 223 I du même code, et la quote-part de ce
+déficit qui provient de chacune des sociétés pour lesquelles le bénéfice de cette imputation a été demandé ; 
 
 b) L'imputation de ce déficit sur le bénéfice de la société qui en est titulaire et sur les bénéfices des sociétés
-mentionnées ci-dessus ;
+mentionnées ci-dessus ; 
 
 c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du groupe de l'une des sociétés mentionnées ci-
-dessus, en application des dispositions du troisième alinéa de l'article 223 R du code général des impôts.
+dessus, en application des dispositions du troisième alinéa de l'article 223 R du code général des impôts. 
 
-7. (Périmé)
+7. (Périmé) 
 
 8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A et 44 decies du
 code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à
 long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A et du neuvième
-alinéa du I de l'article 44 decies du code général des impôts.
+alinéa du I de l'article 44 decies du code général des impôts. 
 
 9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts
 déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même
-article.
+article. 
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
@@ -14663,11 +14676,19 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2007-282 du 1 mars 2007 - art. 2 () JORF 3 mars 2007
+	  - Décret n°2008-683 du 8 juillet 2008 - art. 4
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK
+	  - Code général des impôts, CGI. - art. 223 B
+	  - Code général des impôts, CGI. - art. 223 I
+	  - Code général des impôts, CGI. - art. 223 L
+	  - Code général des impôts, CGI. - art. 223 Q
+	  - Code général des impôts, CGI. - art. 223 R
+	  - Code général des impôts, CGI. - art. 44 decies
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 octies A
 
 
 ###### Article 46 quater-0 ZM
