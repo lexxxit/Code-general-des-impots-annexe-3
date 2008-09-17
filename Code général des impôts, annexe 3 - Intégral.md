@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-08-24
+Version Consolidée au 2008-09-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8042,37 +8042,36 @@ les rapports mentionnés au troisième alinéa du 1 du même article justifiant 
 
 ###### Article 41 sexdecies K
 
-I. - La déclaration mentionnée à l'article 125 D du code général des impôts est souscrite sur un formulaire normalisé. Elle
-comporte :
+I.-La déclaration mentionnée à l'article 125 D du code général des impôts est souscrite sur un formulaire normalisé. Elle
+comporte : 
 
-a. la nature et le montant des revenus, produits et gains pour lesquels l'option est exercée ;
+a. la nature et le montant des revenus, produits et gains pour lesquels l'option est exercée ; 
 
-b. le montant du prélèvement dû ;
+b. le montant du prélèvement dû ; 
 
-c. le montant des contributions et prélèvements sociaux dus en application des articles 1600-0 D, 1600-0 F bis et 1600-0 I du
-code général des impôts ainsi que du 2° de l'article 11 de la loi n° 2004-626 du 30 juin 2004.
+c. le montant des contributions et prélèvements sociaux dus. 
 
 Cette déclaration mentionne en outre la dénomination et l'adresse de la personne visée au IV de l'article 125 D précité qui
 est mandatée par le contribuable pour effectuer en son nom et pour son compte les formalités déclaratives et de paiement
 dudit prélèvement, ainsi que son numéro d'identification en cas de conclusion de la convention prévue au VI du même article
-125 D.
+125 D. 
 
-II. - La déclaration mentionnée au I est déposée, accompagnée du paiement des impôts dus, dans les délais prévus au IV de
+II.-La déclaration mentionnée au I est déposée, accompagnée du paiement des impôts dus, dans les délais prévus au IV de
 l'article 125 D précité au service des impôts désigné par le ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-446 du 14 avril 2006 - art. 1 () JORF 16 avril 2006 Rectificatif JORF 13 mai 2006
+	  - Décret n°2008-962 du 15 septembre 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies L (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 125 D
 
 
 ###### Article 41 sexdecies L
@@ -10029,13 +10028,12 @@ Modifications effectuées en conséquence de l'article 163 quinvicies du code g�
 ###### Article 42
 
 La déclaration prévue au 1 l'article 170 du code général des impôts est rédigée sur des imprimés établis par l'administration
-conformément aux modèles arrêtés par le ministre de l'économie et des finances.
+conformément aux modèles arrêtés par le ministre de l'économie et des finances. 
 
 La déclaration comporte notamment l'indication du montant, détaillé par nature de revenu et déterminé selon les modalités
-propres à chacun d'eux, des éléments qui composent le revenu brut global du contribuable.
+propres à chacun d'eux, des éléments qui composent le revenu brut global du contribuable. 
 
-Les contribuables doivent également déclarer, séparément, les revenus visés respectivement aux troisième et quatrième alinéas
-du 1 de l'article 49 F.
+Les contribuables doivent également déclarer, séparément, les revenus mentionnés au troisième alinéa du 1 de l'article 49 F. 
 
 La déclaration mentionne séparément le montant des revenus, de quelque nature qu'ils soient, encaissés directement ou
 indirectement à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et
@@ -10043,22 +10041,18 @@ Futuna et dans les Terres australes et antarctiques françaises et à l'étrange
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2008-962 du 15 septembre 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Modifié par**:
-
-	  - Loi n°2005-1719 2005-12-30 art. 76 XI E, XV Finances pour 2006 JORF 31 décembre 2006
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 F
+	  - Code général des impôts, CGI. - art. 170
 
 
 ###### Article 43
@@ -16765,26 +16759,16 @@ conditions fixées par arrêté.
 ###### Article 49 F
 
 1. Pour les revenus imposables, la déclaration doit mentionner distinctement, par nature et en fonction de leur régime
-fiscal, le montant brut des revenus payés, déduction faite des seuls frais d'encaissement. La somme algébrique des produits,
-gains et pertes se rapportant aux titres de créances mentionnés au 1° bis du III bis de l'article 125 A du code général des
-impôts devra apparaître distinctement.
+fiscal, le montant brut des revenus payés. La somme algébrique des produits, gains et pertes se rapportant aux titres de
+créances mentionnés au 1° bis du III bis de l'article 125 A du code général des impôts devra apparaître distinctement. 
 
-Le montant du crédit d'impôt attaché à ces revenus est mentionné séparément.
+Le montant du crédit d'impôt attaché à ces revenus est mentionné séparément. 
 
-Doivent également être mentionnés séparément, lorsque la contribution pour le remboursement de la dette sociale leur a déjà
-été appliquée en application de l'article 1600-0 J du code général des impôts, les produits attachés à un bon ou contrat de
-capitalisation ou à un placement de même nature libellé en euros, les produits capitalisés d'un plan d'épargne populaire
-ainsi que les répartitions d'un fonds commun de placement à risques et les distributions d'une société de capital-risque qui
-ont bénéficié d'une exonération conditionnelle d'impôt sur le revenu et qui, par suite du non-respect des conditions prévues
-par la loi, deviennent imposables à l'impôt sur le revenu.
-
-Les produits et revenus visés aux troisième alinéa doivent également être mentionnés séparément, lorsque la contribution
-sociale généralisée prévue au II de l'article L. 136-7 du code de la sécurité sociale, le prélèvement mentionné à l'article
-L. 245-15 du même code et la contribution additionnelle prévue au 2° de l'article L. 14-10-4 du code de l'action sociale et
-des familles leur ont déjà été appliqués.
+Doivent également être mentionnés séparément les produits et revenus imposables à l'impôt sur le revenu et pour lesquels les
+contributions et prélèvements sociaux sur les produits de placement ont déjà été appliqués. 
 
 2. Lorsque les revenus ou les gains sont libérés de l'impôt sur le revenu par application d'un prélèvement, la déclaration
-comporte l'indication de celui-ci ainsi que le montant du revenu brut ou du gain qui lui a servi de base.
+comporte l'indication de celui-ci ainsi que le montant du revenu brut ou du gain qui lui a servi de base. 
 
 3. Lorsqu'ils ne sont pas dispensés de déclaration par le 1 de l'article 242 ter du code général des impôts, les produits
 exonérés de l'impôt sur le revenu sont déclarés pour leur montant net.
@@ -16793,19 +16777,16 @@ exonérés de l'impôt sur le revenu sont déclarés pour leur montant net.
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 55 (V) JORF 12 février 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2008-962 du 15 septembre 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 42 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 125 A
+	  - Code général des impôts, CGI. - art. 242 ter
 
 
 ###### Article 49 G
@@ -36769,17 +36750,16 @@ au titre de l'article 1664 du code général des impôts.
 ###### Article 381 S
 
 1. Les sommes retenues au cours de chaque mois, au titre du prélèvement prévu par l'article 125 A du code général des impôts
-sont versées au Trésor dans les quinze premiers jours du mois suivant.
+sont versées au Trésor dans les quinze premiers jours du mois suivant. 
 
-Le versement est fait au service des impôts désigné par le ministre chargé du budget.
+Le versement est fait au service des impôts désigné par le ministre chargé du budget. 
 
-2. Chaque versement est accompagné du dépôt d'une déclaration établie en double exemplaire sur une formule délivrée par
-l'administration.
+2. Chaque versement est accompagné du dépôt d'une déclaration établie sur une formule délivrée par l'administration. 
 
 3. Un arrêté détermine la nature et le contenu des documents que les établissements payeurs doivent établir et conserver à la
-disposition de l'administration en vue du contrôle.
+disposition de l'administration en vue du contrôle. 
 
-Il fixe les conditions dans lesquelles le prélèvement opéré par ces établissements peut faire l'objet de versements globaux.
+Il fixe les conditions dans lesquelles le prélèvement opéré par ces établissements peut faire l'objet de versements globaux. 
 
 4. Les dispositions des 1 à 3 ne sont pas applicables au prélèvement dû à raison des revenus, produits et gains mentionnés à
 l'article 125 D du code précité.
@@ -36788,15 +36768,51 @@ l'article 125 D du code précité.
 
 	**Modifié par**:
 
-	  - Décret n°2006-446 du 14 avril 2006 - art. 1 () JORF 16 avril 2006
+	  - Décret n°2008-962 du 15 septembre 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duodecies A (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 125 A
+	  - Code général des impôts, CGI. - art. 125 D
+
+
+##### 10 bis : Prélèvement sur les dividendes
+
+###### Article 381 S bis
+
+I.-Pour l'application du II de l'article 117 quater du code général des impôts, le versement des sommes retenues au cours de
+chaque mois au titre du prélèvement prévu au I du même article est effectué au service des impôts désigné par arrêté du
+ministre chargé du budget. 
+
+Chaque versement est accompagné du dépôt d'une déclaration établie sur une formule délivrée par l'administration. 
+
+II.-Pour l'application du III de l'article 117 quater du code général des impôts, la déclaration mentionnée au dernier alinéa
+du 1 du III est souscrite sur un formulaire normalisé. Elle comporte : 
+
+a) Le montant des revenus distribués pour lesquels l'option est exercée ; 
+
+b) Le montant du prélèvement forfaitaire dû ; 
+
+c) Le montant des contributions et prélèvements sociaux dus. 
+
+Lorsqu'elle est déposée par la personne qui assure le paiement des revenus distribués, cette déclaration mentionne en outre
+la dénomination et l'adresse de ladite personne, qui est mandatée par le contribuable pour effectuer, en son nom et pour son
+compte, les formalités déclaratives et de paiement dudit prélèvement, ainsi que son numéro d'identification en cas de
+conclusion de la convention prévue au 3 du III de l'article 117 quater du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-962 du 15 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 117 quater
 
 
 ##### 12 : Participation des employeurs au développement de la formation professionnelle continue
