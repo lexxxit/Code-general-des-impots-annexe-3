@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-09-18
+Version Consolidée au 2008-10-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -35011,6 +35011,86 @@ V. - Le quorum est égal à la moitié du nombre des membres appelés à siéger
 
 	  - HISTO: Edition du 31 mars 2001
 	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+
+
+##### II bis : Commission nationale des impôts directs et des taxes sur le chiffre d'affaires
+
+###### Article 348 B
+
+- I. - 1. Les membres de la commission sont âgés de vingt-cinq ans au moins et jouissent de leurs droits civils. 
+
+L'expert-comptable mentionné à l'article 1651 H du code général des impôts est inscrit au tableau de l'ordre et exerce son
+activité en France. 
+
+2. Les organisations ou organismes représentatifs mentionnés aux articles 1651 J et 1651 K du code général des impôts
+adressent la liste des représentants qu'ils désignent au secrétariat de la commission le 1er décembre au plus tard, pour
+l'année suivante. 
+
+Les représentants des contribuables sont désignés pour une année. Leur mandat est renouvelable par tacite reconduction. 
+
+Lorsqu'il existe plusieurs organisations ou organismes ayant vocation à désigner des membres, et à défaut d'accord entre eux,
+les représentants des contribuables sont désignés par le président de la commission au vu des propositions de ces
+organisations ou organismes. 
+
+3.L'Assemblée des chambres françaises de commerce et d'industrie consulte les organisations patronales interprofessionnelles
+avant d'établir la liste des représentants qu'elle désigne. 
+
+II. - Il est désigné deux suppléants pour un titulaire. Le nombre de suppléants peut toutefois être modifié dans les
+conditions et limites fixées par arrêté du ministre chargé du budget. 
+
+III. - Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est saisie d'un litige intéressant un contribuable
+qui relève de l'administration des douanes et droits indirects au regard desdites taxes, l'un des représentants de la
+direction générale des finances publiques peut être remplacé par un fonctionnaire de la direction générale des douanes et
+droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1011 du 30 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1651 H
+	  - Code général des impôts, CGI. - art. 1651 J
+
+
+###### Article 348 C
+
+I. - 1. Un agent de la direction générale des finances publiques remplit les fonctions de secrétaire de la commission, avec
+voix consultative. Un ou plusieurs agents de la même direction générale peuvent assister aux séances de la commission, en
+qualité de secrétaires adjoints. Ils ont également voix consultative. 
+
+Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est saisie d'un litige intéressant un redevable qui relève
+de l'administration des douanes et droits indirects au regard desdites taxes, l'un des secrétaires adjoints peut être un
+agent de la direction générale des douanes et droits indirects. 
+
+2. Les secrétaires et secrétaires adjoints agissent pour ordre et par délégation du président de la Commission nationale des
+impôts directs et des taxes sur le chiffre d'affaires. 
+
+II. - Lorsque la commission est saisie d'un litige prévu aux articles 1651 I et 1651 K du code général des impôts, le
+secrétaire informe le contribuable qu'il peut demander que l'un des représentants des contribuables soit désigné par une
+organisation ou un organisme professionnel de son choix. Le contribuable dispose alors d'un délai de trente jours pour faire
+connaître sa réponse. 
+
+III. - 1. La commission se réunit sur convocation de son président, qui arrête, pour chaque affaire, sa composition. 
+
+2. La commission réside à Paris. 
+
+3. Les représentants de l'administration appelés à siéger au sein de la commission sont désignés par le directeur chargé de
+la direction spécialisée des impôts pour la région Ile-de-France et pour Paris. 
+
+IV. - Le quorum est égal à la moitié du nombre des membres appelés à siéger, quelle que soit la formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1011 du 30 septembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1651 I
 
 
 ##### III : Commission départementale de conciliation
