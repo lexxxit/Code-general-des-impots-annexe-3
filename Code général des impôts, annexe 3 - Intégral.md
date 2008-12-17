@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-10-31
+Version Consolidée au 2008-12-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -28028,60 +28028,54 @@ du 3 de l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955.
 
 ###### Article 287
 
-Il est alloué un salaire fixe de 15 euros :
+Il est alloué un salaire fixe de 15 euros : 
 
-pour chaque publication ne donnant pas ouverture au salaire proportionnel, notamment :
+pour chaque publication ne donnant pas ouverture au salaire proportionnel, notamment : 
 
 1° pour chaque déclaration de changement de domicile par acte séparé, pour l'indication d'une créance hypothécaire ou
-privilégiée déjà inscrite et grevée de substitution et pour chaque mention de prorogation de délai ;
+privilégiée déjà inscrite et grevée de substitution et pour chaque mention de prorogation de délai ; 
 
-2° pour la publication de chaque commandement valant saisie immobilière ;
+2° pour la publication de chaque commandement valant saisie immobilière ; 
 
 3° pour la mention de l'assignation et des dénonciations prévues à l'article 43 du décret n° 2006-936 du 27 juillet 2006
-relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble ;
+relatif aux procédures de saisie immobilière et de distribution du prix d'un immeuble ; 
 
 4° pour l'acte du conservateur constatant son refus de publier un commandement valant saisie en cas de commandement
-transcrit ;
+transcrit ; 
 
 5° pour la mention prévue à l'article 22 du décret n° 2006-936 du 27 juillet 2006 relatif aux procédures de saisie
-immobilière et de distribution du prix d'un immeuble ;
+immobilière et de distribution du prix d'un immeuble ; 
 
-6° pour la radiation de la saisie ;
+6° pour la radiation de la saisie ; 
 
-7° pour la mention de tout jugement ou ordonnance en marge de la publication d'une saisie ;
+7° pour la mention de tout jugement ou ordonnance en marge de la publication d'une saisie ; 
 
-8° pour chaque duplicata de certificat de radiation, subrogation ou résolution ;
+8° pour chaque duplicata de certificat de radiation, subrogation ou résolution ; 
 
-9° pour la publication de chaque état descriptif de division et de chaque acte modificatif d'état descriptif de division ;
+9° pour la publication de chaque état descriptif de division et de chaque acte modificatif d'état descriptif de division ; 
 
 10° pour la publication de chaque convention passée en application de l'article L. 351-2 du code de la construction et de
-l'habitation ;
+l'habitation ; 
 
 11° pour la publication des actes constatant la modification de la forme juridique de personnes morales, lorsque cette
-modification n'emporte pas création d'un être moral nouveau ;
+modification n'emporte pas création d'un être moral nouveau ; 
 
 12° pour la publication des demandes en justice mentionnées au c du 4° de l'article 28 du décret n° 55-22 du 4 janvier 1955
-modifié ainsi que des demandes en justice, procès-verbaux et déclarations visées au 2 de l'article 37 du même décret ;
+modifié ainsi que des demandes en justice, procès-verbaux et déclarations visées au 2 de l'article 37 du même décret ; 
 
 13° pour la publication des décisions et des actes constatant les désistements mentionnés au d du 4° de l'article 28 modifié
-du décret n° 55-22 du 4 janvier 1955 ;
+du décret n° 55-22 du 4 janvier 1955 ; 
 
 14° pour les actes et attestations rectificatives publiés en application du 3 de l'article 34 du décret n° 55-1350 modifié du
-14 octobre 1955 ;
+14 octobre 1955 ; 
 
-15° pour la publication :
-
-a) des titres d'occupation du domaine public de l'Etat ou d'un de ses établissements publics constitutifs d'un droit réel
-délivrés en application des articles L. 2122-5 à L. 2122-18 du code de la propriété des personnes publiques ainsi que des
-cessions, transmissions ou retraits de ces titres ;
-
-b) des contrats de crédit-bail conclus en application des dispositions de l'article L. 34-7 du code précité ;
+15° Pour la publication des actes constatant les opérations mentionnées à l'article 1048 ter du code général des impôts ; 
 
 16° pour la publication de chaque déclaration établie pour l'application des articles L. 526-1 à L. 526-3 du code de
-commerce ;
+commerce ; 
 
 17° Pour l'inscription des avenants prévus par l'article 59 de l'ordonnance n° 2006-346 du 23 mars 2006 relative aux
-sûretés ;
+sûretés ; 
 
 18° Pour l'inscription des transformations prévues par le III de l'article 10 de la loi n° 2007-212 du 20 février 2007
 portant diverses dispositions intéressant la Banque de France.
@@ -28090,23 +28084,19 @@ portant diverses dispositions intéressant la Banque de France.
 
 	**Cite**:
 
-	  - Décret n°55-22 1955-01-04 art. 28, art. 37
-	  - Décret n°55-22 du 4 janvier 1955 - art. 37 (V)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 34 (M)
-	  - Ordonnance 2006-346 2006-03-23 art. 59
-	  - Décret n°2006-936 2006-07-27 art. 43, art. 22
-	  - Loi n°2007-212 du 20 février 2007 - art. 10, v. init.
-	  - Code de commerce L526-1 à L526-3
-	  - Code de la construction et de l'habitation L351-2, L2122-5 à L2122-18, L34-7
-	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+	  - Décret n°55-22 du 4 janvier 1955 - art. 28
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 34
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 59
+	  - Décret n°2006-936 du 27 juillet 2006
+	  - Décret n°2006-936 du 27 juillet 2006 - art. 22
+	  - Loi n°2007-212 du 20 février 2007 - art. 10
+	  - Code de commerce - art. L526-1
+	  - Code général des impôts, CGI. - art. 1048 ter
+	  - Code de la construction et de l'habitation. - art. L351-2
 
 	**Modifié par**:
 
-	  - Décret n°2007-1567 du 2 novembre 2007 - art. 1 () JORF 4 novembre 2007
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
+	  - Décret n°2008-1329 du 15 décembre 2008 - art. 1
 
 
 ###### Article 288
