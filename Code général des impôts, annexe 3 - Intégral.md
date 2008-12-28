@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-12-27
+Version Consolidée au 2008-12-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6726,36 +6726,32 @@ neuvième et dixième alinéas du d du 2° de l'article 39.
 
 ###### Article 39 C
 
-La déclaration mentionnée à l'article 87 du code général des impôts est souscrite sur un formulaire unique dénommé
-"déclaration annuelle de données sociales".
+La déclaration mentionnée à l'article 87 du code général des impôts est souscrite sur un formulaire unique dénommé "
+déclaration annuelle de données sociales ".
 
 A compter de l'année fixée pour chaque département par arrêté du Premier ministre sur proposition des ministres concernés,
-cette déclaration est adressée à un service unique, dénommé "Centre de transfert de données sociales", créé en application de
-l'article 87 A du même code.
+cette déclaration est adressée à un service unique, dénommé " Centre de transfert de données sociales ", créé en application
+de l'article 87 A du même code. 
 
-Les dispositions du présent article ne s'appliquent pas aux déclarations mentionnées aux articles 39 B et 47 A.
+Les dispositions du présent article ne s'appliquent pas aux déclarations mentionnées aux 2° et 3° de l'article 39 B et à
+l'article 47 A.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 87, 87 A, 39 B, 47 A
-
-	**Créé par**:
-
-	  - Décret n°85-1343 1985-12-16 art. 1, art. 2 , art. 3 JORF 20 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°2008-1430 du 22 décembre 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. R133-14 (VD)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 47 A
+	  - Code général des impôts, CGI. - art. 39 B
+	  - Code général des impôts, CGI. - art. 87
+	  - Code général des impôts, CGI. - art. 87 A
 
 
 ###### Article 39 D
@@ -6799,36 +6795,6 @@ l'administration fiscale.
 	**Codifié par**:
 
 	  - Décret n°86-1086 1986-10-07
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
-
-
-###### Article 39 F
-
-Dans les départements où la procédure instituée par l'article 39 C n'est pas devenue obligatoire, les dispositions de
-l'article 87 du code général des impôts demeurent applicables pour le dépôt des déclarations autres que celles mentionnées au
-articles 39 B et 47 A.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 87
-	  - CGIAN3 39 C, 39 B, 47 A
-
-	**Créé par**:
-
-	  - Décret n°85-1344 du 16 décembre 1985 - art. 2 (V) JORF 20 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1430 du 22 décembre 2008 - art. 1
 
 	**Liens**:
 
