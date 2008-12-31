@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2009-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9325,6 +9325,38 @@ Ces renseignements  sont mentionnés sur la déclaration prévue au 1 de l'artic
 	  - HISTO: Edition du 31 mars 1999
 
 
+##### 8° : Option pour le versement forfaitaire libératoire de l'impôt sur le revenu
+
+###### Article 41 DG ter
+
+I.-L'option pour le versement forfaitaire libératoire prévue au I de l'article 151-0 du code général des impôts est exercée
+selon les modalités prévues à l'article R. 133-30-1 du code de la sécurité sociale. 
+
+II.-La déclaration de chiffre d'affaires ou de recettes ainsi que le versement de l'impôt dû s'effectuent selon les règles
+fixées aux articles R. 133-30-2 à R. 133-30-4 du code de la sécurité sociale. 
+
+III.-En cas de cessation d'activité, d'abandon ou de perte du régime mentionné au IV de l'article 151-0 du code général des
+impôts, le contribuable est soumis aux obligations prévues à l'article R. 133-30-5 du code de la sécurité sociale. 
+
+IV.-En cas de non-paiement des sommes dues ou de paiement partiel de ces dernières aux dates mentionnées à l'article R.
+133-30-2 du code de la sécurité sociale, leur recouvrement s'effectue selon les dispositions mentionnées aux articles R.
+133-30-6 et R. 133-30-7 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1476 du 30 décembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 151-0
+	  - Code de la sécurité sociale. - art. R133-30-1
+	  - Code de la sécurité sociale. - art. R133-30-2 (V)
+	  - Code de la sécurité sociale. - art. R133-30-5
+	  - Code de la sécurité sociale. - art. R133-30-6 (V)
+
+
 ##### Section II : Revenu global
 
 ##### 0I bis-0 : Contrats d'assurance groupe des professions indépendantes au titre de la retraite, de la prévoyance et de la perte d'emploi subie
@@ -12081,6 +12113,55 @@ de la deuxième année suivant celle de la conclusion du prêt.
 	  - Code général des impôts, CGI. - art. 200 quaterdecies
 	  - Code général des impôts, CGI. - art. 6
 	  - Code de l'urbanisme - art. R*424-16
+
+
+##### 18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques
+
+###### Article 46 AZB
+
+La condition d'exposition au public prévue au 2° du II de l'article 199 duovicies du code général des impôts est
+satisfaite : 
+
+1° Lorsque l'objet est exposé au public dans un immeuble ouvert à la visite dans les conditions prévues à l'article 41 I. 
+
+La condition d'exposition au public est réputée être réalisée même lorsque l'objet n'est pas exposé de manière continue
+jusqu'au terme de la période minimale de cinq années mentionnée au 2° du II de l'article 199 duovicies susmentionné, dès lors
+que les restrictions à l'exposition au public sont prescrites par les services de l'Etat chargés des monuments historiques ; 
+
+2° Lorsqu'il est confié, en vue de son exposition au public, à l'un des organismes suivants : 
+
+a. Un musée auquel a été attribuée l'appellation " musée de France " prévue à l'article L. 441-1 du code du patrimoine ou un
+musée d'une collectivité territoriale ; 
+
+b. La Bibliothèque nationale de France ou une autre bibliothèque de l'Etat, d'une collectivité territoriale ou d'une autre
+personne publique ; 
+
+c. Un service d'archives de l'Etat, d'une collectivité territoriale ou d'une autre personne publique. 
+
+La condition d'exposition au public est réputée être réalisée même lorsque l'organisme mentionné aux a à c n'expose pas
+l'objet qui lui est confié de manière continue, dès lors que l'objet demeure confié à cet organisme jusqu'au terme de la
+période minimale de cinq années ; 
+
+3° Lorsqu'il est confié, en vue de son exposition au public, à une personne publique ou privée occupant le domaine public
+maritime, fluvial, ferroviaire ou aéronautique, ayant conclu à cet effet une convention avec le propriétaire de l'objet et
+les services de l'Etat chargés des monuments historiques. 
+
+Cette convention prévoit les conditions et les modalités pratiques de l'exposition au public de l'objet, notamment en
+fonction de sa nature, de sa destination et des contraintes liées à sa conservation. Elle peut prévoir que la personne
+dépositaire de l'objet n'exposera pas ce dernier de manière continue, dès lors que l'objet demeure confié à cette personne
+jusqu'au terme de la période minimale de cinq années.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1479 du 30 décembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 I
+	  - Code général des impôts, CGI. - art. 199 duovicies
+	  - Code du patrimoine - art. L441-1
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
@@ -18709,27 +18790,30 @@ est calculé en prenant en compte les avances remboursables sans intérêt vers�
 ###### Article 49 septies YQ
 
 Pour le calcul du crédit d'impôt prévu à l'article 244 quater J du code général des impôts au titre d'une année, les avances
-remboursables doivent être prises en compte dans leur totalité à compter du premier déblocage des fonds.
+remboursables doivent être prises en compte dans leur totalité à compter du premier déblocage des fonds. 
 
 Les éléments de nature à modifier le montant et les conditions de remboursement de l'avance remboursable sans intérêt doivent
 être pris en compte pour la production de l'attestation portant le calcul du crédit d'impôt et délivrée par l'organisme
-mentionné au troisième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de
-crédit.
+mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de
+crédit. 
+
+Par exception, lorsque les emprunteurs dont le ou les avis d'imposition font apparaître, par rapport aux revenus fiscaux de
+référence déclarés, un écart justifiant une baisse de l'avantage dont ils ont bénéficié et qu'ils ont régularisé cette
+situation auprès de l'établissement de crédit entre le 1er janvier et le 31 mars de l'année suivant celle de l'offre, les
+éléments ayant modifié le montant et les conditions de remboursement de l'avance peuvent être pris en compte sur
+l'attestation délivrée par l'organisme mentionné au deuxième alinéa au plus tard la deuxième année qui suit celle de
+l'émission de l'offre.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2008-1468 du 22 décembre 2008 - art. 1
+
 	**Cite**:
 
-	  - CGI 244 quater J
-	  - Code de la construction et de l'habitation. - art. L312-1 (M)
-
-	**Créé par**:
-
-	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 244 quater J
+	  - Code de la construction et de l'habitation. - art. L312-1
 
 
 ###### Article 49 septies YR
@@ -36671,169 +36755,6 @@ b. Et s'il y a lieu une copie du procès-verbal de tirage au sort des titres amo
 	  - Code général des impôts, CGI. - art. 238 septies B (V)
 
 
-###### Article 381 KA
-
-Les revenus des obligations qui font l'objet d'une gestion collective selon les modalités prévues à l'article D. 221-106 du
-code monétaire et financier donnent lieu à l'application de la retenue à la source prévue au 1 de l'article 119 bis du code
-général des impôts dans les conditions fixées aux articles 381 KB à 381 KE.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 119 bis
-	  - CGIAN3 381 KB à 381 KE
-	  - Code monétaire et financier - art. D221-106
-
-	**Modifié par**:
-
-	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-
-###### Article 381 KB
-
-1° Les établissements émetteurs sont autorisés à suspendre le versement des acomptes prévus à l'article 1673 du code général
-des impôts et à l'article 381 K, à concurrence de la retenue à la source calculée sur les intérêts courus des obligations
-qui, dès leur émission, sont inscrites à l'actif d'une gestion collective en emploi des sommes apportées par les titulaires
-de livrets de développement durable ; 
-
-2° A chaque échéance des intérêts de ces obligations, l'établissement émetteur compare les termes suivants : 
-
-Le nombre de ces obligations au titre desquelles les versements d'acomptes de retenue à la source ont été suspendus ; 
-
-Le nombre de ces obligations qui font effectivement l'objet d'une gestion collective. 
-
-Lorsque le premier terme est supérieur au second, l'établissement émetteur verse la retenue à la source afférente aux
-obligations excédentaires au service des impôts dont il dépend dans les quinze jours qui suivent le mois civil au cours
-duquel les intérêts ont été payés. 
-
-Dans le cas contraire, la retenue à la source afférente au surplus d'obligations gérées collectivement est restituée à
-l'établissement émetteur ; 
-
-3° Au cours des douze mois suivant chaque échéance, l'établissement émetteur verse au service des impôts dont il dépend les
-acomptes de la retenue à la source afférente aux obligations qui, à cette échéance, ne faisaient pas l'objet d'une gestion
-collective ; 
-
-4° L'établissement émetteur verse à l'établissement chargé de la gestion collective, en même temps que l'intérêt met, la
-retenue à la source afférente aux obligations inscrites à son actif et représentative des acomptes dont les versements ont
-été suspendus. Les sommes correspondantes sont portées au crédit des livrets de développement durable.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 2 du décret n° 84-121 du 22 février 1984, et des articles 5 et 6 du décret
-n° 2007-161 du 6 février 2007.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 K
-	  - Code général des impôts, CGI. - art. 1673
-
-
-###### Article 381 KC
-
-Lorsque des obligations sont inscrites à l'actif d'une gestion collective après leur émission et y figurent à l'échéance de
-leurs intérêts, la retenue à la source versée depuis l'échéance précédente, ou depuis la date de l'émission s'il s'agit de la
-première échéance, est restituée à l'établissement émetteur pour le compte de la gestion collective.
-
-L'émetteur suspend ensuite le versement des acomptes de retenue à la source afférente à ces obligations et procède comme aux
-2°, 3° et 4° de l'article 381 KB.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 381 KB 2°, 3°, 4°
-
-	**Modifié par**:
-
-	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-
-###### Article 381 KD
-
-Le versement d'intérêts à une gestion collective ne peut donner lieu à l'établissement d'un certificat de crédit d'impôt.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-
-###### Article 381 KE
-
-Les établissements chargés de la gestion collective des obligations visées à l'article 381 KA fournissent aux établissements
-émetteurs à l'échéance des intérêts afférents à ces obligations, pour chaque emprunt :
-
-Le nombre des obligations faisant l'objet d'une gestion collective ;
-
-Le montant des intérêts échus afférents à ces obligations.
-
-Les établissements émetteurs des obligations visées à l'article précité déposent au service des impôts dont ils dépendent,
-dans les quinze jours suivant le mois civil au cours duquel les intérêt ont été payés, un état mentionnant pour chaque
-emprunt :
-
-Le nombre d'obligations faisant l'objet à l'échéance d'une gestion collective et le taux de l'emprunt correspondant ;
-
-Le montant total des intérêts payés lors de cette échéance ;
-
-Le nombre d'obligations faisant l'objet d'une gestion collective à l'échéance précédente ;
-
-Le montant de la retenue à la source à verser au Trésor ou restituable.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 381 KA
-
-	**Modifié par**:
-
-	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1266 du 4 décembre 2008 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-
 ###### Article 381 Q
 
 Les dispositions relatives au recouvrement prévues au titre IV du livre des procédures fiscales pour les impôts recouvrés par
@@ -39284,5 +39205,35 @@ Article devenu sans objet en conséquence de la la loi n° 2008-1249 du 1er déc
 
 	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
 	  - HISTO: Edition du 31 août 2004
+
+
+###### Article 446 ter C
+
+La demande de versement d'acomptes mensuels de prime pour l'emploi mentionnée à l'
+article 1665 ter du code général des impôts
+est adressée ou déposée, par tout moyen, auprès du service des impôts chargé du recouvrement dont les coordonnées sont
+indiquées sur l'avis d'impôt sur le revenu de l'année qui précède celle du versement des acomptes. 
+
+Elle est accompagnée d'un relevé d'identité bancaire ou de caisse d'épargne établi au nom du demandeur. 
+
+Le versement des acomptes est effectué par virement sur le compte bancaire ou de caisse d'épargne ouvert au nom du demandeur.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la la loi n° 2008-1249 du 1er décembre 2008, article 12 8° et 28-II B.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-783 du 18 août 2008 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2010-421  du 27 avril 2010 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1665 ter
 
 

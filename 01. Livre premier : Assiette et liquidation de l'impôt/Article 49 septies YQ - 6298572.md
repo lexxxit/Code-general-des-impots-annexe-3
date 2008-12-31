@@ -1,24 +1,27 @@
 # Article 49 septies YQ
 
 Pour le calcul du crédit d'impôt prévu à l'article 244 quater J du code général des impôts au titre d'une année, les avances
-remboursables doivent être prises en compte dans leur totalité à compter du premier déblocage des fonds.
+remboursables doivent être prises en compte dans leur totalité à compter du premier déblocage des fonds. 
 
 Les éléments de nature à modifier le montant et les conditions de remboursement de l'avance remboursable sans intérêt doivent
 être pris en compte pour la production de l'attestation portant le calcul du crédit d'impôt et délivrée par l'organisme
-mentionné au troisième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de
-crédit.
+mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de
+crédit. 
+
+Par exception, lorsque les emprunteurs dont le ou les avis d'imposition font apparaître, par rapport aux revenus fiscaux de
+référence déclarés, un écart justifiant une baisse de l'avantage dont ils ont bénéficié et qu'ils ont régularisé cette
+situation auprès de l'établissement de crédit entre le 1er janvier et le 31 mars de l'année suivant celle de l'offre, les
+éléments ayant modifié le montant et les conditions de remboursement de l'avance peuvent être pris en compte sur
+l'attestation délivrée par l'organisme mentionné au deuxième alinéa au plus tard la deuxième année qui suit celle de
+l'émission de l'offre.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2008-1468 du 22 décembre 2008 - art. 1
+
 	**Cite**:
 
-	  - CGI 244 quater J
-	  - Code de la construction et de l'habitation. - art. L312-1 (M)
-
-	**Créé par**:
-
-	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 244 quater J
+	  - Code de la construction et de l'habitation. - art. L312-1
