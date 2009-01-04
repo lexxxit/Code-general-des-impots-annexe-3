@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-01-04
+Version Consolidée au 2009-01-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -33922,63 +33922,6 @@ septembre de chaque année.
 
 ##### Section III : Taxes perçues au profit de l'Office des migrations internationales
 
-###### Article 344 bis
-
-Cet article reproduit les dispositions de l'article D. 341-1 du code du travail :
-
-"Le montant de la taxe prévue à l'article L. 341-8 du code du travail est perçu lors de la remise d'un titre de séjour valant
-autorisation de travail ou portant mention de celle-ci à un étranger titulaire d'un tel titre et en remplacement de celui-ci.
-
-Les changements de validité professionnelle ou géographique sur la carte de séjour temporaire portant la mention "salarié" ne
-donnent pas lieu à la perception de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
-
-	**Modifié par**:
-
-	  - Décret n°2005-330 du 6 avril 2005 - art. 4 () JORF 8 avril 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2009-2 du 2 janvier 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du travail - art. D341-1
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-
-###### Article 344 quater
-
-Le montant de la taxe prévue à l'article 1635-0 bis du code général des impôts est fixé à 275 euros. Ce montant est de 55
-euros pour les étrangers auxquels est délivrée une carte de séjour temporaire portant la mention "étudiant".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635-0 bis
-
-	**Modifié par**:
-
-	  - Décret n°2007-320 du 8 mars 2007 - art. 1 () JORF 10 mars 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-2 du 2 janvier 2009 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-
 ###### Article 344 quinquies
 
 La taxe mentionnée à l'article 1635 bis du code général des impôts est recouvrée conformément à l'article D. 341-3 du code du
@@ -34036,35 +33979,6 @@ Modifications effectuées en conséquence des articles 1er-II [3°] et 155-V de 
 
 	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
 	  - HISTO: Edition du 1er janvier 2006
-
-
-###### Article 344 ter
-
-Le montant de la taxe prévue à l'article 1635 bis du code général des impôts est fixé à 70 euros.
-
-Les ressortissants des Etats parties contractantes à la Charte sociale européenne sont exonérés du versement de cette taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635 bis
-
-	**Modifié par**:
-
-	  - Décret n°2007-321 du 8 mars 2007 - art. 1 () JORF 10 mars 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-2 du 2 janvier 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code du travail - art. D5221-38 (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section V : Fonds national de garantie des calamités agricoles
