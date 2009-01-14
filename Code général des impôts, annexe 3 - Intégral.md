@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-01-05
+Version Consolidée au 2009-01-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9325,6 +9325,24 @@ Ces renseignements  sont mentionnés sur la déclaration prévue au 1 de l'artic
 	  - HISTO: Edition du 31 mars 1999
 
 
+##### 7° : Impatriés non salariés
+
+###### Article 41 DG bis
+
+Sont éligibles aux dispositions du b du 1 du I de l'article 81 C du code général des impôts, les activités de recherche et de
+développement expérimental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-43 du 12 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 81 C
+
+
 ##### 8° : Option pour le versement forfaitaire libératoire de l'impôt sur le revenu
 
 ###### Article 41 DG ter
@@ -16075,72 +16093,69 @@ clause prévoyant que l'oeuvre ne sera pas financée pour plus de 50 % de son co
 
 ###### Article 46 quindecies E
 
-Pour bénéficier de l'avantage fiscal prévu à l'article 217 septies du code général des impôts, le souscripteur au capital
-agréé d'une Sofica doit joindre à sa déclaration de revenus ou de résultats un relevé délivré par cette société et
-comprenant :
+I.-Pour bénéficier de l'avantage fiscal prévu aux articles 199 unvicies et 217 septies du code général des impôts, le
+souscripteur au capital agréé d'une Sofica doit produire sur demande du service, à l'appui de sa déclaration de revenus ou de
+résultats un relevé délivré par cette société et comprenant : 
 
-L'identité et l'adresse de l'actionnaire ;
+L'identité et l'adresse de l'actionnaire ; 
 
-Le montant du capital agréé et la date de l'agrément ;
+Le montant du capital agréé et la date de l'agrément ; 
 
-Le nombre et les numéros des actions souscrites, le montant et la date de leur souscription ;
+Le nombre et les numéros des actions souscrites, le montant et la date de leur souscription ; 
 
-La quote-part du capital détenue par le souscripteur ;
+La quote-part du capital détenue par le souscripteur ; 
 
-La date et le montant des versements effectués au titre de la souscription des actions ;
+La date et le montant des versements effectués au titre de la souscription des actions ; 
 
-Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire ainsi que le montant et la date des cessions.
+Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire ainsi que le montant et la date des cessions. 
 
 Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la Sofica adresse
-avant le 16 février de l'année suivante à la direction des services fiscaux du domicile du cédant le relevé mentionné ci-
-dessus ou un duplicata de ce relevé.
+avant le 31 mars de l'année suivante à la direction des services fiscaux du domicile du cédant le relevé mentionné ci-dessus
+ou un duplicata de ce relevé. 
 
-Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration.
+Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration. 
+
+II. ― Lorsque la majoration du taux de la réduction d'impôt prévue au second alinéa du 3 de l'article 199 unvicies du code
+général des impôts est applicable, les souscripteurs doivent également produire, sur demande du service, à l'appui de leur
+déclaration de revenus, une copie de l'annexe à la décision d'agrément délivrée par le ministre chargé de l'économie et des
+finances sur laquelle figure l'engagement de la société de réaliser au moins 10 % de ses investissements dans les conditions
+prévues au a de l'article 238 bis HE du code général des impôts. 
+
+III. ― Pour l'application de l'article 199 unvicies du code général des impôts, le relevé mentionné au I doit être délivré
+par la société avant le 31 mars de l'année suivant celle de la souscription.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 217 septies
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 102 (V) JORF 31 décembre 2006
+	  - Décret n°2009-42 du 12 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 unvicies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 217 septies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis HE (V)
 
 
 ###### Article 46 quindecies F
 
 Les sociétés de réalisation mentionnées au a de l'article 238 bis HG du code général des impôts doivent produire pour chaque
 oeuvre cinématographique ou audiovisuelle une attestation indiquant que l'oeuvre remplit les conditions prévues pour l'octroi
-de l'agrément mentionné à l'article 238 bis HE du même code.
+de l'agrément mentionné à l'article 238 bis HE du même code. 
 
-Le ministre de la culture délivre, à la demande des sociétés concernées, les attestations visées au premier alinéa.
+Le directeur général du Centre national de la cinématographie délivre, à la demande des sociétés concernées, les attestations
+visées au premier alinéa.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 238 bis HE, 238 bis HG
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2009-42 du 12 janvier 2009 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis HE (V)
+	  - Code général des impôts, CGI. - art. 238 bis HG
 
 
 ##### Section 0I quinquies : Financement en capital de la pêche artisanale
@@ -33918,67 +33933,6 @@ septembre de chaque année.
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis (V)
-
-
-##### Section III : Taxes perçues au profit de l'Office des migrations internationales
-
-###### Article 344 quinquies
-
-La taxe mentionnée à l'article 1635 bis du code général des impôts est recouvrée conformément à l'article D. 341-3 du code du
-travail.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er-II [3°] et 155-V de la loi n° 2008-1425 du 27 décembre 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635 bis
-	  - Code du travail - art. D341-3
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Modifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
-
-	**Liens**:
-
-	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
-	  - HISTO: Edition du 1er janvier 2006
-
-
-###### Article 344 quinquies A
-
-Les taxes prévues aux articles 1635-0 bis et 1635 bis-0A du code général des impôts sont perçues dans les conditions prévues
-à l'article 344 quinquies.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles 1er-II [3°] et 155-V de la loi n° 2008-1425 du 27 décembre 2008.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1635-0 bis, 1635 bis-0A, 344 quinquies
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Modifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
-
-	**Liens**:
-
-	  - PERIME: Décret n°2009-389 du 7 avril 2009 - art. 3
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section V : Fonds national de garantie des calamités agricoles
