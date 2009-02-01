@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-01-23
+Version Consolidée au 2009-02-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15650,6 +15650,68 @@ prénoms, adresse et lien de parenté des associés.
 	  - Décret n°82-881 1982-10-15
 
 
+##### I bis : Sociétés anonymes, sociétés par actions simplifiées et sociétés à responsabilité limitée. Option pour le régime fiscal des sociétés de personnes
+
+###### Article 46 terdecies DA
+
+I.-La notification de l'option des sociétés anonymes, sociétés par actions simplifiées ou sociétés à responsabilité limitée
+pour le régime fiscal des sociétés de personnes en application des dispositions de l'article 239 bis AB du code général des
+impôts s'effectue selon le modèle établi par l'administration. 
+
+La notification comporte la date d'effet de l'option, l'indication de la dénomination sociale, de l'adresse du siège et, si
+elle est différente, du principal établissement de la société qui opte ainsi que le numéro d'identité qui lui a été attribué
+dans les conditions du premier alinéa de l'article R. 123-221 du code de commerce. 
+
+Elle est accompagnée de la liste des associés à la date d'ouverture du premier exercice auquel l'option s'applique, avec la
+mention de leurs nom, prénoms, dénomination sociale et adresse et, le cas échéant, des fonctions exercées par ces associés
+dans la société. 
+
+Cette notification est signée par l'ensemble des associés, à l'exclusion des associés mentionnés au deuxième alinéa du I de
+l'article 239 bis AB précité. 
+
+II.-Les sociétés qui ont opté pour le régime prévu à l'article 239 bis AB du code général des impôts joignent aux
+déclarations de résultats déposées au titre des exercices pendant lesquels l'option s'applique un état conforme au modèle
+établi par l'administration, mentionnant : 
+
+1° L'identité, l'adresse du siège et, si elle est différente, celle du principal établissement de la société ayant opté pour
+le régime prévu à l'article 239 bis AB du code général des impôts ; 
+
+2° La composition du capital, en titres et en droits de vote, à la clôture de l'exercice, avec les modifications intervenues
+en cours d'exercice ; 
+
+3° Le cas échéant, l'identité des associés définis au deuxième alinéa du I de l'article 239 bis AB du code général des
+impôts, avec l'indication de leur dénomination, de leur adresse et de la quote-part du capital et des droits de vote qu'ils
+ont détenue ensemble au cours de l'exercice ; 
+
+4° Les nom, prénoms et adresse des associés personnes physiques qui ont détenu ensemble au cours de l'exercice, selon les
+modalités mentionnées au deuxième alinéa du I de l'article 239 bis AB du code général des impôts, au moins 50 % du capital et
+des droits de vote ; 
+
+5° Les nom, prénoms, adresse et fonction dans la société des associés personnes physiques exerçant une des fonctions de
+direction mentionnées au premier alinéa du I de l'article 239 bis AB du code général des impôts, qui ont détenu ensemble au
+cours de l'exercice, selon les modalités mentionnées au deuxième alinéa du I de l'article précité, au moins 34 % du capital
+et des droits de vote ; 
+
+6° La quote-part du capital et des droits de vote déterminée selon les modalités mentionnées au deuxième alinéa du I de
+l'article 239 bis AB du code général des impôts, détenue au cours de l'exercice par chacun des associés mentionnés aux 4° et
+5°. 
+
+III.-La renonciation au régime fiscal des sociétés de personnes s'effectue sur papier libre. Elle comporte l'indication de la
+dénomination sociale de la société, du lieu du siège et, s'il est différent, du principal établissement de la société, ainsi
+que l'indication de l'exercice auquel elle s'applique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-116 du 30 janvier 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-221 (V)
+	  - Code général des impôts, CGI. - art. 239 bis AB  (V)
+
+
 ##### II : Détermination de la part de bénéfices correspondant aux droits détenus dans une société de personnes, un groupement d'intérêt économique, un groupement d'intérêt public ou un groupement européen d'intérêt économique
 
 ###### Article 46 terdecies E
@@ -16724,54 +16786,54 @@ Trésor pour le compte de l'auteur.
 1. Les sociétés en nom collectif ou en commandite simple qui n'ont pas opté pour le régime fiscal des sociétés de capitaux et
 les sociétés ou groupements exercant une activité libérale non passibles de l'impôt sur les sociétés sont tenus de fournir au
 service des impôts, en même temps que la déclaration annuelle prévue aux articles 53 A ou 97 du code général des impôts, un
-état indiquant :
+état indiquant : 
 
-1° Les noms, prénoms et domiciles des associés ;
+1° Les noms, prénoms et domiciles des associés ; 
 
 2° La part des bénéfices de l'exercice ou des exercices clos au cours de l'année précédente correspondant aux droits de
-chacun des associés en nom collectif ou commandités dans la société ;
+chacun des associés en nom collectif ou commandités dans la société ; 
 
 3° En ce qui concerne les sociétés en commandite simple, le montant des bénéfices distribués aux commanditaires au cours de
-l'année précédente.
+l'année précédente. 
 
-Les gérants des sociétés à responsabilité limitée ayant opté pour le régime fiscal des sociétés de personnes sont soumis aux
-mêmes obligations.
+Les sociétés anonymes, les sociétés par actions simplifiées et les sociétés à responsabilité limitée ayant opté pour le
+régime des sociétés de personnes sont soumises aux mêmes obligations. 
 
-1 bis (Abrogé).
+1 bis (Abrogé). 
 
 2. Les gérants des sociétés en participation et des sociétés de copropriétaires de navires qui n'ont pas opté pour le régime
-fiscal des sociétés de capitaux sont tenus de fournir, dans les conditions prévues au 1, un état indiquant :
+fiscal des sociétés de capitaux sont tenus de fournir, dans les conditions prévues au 1, un état indiquant : 
 
-1° Les noms, prénoms, professions et domiciles des associés gérants et des coparticipants ;
+1° Les noms, prénoms, professions et domiciles des associés gérants et des coparticipants ; 
 
 2° La part des bénéfices de l'exercice ou des exercices clos au cours de l'année précédente revenant à chaque associé-gérant
-ou coparticipant.
+ou coparticipant. 
 
 3. Les gérants des sociétés à responsabilité limitée n'ayant pas opté pour le régime fiscal des sociétés de personnes sont
 tenus de fournir au service des impôts, en même temps que la déclaration prévue au 1 de l'article 223 du code général des
-impôts, un état indiquant :
+impôts, un état indiquant : 
 
-1° Les noms, prénoms, qualités et domiciles des associés ;
+1° Les noms, prénoms, qualités et domiciles des associés ; 
 
-2° Le nombre de parts sociales appartenant en toute propriété ou en usufruit à chaque associé ;
+2° Le nombre de parts sociales appartenant en toute propriété ou en usufruit à chaque associé ; 
 
 3° Le montant des sommes versées à chacun des associés pendant la période retenue pour l'assiette de l'impôt sur les
 sociétés, à titre de traitements, émoluments et indemnités, remboursements forfaitaires de frais ou autres rémunérations de
-leurs fonctions dans la société, et l'année au cours de laquelle ces versements ont été effectués.
+leurs fonctions dans la société, et l'année au cours de laquelle ces versements ont été effectués. 
 
-4. Les sociétés en commandite par actions sont tenues de fournir, dans les conditions prévues au 3, un état indiquant :
+4. Les sociétés en commandite par actions sont tenues de fournir, dans les conditions prévues au 3, un état indiquant : 
 
-1° Les noms, prénoms et domiciles des associés gérants ;
+1° Les noms, prénoms et domiciles des associés gérants ; 
 
 2° Le montant des sommes versées à chacun des associés gérants pendant la période retenue pour l'assiette de l'impôt sur les
 sociétés, à titre de traitements, émoluments et indemnités, remboursements forfaitaires de frais ou autres rémunérations de
-leurs fonctions dans la société, et l'année au cours de laquelle ces versements ont été effectués.
+leurs fonctions dans la société, et l'année au cours de laquelle ces versements ont été effectués. 
 
 5. Les gérants des sociétés en nom collectif ou en commandite simple ayant opté pour le régime fiscal des sociétés de
 capitaux sont tenus de fournir, dans les conditions prévues au 3, un état indiquant, outre les renseignements visés au 1° du
 1 le montant des sommes versées à chacun des associés en nom ou commandités, pendant la période retenue pour l'assiette de
 l'impôt sur les sociétés, à titre de traitements, émoluments et indemnités, remboursements forfaitaires de frais ou autres
-rémunérations de leurs fonctions dans la société et l'année au cours de laquelle ces versements ont été effectués.
+rémunérations de leurs fonctions dans la société et l'année au cours de laquelle ces versements ont été effectués. 
 
 6. Les gérants des sociétés en participation et des sociétés de copropriétaires de navires ayant opté pour le régime fiscal
 des sociétés de capitaux sont tenus de fournir, dans les conditions prévues au 3, un état indiquant, outre les renseignements
@@ -16782,26 +16844,20 @@ effectués.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 53 A, 97, 223
-
 	**Modifié par**:
 
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2009-116 du 30 janvier 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies V (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41-0 bis E (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - Code général des impôts, CGI. - art. 223 (V)
+	  - Code général des impôts, CGI. - art. 53 A (V)
+	  - Code général des impôts, CGI. - art. 97 (V)
 
 
 ##### Section II bis : Déclarations concernant les revenus de capitaux mobiliers
