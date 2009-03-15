@@ -2,9 +2,9 @@
 
 Pour l'application des quatrième, cinquième et sixième alinéas de l'article 238 bis HW du code général des impôts, lorsqu'un
 investissement supplémentaire afférent à un site répondant aux conditions fixées à l'article 238 bis HW précité a été décidé
-au plus tard à l'expiration du délai visé au deuxième alinéa du 1 de l'article 223 du même code, pour la déclaration de
-l'antépénultième exercice clos à la date de la demande d'agrément visé au deuxième alinéa de l'article 238 bis HW précité, la
-consommation supplémentaire liée à cet investissement est prise en compte dans la consommation du site concerné. 
+au plus tard à l'expiration du délai visé au deuxième alinéa du 1 de l'article 223 du même code, pour la déclaration du
+dernier exercice clos en 2005, la consommation supplémentaire liée à cet investissement est prise en compte dans la
+consommation du site concerné. 
 
 Pour l'application de ces mêmes alinéas, il n'est pas tenu compte de l'électricité produite par l'associé sur un site de
 consommation pour son usage propre dans les volumes d'électricité ou d'énergie consommées.
@@ -13,9 +13,9 @@ consommation pour son usage propre dans les volumes d'électricité ou d'énergi
 
 	**Modifié par**:
 
-	  - Décret n°2008-207 du 29 février 2008 - art. 1
+	  - Décret n°2009-288 du 13 mars 2009 - art. 3
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis HW (V)
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 238 bis HW
