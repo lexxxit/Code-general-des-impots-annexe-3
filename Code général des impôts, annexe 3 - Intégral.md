@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-03-16
+Version Consolidée au 2009-03-21
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -34925,6 +34925,80 @@ s'ils ne sont au nombre de cinq au moins présents. En cas de partage égal des 
 	**Cite**:
 
 	  - CGI 1650
+
+
+##### I bis : Commission intercommunale des impôts directs.
+
+###### Article 346
+
+Pour l'application du 2 de l'article 1650 A du code général des impôts, lorsque le périmètre de l'établissement public de
+coopération intercommunale se situe sur le territoire de plusieurs départements, le directeur des services fiscaux compétent
+est celui du département dans lequel l'établissement public de coopération intercommunale a son siège tel qu'il a été
+déterminé dans les statuts de cet établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-303 du 18 mars 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 346 A (V)
+
+
+###### Article 346 A
+
+La désignation des membres de la commission intercommunale des impôts directs intervient dans les deux mois à compter de
+l'installation de l'organe délibérant de l'établissement public de coopération intercommunale suivant le renouvellement
+général des conseils municipaux. Toutefois, pour la première année au titre de laquelle la commission exerce ses compétences,
+la nomination des membres de la commission intervient avant le 1er janvier de cette année.
+
+A défaut de liste de présentation des contribuables prévue au 2 de l'article 1650 A du code général des impôts, les membres
+de la commission sont désignés d'office par le directeur des services fiscaux un mois après mise en demeure de délibérer
+adressée à l'organe délibérant de l'établissement public de coopération intercommunale. Le directeur des services fiscaux
+mentionné à l'article 346 peut, sans mise en demeure, procéder à des désignations d'office si la liste de présentation ci-
+dessus mentionnée ne contient pas quarante noms dont quatre domiciliés en dehors du périmètre du groupement, ou contient des
+noms de personnes ne remplissant pas les conditions exigées au 1 de l'article 1650 A du code général des impôts. 
+
+En cas de décès, de démission ou de révocation de cinq au moins des membres de la commission, il est procédé dans les mêmes
+conditions à de nouvelles désignations. 
+
+Le mandat des commissaires ainsi désignés prend fin avec celui des commissaires choisis lors du renouvellement des délégués
+de l'organe délibérant de l'établissement public de coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-303 du 18 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 346
+
+
+###### Article 346 B
+
+La commission intercommunale des impôts directs mentionnée à l'article 1650 A du code général des impôts se réunit à la
+demande du directeur des services fiscaux du département du siège de l'établissement public de coopération intercommunale ou
+de son délégué et sur convocation du président de l'établissement public de coopération intercommunale ou du vice-président
+délégué ou à défaut du plus âgé des commissaires titulaires dans un délai de deux mois à compter de cette demande. En cas de
+défaut de réunion de la commission dans ce délai, il est considéré qu'elle refuse de prêter son concours. 
+
+Si le directeur des services fiscaux n'a pas invité, avant le 31 janvier de l'année au titre de laquelle les modifications
+relatives aux évaluations foncières doivent être intégrées dans les rôles, le président de l'établissement public de
+coopération intercommunale à réunir la commission, ce dernier peut prendre l'initiative de la convoquer, après en avoir
+informé le directeur des services fiscaux. 
+
+Les membres de la commission délibèrent en commun à la majorité des suffrages. Ils ne peuvent prendre aucune décision s'ils
+ne sont au nombre de neuf au moins présents. En cas de partage égal des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-303 du 18 mars 2009 - art. 1
 
 
 ##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires
