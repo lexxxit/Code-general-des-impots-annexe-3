@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-03-21
+Version Consolidée au 2009-03-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -485,57 +485,55 @@ octodecies B ainsi que les modalités de décompte de la déduction au titre de 
 
 ###### Article 2 octodecies B
 
-La société civile de placement immobilier mentionnée au premier alinéa de l'article 31 bis doit, avant le 31 mars de chaque
-année, faire parvenir à ses associés un document établi en double exemplaire conformément à un modèle fixé par
-l'administration et comportant les éléments suivants :
+La société civile de placement immobilier mentionnée au premier alinéa de l'article 31 bis doit, au plus tard le deuxième
+jour ouvré suivant le premier mai de chaque année, faire parvenir à ses associés un document établi en double exemplaire
+conformément à un modèle fixé par l'administration et comportant les éléments suivants : 
 
-1° L'identité et l'adresse des associés ;
+1° L'identité et l'adresse des associés ; 
 
 2° Le nombre et les numéros des parts ou actions souscrites pour lesquelles le bénéfice de la déduction est demandé ainsi que
-le montant du capital souscrit correspondant ;
+le montant du capital souscrit correspondant ; 
 
-3° La date de souscription des parts ou actions et du versement des fonds ;
+3° La date de souscription des parts ou actions et du versement des fonds ; 
 
 4° Le nombre et les numéros des parts détenues au 1er janvier et au 31 décembre et, le cas échéant, des parts souscrites,
-acquises et transmises au cours de l'année ainsi que la date de ces opérations ;
+acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
 
 5° L'attestation que 95 % de la souscription, appréciés sans tenir compte des frais de collecte, pour laquelle le bénéfice de
 la déduction a été demandé, servent exclusivement à financer un investissement pour lequel les conditions d'application des
-déductions prévues au h et au l du 1° du I de l'article 31 du code général des impôts sont réunies ;
+déductions prévues au h et au l du 1° du I de l'article 31 du code général des impôts sont réunies ; 
 
 6° La nature des investissements réalisés au moyen des parts ou actions souscrites pour lesquelles le bénéfice de la
 déduction a été demandée, l'adresse des logements concernés, leur date d'acquisition ou d'achèvement, la date de leur
 première location et la surface à prendre en compte pour l'appréciation du plafond de loyer telle qu'elle est définie par les
-articles 2 terdecies A, 2 terdecies B et 2 terdecies C ;
+articles 2 terdecies A, 2 terdecies B et 2 terdecies C ; 
 
 7° L'attestation que le produit de la souscription annuelle est intégralement investi dans les dix-huit mois qui suivent la
-clôture de celle-ci ;
+clôture de celle-ci ; 
 
 8° L'engagement par la société de louer le logement dans les conditions et limites prévues au h ou au l du 1° du I de
 l'article 31 du code général des impôts. La société indique également le montant du loyer mensuel, charges non comprises, tel
-qu'il résulte du bail.
+qu'il résulte du bail. 
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 31 bis, 31
-	  - CGIAN3 2 terdecies A, 2 terdecies B, 2 terdecies C
-
 	**Modifié par**:
 
-	  - Décret n°2006-1005 2006-08-10 art. 1 O, P JORF 11 août 2006
-	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
+	  - Décret n°2009-316 du 20 mars 2009 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies A (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+	  - Code général des impôts, CGI. - art. 31
+	  - Code général des impôts, CGI. - art. 31 bis
 
 
 ###### Article 2 quaterdecies
@@ -853,8 +851,9 @@ déduction calculée en fonction du revenu brut. Les options prévues aux articl
 D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son
 acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux. 
 
-II.-La société doit, avant le 31 mars de chaque année, faire parvenir à ses associés un document établi en double exemplaire
-conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements suivants : 
+II.-La société doit, au plus tard le deuxième jour ouvré suivant le premier mai chaque année, faire parvenir à ses associés
+un document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année
+précédente, les renseignements suivants : 
 
 1° L'identité et l'adresse de l'associé ; 
 
@@ -893,11 +892,10 @@ Modification effectuée en conséquence de la péremption des articles 2 duodeci
 
 	**Modifié par**:
 
-	  - Décret n°2008-529 du 4 juin 2008 - art. 2
+	  - Décret n°2009-316 du 20 mars 2009 - art. 1
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 sexdecies-0 A quater (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies
@@ -905,6 +903,7 @@ Modification effectuée en conséquence de la péremption des articles 2 duodeci
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies D
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A quater
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A
@@ -6808,8 +6807,8 @@ l'administration fiscale.
 ###### Article 40 A
 
 I. Les contribuables soumis obligatoirement au régime de la déclaration contrôlée mentionné à l'article 96 du code général
-des impôts ou qui ont opté pour ce régime sont tenus de produire, au plus tard le 30 avril de chaque année, une déclaration
-indiquant : 
+des impôts ou qui ont opté pour ce régime sont tenus de produire, au plus tard le deuxième jour ouvré suivant le premier mai
+de chaque année, une déclaration indiquant : 
 
 a) La nature de l'activité qu'ils exercent ; 
 
@@ -6863,7 +6862,7 @@ auprès du service désigné par le ministre chargé du budget.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1604 du 14 décembre 2006 - art. 2 () JORF 16 décembre 2006
+	  - Décret n°2009-316 du 20 mars 2009 - art. 3
 
 	**Cité par**:
 
@@ -6871,14 +6870,10 @@ auprès du service désigné par le ministre chargé du budget.
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1647 B sexies (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1647 E (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 234 nonies (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 96 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 1647 B sexies
+	  - Code général des impôts, CGI. - art. 1647 E
+	  - Code général des impôts, CGI. - art. 234 nonies
+	  - Code général des impôts, CGI. - art. 96
 
 
 ###### Article 41-0 bis
@@ -12234,48 +12229,46 @@ intervenu.
 ###### Article 46 C
 
 I. Indépendamment des renseignements dont la production est déjà prévue par le code général des impôts, les sociétés visées à
-l'article 46 B sont tenues de remettre au service des impôts du lieu de leur principal établissement, avant le 1er mars de
-chaque année, une déclaration indiquant, pour l'année précédente :
+l'article 46 B sont tenues de remettre au service des impôts du lieu de leur principal établissement, au plus tard le
+deuxième jour ouvré suivant le premier mai de chaque année, une déclaration indiquant, pour l'année précédente : 
 
 a. Les nom, prénoms, adresse, date et lieu de naissance pour les personnes physiques et les dénomination, adresse et numéro
 d'identification au répertoire national des établissements (numéro SIRET) pour les personnes morales, des associés, le nombre
 et le montant des parts dont ils sont titulaires, la date des cessions ou acquisitions de parts intervenues en cours d'année,
-ainsi que l'identité du cédant et du cessionnaire ;
+ainsi que l'identité du cédant et du cessionnaire ; 
 
-b. La liste des immeubles de la société ;
+b. La liste des immeubles de la société ; 
 
 c. Les nom, prénoms, adresse des personnes, associés ou tiers, qui bénéficient gratuitement de la jouissance de tout ou
-partie de ces immeubles ;
+partie de ces immeubles ; 
 
 d. La part des revenus des immeubles de la société correspondant aux droits de chacun des associés et déterminée dans les
 conditions prévues aux articles 28 à 31 du code général des impôts. Toutefois, les sociétés dont certains membres relèvent de
 l'impôt sur les sociétés ou comprennent leur part de revenus dans les résultats d'une entreprise industrielle et commerciale
-déterminent la part des bénéfices revenant à ces membres selon les règles définies aux articles 38 et 39 du même code ;
+déterminent la part des bénéfices revenant à ces membres selon les règles définies aux articles 38 et 39 du même code ; 
 
-e. Le montant des recettes nettes soumises à la contribution mentionnée à l'article 234 nonies du code général des impôts ;
+e. Le montant des recettes nettes soumises à la contribution mentionnée à l'article 234 nonies du code général des impôts ; 
 
 II. La déclaration est établie en double exemplaire sur une formule délivrée par l'administration. La procédure de
 vérification de cette déclaration est suivie directement entre le service des impôts et la société.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 28 à 31, 38, 39, 234 nonies
-	  - CGIAN3 46 B
-
 	**Modifié par**:
 
-	  - Décret n°2001-573 du 29 juin 2001 - art. 1 () JORF 4 juillet 2001
+	  - Décret n°2009-316 du 20 mars 2009 - art. 4
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 GB (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 B
+	  - Code général des impôts, CGI. - art. 234 nonies
+	  - Code général des impôts, CGI. - art. 28
+	  - Code général des impôts, CGI. - art. 38
 
 
 ###### Article 46 D
@@ -34531,6 +34524,34 @@ pendant la ou les périodes indiquées, quel que soit le mode de règlement de c
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 H (V)
+
+
+##### III : Date de dépôt des déclarations
+
+###### Article 344 I-0 bis
+
+La date mentionnée dans le code général des impôts à la troisième phrase du premier alinéa de l'article 175, au deuxième
+alinéa du 1 de l'article 223, à la première et à la cinquième phrases du 1° du I de l'article 298 bis, au septième alinéa de
+l'article 302 bis KD, au I de l'article 1477, à la première phrase du premier alinéa du V de l'article 1609 septvicies, au b
+du 2° du II de l'article 1635 sexies, au IV de l'article 1647 E et à la première phrase du troisième alinéa de l'article 1679
+septies est fixée au deuxième jour ouvré suivant le premier mai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-316 du 20 mars 2009 - art. 5
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1609 septvicies
+	  - Code général des impôts, CGI. - art. 1635 sexies
+	  - Code général des impôts, CGI. - art. 1647 E
+	  - Code général des impôts, CGI. - art. 1679 septies
+	  - Code général des impôts, CGI. - art. 175
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 298 bis
+	  - Code général des impôts, CGI. - art. 302 bis KD
 
 
 #### Chapitre I bis : Déclaration des transferts de sommes, titres ou valeurs

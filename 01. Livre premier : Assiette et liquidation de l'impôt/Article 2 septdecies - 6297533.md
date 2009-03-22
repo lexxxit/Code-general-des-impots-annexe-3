@@ -8,8 +8,9 @@ déduction calculée en fonction du revenu brut. Les options prévues aux articl
 D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son
 acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux. 
 
-II.-La société doit, avant le 31 mars de chaque année, faire parvenir à ses associés un document établi en double exemplaire
-conformément à un modèle fixé par l'administration et comportant, pour l'année précédente, les renseignements suivants : 
+II.-La société doit, au plus tard le deuxième jour ouvré suivant le premier mai chaque année, faire parvenir à ses associés
+un document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année
+précédente, les renseignements suivants : 
 
 1° L'identité et l'adresse de l'associé ; 
 
@@ -48,11 +49,10 @@ Modification effectuée en conséquence de la péremption des articles 2 duodeci
 
 	**Modifié par**:
 
-	  - Décret n°2008-529 du 4 juin 2008 - art. 2
+	  - Décret n°2009-316 du 20 mars 2009 - art. 1
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 sexdecies-0 A quater (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies
@@ -60,6 +60,7 @@ Modification effectuée en conséquence de la péremption des articles 2 duodeci
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies D
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A quater
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A
