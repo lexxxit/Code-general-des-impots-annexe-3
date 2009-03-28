@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-03-28
+Version Consolidée au 2009-03-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -9182,6 +9182,44 @@ code général des impôts qui prend l'engagement visé à ce même 2°
 
 	  - Code général des impôts, CGI. - art. 151 octies B
 	  - Code général des impôts, CGI. - art. 41
+
+
+###### Article 41-0 A bis B
+
+L'état dont la production est prévue par le cinquième alinéa de l'article 151 octies C du code général des impôts mentionne
+les éléments suivants : 
+
+a) L'adresse du siège de la direction ou du principal établissement de la société ou de l'organisme transformé, sa forme, sa
+dénomination sociale et le numéro d'identité qui lui a été attribué dans les conditions du premier alinéa de l'article R.
+123-221 du code de commerce ; 
+
+b) La liste des associés de la société ou de l'organisme transformé à la date de la transformation ; 
+
+c) La date de la transformation ; 
+
+d) L'adresse du principal établissement ou du siège de la direction de l'association d'avocats, sa dénomination et le numéro
+d'identité qui lui a été attribué dans les conditions du premier alinéa de l'article R. 123-221 du code de commerce ; 
+
+e) La liste des associés et la proportion de leurs droits dans l'association, à la date de la transformation et au 31
+décembre de l'année d'imposition ainsi que, le cas échéant, les événements ayant conduit à une variation de la proportion des
+droits dans l'association au cours de l'année d'imposition ; 
+
+f) Le nom de l'associé déclarant, son adresse, le nombre de parts qu'il détenait dans la société ou l'organisme transformé et
+la plus-value ou moins-value constatée lors de la transformation ; 
+
+g) Le montant, la nature et l'origine des plus-values dont le report d'imposition est maintenu au nom de l'associé déclarant
+lors de la transformation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-336 du 26 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, CGI. - art. 151 octies C
 
 
 ##### 3° bis : Plus-values réalisées sur des droits ou parts de sociétés de personnes dans lesquelles les contribuables exercent leur activité professionnelle
