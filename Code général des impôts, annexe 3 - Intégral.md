@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-03-29
+Version Consolidée au 2009-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -19836,6 +19836,122 @@ personnes.
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
 
 
+##### Section V vicies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique des logements anciens
+
+###### Article 49 septies ZZA
+
+En cas de clôture d'exercice en cours d'année, le crédit d'impôt prévu à l'article 244 quater U du code général des impôts
+est calculé en prenant en compte les avances remboursables sans intérêt versées au titre de la dernière année civile écoulée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater U
+
+
+###### Article 49 septies ZZB
+
+Pour le calcul du crédit d'impôt prévu à l'article 244 quater U du code général des impôts au titre d'une année, les avances
+remboursables doivent être prises en compte dans leur totalité à compter du premier versement. 
+
+Les éléments de nature à modifier le montant du crédit d'impôt doivent être pris en compte pour la production de
+l'attestation portant le calcul du crédit d'impôt et délivrée par l'organisme mentionné au cinquième alinéa de l'article L.
+312-1 du code de la construction et de l'habitation. Ces éléments doivent figurer sur l'attestation délivrée au plus tard le
+31 mars qui suit l'expiration de la période de six mois mentionnée au c du II de l'article R. *319-14 du code de la
+construction et de l'habitation pour la communication par l'établissement de crédit des informations concernant les avances
+qui font apparaître un avantage indûment perçu par l'emprunteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater U
+	  - Code de la construction et de l'habitation. - art. L312-1
+	  - Code de la construction et de l'habitation. - art. R*319-14
+
+
+###### Article 49 septies ZZC
+
+Le crédit d'impôt prévu à l'article 244 quater U du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater U
+
+
+###### Article 49 septies ZZD
+
+Pour l'application des dispositions des articles 199 ter S, 220 Z et 244 quater U du code général des impôts, les
+établissements de crédit mentionnés au I de l'article 244 quater U précité doivent annexer une déclaration spéciale à la
+déclaration de résultat qu'elles sont tenues de déposer auprès du service des impôts dont elles dépendent. 
+
+Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
+comptable des impôts avec le relevé de solde de l'exercice.S'agissant des sociétés relevant du régime des groupes de sociétés
+prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales des sociétés membres du
+groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe sont dispensées d'annexer la
+déclaration spéciale les concernant à la déclaration de résultats qu'elles sont tenues de déposer en vertu du 1 de l'article
+223 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 ter S
+	  - Code général des impôts, CGI. - art. 223 A
+
+
+###### Article 49 septies ZZE
+
+L'organisme mentionné à l'article R. * 319-12 du code de la construction et de l'habitation est tenu de transmettre au
+service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit,
+un état relatif au crédit d'impôt pour chaque établissement de crédit tenu de déposer une déclaration spéciale lui ayant
+déclaré des avances remboursables sans intérêt. 
+
+Cet état doit faire apparaître les éléments suivants : 
+
+a) Le montant global des avances remboursables sans intérêt ainsi que des crédits d'impôts dégagés au cours des années
+antérieures et de l'année concernée ; 
+
+b) Le suivi des crédits d'impôts ; 
+
+c) Les crédits d'impôts ou fractions de crédit d'impôt reversés ou non imputés suite au non-respect des conditions d'octroi
+des avances remboursables mentionnées au I de l'article 244 quater U du code général des impôts, au non-respect des
+conditions relatives à l'affectation du logement et à ses caractéristiques mentionnées au I de l'article susmentionné, aux
+remboursements totaux ou partiels d'avances remboursables sans intérêts intervenant pendant la durée de remboursement de
+l'avance ainsi que l'origine du reversement ou de l'arrêt d'imputation du crédit d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater U
+	  - Code de la construction et de l'habitation. - art. R*319-12 (V)
+
+
 ##### Section VI : Indemnités de congé payé
 
 ###### Article 49 octies
@@ -34382,17 +34498,17 @@ e) Les dates d'effet des avenants et des opérations de dénouement total ou par
 ###### Article 344 G quater
 
 Les personnes visées à l'article 1649 A bis du code général des impôts produisent au plus tard le 31 mars de chaque année la
-déclaration des avances remboursables ne portant pas intérêt octroyées au cours de l'année précédente prévues par l'article
-244 quater J du code général des impôts.
+déclaration des avances remboursables ne portant pas intérêt octroyées au cours de l'année précédente prévues par     les
+articles 244 quater J et 244 quater U du code général des impôts. 
 
 Les déclarations sont déposées au service des grandes entreprises ou à la direction des services fiscaux du lieu de résidence
 ou du principal établissement du déclarant lorsque ce dernier ne relève pas de la compétence de ce service.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1277 du 18 octobre 2006 - art. 1 () JORF 20 octobre 2006
+	  - Décret n°2009-347 du 30 mars 2009 - art. 2
 
 	**Cité par**:
 
@@ -34400,11 +34516,8 @@ ou du principal établissement du déclarant lorsque ce dernier ne relève pas d
 
 	**Cite**:
 
-	  - CGI 1649 A bis, 244 quater J
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 1649 A bis
+	  - Code général des impôts, CGI. - art. 244 quater J
 
 
 ###### Article 344 G quinquies
