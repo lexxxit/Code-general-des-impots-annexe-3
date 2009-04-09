@@ -3,7 +3,7 @@
 Pour l'application du l du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du
 locataire sont les suivants : 
 
-a. Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes,
+a. Pour les baux conclus en 2009, les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes,
 arrondis au centime d'euro supérieur, de ceux mentionnés au premier alinéa de l'article 2 terdecies B. 
 
 Pour l'application du présent article, les zones A, B1, B2 et C sont définies par arrêté des ministres chargés du budget et
@@ -14,236 +14,239 @@ b. Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2008, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suivants : 
 
 <table>
     <tbody>
       <tr>
-        <th colspan="5">LIEU DE LOCATION 
+        <th>COMPOSITION DU FOYER LOCATAIRE
+
+</th>
+        <th colspan="4">
+
+LIEU DE LOCATION
 
 </th>
       </tr>
       <tr>
         <th>
 
-COMPOSITION DU FOYER LOCATAIRE 
+</th>
+        <th>
+
+Zone A
+
+(en €)
 
 </th>
         <th>
 
-ZONE A 
+Zone B1
 
-(en euros) 
-
-</th>
-        <th>
-
-ZONE B1 
-
-(en euros) 
+(en €)
 
 </th>
         <th>
 
-ZONE B2 
+Zone B2
 
-(en euros) 
+(en €)
 
 </th>
         <th>
 
-ZONE C 
+Zone C
 
-(en euros) 
+(en €)
 
 </th>
       </tr>
       <tr>
         <td align="center">
 
-Personne seule. 
+Personne seule
 
 </td>
         <td align="center">
 
-42 396 
+43 753
 
 </td>
         <td align="center">
 
-31 491 
+32 499
 
 </td>
         <td align="center">
 
-28 867 
+29 791
 
 </td>
         <td align="center">
 
-28 672 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Couple. 
-
-</td>
-        <td align="center">
-
-63 362 
-
-</td>
-        <td align="center">
-
-46 245 
-
-</td>
-        <td align="center">
-
-42 392 
-
-</td>
-        <td align="center">
-
-38 538 
+29 590
 
 </td>
       </tr>
       <tr>
         <td align="center">
 
-Personne seule ou couple ayant une personne à charge. 
+Couple
 
 </td>
         <td align="center">
 
-76 165 
+65 389
 
 </td>
         <td align="center">
 
-55 363 
+47 725
 
 </td>
         <td align="center">
 
-50 750 
+43 749
 
 </td>
         <td align="center">
 
-46 136 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge. 
-
-</td>
-        <td align="center">
-
-91 234 
-
-</td>
-        <td align="center">
-
-67 002 
-
-</td>
-        <td align="center">
-
-61 419 
-
-</td>
-        <td align="center">
-
-55 835 
+39 771
 
 </td>
       </tr>
       <tr>
         <td align="center">
 
-Personne seule ou couple ayant trois personnes à charge. 
+Personne seule ou couple ayant une personne à charge
 
 </td>
         <td align="center">
 
-108 003 
+78 602
 
 </td>
         <td align="center">
 
-78 640 
+57 135
 
 </td>
         <td align="center">
 
-72 087 
+52 374
 
 </td>
         <td align="center">
 
-65 533 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant quatre personnes à charge. 
-
-</td>
-        <td align="center">
-
-121 533 
-
-</td>
-        <td align="center">
-
-88 706 
-
-</td>
-        <td align="center">
-
-81 314 
-
-</td>
-        <td align="center">
-
-73 922 
+47 612
 
 </td>
       </tr>
       <tr>
         <td align="center">
 
-Majoration par personne à charge à partir de la cinquième. 
+Personne seule ou couple ayant deux personnes à charge
 
 </td>
         <td align="center">
 
-13 545 
+94 153
 
 </td>
         <td align="center">
 
-10 075 
+69 146
 
 </td>
         <td align="center">
 
-9 235 
+63 384
 
 </td>
         <td align="center">
 
-8 395 
+57 622
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant trois personnes à charge
+
+</td>
+        <td align="center">
+
+111 459
+
+</td>
+        <td align="center">
+
+81 156
+
+</td>
+        <td align="center">
+
+74 394
+
+</td>
+        <td align="center">
+
+67 630
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge
+
+</td>
+        <td align="center">
+
+125 421
+
+</td>
+        <td align="center">
+
+91 544
+
+</td>
+        <td align="center">
+
+83 916
+
+</td>
+        <td align="center">
+
+76 287
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Majoration par personne à charge supplémentaire à partir de la cinquième
+
+</td>
+        <td align="center">
+
++ 13 979
+
+</td>
+        <td align="center">
+
++ 10 398
+
+</td>
+        <td align="center">
+
++ 9 531
+
+</td>
+        <td align="center">
+
++ 8 664
 
 </td>
       </tr>
@@ -256,11 +259,15 @@ l'article 2 duodecies.
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er G du décret n° 2006-1005 du 10 août 2006.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
+	  - Décret n°2009-389 du 7 avril 2009 - art. 3
 
 	**Cité par**:
 
@@ -273,7 +280,7 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 duodecies (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1417 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 196 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
+	  - Code général des impôts, CGI. - art. 1417
+	  - Code général des impôts, CGI. - art. 196
+	  - Code général des impôts, CGI. - art. 31

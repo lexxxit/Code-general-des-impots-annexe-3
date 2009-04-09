@@ -3,8 +3,8 @@
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2008, les plafonds de loyer mensuel, charges non comprises, sont fixés à 16,81 euros par mètre
-carré en zone A,10,98 euros en zone B et 7,95 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
+a) Pour les baux conclus en 2009, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,31 euros par mètre
+carré en zone A, 11,31 euros en zone B et 8,19 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
 la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et
 des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro
 supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence. 
@@ -20,207 +20,213 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2008, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suivants : 
 
 <table>
-    <tbody>
-      <tr>
-        <th colspan="4">
+  <tbody>
+    <tr>
+      <th>
 
-LIEU DE LOCATION 
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-COMPOSITION DU FOYER LOCATAIRE 
+COMPOSITION DU FOYER LOCATAIRE
 
 </th>
-        <th>
+      <th colspan="3">
 
-ZONE A 
-
-(en euros) 
+LIEU DE LOCATION
 
 </th>
-        <th>
-
-ZONE B 
-
-(en euros) 
+    </tr>
+    <tr>
+      <th>
 
 </th>
-        <th>
+      <th>
 
-ZONE C 
+Zone A 
 
-(en euros) 
+(en €)
 
 </th>
-      </tr>
-      <tr>
-        <td align="center">
+      <th>
 
-Personne seule. 
+Zone B 
 
-</td>
-        <td align="center">
+(en €)
 
-42 396 
+</th>
+      <th>
 
-</td>
-        <td align="center">
+Zone C 
 
-32 767 
+(en €)
 
-</td>
-        <td align="center">
+</th>
+    </tr>
+    <tr>
+      <td align="center">
 
-28 672 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Couple. 
+Personne seule
 
 </td>
-        <td align="center">
+      <td align="center">
 
-63 362 
-
-</td>
-        <td align="center">
-
-43 755 
+43 753
 
 </td>
-        <td align="center">
+      <td align="center">
 
-38 538 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant une personne à charge. 
+33 816
 
 </td>
-        <td align="center">
+      <td align="center">
 
-76 165 
-
-</td>
-        <td align="center">
-
-52 618 
+29 590
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-46 136 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge. 
+Couple
 
 </td>
-        <td align="center">
+      <td align="center">
 
-91 234 
-
-</td>
-        <td align="center">
-
-63 520 
+65 389
 
 </td>
-        <td align="center">
+      <td align="center">
 
-55 835 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant trois personnes à charge. 
+45 155
 
 </td>
-        <td align="center">
+      <td align="center">
 
-108 003 
-
-</td>
-        <td align="center">
-
-74 722 
+39 771
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-65 533 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant quatre personnes à charge. 
+Personne seule ou couple ayant une personne à charge
 
 </td>
-        <td align="center">
+      <td align="center">
 
-121 533 
-
-</td>
-        <td align="center">
-
-84 208 
+78 602
 
 </td>
-        <td align="center">
+      <td align="center">
 
-73 922 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Majoration par personne à charge à partir de la cinquième. 
+54 302
 
 </td>
-        <td align="center">
+      <td align="center">
 
-+ 13 545 
-
-</td>
-        <td align="center">
-
-+ 9 392 
+47 612
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-+ 8 395 
+Personne seule ou couple ayant deux personnes à charge
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+      <td align="center">
+
+94 153
+
+</td>
+      <td align="center">
+
+65 553
+
+</td>
+      <td align="center">
+
+57 622
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule ou couple ayant trois personnes à charge
+
+</td>
+      <td align="center">
+
+111 459
+
+</td>
+      <td align="center">
+
+77 113
+
+</td>
+      <td align="center">
+
+67 630
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge
+
+</td>
+      <td align="center">
+
+125 421
+
+</td>
+      <td align="center">
+
+86 902
+
+</td>
+      <td align="center">
+
+76 287
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Majoration par personne à charge à partir de la cinquième
+
+</td>
+      <td align="center">
+
++ 13 979
+
+</td>
+      <td align="center">
+
++ 9 693
+
+</td>
+      <td align="center">
+
++ 8 664</td>
+    </tr>
+  </tbody>
+</table>
 
 Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
 Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars 1999 et de l'article 1er D du décret
+n° 2006-1005 du 10 août 2006.
 
 **Liens relatifs à cet article**
 
@@ -244,12 +250,12 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	**Modifié par**:
 
-	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
+	  - Décret n°2009-389 du 7 avril 2009 - art. 3
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1417 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 196 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
+	  - Code général des impôts, CGI. - art. 1417
+	  - Code général des impôts, CGI. - art. 196
+	  - Code général des impôts, CGI. - art. 31
 	  - Code de la construction et de l'habitation. - art. R*111-2
-	  - Code de la construction et de l'habitation. - art. R353-16 (V)
+	  - Code de la construction et de l'habitation. - art. R353-16

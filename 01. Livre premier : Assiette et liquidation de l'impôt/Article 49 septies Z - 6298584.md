@@ -1,25 +1,26 @@
 # Article 49 septies Z
 
 Pour déterminer si l'entreprise respecte le seuil de 40 % mentionné au premier alinéa du I de l'article 244 quater L du code
-général des impôts, il convient d'établir le rapport entre :
+général des impôts, il convient d'établir le rapport entre : 
 
 a. d'une part, le montant des recettes qui proviennent des activités mentionnées à l'article 63 du code général des impôts
-qui ont fait l'objet d'une certification en agriculture biologique au sens de l'article 8 du règlement (CEE) n° 2092/91 du
-Conseil du 24 juin 1991, concernant le mode de production biologique de produits agricoles et sa présentation sur les
-produits agricoles et les denrées alimentaires ;
+qui ont fait l'objet d'une certification en agriculture biologique au sens du règlement (CE) n° 834 / 2007 du Conseil du 28
+juin 2007 relatif à la production biologique et à l'étiquetage des produits biologiques et abrogeant le règlement (CEE) n°
+2092 / 91 ; 
 
 b. et, d'autre part, le montant des recettes qui proviennent des activités mentionnées à l'article 63 du code précité.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 121-I [1°] et II de la loi n° 2008-1425 du 27 décembre 2008.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-389 du 7 avril 2009 - art. 3
 
 	**Cite**:
 
-	  - CGI 244 quater L, 63
-
-	**Créé par**:
-
-	  - Décret n°2006-793 du 4 juillet 2006 - art. 1 () JORF 6 juillet 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 244 quater L (V)
+	  - Code général des impôts, CGI. - art. 63 (V)

@@ -6,30 +6,13 @@ déclaration de résultats de l'exercice en cours lors de l'acquisition un état
 par l'administration. Cet état comporte notamment les renseignements nécessaires à la ventilation du prix d'acquisition des
 droits entre sa fraction représentative des constructions et celle représentative du terrain.
 
-L'entreprise qui détient à l'ouverture du premier exercice clos à compter du 31 décembre 1990 des droits mentionnés au
-premier alinéa acquis auprès d'un précédent locataire joint à la déclaration de résultats de cet exercice un état analogue à
-celui défini au même alinéa.
-
-Cet état est produit également pour les droits détenus à l'ouverture du premier exercice clos à compter du 1er janvier 1989
-ou du 31 décembre 1989 selon que l'entreprise relève de l'impôt sur le revenu ou de l'impôt sur les sociétés ainsi que pour
-les droits acquis au cours de cet exercice ou des exercices suivants clos avant le 31 décembre 1990, si ces droits ont fait
-l'objet d'une levée d'option d'achat au cours de cette période.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 duodecies A
-	  - Code monétaire et financier - art. L313-7 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2009-389 du 7 avril 2009 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 39 duodecies A (V)
+	  - Code monétaire et financier - art. L313-7 (V)

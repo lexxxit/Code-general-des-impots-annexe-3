@@ -3,14 +3,14 @@
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants : 
 
-1. Pour les baux conclus en 2008, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2009, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à : 
 
-1° 145 euros dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
+1° 150 euros dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
 année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à
 la consommation hors tabac de chacun des quatre départements d'outre-mer ; 
 
-2° 184 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à
+2° 189 euros en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à
 Saint-Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même
 proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie
 française et de la Nouvelle-Calédonie. 
@@ -31,165 +31,164 @@ Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut d
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure. 
 
-Pour les baux conclus en 2008, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suivants : 
 
 <table>
-  <tbody>
-    <tr>
-      <th>
-        <font size="1">COMPOSITION DU FOYER DU LOCATAIRE 
+    <tbody>
+      <tr>
+        <th>
 
-</font>
-      </th>
-      <th colspan="2">
-
-<font size="1">PLAFOND ANNUEL DE RESSOURCES (en euros) 
-
-</font>
-      </th>
-    </tr>
-    <tr>
-      <th>
-        <font size="1">
-      </font></th>
-      <th>
-
-<font size="1">Départements d'outre-mer, Saint-Barthélemy, Saint-Martin </font>
-
-<font size="1">et Mayotte 
-
-</font>
+COMPOSITION DU FOYER DU LOCATAIRE
 
 </th>
-      <th>
+        <th colspan="2">
 
-<font size="1">Polynésie française ; Nouvelle-Calédonie ; îles Wallis et Futuna ; Terres australes et antarctiques françaises
-et Saint-Pierre-et-Miquelon 
+PLAFOND ANNUEL DE RESSOURCES
 
-</font>
-      </th>
-    </tr>
-    <tr>
-      <td align="center">
+(en €)
 
-Personne seule 
+</th>
+      </tr>
+      <tr>
+        <th>
+        </th><th>
 
-</td>
-      <td align="center">
+Départements d'outre-mer ; Saint-Barthélemy ; Saint-Martin et Mayotte
 
-27 781 
+</th>
+        <th>
 
-</td>
-      <td align="center">
+Polynésie française ; Nouvelle-Calédonie ;
 
-26 962 
+îles Wallis et Futuna ; Terres australes
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+et antarctiques françaises
 
-Couple 
+et Saint-Pierre-et-Miquelon
 
-</td>
-      <td align="center">
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-51 383 
+Personne seule
 
 </td>
-      <td align="center">
+        <td align="center">
 
-49 867 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant une personne à charge 
+28 638
 
 </td>
-      <td align="center">
+        <td align="center">
 
-54 355 
-
-</td>
-      <td align="center">
-
-52 751 
+27 794
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
-Personne seule ou couple ayant deux personnes à charge 
-
-</td>
-      <td align="center">
-
-57 327 
+Couple
 
 </td>
-      <td align="center">
+        <td align="center">
 
-55 636 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant trois personnes à charge 
+52 968
 
 </td>
-      <td align="center">
+        <td align="center">
 
-61 600 
-
-</td>
-      <td align="center">
-
-59 489 
+51 406
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
-Personne seule ou couple ayant quatre personnes à charge 
-
-</td>
-      <td align="center">
-
-62 271 
+Personne seule ou couple ayant une personne à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-63 344 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Majoration par personne à charge à partir de la cinquième 
+56 032
 
 </td>
-      <td align="center">
+        <td align="center">
 
-+ 4 169 
-
-</td>
-      <td align="center">
-
-+ 4 045 
+54 379
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant deux personnes à charge
+
+</td>
+        <td align="center">
+
+59 096
+
+</td>
+        <td align="center">
+
+57 353
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant trois personnes à charge
+
+</td>
+        <td align="center">
+
+63 191
+
+</td>
+        <td align="center">
+
+61 324
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge
+
+</td>
+        <td align="center">
+
+67 285
+
+</td>
+        <td align="center">
+
+65 298
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Majoration par personne à charge à partir de la cinquième
+
+</td>
+        <td align="center">
+
++ 4 298
+
+</td>
+        <td align="center">
+
++ 4 170
+
+</td>
+      </tr>
+    </tbody>
+  </table>
 
 Ces plafonds sont relevés chaque année selon les modalités définies au 1. 
 
@@ -205,11 +204,15 @@ b) Du loyer payé à cet organisme par le sous-locataire ;
 
 c) Des ressources du sous-locataire.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er du décret n° 2001-137 du 31 décembre 2001.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-330 du 9 avril 2008 - art. 1
+	  - Décret n°2009-389 du 7 avril 2009 - art. 3
 
 	**Cité par**:
 

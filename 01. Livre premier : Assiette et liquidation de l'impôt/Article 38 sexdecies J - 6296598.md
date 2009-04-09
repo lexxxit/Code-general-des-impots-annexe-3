@@ -1,7 +1,8 @@
 # Article 38 sexdecies J
 
-I.-Les aléas d'exploitation qui autorisent l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de
-crédit conformément aux dispositions du I de l'article 72 D bis du code général des impôts sont les suivants : 
+I.-Les aléas non assurés reconnus par une autorité administrative compétente dont la survenance autorise l'emploi des sommes
+déposées sur un compte ouvert auprès d'un établissement de crédit conformément aux dispositions du I de l'article 72 D bis du
+code général des impôts sont les suivants : 
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation : 
 
@@ -21,62 +22,52 @@ b) Evénement ayant justifié l'application sur les productions animales ou vég
 administrative prévues aux articles L. 234-4, L. 251-2 et L. 251-9 du code rural ; 
 
 c) Evénement ayant justifié l'application, sur l'exploitation conchylicole, de mesures de police sanitaire prévues par
-l'article D. 236-14 du code rural ou de mesures sanitaires prévues par l'article D. 231-39 du même code ; 
+l'arrêté du 4 novembre 2008 relatif aux conditions de police sanitaire applicables aux animaux et aux produits d'aquaculture
+et relatif à la prévention de certaines maladies chez les animaux aquatiques et aux mesures de lutte contre ces maladies ou
+de mesures sanitaires prises en application de l'article R. 231-39 du code rural ; 
 
-3° Aléas familiaux : 
+d) Suspension, retrait ou modification de l'autorisation d'exploitation de cultures marines pour motif d'insalubrité non
+imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines, en application de l'article 15 du décret n°
+83-228 du 22 mars 1983 fixant le régime de l'autorisation des exploitations de cultures marines. 
 
-a) Divorce ou invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L.
-341-4 du code de la sécurité sociale de l'exploitant ou de son conjoint travaillant sur l'exploitation ; 
+II.-(Paragraphe abrogé) 
 
-b) Invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du
-code de la sécurité sociale ou décès des autres membres de la famille de l'exploitant travaillant sur l'exploitation ; 
+III. Pour l'application de l'article 72 D bis du code général des impôts, les exploitants agricoles doivent souscrire : 
 
-4° Aléas économiques : 
+1° Pour la totalité de leur exploitation, une assurance contre l'incendie ; 
 
-a) Reconversion d'activité par suite d'un changement très important de production ; 
+2° Le cas échéant, une assurance contre l'ensemble des risques assurables à l'ouverture de l'exercice, définis à l'article D.
+361-33 du code rural, dont une fraction des primes ou cotisations est prise en charge par le Fonds national de garantie des
+calamités agricoles en application de l'article L. 361-8 du même code et dont les garanties sont fixées en fonction des
+normes de production habituellement admises dans la région considérée ; 
 
-b) Résiliation ou non-renouvellement du bail de l'exploitant dans les circonstances prévues aux articles L. 411-30 à L.
-411-34 et L. 411-58 du code rural ; 
+3° Et, selon le cas : 
 
-c) Expropriation pour cause d'utilité publique ou cession amiable antérieure à la déclaration d'utilité publique lorsque le
-bien cédé est inclus dans l'expropriation par une ordonnance de donné acte ; 
+a) Pour leurs cultures, autres que celles assurées en application du 2°, une assurance contre la grêle ou, au choix de
+l'exploitant, tout autre dommage, hormis celui mentionné au 1° ; 
 
-d) Suspension, retrait ou modification de l'autorisation d'exploitation de cultures marines pour motif d'utilité publique ou
-pour motif d'insalubrité non imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines, en application
-de l'article 15 du décret n° 83-228 du 22 mars 1983 modifié ; 
-
-e. Augmentation du coût de l'énergie de plus de 5 % par rapport au prix moyen de l'année précédente ; 
-
-5° Aléas couverts par une assurance : événement, ayant affecté l'exploitation, qui a entraîné une indemnisation par une
-police d'assurance de dommages aux biens ou pour perte d'exploitation souscrite par l'exploitant. 
-
-II.-Peut également autoriser l'emploi des sommes déposées sur un compte ouvert auprès d'un établissement de crédit
-conformément aux dispositions de l'article 72 D bis du code général des impôts tout autre aléa d'origine naturelle,
-climatique, sanitaire ou économique, déclaré par l'exploitant et autre que ceux prévus au I, sous réserve qu'il soit suivi
-d'une baisse du résultat excédant 10 % de la moyenne des résultats des trois exercices précédents. Pour le calcul de cette
-moyenne, il n'est pas tenu compte des reports déficitaires.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 2-II du décret n° 2007-592 du 24 avril 2007.
+b) Pour leurs cheptels, une assurance contre les risques définis par arrêté des ministres chargés de l'économie et de
+l'agriculture en tenant compte, notamment, du degré suffisant des offres d'assurances existantes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°83-228 du 22 mars 1983 - art. 15
+	  - Arrêté du 4 novembre 2008
 	  - Code général des impôts, CGI. - art. 72 D bis
+	  - Code rural - art. D361-33
+	  - Code rural - art. L125-1
 	  - Code rural - art. L221-2
 	  - Code rural - art. L223-8
 	  - Code rural - art. L234-4
 	  - Code rural - art. L251-2
+	  - Code rural - art. L251-9
 	  - Code rural - art. L361-3
-	  - Code rural - art. L411-30
-	  - Code rural - art. L411-58
+	  - Code rural - art. L361-8
+	  - Code rural - art. R*231-39
 	  - Code rural - art. R361-41
-	  - Code de la sécurité sociale. - art. L341-4
-	  - Code des assurances - art. L125-1
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2009-391 du 7 avril 2009 - art. 1

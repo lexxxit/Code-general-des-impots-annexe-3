@@ -1,32 +1,30 @@
 # Article 46 quaterdecies V
 
 La commission consultative prévue au deuxième alinéa du 2 du III de l'article 217 undecies du code général des impôts rend un
-avis motivé au ministre chargé du budget sur le respect des conditions prévues au 1 du III de l'article 217 undecies précité.
+avis motivé au ministre chargé du budget sur le respect des conditions prévues au 1 du III de l'article 217 undecies
+précité. 
 
 En l'absence de demande de saisine de la commission consultative, un délai d'une durée identique à celle mentionnée au
-premier alinéa du 2 du III de l'article 217 undecies précité court à compter de l'expiration du délai de quinze jours.
+premier alinéa du 2 du III de l'article 217 undecies précité court à compter de l'expiration du délai de quinze jours. 
 
 La commission consultative est nationale lorsque l'agrément est délivré par le ministre chargé du budget ou locale lorsqu'en
 application des dispositions de l'article 1649 nonies du code général des impôts et dans les conditions prévues à l'article
 170 decies de l'annexe IV au code général des impôts l'agrément est délivré par le directeur des services fiscaux de la
-collectivité dans laquelle le programme d'investissement est réalisé.
+collectivité dans laquelle le programme d'investissement est réalisé. 
 
-Tout dossier pour lequel une demande d'agrément a été déposée après la date de promulgation de la loi du 21 juillet 2003
-susvisée et qui est susceptible de faire l'objet d'une décision de retrait d'agrément doit également être transmis à la
-commission pour avis selon les mêmes modalités.
+Tout dossier pour lequel une demande d'agrément a été déposée après la date de promulgation de la loi n° 2003-660 du 21
+juillet 2003 de programme pour l'outre-mer et qui est susceptible de faire l'objet d'une décision de retrait d'agrément doit
+également être transmis à la commission pour avis selon les mêmes modalités.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 217 undecies, 1649 nonies
-	  - CGIAN4 170 decies
-	  - Loi n°2003-660 2003-07-21
+	  - Loi n°2003-660 du 21 juillet 2003
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (V)
+	  - Code général des impôts, CGI. - art. 1649 nonies (V)
+	  - Code général des impôts, CGI. - art. 217 undecies (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Créé par**:
-
-	  - Décret n°2004-14 du 5 janvier 2004 - art. 2 () JORF 7 janvier 2004
+	  - Décret n°2009-389 du 7 avril 2009 - art. 3

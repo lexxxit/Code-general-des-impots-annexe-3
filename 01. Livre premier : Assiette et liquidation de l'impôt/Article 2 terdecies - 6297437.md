@@ -3,8 +3,8 @@
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2008 les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 15,06 euros par mètre carré en zone I bis,13,33 euros en zone I,10,29 euros en zone II et 9,71 euros en zone
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2009 les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 15,51 euros par mètre carré en zone I bis, 13,73 euros en zone I, 10,60 euros en zone II et 10,00 euros en zone
 III. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à
 l'article 2 duodecies. 
 
@@ -14,16 +14,21 @@ l'application de l'article 2 duodecies ;
 
 b) Les ressources du locataire s'apprécient de la même façon que pour l'application de l'article 2 duodecies.
 
+**Nota:**
+
+<font color="#000000" size="1">Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars
+1999.</font>
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-91 du 29 janvier 2008 - art. 1
+	  - Décret n°2009-389 du 7 avril 2009 - art. 3
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 2 duodecies (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 31 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
+	  - Code général des impôts, CGI. - art. 31
 
 	**Cité par**:
 
