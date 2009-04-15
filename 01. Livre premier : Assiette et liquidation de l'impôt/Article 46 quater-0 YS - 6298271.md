@@ -1,15 +1,15 @@
 # Article 46 quater-0 YS
 
-Les dépenses mentionnées au III de l'article 220 octies du code général des impôts s'entendent des dépenses suivantes :
+Les dépenses mentionnées au III de l'article 220 octies du code général des impôts s'entendent des dépenses suivantes : 
 
 1. S'agissant des dépenses correspondant aux frais de production d'un enregistrement phonographique ou vidéographique
-musical :
+musical : 
 
 a. Au titre des frais de personnel autre que le personnel permanent de l'entreprise : les salaires et charges sociales
 afférents aux artistes-interprètes de la musique signataires d'un contrat d'exclusivité avec le producteur phonographique, au
 chef d'orchestre, aux artistes-interprètes musiciens, aux artistes de choeurs, aux artistes choristes, aux diseurs, aux
 artistes-interprètes dramatiques, au réalisateur, à l'ingénieur du son et aux techniciens suivants ayant directement
-participé à la réalisation de la production :
+participé à la réalisation de la production : 
 
 Le premier assistant son, le deuxième assistant son, l'animateur, l'assistant monteur, le monteur adjoint, l'assistant
 opérateur du son, l'assistant du son, l'assistant réalisateur, l'assistant styliste, l'attaché, l'assistant de
@@ -22,28 +22,33 @@ le monteur, le monteur son, le musicien copiste, le copiste musical, l'opérateu
 le preneur de son, l'opérateur du son, le programmateur musical, le réalisateur de phonogrammes, le rédacteur, le régisseur,
 le régisseur de tournées, le tour manager, le régisseur d'extérieur, le régisseur d'orchestre, le régisseur général, le
 régisseur son, le répétiteur, le sonorisateur, le styliste, le technicien instruments, le technicien backliner, le technicien
-lumière, le technicien plateau, le technicien son, le tourneur de pages, le traducteur ;
+lumière, le technicien plateau, le technicien son, le tourneur de pages, le traducteur ; 
 
 b. Au titre des dépenses liées à l'utilisation des studios d'enregistrement ainsi qu'à la location et au transport de
 matériels et d'instruments : la location de studios pour la réalisation de prises de son, la location de studios pour la
-réalisation de mixages, la location du matériel et des instruments nécessaires à l'enregistrement de l'oeuvre ;
+réalisation de mixages, la location du matériel et des instruments nécessaires à l'enregistrement de l'oeuvre ; 
 
 c. Au titre des dépenses liées à la conception graphique d'un enregistrement phonographique : les frais d'acquisition des
-droits des auteurs des photographies, des illustrations et créations graphiques, des biographies ;
+droits des auteurs des photographies, des illustrations et créations graphiques, des biographies ; 
+
+d. au titre des frais de personnel permanent : les salaires et charges sociales correspondant à la période pendant laquelle
+les personnels permanents mentionnés au a bis du 1° du III de l'article 220 octies du code général des impôts ont été
+effectivement employés à la production d'une œuvre phonographique ou vidéographique musicale éligible au crédit d'impôt ; 
 
 2. S'agissant des dépenses liées au développement de productions phonographiques ou vidéographiques musicales mentionnées au
-1° du II de l'article 220 octies du code général des impôts :
+2° du III de l'article 220 octies du code général des impôts : 
 
 a. Au titre des dépenses engagées afin de soutenir la production de concerts de l'artiste en France ou à l'étranger, dont le
-montant global est fixé dans le cadre d'un contrat d'artiste ou de licence :
+montant global est fixé dans le cadre d'un contrat d'artiste ou de licence : 
 
 la création d'affiches, de tracts, les prestations d'attaché de presse, les frais techniques indispensables à la réalisation
-de la tournée, les rémunérations versées aux artistes et aux techniciens, y compris dans le cadre de concerts promotionnels ;
+de la tournée, les rémunérations versées aux artistes et aux techniciens, y compris dans le cadre de concerts
+promotionnels ; 
 
 b. Au titre des dépenses engagées pour la participation de l'artiste à des émissions de télévision ou de radio dans le cadre
 de la promotion de l'oeuvre agréée, prévues par le contrat d'artiste ou de licence : les cachets versés aux artistes, les
 salaires et charges sociales afférents aux personnels et les frais de transport de matériel et de personnes nécessaires à la
-réalisation de ces opérations ;
+réalisation de ces opérations ; 
 
 c. Au titre des dépenses liées à la réalisation et à la production d'images, notamment de vidéogrammes, de documentaires
 musicaux ou de dossiers de presse en images, permettant le développement de la carrière de l'artiste : les frais
@@ -53,26 +58,26 @@ d'acquisition d'images préexistantes, les cessions de droits facturés par l'en
 voisins, les frais correspondant aux autorisations délivrées par des producteurs de spectacles, par des exploitants de salles
 ou par des organisateurs de festivals, les dépenses de postproduction (frais de montage, d'étalonnage, de mixage, de codage
 et de matriçage), les salaires et charges sociales afférents aux personnels techniques nécessaires à la réalisation de ces
-opérations ;
+opérations ; 
 
 Dans le cas d'un disque numérique polyvalent musical : les frais de conception technique tels que la création d'éléments
-d'interactivité, d'une arborescence, ou le recours à des effets spéciaux ;
+d'interactivité, d'une arborescence, ou le recours à des effets spéciaux ; 
 
 d. Au titre des dépenses liées à la création d'un site internet dédié à l'artiste dans le cadre du développement de sa
 carrière dans l'environnement numérique : les frais de création (interactivité, arborescence, graphisme). Ces dispositions
-sont également applicables en cas de création d'un site internet consacré à plusieurs artistes tels que visés au c du 1° du
-II de l'article 220 octies du code général des impôts.
+sont également applicables en cas de création d'un site internet consacré à plusieurs artistes tels que visés au b du II de
+l'article 220 octies du code général des impôts ; 
+
+e. au titre des frais de personnel permanent : les salaires et charges sociales correspondant à la période pendant laquelle
+ces personnels ont été effectivement employés au développement d'une production phonographique ou vidéographique musicale
+éligible au crédit d'impôt.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2009-402 du 14 avril 2009 - art. 1
+
 	**Cite**:
 
-	  - CGI 220 octies
-
-	**Créé par**:
-
-	  - Décret n°2006-1729 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006 Rectificatif JORF 20 janvier 2007
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 220 octies (V)
