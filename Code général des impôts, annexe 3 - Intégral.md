@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-04-18
+Version Consolidée au 2009-04-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -17574,6 +17574,73 @@ de résultat.
 	  - Code général des impôts, CGI. - art. 44 duodecies (VT)
 
 
+##### Section II septies : Activités créées dans les zones de restructuration de la défense
+
+###### Article 49 X
+
+Lorsque le début ou le terme de la période d'exonération prévus au I de l'article 44 terdecies du code général des impôts ne
+coïncident pas avec le début ou le terme de l'année ou de l'exercice d'imposition, la règle du prorata du temps est appliquée
+pour déterminer la fraction du bénéfice imposable et celle du bénéfice exonéré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-472 du 27 avril 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 terdecies (V)
+
+
+###### Article 49 Y
+
+Le contribuable qui peut bénéficier des dispositions de l'article 44 terdecies du code général des impôts joint à sa
+déclaration afférente au résultat de chaque période d'imposition des bénéfices : 
+
+1. Un document conforme à un modèle établi par l'administration comportant les éléments nécessaires à la détermination et au
+suivi du bénéfice ouvrant droit à exonération ainsi qu'à la vérification du respect des conditions et limites prévues par les
+règlements mentionnés au huitième alinéa du II de l'article 44 terdecies précité ; 
+
+2. Le cas échéant, pour les bailleurs d'immeubles mentionnés au 5° du I de l'article 35 du code général des impôts, un
+document mentionnant le lieu d'implantation de chaque immeuble donné à bail ainsi qu'un compte séparé joint en annexe à la
+déclaration de résultat indiquant, pour chaque immeuble situé dans les zones de restructuration de la défense et les emprises
+foncières libérées mentionnées au premier alinéa du I de l'article 44 terdecies précité, le bénéfice net provenant de son
+exploitation, lorsque tous leurs moyens d'exploitation ne sont pas situés dans ces zones ; 
+
+3. Le cas échéant, en cas de transfert d'activité dans une zone de restructuration de la défense ou une emprise foncière
+libérée mentionnées au premier alinéa du I de l'article 44 terdecies précité, un état mentionnant les lieux antérieurs
+d'exercice de l'activité, le service des impôts auprès duquel les déclarations de résultats ont été souscrites, la nature et
+le montant des subventions et aides accordées par l'Etat et les collectivités publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-472 du 27 avril 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 35 (V)
+	  - Code général des impôts, CGI. - art. 44 terdecies (V)
+
+
+###### Article 49 Z
+
+L'option mentionnée au deuxième alinéa du III de l'article 44 terdecies du code général des impôts est notifiée sur papier
+libre, au service des impôts auprès duquel est souscrite la déclaration de résultat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-472 du 27 avril 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 terdecies (V)
+
+
 ##### Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts
 
 ###### Article 49 bis
@@ -29674,6 +29741,37 @@ objet.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 315 decies (P)
 	  - Code général des impôts, CGI. - art. 1395 F
 	  - Code général des impôts, CGI. - art. 1400
+
+
+##### 7° : Zones de restructuration de la défense
+
+###### Article 315 terdecies
+
+I.-Pour bénéficier de l'exonération prévue à l'article 1383 I du code général des impôts, le redevable de la taxe foncière
+sur les propriétés bâties souscrit auprès du service des impôts du lieu de situation des immeubles concernés une déclaration
+conforme à un modèle établi par l'administration, comportant tous les éléments d'identification de ces immeubles ainsi que
+les informations suivantes : 
+
+a.L'activité exercée à titre principal dans l'immeuble ; 
+
+b. Le cas échéant, l'option pour le régime d'exonération prévu à l'article 1383-I du code précité. 
+
+II.-La déclaration mentionnée au I doit être souscrite avant le 1er janvier de la première année à compter de laquelle le
+redevable de la taxe foncière sur les propriétés bâties peut, au titre de l'immeuble concerné, bénéficier des dispositions de
+l'article 1383-I précité. 
+
+Tout changement au cours d'une année relatif à l'exploitant ou à l'activité exercée doit être porté à la connaissance de
+l'administration avant le 1er janvier de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-472 du 27 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1383 I (V)
 
 
 ##### b : Lieu d'imposition
