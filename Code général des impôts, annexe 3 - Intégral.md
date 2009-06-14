@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-06-06
+Version Consolidée au 2009-06-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12429,42 +12429,79 @@ elles dans le cadre d'une convention publique d'aménagement prévue à l'articl
 	  - Code de l'urbanisme - art. R*321-21 (V)
 
 
-##### Section 0I bis : Exonération édictée en faveur des sociétés d'investissements immobiliers cotées
+##### Section 0I bis : Exonération en faveur des sociétés d'investissements immobiliers cotées, de leurs filiales et des filiales de sociétés de placement à prépondérance immobilière à capital variable
 
 ###### Article 46 ter A
 
-I. - L'option mentionnée au II de l'article 208 C du code général des impôts est notifiée sur papier libre ou par voie
-électronique au service des impôts auprès duquel est souscrite la déclaration de résultat.
+I.-L'option mentionnée aux II et III bis de l'article 208 C du code général des impôts est notifiée sur papier libre ou par
+voie électronique au service des impôts auprès duquel est souscrite la déclaration de résultat. 
 
 La société d'investissements immobiliers cotée doit, lors de la notification de l'option, fournir la liste de ses filiales
-qui optent en indiquant leur dénomination, l'adresse de leur siège social, le numéro SIRET et la répartition de leur capital.
-Cette liste, mise à jour, doit être fournie chaque année lors du dépôt de la déclaration de résultat.
+qui optent en indiquant leur dénomination, l'adresse de leur siège social, le numéro d'identité tel que défini au premier
+alinéa de l'article R. 123-221 du code de commerce et la répartition de leur capital. Cette liste, mise à jour, doit être
+fournie chaque année lors du dépôt de la déclaration de résultat. 
 
 Les filiales doivent indiquer, lors de la notification de leur option et du dépôt des déclarations de résultats ultérieurs,
-le nom, l'adresse du siège social et le numéro SIRET de la société d'investissements immobiliers cotée.
+le nom, l'adresse du siège social et le numéro d'identité de la société d'investissements immobiliers cotée ou de la société
+de placement à prépondérance immobilière à capital variable tel que défini au premier alinéa de l'article R. 123-221 du code
+de commerce.
 
 L'engagement prévu au deuxième alinéa de l'article 221 bis du même code figure dans l'option souscrite dans les conditions
-visées au premier alinéa.
+visées au premier alinéa. 
 
-II. - La société d'investissements immobiliers cotée et ses filiales qui ont opté conformément au premier alinéa du I doivent
-joindre à leur déclaration de résultat un état, conforme au modèle établi par l'administration, qui fait apparaître la
-décomposition de leur résultat fiscal et de celui des organismes visés à l'article 8 du code général des impôts selon les
-opérations visées aux deuxième, troisième et quatrième alinéas du II de l'article 208 C du code précité ainsi que les
-obligations de distribution y afférentes et le respect des obligations antérieures.
+II.-Les sociétés qui ont opté conformément au premier alinéa du I doivent joindre à leur déclaration de résultat un état,
+conforme au modèle établi par l'administration, qui fait apparaître la décomposition de leur résultat fiscal et de celui des
+organismes visés à l'article 8 du code général des impôts selon les opérations visées aux deuxième, troisième et quatrième
+alinéas du II de l'article 208 C du code précité ainsi que les obligations de distribution y afférentes et le respect des
+obligations antérieures.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2009-683 du 12 juin 2009 - art. 1
+
 	**Cite**:
 
-	  - CGI 208 C, 221 bis, 8
+	  - Code de commerce. - art. R123-221 (V)
+	  - Code général des impôts, CGI. - art. 208 C (V)
+	  - Code général des impôts, CGI. - art. 221 bis (V)
+
+
+##### Section 0I bis-0 A : Exonération en faveur des sociétés de placement à prépondérance immobilière à capital variable 
+
+###### Article 46 ter A bis
+
+I. ― Les sociétés de placement à prépondérance immobilière à capital variable doivent joindre à leur déclaration de résultat
+du premier exercice d'application du régime d'exonération prévu au 3° nonies de l'article 208 du code général des impôts la
+copie de l'agrément délivré par l'Autorité des marchés financiers en application de l'article L. 214-91 du code monétaire et
+financier ou, le cas échéant, l'avis de réception par l'Autorité des marchés financiers de la demande d'agrément mentionnant
+la date d'expiration du délai à compter de laquelle l'agrément est réputé accordé à défaut d'agrément exprès, ainsi que la
+liste de leurs filiales qui optent dans les conditions du III bis de l'article 208 C du code général des impôts, en indiquant
+leur dénomination, l'adresse de leur siège social, le numéro d'identité qui leur a été attribué dans les conditions du
+premier alinéa de l'article R. 123-221 du code de commerce et la répartition de leur capital.
+
+II. ― Les sociétés de placement à prépondérance immobilière à capital variable doivent joindre à leur déclaration de résultat
+la liste mentionnée au I, actualisée, ainsi qu'un état, conforme au modèle établi par l'administration, qui fait apparaître :
+
+1° La décomposition de leurs sommes distribuables définies au I de l'article L. 214-128 du code monétaire et financier, selon
+les opérations visées au II de ce même article ;
+
+2° Les obligations de distribution résultant des II et III de ce même article.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2003-645 du 11 juillet 2003 - art. 1 () JORF 13 juillet 2003
+	  - Décret n°2009-683 du 12 juin 2009 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2003
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, CGI. - art. 208
+	  - Code général des impôts, CGI. - art. 208 C
+	  - Code monétaire et financier - art. L214-128
+	  - Code monétaire et financier - art. L214-91
 
 
 ##### Section 0I bis A : Exonération édictée en faveur des sociétés unipersonnelles d'investissement à risque
@@ -14385,20 +14422,20 @@ répondent pas aux conditions du 5° du 1 de l'article 39 du code général des 
 
 ###### Article 46 quater-0 ZD
 
-Les options mentionnées au premier et au deuxième alinéas de l'article 223 A du code général des impôts sont notifiées au
-service des impôts auprès duquel est souscrite la déclaration du résultat d'ensemble. 
+Les options mentionnées aux premier, deuxième et troisième alinéas de l'article 223 A du code général des impôts sont
+notifiées au service des impôts auprès duquel est souscrite la déclaration du résultat d'ensemble. 
 
 La société mère adresse à ce même service : 
 
 1. Lors de la notification de l'option : 
 
-a) la liste des sociétés filiales et des personnes morales dénuées de capital qui seront membres du groupe. Cette liste
-indique, pour chaque société, sa désignation, l'adresse de son siège social et la répartition de son capital et, pour chaque
-personne morale dénuée de capital, sa désignation, l'adresse de son siège social et la nature du lien qui l'unit à l'entité
-combinante tête du groupe formé en application du deuxième alinéa de l'article 223 A du code général des impôts ; 
+a) la liste des personnes morales qui seront membres du groupe. Cette liste indique, pour chaque société mentionnée au b, sa
+désignation, l'adresse de son siège social et la répartition de son capital et, pour chaque autre personne morale, sa
+désignation, l'adresse de son siège social et la nature du lien qui l'unit à l'entité tête du groupe formé en application du
+deuxième ou troisième alinéa de l'article 223 A du code général des impôts ; 
 
-b) Des attestations par lesquelles ces sociétés font connaître leur accord pour que la société mère retienne leurs propres
-résultats pour la détermination du résultat d'ensemble. 
+b) Des attestations par lesquelles les sociétés filiales font connaître leur accord pour que la société mère retienne leurs
+propres résultats pour la détermination du résultat d'ensemble. 
 
 c) Le cas échéant, le document visé au premier alinéa du c du 6 de l'article 223 L du code général des impôts ou au deuxième
 alinéa du g du 6 du même article, qui comporte la liste et les attestations précédemment mentionnées. 
@@ -14414,9 +14451,12 @@ exercice ;
 c) le cas échéant, l'extrait de l'annexe comptable comportant les informations suivantes sur les comptes combinés : nom de
 l'entreprise combinante, liste des entreprises du périmètre de combinaison et description de la nature des liens qui
 permettent de fonder les critères de sélection des entreprises dont les comptes sont combinés, ainsi que l'indication des
-motifs qui justifient la non-combinaison de certaines entreprises. 
+motifs qui justifient la non-combinaison de certaines entreprises ;
 
-3. En même temps que la déclaration du résultat d'ensemble d e l'exercice au cours duquel le capital de la société mère vient
+d) Le cas échéant, la référence de l'agrément collectif délivré par le Comité des établissements de crédit et des entreprises
+d'investissement pour elle-même et pour les caisses locales qui la détiennent.
+
+3. En même temps que la déclaration du résultat d'ensemble de l'exercice au cours duquel le capital de la société mère vient
 à être détenu à hauteur de 95 % au moins, directement ou indirectement, par une personne morale passible de l'impôt sur les
 sociétés dans les conditions prévues au premier alinéa du d du 6 de l'article 223 L du code général des impôts, une lettre
 signée des représentants dûment mandatés de la société mère et de la société détentrice des titres qui indique, de manière
@@ -14427,7 +14467,7 @@ la détention en cause.
 
 	**Modifié par**:
 
-	  - Décret n°2008-683 du 8 juillet 2008 - art. 1
+	  - Décret n°2009-684 du 12 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -14445,9 +14485,9 @@ la détention en cause.
 Les sociétés filiales qui acceptent de faire partie du groupe défini à l'article 223 A du code général des impôts adressent
 l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles relèvent au plus tard à l'expiration du délai de
 dépôt de la déclaration de résultat de l'exercice précédant celui au titre duquel le régime défini à l'article 223 A précité
-s'applique.L'accord est valable jusqu'à la sortie du groupe de la société filiale concernée. Il peut être dénoncé au plus
+s'applique. L'accord est valable jusqu'à la sortie du groupe de la société filiale concernée. Il peut être dénoncé au plus
 tard à l'expiration du délai de dépôt de la déclaration de résultat du dernier exercice précédant la période couverte par le
-renouvellement de l'option prévu au sixième alinéa de l'article 223 A précité. 
+renouvellement de l'option prévu au septième alinéa de l'article 223 A précité. 
 
 Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
 décision de la société mère en informent le service des impôts dont elles relèvent au plus tard à l'expiration du délai de
@@ -14460,7 +14500,7 @@ conformes aux modèles établis par l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2008-683 du 8 juillet 2008 - art. 2
+	  - Décret n°2009-684 du 12 juin 2009 - art. 1
 
 	**Cite**:
 
@@ -15100,28 +15140,31 @@ modèle établi par l'administration.
 	  - Code général des impôts, CGI. - art. 219 (V)
 
 
-##### Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées
+##### Section XII ter : Réduction du taux de l'impôt sur les sociétés pour les sociétés d'investissements immobiliers cotées, leurs filiales, les filiales de sociétés de placement à prépondérance immobilière à capital variable et les sociétés se transformant en sociétés de placement à prépondérance immobilière à capital variable
 
 ###### Article 46 quater-0 ZZ bis B
 
-La société d'investissements immobiliers cotée et ses filiales qui ont opté pour l'exonération de l'impôt sur les sociétés en
-application du II de l'article 208 C du code général des impôts doivent joindre à leur déclaration visée au 3 de l'article
-201 du code général des impôts un détail des plus-values sur immeubles et parts des organismes visés à l'article 8 du code
-précité soumises à la taxation prévue au IV de l'article 219 du même code.
+Les sociétés qui ont opté pour l'exonération de l'impôt sur les sociétés en application des II et III bis de l'article 208 C
+du code général des impôts et les sociétés soumises à l'impôt sur les sociétés qui se transforment en sociétés de placement à
+prépondérance immobilière à capital variable doivent joindre à leur déclaration visée au 3 de l'article 201 du même code un
+détail des plus-values soumises à la taxation prévue au IV de l'article 219 du même code. 
+
+Celles qui ont opté pour l'exonération de l'impôt sur les sociétés en application du II de l'article 208 C du code général
+des impôts doivent également joindre à leur déclaration de résultat de l'exercice au titre duquel leur impôt sur les sociétés
+est majoré des taxations prévues à la dernière phrase du premier alinéa du IV de ce même article un détail des plus-values
+latentes qui y sont soumises.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2009-683 du 12 juin 2009 - art. 1
+
 	**Cite**:
 
-	  - CGI 208 C, 201, 8, 219
-
-	**Créé par**:
-
-	  - Décret n°2003-645 du 11 juillet 2003 - art. 1 () JORF 13 juillet 2003
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
+	  - Code général des impôts, CGI. - art. 201
+	  - Code général des impôts, CGI. - art. 208 C
+	  - Code général des impôts, CGI. - art. 219 (V)
 
 
 ##### Section XII quater : Réduction du taux de l'impôt sur les sociétés applicable à certaines plus-values réalisées lors de la cession d'immeubles ou de droits afférents à un immeuble
@@ -36149,24 +36192,21 @@ exercice n'est clos en cours d'année, le 15 mai de l'année suivante.
 
 ###### Article 361
 
-Les versements effectués par les sociétés d'investissements immobiliers cotées au titre du quatrième alinéa du 2 de l'article
-1663 du code général des impôts sont accompagnés d'un relevé daté et signé, établi sur papier libre ou par voie électronique,
-indiquant la désignation, l'adresse et le numéro SIRET de la société versante, la nature et le montant du versement,
-l'échéance à laquelle il se rapporte ainsi que la base de calcul.
+Les versements effectués au titre de la seconde phrase du quatrième alinéa du 2 de l'article 1663 du code général des impôts
+sont accompagnés d'un relevé daté et signé, établi sur papier libre ou par voie électronique, indiquant la désignation,
+l'adresse, le numéro d'identité tel que défini au premier alinéa de l'article R. 123-221 du code de commerce de la société
+versante, la nature et le montant du versement, l'échéance à laquelle il se rapporte ainsi que la base de calcul.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1663
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2009-683 du 12 juin 2009 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, CGI. - art. 1663
 
 
 ###### Article 362
