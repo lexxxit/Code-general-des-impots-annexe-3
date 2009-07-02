@@ -29,6 +29,10 @@ mentionnées ci-dessus ;
 c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du groupe de l'une des sociétés mentionnées ci-
 dessus, en application des dispositions du troisième alinéa de l'article 223 R du code général des impôts. 
 
+6 bis. Dans les situations mentionnées au h du 6 de l'article 223 L du code général des impôts, des états faisant apparaître,
+par société sortie du groupe, la quotité du déficit et de la moins-value nette à long terme d'ensemble mentionnée au deuxième
+alinéa de l'article 223 E du code général des impôts revenant à chacune d'elles. 
+
 7. (Périmé) 
 
 8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A et 44 decies du
@@ -46,16 +50,17 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2008-683 du 8 juillet 2008 - art. 4
+	  - Décret n°2009-811 du 30 juin 2009 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK
-	  - Code général des impôts, CGI. - art. 223 B
-	  - Code général des impôts, CGI. - art. 223 I
-	  - Code général des impôts, CGI. - art. 223 L
-	  - Code général des impôts, CGI. - art. 223 Q
-	  - Code général des impôts, CGI. - art. 223 R
-	  - Code général des impôts, CGI. - art. 44 decies
-	  - Code général des impôts, CGI. - art. 44 octies
-	  - Code général des impôts, CGI. - art. 44 octies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
+	  - Code général des impôts, CGI. - art. 223 B (V)
+	  - Code général des impôts, CGI. - art. 223 E (V)
+	  - Code général des impôts, CGI. - art. 223 I (V)
+	  - Code général des impôts, CGI. - art. 223 L (VT)
+	  - Code général des impôts, CGI. - art. 223 Q (V)
+	  - Code général des impôts, CGI. - art. 223 R (V)
+	  - Code général des impôts, CGI. - art. 44 decies (V)
+	  - Code général des impôts, CGI. - art. 44 octies (V)
+	  - Code général des impôts, CGI. - art. 44 octies A (V)

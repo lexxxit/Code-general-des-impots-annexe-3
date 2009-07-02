@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-06-24
+Version Consolidée au 2009-07-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -10640,38 +10640,42 @@ fraction de la période de neuf ans couverte par l'engagement initial et restant
 
 ###### Article 46 AGH
 
-Pour l'application du a et du d du 2 de l'article 199 decies H du code général des impôts, les contribuables sont tenus de
-joindre à leur déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé une
-note annexe, établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants :
+Pour l'application du a, du d et du f du 2 de l'article 199 decies H du code général des impôts, les contribuables sont tenus
+de joindre à leur déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé une
+note annexe, établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants : 
 
-a. L'identité et l'adresse du contribuable ;
+a. L'identité et l'adresse du contribuable ; 
 
-b. La désignation de la ou des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées ;
+b. La désignation de la ou des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées ; 
 
-c. Pour l'application du a du 2 de l'article 199 decies H du code général des impôts, le prix et la date d'acquisition du ou
-des terrains concernés ;
+c. Pour l'application du a du 2 de l'article 199 decies H précité, le prix et la date d'acquisition du ou des terrains
+concernés ; 
 
-d. Pour l'application du d du 2 de l'article 199 decies H du code général des impôts, la nature, le montant et la date de
-paiement des travaux forestiers réalisés ;
+d. Pour l'application du d du 2 de l'article 199 decies H précité, la nature, le montant et la date de paiement des travaux
+forestiers réalisés ; le cas échéant, les contribuables joignent également le document du fournisseur des matériels
+forestiers de reproduction utilisés mentionné à l'article R. 552-22 du code forestier et une attestation sur l'honneur selon
+laquelle est respecté l'arrêté régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à
+l'investissement forestier ; 
 
-e. Pour l'application du d du 2 de l'article 199 decies H du code général des impôts, la date d'agrément du plan simple de
-gestion ou la date d'adhésion au règlement type de gestion applicable à l'unité de gestion concernée ;
+d bis. Pour l'application du f du 2 de l'article 199 decies H du code général des impôts, l'identité et l'adresse du
+cocontractant, la date de signature du contrat, le montant de la rémunération et la date de versement ; 
 
-f. La déclaration d'engagement prévue par ces dispositions.
+e. Pour l'application du d et du f du 2 de l'article 199 decies H précité, la nature de la garantie de gestion durable
+applicable à l'unité de gestion concernée ; 
+
+f. Pour l'application du a et du d du 2 de l'article 199 decies H précité, la déclaration d'engagement prévue par ces
+dispositions.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 decies H
-
 	**Modifié par**:
 
-	  - Décret n°2006-1169 du 20 septembre 2006 - art. 1 () JORF 22 septembre 2006
+	  - Décret n°2009-810 du 30 juin 2009 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 199 decies H (V)
+	  - Code forestier - art. R552-22 (V)
 
 
 ###### Article 46 AGI
@@ -10680,47 +10684,63 @@ I. - Lorsqu'un contribuable entend bénéficier de la réduction d'impôt en app
 H du code général des impôts, il informe de cette intention le groupement forestier ou la société d'épargne forestière dont
 il a souscrit ou acquis les parts au plus tard le 31 décembre de l'année de souscription ou d'acquisition. Le groupement ou
 la société doit alors joindre à la déclaration de résultat de cette même année les déclarations d'engagement prévues par ces
-dispositions, établies conformément à des modèles fixés par l'administration.
+dispositions, établies conformément à des modèles fixés par l'administration. 
 
-Pour l'application du e du 2 de l'article 199 decies H du code général des impôts, le groupement doit joindre à sa
-déclaration de résultat de l'année où les travaux sont payés les déclarations d'engagement prévues par ces dispositions,
-établies conformément à des modèles fixés par l'administration.
+Pour l'application du e du 2 de l'article 199 decies H précité, le groupement ou la société doit joindre à sa déclaration de
+résultat de l'année où les travaux sont payés les déclarations d'engagement prévues par ces dispositions, établies
+conformément à des modèles fixés par l'administration. 
 
 II. - Le groupement ou la société doit, avant le 16 février de l'année civile qui suit celle de la souscription ou
-l'acquisition de parts ou celle du paiement des travaux forestiers réalisés par le groupement, délivrer à ses associés qui
-entendent bénéficier de la réduction d'impôt un document établi conformément à un modèle fixé par l'administration et
-comportant, pour l'année précédente, les renseignements suivants :
+l'acquisition de parts, celle du paiement des travaux forestiers réalisés par le groupement ou la société ou celle du
+versement de la rémunération au cocontractant mentionné au f du 2 de l'article 199 decies H du code général des impôts,
+délivrer à ses associés qui entendent bénéficier de la réduction d'impôt un document établi conformément à un modèle fixé par
+l'administration et comportant, pour l'année précédente, les renseignements suivants : 
 
-a. La raison sociale et l'adresse du siège social du groupement ou de la société ;
+a. La raison sociale et l'adresse du siège social du groupement ou de la société ; 
 
-b. L'attestation que les engagements mentionnés au I ont été pris et sont respectés.
+b. Dans les cas prévus aux b, c et e du 2 de l'article 199 decies H précité, l'attestation que les engagements mentionnés au
+I ont été pris et sont respectés. 
 
-Pour l'application du e du 2 de l'article 199 decies H du code général des impôts, ce document précise également :
+c. Dans le cas prévu au e du 2 de l'article 199 decies H précité, la nature de la garantie de gestion durable applicable à
+l'unité de gestion concernée, la nature, le montant total et la date de paiement des travaux forestiers ; le cas échéant, le
+groupement ou la société délivre également le document du fournisseur des matériels forestiers de reproduction utilisés
+mentionné à l'article R. 552-22 du code forestier et une attestation sur l'honneur selon laquelle est respecté l'arrêté
+régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à l'investissement forestier ;
 
-c. La nature, le montant total et la date de paiement des travaux forestiers ;
+c bis. Dans le cas prévu au f du 2 de l'article 199 decies H du code général des impôts, l'identité et l'adresse du
+cocontractant, la date de signature du contrat ainsi que le montant et la date de versement de sa rémunération, accompagnés
+de la facture et de l'attestation mentionnées au 3 bis de l'article précité ;
 
-d. Le nombre et le pourcentage de parts du groupement détenues par l'associé.
+d. Dans les cas prévus aux e et f du 2 de l'article 199 decies H précité, le nombre et le pourcentage de parts du groupement
+ou de la société détenues par l'associé. 
 
 III. - Chaque année, le groupement ou la société doit joindre à sa déclaration de résultat un document établi conformément à
-un modèle fixé par l'administration et comportant les renseignements suivants :
+un modèle fixé par l'administration et comportant les renseignements suivants : 
 
-a. La raison sociale et l'adresse du siège social du groupement ou de la société ;
+a. La raison sociale et l'adresse du siège social du groupement ou de la société ; 
 
-b. L'attestation que les engagements mentionnés au I ont été pris et sont respectés ;
+b. L'attestation que les engagements mentionnés au I ont été pris et sont respectés ; 
 
-c. L'identité et l'adresse de chacun des associés ;
+c. L'identité et l'adresse de chacun des associés ; 
 
 d. Le nombre, les numéros et les valeurs nominales des parts détenues par chacun des associés au 1er janvier et au 31
 décembre de l'année précédente et, le cas échéant, des parts souscrites, acquises et transmises au cours de l'année ainsi que
-la date de ces opérations ;
+la date de ces opérations ; 
 
 e. La nature, le montant et la date de paiement des travaux forestiers éligibles à la réduction d'impôt, ainsi que la
-désignation de la ou des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées.
+désignation de la ou des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées. Le cas
+échéant, le groupement ou la société joint le document du fournisseur des matériels forestiers de reproduction utilisés
+mentionné à l'article R. 552-22 du code forestier et une attestation sur l'honneur selon laquelle est respecté l'arrêté
+régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à l'investissement forestier ; 
+
+f. L'identité et l'adresse du cocontractant mentionné au f du 2 de l'article 199 decies H du code général des impôts, la date
+de signature du contrat, le montant de sa rémunération et sa date de versement, ainsi que la désignation de la ou des
+parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées.
 
 IV. - Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sont inscrites, dans les trente
 jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle la réduction d'impôt a été
 demandée, sur un compte ouvert au nom de l'associé dans la comptabilité du groupement ou de la société ou sur un registre
-spécial. Le groupement ou la société tient ce compte ou ce registre et conserve les documents relatifs aux opérations qui
+spécial. le groupement ou la société tient ce compte ou ce registre et conserve les documents relatifs aux opérations qui
 l'affectent jusqu'à la fin de la troisième année suivant celle de l'expiration de l'engagement de conservation des parts
 prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôts.
 
@@ -10732,35 +10752,28 @@ prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôt
 
 	**Modifié par**:
 
-	  - Décret n°2006-1169 du 20 septembre 2006 - art. 1 () JORF 22 septembre 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2009-810 du 30 juin 2009 - art. 1
 
 
 ###### Article 46 AGJ
 
-I. - L'engagement de conservation des parts prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôts,
+I.-L'engagement de conservation des parts prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôts,
 établi conformément à un modèle fixé par l'administration, est joint à la déclaration des revenus de l'année au cours de
 laquelle les parts ouvrant droit au bénéfice de la réduction d'impôt ont été souscrites ou acquises, ou au cours de laquelle
-le groupement forestier a payé les dépenses de travaux forestiers qui ont ouvert droit à cette réduction.
+le groupement forestier ou la société d'épargne forestière a payé les dépenses de travaux forestiers qui ont ouvert droit à
+cette réduction. 
 
-II. - Les associés joignent à cette déclaration le document mentionné au II de l'article 46 AGI.
+II.-Les associés joignent à cette déclaration le document mentionné au II de l'article 46 AGI.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 decies H
-
 	**Modifié par**:
 
-	  - Décret n°2006-1169 du 20 septembre 2006 - art. 1 () JORF 22 septembre 2006
+	  - Décret n°2009-810 du 30 juin 2009 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 199 decies H (V)
 
 
 ###### Article 46 AGK
@@ -14720,17 +14733,39 @@ considérant que les déficits déjà imputés correspondent à ceux de cette so
 b) La somme ainsi calculée est imputée sur le déficit encore reportable subi au titre de l'exercice le plus ancien ; 
 
 c) La partie du déficit qui demeure imputable dans les conditions prévues au 5 de l'article 223 I du code général des impôts
-est réduite à due concurrence.
+est réduite à due concurrence. 
+
+3. La société qui sort d'un groupe d'intégration fiscale dans les conditions prévues au deuxième alinéa de l'article 223 E du
+code général des impôts conserve le droit d'imputer sur son bénéfice : 
+
+1° Dans le cas où le résultat d'ensemble du groupe est déficitaire, le montant de son déficit pris en compte pour la
+détermination du résultat d'ensemble de l'exercice, multiplié par le rapport entre, au numérateur, le déficit d'ensemble de
+l'exercice et, au dénominateur, la somme des déficits des sociétés du groupe pris en compte pour la détermination du résultat
+d'ensemble de l'exercice, auquel s'ajoute le montant qu'elle aurait pu imputer sur son bénéfice en sortant du groupe au cours
+de l'exercice précédent ; 
+
+2° Dans le cas où le résultat d'ensemble du groupe est nul, une proportion des déficits d'ensemble reportables égale à celle
+qu'elle aurait obtenue en sortant du groupe au cours de l'exercice précédent. 
+
+Le montant déterminé conformément au 1° ou au 2° est réduit dans le rapport entre la fraction du déficit d'ensemble
+susceptible d'être imputé dans les conditions prévues à l'
+article 223 G du code général des impôts et le montant global du déficit d'ensemble encore reportable à la clôture de
+l'exercice du groupe précédant celui au cours duquel intervient la sortie de la société. 
+
+La moins-value nette à long terme que la société conserve le droit d'imputer sur ses plus-values nettes à long terme est
+déterminée selon les mêmes modalités.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2009-811 du 30 juin 2009 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 209
+	  - Code général des impôts, CGI. - art. 223 E
+	  - Code général des impôts, CGI. - art. 223 G
 	  - Code général des impôts, CGI. - art. 223 I
 	  - Code général des impôts, CGI. - art. 223 L
 	  - Code général des impôts, CGI. - art. 223 R
@@ -14802,6 +14837,10 @@ mentionnées ci-dessus ;
 c) Le montant du déficit qui ne peut plus être imputé du fait de la sortie du groupe de l'une des sociétés mentionnées ci-
 dessus, en application des dispositions du troisième alinéa de l'article 223 R du code général des impôts. 
 
+6 bis. Dans les situations mentionnées au h du 6 de l'article 223 L du code général des impôts, des états faisant apparaître,
+par société sortie du groupe, la quotité du déficit et de la moins-value nette à long terme d'ensemble mentionnée au deuxième
+alinéa de l'article 223 E du code général des impôts revenant à chacune d'elles. 
+
 7. (Périmé) 
 
 8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A et 44 decies du
@@ -14819,19 +14858,20 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2008-683 du 8 juillet 2008 - art. 4
+	  - Décret n°2009-811 du 30 juin 2009 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK
-	  - Code général des impôts, CGI. - art. 223 B
-	  - Code général des impôts, CGI. - art. 223 I
-	  - Code général des impôts, CGI. - art. 223 L
-	  - Code général des impôts, CGI. - art. 223 Q
-	  - Code général des impôts, CGI. - art. 223 R
-	  - Code général des impôts, CGI. - art. 44 decies
-	  - Code général des impôts, CGI. - art. 44 octies
-	  - Code général des impôts, CGI. - art. 44 octies A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
+	  - Code général des impôts, CGI. - art. 223 B (V)
+	  - Code général des impôts, CGI. - art. 223 E (V)
+	  - Code général des impôts, CGI. - art. 223 I (V)
+	  - Code général des impôts, CGI. - art. 223 L (VT)
+	  - Code général des impôts, CGI. - art. 223 Q (V)
+	  - Code général des impôts, CGI. - art. 223 R (V)
+	  - Code général des impôts, CGI. - art. 44 decies (V)
+	  - Code général des impôts, CGI. - art. 44 octies (V)
+	  - Code général des impôts, CGI. - art. 44 octies A (V)
 
 
 ###### Article 46 quater-0 ZM
