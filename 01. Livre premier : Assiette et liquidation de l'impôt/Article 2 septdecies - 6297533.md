@@ -21,15 +21,16 @@ acquises et transmises au cours de l'année ainsi que la date de ces opérations
 duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 sexdecies, 2 sexdecies-0 A ter et 2 sexdecies-0 A
 quater ; 
 
-4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ; 
+4° Lorsqu'il y a lieu, le montant de l'amortissement ou de la réduction d'impôt correspondant aux droits de l'associé ; 
 
-5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et le
-montant de ce revenu déterminé compte tenu, selon le cas, de la déduction calculée en fonction du revenu brut ou de la
-déduction au titre de l'amortissement ; 
+5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et ,
+s'il y a lieu, le montant de ce revenu déterminé compte tenu, selon le cas, de la déduction calculée en fonction du revenu
+brut ou de la déduction au titre de l'amortissement ; 
 
 6° En cas de non-respect par la société ou un associé de ses engagements, la quote-part de supplément de déduction calculée
 en fonction du revenu brut ou des déductions au titre de l'amortissement que l'associé doit ajouter au revenu foncier de
-l'année au cours de laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue. 
+l'année au cours de laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue ou de
+la quote-part de la réduction d'impôt que l'associé doit ajouter à l'impôt sur le revenu dû au titre de la même année. 
 
 7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions
 prévues au premier alinéa du j et au au deuxième alinéa du l du 1° du I de l'article 31 du code général des impôts, les
@@ -41,15 +42,11 @@ III.-La société joint chaque année à sa déclaration de résultat l'état me
 quindecies A. Elle y indique, en outre, l'identité et l'adresse des associés ainsi que la part des revenus des immeubles de
 la société correspondant aux droits de chaque associé.
 
-**Nota:**
-
-Modification effectuée en conséquence de la péremption des articles 2 duodecies A,2 quaterdecies A et 2 sexdecies-0 A.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-316 du 20 mars 2009 - art. 1
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
 
 	**Cite**:
 

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-07-03
+Version Consolidée au 2009-07-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -425,23 +425,24 @@ est constaté lors du dépôt de la déclaration des revenus de l'année au cour
 revenus peuvent bénéficier de la déduction calculée en fonction du revenu brut ou, si elle est postérieure, de l'année au
 cours de laquelle les parts ont été acquises. 
 
-L'engagement de conservation des titres prévu au dixième alinéa du g et h du 1° du I de l'article précité est constaté lors
-du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites ou acquises ou, si elle
-est postérieure, de l'année de l'acquisition ou de l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de
-l'amortissement des dépenses de reconstruction et d'agrandissement, l'engagement de conservation des titres doit être joint à
-la déclaration des revenus de l'année d'achèvement des travaux. L'engagement de conservation des titres formulé par le
-conjoint survivant doit être joint à la déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son
-conjoint pour la période postérieure à cet événement. 
+Pour l'application du dixième alinéa des g et h du 1° du I de l'article 31 du code précité et de l'article 199 septvicies du
+même code, l'engagement de conservation des titres est constaté lors du dépôt de la déclaration des revenus de l'année au
+titre de laquelle les parts ont été souscrites ou acquises ou, si elle est postérieure, de l'année de l'acquisition ou de
+l'achèvement de l'immeuble. Pour le bénéfice de la déduction au titre de l'amortissement des dépenses de reconstruction et
+d'agrandissement, l'engagement de conservation des titres doit être joint à la déclaration des revenus de l'année
+d'achèvement des travaux.L'engagement de conservation des titres formulé par le conjoint survivant doit être joint à la
+déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son conjoint pour la période postérieure à
+cet événement.
 
-L'engagement de conservation des titres prévu au quatrième alinéa du m du 1° du I de l'article 31 du code général des impôts
+L'engagement de conservation des titres prévu au sixième alinéa du m du 1° du I de l'article 31 du code général des impôts
 est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
-pour la première fois à la déduction calculée en fonction du revenu brut.
+pour la première fois à la déduction calculée en fonction du revenu brut. 
 
 II.-Les parts détenues par les associés qui entendent bénéficier de la déduction calculée en fonction du revenu brut ou de la
-déduction au titre de l'amortissement sont inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration
-des revenus mentionnée au I, sur un compte ouvert au nom de l'associé dans la comptabilité de la société ou sur un registre
-spécial. Les documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à la fin de la troisième année
-suivant celle de l'expiration de l'engagement mentionné au I. 
+déduction au titre de l'amortissement ou de la réduction d'impôt sont inscrites, dans les trente jours suivant la date limite
+de dépôt de la déclaration des revenus mentionnée au I, sur un compte ouvert au nom de l'associé dans la comptabilité de la
+société ou sur un registre spécial. Les documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à la
+fin de la troisième année suivant celle de l'expiration de l'engagement mentionné au I. 
 
 III.-Les associés joignent à chacune de leurs déclarations des revenus y compris pendant la période de mise à disposition du
 logement prévue au premier alinéa du j et au deuxième alinéa du l du 1° du I de l'article 31 du code général des impôts un
@@ -451,54 +452,54 @@ exemplaire du document mentionné au II de l'article 2 septdecies.
 
 	**Modifié par**:
 
-	  - Décret n°2008-529 du 4 juin 2008 - art. 2
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies
+	  - Code général des impôts, CGI. - art. 199 septvicies (V)
 	  - Code général des impôts, CGI. - art. 31
 
 
 ###### Article 2 octodecies A
 
-I. - L'engagement de conservation des titres prévu au deuxième alinéa de l'article 31 bis du code général des impôts est
-constaté lors du dépôt de la déclaration des revenus de l'année au titre de laquelle les parts ont été souscrites.
+I.-L'engagement de conservation des titres prévu au deuxième alinéa de l'article 31 bis du code général des impôts et au
+troisième alinéa du VIII de l'article 199 septvicies du même code est constaté lors du dépôt de la déclaration des revenus de
+l'année au titre de laquelle les parts ont été souscrites. 
 
-II. - Les parts détenues par les associés qui entendent bénéficier de la déduction au titre de l'amortissement sont
-inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration des revenus mentionnée au I, sur un compte
-ouvert au nom de l'associé dans la comptabilité de la société ou sur un registre spécial. Les documents relatifs aux
-opérations ayant affecté ce compte sont conservés jusqu'à la fin de la troisième année suivant celle de l'expiration de
-l'engagement mentionné au I.
+II.-Les parts détenues par les associés qui entendent bénéficier de la déduction au titre de l'amortissement ou de la
+réduction d'impôt sont inscrites, dans les trente jours suivant la date limite de dépôt de la déclaration des revenus
+mentionnée au I, sur un compte ouvert au nom de l'associé dans la comptabilité de la société ou sur un registre spécial. Les
+documents relatifs aux opérations ayant affecté ce compte sont conservés jusqu'à la fin de la troisième année suivant celle
+de l'expiration de l'engagement mentionné au I. 
 
-III. - Les associés joignent à chacune de leurs déclarations des revenus un exemplaire des documents mentionnés à l'article 2
-octodecies B ainsi que les modalités de décompte de la déduction au titre de l'amortissement.
+III.-Les associés joignent à chacune de leurs déclarations des revenus un exemplaire des documents mentionnés à l'article 2
+octodecies B ainsi que les modalités de décompte de la déduction au titre de l'amortissement ou de la réduction d'impôt.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
+
 	**Cite**:
 
-	  - CGI 31 bis
-	  - CGIAN3 2 octodecies B
-
-	**Créé par**:
-
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies B
+	  - Code général des impôts, CGI. - art. 199 septvicies
+	  - Code général des impôts, CGI. - art. 31 bis
 
 
 ###### Article 2 octodecies B
 
-La société civile de placement immobilier mentionnée au premier alinéa de l'article 31 bis doit, au plus tard le deuxième
-jour ouvré suivant le premier mai de chaque année, faire parvenir à ses associés un document établi en double exemplaire
-conformément à un modèle fixé par l'administration et comportant les éléments suivants : 
+La société civile de placement immobilier mentionnée au premier alinéa de l'article 31 bis du code général des impôts ou au
+VIII de l'article 199 septvicies du même code doit, au plus tard le deuxième jour ouvré suivant le premier mai de chaque
+année, faire parvenir à ses associés un document établi en double exemplaire conformément à un modèle fixé par
+l'administration et comportant les éléments suivants : 
 
 1° L'identité et l'adresse des associés ; 
 
-2° Le nombre et les numéros des parts ou actions souscrites pour lesquelles le bénéfice de la déduction est demandé ainsi que
-le montant du capital souscrit correspondant ; 
+2° Le nombre et les numéros des parts ou actions souscrites pour lesquelles le bénéfice de la déduction ou de la réduction
+d'impôt est demandé ainsi que le montant du capital souscrit correspondant ; 
 
 3° La date de souscription des parts ou actions et du versement des fonds ; 
 
@@ -506,20 +507,21 @@ le montant du capital souscrit correspondant ;
 acquises et transmises au cours de l'année ainsi que la date de ces opérations ; 
 
 5° L'attestation que 95 % de la souscription, appréciés sans tenir compte des frais de collecte, pour laquelle le bénéfice de
-la déduction a été demandé, servent exclusivement à financer un investissement pour lequel les conditions d'application des
-déductions prévues au h et au l du 1° du I de l'article 31 du code général des impôts sont réunies ; 
+la déduction ou de la réduction d'impôt a été demandé, servent exclusivement à financer un investissement pour lequel les
+conditions d'application des déductions prévues au h et au l du 1° du I de l'article 31 du code général des impôts ou de la
+réduction d'impôt prévue à l'article 199 septvicies du même code sont réunies ; 
 
 6° La nature des investissements réalisés au moyen des parts ou actions souscrites pour lesquelles le bénéfice de la
-déduction a été demandée, l'adresse des logements concernés, leur date d'acquisition ou d'achèvement, la date de leur
-première location et la surface à prendre en compte pour l'appréciation du plafond de loyer telle qu'elle est définie par les
-articles 2 terdecies A, 2 terdecies B et 2 terdecies C ; 
+déduction ou de la réduction d'impôt a été demandé, l'adresse des logements concernés, leur date d'acquisition ou
+d'achèvement, la date de leur première location et la surface à prendre en compte pour l'appréciation du plafond de loyer
+telle qu'elle est définie par les articles 2 terdecies A, 2 terdecies B et 2 terdecies C ; 
 
 7° L'attestation que le produit de la souscription annuelle est intégralement investi dans les dix-huit mois qui suivent la
 clôture de celle-ci ; 
 
 8° L'engagement par la société de louer le logement dans les conditions et limites prévues au h ou au l du 1° du I de
-l'article 31 du code général des impôts. La société indique également le montant du loyer mensuel, charges non comprises, tel
-qu'il résulte du bail. 
+l'article 31 du code général des impôts ou à l'article 199 septvicies du même code. La société indique également le montant
+du loyer mensuel, charges non comprises, tel qu'il résulte du bail. 
 
 Un exemplaire de ce document est joint par la société à sa déclaration de résultat.
 
@@ -527,7 +529,7 @@ Un exemplaire de ce document est joint par la société à sa déclaration de r�
 
 	**Modifié par**:
 
-	  - Décret n°2009-316 du 20 mars 2009 - art. 2
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -538,6 +540,7 @@ Un exemplaire de ce document est joint par la société à sa déclaration de r�
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies A
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+	  - Code général des impôts, CGI. - art. 199 septvicies
 	  - Code général des impôts, CGI. - art. 31
 	  - Code général des impôts, CGI. - art. 31 bis
 
@@ -687,45 +690,50 @@ l'avant-dernière année précédant celle de la signature du contrat de locatio
 
 ###### Article 2 quindecies A
 
-I. - Pour le bénéfice de la déduction au titre de l'amortissement prévue au h du 1° du I de l'article 31 du code général des
+I.-Pour le bénéfice de la déduction au titre de l'amortissement prévue au h du 1° du I de l'article 31 du code général des
 impôts, les contribuables sont tenus de joindre à leur déclaration des revenus de l'année d'achèvement de l'immeuble, ou de
 son acquisition si elle est postérieure, les mêmes documents que ceux visés au I de l'article 2 quindecies à l'exception de
-celui visé au 3° du même I.
+celui visé au 3° du même I. 
+
+Pour le bénéfice de la réduction d'impôt prévue à l'article 199 septvicies du code précité, les contribuables sont tenus de
+joindre à leur déclaration des revenus de l'année d'achèvement de l'immeuble, ou de son acquisition si elle est postérieure,
+une note annexe établie conformément à un modèle fixé par l'administration et faisant apparaître les renseignements
+mentionnés aux a, b, c et d du 1° du I de l'article 2 quindecies. Ils doivent également joindre les documents mentionnés au
+2° et au 4° du I de l'article 2 quindecies précité. Les dispositions du treizième alinéa du même I de cet article sont
+applicables. 
 
 En outre, pour les logements que le contribuable acquiert en vue de les réhabiliter, les contribuables sont tenus de joindre
 à leur déclaration des revenus de l'année d'achèvement des travaux les états et attestations prévus à l'article 2 quindecies
 C ainsi que, lorsque ces états sont requis, les états prévus aux articles L. 1334-5 et L. 1334-13 du code de la santé
-publique fournis par le vendeur lors de la promesse de vente ou annexés à l'acte authentique de vente du logement.
+publique fournis par le vendeur lors de la promesse de vente ou annexés à l'acte authentique de vente du logement. 
 
-II. - L'engagement de location prévu au 1 du h du 1° du I de l'article 31 du code général des impôts doit être formulé dans
-une note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par
-l'administration et comportant l'indication des modalités de décompte de la déduction au titre de l'amortissement.
+II.-L'engagement de location prévu au 1 du h du 1° du I de l'article 31 du code général des impôts doit être formulé dans une
+note annexe à la déclaration des revenus de l'année d'achèvement des travaux, établie conformément à un modèle fixé par
+l'administration et comportant l'indication des modalités de décompte de la déduction au titre de l'amortissement. 
 
-III. - L'option prévue au cinquième alinéa du h du 1° du I de l'article 31 du code général des impôts doit être formulée dans
-une note établie selon les mêmes modalités que celles prévues au III de l'article 2 quindecies.
+III.-L'option prévue au cinquième alinéa du h du 1° du I de l'article 31 du code général des impôts doit être formulée dans
+une note établie selon les mêmes modalités que celles prévues au III de l'article 2 quindecies. 
 
-IV. - Pendant la période couverte par l'engagement de location mentionné aux I, II et III, le contribuable joint à chacune de
+IV.-Pendant la période couverte par l'engagement de location mentionné aux I, II et III, le contribuable joint à chacune de
 ses déclarations des revenus un état établi conformément à un modèle fixé par l'administration et faisant apparaître, pour
-chaque logement, le détail du calcul du montant de la déduction pratiquée au titre de l'amortissement ainsi qu'une note
-indiquant le nom des locataires de l'immeuble. En outre, en cas de changement de locataire au cours de cette période, il
-joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du nouveau bail.
+chaque logement, le détail du calcul du montant de la déduction pratiquée au titre de l'amortissement ou de la réduction
+d'impôt ainsi qu'une note indiquant le nom des locataires de l'immeuble. En outre, en cas de changement de locataire au cours
+de cette période, il joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie
+du nouveau bail.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 31
-	  - CGIAN3 2 quindecies, 2 quindecies C
-	  - Code de la santé publique - art. L1334-13 (M)
-	  - Code de la santé publique - art. L1334-5 (M)
-
 	**Modifié par**:
 
-	  - Loi n°2004-806 du 9 août 2004 - art. 76 () JORF 11 août 2004
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2005-330 2005-04-06
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies
+	  - Code général des impôts, CGI. - art. 199 septvicies
+	  - Code général des impôts, CGI. - art. 31
+	  - Code de la santé publique - art. L1334-13
+	  - Code de la santé publique - art. L1334-5
 
 	**Cité par**:
 
@@ -733,34 +741,32 @@ joint à sa déclaration des revenus de l'année au cours de laquelle le changem
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 sexdecies-0 A ter (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 
 ###### Article 2 quindecies B
 
-I. - Le logement qui ne satisfait pas aux caractéristiques de décence au sens du deuxième alinéa du h du 1° du I de l'article
-31 du code général des impôts s'entend de celui qui ne répond pas, pour au moins quatre des rubriques figurant sur
-l'attestation prévue au 1° de l'article 2 quindecies C, aux caractéristiques de la décence définies par le décret n° 2002-120
-du 30 janvier 2002 relatif aux caractéristiques du logement décent.
+I.-Le logement qui ne satisfait pas aux caractéristiques de décence au sens du deuxième alinéa du h du 1° du I de l'article
+31 du code général des impôts ou du deuxième alinéa du I de l'article 199 septvicies du même code s'entend de celui qui ne
+répond pas, pour au moins quatre des rubriques figurant sur l'attestation prévue au 1° de l'article 2 quindecies C, aux
+caractéristiques de la décence définies par le décret n° 2002-120 du 30 janvier 2002 relatif aux caractéristiques du logement
+décent. 
 
-II. - Les travaux de réhabilitation visés au deuxième alinéa du h du 1° du I de l'article 31 du code général des impôts
-s'entendent des travaux réalisés sur le logement, et le cas échéant sur les parties communes, qui permettent de donner au
-logement l'ensemble des performances techniques fixées par arrêté des ministres chargés du budget et du logement. Au moins
-six de ces performances techniques doivent avoir été obtenues à la suite de ces travaux.
+II.-Les travaux de réhabilitation visés au deuxième alinéa du h du 1° du I de l'article 31 du code général des impôts ou au
+deuxième alinéa du I de l'article 199 septvicies du même code s'entendent des travaux réalisés sur le logement, et le cas
+échéant sur les parties communes, qui permettent de donner au logement l'ensemble des performances techniques fixées par
+arrêté des ministres chargés du budget et du logement. Au moins six de ces performances techniques doivent avoir été obtenues
+à la suite de ces travaux.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 31
-	  - CGIAN3 2 quindecies C
-	  - Décret n°2002-120 2002-01-30
+	  - Décret n°2002-120 du 30 janvier 2002
+	  - Code général des impôts, CGI. - art. 199 septvicies
+	  - Code général des impôts, CGI. - art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -770,22 +776,19 @@ six de ces performances techniques doivent avoir été obtenues à la suite de c
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 novodecies A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
 
 ###### Article 2 quindecies C
 
 Pour le bénéfice de la déduction au titre de l'amortissement prévue au h du 1° du I de l'article 31 du code général des
-impôts applicable aux logements acquis par le contribuable en vue de les réhabiliter, le contribuable fait établir par un
-contrôleur technique ou un technicien de la construction qualifié, indépendant des personnes physiques ou morales
-susceptibles de réaliser les travaux de réhabilitation et couvert par une assurance pour cette activité :
+impôts ou de la réduction d'impôt prévue à l'article 199 septvicies du même code applicable aux logements acquis par le
+contribuable en vue de les réhabiliter, le contribuable fait établir par un contrôleur technique ou un technicien de la
+construction qualifié, indépendant des personnes physiques ou morales susceptibles de réaliser les travaux de réhabilitation
+et couvert par une assurance pour cette activité : 
 
 1° Avant la réalisation des travaux, un état descriptif du logement contenant les rubriques fixées par un arrêté des
 ministres chargés du budget et du logement. La personne qui établit cet état fournit également une attestation indiquant les
 rubriques pour lesquelles le logement ne correspond pas aux caractéristiques de la décence mentionnées au I de l'article 2
-quindecies B ;
+quindecies B ; 
 
 2° Après la réalisation des travaux, un état descriptif du logement contenant les mêmes rubriques que celles mentionnées au
 1°. La personne qui établit cet état fournit également une attestation indiquant d'une part que les travaux de réhabilitation
@@ -798,14 +801,9 @@ prises en compte pour un logement individuel.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 31
-	  - CGIAN 3 2 quindecies B
-
-	**Créé par**:
-
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -814,9 +812,10 @@ prises en compte pour un logement individuel.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 novodecies A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA nonies (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 199 septvicies
+	  - Code général des impôts, CGI. - art. 31
 
 
 ###### Article 2 quindecies D
@@ -870,15 +869,16 @@ acquises et transmises au cours de l'année ainsi que la date de ces opérations
 duodecies, 2 terdecies, 2 terdecies A, 2 terdecies B, 2 terdecies C, 2 sexdecies, 2 sexdecies-0 A ter et 2 sexdecies-0 A
 quater ; 
 
-4° Lorsqu'il y a lieu, le montant de l'amortissement correspondant aux droits de l'associé ; 
+4° Lorsqu'il y a lieu, le montant de l'amortissement ou de la réduction d'impôt correspondant aux droits de l'associé ; 
 
-5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et le
-montant de ce revenu déterminé compte tenu, selon le cas, de la déduction calculée en fonction du revenu brut ou de la
-déduction au titre de l'amortissement ; 
+5° Le montant du revenu net foncier correspondant aux droits de l'associé déterminé dans les conditions de droit commun et ,
+s'il y a lieu, le montant de ce revenu déterminé compte tenu, selon le cas, de la déduction calculée en fonction du revenu
+brut ou de la déduction au titre de l'amortissement ; 
 
 6° En cas de non-respect par la société ou un associé de ses engagements, la quote-part de supplément de déduction calculée
 en fonction du revenu brut ou des déductions au titre de l'amortissement que l'associé doit ajouter au revenu foncier de
-l'année au cours de laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue. 
+l'année au cours de laquelle la rupture de l'engagement ou la cession du logement ou des parts sociales est intervenue ou de
+la quote-part de la réduction d'impôt que l'associé doit ajouter à l'impôt sur le revenu dû au titre de la même année. 
 
 7° Lorsqu'un logement est mis à la disposition d'un ascendant ou d'un descendant de l'un des associés dans les conditions
 prévues au premier alinéa du j et au au deuxième alinéa du l du 1° du I de l'article 31 du code général des impôts, les
@@ -890,15 +890,11 @@ III.-La société joint chaque année à sa déclaration de résultat l'état me
 quindecies A. Elle y indique, en outre, l'identité et l'adresse des associés ainsi que la part des revenus des immeubles de
 la société correspondant aux droits de chaque associé.
 
-**Nota:**
-
-Modification effectuée en conséquence de la péremption des articles 2 duodecies A,2 quaterdecies A et 2 sexdecies-0 A.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-316 du 20 mars 2009 - art. 1
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
 
 	**Cite**:
 
@@ -1077,25 +1073,26 @@ période couverte par l'engagement de location mentionné au d du II.
 
 ###### Article 2 sexdecies-0 A ter
 
-Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts :
+Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts ou du cinquième alinéa du I
+et du III de l'article 199 septvicies du même code : 
 
 1° La condition de loyer s'apprécie en tenant compte du montant du loyer payé au bailleur par l'organisme locataire et du
-loyer payé à cet organisme par le sous-locataire.
+loyer payé à cet organisme par le sous-locataire. 
 
 Il n'est toutefois pas tenu compte de la redevance versée par le sous-locataire, en sus du loyer et des charges locatives, à
 un organisme indépendant de l'organisme locataire et représentative des frais de gestion, d'assurance, de gardiennage,
 d'amortissement des locaux collectifs, d'équipement des logements et, le cas échéant, d'ameublement. Cette disposition
 s'applique à la condition que le logement soit situé dans une résidence dotée de services collectifs et composée d'un
 ensemble homogène de dix logements au moins à usage d'habitation principale et que le montant annuel de la redevance n'excède
-pas le montant annuel des loyers payés par le sous-locataire ;
+pas le montant annuel des loyers payés par le sous-locataire ; 
 
 2° Les contribuables doivent joindre à leur déclaration des revenus de l'année d'achèvement de l'immeuble ou de son
 acquisition si elle est postérieure, la note annexe prévue au II de l'article 2 quindecies A, une copie de bail conclu avec
 l'organisme locataire ainsi qu'une copie du contrat de sous-location faisant apparaître le montant de la redevance payée par
-le sous-locataire ;
+le sous-locataire ; 
 
 3° Lorsque le contribuable demande l'application des dispositions du l du 1° du I de l'article 31 du code général des impôts,
-la condition de ressources s'apprécie en tenant compte des ressources du sous-locataire.
+la condition de ressources s'apprécie en tenant compte des ressources du sous-locataire. 
 
 Les contribuables doivent joindre à leur déclaration des revenus de l'année au cours de laquelle a pris effet la location une
 copie de l'avis d'impôt sur le revenu du sous-locataire établi au titre de l'avant-dernière année précédant celle de la
@@ -1103,22 +1100,19 @@ signature du contrat de sous-location.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 31
-	  - CGIAN3 2 quindecies A
-
 	**Modifié par**:
 
-	  - Décret n°2006-1005 du 10 août 2006 - art. 1 () JORF 11 août 2006
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies A
+	  - Code général des impôts, CGI. - art. 199 septvicies
+	  - Code général des impôts, CGI. - art. 31
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 2 terdecies
@@ -19832,6 +19826,63 @@ personnes.
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 360 (P)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 53 A (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
+
+
+##### Section V novodecies : Crédit d'impôt au titre des primes d'intéressement
+
+###### Article 49 septies ZY
+
+Le crédit d'impôt prévu à l'article 244 quater T du code général des impôts est imputé sur l'impôt dû après les prélèvements
+non libératoires et les autres crédits d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-845 du 8 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater T (V)
+
+
+###### Article 49 septies ZZ
+
+Pour l'application des dispositions des articles 199 ter R, 220 Y et 244 quater T du code général des impôts, les entreprises
+doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
+
+Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
+la direction générale des finances publiques avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
+relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les
+déclarations spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de
+solde relatif au résultat d'ensemble du groupe. 
+
+Les autres entreprises doivent déposer la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
+qu'elles sont tenues de souscrire en application de l'article 53 A et 97 du code général des impôts. 
+
+L'associé d'une société de personnes mentionnée aux articles 8 et 238 bis L du code général des impôts ayant conclu un accord
+d'intéressement ouvrant droit au crédit d'impôt mentionné à l'article 244 quater T du même code dépose la déclaration
+spéciale indiquant la quote-part des crédits d'impôt provenant de chacune des sociétés de personnes dont il est associé.
+Toutefois, lorsque l'associé est une personne physique, il est dispensé de déposer la déclaration spéciale lorsqu'il ne
+dispose pas d'un crédit d'impôt mentionné à l'article 244 quater T précité autre que celui issu de sa participation dans la
+société de personnes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-845 du 8 juillet 2009 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 ter R (V)
+	  - Code général des impôts, CGI. - art. 220 Y (V)
+	  - Code général des impôts, CGI. - art. 223 A (VT)
+	  - Code général des impôts, CGI. - art. 238 bis L (V)
+	  - Code général des impôts, CGI. - art. 244 quater T (V)
+	  - Code général des impôts, CGI. - art. 53 A (V)
+	  - Code général des impôts, CGI. - art. 8 (V)
+	  - Code général des impôts, CGI. - art. 97 (V)
 
 
 ##### Section V vicies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique des logements anciens

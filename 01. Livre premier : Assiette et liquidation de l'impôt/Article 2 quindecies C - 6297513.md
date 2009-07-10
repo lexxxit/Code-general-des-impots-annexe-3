@@ -1,14 +1,15 @@
 # Article 2 quindecies C
 
 Pour le bénéfice de la déduction au titre de l'amortissement prévue au h du 1° du I de l'article 31 du code général des
-impôts applicable aux logements acquis par le contribuable en vue de les réhabiliter, le contribuable fait établir par un
-contrôleur technique ou un technicien de la construction qualifié, indépendant des personnes physiques ou morales
-susceptibles de réaliser les travaux de réhabilitation et couvert par une assurance pour cette activité :
+impôts ou de la réduction d'impôt prévue à l'article 199 septvicies du même code applicable aux logements acquis par le
+contribuable en vue de les réhabiliter, le contribuable fait établir par un contrôleur technique ou un technicien de la
+construction qualifié, indépendant des personnes physiques ou morales susceptibles de réaliser les travaux de réhabilitation
+et couvert par une assurance pour cette activité : 
 
 1° Avant la réalisation des travaux, un état descriptif du logement contenant les rubriques fixées par un arrêté des
 ministres chargés du budget et du logement. La personne qui établit cet état fournit également une attestation indiquant les
 rubriques pour lesquelles le logement ne correspond pas aux caractéristiques de la décence mentionnées au I de l'article 2
-quindecies B ;
+quindecies B ; 
 
 2° Après la réalisation des travaux, un état descriptif du logement contenant les mêmes rubriques que celles mentionnées au
 1°. La personne qui établit cet état fournit également une attestation indiquant d'une part que les travaux de réhabilitation
@@ -21,14 +22,9 @@ prises en compte pour un logement individuel.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 31
-	  - CGIAN 3 2 quindecies B
-
-	**Créé par**:
-
-	  - Décret n°2003-1219 du 19 décembre 2003 - art. 1 () JORF 21 décembre 2003
+	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
 
 	**Cité par**:
 
@@ -37,6 +33,7 @@ prises en compte pour un logement individuel.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 novodecies A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA nonies (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, CGI. - art. 199 septvicies
+	  - Code général des impôts, CGI. - art. 31
