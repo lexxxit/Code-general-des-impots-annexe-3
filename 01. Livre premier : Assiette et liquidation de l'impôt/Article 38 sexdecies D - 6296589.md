@@ -16,21 +16,10 @@ trait ou affectés exclusivement à la reproduction ainsi que les chevaux de cou
 concours soumis à un entraînement en vue de la compétition, âgés de deux ans au moins au sens de la réglementation des
 courses.
 
-Lorsque l'exploitant est assujetti à la taxe sur la valeur ajoutée, l'application de cette disposition est subordonnée à la
-condition qu'il exerce le même choix pour l'établissement de cette taxe.
-
 Tous les autres animaux, y compris ceux nés dans l'exploitation, sont obligatoirement compris dans les stocks.
-
-**Nota:**
-
-Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 31 décembre 2004.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Décret n°2009-1506 du 7 décembre 2009 - art. 1
