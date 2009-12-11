@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2009-12-12
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -30322,6 +30322,26 @@ l'administration avant le 1er janvier de l'année suivante.
 	  - Code général des impôts, CGI. - art. 1383 I (V)
 
 
+##### 8° : Habitations à haut niveau de performance énergétique
+
+###### Article 315 quaterdecies
+
+Les logements mentionnés à l'article 1383-0 B bis du code général des impôts s'entendent de ceux qui sont titulaires du label
+" bâtiment basse consommation énergétique, BBC 2005 " mentionné au 5° de l'article 2 de l'arrêté du 3 mai 2007 relatif au
+contenu et aux conditions d'attribution du label " haute performance énergétique ".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté du 3 mai 2007 - art. 2
+	  - Code général des impôts, CGI. - art. 1383-0 B bis
+
+	**Créé par**:
+
+	  - Décret n°2009-1529 du 9 décembre 2009 - art. 1
+
+
 ##### b : Lieu d'imposition
 
 ##### Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts
@@ -36631,18 +36651,23 @@ exercice n'est clos en cours d'année, le 15 mai de l'année suivante.
 Les versements effectués au titre de la seconde phrase du quatrième alinéa du 2 de l'article 1663 du code général des impôts
 sont accompagnés d'un relevé daté et signé, établi sur papier libre ou par voie électronique, indiquant la désignation,
 l'adresse, le numéro d'identité tel que défini au premier alinéa de l'article R. 123-221 du code de commerce de la société
-versante, la nature et le montant du versement, l'échéance à laquelle il se rapporte ainsi que la base de calcul.
+versante, la nature et le montant du versement, l'échéance à laquelle il se rapporte ainsi que la base de calcul. 
+
+Les versements effectués au titre du prélèvement mentionné au II ter de l'article 208 C du code général des impôts sont
+accompagnés d'un relevé établi dans les conditions prévues au premier alinéa. Le relevé détaille, en outre, l'identité et
+l'adresse des associés bénéficiaires des distributions soumises à ce prélèvement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-683 du 12 juin 2009 - art. 1
+	  - Décret n°2009-1528 du 9 décembre 2009 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-221
 	  - Code général des impôts, CGI. - art. 1663
+	  - Code général des impôts, CGI. - art. 208 C
 
 
 ###### Article 362
