@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2009-12-31
+Version Consolidée au 2010-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11738,22 +11738,93 @@ Des conjoints, des descendants ou ascendants des associés des sociétés mentio
 
 ###### Article 46 AG terdecies
 
-La surface à prendre en compte pour l'application des dispositions du 5 de l'article 199 undecies A du code général des
-impôts et du 1 de l'article 46 AG duodecies s'entend de la surface habitable au sens de l'article R. 111-2 du code de la
-construction et de l'habitation. Il est toutefois tenu compte de la surface des varangues dans une limite maximale de 14
-mètres carrés.
+I.-La surface à prendre en compte pour l'application des dispositions du a du 2, du 5 de l'article 199 undecies A du code
+général des impôts et du 1 de l'article 46 AG duodecies est définie au III. 
+
+II.-Pour l'application du a du 2 de l'article 199 undecies A du code général des impôts, les limites de surface habitable
+s'établissent, selon le nombre de personnes destinées à occuper à titre principal le logement, comme suit : 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+NOMBRE DE PERSONNES DESTINÉES 
+
+à occuper à titre principal le logement 
+
+</td>
+      <td>
+
+LIMITES DE SURFACE 
+
+habitable 
+
+(en m ²)
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule 
+
+</td>
+      <td align="center">
+
+65 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Couple 
+
+</td>
+      <td align="center">
+
+77,5 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule ou couple ayant une personne à charge 
+
+</td>
+      <td align="center">
+
+90 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Majoration par personne à charge supplémentaire, dans la limite de cinq personnes 
+
+</td>
+      <td align="center">
+
+12 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Les personnes à charge s'entendent de celles mentionnées aux articles 196 à 196 B du code général des impôts. 
+
+III.-La surface à prendre en compte s'entend de la surface habitable au sens de l'article R*111-2 du code de la construction
+et de l'habitation. Il est toutefois tenu compte de la surface des varangues dans une limite maximale de 14 mètres carrés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 199 undecies A
-	  - CGIAN3 46 AG duodecies
-	  - Code de la construction et de l'habitation R111-2
-
-	**Créé par**:
-
-	  - Décret n°2001-1373 du 31 décembre 2001 - art. 1 () JORF 1er janvier 2002
+	  - Décret n°2009-1779 du 30 décembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -11766,9 +11837,12 @@ mètres carrés.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies B (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZT (MMN)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies (V)
+	  - Code général des impôts, CGI. - art. 196 (V)
+	  - Code général des impôts, CGI. - art. 199 undecies A (V)
+	  - Code de la construction et de l'habitation. - art. R*111-2 (V)
 
 
 ###### Article 46 AG terdecies A
@@ -18236,6 +18310,200 @@ libre, au service des impôts auprès duquel est souscrite la déclaration de r�
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 44 terdecies (V)
+
+
+##### Section II octies : Entreprises implantées dans les zones franches d'activités des départements d'outre-mer
+
+###### Article 49 ZA
+
+Sans préjudice des dispositions applicables aux îles Saintes, à La Désirade et à Marie-Galante, la liste des communes qui
+satisfont aux critères définis au 2° du III de l'article 44 quaterdecies du code général des impôts est fixée comme suit : 
+
+1° En Guadeloupe : les communes de Baillif, Bouillante, Deshaies, Gourbeyre, Pointe-Noire, Trois-Rivières, Vieux-Fort et
+Vieux-Habitants ; 
+
+2° En Martinique : les communes de L'Ajoupa-Bouillon, Basse-Pointe, Bellefontaine, Case-Pilote, Fonds-Saint-Denis,
+Grand'Rivière, Le Carbet, Le Lorrain, Le Marigot, Le Morne-Rouge, Le Morne-Vert, Le Prêcheur, Macouba et Saint-Pierre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1777 du 30 décembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 315 quindecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 Q (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
+
+
+###### Article 49 ZC
+
+I.-
+  **1**. Pour l'application du a du 3° du III de l'article 44 quaterdecies du code général des impôts, les activités
+suivantes relèvent du secteur de la recherche et du développement : 
+
+1° Recherche-développement en biotechnologie ; 
+
+2° Recherche-développement en autres sciences physiques et naturelles ; 
+
+3° Recherche-développement en sciences humaines et sociales. 
+
+**2**. Pour l'application du b du 3° du III de l'article 44 quaterdecies du code général des impôts, les activités suivantes
+relèvent du secteur des technologies de l'information et de la communication : 
+
+1° Télécommunications filaires ; 
+
+2° Télécommunications sans fil ; 
+
+3° Télécommunications par satellite ; 
+
+4° Autres activités de télécommunication ; 
+
+5° Programmation informatique ; 
+
+6° Conseil en systèmes et logiciels informatiques ; 
+
+7° Tierce maintenance de systèmes et d'applications informatiques ; 
+
+8° Gestion d'installations informatiques ; 
+
+9° Autres activités informatiques ; 
+
+10° Traitement de données, hébergement et activités connexes ; 
+
+11° Portails internet ; 
+
+12° Activités cinématographiques, vidéo et de télévision, en ce compris la production audiovisuelle ; 
+
+13° Programmation et diffusion ; 
+
+14° Conception, réalisation et productions rédactionnelles, multimédia, flux informatiques et numériques, y compris la presse
+produite localement et activités s'y rapportant ; 
+
+**3**. Pour l'application du c du 3° du III de l'article 44 quaterdecies du code général des impôts, les activités suivantes
+relèvent du secteur du tourisme : 
+
+1° Hôtels et hébergement similaire ; 
+
+2° Hébergement touristique et autre hébergement de courte durée ; 
+
+3° Terrains de camping et parcs pour caravanes ou véhicules de loisirs ; 
+
+4° Activités des parcs d'attractions et parcs à thèmes, à l'exception de l'exploitation de jeux de hasard et d'argent ; 
+
+5° Autres activités récréatives et de loisirs, à l'exception de l'exploitation de jeux de hasard et d'argent et sous réserve
+que ces activités s'intègrent directement et à titre principal à une activité hôtelière ou touristique ; 
+
+6° Enseignement de disciplines sportives et d'activités de loisirs, sous réserve que ces activités s'intègrent directement et
+à titre principal à une activité hôtelière ou touristique ; 
+
+7° Activités liées au sport, sous réserve que ces activités s'intègrent directement et à titre principal à une activité
+hôtelière ou touristique ; 
+
+8° Entretien corporel, pour les activités suivantes : activités thermales, de balnéothérapie ou de thalassothérapie ; 
+
+9° Location de courte durée de voitures et de véhicules automobiles légers, pour les seules locations d'une durée inférieure
+à un mois ; la part de cette activité s'inscrivant dans le cadre de prestations touristiques peut être évaluée à 75 % du
+bénéfice tiré de telles locations ; 
+
+10° Transports maritimes et côtiers de passagers, en ce compris l'exploitation de bateaux d'excursion, de croisière ou de
+tourisme, au départ et à destination des départements d'outre-mer, à l'exclusion de l'exploitation des lignes régulières ; 
+
+11° Transports fluviaux de passagers, en ce compris l'exploitation de bateaux d'excursion, de croisière ou de tourisme au
+départ et à destination des départements d'outre-mer, à l'exclusion de l'exploitation des lignes régulières ; 
+
+12° Transports aériens de passagers, en ce compris les vols de tourisme, au départ et à destination des départements d'outre-
+mer, à l'exclusion de l'exploitation des lignes régulières, et sous réserve que ces activités s'intègrent directement et à
+titre principal à une activité touristique ; 
+
+13° Transports de voyageurs par taxis ; la part de cette activité s'inscrivant dans le cadre de prestations touristiques peut
+être évaluée à 50 % du bénéfice ; 
+
+14° Autres transports routiers de voyageurs, à l'exclusion de l'exploitation des lignes régulières ; 
+
+15° Activités des agences de voyage, voyagistes, services de réservation et activités connexes, lorsqu'ils sont physiquement
+implantés sur le territoire du département d'outre-mer ; 
+
+16° Organisation de foires, salons professionnels et congrès ; 
+
+17° Restauration traditionnelle ; la part de cette activité s'inscrivant dans le cadre de prestations touristiques peut être
+évaluée à 50 % du bénéfice. 
+
+**4**. Pour l'application du d du 3° du III de l'article 44 quaterdecies du code général des impôts, les activités suivantes
+relèvent du secteur de l'agro-nutrition : 
+
+1° Culture et production animale, chasse et services annexes ; 
+
+2° Sylviculture et exploitation forestière ; 
+
+3° Pêche et aquaculture ; 
+
+4° Industries alimentaires ; 
+
+5° Fabrication de boissons. 
+
+5. Pour l'application du e du 3° du III de l'article 44 quaterdecies du code général des impôts, les activités suivantes
+relèvent du secteur de l'environnement : 
+
+1° Captage, traitement et distribution d'eau ; 
+
+2° Collecte et traitement des eaux usées ; 
+
+3° Collecte des déchets non dangereux ; 
+
+4° Collecte des déchets dangereux ; 
+
+5° Traitement et élimination des déchets non dangereux ; 
+
+6° Traitement et élimination des déchets dangereux ; 
+
+7° Démantèlement d'épaves ; 
+
+8° Récupération de déchets triés ; 
+
+9° Dépollution et autres services de gestion des déchets ; 
+
+10° Travaux d'isolation : isolation thermique. 
+
+6. Pour l'application du f du 3° du III de l'article 44 quaterdecies du code général des impôts, les activités suivantes
+relèvent du secteur des énergies renouvelables : 
+
+1° Production d'électricité, à partir d'énergies renouvelables (production éolienne, géothermique, hydraulique, marémotrice,
+solaire, ou à partir de la biomasse ou de la mer) ; 
+
+2° Production de combustibles gazeux, à partir d'énergies renouvelables (production éolienne, géothermique, hydraulique,
+marémotrice, solaire, ou à partir de la biomasse ou de la mer) ; 
+
+3° Production de vapeur et d'air conditionné, à partir d'énergie renouvelable (production éolienne, géothermique,
+hydraulique, marémotrice, solaire, ou à partir de la biomasse ou de la mer). 
+
+4° Production ou pose d'équipements ou d'installations destinés à réduire la consommation d'énergie ou à améliorer la
+performance énergétique de tout type de construction ainsi que l'installation d'équipements thermiques, lorsque ces
+équipements respectent des normes d'éco-conditionnalité fixées par arrêté. 
+
+II.-Sauf lorsqu'il en est disposé autrement, les secteurs mentionnés au I s'entendent de ceux définis par la nomenclature
+d'activités françaises, en ce que ses rubriques incluent ou excluent comme activités. Seule est prise en compte l'activité
+réellement exercée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1778 du 30 décembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 315 sexdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 R (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 44 quaterdecies (V)
 
 
 ##### Section III : Restitution d'impôts consécutive au remboursement des sommes visées à l'article 111 du code général des impôts
@@ -30518,9 +30786,45 @@ contenu et aux conditions d'attribution du label " haute performance énergétiq
 	  - Décret n°2009-1529 du 9 décembre 2009 - art. 1
 
 
+##### 9° : Zones franches 
+
+###### Article 315 quindecies
+
+La liste des communes qui satisfont aux critères définis au 2° du III de l'article 1388 quinquies du code général des impôts
+est celle fixée à l'article 49 ZA.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1777 du 30 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZA (V)
+	  - Code général des impôts, CGI. - art. 1388 quinquies (V)
+
+
 ##### b : Lieu d'imposition
 
 ##### Entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts
+
+###### Article 315 sexdecies
+
+Les activités éligibles aux dispositions du 3° du III de l'article 1388 quinquies du code général des impôts sont celles
+mentionnées à l'article 49 ZC.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1778 du 30 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZC
+	  - Code général des impôts, CGI. - art. 1388 quinquies (V)
+
 
 ###### Article 316
 
@@ -31226,6 +31530,40 @@ s'appliquer, l'entreprise doit déclarer les éléments transférés exclus de l
 	**Abrogé par**:
 
 	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+
+
+###### Article 322 Q
+
+La liste des communes qui satisfont aux critères définis au 2° du III de l'article 1466 F du code général des impôts est
+celle fixée à l'article 49 ZA.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1777 du 30 décembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZA (V)
+	  - Code général des impôts, CGI. - art. 1466 F
+
+
+###### Article 322 R
+
+Les activités éligibles aux dispositions du 3° du III de l'article 1466 F du code général des impôts sont celles mentionnées
+à l'article 49 ZC.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1778 du 30 décembre 2009 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 ZC
+	  - Code général des impôts, CGI. - art. 1466 F (V)
 
 
 ##### II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts
