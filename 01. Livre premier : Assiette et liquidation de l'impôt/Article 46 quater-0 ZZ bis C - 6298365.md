@@ -4,7 +4,8 @@ I.-L'engagement de conservation prévu au II de l'article 210 E du code généra
 cession des biens, titres ou droits mentionnés au I du même article. 
 
 Une copie de l'engagement mentionné au premier alinéa doit être jointe à la déclaration de résultat de la personne morale
-cédante et de la société cessionnaire afférente à l'exercice au cours duquel est réalisée la cession. 
+cédante et, selon le cas, de la société cessionnaire ou de la société crédit-preneuse, afférente à l'exercice au cours duquel
+est réalisée la cession. 
 
 II.-Pour l'application du IV de l'article 210 E du code général des impôts, l'engagement d'investissement est établi sur
 papier libre et joint à la déclaration de résultats de l'organisme ou de la société cédante. Il mentionne, pour chaque
@@ -19,7 +20,7 @@ b. Le montant de l'obligation d'investissement et la date à laquelle elle doit 
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2010-12 du 6 janvier 2010 - art. 1
 
 	**Cite**:
 

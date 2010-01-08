@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-01-02
+Version Consolidée au 2010-01-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15803,7 +15803,8 @@ I.-L'engagement de conservation prévu au II de l'article 210 E du code généra
 cession des biens, titres ou droits mentionnés au I du même article. 
 
 Une copie de l'engagement mentionné au premier alinéa doit être jointe à la déclaration de résultat de la personne morale
-cédante et de la société cessionnaire afférente à l'exercice au cours duquel est réalisée la cession. 
+cédante et, selon le cas, de la société cessionnaire ou de la société crédit-preneuse, afférente à l'exercice au cours duquel
+est réalisée la cession. 
 
 II.-Pour l'application du IV de l'article 210 E du code général des impôts, l'engagement d'investissement est établi sur
 papier libre et joint à la déclaration de résultats de l'organisme ou de la société cédante. Il mentionne, pour chaque
@@ -15818,7 +15819,7 @@ b. Le montant de l'obligation d'investissement et la date à laquelle elle doit 
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2010-12 du 6 janvier 2010 - art. 1
 
 	**Cite**:
 
@@ -16639,27 +16640,36 @@ l'article 238 bis HE du code général des impôts est délivré dans les condit
 
 ###### Article 46 quindecies B
 
-Dans la limite de 10 % de leur capital social libéré, les Sofica et les sociétés de réalisation définies au a de l'article
-238 bis HG du code général des impôts peuvent mettre ou laisser leurs disponibilités en comptes productifs d'intérêts si la
-créance correspondante est liquide.
+I.-Pour satisfaire à la condition d'exclusivité de l'activité prévue à l'article 238 bis HE du code général des impôts, les
+sociétés anonymes concernées doivent affecter le capital social souscrit, à hauteur d'une fraction minimale de 90 % de son
+montant brut, et dans un délai de douze mois à compter de la libération, à la réalisation des investissements mentionnés à
+l'article 238 bis HG du même code. 
+
+II.-La fraction non affectée à la réalisation des investissements mentionnés au I doit être placée sous forme de dépôts à vue
+ou de dépôts à terme effectués auprès d'un établissement de crédit avec lequel est passée une convention écrite. Le siège de
+cet établissement est établi dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen. 
+
+Les sommes versées sur des dépôts à terme doivent, en outre, respecter chacune des trois conditions suivantes : 
+
+1° Leur terme est inférieur ou égal à douze mois ; 
+
+2° Elles peuvent être remboursées ou retirées à tout moment à la demande de la société pour le financement de l'industrie
+cinématographique ou audiovisuelle (SOFICA) ; 
+
+3° La somme versée en réponse à une demande de remboursement, diminuée des éventuels frais ou pénalités de remboursement
+anticipé, et augmentée des intérêts éventuels, est au moins égale à la valeur initiale du dépôt.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-13 du 6 janvier 2010 - art. 1
+
 	**Cite**:
 
-	  - CGI 238 bis HG
-
-	**Créé par**:
-
-	  - Décret n°85-982 du 17 septembre 1985 - art. 2 (V) JORF 18 septembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1086 1986-10-07
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
+	  - Code général des impôts, CGI. - art. 238 bis HE
+	  - Code général des impôts, CGI. - art. 238 bis HG
 
 
 ###### Article 46 quindecies C
