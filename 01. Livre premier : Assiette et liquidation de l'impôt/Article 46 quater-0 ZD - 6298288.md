@@ -31,8 +31,8 @@ l'entreprise combinante, liste des entreprises du périmètre de combinaison et 
 permettent de fonder les critères de sélection des entreprises dont les comptes sont combinés, ainsi que l'indication des
 motifs qui justifient la non-combinaison de certaines entreprises ;
 
-d) Le cas échéant, la référence de l'agrément collectif délivré par le Comité des établissements de crédit et des entreprises
-d'investissement pour elle-même et pour les caisses locales qui la détiennent.
+d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité de contrôle prudentiel pour elle-même et pour
+les caisses locales qui la détiennent.
 
 3. En même temps que la déclaration du résultat d'ensemble de l'exercice au cours duquel le capital de la société mère vient
 à être détenu à hauteur de 95 % au moins, directement ou indirectement, par une personne morale passible de l'impôt sur les
@@ -45,7 +45,8 @@ la détention en cause.
 
 	**Modifié par**:
 
-	  - Décret n°2009-684 du 12 juin 2009 - art. 1
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
 
 	**Cité par**:
 
