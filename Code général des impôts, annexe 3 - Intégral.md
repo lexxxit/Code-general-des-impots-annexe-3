@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-01-23
+Version Consolidée au 2010-02-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1018,8 +1018,8 @@ départ des lieux de l'ascendant ou descendant du contribuable.
 
 ###### Article 2 sexdecies-0 A quater
 
-I.-Pour l'application du cinquième alinéa du m du 1° du I de l'article 31 du code général des impôts, les conditions prévues
-au quatrième alinéa du m précité s'apprécient en tenant compte du montant : 
+I.-Pour l'application du septième alinéa du m du 1° du I de l'article 31 du code général des impôts, les conditions prévues
+au sixième alinéa du m précité s'apprécient en tenant compte du montant : 
 
 a. Du loyer payé au bailleur par l'organisme locataire ; 
 
@@ -1058,9 +1058,9 @@ période couverte par l'engagement de location mentionné au d du II.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-529 du 4 juin 2008 - art. 1
+	  - Décret n°2010-122 du 5 février 2010 - art. 2
 
 	**Cité par**:
 
