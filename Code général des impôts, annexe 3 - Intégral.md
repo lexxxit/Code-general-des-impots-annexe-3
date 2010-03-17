@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-03-08
+Version Consolidée au 2010-03-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12874,6 +12874,91 @@ En cas de changement d'exploitant de l'établissement ou de la résidence, les d
 	  - Code du travail - art. L7232-3
 	  - Code de la santé publique - art. L1334-13
 	  - Code de la santé publique - art. L1334-5
+
+
+##### 19° : Plafonnement de certains avantages fiscaux au titre de l'impôt sur le revenu
+
+###### Article 46-0 B
+
+L'avantage en impôt procuré par les déductions au titre de l'amortissement mentionnées aux h et l du 1° du I de l'article 31
+et à l'article 31 bis du code général des impôts est calculé dans les conditions mentionnées au 1 du I de l'article 197 du
+même code sur la base d'un montant déterminé par différence entre le résultat net foncier déclaré et le résultat net foncier
+calculé en excluant les déductions précitées. 
+
+En présence d'un déficit foncier dont le montant excède la limite d'imputation sur le revenu global, la base de l'avantage en
+impôt mentionné au premier alinéa est limitée au montant mentionné, selon le cas, au sixième ou au septième alinéa du 3° du I
+de l'article 156 du code précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-275 du 15 mars 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 156
+	  - Code général des impôts, CGI. - art. 197
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code général des impôts, CGI. - art. 31 bis
+
+
+###### Article 46-0 B bis
+
+Pour l'appréciation de la limite mentionnée au 1 de l'article 200-0 A du code général des impôts : 
+
+1° Les revenus soumis à l'impôt sur le revenu, sur option du contribuable selon une base moyenne, notamment en application
+des articles 75-0 B, 84 A ou 100 bis du code général des impôts, ou fractionnée, notamment en application des articles 75-0
+A, 163 A et 163 bis du même code, sont pris en compte, pour le montant soumis à l'impôt, dans les conditions mentionnées au I
+de l'article 197 du code précité ; 
+
+2° Les revenus soumis à l'impôt sur le revenu selon les modalités prévues aux articles 163-0 A et 163-0 A bis du code général
+des impôts et au II de l'article 163 bis C du même code sont pris en compte, pour le montant soumis à l'impôt, dans les
+conditions mentionnées au I de l'article 197 du code précité, avant multiplication de la cotisation supplémentaire obtenue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-275 du 15 mars 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 100 bis (V)
+	  - Code général des impôts, CGI. - art. 163 A
+	  - Code général des impôts, CGI. - art. 163 bis C
+	  - Code général des impôts, CGI. - art. 163-0 A
+	  - Code général des impôts, CGI. - art. 197
+	  - Code général des impôts, CGI. - art. 200-0 A (V)
+	  - Code général des impôts, CGI. - art. 75-0 A
+	  - Code général des impôts, CGI. - art. 75-0 B (V)
+	  - Code général des impôts, CGI. - art. 84 A (V)
+
+
+###### Article 46-0 B ter
+
+Les contribuables doivent faire figurer distinctement sur la déclaration prévue à l'article 170 du code général des impôts
+les éléments suivants : 
+
+1° Le montant des déductions au titre de l'amortissement mentionnées aux h et l du 1° du I de l'article 31 et à l'article 31
+bis du code général des impôts, retenues pour l'application du plafonnement mentionné au 1 de l'article 200-0 A du code
+général des impôts ; 
+
+2° Le montant des sommes ouvrant droit aux réductions d'impôt et crédits d'impôt retenus pour l'application du plafonnement
+précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-275 du 15 mars 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 200-0 A
+	  - Code général des impôts, CGI. - art. 31 (V)
+	  - Code général des impôts, CGI. - art. 31 bis
 
 
 ##### Section IV : Obligations incombant à certaines sociétés immobilières
