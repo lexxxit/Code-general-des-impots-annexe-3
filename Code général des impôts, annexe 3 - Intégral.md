@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-03-20
+Version Consolidée au 2010-03-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -34771,6 +34771,36 @@ d'exonération ne s'applique que pour la période restant à courir après le 31
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 F (V)
 
 
+###### Article 328 G bis
+
+Pour l'application des dispositions de l'article 1594 I ter du code général des impôts, le prix de cession au mètre carré
+doit être inférieur à 6 400 €.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-319 du 22 mars 2010 - art. 1
+
+	**Transféré par**:
+
+	  - Décret n°2010-893 du 29 juillet 2010 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G decies (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G nonies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G nonies D (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G ter (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1594 I ter
+
+
 ### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
 
 #### Chapitre unique : Impôts directs et taxes assimilées
@@ -38888,40 +38918,31 @@ Modification effectuée en conséquence des articles 1er, 2 et 3 du décret n° 
 ###### Article 397
 
 Le crédit de paiement différé prévu par l'article 1717 du code général des impôts est applicable aux droits d'enregistrement
-exigibles en raison des mutations par décès :
+exigibles en raison des mutations par décès : 
 
-1° qui comportent dévolution de biens en nue-propriété ;
+1° qui comportent dévolution de biens en nue-propriété ; 
 
 2° qui donnent lieu à l'attribution préférentielle prévue à l'article 832 du code civil ou à la réduction prévue à l'article
-924-3 du même code, dans les conditions fixées par l'article 1722 bis du code général des impôts ;
+924-3 du même code, dans les conditions fixées par l'article 1722 bis du code général des impôts ; 
 
-3° Lorsque l'actif héréditaire comprend à concurrence de 50 % au moins des biens non liquides énumérés à l'article 404 A,
-pour les droits dus sur la part du conjoint survivant.
+3° (Abrogé)
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1717, 1722 bis, 404 A
-	  - Code civil - art. 832 (M)
-	  - Code civil - art. 924-3 (V)
-
 	**Modifié par**:
 
-	  - Loi n°2006-728 du 23 juin 2006 - art. 4 () JORF 24 juin 2006
-	  - Loi n°2006-728 du 23 juin 2006 - art. 47 (V) JORF 24 juin 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2010-320 du 22 mars 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 1717
+	  - Code général des impôts, CGI. - art. 1722 bis
+	  - Code civil - art. 832
+	  - Code civil - art. 924-3
 
 
 ##### Transmissions d'entreprises
@@ -39030,39 +39051,20 @@ est adressée à cet effet  par lettre recommandée avec avis de réception.
 
 Sous réserve des dispositions des articles 404 GA et 404 GC, les droits et taxes dont le paiement est fractionné ou différé
 donnent lieu au versement d'intérêts dont le taux est égal à celui de l'intérêt légal au jour de la demande de crédit.
-Toutefois, seule la première décimale est retenue. Ce taux est applicable pendant toute la durée du crédit.
+Toutefois, seule la première décimale est retenue. Ce taux est applicable pendant toute la durée du crédit. 
 
-Le taux applicable aux droits de mutation par décès dus sur la part du conjoint survivant est réduit lorsque l'actif
-héréditaire comprend au moins 50 % de biens non liquides énumérés à l'article 404 A :
+Les intérêts sont acquittés : 
 
-a. des deux tiers en cas de paiement fractionné ;
-
-b. d'un tiers en cas de paiement différé.
-
-Les intérêts sont acquittés :
-
-s'il s'agit d'un paiement fractionné, lors du versement de chaque fraction, à laquelle ils s'ajoutent ;
+s'il s'agit d'un paiement fractionné, lors du versement de chaque fraction, à laquelle ils s'ajoutent ; 
 
 s'il s'agit d'un paiement différé, annuellement, le premier terme venant à échéance un an après l'expiration du délai imparti
 pour souscrire la déclaration de succession.
 
-**Nota:**
-
-Le taux de l'intérêt légal est fixé à 2,95 % pour l'année 2007 et à 3,99 % pour l'année 2008.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 404 GA, 404 GC, 404 A
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
 
 	**Modifié par**:
 
-	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
+	  - Décret n°2010-320 du 22 mars 2010 - art. 1
 
 	**Cité par**:
 
@@ -39071,9 +39073,9 @@ Le taux de l'intérêt légal est fixé à 2,95 % pour l'année 2007 et à 3,99 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 F (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GA (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 GC
 
 
 ###### Article 402
@@ -39154,108 +39156,94 @@ intérêts ne sont dus que jusqu'au jour du paiement des droits.
 ###### Article 404 A
 
 I. Les garanties fournies en contrepartie du fractionnement prévu au 1° de l'article 396 peuvent outre les formes énumérées à
-l'article 400, revêtir celle de l'hypothèque légale prévue au 2 de l'article 1929 du code général des impôts. Les droits sont
-acquittés en plusieurs versements égaux  dont le premier a lieu dans les conditions fixées à l'article 402 et le dernier au
-plus tard cinq ans après l'expiration du délai imparti pour souscrire la déclaration de succession.
+l'article 400, revêtir celle de l'hypothèque légale prévue au 2 de l'article 1929 du code général des impôts. 
+
+Les droits sont acquittés en plusieurs versements égaux dont le premier a lieu dans les conditions fixées à l'article 402 et
+le dernier au plus tard cinq ans après l'expiration du délai imparti pour souscrire la déclaration de succession. 
 
 Les versements sont fixés au nombre de deux lorsque les droits n'excèdent pas 5 % du montant taxable des parts recueillies
-soit par tous les cohéritiers solidaires  soit pour chacun des légataires ou donataires; de quatre  lorsque ces droits
+soit par tous les cohéritiers solidaires soit pour chacun des légataires ou donataires ; de quatre lorsque ces droits
 n'excèdent pas 10 % du même montant et ainsi de suite en augmentant de deux le nombre des versements chaque fois que les
-droits dépassent un nouveau multiple de 5 %, mais sans que le nombre des versements  à intervalle de six mois au plus  puisse
-être supérieur à dix.
+droits dépassent un nouveau multiple de 5 %, mais sans que le nombre des versements à intervalle de six mois au plus puisse
+être supérieur à dix. 
 
-Pour les droits à la charge des héritiers en ligne directe et du conjoint du défunt  le délai maximal prévu au deuxième
-alinéa est porté à dix ans  et le nombre des versements est doublé sans pouvoir toutefois dépasser vingt  lorsque l'actif
-héréditaire comprend  à concurrence de 50 % au moins  des biens non liquides énumérés ci-après :
+Le délai maximal prévu au deuxième alinéa est porté à dix ans et le nombre des versements est doublé sans pouvoir toutefois
+dépasser vingt lorsque l'actif héréditaire comprend à concurrence de 50 % au moins des biens non liquides énumérés ci-
+après : 
 
-Brevets d'invention ;
+Brevets d'invention ; 
 
-Clientèles ;
+Clientèles ; 
 
-Créances non exigibles au décès ;
+Créances non exigibles au décès ; 
 
-Droits d'auteur; Fonds de commerce y compris le matériel et les marchandises qui en dépendent ;
+Droits d'auteur ; Fonds de commerce y compris le matériel et les marchandises qui en dépendent ; 
 
-Immeubles ;
+Immeubles ; 
 
-Matériels agricoles, bestiaux et récoltes ;
+Matériels agricoles, bestiaux et récoltes ; 
 
-Offices ministériels ;
+Offices ministériels ; 
 
-Parts d'intérêts dans des sociétés dont le capital n'est pas divisé en actions ;
+Parts d'intérêts dans des sociétés dont le capital n'est pas divisé en actions ; 
 
-Valeurs mobilières non cotées en Bourse.
+Valeurs mobilières non cotées en Bourse. 
 
 II. (Abrogé).
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 396
-
 	**Modifié par**:
 
-	  - Décret n°85-356 du 23 mars 1985 - art. 9 (V) JORF 24 mars 1985
+	  - Décret n°2010-320 du 22 mars 2010 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 396 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 400
+	  - Code général des impôts, CGI. - art. 1929 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 402 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 B (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1985
-
 
 ###### Article 404 B
 
-Le paiement différé prévu à l'article 397 est limité à la fraction des droits correspondant :
+Le paiement différé prévu à l'article 397 est limité à la fraction des droits correspondant : 
 
-soit à la valeur imposable de la nue-propriété s'il s'agit du cas prévu au 1° de cet article ;
+soit à la valeur imposable de la nue-propriété s'il s'agit du cas prévu au 1° de cet article ; 
 
-soit au montant des soultes ou récompenses payables à terme s'il s'agit des cas prévus au 2° du même article.
+soit au montant des soultes ou récompenses payables à terme s'il s'agit des cas prévus au 2° du même article. 
 
-Les dispositions de l'article 404 A, premier alinéa  sont applicables.
+Les dispositions de l'article 404 A, premier alinéa sont applicables. 
 
 Par dérogation à l'article 401, le bénéficiaire du paiement différé peut, dans le cas prévu au 1° de l'article 397 être
-dispensé du paiement des intérêts  à la condition que les droits de mutation par décès soient assis sur la valeur imposable
-au jour de l'ouverture de la succession  de la propriété entière des biens qu'il a recueillis.
+dispensé du paiement des intérêts à la condition que les droits de mutation par décès soient assis sur la valeur imposable au
+jour de l'ouverture de la succession de la propriété entière des biens qu'il a recueillis. 
 
-Le paiement des droits peut être différé jusqu'à l'expiration d'un délai qui ne peut excéder six mois comptés :
+Le paiement des droits peut être différé jusqu'à l'expiration d'un délai qui ne peut excéder six mois comptés : 
 
-soit de la date de la réunion de l'usufruit à la nue-propriété ou de la cession totale ou partielle de cette dernière ;
+soit de la date de la réunion de l'usufruit à la nue-propriété ou de la cession totale ou partielle de cette dernière ; 
 
 soit du terme du délai imparti à l'attributaire, le légataire ou le donataire pour le paiement des sommes dont il est
-débiteur envers ses cohéritiers.
+débiteur envers ses cohéritiers. 
 
-La cession totale ou partielle par le légataire  le donataire ou l'attributaire du bien qui lui a été légué  donné ou
-attribué entraîne l'exigibilité immédiate des droits en suspens.
-
-Le paiement des droits dus sur la part du conjoint survivant peut être différé jusqu'à l'expiration d'un délai de six mois à
-compter :
-
-- soit de la date de son décès ;
-
-- soit de la date de la donation ou cession, partielle ou totale, des biens transmis par succession.
+La cession totale ou partielle par le légataire le donataire ou l'attributaire du bien qui lui a été légué donné ou attribué
+entraîne l'exigibilité immédiate des droits en suspens.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 397, 401, 404
-
 	**Modifié par**:
 
-	  - Décret n°2005-464 du 6 mai 2005 - art. 5 () JORF 14 mai 2005
+	  - Décret n°2010-320 du 22 mars 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 397
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 401
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A
 
 
 ##### 2° : Apports en société
