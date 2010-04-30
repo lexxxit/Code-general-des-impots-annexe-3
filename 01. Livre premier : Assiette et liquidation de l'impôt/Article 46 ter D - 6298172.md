@@ -2,34 +2,37 @@
 
 La société unipersonnelle d'investissement à risque délivre, au plus tard le 16 février de l'année civile qui suit celle au
 cours de laquelle elle a mis en paiement des revenus distribués, à l'associé qui entend bénéficier des dispositions de
-l'article 163 quinquies C bis du code général des impôts un état individuel qui mentionne :
+l'article 163 quinquies C bis du code général des impôts un état individuel qui mentionne : 
 
-a. la dénomination sociale et l'adresse de la société ;
+a. la dénomination sociale et l'adresse de la société ; 
 
 b. les dates et les montants des revenus distribués à l'associé et prélevés sur des bénéfices exonérés d'impôt sur les
-sociétés conformément aux dispositions de l'article 208 D du code général des impôts ;
+sociétés conformément aux dispositions de l'article 208 D du code général des impôts ; 
 
 c. le montant des cotisations et prélèvements sociaux prélevés en application du 8° du II de l'article L. 136-7 du code de la
-sécurité sociale et du 8 du I de l'article 1600-0 J du code général des impôts.
+sécurité sociale et du II de l'article 16 de l'ordonnance n° 96-50 du 24 janvier 1996 modifiée relative au remboursement de
+la dette sociale. 
 
 Cet état précise que l'associé mentionné au premier alinéa est le souscripteur initial des actions de la société ou qu'il a
 reçu ses actions dans le cadre d'une transmission à titre gratuit à la suite du décès de l'associé initial.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 17-IV (2°) et 18-II (2°) de la loi n° 2009-1646 du 24 décembre 2009.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 163 quinquies C bis, 208 D, 1600-0 J
-	  - Code de la sécurité sociale. - art. L136-7 (M)
+	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 16 (V)
+	  - Code général des impôts, CGI. - art. 163 quinquies C bis (V)
+	  - Code général des impôts, CGI. - art. 208 D (V)
+	  - Code de la sécurité sociale. - art. L136-7 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-819 du 7 juillet 2006 - art. 2 () JORF 9 juillet 2006
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies M (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007

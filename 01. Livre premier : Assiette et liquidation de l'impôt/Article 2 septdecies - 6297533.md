@@ -8,8 +8,8 @@ déduction calculée en fonction du revenu brut. Les options prévues aux articl
 D sont jointes par la société, selon le cas, à sa déclaration du résultat de l'année d'achèvement du logement ou de son
 acquisition si elle est postérieure, ou à sa déclaration du résultat de l'année d'achèvement des travaux. 
 
-II.-La société doit, au plus tard le deuxième jour ouvré suivant le premier mai chaque année, faire parvenir à ses associés
-un document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année
+II.-La société doit, au plus tard le deuxième jour ouvré suivant le 1er mai de chaque année, faire parvenir à ses associés un
+document établi en double exemplaire conformément à un modèle fixé par l'administration et comportant, pour l'année
 précédente, les renseignements suivants : 
 
 1° L'identité et l'adresse de l'associé ; 
@@ -46,7 +46,7 @@ la société correspondant aux droits de chaque associé.
 
 	**Modifié par**:
 
-	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cite**:
 

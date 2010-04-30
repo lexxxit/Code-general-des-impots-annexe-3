@@ -33,19 +33,19 @@ est réduite à due concurrence.
 3. La société qui sort d'un groupe d'intégration fiscale dans les conditions prévues au deuxième alinéa de l'article 223 E du
 code général des impôts conserve le droit d'imputer sur son bénéfice : 
 
-1° Dans le cas où le résultat d'ensemble du groupe est déficitaire, le montant de son déficit pris en compte pour la
+a Dans le cas où le résultat d'ensemble du groupe est déficitaire, le montant de son déficit pris en compte pour la
 détermination du résultat d'ensemble de l'exercice, multiplié par le rapport entre, au numérateur, le déficit d'ensemble de
 l'exercice et, au dénominateur, la somme des déficits des sociétés du groupe pris en compte pour la détermination du résultat
 d'ensemble de l'exercice, auquel s'ajoute le montant qu'elle aurait pu imputer sur son bénéfice en sortant du groupe au cours
 de l'exercice précédent ; 
 
-2° Dans le cas où le résultat d'ensemble du groupe est nul, une proportion des déficits d'ensemble reportables égale à celle
+b Dans le cas où le résultat d'ensemble du groupe est nul, une proportion des déficits d'ensemble reportables égale à celle
 qu'elle aurait obtenue en sortant du groupe au cours de l'exercice précédent. 
 
-Le montant déterminé conformément au 1° ou au 2° est réduit dans le rapport entre la fraction du déficit d'ensemble
-susceptible d'être imputé dans les conditions prévues à l'
-article 223 G du code général des impôts et le montant global du déficit d'ensemble encore reportable à la clôture de
-l'exercice du groupe précédant celui au cours duquel intervient la sortie de la société. 
+Le montant déterminé conformément au a ou au b est réduit dans le rapport entre la fraction du déficit d'ensemble susceptible
+d'être imputé dans les conditions prévues à l'article 223 G du code général des impôts et le montant global du déficit
+d'ensemble encore reportable à la clôture de l'exercice du groupe précédant celui au cours duquel intervient la sortie de la
+société. 
 
 La moins-value nette à long terme que la société conserve le droit d'imputer sur ses plus-values nettes à long terme est
 déterminée selon les mêmes modalités.
@@ -54,13 +54,13 @@ déterminée selon les mêmes modalités.
 
 	**Modifié par**:
 
-	  - Décret n°2009-811 du 30 juin 2009 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 209
-	  - Code général des impôts, CGI. - art. 223 E
-	  - Code général des impôts, CGI. - art. 223 G
-	  - Code général des impôts, CGI. - art. 223 I
-	  - Code général des impôts, CGI. - art. 223 L
-	  - Code général des impôts, CGI. - art. 223 R
+	  - Code général des impôts, CGI. - art. 209 (V)
+	  - Code général des impôts, CGI. - art. 223 E (V)
+	  - Code général des impôts, CGI. - art. 223 G (V)
+	  - Code général des impôts, CGI. - art. 223 I (V)
+	  - Code général des impôts, CGI. - art. 223 L (VT)
+	  - Code général des impôts, CGI. - art. 223 R (V)

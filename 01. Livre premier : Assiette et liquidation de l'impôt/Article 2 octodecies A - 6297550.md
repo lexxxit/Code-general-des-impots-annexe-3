@@ -1,7 +1,7 @@
 # Article 2 octodecies A
 
 I.-L'engagement de conservation des titres prévu au deuxième alinéa de l'article 31 bis du code général des impôts et au
-troisième alinéa du VIII de l'article 199 septvicies du même code est constaté lors du dépôt de la déclaration des revenus de
+septième alinéa du VIII de l'article 199 septvicies du même code est constaté lors du dépôt de la déclaration des revenus de
 l'année au titre de laquelle les parts ont été souscrites. 
 
 II.-Les parts détenues par les associés qui entendent bénéficier de la déduction au titre de l'amortissement ou de la
@@ -13,11 +13,15 @@ de l'expiration de l'engagement mentionné au I.
 III.-Les associés joignent à chacune de leurs déclarations des revenus un exemplaire des documents mentionnés à l'article 2
 octodecies B ainsi que les modalités de décompte de la déduction au titre de l'amortissement ou de la réduction d'impôt.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 82-I (5°)  de la loi n° 2009-1673 du 30 décembre 2009.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cite**:
 

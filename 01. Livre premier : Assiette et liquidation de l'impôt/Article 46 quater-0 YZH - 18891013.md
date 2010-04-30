@@ -7,13 +7,17 @@ auprès du service des impôts.
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
 société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. 
 
-Une copie de la déclaration spéciale est adressée dans le même délai au Centre national de la cinématographie.
+Une copie de la déclaration spéciale est adressée dans le même délai au Centre national du cinéma et de l'image animée.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 3, 1er alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-509 du 29 mai 2008 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cite**:
 

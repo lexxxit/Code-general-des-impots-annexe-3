@@ -7,7 +7,7 @@ transformation d'un fonds commun de placement à risques existant en fonds commu
 déclaration intervient dans le mois qui suit la création ou la transformation du fonds.
 
 II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles
-41 sexdecies A à 41 sexdecies F, 280 A et R. 87-1 du livre des procédures fiscales.
+41 sexdecies A à 41 sexdecies F et 280 A de la présente annexe ainsi qu'à l'articleR. 87-1 du livre des procédures fiscales.
 
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de distribution d'une partie de ses avoirs, la
 société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 41
@@ -52,27 +52,17 @@ respect de l'une des conditions prévues à l'article L. 214-41 du code monétai
 
 	  - CGI 199 terdecies-0 A
 	  - CGIAN3 41 duovicies F, 41 duovicies G
-	  - Livre des procédures fiscales - art. R87-1 (M)
-	  - Livre des procédures fiscales 41 sexdecies A à 41 sexdecies F, 280 A, R87-1
-	  - Code monétaire et financier - art. D214-72 (V)
-	  - Code monétaire et financier - art. L214-41 (M)
+	  - Livre des procédures fiscales
+	  - Livre des procédures fiscales - art. R87-1
+	  - Code monétaire et financier - art. D214-72
+	  - Code monétaire et financier - art. L214-41
 
 	**Modifié par**:
 
-	  - Décret n°2005-1007 du 2 août 2005 - art. 1 (V) JORF 25 août 2005
-	  - Décret n°2005-1007 du 2 août 2005 - art. 2 (V) JORF 25 août 2005
-	  - Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 299 octies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI quater (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI quinquies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006

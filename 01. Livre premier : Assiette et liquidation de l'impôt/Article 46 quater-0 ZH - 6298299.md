@@ -2,7 +2,7 @@
 
 I. (Sans objet).
 
-II. Pour l'application des dispositions de l'article 223 F, la société mère doit :
+II. Pour l'application des dispositions de l'article 223 F du code général des impôts, la société mère doit :
 
 1. Réintégrer au résultat d'ensemble de chaque exercice une somme égale à la fraction de l'annuité fiscale d'amortissements
 pratiquée par la société cessionnaire, qui excède la dotation fiscale calculée dans les mêmes conditions et au même taux que
@@ -46,18 +46,10 @@ Pour une immobilisation non amortissable, son prix d'acquisition par la sociét�
 
 	  - CGI 223 F, 39 B, 210 A
 
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002

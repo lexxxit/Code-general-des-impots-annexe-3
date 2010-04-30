@@ -3,8 +3,8 @@
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2009, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,31 euros par mètre
-carré en zone A, 11,31 euros en zone B et 8,19 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
+a) Pour les baux conclus en 2010, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,37 euros par mètre
+carré en zone A, 11,35 euros en zone B et 8,22 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
 la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et
 des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro
 supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence. 
@@ -20,7 +20,7 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2009, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2010, les plafonds annuels de ressources sont les suivants : 
 
 <table>
   <tbody>
@@ -38,27 +38,19 @@ LIEU DE LOCATION
     </tr>
     <tr>
       <th>
+      </th><th>
+
+Zone A (en €)
 
 </th>
       <th>
 
-Zone A 
-
-(en €)
+Zone B (en €)
 
 </th>
       <th>
 
-Zone B 
-
-(en €)
-
-</th>
-      <th>
-
-Zone C 
-
-(en €)
+Zone C (en €)
 
 </th>
     </tr>
@@ -70,17 +62,17 @@ Personne seule
 </td>
       <td align="center">
 
-43 753
+44 306 €
 
 </td>
       <td align="center">
 
-33 816
+34 243 €
 
 </td>
       <td align="center">
 
-29 590
+29 964 €
 
 </td>
     </tr>
@@ -92,17 +84,17 @@ Couple
 </td>
       <td align="center">
 
-65 389
+66 215 €
 
 </td>
       <td align="center">
 
-45 155
+45 726 €
 
 </td>
       <td align="center">
 
-39 771
+40 274 €
 
 </td>
     </tr>
@@ -114,17 +106,17 @@ Personne seule ou couple ayant une personne à charge
 </td>
       <td align="center">
 
-78 602
+79 595 €
 
 </td>
       <td align="center">
 
-54 302
+54 988 €
 
 </td>
       <td align="center">
 
-47 612
+48 214 €
 
 </td>
     </tr>
@@ -136,17 +128,17 @@ Personne seule ou couple ayant deux personnes à charge
 </td>
       <td align="center">
 
-94 153
+95 342 €
 
 </td>
       <td align="center">
 
-65 553
+66 381 €
 
 </td>
       <td align="center">
 
-57 622
+58 350 €
 
 </td>
     </tr>
@@ -158,17 +150,17 @@ Personne seule ou couple ayant trois personnes à charge
 </td>
       <td align="center">
 
-111 459
+112 867 €
 
 </td>
       <td align="center">
 
-77 113
+78 087 €
 
 </td>
       <td align="center">
 
-67 630
+68 484 €
 
 </td>
     </tr>
@@ -180,17 +172,17 @@ Personne seule ou couple ayant quatre personnes à charge
 </td>
       <td align="center">
 
-125 421
+127 005 €
 
 </td>
       <td align="center">
 
-86 902
+88 000 €
 
 </td>
       <td align="center">
 
-76 287
+77 251 €
 
 </td>
     </tr>
@@ -202,17 +194,19 @@ Majoration par personne à charge à partir de la cinquième
 </td>
       <td align="center">
 
-+ 13 979
++ 14 156 €
 
 </td>
       <td align="center">
 
-+ 9 693
++ 9 816 €
 
 </td>
       <td align="center">
 
-+ 8 664</td>
++ 8 774 €
+
+</td>
     </tr>
   </tbody>
 </table>
@@ -250,7 +244,7 @@ n° 2006-1005 du 10 août 2006.
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cite**:
 

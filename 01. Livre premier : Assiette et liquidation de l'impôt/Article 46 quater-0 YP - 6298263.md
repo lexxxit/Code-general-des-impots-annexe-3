@@ -9,7 +9,11 @@ société mère joint les déclarations spéciales des sociétés du groupe au r
 sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration qu'elles sont tenues de
 déposer en vertu du 1 de l'article 223 du code précité.
 
-Une copie de la déclaration spéciale doit être adressée dans le même délai au Centre national de la cinématographie.
+Une copie de la déclaration spéciale doit être adressée dans le même délai au Centre national du cinéma et de l'image animée.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 3, 1er alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009,
 
 **Liens relatifs à cet article**
 
@@ -19,9 +23,4 @@ Une copie de la déclaration spéciale doit être adressée dans le même délai
 
 	**Modifié par**:
 
-	  - Décret n°2005-407 2005-04-29 art. 1 I, VI JORF 3 mai 2005
-	  - Décret n°2005-407 du 29 avril 2005 - art. 1 () JORF 3 mai 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3

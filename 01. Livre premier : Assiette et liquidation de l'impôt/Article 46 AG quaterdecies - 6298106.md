@@ -18,7 +18,7 @@ d) La date d'achèvement du logement ou de son acquisition si elle est postérie
 2. Une copie de la notification de l'arrêté délivrant le permis de construire lorsqu'il s'agit d'un logement que le
 contribuable fait construire.
 
-3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au septième alinéa du 6 de l'article 199 undecies
+3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au huitième alinéa du 6 de l'article 199 undecies
 A du code général des impôts, selon le cas, soit une attestation du constructeur, du vendeur ou de l'entreprise ayant procédé
 à l'installation des équipements de production d'énergie utilisant une source d'énergie renouvelable et comportant l'adresse
 de réalisation des travaux ainsi que la désignation de ces équipements, soit une facture de ces équipements comportant, outre
@@ -40,7 +40,7 @@ contribuable fait construire ;
 visée au premier alinéa du 2 de l'article 46 AG duodecies lorsque la location est consentie dans les conditions du 2° du 6 de
 l'article 199 undecies A du code général des impôts.
 
-5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des dispositions du septième alinéa du 6 de
+5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des dispositions du huitième alinéa du 6 de
 l'article 199 undecies A du code général des impôts.
 
 Si un bail n'est pas signé à la date de souscription de la déclaration susvisée, les documents énumérés aux 1, 3 et 4 sont
@@ -68,6 +68,10 @@ tenus de joindre à la déclaration de revenus de chacune des années ouvrant dr
 annexe établie sur un imprimé fourni par l'administration et comportant, selon la nature des investissements et le taux qui
 leur est applicable, les modalités de calcul de la réduction d'impôt.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 38-I (6°) de la loi n° 2009-594 du 27 mai 2009.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -75,19 +79,11 @@ leur est applicable, les modalités de calcul de la réduction d'impôt.
 	  - CGI 199 undecies A, 289
 	  - CGIAN3 46 AG duodecies, 46 AG terdecies A, 46 AG undecies à 46 AG terdecies
 
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
 	**Modifié par**:
 
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 3 () JORF 10 octobre 2004
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZZ ter (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZZR (MMN)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004

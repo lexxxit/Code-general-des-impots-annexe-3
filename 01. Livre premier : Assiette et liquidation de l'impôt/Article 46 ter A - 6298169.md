@@ -13,8 +13,8 @@ le nom, l'adresse du siège social et le numéro d'identité de la société d'i
 de placement à prépondérance immobilière à capital variable tel que défini au premier alinéa de l'article R. 123-221 du code
 de commerce.
 
-L'engagement prévu au deuxième alinéa de l'article 221 bis du même code figure dans l'option souscrite dans les conditions
-visées au premier alinéa. 
+L'engagement prévu au deuxième alinéa de l'article 221 bis du code général des impôts figure dans l'option souscrite dans les
+conditions visées au premier alinéa. 
 
 II.-Les sociétés qui ont opté conformément au premier alinéa du I doivent joindre à leur déclaration de résultat un état,
 conforme au modèle établi par l'administration, qui fait apparaître la décomposition de leur résultat fiscal et de celui des
@@ -26,10 +26,10 @@ obligations antérieures.
 
 	**Modifié par**:
 
-	  - Décret n°2009-683 du 12 juin 2009 - art. 1
+	  - Décret n°2010-421  du 27 avril 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de commerce. - art. R123-221 (V)
-	  - Code général des impôts, CGI. - art. 208 C (V)
-	  - Code général des impôts, CGI. - art. 221 bis (V)
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, CGI. - art. 208 C
+	  - Code général des impôts, CGI. - art. 221 bis
