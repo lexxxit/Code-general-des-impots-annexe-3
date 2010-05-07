@@ -1,25 +1,25 @@
 # Article 53 bis
 
 Doivent acquitter la taxe sur les salaires visée à l'article 231 du code général des impôts, dans les conditions et délais et
-sous les sanctions prévus par les articles 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731 et par les I et IV de l'article
-1754 dudit code, et les articles 51, 369 et le 1 de l'article 374, les organismes coopératifs, mutualistes et professionnels
-agricoles énumérés ci-après :
+sous les sanctions prévus par les articles 1679,1679 A, 1679 bis, 1727,1728,1729,1731 et par les I et IV de l'article 1754
+dudit code, et les articles 51,369 et le 1 de l'article 374, les organismes coopératifs, mutualistes et professionnels
+agricoles énumérés ci-après : 
 
 Caisses de mutualité sociale agricole ainsi que les caisses d'assurances mutuelles agricoles constituées conformément à
-l'article L. 771-1 du code rural ;
+l'article L. 771-1 du code rural et de la pêche maritime ; 
 
-Caisses de crédit agricole mutuel ;
+Caisses de crédit agricole mutuel ; 
 
-Sociétés coopératives agricoles ;
+Sociétés coopératives agricoles ; 
 
-Sociétés d'intérêt collectif agricoles ;
+Sociétés d'intérêt collectif agricoles ; 
 
-Syndicats agricoles ;
+Syndicats agricoles ; 
 
-Chambres d'agriculture ;
+Chambres d'agriculture ; 
 
 Unions ou fédérations des organismes précités et, généralement, tous groupements coopératifs mutualistes et professionnels
-agricoles régulièrement constitués.
+agricoles régulièrement constitués. 
 
 Toutefois, le présent article n'est applicable à l'égard des sociétés coopératives de culture en commun et des sociétés
 coopératives d'utilisation en commun de matériel agricole qu'en ce qui concerne les salariés occupés dans leurs services
@@ -27,15 +27,23 @@ administratifs et leurs ateliers de réparation.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 231, 1679, 1679 A, 1679 bis, 1727, 1728, 1729, 1731, 1754
-	  - CGIAN3 51, 369, 374 1
-	  - Code rural L771-1
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 374 (V)
+	  - Code général des impôts, CGI. - art. 1679 (VT)
+	  - Code général des impôts, CGI. - art. 1679 bis (V)
+	  - Code général des impôts, CGI. - art. 1727 (V)
+	  - Code général des impôts, CGI. - art. 1731 (V)
+	  - Code général des impôts, CGI. - art. 1754 (V)
+	  - Code général des impôts, CGI. - art. 231 (V)
+	  - Code général des impôts, CGI. - art. 51 (Ab)
+	  - Code rural - art. L771-1 (V)
 
 	**Cité par**:
 

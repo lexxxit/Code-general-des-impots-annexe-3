@@ -3,24 +3,16 @@
 Pour les viandes de volailles, de lapin domestique ou de gibier d'élevage ou sauvage autre qu'ongulé, la redevance sanitaire
 de découpage n'est pas due sur les carcasses pour lesquelles l'abatteur, le tiers abatteur, la personne qui procède au
 traitement du gibier sauvage, celle qui réalise des acquisitions intracommunautaires, l'importateur ou le déclarant en douane
-justifie d'une destination autre qu'un atelier de découpe agréé en application de l'article L. 233-2 du code rural.
+justifie d'une destination autre qu'un atelier de découpe agréé en application de l'article L. 233-2 du code rural et de la
+pêche maritime.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L233-2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
 	**Modifié par**:
 
-	  - Rapport - art. 2 (V) JORF 22 juin 2000
-	  - Rapport - art. 7 (V) JORF 22 juin 2000
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Code rural - art. L233-2 (V)
