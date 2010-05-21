@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-05-16
+Version Consolidée au 2010-05-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -28866,6 +28866,45 @@ Modification effectuée en conséquence des articles 2 et 3 du décret n° 2007-
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 299 ter (V)
 
 
+###### Article 281 H bis
+
+Le bénéficiaire de l'exonération partielle prévue au 3° du 1 ou au 2° du 2 de l'article 793 du code général des impôts
+produit tous les dix ans, à compter du jour de la signature de l'acte de donation ou de dépôt de la déclaration de
+succession, un bilan de la mise en œuvre du document de gestion durable mentionné à l'article L. 4 du code forestier,
+répondant au modèle fixé par arrêté du ministre chargé de la forêt.
+
+Ce bilan comporte les éléments suivants :
+
+1° L'identité et l'adresse du bénéficiaire de l'exonération ou du groupement forestier dont les membres bénéficient des
+exonérations ;
+
+2° La liste des parcelles cadastrales concernées par l'exonération, l'indication de leurs contenances, des numéros des
+sections et lieudits ;
+
+3° La liste des coupes et travaux prévus sur les dix dernières années dans le ou les documents de gestion durable applicables
+sur cette même période ;
+
+4° La liste des coupes et travaux réalisés sur la période mentionnée au 3°.
+
+Les bénéficiaires disposent de six mois à compter de la date d'échéance du délai de dix ans pour adresser ce bilan à la
+direction départementale chargée de la forêt.
+
+**Nota:**
+
+Conformément à l'article 2 1° du décret n° 2010-523 du 19 mai 2010 les dispositions de l'article 281 H bis sont applicables
+aux successions ouvertes et aux donations consenties à compter du 22 mai 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-523 du 19 mai 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 299 quater (V)
+
+
 ###### Article 281 I
 
 La direction des services fiscaux où a été déposé l'acte de donation ou la déclaration de succession adresse tous les six
@@ -29771,21 +29810,26 @@ Le certificat ne doit pas être établi depuis plus de six mois lors du dépôt 
 fortune auprès du service des impôts. Pour les parts de groupement forestier ou de société d'épargne forestière, il ne doit
 pas être établi depuis plus de deux ans. 
 
-Un nouveau certificat doit être produit tous les dix ans. A défaut, les biens correspondant ne bénéficient plus de
-l'exonération partielle précitée pour les années restant à courir.
+Un nouveau certificat doit être produit tous les dix ans ainsi qu'un bilan de la mise en œuvre du document de gestion durable
+dans les conditions prévues à l'article 281 H bis.A défaut, les biens correspondant ne bénéficient plus de l'exonération
+partielle précitée pour les années restant à courir.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 4 du décret n° 2007-746 du 9 mai 2007.
+Conformément à l'article 2 2° du décret n° 2010-523 du 19 mai 2010 : A titre transitoire, pour l'application des présentes
+dispositions le contribuable qui bénéficie de l'exonération partielle prévue à l'article 885 H du code général des impôts et
+dont le terme de la période de dix ans mentionnée à l'article 299 quater de l'annexe III au code précité intervient en 2010
+produit le bilan mentionné avant le 30 juin 2011 s'il souhaite continuer à bénéficier de l'exonération.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2010-523 du 19 mai 2010 - art. 1
 
 	**Cite**:
 
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 H bis
 	  - Code général des impôts, CGI. - art. 793
 	  - Code général des impôts, CGI. - art. 885 H
 
