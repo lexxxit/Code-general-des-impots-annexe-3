@@ -7,10 +7,10 @@ pour le compte de la société de gestion est soumis aux obligations définies a
 souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III
 de l'article 885-0 V bis du code général des impôts.
 
-2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, avant la date limite de dépôt de la
-déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux souscripteurs qui entendent
-bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de l'article 885-0 V bis du code précité, un
-état individuel qui mentionne : 
+2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, au plus tard dans les trois mois suivant la
+date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux
+souscripteurs qui entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de l'article 885-0
+V bis du code précité, un état individuel qui mentionne : 
 
 a. L'objet pour lequel il est établi : application du III de l'article 885-0 V bis du code précité ; 
 
@@ -60,14 +60,20 @@ document, établi en double exemplaire à l'occasion de chaque souscription, qui
 montant total de la souscription réalisée. 
 
 2. Pour bénéficier de la réduction d'impôt prévue au III de l'article 885-0 V bis du code précité, le contribuable joint à sa
-déclaration d'impôt de solidarité sur la fortune l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une
-copie de l'engagement de conservation mentionné au 1.
+déclaration d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la date limite de dépôt de ladite
+déclaration, l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une copie de l'engagement de conservation
+mentionné au 1.
+
+**Nota:**
+
+Décret n° 2010-604 du 4 juin 2010 art 2 : Les dispositions du présent article sont applicables à l'impôt de solidarité sur la
+fortune dû à compter de l'année 2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-336 du 14 avril 2008 - art. 1
+	  - Décret n°2010-604 du 4 juin 2010 - art. 1
 
 	**Cité par**:
 

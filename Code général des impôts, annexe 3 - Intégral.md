@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-05-22
+Version Consolidée au 2010-06-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -29724,10 +29724,10 @@ pour le compte de la société de gestion est soumis aux obligations définies a
 souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III
 de l'article 885-0 V bis du code général des impôts.
 
-2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, avant la date limite de dépôt de la
-déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux souscripteurs qui entendent
-bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de l'article 885-0 V bis du code précité, un
-état individuel qui mentionne : 
+2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, au plus tard dans les trois mois suivant la
+date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux
+souscripteurs qui entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III de l'article 885-0
+V bis du code précité, un état individuel qui mentionne : 
 
 a. L'objet pour lequel il est établi : application du III de l'article 885-0 V bis du code précité ; 
 
@@ -29777,14 +29777,20 @@ document, établi en double exemplaire à l'occasion de chaque souscription, qui
 montant total de la souscription réalisée. 
 
 2. Pour bénéficier de la réduction d'impôt prévue au III de l'article 885-0 V bis du code précité, le contribuable joint à sa
-déclaration d'impôt de solidarité sur la fortune l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une
-copie de l'engagement de conservation mentionné au 1.
+déclaration d'impôt de solidarité sur la fortune, ou fournit dans les trois mois suivant la date limite de dépôt de ladite
+déclaration, l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une copie de l'engagement de conservation
+mentionné au 1.
+
+**Nota:**
+
+Décret n° 2010-604 du 4 juin 2010 art 2 : Les dispositions du présent article sont applicables à l'impôt de solidarité sur la
+fortune dû à compter de l'année 2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-336 du 14 avril 2008 - art. 1
+	  - Décret n°2010-604 du 4 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -29864,11 +29870,11 @@ I.-1. Lorsqu'un contribuable souscrit au capital d'une société satisfaisant au
 l'article 885-0 V bis du code général des impôts et dont les titres ne sont pas admis aux négociations sur un marché
 d'instruments financiers français ou étranger, cette société lui délivre un état individuel qui mentionne : 
 
-a. L'objet pour lequel il est établi : application de l'article 885-0 V bis du code précité ; 
+a.L'objet pour lequel il est établi : application de l'article 885-0 V bis du code précité ; 
 
 b. La raison sociale, l'objet social et le siège social de la société ; 
 
-c. L'identité et l'adresse du souscripteur ; 
+c.L'identité et l'adresse du souscripteur ; 
 
 d. Le nombre des titres souscrits, le montant et la date de leur souscription ; 
 
@@ -29900,7 +29906,7 @@ d. Le détail de la fraction mentionnée au deuxième alinéa du b du 3 du I de 
 du I de l'article 885-0 V bis du code précité, la société au capital de laquelle il a souscrit et dont les titres sont admis
 aux négociations sur un marché d'instruments financiers français ou étranger autre que réglementé s'engage, dans le
 prospectus prévu par la directive 2003 / 71 / CE du Parlement européen et du Conseil du 4 novembre 2003, à satisfaire, selon
-le cas, aux conditions prévues aux a à e ou aux a à h du 1, au 2 ou au 3 du I de l'article 885-0 V bis du code précité. A
+le cas, aux conditions prévues aux a à e ou aux a à h du 1, au 2 ou au 3 du I de l'article 885-0 V bis du code précité.A
 défaut de prospectus, elle délivre au contribuable l'état individuel mentionné au premier alinéa du 1. 
 
 4. Lorsqu'un contribuable souscrit au capital d'une société satisfaisant aux conditions prévues au premier alinéa du 3 du I
@@ -29913,14 +29919,15 @@ capitaux qu'elle a reçus, au titre de la constitution de son capital initial ou
 contribuable a souscrit, les mentions prévues au 2. 
 
 II.-1. En cas de souscription au capital d'une société dont les titres ne sont pas admis à la négociation sur un marché
-d'instruments financiers français ou étranger, le contribuable joint à sa déclaration d'impôt de solidarité sur la fortune
-l'état individuel qui lui est remis conformément au I. 
+d'instruments financiers français ou étranger, le contribuable joint à sa déclaration d'impôt de solidarité sur la fortune,
+ou fournit dans les trois mois suivant la date limite de dépôt de ladite déclaration, l'état individuel qui lui est remis
+conformément au I. 
 
 2. En cas de souscription au capital d'une société dont les titres sont admis à la négociation sur un marché d'instruments
 financiers français ou étranger autre que réglementé, le contribuable joint à sa déclaration d'impôt de solidarité sur la
-fortune les documents suivants : 
+fortune, ou fournit dans les trois mois suivant la date limite de dépôt de ladite déclaration, les documents suivants : 
 
-a. L'avis d'opéré remis par l'établissement financier teneur de son compte sur lequel sont inscrits les titres souscrits ; 
+a.L'avis d'opéré remis par l'établissement financier teneur de son compte sur lequel sont inscrits les titres souscrits ; 
 
 b. La copie de l'information publique publiée par un prestataire de services d'investissement ou l'entreprise de marché
 concernés ou tout autre organisme similaire étranger, indiquant le ratio de titres de capital correspondant à des titres
@@ -29956,13 +29963,14 @@ Cette attestation doit préciser le caractère obligatoire de la cession, au sen
 885-0 V bis du code précité. 
 
 Le contribuable joint également à sa déclaration d'impôt de solidarité sur la fortune devant être souscrite au titre de
-l'année suivant la cession une attestation de la société dont il a souscrit les titres en remploi du prix de cession des
-titres dont la souscription avait ouvert droit à la réduction d'impôt de solidarité sur la fortune prévue au I de l'article
-885-0 V bis du code précité, indiquant : 
+l'année suivant la cession, ou fournit dans les trois mois suivant la date limite de dépôt de ladite déclaration, une
+attestation de la société dont il a souscrit les titres en remploi du prix de cession des titres dont la souscription avait
+ouvert droit à la réduction d'impôt de solidarité sur la fortune prévue au I de l'article 885-0 V bis du code précité,
+indiquant : 
 
 a. La raison sociale, l'objet social et le siège social de la société ; 
 
-b. L'identité et l'adresse du souscripteur ; 
+b.L'identité et l'adresse du souscripteur ; 
 
 c. Le nombre des titres souscrits, le montant et la date de leur souscription ; 
 
@@ -29980,15 +29988,21 @@ Le contribuable produit à l'administration fiscale, sur sa demande, tout docume
 détention des titres souscrits en remploi du prix de cession des titres dont la souscription avait ouvert droit à la
 réduction d'impôt de solidarité sur la fortune prévue au I de l'article 885-0 V bis du code précité.
 
+**Nota:**
+
+Décret n° 2010-604 du 4 juin 2010 art 2 : Les dispositions du  présent article sont applicables à l'impôt de solidarité sur
+la fortune dû à compter de l'année 2010.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-336 du 14 avril 2008 - art. 1
 
 	**Cite**:
 
+	  - Directive 2003/71/CE du Parlement européen et du Conseil du 4 novembre 2003
 	  - Code général des impôts, CGI. - art. 885-0 V bis
+
+	**Modifié par**:
+
+	  - Décret n°2010-604 du 4 juin 2010 - art. 1
 
 
 ###### Article 299 sexies
