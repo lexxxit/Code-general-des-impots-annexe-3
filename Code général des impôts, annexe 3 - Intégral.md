@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-06-07
+Version Consolidée au 2010-06-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -25120,13 +25120,13 @@ déchets de fabrication.
 
 ###### Article 111-0 B
 
-Les entrepositaires agréés et les opérateurs enregistrés mentionnés respectivement aux articles 302 G et 302 H du code
-général des impôts bénéficient de la dispense de caution prévue au 2 du III de l'article 302 D et au deuxième alinéa de
-l'article 302 H du code précité à condition que les droits d'accise dont ils sont redevables n'excèdent pas, en valeur
-annuelle, deux fois et demi le montant du droit de consommation fixé au 2° du I de l'article 403 du code général des impôts.
+Les entrepositaires agréés et les destinataires enregistrés mentionnés respectivement aux articles 302 G et 302 H ter du code
+général des impôts bénéficient de la dispense de caution prévue au 2 du III de l'article 302 D et au premier alinéa du I de
+l'article 302 H ter du code précité à condition que les droits d'accise dont ils sont redevables n'excèdent pas, en valeur
+annuelle, deux fois et demi le montant du droit de consommation fixé au 2° du I de l'article 403 du même code. 
 
 La valeur mentionnée au premier alinéa s'entend de la moyenne annuelle des opérations taxables réalisées par les
-entrepositaires agréés et les opérateurs enregistrés au cours des deux dernières années civiles.
+entrepositaires agréés et les destinataires enregistrés au cours des deux dernières années civiles. 
 
 Lorsque les personnes citées au premier alinéa ne peuvent justifier de deux années d'exercice de leur profession, la valeur
 s'entend de la moyenne annuelle des opérations taxables, établie en prenant en compte la période d'activité écoulée au terme
@@ -25135,22 +25135,21 @@ de la dernière année civile. Toutefois, lorsque cette période est inférieure
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 302 G, 302 H, 403, 302 D
-
 	**Modifié par**:
 
-	  - Décret n°2005-74 du 25 janvier 2005 - art. 1 () JORF 1er février 2005
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 403
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 H ter
 
 
 ###### Article 111-00 C
@@ -25235,35 +25234,33 @@ depuis le dernier arrêté annuel.
 
 ###### Article 111-0 C
 
-La décision autorisant la dispense de caution est notifiée à l'entrepositaire agréé ou à l'opérateur enregistré par le
-receveur des douanes territorialement compétent.
+La décision autorisant la dispense de caution est notifiée à l'entrepositaire agréé ou au destinataire enregistré par le
+receveur des douanes territorialement compétent. 
 
 Les personnes mentionnées au premier alinéa qui ne remplissent plus les conditions d'obtention de la dispense prévue à
-l'article 110-0 B sont tenues, dans le délai d'un mois, de fournir une caution solidaire garantissant le paiement des droits
-dus, conformément aux dispositions du 2 du III de l'article 302 D et du deuxième alinéa de l'article 302 H du code général
-des impôts.
+l'article 111-0 B sont tenues, dans le délai d'un mois, de fournir une caution solidaire garantissant le paiement des droits
+dus, conformément aux dispositions du 2 du III de l'article 302 D et du premier alinéa du I de l'article 302 H ter du code
+général des impôts.
 
-L'inobservation des dispositions du deuxième alinéa entraîne le retrait de l'agrément prévu aux articles 302 G et 302 H du
-code précité.
+L'inobservation des dispositions du deuxième alinéa entraîne le retrait de l'agrément prévu aux articles 302 G et 302 H ter
+du code précité.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 302 H, 302 D, 302 G
-	  - CGIAN3 111-0 B
-
-	**Créé par**:
-
-	  - Décret n°2001-542 du 20 juin 2001 - art. 1 () JORF 27 juin 2001 rectificatif JORF 4 août 2001
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 H ter
 
 
 ###### Article 111-0 D
@@ -25600,23 +25597,24 @@ réalisation de l'opération constituant une entrée ou une sortie selon les dis
 
 ###### Article 111 H bis
 
-I. - Les documents d'accompagnement utilisés exclusivement pour des mouvements au sein du territoire fiscal de la France
-métropolitaine et des départements d'outre-mer peuvent être établis sans les informations prévues dans les cases 12, 13, 14
-et 19 des documents mentionnés au I de l'article 302 M du code général des impôts et les cases 3, 6, 9 et 13 des documents
-mentionnés au II de l'article 302 M précité.
+I.-Les documents d'accompagnement mentionnés au II de l'article 302 M du code général des impôts utilisés exclusivement pour
+des mouvements au sein du territoire fiscal de la France métropolitaine et des départements d'outre-mer peuvent être établis
+sans les informations prévues dans les cases 3, 6, 9 et 13 de ces documents, à l'exception de ceux établis au moyen du
+service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M précité. 
 
-II. - 1° Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les débitants de boissons
+II.-1° Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les débitants de boissons
 mentionnés aux articles 501 et 502 du même code peuvent être autorisés par le directeur régional des douanes et droits
 indirects à utiliser leurs factures ou tout autre document commercial, en lieu et place des documents d'accompagnement
-mentionnés à l'article 302 M du code précité.
+mentionnés à l'article 302 M du code précité à l'exception de ceux établis au moyen du service de suivi informatique des
+mouvements de marchandises soumises à accise mentionné au III de cet article. 
 
 Ces documents commerciaux doivent contenir les mêmes informations que celles contenues dans le document administratif
-d'accompagnement prévu par le règlement (CEE) n° 2719/92 de la Commission du 11 septembre 1992 modifié par le règlement (CEE)
-n° 2225/93 de la Commission du 27 juillet 1993 et dans le document simplifié d'accompagnement prévu par le règlement (CEE) n°
-3649/92 de la Commission du 17 décembre 1992.
+d'accompagnement prévu par le règlement (CEE) n° 2719 / 92 de la Commission du 11 septembre 1992 modifié par le règlement
+(CEE) n° 2225 / 93 de la Commission du 27 juillet 1993 et dans le document simplifié d'accompagnement prévu par le règlement
+(CEE) n° 3649 / 92 de la Commission du 17 décembre 1992. 
 
 La nature de ces informations doit pouvoir être identifiée par le numéro correspondant aux codes des cases figurant sur ces
-mêmes documents.
+mêmes documents. 
 
 2° Les entrepositaires agréés, qui optent pour le ou les documents commerciaux au lieu et place du ou des documents
 d'accompagnement mentionnés à l'article 302 M du code général des impôts, informent l'administration de la teneur de ceux-ci,
@@ -25625,25 +25623,67 @@ indirects dont ils dépendent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 302 M, 302 G, 501, 502
-	  - Règlement CEE 2225/93 1993-07-27 (Commission)
-	  - Règlement CEE 2719/92 1992-09-11 (Commission)
-	  - Règlement CEE 3649/92 1992-12-17 (Commission)
-
-	**Créé par**:
-
-	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54 B (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 M
+
+
+###### Article 111 H decies
+
+Pour l'application du III de l'article 302 M et de l'article 302 M ter du code général des impôts, l'expéditeur soumet un
+projet de document administratif électronique par l'intermédiaire du service de suivi informatique des mouvements de
+marchandises soumises à accise mentionné au III de l'article 302 M du code général des impôts. 
+
+Après vérification des données, le service de suivi informatique des mouvements de marchandises soumises à accise attribue au
+document un code de référence administratif unique et le communique à l'expéditeur. 
+
+Le service de suivi informatique des mouvements de marchandises soumises à accise transmet, pour les opérations
+d'expéditions, le document administratif électronique sans délai au destinataire ou, pour les exportations, aux autorités
+compétentes de l'Etat membre de l'Union européenne auprès duquel la déclaration d'exportation est déposée, si cet Etat membre
+est différent de l'Etat membre d'expédition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quindecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H undecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 M (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 M ter
+
+
+###### Article 111 H duodecies
+
+L'expéditeur peut annuler le document administratif électronique mentionné à l'article 302 M ter du code général des impôts
+avant l'expédition des produits soumis à accise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 M ter
 
 
 ###### Article 111 H nonies
@@ -25720,263 +25760,372 @@ de domicile des particuliers non récoltants.
 
 ###### Article 111 H quater
 
-La justification de l'apurement des opérations d'expédition, sous le régime de la suspension de l'impôt, prévue aux articles
-302 O et 302 P du code général des impôts, doit être apportée par les destinataires des produits ou, pour les exportations,
-par les expéditeurs eux-mêmes ou leurs mandataires soit au coup par coup, soit de façon globalisée, en fin de mois.
+I.-Pour les opérations réalisées sous le régime de suspension de droits d'accise sous couvert du document mentionné au I de
+l'article 302 M du code général des impôts, la justification de l'apurement des expéditions prévue aux articles 302 O et 302
+P du code précité doit être apportée par les destinataires des produits ou, pour les exportations, par les expéditeurs eux-
+mêmes ou leurs mandataires soit au coup par coup, soit de façon globalisée, en fin de mois. 
 
 L'apurement de chaque opération est dans tous les cas attesté par le destinataire des produits ou par les autorités
 compétentes des Etats membres de l'Union européenne sur le certificat de réception ou d'exportation en case C des documents
 d'accompagnement mentionnés au I de l'article 302 M du code précité, dans les conditions et modalités déterminées par
-l'administration.
+l'administration. 
 
-Un état des opérations n'ayant pas fait l'objet d'un apurement dans les délais prévus à l'article 302 P du code général des
-impôts doit être adressé au service des douanes et droits indirects par les expéditeurs des produits, au plus tard le 5 du
-troisième mois suivant celui des expéditions, sur la base d'une déclaration mensuelle dont les modalités, le modèle et le
-contenu sont déterminés par arrêté du ministre chargé du budget.
+1° L'apurement est admis sur la base du renvoi : 
 
-1° L'apurement est admis sur la base du renvoi :
+a) De l'exemplaire n° 3 du document d'accompagnement précité ; 
 
-a) De l'exemplaire n° 3 du document d'accompagnement précité ;
+b) D'un état global établi et signé par le destinataire des produits mentionnant les références des documents
+d'accompagnement et attestant des réceptions des opérations d'un même expéditeur au cours d'un mois donné ; les exemplaires
+n° 3 des documents d'accompagnement sont dans ce cas conservés par le destinataire des produits. Cette procédure n'est pas
+applicable aux opérations effectuées avec les autres Etats membres de l'Union européenne. 
 
-b) D'un état global établi et signé par le destinataire des produits mentionnant les références des titres de mouvement et
-attestant des réceptions des opérations d'un même expéditeur au cours d'un mois donné ; les exemplaires n° 3 des documents
-d'accompagnement sont dans ce cas conservés par le destinataire des produits. Cette procédure s'applique aux opérations
-effectuées au sein du territoire fiscal de la France ou, en cas d'accord administratif bilatéral ou multilatéral, à celles
-effectuées avec les autres Etats membres de l'Union européenne concernés.
-
-2° L'apurement est admis sur la base du renvoi par télécopie des documents visés au 1°.
+2° L'apurement est admis sur la base du renvoi par télécopie des documents visés au 1°. 
 
 L'exemplaire n° 3 du document d'accompagnement et le rapport d'émission de la télécopie sont conservés par le destinataire
-des produits.
+des produits. 
 
 L'expéditeur des produits joint la télécopie qu'il a reçue à l'exemplaire du document correspondant à l'envoi, qu'il a
-conservé.
+conservé. 
 
-Cette procédure s'applique aux opérations effectuées au sein du territoire fiscal de la France ou, en cas d'accord
-administratif bilatéral ou multilatéral, à celles effectuées avec les autres Etats membres de l'Union européenne concernés.
+Cette procédure n'est pas applicable aux opérations effectuées avec les autres Etats membres de l'Union européenne. 
 
-3° Le renvoi des documents visés au 1° est admis, par voie d'une transmission d'un message informatique ou télématique émis
-par le destinataire à destination de l'expéditeur des produits, sous réserve du respect des principes suivants :
+II.-Pour les opérations réalisées sous le régime de suspension de droits d'accise au moyen du service de suivi informatique
+des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M du code général des impôts, la
+justification de l'apurement des expéditions, prévue à l'article 302 P du code précité, doit être apportée par les
+destinataires ou, pour les exportations, par les expéditeurs eux-mêmes. 
 
-a) Indication des références au document d'accompagnement des produits ;
+L'apurement de chaque opération est attestée : 
 
-b) Confirmation de l'inscription des produits dans la comptabilité matières des stocks de l'entrepôt fiscal suspensif des
-droits d'accises du destinataire, avec la date et l'heure de celle-ci ;
+1° Pour les expéditions, par l'accusé de réception mentionné au I de l'article 111 H quaterdecies ou en cas d'indisponibilité
+du service de suivi informatique des mouvements de marchandises soumises à accise par le document papier contenant les mêmes
+données et attestant de la réception des produits conformément aux dispositions de l'article 111 H quindecies ; 
 
-c) Indication du nom du signataire du document émis par le destinataire pour justifier de l'apurement ;
+2° Pour les exportations, par le rapport d'exportation mentionné au II de l'article 111 H quaterdecies ou en cas
+d'indisponibilité du service de suivi informatique des mouvements de marchandises soumises à accise par le document papier
+contenant les mêmes données et attestant de la sortie effective du territoire fiscal de l'Union européenne des produits
+conformément aux dispositions de l'article 111 H quindecies.
 
-d) Indication, le cas échéant, des réserves relatives à la réception des produits.
-
-Une copie papier des informations transmises et reçues est conservée tant par le destinataire que par l'expéditeur des
-produits.
-
-L'exemplaire n° 3 du document d'accompagnement est conservé par le destinataire des produits.
-
-Cette procédure s'applique aux opérations effectuées au sein du territoire fiscal de la France ou, en cas d'accord
-administratif bilatéral ou multilatéral, à celles effectuées avec les autres Etats membres de l'Union européenne concernés.
+III.-Un état des opérations n'ayant pas fait l'objet d'un apurement dans les délais prévus à l'article 302 P du code général
+des impôts doit être adressé au service des douanes et droits indirects par les expéditeurs des produits, au plus tard le 10
+du troisième mois suivant celui des expéditions, sur la base d'une déclaration mensuelle dont les modalités, le modèle et le
+contenu sont déterminés par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 302 O, 302 P, 302 M
-
-	**Créé par**:
-
-	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-435 2001-05-21
 
 	**Modifié par**:
 
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article 111 H quinquies
-
-Les conditions d'utilisation des machines à timbrer et des matériels ou logiciels informatiques sécurisés pour les documents
-d'accompagnement mentionnés à l'article 302 M du code général des impôts sont fixées par arrêté.
-
-**Liens relatifs à cet article**
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
 
 	**Cite**:
 
-	  - CGI 302 M
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quaterdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quindecies (V)
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 O
+	  - Code général des impôts, CGI. - art. 302 P (V)
+
+
+###### Article 111 H quaterdecies
+
+I. ― Au plus tard cinq jours ouvrables après la réception des produits soumis à accise, un document dénommé  Accusé de
+réception  est établi par l'entrepositaire agréé ou le destinataire enregistré par l'intermédiaire du service de suivi
+informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M du code général des
+impôts. 
+
+Le service de suivi informatique des mouvements de marchandises soumises à accise vérifie et confirme au destinataire
+l'enregistrement de l'accusé de réception et le transmet à l'expéditeur. 
+
+II. ― En cas d'exportation, un rapport d'exportation est établi soit par les autorités compétentes de l'Etat membre
+d'exportation, sur la base du visa du bureau de douane de sortie visé à l'article 793, paragraphe 2, du règlement (CEE) n°
+2454 / 93 de la Commission du 2 juillet 1993, soit par le bureau où sont accomplies les formalités à destination d'un Etat ou
+d'un territoire exclu du territoire de l'Union européenne tel que défini à l'article 302 C du code général des impôts,
+attestant que les produits soumis à accise ont quitté le territoire de l'Union. 
+
+Les données provenant du visa sont vérifiées par voie électronique et le rapport d'exportation est transmis à l'expéditeur.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2000-785 du 24 août 2000 - art. 1 () JORF 25 août 2000
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
 
-	**Abrogé par**:
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quindecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H sexdecies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 C
+	  - Code général des impôts, CGI. - art. 302 M
+
+
+###### Article 111 H quindecies
+
+I. ― Lorsque service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302
+M du code général des impôts est indisponible, des produits peuvent être expédiés en suspension de droits d'accise sous les
+conditions suivantes : 
+
+1° L'expéditeur informe l'administration des douanes et droits indirects avant l'expédition des marchandises, dans les
+conditions et les modalités qu'elle détermine ; 
+
+2° Les produits sont accompagnés d'un document papier contenant les mêmes données que le projet de document administratif
+électronique mentionné à l'article 302 M ter du code précité. 
+
+Il en est de même lorsque l'expéditeur ne peut se connecter au service suite à une indisponibilité de son propre système
+informatique. Dans ce cas, il informe également le service des douanes et droits indirects territorialement compétent des
+motifs de cette indisponibilité. 
+
+Lorsque l'expéditeur peut à nouveau se connecter au service de suivi informatique des mouvements de marchandises soumises à
+accise, il présente un projet de document administratif électronique, conformément aux dispositions de l'article 111 H
+decies. 
+
+Dès que les données figurant dans le document administratif électronique sont validées, ce document remplace le document
+papier. Le document administratif électronique est transmis dans les conditions fixées à l'article 111 H decies et la
+réception des produits est attestée dans les conditions fixées à l'article 111 H quaterdecies. 
+
+Tant que les données figurant dans le document administratif électronique ne sont pas validées, le mouvement est considéré
+comme ayant lieu en suspension de droits d'accise sous couvert du document papier. Une copie de ce document est conservée par
+l'expéditeur à l'appui de sa comptabilité matières. 
+
+Lorsque les produits circulent en application de cette procédure, l'expéditeur peut changer la destination des marchandises
+conformément à l'article 111 H terdecies.A cet effet, il informe l'administration des douanes et droits indirects avant que
+le changement de destination soit effectué. Lorsque l'expéditeur peut à nouveau se connecter au service de suivi informatique
+des mouvements de marchandises soumises à accise, le projet de document administratif électronique présenté doit tenir compte
+du changement de destination effectué. 
+
+II. ― Si le service de suivi informatique des mouvements de marchandises soumises à accise est indisponible au moment de la
+réception des produits soumis à accise ou s'il était indisponible au moment de l'expédition des produits, et si le
+destinataire n'est pas en mesure d'établir l'accusé de réception mentionné à l'article 111 H quaterdecies dans les cinq jours
+ouvrables, il présente au service des douanes et droits indirects territorialement compétent un document papier contenant les
+mêmes données que l'accusé de réception mentionné audit article et attestant de la réception des produits soumis à accise. 
+
+Il en est de même lorsque l'expéditeur ne peut se connecter au service suite à une indisponibilité de son propre système
+informatique. Dans ce cas, il informe également le service des douanes et droits indirects territorialement compétent des
+motifs de cette indisponibilité. 
+
+Lorsque l'expéditeur a présenté un projet de document administratif électronique conformément aux dispositions du I ou
+lorsque le destinataire peut à nouveau se connecter au service de suivi informatique des mouvements de marchandises soumises
+à accise, il établit un accusé de réception par voie électronique conformément aux dispositions du présent article 111 H
+quaterdecies
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
 
 	  - Décret n°2010-631 du 9 juin 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H decies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quaterdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H terdecies
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 M ter
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quater (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H sexdecies (V)
 
 
 ###### Article 111 H septies
 
 Les mentions d'appellation d'origine, signes de qualité et autres mentions prévues par les accords interprofessionnels
-étendus ne sont indiqués sur les documents d'accompagnement mentionnés à l'article 302 M du code général des impôts que si
-les vins, produits intermédiaires ou eaux-de-vie sont produits, élaborés ou détenus conformément à la réglementation
-communautaire et nationale.
+étendus ne sont indiqués sur les documents d'accompagnement mentionnés aux articles 302 M et 302 M ter du code général des
+impôts que si les vins, produits intermédiaires ou eaux-de-vie sont produits, élaborés ou détenus conformément à la
+réglementation communautaire et nationale. 
 
-En outre, les appellations d'origine contrôlée "Armagnac", "Cognac", "Martinique" et "Calvados" ne peuvent être certifiées
-sur le document d'accompagnement que par les entrepositaires agréés détenant un certificat émis par le bureau
+En outre, les appellations d'origine contrôlée " Armagnac ", " Cognac ", " Martinique " et " Calvados " ne peuvent être
+certifiées sur le document d'accompagnement que par les entrepositaires agréés détenant un certificat émis par le bureau
 interprofessionnel compétent. Ce document est annexé à la comptabilité matières pour valoir justificatif de la mention
-apposée sur ledit document d'accompagnement.
+apposée sur ledit document d'accompagnement. 
 
 Les rhums traditionnels des départements d'outre-mer soumis au tarif d'imposition prévu au 1° du I de l'article 403 du code
-général des impôts sont désignés sur le document d'accompagnement, sous couvert d'une rubrique intitulée "Rhums des DOM,
-article 403 (I, 1°)", subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
+général des impôts sont désignés sur le document d'accompagnement, sous couvert d'une rubrique intitulée " Rhums des DOM,
+article 403 (I, 1°) ", subdivisée, selon le cas, par appellation d'origine ou par dénomination économique ou géographique.
 Sans préjudice des règles communautaires, le document d'accompagnement récapitule, pour ces rhums, les volumes d'alcool pur
 transportés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 302 M, 403
-
 	**Modifié par**:
 
-	  - Décret n°2004-946 du 1 septembre 2004 - art. 1 () JORF 8 septembre 2004
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 M ter
+	  - Code général des impôts, CGI. - art. 403
+
+
+###### Article 111 H sexdecies
+
+Un entrepositaire agréé ou un expéditeur enregistré établi dans un autre Etat membre de l'Union européenne peut livrer
+directement en France en suspension de droits d'accise des produits, sous couvert du document administratif électronique
+mentionné à l'article 302 M ter du code général des impôts, un opérateur autre qu'un particulier désigné par un destinataire
+enregistré établi en France, sans que ces produits soient préalablement réceptionnés dans les locaux de ce dernier. 
+
+La livraison est limitée, par expédition, à un lieu dont les coordonnées doivent figurer dans le document administratif
+électronique. 
+
+Le destinataire enregistré exerce son activité et acquitte les droits d'accise des produits reçus en France par l'opérateur
+qu'il a désigné conformément au I de l'article 302 H ter du code précité. 
+
+Le destinataire enregistré doit justifier, par tout moyen, de la prise en charge de la nature et des quantités réelles de
+produits soumis à accise réceptionnés. Il doit être en mesure de présenter ces justifications à toute réquisition des
+services de contrôle. Il établit l'accusé de réception dans les conditions et selon les modalités fixées aux articles 111 H
+quaterdecies et 111 H quindecies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quaterdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quindecies
+	  - Code général des impôts, CGI. - art. 302 H ter (V)
+	  - Code général des impôts, CGI. - art. 302 M ter
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 I (V)
 
 
 ###### Article 111 H ter
 
-I. - Pour l'application des articles 614 et 614 A du code général des impôts, la validation des documents d'accompagnement
-mentionnés à l'article 302 M du même code est assurée avant l'expédition des produits selon le cas :
+I.-Pour l'application des articles 614 et 614 A du code général des impôts, la validation des documents d'accompagnement
+mentionnés à l'article 302 M du même code est assurée avant l'expédition des produits selon le cas : 
 
-1° Au moyen du visa du service des douanes et droits indirects ;
+1° Au moyen du visa du service des douanes et droits indirects ; 
 
 2° Au moyen de la marque fiscale apposée sur les documents susmentionnés, numérotés dans une série séquentielle continue,
-dits "documents prévalidés" ;
+dits " documents prévalidés " ; 
 
 3° Sur délégation de l'administration des douanes et droits indirects, au moyen d'un matériel ou logiciel de validation
-informatique sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique.
+informatique sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique ; 
+
+4° Au moyen du service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article
+302 M du code précité. 
 
 La validation des documents d'accompagnement mentionnés au I de l'article 302 M du code précité est assurée, à la réception
 des produits, au moyen du visa du service des douanes et droits indirects ou sur délégation de l'administration des douanes
-et droits indirects au moyen des différents matériels de validation mentionnés au 3°.
+et droits indirects au moyen des différents matériels de validation mentionnés au 3°. 
 
 La validation des documents d'accompagnement mentionnés au II de l'article 302 M dudit code est obligatoire à la réception si
 les produits sont remis sous le régime de la suspension des droits lors de leur prise en charge dans un entrepôt fiscal
-suspensif des droits d'accises, dans les conditions déterminées par l'administration des douanes et droits indirects.
+suspensif des droits d'accises, dans les conditions déterminées par l'administration des douanes et droits indirects. 
 
-II. - Le directeur régional des douanes et droits indirects territorialement compétent peut attribuer à une personne des
+II.-Le directeur régional des douanes et droits indirects territorialement compétent peut attribuer à une personne des
 documents prévalidés mentionnés au 2° du I, ou l'autoriser à valider les documents mentionnés à l'article 302 M du code
 général des impôts au moyen des différents matériels de validation mentionnés au 3° du I, si cette personne justifie d'une
-bonne moralité fiscale et fournit un cautionnement pour l'utilisation des documents d'accompagnement concernés.
+bonne moralité fiscale et fournit un cautionnement pour l'utilisation des documents d'accompagnement concernés. 
 
 Les conditions dans lesquelles l'administration des douanes et droits indirects fournit les documents prévalidés mentionnés à
-l'article 302 M du code général des impôts sont fixées par arrêté du ministre chargé des douanes.
+l'article 302 M du code général des impôts sont fixées par arrêté du ministre chargé des douanes. 
 
 Les conditions et les modalités d'utilisation des documents prévalidés, d'un matériel ou logiciel de validation informatique
-sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique sont fixées par arrêté du ministre chargé des douanes.
+sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique sont fixées par arrêté du ministre chargé des douanes. 
 
-III. - Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser des groupements
-d'entrepositaires agréés, des syndicats et des organismes professionnels représentant des entrepositaires agréés :
+III.-Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser des groupements
+d'entrepositaires agréés, des syndicats et des organismes professionnels représentant des entrepositaires agréés : 
 
 1° A valider pour le compte des entrepositaires agréés des documents d'accompagnement mentionnés à l'article 302 M du code
-général des impôts, au moyen des différents matériels de validation mentionnés au 3° du I, pour les leur remettre ;
+général des impôts, au moyen des différents matériels de validation mentionnés au 3° du I, pour les leur remettre ; 
 
 2° A délivrer des documents d'accompagnement prévalidés mentionnés au 2° du I, ou à les prévalider pour les remettre aux
-entrepositaires agréés.
+entrepositaires agréés. 
 
 Afin de bénéficier des autorisations mentionnées au 1 et au 2°, les groupements d'entrepositaires agréés, les syndicats et
 les organismes professionnels représentant des entrepositaires agréés doivent justifier d'une bonne moralité fiscale, fournir
 un cautionnement pour l'utilisation des documents d'accompagnement concernés et présenter une liste des entrepositaires
-agréés bénéficiaires.
+agréés bénéficiaires. 
 
-IV. - Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser les entrepositaires
+IV.-Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser les entrepositaires
 agréés, selon le cas, à faire valider les documents mentionnés à l'article 302 M du code général des impôts ou à se faire
 remettre ces documents prévalidés par un groupement d'entrepositaires agréés, un syndicat ou un organisme professionnel
 représentant les entrepositaires agréés, si ces entrepositaires agréés justifient d'une bonne moralité fiscale et fournissent
 un cautionnement pour l'utilisation des documents d'accompagnement concernés.
 
-V. - Les entrepositaires agréés, les groupements d'entrepositaires agréés, les syndicats et organismes professionnels
+V.-Les entrepositaires agréés, les groupements d'entrepositaires agréés, les syndicats et organismes professionnels
 représentant les entrepositaires agréés autorisés à valider les documents mentionnés à l'article 302 M du code général des
 impôts au moyen des différents matériels de validation mentionnés au 3° du I, ainsi que ceux auxquels ont été remis des
 documents d'accompagnement prévalidés mentionnés au 2 du I, informent l'administration des douanes et droits indirects des
-réceptions et des expéditions de produits.
+réceptions et des expéditions de produits. 
 
 Les entrepositaires agréés précisent, sur la déclaration récapitulative mensuelle prévue aux articles 286 I et 286 J de
 l'annexe II du même code, qu'ils doivent transmettre au service des douanes et droits indirects territorialement compétent
 les numéros d'empreinte ou les numéros des documents d'accompagnement prévalidés utilisés au cours de la période de référence
 de cette déclaration. Cette information est donnée, par catégorie d'opérations, sur la base des numéros de début et de fin de
-période.
+période. 
 
 Les groupements d'entrepositaires agréés, les syndicats et les organismes professionnels représentant les entrepositaires
 agréés transmettent, au plus tard le dixième jour de chaque mois, un état récapitulatif par entrepositaire agréé autorisé,
 précisant selon le cas les numéros d'empreinte, les numéros et les catégories de documents prévalidés mentionnés à l'article
-302 M dudit code remis par leurs soins au cours du mois précédent.
+302 M dudit code remis par leurs soins au cours du mois précédent. 
 
-VI. - Les entrepositaires agréés auxquels ne sont pas attribués de documents prévalidés mentionnés à l'article 302 M du code
+VI.-Les entrepositaires agréés auxquels ne sont pas attribués de documents prévalidés mentionnés à l'article 302 M du code
 général des impôts ou auxquels n'est pas déléguée la possibilité de valider ces documents d'accompagnement au moyen d'un des
-matériels de validation mentionnés au 3° du I informent l'administration des douanes et droits indirects :
+matériels de validation mentionnés au 3° du I informent l'administration des douanes et droits indirects : 
 
 1° Des mouvements de produits expédiés ou reçus sous le régime de la suspension des droits d'accises. Lors de chaque
 opération, ils déposent un exemplaire supplémentaire du document mentionné au I de l'article 302 M dudit code. Ils peuvent
 également informer cette administration par tout autre moyen comportant les mêmes informations, y compris par voie
-électronique, dans les conditions déterminées par l'administration des douanes et droits indirects ;
+électronique, dans les conditions déterminées par l'administration des douanes et droits indirects ; 
 
 2° Des mouvements de produits expédiés sous le régime des droits acquittés, de l'exemption ou de l'exonération des droits
 d'accises. Lors de chaque opération, ils déposent un exemplaire supplémentaire du document mentionné au II de l'article 302 M
 du code général des impôts. Ils peuvent également informer cette administration par tout autre moyen comportant les mêmes
 renseignements, y compris par voie électronique, dans les conditions déterminées par l'administration des douanes et droits
-indirects.
+indirects. 
 
 Ces entrepositaires agréés sont dispensés de déposer au service des douanes et droits indirects territorialement compétent un
 exemplaire supplémentaire du document mentionné au II de l'article 302 M du code général des impôts, pour chaque réception
-effectuée sous le régime des droits acquittés, de l'exemption ou de l'exonération des droits d'accises.
+effectuée sous le régime des droits acquittés, de l'exemption ou de l'exonération des droits d'accises. 
 
-VII. - Les personnes et groupements mentionnés du II au VI, qu'ils soient ou non bénéficiaires de la délégation mentionnée au
-3° du I, informent l'administration des douanes et droits indirects des expéditions réalisées sous le régime de la suspension
-des droits d'accises, au moyen d'une transmission électronique contenant les informations du document mentionné au I de
-l'article 302 M du code général des impôts ou de tout autre document comportant les mêmes informations. Les modalités, délais
-et conditions de transmission de ces informations sont déterminés par arrêté du ministre chargé des douanes.
+VII.-(alinéa abrogé) 
 
-VIII. - Les autorisations accordées en vertu des II, III et IV peuvent être suspendues ou révoquées par le directeur régional
-des douanes et droits indirects territorialement compétent :
+VIII.-Les autorisations accordées en vertu du III de l'article 302 M du code précité et celles accordées en vertu des II, III
+et IV du présent article peuvent être suspendues ou révoquées par le directeur régional des douanes et droits indirects
+territorialement compétent : 
 
-1° En cas de manquements du bénéficiaire aux obligations fixées aux I à VI ainsi qu'aux articles 302 D à 302 V, 406, 440 bis,
-441, 442 et 570 du code général des impôts ;
+1° En cas de manquements du bénéficiaire aux obligations fixées aux I à VI ainsi qu'aux articles 302 D à 302 V bis, 406, 440
+bis, 441, 442 et 570 du code général des impôts ; 
 
 2° En cas d'infraction fiscale ou économique à caractère frauduleux au titre de la réglementation des contributions
-indirectes commise par le bénéficiaire ;
+indirectes commise par le bénéficiaire ; 
 
 3° En cas de modification de la réglementation entraînant la suppression de l'usage des matériels ou logiciels de validation
 informatiques sécurisés, des machines à timbrer, de tout autre matériel mécanique ou des documents d'accompagnement
-prévalidés mentionnés à l'article 302 M du même code.
+prévalidés mentionnés à l'article 302 M du même code. 
+
+IX. Les conditions d'utilisation des machines à timbrer et des matériels ou logiciels informatiques sécurisés pour les
+documents d'accompagnement mentionnés au I et au II de l'article 302 M du code général des impôts sont fixées par arrêté.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 614, 614 A, 302, 302 M, 302 D à 302 V, 406, 440 bis, 441, 442, 570
-	  - CGIAN2 286
-
 	**Modifié par**:
 
-	  - Décret n°2006-532 du 11 mai 2006 - art. 3 () JORF 12 mai 2006
-	  - Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 406
+	  - Code général des impôts, CGI. - art. 440 bis
+	  - Code général des impôts, CGI. - art. 441
+	  - Code général des impôts, CGI. - art. 442
+	  - Code général des impôts, CGI. - art. 570
+	  - Code général des impôts, CGI. - art. 614
+	  - Code général des impôts, CGI. - art. 614 A
 
 	**Cité par**:
 
@@ -25985,9 +26134,47 @@ prévalidés mentionnés à l'article 302 M du même code.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 G (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 54 A (V)
 
-	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2007
+###### Article 111 H terdecies
+
+Pendant le mouvement effectué en suspension de droits d'accise, l'expéditeur peut, par l'intermédiaire du service de suivi
+informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M du code général des impôts,
+modifier le document administratif électronique mentionné à l'article 302 M ter du code général des impôts pour indiquer soit
+un nouveau destinataire qui doit être un entrepositaire agréé ou un destinataire enregistré, soit une exportation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H quindecies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 302 M ter
+
+
+###### Article 111 H undecies
+
+L'expéditeur fournit à la personne accompagnant les produits soumis à accise une version imprimée du document administratif
+électronique mentionné à l'article 302 M ter du code général des impôts ou tout autre document commercial mentionnant de
+façon clairement identifiable et sans rature ni surcharge le code de référence administratif unique mentionné à l'article 111
+H decies. Ce document est présenté aux autorités compétentes à toute réquisition des services de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H decies
+	  - Code général des impôts, CGI. - art. 302 M ter
 
 
 ##### Section III : Capsules représentatives de droits
@@ -26081,32 +26268,28 @@ que la France sont conformes aux couleurs et mentions définies par arrêté du 
 ###### Article 111 M
 
 Les bouteilles ou récipients revêtus de capsules représentatives de droits apposées dans les Etats membres de la Communauté
-européenne autres que la France circulent, à destination des personnes définies aux articles 302 G à 302 I du code général
-des impôts établies en France métropolitaine, sous couvert d'un document d'accompagnement établi par l'expéditeur dont le
-modèle est fixé par le règlement (CEE) n° 2719/92 modifié de la Commission du 11 septembre 1992.
+européenne autres que la France circulent, à destination des personnes définies aux articles 302 G et 302 H ter du code
+général des impôts établies en France métropolitaine, sous couvert du document administratif électronique mentionné à
+l'article 302 M ter du code précité dans les conditions et selon les modalités fixées aux articles 111 H decies à 111 H
+sexdecies. 
 
-"Le destinataire des produits repris au premier alinéa les allotit séparément des autres boissons. Les droits indirects sur
+Le destinataire des produits repris au premier alinéa les allotit séparément des autres boissons. Les droits indirects sur
 les boissons relevant du régime fiscal du vin sont exigibles et recouvrés dans les conditions fixées par les articles 302 D à
-302 V du code général des impôts.
+302 U bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+
 	**Cite**:
 
-	  - CEE Règlement 2719/92 1992-09-11 Commission
-	  - CGI 302 G à 302 I, 302 D à 302 V
-
-	**Créé par**:
-
-	  - Décret n°98-584 du 9 juillet 1998 - art. 5 (V) JORF 11 juillet 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 H decies
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 H ter
+	  - Code général des impôts, CGI. - art. 302 M ter
 
 
 ###### Article 111 N
@@ -26589,13 +26772,14 @@ les vins traités est admise en décharge pour l'assiette du droit de circulatio
 
 ###### Article 178-0 bis
 
-Les entrepositaires agréés, les importateurs et les personnes qui réalisent des acquisitions intracommunautaires, redevables
-du droit de circulation dans les conditions visées à l'article 302 D du code général des impôts, ne peuvent bénéficier du
-tarif prévu pour les vins visés au a bis du 2° de l'article 438 du même code obtenus conformément aux dispositions prévues
-par le règlement n° 1493/1999 du Conseil du 17 mai 1999 qu'après justification auprès du bureau de déclaration de la
-direction générale des douanes et droits indirects que l'alcool contenu dans le produit résulte entièrement d'une
-fermentation et que le produit n'a fait l'objet d'aucun enrichissement, même si celui-ci est autorisé dans les conditions
-prévues au C de l'annexe V et aux 2, 3, et 4 du F de l'annexe VI au règlement n° 1493/1999 précité.
+Les entrepositaires agréés, les destinataires enregistrés, les expéditeurs enregistrés, les importateurs et les personnes qui
+réalisent des acquisitions intracommunautaires, redevables du droit de circulation dans les conditions visées à l'article 302
+D du code général des impôts, ne peuvent bénéficier du tarif prévu pour les vins visés au a bis du 2° de l'article 438 du
+même code obtenus conformément aux dispositions prévues par le règlement (CE) n° 1234 / 2007 du Conseil du 22 octobre 2007
+qu'après justification auprès du bureau de déclaration de la direction générale des douanes et droits indirects que l'alcool
+contenu dans le produit résulte entièrement d'une fermentation et que le produit n'a fait l'objet d'aucun enrichissement,
+même si celui-ci est autorisé dans les conditions prévues aux A et B de l'annexe XV bis du règlement (CE) n° 1234 / 2007
+précité. 
 
 Est considéré comme justificatif tout document attestant du respect des conditions précitées, émanant d'une autorité
 administrative chargée du contrôle des modes de production et d'élaboration des produits viti-vinicoles dans l'Etat de
@@ -26603,18 +26787,14 @@ production.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+
 	**Cite**:
 
-	  - CGI 438, 302 D
-	  - Règlement CE 1493/1999 1999-05-17 (conseil)
-
-	**Codifié par**:
-
-	  - Décret n°2003-933 2003-09-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 438
 
 
 ##### Petites brasseries indépendantes
@@ -34554,24 +34734,65 @@ d'exonération ne s'applique que pour la période restant à courir après le 31
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 F (V)
 
 
+##### II : Cotisation sur la valeur ajoutée des entreprises
+
 ###### Article 328 G bis
 
-Pour l'application des dispositions de l'article 1594 I ter du code général des impôts, le prix de cession au mètre carré
-doit être inférieur à 6 400 €.
+La déclaration de cotisation sur la valeur ajoutée des entreprises des assujettis mentionnée à l'article 1586 octies du code
+général des impôts doit indiquer, par établissement situé en France, le nombre de salariés employés au cours de la période de
+référence mentionnée à l'article 1586 quinquies. 
+
+Les salariés qui, au cours de cette même période de référence, déploient, à titre principal, leur activité plus de trois mois
+consécutifs sur un lieu situé en France hors de l'entreprise qui les emploie, sont déclarés au lieu d'exercice de leur
+activité. 
+
+La déclaration mentionnée au premier alinéa comporte : 
+
+1. Les informations suivantes relatives à l'entreprise : 
+
+a. La dénomination de l'entreprise ; 
+
+b. Le numéro d'identité attribué à l'établissement principal dans les conditions du second alinéa de l'article R. 123-221 du
+code de commerce ; 
+
+c.L'adresse de l'entreprise ; 
+
+d.L'activité de l'entreprise ; 
+
+e. La période de référence mentionnée à l'article 1586 quinquies du code général des impôts ; 
+
+f. Le chiffre d'affaires réalisé et la valeur ajoutée produite au cours de la période de référence mentionnée à l'article
+1586 quinquies du code précité. 
+
+2. Pour les entreprises ayant plusieurs établissements ou employant des salariés mentionnés au 3, la liste du ou des
+établissements et les précisions y afférentes suivantes : 
+
+a. Les cinq derniers caractères du numéro d'identité attribué dans les conditions du second alinéa de l'article R. 123-221 du
+code de commerce ; 
+
+b. Le numéro du département ; 
+
+c. La ou les communes de localisation ; 
+
+d. Le code INSEE de la commune ; 
+
+e. Les effectifs exprimés en équivalents temps plein travaillés au sens de l'article 328 G ter. 
+
+3. La liste, le cas échéant, des lieux d'exercice des salariés employés plus de trois mois hors de l'entreprise et les
+précisions y afférentes, c'est-à-dire l'ensemble des précisions visées au 2, à l'exception des cinq derniers caractères du
+numéro d'identité attribué dans les conditions du second alinéa de l'article R. 123-221 du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-319 du 22 mars 2010 - art. 1
+	  - Décret n°2010-627 du 9 juin 2010 - art. 1
 
-	**Transféré par**:
+	**Cite**:
 
-	  - Décret n°2010-893 du 29 juillet 2010 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G decies (V)
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, CGI. - art. 1586 octies
+	  - Code général des impôts, CGI. - art. 1586 quinquies
 
 	**Cité par**:
 
@@ -34579,9 +34800,245 @@ doit être inférieur à 6 400 €.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G nonies D (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G ter (V)
 
+
+###### Article 328 G nonies
+
+La différence entre la valeur ajoutée totale de l'entreprise visée par les dispositions du quatrième alinéa du III de
+l'article 1586 octies du code général des impôts et la valeur ajoutée afférente aux seuls établissements visés à l'article
+328 G sexies est répartie conformément aux dispositions des articles 328 G bis à 328 G quinquies. 
+
+Les salariés de l'entreprise affectés exclusivement dans les établissements mentionnés au premier alinéa de l'article 328 G
+sexies ne sont pas pris en compte pour opérer cette répartition. 
+
+Lorsque, au cours de la période de référence mentionnée à l'article 1586 quinquies du code précité, un salarié est affecté
+dans plusieurs établissements de l'entreprise ou dans plusieurs communes, seule la durée de travail qui correspond à
+l'affectation hors des établissements accueillant des installations visées au premier alinéa de l'article 328 G sexies est
+retenue pour opérer cette répartition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-628 du 9 juin 2010 - art. 1
+
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1594 I ter
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G sexies (V)
+	  - Code général des impôts, CGI. - art. 1586 octies (V)
+	  - Code général des impôts, CGI. - art. 1586 quinquies (V)
+
+
+###### Article 328 G octies
+
+Les redevables mentionnés au quatrième alinéa du III de l'article 1586 octies du code général des impôts doivent déclarer au
+service des impôts dont relève leur principal établissement : 
+
+1. Le ratio défini au 1 de l'article 328 G sexies, le ratio défini au 2 du même article ainsi que les termes de ce dernier
+ratio, le montant de la fraction de la valeur ajoutée telle qu'elle est définie au même article et la puissance électrique
+installée par établissement. Les ratios sont exprimés avec deux décimales après la virgule, le deuxième chiffre après la
+virgule est augmenté d'une unité si le chiffre suivant est égal ou supérieur à 5.
+
+2. Les lieux de situation des établissements comprenant des installations de production d'électricité visées au premier
+alinéa de l'article précité afin de permettre la répartition par établissement de la valeur ajoutée. 
+
+3. Les communes d'implantation pour chaque établissement situé sur plusieurs communes. 
+
+Ces éléments sont déclarés sur un formulaire conforme au modèle de l'administration annexé à la déclaration de la valeur
+ajoutée et des effectifs salariés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-628 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G sexies
+	  - Code général des impôts, CGI. - art. 1586 octies (V)
+
+
+###### Article 328 G quater
+
+1. Lorsque les salariés exercent leur activité, au cours de la période de référence mentionnée à l'article 1586 quinquies du
+code général des impôts, soit dans plusieurs établissements de l'entreprise, soit, pendant des durées de plus de trois mois,
+sur un ou plusieurs lieux d'exercice d'activité hors de l'entreprise, soit à la fois dans ces deux situations, ils sont alors
+déclarés au niveau de chaque établissement ou de chaque lieu d'exercice d'activité au prorata du nombre de jours d'exercice
+de l'activité dans chacun de ces établissements ou de ces lieux. 
+
+Un salarié est considéré comme continuant à exercer son activité dans l'établissement si, pour une durée de moins de trois
+mois, il suit une formation hors de cet établissement ou il exerce son activité hors de cet établissement. 
+
+2. Lorsque les salariés exercent leur activité, au cours de la période de référence mentionnée à l'article 1586 quinquies du
+code précité dans un ou plusieurs lieux d'exercice d'activité hors de l'entreprise pendant des durées d'au plus trois mois,
+ils sont, pour le nombre de jours d'exercice de l'activité dans chacun de ces lieux, déclarés au niveau de l'établissement
+retenu pour la déclaration annuelle des données sociales transmise selon le procédé informatique mentionné à l'article 89 A
+du code général des impôts ou, en l'absence de recours à ce procédé, l'établissement qui aurait été retenu si le procédé
+informatique mentionné à l'article 89 A du code précité avait été utilisé. 
+
+La notion d'établissement s'entend au sens de la cotisation foncière des entreprises telle que mentionnée à l'article 310 HA
+de l'annexe II au présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-627 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 310 HA
+	  - Code général des impôts, CGI. - art. 1586 quinquies
+	  - Code général des impôts, CGI. - art. 89 A
+
+
+###### Article 328 G quinquies
+
+Lorsque l'entreprise n'emploie aucun salarié en France, la valeur ajoutée est répartie selon les mêmes modalités que celles
+prévues lorsque la déclaration des salariés par établissement mentionnée au II de l'article 1586 octies du code général des
+impôts fait défaut. 
+
+La valeur ajoutée des entreprises qui sont soumises aux dispositions du II de l'article 1647 D du code précité est déclarée
+et, en l'absence d'effectif salarié employé par l'entreprise, imposée au lieu d'imposition à la cotisation minimum prévu au
+II de cet article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-627 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1586 octies
+	  - Code général des impôts, CGI. - art. 1647 D
+
+
+###### Article 328 G septies
+
+La valeur ajoutée déterminée conformément aux dispositions de l'article 328 G sexies est répartie entre les établissements
+mentionnés au premier alinéa du même article au prorata de la puissance électrique installée. 
+
+Lorsque l'un de ces établissements est situé sur le territoire de plusieurs communes, la fraction de la valeur ajoutée
+calculée selon les modalités définies au premier alinéa est répartie entre les communes d'implantation de l'établissement au
+prorata des bases de cotisation foncière des entreprises de cet établissement rattachées à chaque commune et imposables au
+titre de l'année d'imposition à la cotisation sur la valeur ajoutée des entreprises. 
+
+Toutefois, la fraction de la valeur ajoutée déterminée conformément au premier alinéa pour un ouvrage hydroélectrique concédé
+ou d'une puissance supérieure à 500 kilowatts mentionné à l'article 1475 du code général des impôts est répartie entre les
+communes mentionnées par ce même article et selon la règle fixée par ce même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-628 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G sexies
+	  - Code général des impôts, CGI. - art. 1475
+
+
+###### Article 328 G sexies
+
+Pour l'application des dispositions du quatrième alinéa du III de l'article 1586 octies du code général des impôts, la valeur
+ajoutée afférente à l'ensemble des établissements de l'entreprise comprenant des installations de production d'électricité
+mentionnées à l'article 1519 E du code précité ou des installations de production d'électricité d'origine hydraulique
+mentionnées à l'article 1519 F du code précité s'entend de la valeur ajoutée totale de l'entreprise, déterminée conformément
+au I de l'article 1586 sexies du code précité, multipliée : 
+
+1. Par le rapport entre : 
+
+a. D'une part, la somme des charges afférentes à l'activité de production d'électricité, non déductibles de la valeur
+ajoutée, telle qu'elle est définie au I de l'article 1586 sexies du code précité. Ces charges, qui s'entendent de celles
+engagées au cours de la période de référence définie à l'article 1586 quinquies du code précité, comprennent : 
+
+1° Les charges d'exploitation afférentes aux charges de personnel, aux impôts et taxes et aux dotations aux amortissements
+pour dépréciation, à l'exclusion des dotations aux provisions ; 
+
+2° Le cas échéant, la charge financière liée à la désactualisation de la provision pour coûts de démantèlement des
+installations de production d'électricité ; 
+
+b. Et, d'autre part, le montant total de ces mêmes charges déterminées au niveau de l'entreprise au cours de la même
+période. 
+
+2. Puis par le rapport entre, d'une part, la puissance électrique installée totale des seuls établissements mentionnés au
+premier alinéa et, d'autre part, la puissance électrique installée totale de l'ensemble des établissements de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-628 du 9 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G nonies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G octies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G septies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1519 E
+	  - Code général des impôts, CGI. - art. 1519 F
+	  - Code général des impôts, CGI. - art. 1586 octies (V)
+	  - Code général des impôts, CGI. - art. 1586 quinquies (V)
+	  - Code général des impôts, CGI. - art. 1586 sexies (VT)
+
+
+###### Article 328 G ter
+
+1. Les salariés s'entendent de ceux qui sont titulaires d'un contrat de travail à durée déterminée ou indéterminée ou d'un
+contrat de mission mentionné à l'article L. 1251-1 du code du travail conclu avec l'entreprise de travail temporaire
+assujettie mentionnée au premier alinéa de l'article 328 G bis si le contrat de travail ou le contrat de mission est conclu
+pour une durée supérieure ou égale à un mois. 
+
+2. Les salariés doivent être déclarés par l'employeur assujetti ayant conclu le contrat de travail ou le contrat de mission. 
+
+Toutefois, les assujettis doivent déclarer les salariés détachés par un employeur établi hors de France dans les conditions
+visées aux articles L. 1261-1 à L. 1261-3 du code du travail. 
+
+3. Ne doivent pas être déclarés : 
+
+a. Les apprentis ; 
+
+b. Les titulaires d'un contrat initiative-emploi ; 
+
+c. Les titulaires d'un contrat insertion-revenu minimum d'activité ; 
+
+d. Les titulaires d'un contrat d'accompagnement dans l'emploi ; 
+
+e. Les titulaires d'un contrat d'avenir ; 
+
+f. Les titulaires d'un contrat de professionnalisation ; 
+
+g. Les salariés expatriés ; 
+
+h. Les salariés qui n'ont exercé aucune activité au cours de la période de référence mentionnée à l'article 1586 quinquies du
+code général des impôts. 
+
+4. Le nombre de salariés à déclarer est exprimé en unité de décompte dite équivalent temps plein travaillé ou ETPT. 
+
+Ce décompte est proportionnel à l'activité des salariés, mesurée par leur quotité de temps de travail et par leur période
+d'activité, sur la période de référence mentionnée à l'article 1586 quinquies du code général des impôts, sauf lorsque le
+contrat de travail est suspendu. 
+
+Le nombre d'ETPT est exprimé avec deux décimales et arrondi au centième le plus proche.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-627 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G bis
+	  - Code général des impôts, CGI. - art. 1586 quinquies
+	  - Code du travail - art. L1251-1
+	  - Code du travail - art. L1261-1
 
 
 ### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
