@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-06-19
+Version Consolidée au 2010-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -35162,6 +35162,102 @@ Dispositions devenues sans objet en conséquence de l'article 108-XIX C-1 de la 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 I (P)
+
+
+### Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales et de leurs établissements publics de coopération intercommunale
+
+#### Chapitre unique : Imposition forfaitaire sur les entreprises de réseaux
+
+###### Article 328 K
+
+Pour l'application des articles 1519 D et 1519 F du code général des impôts, les entreprises déposent, au moyen d'un support
+papier, auprès du service des impôts dont relève l'installation imposée une déclaration conforme à un modèle établi par
+l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-714 du 28 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1519 D
+	  - Code général des impôts, CGI. - art. 1519 F
+
+
+###### Article 328 L
+
+Pour l'application des articles 1519 E, 1519 G, 1519 H et 1599 quater B du code général des impôts, les entreprises
+transmettent une déclaration au service de fiscalité directe locale de la direction départementale des finances publiques des
+Hauts-de-Seine, au moyen d'un support papier ou dématérialisé dont les caractéristiques sont fixées par l'administration.
+
+**Nota:**
+
+Conformément à l'article 1er V du décret n° 2011-369 du 4 avril 2011, ces dispositions s'appliquent aux impositions établies
+au titre de l'année 2011 et des années suivantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-714 du 28 juin 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2011-369 du 4 avril 2011 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1519 E
+	  - Code général des impôts, CGI. - art. 1519 G
+
+
+###### Article 328 M
+
+Pour l'application de l'article 1599 quater A du code général des impôts, les entreprises transmettent une déclaration au
+service des impôts dont relève leur établissement principal, au moyen d'un support papier ou dématérialisé dont les
+caractéristiques sont fixées par l'administration. En l'absence d'établissement sur le territoire national, ces entreprises
+demandent leur immatriculation auprès du service des impôts des entreprises de la direction des résidents à l'étranger et des
+services généraux (DRESG) et transmettent une déclaration au service des impôts dont relève l'établissement principal de
+l'établissement public Réseau ferré de France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-714 du 28 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 quater A (V)
+
+
+###### Article 328 N
+
+L'établissement public Réseau ferré de France dépose auprès du service de fiscalité directe locale dont relève son
+établissement principal, au plus tard le 31 mars de chaque année, la déclaration prévue à l'article 1649 A ter du code
+général des impôts au moyen d'un support papier ou dématérialisé dont les caractéristiques sont fixées par l'administration. 
+
+Cette déclaration mentionne : 
+
+1° L'identification des entreprises de transport ferroviaire ayant réservé des sillons-kilomètres pour des opérations de
+transport de voyageurs l'année précédente : dénomination sociale, adresse complète et numéro d'identité attribué, le cas
+échéant, conformément aux dispositions du second alinéa de l'article R. 123-221 du code de commerce ; 
+
+2° Le nombre de sillons-kilomètres réservés l'année précédente pour des opérations de transport de voyageurs et répartis par
+région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-714 du 28 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, CGI. - art. 1649 A ter
 
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
