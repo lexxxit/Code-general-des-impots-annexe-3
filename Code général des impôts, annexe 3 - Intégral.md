@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21611,24 +21611,20 @@ nette.
 
 ###### Article 68
 
-Pour les prestations de transport désignées au 3° bis de l'article 259 A du code général des impôts et effectuées partie en
+Pour les prestations de transport désignées au 4° de l'article 259 A du code général des impôts et effectuées partie en
 France, partie hors de France, les transporteurs doivent justifier du prix du transport réalisé en France. Lorsque ce prix
 n'est pas déterminé, il est calculé en appliquant au prix du transport le rapport entre la longueur du transport effectué en
 France et la longueur totale du transport.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 259 A 3° bis
-
 	**Modifié par**:
 
-	  - Décret n°93-991 1993-08-06 art. 1 JORF 10 août 1993
+	  - Décret n°2010-789 du 12 juillet 2010 - art. 3
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, CGI. - art. 259 A (V)
 
 
 ##### C : Livraisons à soi-même d'immeubles
@@ -23339,6 +23335,23 @@ obligation.
 	  - Code général des impôts, CGI. - art. 287 (VT)
 
 
+###### Article 95-0
+
+Les personnes mentionnées aux 4° et 5° de l'article 286 ter du code général des impôts qui ne sont pas identifiées par un
+numéro individuel en application des 1° à 3° de l'article 286 ter du même code doivent demander au service des impôts dont
+elles dépendent l'attribution d'un numéro individuel d'identification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-789 du 12 juillet 2010 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 286 ter (V)
+
+
 ###### Article 96 A
 
 Les sociétés de moyens qui bénéficient de l'exonération de la taxe sur la valeur ajoutée prévue à l'article 261 B du code
@@ -23637,47 +23650,40 @@ visites mentionnées au IV de l'article 289 bis du code général des impôts.
 
 Toute personne physique ou morale domiciliée, établie ou identifiée en France, ou représentée conformément à l'article 289 A
 du code général des impôts, ou qui y a désigné un mandataire ponctuel mentionné à l'article 95 B, est tenue de souscrire la
-déclaration prévue à l'article 289 C du même code dans les cas suivants :
+déclaration prévue à l'article 289 C du même code dans les cas suivants : 
 
 1° A l'expédition ou à la livraison si elle est assujettie et identifiée à la TVA ou si elle a désigné un mandataire ponctuel
 mentionné à l'article 95 B ou un représentant conformément à l'article 289 A du code général des impôts, et ne bénéficie pas
-de la franchise prévue à l'article 293 B du code général des impôts ;
+de la franchise prévue à l'article 293 B du code général des impôts ; 
 
-2° A l'introduction ou à l'acquisition si elle réalise, dans les conditions prévues à l'article 20-5 du règlement (C.E.E.) n°
-3330-91, un montant annuel d'introduction ou d'acquisition égal ou supérieur à un seuil fixé par arrêté du ministre chargé
-des douanes.
+2° A l'introduction ou à l'acquisition si elle réalise, dans les conditions prévues à l'article 7-1 du règlement (CE) n°
+638 / 2004 du Parlement européen et du Conseil du 31 mars 2004, un montant annuel d'introduction ou d'acquisition égal ou
+supérieur à un seuil fixé par arrêté du ministre chargé des douanes. 
 
 Lorsque la personne établie hors de la communauté européenne est dispensée de désigner un représentant en application du
 deuxième alinéa du I de l'article 289 A du code général des impôts ou lorsque la personne établie dans un autre Etat membre
 de la Communauté européenne n'est pas tenue de s'identifier à la taxe sur la valeur ajoutée en France conformément au II de
 l'article 95, la déclaration afférente aux acquisitions intracommunautaires visées au 4° du I de l'article 277 A du même code
-est souscrite par la personne mentionnée à l'article 85 D.
+est souscrite par la personne mentionnée à l'article 85 D. 
 
 Pour les opérations portant sur l'électricité ou le gaz naturel acheminé par conduite, la déclaration est souscrite par la
 personne chargée de la gestion du réseau de transport permettant l'échange entre la France et les autres pays.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 289 A, 289 C, 95 B, 293 B, 277 A, 95, 85 D
-	  - Règlement 3330-91 CEE 1991-11-07 art. 20-5
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 84 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-330 2005-04-06
+	  - Décret n°2010-789 du 12 juillet 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 K (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 277 A
+	  - Code général des impôts, CGI. - art. 289 A
+	  - Code général des impôts, CGI. - art. 293 B
 
 
 ###### Article 96 K
@@ -23690,7 +23696,7 @@ l'article 69 de la directive 2006 / 112 / CE du Conseil du 28 novembre 2006 ;
 
 b) Pour les acquisitions intracommunautaires de biens, le mois au cours duquel la taxe est devenue exigible ; 
 
-c) Pour les autres opérations, le mois au cours duquel a eu lieu le mouvement de marchandises. 
+c) Pour les autres opérations portant sur des biens, le mois au cours duquel a eu lieu le mouvement de marchandises. 
 
 Lorsque la déclaration est produite sur support papier, elle est obligatoirement établie sur les formulaires CERFA intitulés
 " déclaration d'échanges de biens entre Etats membres de la Communauté européenne " ou " déclaration simplifiée d'échanges de
@@ -23716,7 +23722,7 @@ Modification effectuée en conséquence de l'article 57-VII et VIII de la loi n�
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2010-789 du 12 juillet 2010 - art. 1
 
 	**Cité par**:
 
@@ -23763,8 +23769,8 @@ des impôts.
 3. Autres informations :
 
 Le nombre et la nature des autres informations portées sur la déclaration dépendent de la nature des flux précisés à
-l'article 96 J et du montant des échanges par rapport aux seuils statistiques définis à l'article 28 du règlement C.E.E. n°
-3330-91 et fixés par arrêté du ministre chargé des douanes :
+l'article 96 J et du montant des échanges par rapport aux seuils statistiques définis à l'article 10 du règlement (CE) n°
+638/2004 du Parlement européen et du Conseil du 31 mars 2004 et fixés par arrêté du ministre chargé des douanes :
 
 a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation :
 
@@ -23810,23 +23816,20 @@ l'indication du numéro d'identification à la TVA du partenaire étranger.
 
 	**Cite**:
 
-	  - CGI 289 C, 96 K, 262 ter, 272, 96 J
-	  - Décret n°96-773 du 4 septembre 1996 - art. 1 ()
+	  - Décret n°96-773 du 4 septembre 1996 - art. 1
+	  - Code général des impôts, CGI. - art. 262 ter
+	  - Code général des impôts, CGI. - art. 272
+	  - Code général des impôts, CGI. - art. 289 C
 
 	**Modifié par**:
 
-	  - Décret n°2005-1671 du 27 décembre 2005 - art. 1 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
-	  - Décret n°2005-1671 du 27 décembre 2005 - art. 2 () JORF 29 décembre 2005 en vigueur le 1er janvier 2006
+	  - Décret n°2010-789 du 12 juillet 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 M (V)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 sexies A (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 sexies B (VD)
-
-	**Liens**:
-
-	  - HISTO: L'article sera codifié ultérieurement
 
 
 ###### Article 96 M
@@ -23850,6 +23853,97 @@ Cette déclaration, souscrite auprès de l'administration des douanes, comporte 
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 K (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 L (V)
+
+
+##### 4° : Déclaration européenne des services
+
+###### Article 96 N
+
+I. - Toute personne identifiée à la taxe sur la valeur ajoutée en France qui fournit un service pour lequel le preneur est
+redevable de la taxe sur la valeur ajoutée dans un autre Etat membre de l'Union européenne en application de l'article 196 de
+la directive 2006/112/CE du 28 novembre 2006 est tenue de souscrire l'état récapitulatif prévu au III de l'article 289 B du
+code général des impôts ;
+
+II. - L'état récapitulatif prévu au III de l'article 289 B du code général des impôts est déposé auprès de l'administration
+des douanes par voie électronique, au plus tard le dixième jour ouvrable du mois qui suit celui au cours duquel la taxe est
+devenue exigible dans l'autre Etat membre conformément aux articles 63 à 66 de la directive 2006/112/CE du 28 novembre 2006 ;
+
+III. - Les assujettis bénéficiant du régime de franchise prévu à l'article 293 B du code général des impôts peuvent souscrire
+l'état récapitulatif au moyen d'un formulaire papier conforme au modèle établi par l'administration des douanes ;
+
+IV. - L'état récapitulatif prévu au III de l'article 289 B du code général des impôts mentionne :
+
+1° Le numéro d'assujetti à la taxe sur la valeur ajoutée du prestataire ;
+
+2° L'adresse et la raison ou la dénomination sociale du prestataire ;
+
+3° La période au titre de laquelle l'état est établi ;
+
+4° Le numéro d'identification à la taxe sur la valeur ajoutée du preneur des services attribué par l'Etat membre dans lequel
+il est redevable de la taxe en application de l'article 196 de la directive 2006/112/CE du 28 novembre 2006 ;
+
+5° Le montant total, en euros et hors taxe sur la valeur ajoutée, des prestations de services effectuées ;
+
+6° S'il y a lieu, le montant des régularisations commerciales effectuées en application du 1 de l'article 272 du code général
+des impôts.
+
+V. - Les omissions et les inexactitudes constatées par le déclarant ou portées à sa connaissance font l'objet, dès leur
+constat, d'un état rectificatif.
+
+L'état rectificatif, souscrit par le même déclarant auprès de l'administration des douanes, comporte les mentions prévues au
+IV.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-789 du 12 juillet 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 272
+	  - Code général des impôts, CGI. - art. 289 B
+	  - Code général des impôts, CGI. - art. 293 B
+
+
+##### 5° : Demande de remboursement de la taxe sur la valeur ajoutée supportée dans un autre Etat membre de l'Union européenne
+
+###### Article 96 O
+
+I.-La demande de remboursement prévue à l'article 289 D du code général des impôts doit être introduite avant le 30 septembre
+suivant l'année civile au cours de laquelle la taxe est devenue exigible. 
+
+II.-La demande de remboursement est réputée introduite lorsque toutes les informations que l'Etat membre de remboursement
+peut exiger en application des articles 8,9 et 11 de la directive 2008/9/ CE du 12 février 2008 ont été fournies. 
+
+III.-L'administration ne transmet pas la demande à l'Etat membre de remboursement lorsque, au cours de la période de
+remboursement, le requérant établi en France : 
+
+1° N'était pas assujetti à la taxe sur la valeur ajoutée ; 
+
+2° N'a effectué que des livraisons de biens ou des prestations de services exonérées sans droit à déduction de la taxe sur la
+valeur ajoutée payée à un stade antérieur en vertu des articles 261 à 261 E du code général des impôts ; 
+
+3° A bénéficié de la franchise en base prévue à l'article 293 B du code général des impôts ; 
+
+4° A bénéficié du régime forfaitaire agricole prévu aux articles 298 bis, 298 quater et 298 quinquies du code général des
+impôts. 
+
+IV.-La décision de transmettre ou non la demande prise par l'administration est notifiée à l'assujetti par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-789 du 12 juillet 2010 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 261 (V)
+	  - Code général des impôts, CGI. - art. 289 D (V)
+	  - Code général des impôts, CGI. - art. 298 bis (V)
+	  - Code général des impôts, CGI. - art. 298 quater (V)
+	  - Code général des impôts, CGI. - art. 298 quinquies (V)
 
 
 ##### Section VII bis : Identification des assujettis non établis dans la Communauté européenne fournissant des services par voie électronique
@@ -23977,8 +24071,8 @@ d. Le cours de l'or fin sur le marché libre au jour de la livraison.
 
 ###### Article 98 C
 
-Sont considérés comme des services fournis par voie électronique au sens du 12° de l'article 259 B du code général des
-impôts : 
+Sont considérés notamment comme des services fournis par voie électronique au sens du 12° de l'article 259 B du code général
+des impôts : 
 
 a. La fourniture et l'hébergement de sites informatiques, la maintenance à distance de programmes et d'équipement ; 
 
@@ -23989,21 +24083,20 @@ c. La fourniture d'images, de textes et d'informations et la mise à disposition
 d. La fourniture de musique, de films et de jeux, y compris les jeux de hasard ou d'argent, et d'émissions ou de
 manifestations politiques, culturelles, artistiques, sportives, scientifiques ou de divertissement ; 
 
-e. La fourniture de services d'enseignement à distance.
+e. La fourniture de services d'enseignement à distance ;
+
+Lorsque le prestataire de services et le preneur communiquent par courrier électronique, cela ne signifie pas en soi que le
+service est fourni par voie électronique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-658 du 18 juillet 2003 - art. 1 () JORF 20 juillet 2003
+	  - Décret n°2010-789 du 12 juillet 2010 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 259 B (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
+	  - Code général des impôts, CGI. - art. 259 B
 
 
 ##### Section IX : Exploitants agricoles
