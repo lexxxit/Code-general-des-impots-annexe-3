@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-07-15
+Version Consolidée au 2010-07-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12736,6 +12736,32 @@ de la deuxième année suivant celle de la conclusion du prêt.
 	  - Code général des impôts, CGI. - art. 200 quaterdecies
 	  - Code général des impôts, CGI. - art. 6
 	  - Code de l'urbanisme - art. R*424-16
+
+
+##### 17° : Réduction d'impôt accordée au titre des investissements locatifs
+
+###### Article 46 AZA octies
+
+Les logements mentionnés au sixième alinéa du IV de l'article 199 septvicies du code général des impôts s'entendent de ceux
+bénéficiant du label " bâtiment basse consommation énergétique, BBC 2005 " mentionné au 5° de l'article 2 de l'arrêté du 3
+mai 2007 relatif au contenu et aux conditions d'attribution du label "haute performance énergétique".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-823 du 20 juillet 2010 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 30 décembre 2010 - art. 8 (M)
+	  - Arrêté du 5 mars 2012 - art. 1 (V)
+	  - Arrêté du 5 mars 2012 - art. 6 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies-0 A (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 septvicies
 
 
 ##### 18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques
