@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-09-04
+Version Consolidée au 2010-10-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -35458,6 +35458,27 @@ région.
 	  - Code de commerce - art. R123-221
 	  - Code général des impôts, CGI. - art. 1649 A ter
 
+
+###### Article 328 O
+
+Pour l'application de l'article 1599 quater bis du code général des impôts, les entreprises transmettent une déclaration au
+service de fiscalité directe locale de la direction départementale des finances publiques des Hauts-de-Seine, au moyen d'un
+support papier ou dématérialisé dont les caractéristiques sont fixées par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1185 du 8 octobre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 quater A bis (V)
+
+
+### Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics
+
+#### Chapitre unique : Imposition forfaitaire sur les entreprises de réseaux
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
 
