@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2010-12-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -69,10 +69,9 @@ Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code g
 ressources du locataire sont les suivants : 
 
 a) Pour les baux conclus en 2010, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,37 euros par mètre
-carré en zone A, 11,35 euros en zone B et 8,22 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
-la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et
-des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro
-supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence. 
+carré en zone A,11,35 euros en zone B et 8,22 euros en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon
+les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
+centime d'euro le plus proche. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. 
@@ -90,194 +89,193 @@ Pour les baux conclus en 2010, les plafonds annuels de ressources sont les suiva
 <table>
   <tbody>
     <tr>
-      <th>
+      <td rowspan="2" align="center" valign="middle">
 
 COMPOSITION DU FOYER LOCATAIRE
 
-</th>
-      <th colspan="3">
+</td>
+      <td valign="top" align="left" colspan="3">
 
-LIEU DE LOCATION
+LIEU DE LOCATION 
 
-</th>
+</td>
     </tr>
     <tr>
-      <th>
-      </th><th>
+      <td align="left" valign="top">
 
 Zone A (en €)
 
-</th>
-      <th>
+</td>
+      <td align="left" valign="top">
 
-Zone B (en €)
+Zone B (en €) 
 
-</th>
-      <th>
+</td>
+      <td valign="top" align="left">
 
-Zone C (en €)
+Zone C (en €) 
 
-</th>
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Personne seule
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-44 306 €
-
-</td>
-      <td align="center">
-
-34 243 €
+44 306 € 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-29 964 €
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Couple
+34 243 € 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-66 215 €
-
-</td>
-      <td align="center">
-
-45 726 €
-
-</td>
-      <td align="center">
-
-40 274 €
+29 964 € 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Personne seule ou couple ayant une personne à charge
-
-</td>
-      <td align="center">
-
-79 595 €
+Couple 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-54 988 €
-
-</td>
-      <td align="center">
-
-48 214 €
+66 215 € 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
-Personne seule ou couple ayant deux personnes à charge
+45 726 € 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-95 342 €
-
-</td>
-      <td align="center">
-
-66 381 €
-
-</td>
-      <td align="center">
-
-58 350 €
+40 274 € 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Personne seule ou couple ayant trois personnes à charge
-
-</td>
-      <td align="center">
-
-112 867 €
+Personne seule ou couple ayant une personne à charge 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-78 087 €
-
-</td>
-      <td align="center">
-
-68 484 €
+79 595 € 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Personne seule ou couple ayant quatre personnes à charge
+54 988 € 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-127 005 €
-
-</td>
-      <td align="center">
-
-88 000 €
-
-</td>
-      <td align="center">
-
-77 251 €
+48 214 € 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Majoration par personne à charge à partir de la cinquième
-
-</td>
-      <td align="center">
-
-+ 14 156 €
+Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-+ 9 816 €
+95 342 € 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-+ 8 774 €
+66 381 € 
+
+</td>
+      <td align="left" valign="top">
+
+58 350 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+      <td valign="top" align="left">
+
+112 867 € 
+
+</td>
+      <td valign="top" align="left">
+
+78 087 € 
+
+</td>
+      <td align="left" valign="top">
+
+68 484 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+      <td valign="top" align="left">
+
+127 005 € 
+
+</td>
+      <td align="left" valign="top">
+
+88 000 € 
+
+</td>
+      <td valign="top" align="left">
+
+77 251 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Majoration par personne à charge à partir de la cinquième 
+
+</td>
+      <td valign="top" align="left">
+
++ 14 156 € 
+
+</td>
+      <td valign="top" align="left">
+
++ 9 816 € 
+
+</td>
+      <td valign="top" align="left">
+
++ 8 774 € 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
-Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente. 
+Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au dernier alinéa de l'article L. 441-1
+du code de la construction et de l'habitation et arrondis à l'euro le plus proche. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
@@ -309,15 +307,13 @@ n° 2006-1005 du 10 août 2006.
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2010-1601 du 20 décembre 2010 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1417
-	  - Code général des impôts, CGI. - art. 196
-	  - Code général des impôts, CGI. - art. 31
-	  - Code de la construction et de l'habitation. - art. R*111-2
-	  - Code de la construction et de l'habitation. - art. R353-16
+	  - Code de la construction et de l'habitation. - art. L353-9-2
+	  - Code de la construction et de l'habitation. - art. L441-1
+	  - Code de la construction et de l'habitation. - art. R*111-2 (V)
 
 
 ###### Article 2 novodecies
@@ -1190,29 +1186,35 @@ l'application de l'article 2 duodecies.
 ###### Article 2 terdecies B
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
-mensuel, charges non comprises, sont fixés, pour les baux conclus en 2010, à 21,72 euros par mètre carré en zone A, 15,10
-euros en zone B 1, 12,35 euros en zone B 2 et 9,05 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier,
-selon les mêmes modalités que les plafonds de loyer prévus à l'article 2 duodecies. 
+mensuel, par mètre carré, charges non comprises, sont fixés : 
+
+a.S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2010, à 21,72 euros en zone A,
+15,10 euros en zone B 1, 12,35 euros en zone B 2 et 9,05 euros en zone C ; 
+
+b.S'agissant des logements acquis ou construits à compter du 1er janvier 2011 ou des logements acquis par des sociétés
+civiles de placement immobilier en tout ou partie au moyen de souscriptions réalisées à compter de cette même date, pour les
+baux conclus en 2011, à 21,70 euros en zone A bis, 16,10 euros dans le reste de la zone A, 13 euros en zone B 1, 10,60 euros
+en zone B 2 et 6,10 euros en zone C. 
+
+Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa
+du a de l'article 2 duodecies. 
 
 Pour les baux conclus à compter de la date d'entrée en vigueur du décret n° 2009-1672 du 28 décembre 2009, les plafonds de
 loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue
-à l'article 199 septvicies  du code général des impôts sont égaux aux montants mentionnés au troisième alinéa de l'article 2
+à l'article 199 septvicies du code général des impôts sont égaux aux montants mentionnés au cinquième alinéa de l'article 2
 terdecies C, majorés :
 
 - d'un quart pour les départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Mayotte ;
 
 - d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie, Saint-Pierre-et-Miquelon et les îles Wallis et Futuna. 
 
-Les résultats ainsi obtenus sont arrondis au centime d'euro supérieur. 
+Les résultats ainsi obtenus sont arrondis au centime d'euro le plus proche. 
 
-Pour l'application du premier alinéa, les zones A, B 1, B 2 et C sont définies par arrêté des ministres chargés du budget et
-du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est la même que celle
-prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du deuxième alinéa, la surface habitable à
-prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III de l'article 46 AG terdecies.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 1 G du décret n° 2006-1005 du 10 août 2006.
+Pour l'application des deuxième et troisième alinéas, les zones A, A bis, B 1, B 2 et C sont définies par arrêté des
+ministres chargés du budget et du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de
+loyer est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du cinquième alinéa,
+la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III de l'article
+46 AG terdecies.
 
 **Liens relatifs à cet article**
 
@@ -1229,17 +1231,14 @@ Modifications effectuées en conséquence de l'article 1 G du décret n° 2006-1
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (M)
 
-	**Cite**:
-
-	  - Décret n°2009-1672 du 28 décembre 2009
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
-	  - Code général des impôts, CGI. - art. 199 septvicies
-	  - Code général des impôts, CGI. - art. 31
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2010-1601 du 20 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
+	  - Code général des impôts, CGI. - art. 31
 
 
 ###### Article 2 terdecies C
@@ -1247,13 +1246,18 @@ Modifications effectuées en conséquence de l'article 1 G du décret n° 2006-1
 Pour l'application du l du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de ressources du
 locataire sont les suivants : 
 
-a. Pour les baux conclus en 2010, les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes,
-arrondis au centime d'euro supérieur, de ceux mentionnés au premier alinéa de l'article 2 terdecies B. 
+a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus
+proche, de ceux mentionnés au :
+
+- a de l'article 2 terdecies B, pour les baux conclus en 2010, s'agissant de logements autres que ceux visés au b de ce même
+article ;
+
+- b de l'article 2 terdecies B, pour les baux conclus en 2011, s'agissant de logements visés au b de ce même article. 
 
 Pour les baux conclus à compter de la date d'entrée en vigueur du décret n° 2009-1672 du 28 décembre 2009, les plafonds de
 loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue
-à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 9, 5 € dans les
-départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 12, 6 € en Polynésie française, en Nouvelle-
+à l'article 199 septvicies du code général des impôts sont égaux, par mètre carré de surface habitable, à 9,5 € dans les
+départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à 12,6 € en Polynésie française, en Nouvelle-
 Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont relevés au 1er janvier de chaque
 année selon les modalités définies au 1 de l'article 46 AG duodecies. 
 
@@ -1264,226 +1268,240 @@ signature du contrat de location.
 Pour les baux conclus en 2010, les plafonds annuels de ressources sont les suivants : 
 
 <table>
-    <tbody>
-      <tr>
-        <th rowspan="2">COMPOSITION DU FOYER LOCATAIRE
+  <tbody>
+    <tr>
+      <td align="center" rowspan="2">
 
-</th>
-        <th colspan="4">
-
-LIEU DE LOCATION
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-Zone A (en €)
-
-</th>
-        <th>
-
-Zone B1 (en €)
-
-</th>
-        <th>
-
-Zone B2 (en €)
-
-</th>
-        <th>
-
-Zone C (en €)
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule
+COMPOSITION DU FOYER LOCATAIRE 
 
 </td>
-        <td align="center">
+      <td colspan="4" align="center">
 
-44 306 €
-
-</td>
-        <td align="center">
-
-32 910 €
+LIEU DE LOCATION 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td>
 
-30 168 €
+Zone A 
 
-</td>
-        <td align="center">
-
-29 964 €
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Couple
+(en €) 
 
 </td>
-        <td align="center">
+      <td>
 
-66 215 €
+Zone B1 
 
-</td>
-        <td align="center">
-
-48 328 €
+(en €) 
 
 </td>
-        <td align="center">
+      <td>
 
-44 302 €
+Zone B2 
 
-</td>
-        <td align="center">
-
-40 274 €
+(en €) 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td>
 
-Personne seule ou couple ayant une personne à charge
+Zone C 
 
-</td>
-        <td align="center">
-
-79 595 €
+(en €) 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td>
 
-57 857 €
-
-</td>
-        <td align="center">
-
-53 036 €
+Personne seule 
 
 </td>
-        <td align="center">
+      <td>
 
-48 214 €
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge
+44 306 € 
 
 </td>
-        <td align="center">
+      <td>
 
-95 342 €
-
-</td>
-        <td align="center">
-
-70 020 €
+32 910 € 
 
 </td>
-        <td align="center">
+      <td>
 
-64 185 €
-
-</td>
-        <td align="center">
-
-58 350 €
+30 168 € 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td>
 
-Personne seule ou couple ayant trois personnes à charge
+29 964 € 
 
 </td>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-112 867 €
-
-</td>
-        <td align="center">
-
-82 181 €
+Couple 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-75 334 €
-
-</td>
-        <td align="center">
-
-68 484 €
+66 215 € 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+      <td align="center">
 
-Personne seule ou couple ayant quatre personnes à charge
+48 328 € 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-127 005 €
-
-</td>
-        <td align="center">
-
-92 700 €
+44 302 € 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-84 976 €
-
-</td>
-        <td align="center">
-
-77 251 €
+40 274 € 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
-Majoration par personne à charge supplémentaire à partir de la cinquième
-
-</td>
-        <td align="center">+ 14 156 €</td>
-        <td align="center">
-
-+ 10 530 €
+Personne seule ou couple ayant une personne à charge 
 
 </td>
-        <td align="center">
+      <td align="center">
 
-+ 9 652 €
-
-</td>
-        <td align="center">
-
-+ 8 774 €
+79 595 € 
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+      <td align="center">
+
+57 857 € 
+
+</td>
+      <td align="center">
+
+53 036 € 
+
+</td>
+      <td align="center">
+
+48 214 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule ou couple ayant deux personnes à charge 
+
+</td>
+      <td align="center">
+
+95 342 € 
+
+</td>
+      <td align="center">
+
+70 020 € 
+
+</td>
+      <td align="center">
+
+64 185 € 
+
+</td>
+      <td align="center">
+
+58 350 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+      <td align="center">
+
+112 867 € 
+
+</td>
+      <td align="center">
+
+82 181 € 
+
+</td>
+      <td align="center">
+
+75 334 € 
+
+</td>
+      <td align="center">
+
+68 484 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+      <td align="center">
+
+127 005 € 
+
+</td>
+      <td align="center">
+
+92 700 € 
+
+</td>
+      <td align="center">
+
+84 976 € 
+
+</td>
+      <td align="center">
+
+77 251 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Majoration par personne à charge supplémentaire à partir de la cinquième 
+
+</td>
+      <td align="center">
+
++ 14 156 € 
+
+</td>
+      <td align="center">
+
++ 10 530 € 
+
+</td>
+      <td align="center">
+
++ 9 652 € 
+
+</td>
+      <td align="center">
+
++ 8 774 € 
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
 l'article 2 duodecies. 
@@ -1495,10 +1513,10 @@ général des impôts sont les suivants :
 <table>
   <tbody>
     <tr>
-      <th>
+      <td>
 
-</th>
-      <th>
+</td>
+      <td>
 
 DÉPARTEMENTS D'OUTRE-MER 
 
@@ -1506,18 +1524,16 @@ Saint-Martin, Saint-Barthélemy, Mayotte
 
 (en euros) 
 
-</th>
-      <th>
+</td>
+      <td>
 
 POLYNÉSIE FRANÇAISE 
 
-Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, 
-
-îles Wallis-et-Futuna 
+Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, îles Wallis-et-Futuna 
 
 (en euros) 
 
-</th>
+</td>
     </tr>
     <tr>
       <td align="center">
@@ -1646,27 +1662,23 @@ Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts. 
 
-Pour l'application du présent article, les zones A, B 1, B 2 et C sont définies par arrêté des ministres chargés du budget et
-du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer mentionnés au premier
-alinéa du a est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du second
-alinéa du a, la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III
-de l'article 46 AG terdecies.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 1 G du décret n° 2006-1005 du 10 août 2006.
+Pour l'application du présent article, les zones A, A bis, B 1, B 2 et C sont définies par arrêté des ministres chargés du
+budget et du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer mentionnés au
+premier alinéa du a est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du
+quatrième alinéa du a, la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle
+déterminée au III de l'article 46 AG terdecies.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°2009-1672 du 28 décembre 2009
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
-	  - Code général des impôts, CGI. - art. 1417
-	  - Code général des impôts, CGI. - art. 196
-	  - Code général des impôts, CGI. - art. 199 septvicies
-	  - Code général des impôts, CGI. - art. 31
+	  - Décret n°2009-1672 du 28 décembre 2009 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies (V)
+	  - Code général des impôts, CGI. - art. 1417 (V)
+	  - Code général des impôts, CGI. - art. 196 (V)
+	  - Code général des impôts, CGI. - art. 199 septvicies (V)
+	  - Code général des impôts, CGI. - art. 31 (V)
 
 	**Cité par**:
 
@@ -1679,7 +1691,7 @@ Modifications effectuées en conséquence de l'article 1 G du décret n° 2006-1
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2010-1601 du 20 décembre 2010 - art. 1
 
 
 ###### Article 2 vicies

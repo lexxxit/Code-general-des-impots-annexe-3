@@ -4,10 +4,9 @@ Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code g
 ressources du locataire sont les suivants : 
 
 a) Pour les baux conclus en 2010, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,37 euros par mètre
-carré en zone A, 11,35 euros en zone B et 8,22 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, dans
-la même proportion que la variation de l'indice de référence des loyers publié par l'Institut national de la statistique et
-des études économiques, prise en pourcentage et deux chiffres après la virgule, à un niveau arrondi au centime d'euro
-supérieur. L'indice mentionné ci-dessus est le dernier indice connu au 1er novembre qui précède la date de référence. 
+carré en zone A,11,35 euros en zone B et 8,22 euros en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon
+les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
+centime d'euro le plus proche. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. 
@@ -25,194 +24,193 @@ Pour les baux conclus en 2010, les plafonds annuels de ressources sont les suiva
 <table>
   <tbody>
     <tr>
-      <th>
+      <td rowspan="2" align="center" valign="middle">
 
 COMPOSITION DU FOYER LOCATAIRE
 
-</th>
-      <th colspan="3">
+</td>
+      <td valign="top" align="left" colspan="3">
 
-LIEU DE LOCATION
+LIEU DE LOCATION 
 
-</th>
+</td>
     </tr>
     <tr>
-      <th>
-      </th><th>
+      <td align="left" valign="top">
 
 Zone A (en €)
 
-</th>
-      <th>
+</td>
+      <td align="left" valign="top">
 
-Zone B (en €)
+Zone B (en €) 
 
-</th>
-      <th>
+</td>
+      <td valign="top" align="left">
 
-Zone C (en €)
+Zone C (en €) 
 
-</th>
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Personne seule
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-44 306 €
-
-</td>
-      <td align="center">
-
-34 243 €
+44 306 € 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-29 964 €
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Couple
+34 243 € 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-66 215 €
-
-</td>
-      <td align="center">
-
-45 726 €
-
-</td>
-      <td align="center">
-
-40 274 €
+29 964 € 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Personne seule ou couple ayant une personne à charge
-
-</td>
-      <td align="center">
-
-79 595 €
+Couple 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-54 988 €
-
-</td>
-      <td align="center">
-
-48 214 €
+66 215 € 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
-Personne seule ou couple ayant deux personnes à charge
+45 726 € 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-95 342 €
-
-</td>
-      <td align="center">
-
-66 381 €
-
-</td>
-      <td align="center">
-
-58 350 €
+40 274 € 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Personne seule ou couple ayant trois personnes à charge
-
-</td>
-      <td align="center">
-
-112 867 €
+Personne seule ou couple ayant une personne à charge 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-78 087 €
-
-</td>
-      <td align="center">
-
-68 484 €
+79 595 € 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Personne seule ou couple ayant quatre personnes à charge
+54 988 € 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-127 005 €
-
-</td>
-      <td align="center">
-
-88 000 €
-
-</td>
-      <td align="center">
-
-77 251 €
+48 214 € 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="top">
 
-Majoration par personne à charge à partir de la cinquième
-
-</td>
-      <td align="center">
-
-+ 14 156 €
+Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-      <td align="center">
+      <td valign="top" align="left">
 
-+ 9 816 €
+95 342 € 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
-+ 8 774 €
+66 381 € 
+
+</td>
+      <td align="left" valign="top">
+
+58 350 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+      <td valign="top" align="left">
+
+112 867 € 
+
+</td>
+      <td valign="top" align="left">
+
+78 087 € 
+
+</td>
+      <td align="left" valign="top">
+
+68 484 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+      <td valign="top" align="left">
+
+127 005 € 
+
+</td>
+      <td align="left" valign="top">
+
+88 000 € 
+
+</td>
+      <td valign="top" align="left">
+
+77 251 € 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Majoration par personne à charge à partir de la cinquième 
+
+</td>
+      <td valign="top" align="left">
+
++ 14 156 € 
+
+</td>
+      <td valign="top" align="left">
+
++ 9 816 € 
+
+</td>
+      <td valign="top" align="left">
+
++ 8 774 € 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Ces plafonds sont révisés chaque année, au 1er janvier, en fonction de l'évolution annuelle du salaire minimum de croissance.
-Cette variation est appréciée entre le 1er octobre de l'avant-dernière année et le 1er octobre de l'année précédente. 
+Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au dernier alinéa de l'article L. 441-1
+du code de la construction et de l'habitation et arrondis à l'euro le plus proche. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
@@ -244,12 +242,10 @@ n° 2006-1005 du 10 août 2006.
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2010-1601 du 20 décembre 2010 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1417
-	  - Code général des impôts, CGI. - art. 196
-	  - Code général des impôts, CGI. - art. 31
-	  - Code de la construction et de l'habitation. - art. R*111-2
-	  - Code de la construction et de l'habitation. - art. R353-16
+	  - Code de la construction et de l'habitation. - art. L353-9-2
+	  - Code de la construction et de l'habitation. - art. L441-1
+	  - Code de la construction et de l'habitation. - art. R*111-2 (V)
