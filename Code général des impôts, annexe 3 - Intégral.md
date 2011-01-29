@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -22170,6 +22170,32 @@ correspondantes.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 72 (V)
+
+
+###### Article 73-0 A
+
+Pour l'application du deuxième alinéa de l'article 298 septies du code général des impôts, les taux réduits de la taxe sur la
+valeur ajoutée s'appliquent à hauteur de la part du prix hors taxe de l'offre composite représentative de la livraison de la
+publication imprimée. La détermination de cette part par l'éditeur peut être réalisée selon toute méthode traduisant la
+réalité économique des opérations.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article unique de la loi n° 2014-237 du 27 février 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-115 du 27 janvier 2011 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 298 septies
 
 
 ##### C : Transports, opérations et services exonérés
