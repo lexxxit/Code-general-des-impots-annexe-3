@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-01-30
+Version Consolidée au 2011-02-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -23412,42 +23412,43 @@ scénographie.
 
 ###### Article 95
 
-I. Les assujettis établis dans un autre Etat membre de la Communauté européenne, identifiés à la taxe sur la valeur ajoutée
-en France, doivent souscrire les déclarations prescrites par l'article 286 et le 1 de l'article 287 du code général des
-impôts auprès du service de l'administration fiscale chargé des résidents à l'étranger et des services généraux.
+I. Les assujettis établis dans un autre Etat membre de l'Union européenne, identifiés à la taxe sur la valeur ajoutée en
+France, doivent souscrire les déclarations prescrites par l'article 286 et le 1 de l'article 287 du code général des impôts
+auprès du service de l'administration fiscale chargé des résidents à l'étranger et des services généraux. 
 
-Par dérogation aux dispositions du premier alinéa, les assujettis établis dans un autre Etat membre de la Communauté
-européenne, qui ont désigné en France, avant le 1er janvier 2002, un représentant mentionné à l'article 289 A du code général
-des impôts, continuent à déposer les déclarations mentionnées au précédent alinéa auprès du service des impôts dont dépend le
-lieu d'imposition de ce représentant.
+Par dérogation aux dispositions du premier alinéa, les assujettis établis dans un autre Etat membre de l'Union européenne,
+qui disposent en France d'immeubles donnés en location et ne réalisent pas d'autres opérations pour lesquelles ils sont
+redevables de la taxe en France, déposent les déclarations mentionnées au premier alinéa auprès du service des impôts du lieu
+de situation de l'immeuble. Si l'application de cette règle conduit à une pluralité de lieux de dépôt, les redevables
+souscrivent leurs obligations déclaratives auprès du service de l'administration fiscale chargé des résidents à l'étranger et
+des services généraux à l'exception des personnes propriétaires d'immeubles loués meublés, et dont les loyers sont imposés à
+l'impôt sur le revenu dans la catégorie des bénéfices industriels et commerciaux, qui déposent leurs déclarations auprès du
+service des impôts du lieu de situation du bien générateur du chiffre d'affaires le plus élevé.
 
-II. Les assujettis établis dans un autre Etat membre de la Communauté européenne ne sont pas tenus de solliciter en France un
+II. Les assujettis établis dans un autre Etat membre de l'Union européenne ne sont pas tenus de solliciter en France un
 numéro d'identification à la taxe sur la valeur ajoutée et de déposer une déclaration lorsqu'ils y réalisent exclusivement
-des opérations mentionnées au I de l'article 277 A du code général des impôts.
+des opérations mentionnées au I de l'article 277 A du code général des impôts. 
 
-III. Les assujettis établis dans un autre Etat membre de la Communauté européenne, qui réalisent des opérations imposables en
+III. Les assujettis établis dans un autre Etat membre de l'Union européenne, qui réalisent des opérations imposables en
 France ou qui doivent y accomplir des formalités, peuvent désigner un mandataire pour effectuer, sous la responsabilité
 exclusive de leur mandant, tout ou partie des formalités incombant à ces personnes et, en cas d'opérations imposables, pour
 acquitter la taxe en leur nom.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 287, 286, 289 A, 277 A
-
-	**Créé par**:
-
-	  - Décret n°2002-28 du 8 janvier 2002 - art. 2 () JORF 9 janvier 2002 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-28 du 8 janvier 2002 - art. 7, v. init.
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2010-1726 du 30 décembre 2010 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 J (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 277 A
+	  - Code général des impôts, CGI. - art. 286
+	  - Code général des impôts, CGI. - art. 287
 
 
 ###### Article 95 A
@@ -31145,26 +31146,23 @@ I. ― Les redevables établis en France acquittent le droit mentionné à l'art
 comptable du service des impôts du siège de la direction de l'entreprise, ou, à défaut, du principal établissement.
 Toutefois, les redevables mentionnés à l'article 344-0 A acquittent le droit fixe au service chargé des grandes entreprises. 
 
-II. ― Les redevables établis dans un autre Etat membre de la Communauté européenne acquittent le droit fixe auprès de la
-recette de la direction des résidents à l'étranger et des services généraux. 
+II. ― Les redevables établis dans un autre Etat membre de l'Union européenne acquittent le droit fixe auprès du service des
+impôts des entreprises étrangères. 
 
-Par dérogation aux dispositions du premier alinéa, les redevables établis dans un autre Etat membre de la Communauté
-européenne, qui ont désigné en France, avant le 1er janvier 2002, un représentant mentionné à l'article 289 A du code général
-des impôts, acquittent le droit fixe auprès du service des impôts dont dépend le lieu d'imposition de ce représentant. 
-
-III. ― Les redevables non établis dans la Communauté européenne acquittent le droit fixe auprès du service des impôts des
+III. ― Les redevables non établis dans l'Union européenne acquittent le droit fixe auprès du service des impôts des
 entreprises dont dépend le lieu d'imposition du représentant désigné en application de l'article 289 A du code général des
 impôts, ou à défaut, de l'article 302 bis ZN du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-494 du 14 mai 2010 - art. 1
+	  - Décret n°2010-1726 du 30 décembre 2010 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
+	  - Code général des impôts, CGI. - art. 1012 (V)
 	  - Code général des impôts, CGI. - art. 289 A
 	  - Code général des impôts, CGI. - art. 302 bis ZN
 
