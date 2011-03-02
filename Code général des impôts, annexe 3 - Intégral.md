@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-02-01
+Version Consolidée au 2011-03-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -12410,6 +12410,87 @@ Article devenu sans objet en conséquence de l'article 107 de la loi n° 2010-16
 	  - Code monétaire et financier - art. D221-115
 
 
+##### 11° bis : Réduction d'impôt accordée au titre des dons faits par les particuliers 
+
+###### Article 46 AW bis
+
+La demande d'agrément mentionnée au 4 bis de l'article 200 du code général des impôts est présentée en langue française sur
+papier libre, conformément à un modèle fixé par arrêté des ministres chargés de l'économie et du budget, auprès des services
+centraux de la direction générale des finances publiques par l'organisme ayant son siège dans un Etat membre de l'Union
+européenne ou dans un Etat partie à l'Espace économique européen ayant conclu avec la France une convention fiscale contenant
+une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale. 
+
+Sont jointes à la demande les pièces justificatives dont la liste est fixée par arrêté des ministres chargés de l'économie et
+du budget et leur traduction en langue française, attestant que l'organisme poursuit des objectifs et présente des
+caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions prévues à l'article 200
+du code général des impôts. 
+
+Les demandes de renouvellement d'agrément sont présentées selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AW quater (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200
+
+
+###### Article 46 AW quater
+
+I. ― Le montant des dons aux organismes mentionnés au 4 bis de l'article 200 du code général des impôts est indiqué
+distinctement sur la déclaration de revenus prévue à l'article 170 du même code de l'année au titre de laquelle les dons sont
+effectués. 
+
+II. ― Pour l'application du deuxième alinéa du 4 bis de l'article 200, les pièces à fournir dans le délai de dépôt de la
+déclaration sont celles mentionnées au deuxième alinéa de l'article 46 AW bis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AW bis
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 200
+
+
+###### Article 46 AW ter
+
+I. ― La décision est prise par le ministre chargé du budget. Sa décision est notifiée à l'organisme, elle est motivée en cas
+de refus.
+
+II. ― L'agrément accordé au titre d'une première demande porte sur la période comprise entre la date de sa notification et le
+31 décembre de la troisième année qui suit cette date.
+
+Les demandes de renouvellement doivent être présentées au plus tard le 30 juin de la dernière année couverte par l'agrément.
+En cas de renouvellement, l'agrément est accordé pour une période de trois ans courant à compter du 1er janvier suivant. En
+cas de refus de renouvellement d'agrément, l'agrément en cours produit ses effets jusqu'à son terme.
+
+III. ― La liste des organismes agréés est publiée sur le site internet de l'administration fiscale. Cette liste est
+actualisée à chaque décision d'agrément.
+
+IV. ― L'agrément peut être retiré par décision motivée du ministre chargé du budget lorsqu'il est établi que l'organisme, en
+totalité ou en partie, ne poursuit plus d'objectifs ou ne présente plus de caractéristiques similaires aux organismes dont le
+siège est situé en France répondant aux conditions prévues à l'article 200 du code général des impôts. Cette décision est
+notifiée à l'organisme et la liste mentionnée au III est actualisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 1
+
+
 ##### 12° : Crédit d'impôt en faveur des jeunes prenant un métier rencontrant des difficultés de recrutement
 
 ###### Article 46 AX bis
@@ -17551,6 +17632,88 @@ publiées dans les formes et conditions fixées par arrêté.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2004
+
+
+###### Article 46 quindecies QA
+
+La demande d'agrément mentionnée au 4 bis de l'article 238 bis du code général des impôts est présentée en langue française
+sur papier libre, conformément à un modèle fixé par arrêté des ministres de l'économie et du budget, auprès des services
+centraux de la direction générale des finances publiques par l'organisme ayant son siège dans un Etat membre de l'Union
+européenne ou dans un Etat partie à l'Espace économique européen ayant conclu avec la France une convention fiscale contenant
+une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale. 
+
+Sont jointes à la demande les pièces justificatives dont la liste est fixée par arrêté des ministres chargés de l'économie et
+du budget et leur traduction en langue française, attestant que l'organisme poursuit des objectifs et présente des
+caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions prévues à l'article 238
+bis du code général des impôts. 
+
+Les demandes de renouvellement d'agrément sont présentées selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 2
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies QC (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis
+
+
+###### Article 46 quindecies QB
+
+I. ― La décision est prise par le ministre chargé du budget. Sa décision est notifiée à l'organisme, elle est motivée en cas
+de refus. 
+
+II. ― L'agrément accordé au titre d'une première demande porte sur une période comprise entre la date de sa notification et
+le 31 décembre de la troisième année qui suit cette date. 
+
+Les demandes de renouvellement doivent être présentées au plus tard le 30 juin de la dernière année couverte par l'agrément.
+En cas de renouvellement, l'agrément est accordé pour une période de trois ans courant à compter du 1er janvier suivant. En
+cas de refus de renouvellement d'agrément, l'agrément en cours produit ses effets jusqu'à son terme. 
+
+III. ― La liste des organismes agréés est publiée sur le site internet de l'administration fiscale. Cette liste est
+actualisée à chaque décision d'agrément. 
+
+IV. ― L'agrément peut être retiré par décision motivée du ministre chargé du budget lorsqu'il est établi que l'organisme, en
+totalité ou en partie, ne poursuit plus d'objectifs ou ne présente plus de caractéristiques similaires aux organismes dont le
+siège est situé en France répondant aux conditions prévues à l'article 238 bis du code général des impôts. Cette décision est
+notifiée à l'organisme et la liste mentionnée au III est actualisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis
+
+
+###### Article 46 quindecies QC
+
+I. ― Le montant des dons aux organismes mentionnés au 4 bis de l'article 238 bis du code général des impôts est indiqué
+distinctement sur la déclaration spéciale prévue à l'article 49 septies X. 
+
+II. ― Pour l'application du deuxième alinéa du 4 bis de l'article 238 bis, les pièces à fournir dans le délai de dépôt de la
+déclaration spéciale sont celles mentionnées au deuxième alinéa de l'article 46 quindecies QA.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies QA
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies X
+	  - Code général des impôts, CGI. - art. 238 bis
 
 
 ##### Section 0I septies : Financement en capital des sociétés d'approvisionnement à long terme d'électricité
@@ -30317,6 +30480,57 @@ IV.- (Abrogé à compter du 6 août 2010).
 	  - Code monétaire et financier - art. L214-41
 
 
+###### Article 299 decies
+
+La demande d'agrément mentionnée au douzième alinéa de l'article 885-0 V bis A du code général des impôts est présentée en
+langue française sur papier libre, conformément à un modèle fixé par arrêté des ministres chargés de l'économie et du budget,
+auprès des services centraux de la direction générale des finances publiques par l'organisme ayant son siège dans un Etat
+membre de l'Union européenne ou dans un Etat partie à l'Espace économique européen ayant conclu avec la France une convention
+fiscale contenant une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale. 
+
+Sont jointes à la demande les pièces justificatives dont la liste est fixée par arrêté des ministres chargés de l'économie et
+du budget et leur traduction en langue française, attestant que l'organisme poursuit des objectifs et présente des
+caractéristiques similaires aux organismes dont le siège est situé en France répondant aux conditions prévues à l'article
+885-0 V bis A du code général des impôts. 
+
+Les demandes de renouvellement d'agrément sont présentées selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 3
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 299 duodecies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 885-0 V bis A
+
+
+###### Article 299 duodecies
+
+I. ― Le montant des dons aux organismes mentionnés aux douzième et treizième alinéas du I de l'article 885-0 V bis A du code
+général des impôts est mentionné distinctement sur la déclaration d'impôt de solidarité sur la fortune prévue à l'article 885
+W du même code. 
+
+II. ― Pour l'application du treizième alinéa du I de l'article 885-0 V bis A, les pièces à fournir dans le délai de dépôt de
+la déclaration sont celles mentionnées au deuxième alinéa de l'article 299 decies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 299 decies
+	  - Code général des impôts, CGI. - art. 885-0 V bis A
+
+
 ###### Article 299 nonies
 
 Les pièces justificatives mentionnées à l'article 885-0 V bis A du code général des impôts s'entendent des attestations
@@ -30768,6 +30982,37 @@ Modification effectuée en conséquence des articles 1er-I et 2 du décret n° 2
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 F
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 281 H
 	  - Code général des impôts, CGI. - art. 885 H
+
+
+###### Article 299 undecies
+
+I. ― La décision est prise par le ministre chargé du budget. Sa décision est notifiée à l'organisme, elle est motivée en cas
+de refus. 
+
+II. ― L'agrément accordé au titre d'une première demande porte sur la période comprise entre la date de sa notification et le
+31 décembre de la troisième année qui suit cette date. 
+
+Les demandes de renouvellement doivent être présentées au plus tard le 30 juin de la dernière année couverte par l'agrément.
+En cas de renouvellement, l'agrément est accordé pour une période de trois ans courant à compter du 1er janvier suivant. En
+cas de refus de renouvellement d'agrément, l'agrément en cours produit ses effets jusqu'à son terme. 
+
+III. ― La liste des organismes agréés est publiée sur le site internet de l'administration fiscale. Cette liste est
+actualisée à chaque décision d'agrément. 
+
+IV. ― L'agrément peut être retiré par décision motivée du ministre chargé du budget lorsqu'il est établi que l'organisme, en
+totalité ou en partie, ne poursuit plus d'objectifs ou ne présente plus de caractéristiques similaires aux organismes dont le
+siège est situé en France répondant aux conditions prévues au I de l'article 885-0 V bis A du code général des impôts. Cette
+décision est notifiée à l'organisme et la liste mentionnée au III est actualisée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-225 du 28 février 2011 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 885-0 V bis A
 
 
 #### Chapitre II : Droits de timbre
