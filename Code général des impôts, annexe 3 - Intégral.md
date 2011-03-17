@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-03-14
+Version Consolidée au 2011-03-18
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -31207,6 +31207,38 @@ soumise, de la mention "Droit de timbre payé sur état".
 
 
 
+##### XII : Aide médicale de l'Etat 
+
+###### Article 313 BG quater
+
+Le droit annuel mentionné à l'article 968 E du code général des impôts est acquitté préalablement à la délivrance du titre
+d'admission à l'aide médicale de l'Etat prévu par les articles 2 et 3 du décret n° 2005-860 du 28 juillet 2005 par la remise
+de timbres mobiles au directeur de la caisse d'assurance maladie délégué pour prendre la décision d'admission à l'aide
+médicale de l'Etat en application de l'article 1er du même décret. 
+
+Ce dernier appose sur un document qu'il conserve les timbres mobiles correspondants à chaque titre passible du droit annuel ;
+il en fait l'oblitération de telle manière qu'elle figure partie sur chaque timbre mobile et partie sur ce document.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 41-II et III A de la loi n° 2012-958 du 16 août 2012.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2005-860 du 28 juillet 2005 - art. 2
+	  - Code général des impôts, CGI. - art. 968 E
+
+	**Créé par**:
+
+	  - Décret n°2011-273 du 15 mars 2011 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2013-463 du 3 juin 2013 - art. 4
+
+
 ##### Section III : Dispositions communes aux sections I et II
 
 ###### Article 313 BH
@@ -38571,28 +38603,24 @@ calcul du versement.
 
 ###### Article 357 G
 
-La majoration, établie par l'article 1730 du code général des impôts, pourra faire l'objet de remises ou de modérations,dans
-les conditions qui ont été prévues pour la remise ou la modération de frais de poursuites  en application du 3 de l'article
-1912 dudit code.
+La majoration, établie par l'article 1730 du code général des impôts, pourra faire l'objet de remises ou de modérations, dans
+les conditions qui ont été prévues pour la remise ou la modération de frais de poursuites en application du 2° bis de
+l'article L. 247 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 1730, 1912
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 13 () JORF 8 décembre 2005
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 17 () JORF 8 décembre 2005
+	  - Décret n°2011-276 du 16 mars 2011 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Code général des impôts, CGI. - art. 1730
+	  - Livre des procédures fiscales - art. L247
 
 
 ###### Article 357 H
@@ -41217,6 +41245,8 @@ hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient
 
 ### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects
 
+### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des finances publiques et à ceux de la direction générale des douanes et droits indirects
+
 ###### Article 415
 
 Sont à la charge des redevables poursuivis les frais accessoires ci-après : 
@@ -41291,32 +41321,6 @@ Les autres frais accessoires, tels que frais de transport de l'huissier, salaire
 journaux sont supportés par le Trésor, les communes ou les établissements publics au profit desquels les poursuites sont
 exercées.
 
-
-
-###### Article 416-0 bis
-
-Les comptables publics mentionnés à l'article 1917 du code général des impôts sont les comptables de la direction générale
-des impôts et ceux de la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les
-contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution prévue par
-l'article 527 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1917, 527
-
-	**Modifié par**:
-
-	  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2011-276 du 16 mars 2011 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
 
 
 ## Chapitre II bis : Sûretés et privilèges
