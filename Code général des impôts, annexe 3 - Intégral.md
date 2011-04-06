@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-03-18
+Version Consolidée au 2011-04-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -36015,27 +36015,9 @@ Dispositions devenues sans objet en conséquence de l'article 108-XIX C-1 de la 
 
 ###### Article 328 K
 
-Pour l'application des articles 1519 D et 1519 F du code général des impôts, les entreprises déposent, au moyen d'un support
-papier, auprès du service des impôts dont relève l'installation imposée une déclaration conforme à un modèle établi par
-l'administration.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2010-714 du 28 juin 2010 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1519 D
-	  - Code général des impôts, CGI. - art. 1519 F
-
-
-###### Article 328 L
-
-Pour l'application des articles 1519 E, 1519 G, 1519 H et 1599 quater B du code général des impôts, les entreprises
-transmettent une déclaration au service de fiscalité directe locale de la direction départementale des finances publiques des
-Hauts-de-Seine, au moyen d'un support papier ou dématérialisé dont les caractéristiques sont fixées par l'administration.
+Pour l'application des articles 1519 D, 1519 E, 1519 F, 1519 G, 1519 H, 1519 A et 1599 quater B du code général des impôts,
+les entreprises déposent, au moyen d'un support papier, auprès du service des impôts dont relève l'installation imposée une
+déclaration conforme à un modèle établi par l'administration.
 
 **Nota:**
 
@@ -36044,18 +36026,14 @@ au titre de l'année 2011 et des années suivantes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2010-714 du 28 juin 2010 - art. 1
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2011-369 du 4 avril 2011 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1519 E
-	  - Code général des impôts, CGI. - art. 1519 G
+	  - Code général des impôts, CGI. - art. 1519 D (V)
+	  - Code général des impôts, CGI. - art. 1599 quater B (V)
 
 
 ###### Article 328 M
@@ -36107,19 +36085,91 @@ région.
 
 ###### Article 328 O
 
-Pour l'application de l'article 1599 quater bis du code général des impôts, les entreprises transmettent une déclaration au
-service de fiscalité directe locale de la direction départementale des finances publiques des Hauts-de-Seine, au moyen d'un
-support papier ou dématérialisé dont les caractéristiques sont fixées par l'administration.
+Pour l'application de l'article 1599 quater A bis du code général des impôts, les redevables transmettent une déclaration au
+service des impôts dont relève leur établissement principal, au moyen d'un support papier ou dématérialisé dont les
+caractéristiques sont fixées par l'administration.
+
+**Nota:**
+
+Conformément à l'article 1er V du décret n° 2011-369 du 4 avril 2011, ces dispositions s'appliquent aux impositions établies
+au titre de l'année 2011 et des années suivantes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-369 du 4 avril 2011 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 quater A bis
+
+
+###### Article 328 P
+
+Le propriétaire de transformateurs électriques mentionnés au III de l'article 1519 G du code général des impôts qui font
+l'objet d'un contrat de concession dépose auprès du service des impôts des entreprises dont relève l'installation, au plus
+tard le deuxième jour ouvré suivant le 1er mai de chaque année, la déclaration prévue à l'article 1649 A quater du même code
+au moyen d'un support papier ou dématérialisé dont les caractéristiques sont fixées par l'administration. 
+
+Cette déclaration mentionne : 
+
+1° L'identification du concessionnaire : dénomination sociale, adresse complète et numéro d'identité attribué, le cas
+échéant, conformément aux dispositions du second alinéa de l'article R. 123-221 du code de commerce ; 
+
+2° Le nombre de transformateurs électriques par commune qui font l'objet d'un contrat de concession ; 
+
+3° La tension en amont de chaque transformateur qui fait l'objet d'un contrat de concession.
+
+**Nota:**
+
+Conformément à l'article 1er V du décret n° 2011-369 du 4 avril 2011, ces dispositions s'appliquent aux impositions établies
+au titre de l'année 2011 et des années suivantes.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2010-1185 du 8 octobre 2010 - art. 1
+	  - Décret n°2011-369 du 4 avril 2011 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1599 quater A bis (V)
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, CGI. - art. 1519 G
+	  - Code général des impôts, CGI. - art. 1649 A quater
+
+
+###### Article 328 Q
+
+I. ― Pour l'application de l'article 1599 quater B du code général des impôts, une unité de raccordement d'abonnés s'entend
+comme tout élément du réseau téléphonique commuté avec des équipements en service comportant des accès aux lignes d'abonnés
+et relié directement à un commutateur à autonomie d'acheminement par un faisceau de circuit.
+
+Le réseau téléphonique commuté désigne le réseau téléphonique classique incluant uniquement le service téléphonique, par
+opposition :
+
+1° Au service téléphonique inclus dans les offres haut débit sur internet qui implique l'utilisation d'un autre réseau mais
+l'utilisation de la même boucle locale cuivre ;
+
+2° Aux locations de lignes téléphoniques à des entreprises qui ne relèvent pas en tant que telles du service téléphonique.
+
+II. ― Pour l'application du même article, une carte d'abonné s'entend d'une carte enfichée dans une unité de raccordement
+d'abonnés et comportant au moins un équipement de raccordement d'abonné.
+
+**Nota:**
+
+Conformément à l'article 1er V du décret n° 2011-369 du 4 avril 2011, ces dispositions s'appliquent aux impositions établies
+au titre de l'année 2011 et des années suivantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-369 du 4 avril 2011 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1599 quater B
 
 
 ### Titre II : Impositions perçues au profit de certains établissements publics et d'organismes divers
@@ -41242,8 +41292,6 @@ hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient
 
 
 ## Chapitre II : Procédures
-
-### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables du Trésor, de la direction générale des impôts et de la direction générale des douanes et droits indirects
 
 ### Section IV : Dispositions communes aux impositions dont le recouvrement incombe aux comptables de la direction générale des finances publiques et à ceux de la direction générale des douanes et droits indirects
 
