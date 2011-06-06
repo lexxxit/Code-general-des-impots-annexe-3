@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-05-21
+Version Consolidée au 2011-06-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8123,6 +8123,8 @@ est soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies
 
 ##### G bis : Modalités d'imposition et conditions de ventilation des revenus distribués ou répartis par des organismes de placement collectif en valeurs mobilières (OPCVM)
 
+##### G bis : Modalités d'imposition et conditions de ventilation des revenus distribués ou répartis par des sociétés, organismes ou placements collectifs 
+
 ###### Article 41 sexdecies H
 
 1. Pour l'application du sixième alinéa du 4° du 3 de l'article 158 du code général des impôts, et sans préjudice des autres
@@ -12384,6 +12386,8 @@ b. de la durée de détention des titres dont l'acquisition ouvre droit à cette
 
 ##### 8° bis : Réduction d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet
 
+##### 8° bis : Réduction ou crédit d'impôt accordée au titre des sommes versées pour l'emploi d'un salarié à domicile, à une association agréée ou à un organisme habilité ou conventionné ayant le même objet
+
 ###### Article 46 AO bis
 
 Conformément aux dispositions du premier alinéa de l'article D. 7233-4 du code du travail, l'entreprise ou l'association qui
@@ -12589,6 +12593,8 @@ Article périmé en conséquence de la péremption de l'article 200 decies du co
 
 
 ##### 13° : Réduction apportée au titre de l'aide accordée à certains créateurs d'entreprise
+
+##### 13° : Réduction d'impôt accordée au titre de l'aide apportée à certains créateurs d'entreprise
 
 ###### Article 46 AY
 
@@ -13701,6 +13707,8 @@ inscrites sur les livrets supplémentaires que les caisses d'épargne ont été 
 
 ##### Section III bis : Supplément d'impôt sur les sociétés
 
+##### Section III bis : Détermination des intérêts non déductibles des sommes laissées à disposition d'une entreprise en cas de sous-capitalisation
+
 ###### Article 46 quater-0 BA
 
 Pour l'application des dispositions des cinquième et sixième alinéas du 1 du II de l'article 212 du code général des impôts,
@@ -14442,6 +14450,8 @@ concerné.
 
 
 ##### Section VI quater : Crédit d'impôt pour dépenses de production d'oeuvres cinématographiques ou audiovisuelles
+
+##### Section VI quater : Crédit d'impôt pour dépenses de production déléguée d'oeuvres cinématographiques ou audiovisuelles
 
 ###### Article 46 quater-0 YL
 
@@ -24439,6 +24449,8 @@ e. Un bon de livraison ou un bon d'enlèvement mentionnant un lieu de destinatio
 
 ##### Section VII bis : Identification des assujettis non établis dans la Communauté européenne fournissant des services par voie électronique
 
+##### Section VII bis : Identification des assujettis non établis dans l'Union européenne fournissant des services par voie électronique
+
 ###### Article 97 bis
 
 Le numéro individuel d'identification prévu au 3 de l'article 298 sexdecies F du code général des impôts est composé de
@@ -27520,6 +27532,12 @@ les conditions fixées par l'article 4, paragraphe 2, de la directive 92/83/ CEE
 
 	  - Code général des impôts, CGI. - art. 520 A (V)
 
+
+##### Section II : Vins, cidres, bières et autres boissons fermentées
+
+##### A : Production
+
+##### B : Régime fiscal
 
 ##### Section V : Régimes particuliers
 
@@ -36308,6 +36326,8 @@ par l'arrêté du 23 décembre 1975, comme en matière de taxe sur la valeur ajo
 
 ##### Section II : Redevance sur l'emploi de la reprographie
 
+##### Section II : Taxe sur les appareils de reproduction et d'impression
+
 ###### Article 331 M
 
 Les entreprises qui commercialisent ou se livrent à elles-mêmes des appareils de reproduction ou d'impression sont
@@ -36800,6 +36820,8 @@ septembre de chaque année.
 
 
 ##### Section V : Fonds national de garantie des calamités agricoles
+
+##### Section V : Fonds national de gestion des risques en agriculture
 
 ###### Article 344 undecies
 
