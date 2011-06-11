@@ -3,87 +3,88 @@
 Le contribuable qui, dans les conditions prévues aux II et III de l'article 83 bis du code général des impôts, déduit du
 salaire brut versé par la société rachetée les intérêts d'un emprunt contracté pour souscrire au capital de la société
 nouvelle constituée exclusivement pour le rachat doit joindre à la déclaration des revenus de l'année au titre de laquelle il
-effectue la première déduction de ces intérêts une copie du contrat de prêt et le tableau des échéances de celui-ci.
+effectue la première déduction de ces intérêts une copie du contrat de prêt et le tableau des échéances de celui-ci. 
 
 Il doit joindre également à la déclaration des revenus de l'année au cours de laquelle la souscription au capital de la
 société nouvelle a eu lieu une attestation établie par cette société précisant qu'elle est soumise à l'impôt sur les sociétés
-dans les conditions de droit commun et mentionnant :
+dans les conditions de droit commun et mentionnant : 
 
-a) La raison sociale et le siège de cette société ;
+a) La raison sociale et le siège de cette société ; 
 
-b) La date de sa création ;
+b) La date de sa création ; 
 
-c) La date, le montant et la nature de la souscription ;
+c) La date, le montant et la nature de la souscription ; 
 
-d) La désignation de l'intermédiaire agréé chez lequel les titres souscrits sont déposés ou inscrits en compte.
+d) La désignation de l'intermédiaire agréé chez lequel les titres souscrits sont déposés ou inscrits en compte. 
 
 En cas d'acquisition d'actions en exécution des options mentionnées au III du même article 83 bis, le contribuable doit
 joindre à la déclaration des revenus de l'année au cours de laquelle la levée de l'option a eu lieu une attestation délivrée
-par la société qui a consenti l'option. Cette attestation mentionne :
+par la société qui a consenti l'option. Cette attestation mentionne : 
 
-a) La raison sociale et le siège de la société dont les titres ont été acquis ;
+a) La raison sociale et le siège de la société dont les titres ont été acquis ; 
 
-b) La date à laquelle l'option a été consentie ;
+b) La date à laquelle l'option a été consentie ; 
 
-c) Le nombre de titres acquis ;
+c) Le nombre de titres acquis ; 
 
-d) La date d'acquisition et le prix payé par le salarié.
+d) La date d'acquisition et le prix payé par le salarié. 
 
-Les intermédiaires agréés mentionnés ci-dessus sont :
+Les intermédiaires agréés mentionnés ci-dessus sont : 
 
-a) 1° La Banque de France ;
+a) 1° La Banque de France ; 
 
-2° La Caisse des dépôts et consignations ;
+2° La Caisse des dépôts et consignations ; 
 
-3° Les établissements de crédit ;
+3° Les établissements de crédit ; 
 
-4° Les prestataires de services d'investissement ;
+4° Les prestataires de services d'investissement ; 
 
-5° (disposition devenue sans objet).
+5° (disposition devenue sans objet). 
 
 b) 1° Les entreprises gérant des valeurs acquises dans le cadre de la législation sur les plans d'épargne d'entreprise ou de
-l'actionnariat des salariés ;
+l'actionnariat des salariés ; 
 
 2° Les sociétés dont les actions ne sont pas cotées ou ne sont pas assimilées à des actions cotées pour la souscription de
-celles-ci ;
+celles-ci ; 
 
-3° Les sociétés à responsabilité limitée pour la souscription de leurs parts ;
+3° Les sociétés à responsabilité limitée pour la souscription de leurs parts ; 
 
-4° Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ;
+4° Les gestionnaires ou dépositaires de fonds communs de placement pour la souscription des parts du fonds ; 
 
 5° Les sociétés commerciales pour la souscription des actions reçues en dépôt en application des articles L. 225-25 et L.
-225-72 du code de commerce ;
+225-72 du code de commerce ; 
 
 6° Les coopératives artisanales et leurs unions, les coopératives d'entreprises de transports, les coopératives artisanales
-de transport fluvial ainsi que les coopératives maritimes et leurs unions, visées aux titres I et II et au chapitre Ier du
-titre III de la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale, lorsque
-ces sociétés fonctionnent conformément aux dispositions de la loi précitée, pour la souscription ou la cession de leurs parts
-ou actions ;
+de transport fluvial ainsi que les coopératives maritimes et leurs unions, mentionnées aux titres Ier et II de la loi n°
+83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale et aux articles L. 931-5 à L.
+931-27 du code rural et de la pêche maritime, lorsque ces sociétés fonctionnent conformément aux dispositions de la loi et du
+code précités, pour la souscription ou la cession de leurs parts ou actions ; 
 
 7° Les sociétés coopératives agricoles et leurs unions régies par les articles L. 521-1 à L. 526-2 du code rural et de la
-pêche maritime pour la souscription ou la cession de leurs parts ou actions ;
+pêche maritime pour la souscription ou la cession de leurs parts ou actions ; 
 
 8° Les caisses locales de crédit agricole mutuel ainsi que les caisses de crédit mutuel agricole et rural régies par le titre
 Ier du livre V du code rural et de la pêche maritime, pour la souscription ou la cession de leurs parts.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 4 et 7 de l'ordonnance n° 2010-462 du 6 mai 2010.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 83 bis
-	  - Code rural L521-1 à L526-2
-	  - Loi n°83-657 1983-07-20
-	  - Code de commerce. - art. L225-25 (M)
-	  - Code de commerce. - art. L225-72 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18 art. 4 I 23° JORF 21 septembre 2000
+	  - Loi n°83-657 du 20 juillet 1983 (V)
+	  - Code de commerce - art. L225-25 (V)
+	  - Code de commerce - art. L225-72 (V)
+	  - Code général des impôts, CGI. - art. 83 bis (V)
+	  - Code rural - art. L521-1 (V)
+	  - Code rural - art. L931-5 (V)
 
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2001-435 du 21 mai 2001
+
+	**Modifié par**:
+
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3

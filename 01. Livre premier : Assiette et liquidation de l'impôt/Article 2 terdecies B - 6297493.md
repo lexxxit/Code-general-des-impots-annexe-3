@@ -3,8 +3,8 @@
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
 mensuel, par mètre carré, charges non comprises, sont fixés : 
 
-a.S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2010, à 21,72 euros en zone A,
-15,10 euros en zone B 1, 12,35 euros en zone B 2 et 9,05 euros en zone C ; 
+a.S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2011, à 21,84 euros en zone A,
+15,19 euros en zone B 1, 12,42 euros en zone B 2 et 9,10 euros en zone C ; 
 
 b.S'agissant des logements acquis ou construits à compter du 1er janvier 2011 ou des logements acquis par des sociétés
 civiles de placement immobilier en tout ou partie au moyen de souscriptions réalisées à compter de cette même date, pour les
@@ -14,10 +14,9 @@ en zone B 2 et 6,10 euros en zone C.
 Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa
 du a de l'article 2 duodecies. 
 
-Pour les baux conclus à compter de la date d'entrée en vigueur du décret n° 2009-1672 du 28 décembre 2009, les plafonds de
-loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer qui ouvrent droit à la réduction d'impôt prévue
-à l'article 199 septvicies du code général des impôts sont égaux aux montants mentionnés au cinquième alinéa de l'article 2
-terdecies C, majorés :
+Pour les baux conclus en 2011, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants
+mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
 - d'un quart pour les départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Mayotte ;
 
@@ -30,6 +29,11 @@ ministres chargés du budget et du logement et la surface habitable à prendre e
 loyer est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du cinquième alinéa,
 la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III de l'article
 46 AG terdecies.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1
+  <sup>er</sup> G du décret n° 2006-1005 du 10 août 2006.
 
 **Liens relatifs à cet article**
 
@@ -48,7 +52,7 @@ la surface habitable à prendre en compte pour l'appréciation des plafonds de l
 
 	**Modifié par**:
 
-	  - Décret n°2010-1601 du 20 décembre 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3
 
 	**Cite**:
 

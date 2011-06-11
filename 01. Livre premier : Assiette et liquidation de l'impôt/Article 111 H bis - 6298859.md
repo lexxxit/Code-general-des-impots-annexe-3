@@ -6,10 +6,10 @@ sans les informations prévues dans les cases 3, 6, 9 et 13 de ces documents, à
 service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M précité. 
 
 II.-1° Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les débitants de boissons
-mentionnés aux articles 501 et 502 du même code peuvent être autorisés par le directeur régional des douanes et droits
-indirects à utiliser leurs factures ou tout autre document commercial, en lieu et place des documents d'accompagnement
-mentionnés à l'article 302 M du code précité à l'exception de ceux établis au moyen du service de suivi informatique des
-mouvements de marchandises soumises à accise mentionné au III de cet article. 
+mentionnés à l'article 502 du même code peuvent être autorisés par le directeur régional des douanes et droits indirects à
+utiliser leurs factures ou tout autre document commercial, en lieu et place des documents d'accompagnement mentionnés à
+l'article 302 M du code précité à l'exception de ceux établis au moyen du service de suivi informatique des mouvements de
+marchandises soumises à accise mentionné au III de cet article. 
 
 Ces documents commerciaux doivent contenir les mêmes informations que celles contenues dans le document administratif
 d'accompagnement prévu par le règlement (CEE) n° 2719 / 92 de la Commission du 11 septembre 1992 modifié par le règlement
@@ -24,11 +24,15 @@ d'accompagnement mentionnés à l'article 302 M du code général des impôts, i
 préalablement à la mise en service des documents, et en déposent un spécimen auprès du service des douanes et droits
 indirects dont ils dépendent.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 52-II (2°) de la loi n° 2010-1658 du 29 décembre 2010.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3
 
 	**Cité par**:
 

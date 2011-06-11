@@ -51,8 +51,8 @@ Réunion ;
 plafonds annuels de loyers mentionnés au 4° du II. 
 
 IV.-La fraction mentionnée au 6° du I de l'article 199 undecies C du code général des impôts est égale à 4, 5 % du coût de la
-construction au sens des 4° et 5° du VI du présent décret lorsque tous les logements sont équipés d'une installation d'eau
-chaude sanitaire et à 3, 5 % dans les autres cas.
+construction au sens des 4° et 5° du VI lorsque tous les logements sont équipés d'une installation d'eau chaude sanitaire et
+à 3, 5 % dans les autres cas.
 
 V.-Les plafonds annuels de ressources mentionnés au 7° du I de l'article 199 undecies C du code général des impôts sont ceux
 prévus pour l'application dans les départements d'outre-mer de l'article R. 331-76-5-1 du code de la construction et de
@@ -108,9 +108,9 @@ qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-58 du 15 janvier 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3
 
 	**Cité par**:
 

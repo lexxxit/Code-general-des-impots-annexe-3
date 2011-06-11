@@ -1,8 +1,8 @@
 # Article 111 H quindecies
 
-I. ― Lorsque service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302
-M du code général des impôts est indisponible, des produits peuvent être expédiés en suspension de droits d'accise sous les
-conditions suivantes : 
+I. ― Lorsque le service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article
+302 M du code général des impôts est indisponible, des produits peuvent être expédiés en suspension de droits d'accise sous
+les conditions suivantes : 
 
 1° L'expéditeur informe l'administration des douanes et droits indirects avant l'expédition des marchandises, dans les
 conditions et les modalités qu'elle détermine ; 
@@ -49,9 +49,9 @@ quaterdecies
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3
 
 	**Cite**:
 

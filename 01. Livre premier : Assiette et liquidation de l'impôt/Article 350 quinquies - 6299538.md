@@ -6,7 +6,7 @@ La direction générale des douanes et droits indirects reçoit :
 
 2° (Dispositions devenues sans objet) ; 
 
-3° Les déclarations prévues aux articles 312, 327, 329, 501, 511 et 626 du code général des impôts ; 
+3° Les déclarations prévues aux articles 312,327,329,511 et 626 du code général des impôts (1) ; 
 
 4° (Dispositions devenues sans objet) ; 
 
@@ -20,7 +20,7 @@ La direction générale des douanes et droits indirects reçoit :
 prescrits au deuxième alinéa du même article ; 
 
 9° Les déclarations et exerce les compétences mentionnées au premier alinéa de l'article 425 du code général des impôts ainsi
-qu'aux articles 308, 343, 455, 502 et 1565 du même code ; 
+qu'aux articles 308,343,455,502 et 1565 du même code ; 
 
 10° (Dispositions devenues sans objet) ; 
 
@@ -28,21 +28,29 @@ qu'aux articles 308, 343, 455, 502 et 1565 du même code ;
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 63 [1°] de la loi n° 2008-1443 du 30 décembre 2008.
+Modifications effectuées en conséquence de l'article 52-II [2°] de la loi n° 2010-1658 du 29 décembre 2010.
+
+(1) La référence à l'article 501 devient sans objet.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2011-645 du 9 juin 2011 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1565 (V)
-	  - Code général des impôts, CGI. - art. 303 (V)
-	  - Code général des impôts, CGI. - art. 312 (V)
-	  - Code général des impôts, CGI. - art. 327 (V)
-	  - Code général des impôts, CGI. - art. 425 (V)
-	  - Code général des impôts, CGI. - art. 455 (V)
-	  - Code général des impôts, CGI. - art. 501 (V)
-	  - Code général des impôts, CGI. - art. 571 (V)
+	  - Code général des impôts, CGI. - art. 1565
+	  - Code général des impôts, CGI. - art. 303
+	  - Code général des impôts, CGI. - art. 308 (V)
+	  - Code général des impôts, CGI. - art. 312
+	  - Code général des impôts, CGI. - art. 327
+	  - Code général des impôts, CGI. - art. 329 (V)
+	  - Code général des impôts, CGI. - art. 343 (V)
+	  - Code général des impôts, CGI. - art. 424 (V)
+	  - Code général des impôts, CGI. - art. 425
+	  - Code général des impôts, CGI. - art. 455
+	  - Code général des impôts, CGI. - art. 502 (V)
+	  - Code général des impôts, CGI. - art. 511 (Ab)
+	  - Code général des impôts, CGI. - art. 571
+	  - Code général des impôts, CGI. - art. 626 (V)
