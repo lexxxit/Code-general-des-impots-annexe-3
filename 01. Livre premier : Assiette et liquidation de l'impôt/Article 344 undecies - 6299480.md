@@ -13,7 +13,7 @@ la loi n° 2010-874 du 27 juillet 2010.
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2011-785 du 28 juin 2011 - art. 3
 
 	**Cite**:
 

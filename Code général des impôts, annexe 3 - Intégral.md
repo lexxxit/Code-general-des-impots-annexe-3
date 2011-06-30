@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-06-23
+Version Consolidée au 2011-07-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5734,7 +5734,8 @@ code général des impôts sont les suivants :
 
 a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code rural et de la pêche maritime ; 
 
-b) Calamité agricole, constatée dans les conditions prévues à l'article L. 361-5 du code rural et de la pêche maritime ; 
+b) Calamité agricole, constatée dans les conditions prévues en application de l'article L. 361-5 du code rural et de la pêche
+maritime ; 
 
 c) Catastrophe naturelle, constatée dans les conditions prévues à l'article L. 125-1 du code des assurances ; 
 
@@ -5800,7 +5801,7 @@ Modifications effectuées en conséquence de l'article 26 de la loi n° 2010-874
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2011-785 du 28 juin 2011 - art. 3
 
 
 ##### Régime réel simplifié
@@ -36405,7 +36406,7 @@ la loi n° 2010-874 du 27 juillet 2010.
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2011-785 du 28 juin 2011 - art. 3
 
 	**Cite**:
 
