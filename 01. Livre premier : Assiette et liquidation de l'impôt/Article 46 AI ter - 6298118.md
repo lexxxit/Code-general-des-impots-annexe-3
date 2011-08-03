@@ -14,7 +14,7 @@ société de gestion du fonds ou le dépositaire des actifs de ce fonds est soum
 duovicies F et 41 duovicies G.
 
 IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, à la direction des services fiscaux
-désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article D. 214-72 du code
+désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article D. 214-60  du code
 monétaire et financier, à l'appui du bilan et du compte de résultats.
 
 V. La société de gestion du fonds ou le dépositaire des actifs de ce fonds délivre, au plus tard le 16 février de l'année
@@ -48,21 +48,20 @@ respect de l'une des conditions prévues à l'article L. 214-41 du code monétai
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 terdecies-0 A
-	  - CGIAN3 41 duovicies F, 41 duovicies G
-	  - Livre des procédures fiscales
-	  - Livre des procédures fiscales - art. R87-1
-	  - Code monétaire et financier - art. D214-72
-	  - Code monétaire et financier - art. L214-41
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2011-923 du 1er août 2011 - art. 7
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 299 octies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI quater (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI quinquies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI.
+	  - Livre des procédures fiscales
+	  - Code monétaire et financier
+	  - Code monétaire et financier - art. D214-60
+	  - Code monétaire et financier - art. L214-41
