@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-08-04
+Version Consolidée au 2011-09-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -35840,6 +35840,29 @@ Modification effectuée en conséquence de l'article 87 [1°] du décret n° 201
 	**Modifié par**:
 
 	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+
+##### Section II : Contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques
+
+###### Article 331 A
+
+Le pourcentage du montant de l'imposition mentionné au troisième alinéa de l'article 1609 decies du code général des impôts
+est fixé à 4 %.
+
+**Nota:**
+
+Décret n° 2011-1110 du 16 septembre 2011 art 1 II : Les dispositions de l'article 331 A s'appliquent aux impositions établies
+au titre de l'année 2011 et des années suivantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1110 du 16 septembre 2011 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1609 decies
 
 
 #### Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées
