@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-09-19
+Version Consolidée au 2011-10-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -38252,39 +38252,36 @@ l'année courante est dispensée des versements prévus à l'article 1664 du cod
 
 ###### Article 357 E
 
-Les versements effectués en vertu des articles 357 A à 357 C sont encaissés par le comptable du Trésor chargé du recouvrement
-des impôts directs détenteur des rôles servant de base auxdits versements ou pour son compte, dans les conditions prévues par
+Les versements effectués en vertu des articles 357 A à 357 C sont encaissés par le comptable chargé du recouvrement des
+impôts directs détenteur des rôles servant de base auxdits versements ou pour son compte, dans les conditions prévues par
 l'article 1680 du code général des impôts. Le débiteur est tenu, au moment du versement, d'indiquer les numéros des rôles et
 des articles dont le montant sert de base au calcul du versement et de fournir toutes précisions utiles sur l'origine des
-déductions que ledit montant aurait pu subir en vertu des dispositions de l'article 357 B.
+déductions que ledit montant aurait pu subir en vertu des dispositions de l'article 357 B. 
 
 Le montant des versements sera ultérieurement imputé en l'acquit des impositions à l'impôt sur le revenu établies, au cours
 de l'année pendant laquelle les versements auront été effectués, à raison des revenus réalisés par le contribuable pendant
-l'année précédente.
+l'année précédente. 
 
-Si, par suite d'un changement de domicile, les rôles de l'année courante sont pris en charge par un autre comptable du Trésor
-chargé du recouvrement des impôts directs, le contribuable est tenu de justifier de ses versements au nouveau comptable.
-Faute par lui de satisfaire à cette obligation, le contribuable supportera à sa charge les frais afférents aux poursuites
-exercées pour le recouvrement des impôts en l'acquit desquels auraient dû être imputé les versements.
+Si, par suite d'un changement de domicile, les rôles de l'année courante sont pris en charge par un autre comptable chargé du
+recouvrement des impôts directs, le contribuable est tenu de justifier de ses versements au nouveau comptable. Faute par lui
+de satisfaire à cette obligation, le contribuable supportera à sa charge les frais afférents aux poursuites exercées pour le
+recouvrement des impôts en l'acquit desquels auraient dû être imputé les versements.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1680
-	  - CGIAN3 357 A, 357 B, 357 C
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 357 A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 357 B (V)
+	  - Code général des impôts, CGI. - art. 1680
 
 
 ###### Article 357 F
@@ -38331,9 +38328,10 @@ I. - Les contribuables qui perçoivent des revenus entrant dans la catégorie de
 et rentes viagères mentionnés au septième alinéa de l'article 1 A du code général des impôts bénéficient, sur leur demande,
 de délais de paiement pour l'impôt sur le revenu dû par le foyer fiscal au titre de l'année précédente.
 
-Les comptables du Trésor sont tenus d'accorder ces délais de paiement si une baisse de plus de 30 % est constatée entre le
-montant des revenus mentionnés au premier alinéa et perçus au titre du mois où est formulée la demande et un montant de
-référence égal à la moyenne de ces mêmes revenus perçus par le foyer fiscal au cours des trois derniers mois précédents.
+Les comptables de la direction générale des finances publiques sont tenus d'accorder ces délais de paiement si une baisse de
+plus de 30 % est constatée entre le montant des revenus mentionnés au premier alinéa et perçus au titre du mois où est
+formulée la demande et un montant de référence égal à la moyenne de ces mêmes revenus perçus par le foyer fiscal au cours des
+trois derniers mois précédents.
 
 Si le foyer fiscal dispose d'autres catégories de revenus, la baisse constatée au deuxième alinéa est rapportée au montant de
 référence majoré du montant mensuel moyen des autres revenus déclarés l'année précédente pour apprécier si le taux de 30 %
@@ -38348,25 +38346,26 @@ l'objet de la demande de délais de paiement ne peuvent bénéficier des disposi
 III. - Les délais de paiement prévus au I courent à compter du mois de la demande et jusqu'au 31 mars de l'année suivant
 celle de la mise en recouvrement de l'imposition.
 
-Le comptable du Trésor établit un contrat en double exemplaire qui fixe l'échéancier accordé au contribuable.
+Le comptable de la direction générale des finances publiques établit un contrat en double exemplaire qui fixe l'échéancier
+accordé au contribuable.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 1 A
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 2005-12-30 art. 74 II, VI Finances pour 2006 JORF 31 décembre 2005
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 2
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2017-975 du 10 mai 2017 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 1 A
 
 
 ##### 3 : Impôt sur les sociétés
@@ -38703,29 +38702,34 @@ du lieu d'imposition défini à l'article 218 A du même code.
 ###### Article 366 A bis
 
 L'imposition forfaitaire annuelle mentionnée à l'article 223 septies du code général des impôts est versée spontanément au
-plus tard le 15 mars auprès du comptable de la direction générale des impôts compétent pour le recouvrement de l'impôt sur
-les sociétés.
+plus tard le 15 mars auprès du comptable de la direction générale des finances publiques compétent pour le recouvrement de
+l'impôt sur les sociétés. 
 
 Ce versement accompagne le relevé d'acompte d'impôt sur les sociétés payable à cette même date et mentionné au 2 de l'article
 358.
 
+**Nota:**
+
+Dispositions devenues sans objet en conséquence des articles 14-I-3° [b] et 14-II de la loi n° 2008-1425 du 27 décembre 2008.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 septies, 358
 
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 3
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 358
+	  - Code général des impôts, CGI. - art. 223 septies
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZI (P)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
 
 
 ##### 3 quater : Contribution sociale sur l'impôt sur les sociétés
@@ -39256,22 +39260,18 @@ b. Et s'il y a lieu une copie du procès-verbal de tirage au sort des titres amo
 ###### Article 381 Q
 
 Les dispositions relatives au recouvrement prévues au titre IV du livre des procédures fiscales pour les impôts recouvrés par
-les comptables de la direction générale des impôts sont applicables au recouvrement de la retenue à la source perçue en vertu
-de l'article 119 bis du code général des impôts.
+les comptables de la direction générale des finances publiques sont applicables au recouvrement de la retenue à la source
+perçue en vertu de l'article 119 bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 119 bis
-
 	**Modifié par**:
 
-	  - Décret n°2007-161 du 6 février 2007 - art. 5 (V) JORF 8 février 2007 en vigueur le 1er janvier 2007
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 4
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 119 bis
 
 
 ##### 9 : Retenue à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France
@@ -39485,26 +39485,30 @@ Cet article devient sans objet en conséquence de l'article 10-II-2° et III de 
 
 A défaut d'exécution spontanée des versements prévus à l'article 381 U, il est fait application par les agents commissionnés
 chargés du contrôle de la participation des employeurs, de la procédure décrite aux articles R. 6362-3 à R. 6362-7 du code du
-travail. Cette procédure est également applicable aux versements indiqués à l'article L. 6362-7 du code précité.  
+travail. Cette procédure est également applicable aux versements indiqués à l'article L. 6362-7 du code précité. 
 
-La caisse du comptable des impôts compétente pour recevoir les versements résultant de la procédure prévue au premier alinéa
-est celle définie à l'article 381 W.
+Le comptable compétent de la direction générale des finances publiques pour recevoir les versements résultant de la procédure
+prévue au premier alinéa est celui défini à l'article 381 W.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 61-I de la loi n° 2009-1437 du 24 novembre 2009
+Cet article devient sans objet en conséquence de l'article 10-II-2° et III de la loi n° 2014-288 du 5 mars 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 5
+
+	**Abrogé par**:
+
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 U
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 W
-	  - Code du travail - art. L6354-2
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 W (P)
+	  - Code du travail - art. L6362-7
 	  - Code du travail - art. R6362-3
 
 
@@ -39548,22 +39552,6 @@ solde la dette exigible.
 
 (1) Pour le paiement par chèque, voir annexe IV, art. 199 à 202 et 204.
 
-
-
-###### Article 383
-
-1. Tout versement d'impôt donne obligatoirement lieu à la délivrance d'une quittance extraite du journal à souche
-réglementaire; les comptables du Trésor chargés du recouvrement des impôts directs doivent  en outre  émarger les paiements
-sur leurs rôles à mesure qu'il leur en est fait.
-
-2. Quittance par duplicata est remise gratuitement par le comptable du Trésor au contribuable qui en fait la demande pour
-justifier du paiement de ses impôts.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1303 du 14 octobre 2011 - art. 13
 
 
 ###### Article 383 bis
@@ -39976,38 +39964,35 @@ les conditions et délais fixés à l'article 400.
 ###### Article 400
 
 Les garanties peuvent consister soit en des sûretés réelles d'une valeur au moins égale au montant des sommes au paiement
-desquelles il est sursis  soit en un engagement solidaire souscrit par une ou plusieurs personnes physiques ou morales
-agréées comme caution par le comptable des impôts.
+desquelles il est sursis soit en un engagement solidaire souscrit par une ou plusieurs personnes physiques ou morales agréées
+comme caution par le comptable compétent de la direction générale des finances publiques.
 
 Les biens qui servent à la liquidation des droits de mutation à titre gratuit sont admis en garantie, à la condition que le
-débiteur fournisse au comptable des impôts en même temps que sa demande de crédit tous les éléments que l'administration juge
-nécessaire à la mise à jour de l'évaluation des biens.
+débiteur fournisse au comptable compétent de la direction générale des finances publiques en même temps que sa demande de
+crédit tous les éléments que l'administration juge nécessaire à la mise à jour de l'évaluation des biens.
 
 Les garanties doivent être constituées dans un délai de trois mois à compter de la date de la demande d'admission au crédit.
-Le comptable des impôts statue sur cette demande dans le même délai.
+Le comptable compétent de la direction générale des finances publiques statue sur cette demande dans le même délai.
 
-Les éléments mentionnés au deuxième alinéa sont mis à jour et adressés  au comptable des impôts, pour lui permettre
-d'apprécier la consistance  de la garantie, chaque année dans le mois de la date anniversaire de la  demande de crédit. 
+Les éléments mentionnés au deuxième alinéa sont mis à jour et adressés  au comptable compétent de la direction générale des
+finances publiques,  pour lui permettre d'apprécier la consistance de la garantie, chaque  année dans le mois de la date
+anniversaire de la demande de crédit. 
 
-Le comptable des impôts peut, à tout moment, si cela lui paraît nécessaire, exiger un complément de garanties. Ces garanties
-complémentaires doivent être constituées par le bénéficiaire du crédit dans un délai d'un mois compté de la demande qui lui
-est adressée à cet effet  par lettre recommandée avec avis de réception.
+Le comptable compétent de la direction générale des finances publiques peut, à tout moment, si cela lui paraît nécessaire,
+exiger un complément de garanties. Ces garanties complémentaires doivent être constituées par le bénéficiaire du crédit dans
+un délai d'un mois compté de la demande qui lui est adressée à cet effet par lettre recommandée avec avis de réception.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-464 du 6 mai 2005 - art. 2 () JORF 14 mai 2005
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 6
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 399 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 403 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 404 A (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article 401
@@ -40408,9 +40393,9 @@ Lorsque l'engagement n'est pas respecté, les dispositions du premier alinéa s'
 
 ###### Article 405 B
 
-Les machines destinées à apposer les empreintes représentatives des divers droits de timbre perçus par le service des impôts
-doivent être agréées par le directeur général des impôts dans les conditions fixées par arrêté du ministre de l'économie et
-des finances (1).
+Les machines destinées à apposer les empreintes représentatives des divers droits de timbre perçus par le service compétent
+de la direction générale des finances publiques doivent être agréées par le directeur général des finances publiques dans les
+conditions fixées par arrêté du ministre chargé du budget (1).
 
 Les empreintes doivent être apposées dans les mêmes délais et aux mêmes emplacements que les timbres mobiles qu'elles
 remplacent.
@@ -40419,9 +40404,9 @@ remplacent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGIAN4 71, 72, 73, 74, 75
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 7
 
 
 ##### C : Paiement par apposition de timbres mobiles
@@ -40642,28 +40627,28 @@ d'application de l'article R424-1 du code de l'urbanisme, au maire.
 
 Les redevables tenus solidairement au paiement de la taxe locale d'équipement en vertu du 4 de l'article 1929 du code général
 de impôts sont recherchés en paiement dans les conditions fixées au titre IV du livre des procédures fiscales pour les impôts
-recouvrés par les comptables du Trésor.
+recouvrés par les comptables de la direction générale des finances publiques. 
 
 Lorsque l'autorité administrative autorise le transfert d'un permis de construire qui a rendu exigible la taxe locale
 d'équipement, elle doit en informer sans délai le préfet pour émission d'un nouveau titre.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 1929 4
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
+	  - Décret n°90-798 du 10 septembre 1990
 
 	**Modifié par**:
 
-	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990 JORF 30 décembre 1989
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 8
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°90-798 1990-09-10
+	  - Décret n°2012-88 du 25 janvier 2012 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1929
 
 
 ### Section IV : Contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et droit spécifique sur les ouvrages d'or ou contenant de l'or, d'argent ou de platine
@@ -40753,9 +40738,9 @@ chargé des grandes entreprises mentionné au premier alinéa de l'article 344-0
 
 II.-Les dispositions du I s'appliquent à l'impôt sur les sociétés, à l'imposition forfaitaire annuelle des sociétés, à la
 contribution sur les revenus locatifs, à la contribution sociale sur l'impôt sur les sociétés prévues respectivement aux
-articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la taxe professionnelle et à la cotisation
-minimale de taxe professionnelle mentionnée au 6° de l'article 344-0 B de même qu'aux taxes additionnelles et annexes à cette
-taxe ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
+articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la taxe professionnelle, à la cotisation
+foncière des entreprises et à la cotisation sur la valeur ajoutée des entreprises de même qu'aux taxes additionnelles et
+annexes à cette taxe ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
 leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique à l'ensemble des impositions
@@ -40781,7 +40766,7 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 	**Modifié par**:
 
-	  - Décret n°2009-76 du 20 janvier 2009 - art. 1
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 10
 
 	**Cite**:
 
@@ -41043,16 +41028,16 @@ fixé à 15 000 €.
 
 ###### Article 416 ter
 
-Le comptable de la direction générale des finances publiques met fin au plan d'apurement échelonné mentionné au second alinéa
-du 4 de l'article 1929 quater du code général des impôts par lettre recommandée avec accusé de réception et procède à
-l'inscription du privilège du Trésor dans le délai prévu au même alinéa du 4 de l'article précité. Le délai court à compter
-de la réception de cette dénonciation par le redevable.
+Le comptable de la direction générale des finances publiques ou de la direction générale des douanes et des droits indirects
+met fin au plan d'apurement échelonné mentionné au second alinéa du 4 de l'article 1929 quater du code général des impôts par
+lettre recommandée avec accusé de réception et procède à l'inscription du privilège du Trésor dans le délai prévu au même
+alinéa du 4 de l'article précité. Le délai court à compter de la réception de cette dénonciation par le redevable.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-197 du 18 février 2009 - art. 2
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 12
 
 	**Cite**:
 
