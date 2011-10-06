@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-10-06
+Version Consolidée au 2011-10-07
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -35263,6 +35263,120 @@ retenue pour opérer cette répartition.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G sexies (V)
 	  - Code général des impôts, CGI. - art. 1586 octies (V)
 	  - Code général des impôts, CGI. - art. 1586 quinquies (V)
+
+
+###### Article 328 G nonies A
+
+Pour l'application des dispositions du cinquième alinéa du III de l'article 1586 octies du code général des impôts, la valeur
+ajoutée afférente à l'ensemble des établissements de l'entreprise comprenant des installations de production d'électricité
+utilisant l'énergie mécanique du vent mentionnées à l'article 1519 D ou des installations de production d'électricité
+d'origine photovoltaïque mentionnées à l'article 1519 F s'entend de la valeur ajoutée totale de l'entreprise déterminée
+conformément au I de l'article 1586 sexies multipliée : 
+
+1. Par le rapport entre : 
+
+a. D'une part, la somme des charges afférentes à l'activité de production d'électricité, non déductibles de la valeur
+ajoutée, telle qu'elle est définie au I de l'article 1586 sexies. Ces charges, qui s'entendent de celles engagées au cours de
+la période de référence définie à l'article 1586 quinquies, comprennent les charges d'exploitation afférentes aux charges de
+personnel, aux impôts et taxes et aux dotations aux amortissements pour dépréciation, à l'exclusion des dotations aux
+provisions ; 
+
+b. Et, d'autre part, le montant total de ces mêmes charges déterminées au niveau de l'entreprise au cours de la même
+période. 
+
+2. Puis par le rapport entre, d'une part, la puissance électrique installée totale des seuls établissements mentionnés au
+premier alinéa et, d'autre part, la puissance électrique installée totale de l'ensemble des établissements de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1238 du 4 octobre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G nonies B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G nonies C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G nonies D (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1519 F (V)
+	  - Code général des impôts, CGI. - art. 1586 octies
+	  - Code général des impôts, CGI. - art. 1586 sexies (V)
+
+
+###### Article 328 G nonies B
+
+La valeur ajoutée déterminée conformément aux dispositions de l'article 328 G nonies A est répartie entre les établissements
+mentionnés au premier alinéa du même article au prorata de la puissance électrique installée au 1er janvier. 
+
+Lorsqu'un établissement de production d'électricité d'origine photovoltaïque mentionné à l'article 1519 F est situé sur le
+territoire de plusieurs communes, la fraction de la valeur ajoutée calculée selon les modalités définies au premier alinéa
+est répartie entre les communes d'implantation de l'établissement au prorata de la puissance électrique installée sur chaque
+commune.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1238 du 4 octobre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1519 F (V)
+
+
+###### Article 328 G nonies C
+
+Les redevables mentionnés au cinquième alinéa du III de l'article 1586 octies du code général des impôts doivent déclarer au
+service des impôts dont relève leur principal établissement : 
+
+1. Le ratio défini au 1 de l'article 328 G nonies A, le ratio défini au 2 du même article ainsi que les termes de ce dernier
+ratio, le montant de la fraction de la valeur ajoutée telle qu'elle est définie au même article et la puissance électrique
+installée par établissement. Les ratios sont exprimés avec deux décimales après la virgule, le deuxième chiffre après la
+virgule est augmenté d'une unité si le chiffre suivant est égal ou supérieur à 5 ; 
+
+2. Les lieux de situation des établissements comprenant des installations de production d'électricité visées au premier
+alinéa de l'article précité afin de permettre la répartition par établissement de la valeur ajoutée ; 
+
+3. Les communes d'implantation pour chaque établissement situé sur plusieurs communes ainsi que la puissance électrique
+installée sur chaque commune. 
+
+Ces éléments sont déclarés sur un formulaire conforme au modèle de l'administration annexé à la déclaration de la valeur
+ajoutée et des effectifs salariés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1238 du 4 octobre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 G nonies A (V)
+	  - Code général des impôts, CGI. - art. 1586 octies (V)
+
+
+###### Article 328 G nonies D
+
+La différence entre la valeur ajoutée totale de l'entreprise visée par les dispositions du cinquième alinéa du III de
+l'article 1586 octies du code général des impôts et la valeur ajoutée afférente aux seuls établissements visés à l'article
+328 G nonies A est répartie conformément aux dispositions du III de l'article 1586 octies et selon les modalités prévues aux
+articles 328 G bis à 328 G quinquies.
+
+Les salariés de l'entreprise affectés exclusivement dans les établissements mentionnés au premier alinéa de l'article 328 G
+nonies A ne sont pas pris en compte pour opérer cette répartition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1238 du 4 octobre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1586 octies
 
 
 ###### Article 328 G octies
