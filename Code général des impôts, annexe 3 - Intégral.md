@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-12-01
+Version Consolidée au 2011-12-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -31971,33 +31971,75 @@ de répartition applicables.
 
 ###### Article 321 E
 
-Les constructions nouvelles ainsi que les changements de consistance ou d'affectation des propriétés bâties et non bâties
-sont déclarés par les propriétaires sur des imprimés établis par l'administration conformément aux modèles fixés par le
-ministre de l'économie et des finances.
+Les constructions nouvelles ainsi que les changements de consistance ou d'affectation     des propriétés bâties et non bâties
+ou les changements d'utilisation des locaux commerciaux ou professionnels sont déclarés par les propriétaires sur des
+imprimés établis par l'administration conformément aux modèles fixés par le ministre de l'économie et des finances.
 
+Il en est de même pour la déclaration mentionnée au I bis de l'article 1406 du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-1795 du 6 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1406
 
 
 ###### Article 321 F
 
-Les déclarations de constructions nouvelles sont souscrites dans les conditions prévues à l'article 324 AI.
+Les déclarations de constructions nouvelles ainsi que les déclarations produites sur demande de l'administration fiscale afin
+de procéder à la mise à jour des valeurs locatives sont souscrites dans les conditions prévues à l'article 324 AI. 
 
-Lorsqu'elles ont pour objet un changement de consistance ou d'affectation  les déclarations sont limitées à la partie de
-l'immeuble touchée par la modification.
+Lorsqu'elles ont pour objet un changement de consistance, d'affectation ou d'utilisation, les déclarations sont limitées à la
+partie de l'immeuble touchée par la modification. 
 
 En cas de lotissement, le changement d'affectation est définitivement réalisé à la date de publication de l'arrêté
 préfectoral portant autorisation du lotissement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2011-1795 du 6 décembre 2011 - art. 1
+
 	**Cite**:
 
-	  - CGIAN3 324 AI
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 324 AI
 
 
 ###### Article 321 G
 
-Les déclarations sont produites auprès du service des impôts du lieu de situation des biens.
+Les déclarations mentionnées aux I et I bis de l'article 1406 du code général des impôts  sont produites auprès du service
+des impôts du lieu de situation des biens.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-1795 du 6 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1406
+
+
+###### Article 321 G bis
+
+La déclaration mentionnée au I bis de l'article 1406 du code général des impôts est déposée par le propriétaire dans les
+trente jours suivant la réception de la demande de l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1795 du 6 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1406
 
 
 ##### d : Majoration de la valeur locative cadastrale des terrains constructibles
