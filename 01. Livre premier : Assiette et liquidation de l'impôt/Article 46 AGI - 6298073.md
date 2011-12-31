@@ -12,9 +12,10 @@ conformément à des modèles fixés par l'administration.
 
 II. - Le groupement ou la société doit, avant le 16 février de l'année civile qui suit celle de la souscription ou
 l'acquisition de parts, celle du paiement des travaux forestiers réalisés par le groupement ou la société ou celle du
-versement de la rémunération au cocontractant mentionné au f du 2 de l'article 199 decies H du code général des impôts,
-délivrer à ses associés qui entendent bénéficier de la réduction d'impôt un document établi conformément à un modèle fixé par
-l'administration et comportant, pour l'année précédente, les renseignements suivants : 
+versement de la rémunération au cocontractant mentionné au f du 2 de l'article 199 decies H du code général des impôts ou du
+versement de la cotisation d'assurance mentionnée au g du 2 du même article, délivrer à ses associés qui entendent bénéficier
+de la réduction d'impôt un document établi conformément à un modèle fixé par l'administration et comportant, pour l'année
+précédente, les renseignements suivants : 
 
 a. La raison sociale et l'adresse du siège social du groupement ou de la société ; 
 
@@ -32,7 +33,11 @@ cocontractant, la date de signature du contrat ainsi que le montant et la date d
 de la facture et de l'attestation mentionnées au 3 bis de l'article précité ;
 
 d. Dans les cas prévus aux e et f du 2 de l'article 199 decies H précité, le nombre et le pourcentage de parts du groupement
-ou de la société détenues par l'associé. 
+ou de la société détenues par l'associé ; 
+
+e. Dans le cas prévu au g du 2 de l'article 199 decies H précité, l'attestation de l'entreprise d'assurance précisant
+l'identité et l'adresse de l'assureur, la nature des risques couverts, le nombre d'hectares assurés contre le risque de
+tempête et le montant de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile. 
 
 III. - Chaque année, le groupement ou la société doit joindre à sa déclaration de résultat un document établi conformément à
 un modèle fixé par l'administration et comportant les renseignements suivants : 
@@ -55,7 +60,11 @@ régional relatif aux matériels forestiers de reproduction éligibles aux aides
 
 f. L'identité et l'adresse du cocontractant mentionné au f du 2 de l'article 199 decies H du code général des impôts, la date
 de signature du contrat, le montant de sa rémunération et sa date de versement, ainsi que la désignation de la ou des
-parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées.
+parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées ; 
+
+g. L'attestation de l'entreprise d'assurance précisant l'identité et l'adresse de l'assureur mentionné au g du 2 de l'article
+199 decies H précité, la nature des risques couverts, le nombre d'hectares assurés contre le risque de tempête et le montant
+de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile. 
 
 IV. - Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sont inscrites, dans les trente
 jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle la réduction d'impôt a été
@@ -72,4 +81,4 @@ prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôt
 
 	**Modifié par**:
 
-	  - Décret n°2009-810 du 30 juin 2009 - art. 1
+	  - Décret n°2011-2067 du 30 décembre 2011 - art. 1

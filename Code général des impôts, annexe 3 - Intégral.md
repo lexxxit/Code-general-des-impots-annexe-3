@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2011-12-09
+Version Consolidée au 2012-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1187,18 +1187,18 @@ l'application de l'article 2 duodecies.
 ###### Article 2 terdecies B
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
-mensuel, par mètre carré, charges non comprises, sont fixés : 
+mensuel, par mètre carré, charges non comprises, sont fixés :
 
-a.S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2011, à 21,84 euros en zone A,
-15,19 euros en zone B 1, 12,42 euros en zone B 2 et 9,10 euros en zone C ; 
+a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2011, à 21,84 euros en zone A,
+15,19 euros en zone B 1, 12,42 euros en zone B 2 et 9,10 euros en zone C ;
 
-b.S'agissant des logements acquis ou construits à compter du 1er janvier 2011 ou des logements acquis par des sociétés
+b. S'agissant des logements acquis ou construits à compter du 1er janvier 2011 ou des logements acquis par des sociétés
 civiles de placement immobilier en tout ou partie au moyen de souscriptions réalisées à compter de cette même date, pour les
 baux conclus en 2011, à 21,70 euros en zone A bis, 16,10 euros dans le reste de la zone A, 13 euros en zone B 1, 10,60 euros
-en zone B 2 et 6,10 euros en zone C. 
+en zone B 2 et 7,50 euros en zone C.
 
 Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa
-du a de l'article 2 duodecies. 
+du a de l'article 2 duodecies.
 
 Pour les baux conclus en 2011, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants
@@ -1206,9 +1206,9 @@ mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
 - d'un quart pour les départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Mayotte ;
 
-- d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie, Saint-Pierre-et-Miquelon et les îles Wallis et Futuna. 
+- d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie, Saint-Pierre-et-Miquelon et les îles Wallis et Futuna.
 
-Les résultats ainsi obtenus sont arrondis au centime d'euro le plus proche. 
+Les résultats ainsi obtenus sont arrondis au centime d'euro le plus proche.
 
 Pour l'application des deuxième et troisième alinéas, les zones A, A bis, B 1, B 2 et C sont définies par arrêté des
 ministres chargés du budget et du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de
@@ -1220,6 +1220,13 @@ la surface habitable à prendre en compte pour l'appréciation des plafonds de l
 
 Modifications effectuées en conséquence de l'article 1
   <sup>er</sup> G du décret n° 2006-1005 du 10 août 2006.
+
+Décret n° 2011-2056 du 29 décembre 2011 art 2 : Les présentes dispositions s'appliquent aux baux conclus à compter du 1er
+janvier 2012.
+
+Le plafond de loyer mensuel prévu pour la zone C au b de l'article 2 terdecies B de l'annexe III au code général des impôts
+dans sa rédaction issue du présent décret est actualisé pour la première fois au 1er janvier 2013, selon les modalités
+prévues au quatrième alinéa du même article.
 
 **Liens relatifs à cet article**
 
@@ -1238,7 +1245,7 @@ Modifications effectuées en conséquence de l'article 1
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2011-2056 du 29 décembre 2011 - art. 1
 
 	**Cite**:
 
@@ -10962,9 +10969,9 @@ personne physique ou morale prévue à la dernière phrase de l'article D. 321-1
 
 ###### Article 46 AGH
 
-Pour l'application du a, du d et du f du 2 de l'article 199 decies H du code général des impôts, les contribuables sont tenus
-de joindre à leur déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est demandé une
-note annexe, établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants : 
+Pour l'application du a, du d, du f et du g du 2 de l'article 199 decies H du code général des impôts, les contribuables sont
+tenus de joindre à leur déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est
+demandé une note annexe, établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants : 
 
 a. L'identité et l'adresse du contribuable ; 
 
@@ -10977,7 +10984,10 @@ d. Pour l'application du d du 2 de l'article 199 decies H précité, la nature, 
 forestiers réalisés ; le cas échéant, les contribuables joignent également le document du fournisseur des matériels
 forestiers de reproduction utilisés mentionné à l'article R. 552-22 du code forestier et une attestation sur l'honneur selon
 laquelle est respecté l'arrêté régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à
-l'investissement forestier ; 
+l'investissement forestier ainsi que, dans le cas où le contribuable est titulaire d'un compte d'épargne d'assurance pour la
+forêt prévu à l'article L. 261-1 du code forestier, une attestation sur l'honneur selon laquelle les sommes dépensées pour la
+réalisation des travaux et pour lesquelles le bénéfice de la réduction d'impôt est demandé, ne proviennent pas de ce même
+compte ; 
 
 d bis. Pour l'application du f du 2 de l'article 199 decies H du code général des impôts, l'identité et l'adresse du
 cocontractant, la date de signature du contrat, le montant de la rémunération et la date de versement ; 
@@ -10986,18 +10996,27 @@ e. Pour l'application du d et du f du 2 de l'article 199 decies H précité, la 
 applicable à l'unité de gestion concernée ; 
 
 f. Pour l'application du a et du d du 2 de l'article 199 decies H précité, la déclaration d'engagement prévue par ces
-dispositions.
+dispositions ; 
+
+g. Pour l'application du g du 2 de l'article 199 decies H précité, l'attestation de l'entreprise d'assurance précisant
+l'identité et l'adresse de l'assureur, la nature des risques couverts, le nombre d'hectares assurés contre le risque de
+tempête, le montant de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile ainsi
+que, dans le cas où le contribuable est titulaire d'un compte d'épargne d'assurance pour la forêt prévu à l'article L. 261-1
+du code forestier, une attestation sur l'honneur selon laquelle les sommes dépensées pour le paiement des cotisations
+relatives au contrat d'assurance précité et pour lesquelles le bénéfice de la réduction d'impôt est demandé, ne proviennent
+pas de ce même compte.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-810 du 30 juin 2009 - art. 1
+	  - Décret n°2011-2067 du 30 décembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 decies H (V)
-	  - Code forestier - art. R552-22 (V)
+	  - Code général des impôts, CGI. - art. 199 decies H
+	  - Code forestier - art. L261-1 (VT)
+	  - Code forestier - art. R552-22
 
 
 ###### Article 46 AGI
@@ -11014,9 +11033,10 @@ conformément à des modèles fixés par l'administration.
 
 II. - Le groupement ou la société doit, avant le 16 février de l'année civile qui suit celle de la souscription ou
 l'acquisition de parts, celle du paiement des travaux forestiers réalisés par le groupement ou la société ou celle du
-versement de la rémunération au cocontractant mentionné au f du 2 de l'article 199 decies H du code général des impôts,
-délivrer à ses associés qui entendent bénéficier de la réduction d'impôt un document établi conformément à un modèle fixé par
-l'administration et comportant, pour l'année précédente, les renseignements suivants : 
+versement de la rémunération au cocontractant mentionné au f du 2 de l'article 199 decies H du code général des impôts ou du
+versement de la cotisation d'assurance mentionnée au g du 2 du même article, délivrer à ses associés qui entendent bénéficier
+de la réduction d'impôt un document établi conformément à un modèle fixé par l'administration et comportant, pour l'année
+précédente, les renseignements suivants : 
 
 a. La raison sociale et l'adresse du siège social du groupement ou de la société ; 
 
@@ -11034,7 +11054,11 @@ cocontractant, la date de signature du contrat ainsi que le montant et la date d
 de la facture et de l'attestation mentionnées au 3 bis de l'article précité ;
 
 d. Dans les cas prévus aux e et f du 2 de l'article 199 decies H précité, le nombre et le pourcentage de parts du groupement
-ou de la société détenues par l'associé. 
+ou de la société détenues par l'associé ; 
+
+e. Dans le cas prévu au g du 2 de l'article 199 decies H précité, l'attestation de l'entreprise d'assurance précisant
+l'identité et l'adresse de l'assureur, la nature des risques couverts, le nombre d'hectares assurés contre le risque de
+tempête et le montant de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile. 
 
 III. - Chaque année, le groupement ou la société doit joindre à sa déclaration de résultat un document établi conformément à
 un modèle fixé par l'administration et comportant les renseignements suivants : 
@@ -11057,7 +11081,11 @@ régional relatif aux matériels forestiers de reproduction éligibles aux aides
 
 f. L'identité et l'adresse du cocontractant mentionné au f du 2 de l'article 199 decies H du code général des impôts, la date
 de signature du contrat, le montant de sa rémunération et sa date de versement, ainsi que la désignation de la ou des
-parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées.
+parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées ; 
+
+g. L'attestation de l'entreprise d'assurance précisant l'identité et l'adresse de l'assureur mentionné au g du 2 de l'article
+199 decies H précité, la nature des risques couverts, le nombre d'hectares assurés contre le risque de tempête et le montant
+de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile. 
 
 IV. - Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sont inscrites, dans les trente
 jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle la réduction d'impôt a été
@@ -11074,7 +11102,7 @@ prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôt
 
 	**Modifié par**:
 
-	  - Décret n°2009-810 du 30 juin 2009 - art. 1
+	  - Décret n°2011-2067 du 30 décembre 2011 - art. 1
 
 
 ###### Article 46 AGJ
@@ -11100,23 +11128,22 @@ II.-Les associés joignent à cette déclaration le document mentionné au II de
 
 ###### Article 46 AGK
 
-Pour l'application des d et e du 2 de l'article 199 decies H du code général des impôts, sont éligibles à la réduction
+I.-Pour l'application des d et e du 2 de l'article 199 decies H du code général des impôts, sont éligibles à la réduction
 d'impôt les travaux de plantation, de reconstitution, de renouvellement, de sauvegarde et d'amélioration des peuplements et
-les travaux de création et d'amélioration des dessertes.
+les travaux de création et d'amélioration des dessertes. 
+
+II.-La garantie afférente au contrat d'assurance mentionné au g du 2 de l'article 199 decies H du code général des impôts
+couvre notamment le risque de tempête touchant des terrains en nature de bois et forêts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2011-2067 du 30 décembre 2011 - art. 1
+
 	**Cite**:
 
-	  - CGI 199 decies H
-
-	**Créé par**:
-
-	  - Décret n°2006-1169 du 20 septembre 2006 - art. 2 () JORF 22 septembre 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 199 decies H (V)
 
 
 ##### 2° ter : Réduction d'impôt accordée au titre des investissements dans des résidences hôtelières à vocation sociale
@@ -20820,6 +20847,29 @@ l'avance ainsi que l'origine du reversement ou de l'arrêt d'imputation du créd
 	  - Code de la construction et de l'habitation. - art. R*319-12 (V)
 
 
+###### Article 49 septies ZZE bis
+
+Le plafond mentionné au 7 du I de l'article 244 quater U du code général des impôts est fixé à 30 000 €.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 74-II [3°] et V de la loi n° 2013-1278 du 29 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-2070 du 30 décembre 2011 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater U
+
+
 ##### Section V unvicies : Crédit d'impôt au titre des prêts ne portant pas intérêt consentis pour financer la primo-accession à la propriété
 
 ###### Article 49 septies ZZF
@@ -20911,17 +20961,17 @@ TRANCHES
 </th>
         <th>
 
-1 à 5 
+1 à 2 
 
 </th>
         <th>
 
-6 à 8 
+3 à 5 
 
 </th>
         <th colspan="4">
 
-9 et 10 
+6
 
 </th>
       </tr>
@@ -20959,20 +21009,20 @@ trimestre.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2010-1728 du 30 décembre 2010 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 25 mai 2011 - art. (V)
 	  - Code de la construction et de l'habitation. - art. R31-10-2-1 (V)
 	  - Code de la construction et de l'habitation. - art. R31-10-7 (M)
 
+	**Modifié par**:
+
+	  - Décret n°2011-2059 du 30 décembre 2011 - art. 2
+
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L31-10-12
-	  - Code de la construction et de l'habitation. - art. L312-1 (V)
+	  - Code de la construction et de l'habitation. - art. L312-1
 
 
 ###### Article 49 septies ZZI
@@ -21524,6 +21574,30 @@ mentionnés à l'article R. 313-4 du même code.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2007
+
+
+##### Section VI : Taxe sur les loyers élevés des logements de petite surface
+
+###### Article 58 P
+
+I. - Les communes mentionnées au premier alinéa du I de l'article 234 du code général des impôts s'entendent des communes
+situées dans la zone A telle que définie par l'arrêté des ministres chargés du budget et du logement prévu à l'article R.
+304-1 du code de la construction et de l'habitation.
+
+II. - Le montant du loyer mensuel, charges non comprises, mentionné au I de l'article 234 du code général des impôts, au-delà
+duquel les logements sont soumis à raison des loyers perçus à la taxe prévue par cet article, est fixé à 40 € par mètre carré
+de surface habitable pour les logements donnés en location nue ou meublée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-2060 du 30 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 234
+	  - article R. 304-1 du code de la construction et de l'habitation
 
 
 #### Chapitre IV : Dispositions communes aux impôts et taxes, revenus et bénéfices visés aux chapitres I à III
@@ -28675,18 +28749,22 @@ modalités fixées par le directeur général des impôts.
 ###### Article 255
 
 L'extrait d'acte prévu à l'article 860 du code général des impôts est complété par un projet de liquidation détaillée des
-droits exigibles. Il comprend, le cas échéant, les mentions prévues au III de l'article 150 VG et à la deuxième phrase du
-deuxième alinéa du IV de l'article 1529 du code général des impôts.
+droits exigibles. Il comprend, le cas échéant, les mentions prévues au III de l'article 150 VG, à la deuxième phrase du
+deuxième alinéa du IV de l'article 1529 et à la deuxième phrase du deuxième alinéa du V de l'article 1605 nonies du code
+général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 860, 1529, 150 VG
-
 	**Modifié par**:
 
-	  - Décret n°2007-1394 du 27 septembre 2007 - art. 2 () JORF 29 septembre 2007
+	  - Décret n°2011-2066 du 30 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 VG
+	  - Code général des impôts, CGI. - art. 1529
+	  - Code général des impôts, CGI. - art. 1605 nonies
+	  - Code général des impôts, CGI. - art. 860
 
 
 ###### Article 256
@@ -36064,6 +36142,86 @@ au titre de l'année 2011 et des années suivantes.
 	  - Code général des impôts, CGI. - art. 1609 decies
 
 
+##### Section IV : Taxe sur la cession à titre onéreux de terrains nus rendus constructibles
+
+###### Article 331 K bis
+
+La déclaration mentionnée au V de l'article 1605 nonies du code général des impôts est signée par le cédant ou par son
+mandataire. Dans ce dernier cas, le mandat doit figurer dans l'acte de cession ou être joint à l'appui de la déclaration. Il
+comporte, outre l'acceptation du mandataire, l'indication des nom, prénoms et adresse du mandant, l'habilitation du
+mandataire à signer les déclarations et, le cas échéant, à verser l'impôt correspondant à celles-ci ainsi que la
+reconnaissance, par le mandant, qu'il demeurera personnellement responsable de l'impôt, et notamment des suppléments de
+droits et pénalités qui pourraient être réclamés à la suite d'un contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-2066 du 30 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1605 nonies
+
+
+###### Article 331 K ter
+
+I. ― Pour l'application du deuxième alinéa du V de l'article 1605 nonies du code général des impôts, l'accomplissement de la
+formalité de l'enregistrement ou de la formalité fusionnée est subordonné, pour tout acte constatant la cession à titre
+onéreux d'un terrain nu ou de droits relatifs à un tel terrain, à la mention, selon le cas, dans l'acte : 
+
+1° Que le terrain nu n'est pas situé dans une zone constructible ; 
+
+2° Que le terrain n'est pas constructible, alors même qu'il est situé dans une des zones mentionnées au premier alinéa du I
+de l'article 1605 nonies du code général des impôts ; 
+
+3° Que la date du classement du terrain par un plan local d'urbanisme ou par un autre document d'urbanisme en tenant lieu en
+zone urbaine ou à urbaniser ouverte à l'urbanisation ou par une carte communale dans une zone où les constructions sont
+autorisées ou par application de l'article L. 111-1-2 du code de l'urbanisme est antérieure au 14 janvier 2010 ; 
+
+4° Que le terrain se situe dans la partie urbanisée de la commune au sens de l'article L. 111-1-2 du code de l'urbanisme ; 
+
+5° Que la plus-value réalisée par le cédant est exonérée de la taxe en application, selon le cas, des dispositions : 
+
+a) Du second alinéa du II de l'article 1605 nonies du code général des impôts ; 
+
+b) Du 1° ou du 2° du III de l'article précité. 
+
+6° Que le terrain a fait l'objet, depuis la date à laquelle il a été rendu constructible, d'une cession à titre onéreux
+antérieure à la mutation constatée dans l'acte. 
+
+II. ― Les éléments mentionnés aux 1° et 2° du I sont justifiés par le cédant au moyen du certificat d'urbanisme mentionné à
+l'article L. 410-1 du code de l'urbanisme, précisant que le terrain ne peut faire l'objet, du fait de sa localisation, de sa
+desserte ou de ses caractéristiques, d'aucune autorisation de construction. 
+
+III. ― Les éléments mentionnés au 3° du I sont justifiés par le cédant au moyen du certificat d'urbanisme mentionné à
+l'article L. 410-1 du code de l'urbanisme, ou d'une attestation, établie par la commune ou, le cas échéant, par
+l'établissement public de coopération intercommunale compétent pour l'élaboration des documents locaux d'urbanisme, précisant
+la date à laquelle le terrain est devenu constructible ou, à défaut, que cet événement est intervenu antérieurement au 14
+janvier 2010. 
+
+IV. ― Les éléments mentionnés au 4° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme mentionné à
+l'article L. 410-1 du code de l'urbanisme, précisant que le terrain se situe dans la partie actuellement urbanisée de la
+commune. 
+
+V. ― Les éléments mentionnés au a du 5° du I sont justifiés par le cédant au moyen d'un certificat d'urbanisme ou d'une
+attestation, établie par la commune ou, le cas échéant, par l'établissement public de coopération intercommunale compétent
+pour l'élaboration des documents locaux d'urbanisme, précisant la date à laquelle le terrain est devenu constructible ou, à
+défaut, que cet événement est intervenu depuis plus de dix-huit ans à compter du 14 janvier 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-2066 du 30 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1605 nonies
+	  - Code de l'urbanisme - art. L111-1-2
+	  - Code de l'urbanisme - art. L410-1
+
+
 #### Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées
 
 ##### Section I : Taxe sur l'édition des ouvrages de librairie
@@ -36885,6 +37043,29 @@ supplémentaires acquittées au cours de la même année.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 quaterdecies (V)
+
+
+#### Chapitre II : Abattement sur les bases d'impositions directes locales
+
+###### Article 344 quindecies
+
+Conformément au 3° du II de l'article 1635 sexies du code général des impôts, les taux des abattements dont bénéficie La
+Poste sont fixés, pour l'année 2011, à :
+
+a. 85 % des bases d'imposition pour la cotisation foncière des entreprises et pour les taxes foncières ;
+
+b. 79 % de la valeur ajoutée retenue pour l'application de l'article 1586 ter pour ce qui concerne la cotisation sur la
+valeur ajoutée des entreprises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-2069 du 30 décembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1635 sexies
 
 
 ## Troisième partie : Dispositions communes aux première et deuxième parties
@@ -41564,21 +41745,32 @@ d'admission en non-valeur vaut acceptation de celle-ci.
 	  - HISTO: Edition du 31 mars 2000
 
 
-##### 2 : Sursis de versement et décharge de responsabilité
+#### C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés
+
+##### 1 : Cotes irrécouvrables
+
+##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure
 
 ###### Article 429
 
-En dehors des cas de remises de débet, les comptables du Trésor responsables, du recouvrement des contributions directes,
-dont ils on pris les rôles en charge, et tenus de justifier de leur entière réalisation, ne peuvent être dispensés de verser,
-en tout ou en partie, de leurs deniers personnels, les cotes ou fractions de cotes et les frais de poursuites y afférents,
-non recouvrés au 31 décembre de la quatrième année suivant celle de la mise en recouvrement des rôles ni admis en non-valeurs
-que s'ils ont obtenu soit un sursis de versement, soit la décharge ou l'atténuation de leur responsabilité.
+Les comptables publics secondaires de la direction générale des finances publiques doivent justifier, auprès du comptable
+principal dont ils relèvent, du recouvrement des impôts, droits, taxes, pénalités, intérêts de retard et frais de poursuite y
+afférents : 
+
+1° Au 31 décembre de la quatrième année suivant celle de leur mise en recouvrement, pour les créances fiscales dont ils ont
+pris en charge les rôles ; 
+
+2° Au 31 décembre de la quatrième année suivant celle au cours de laquelle ils ont eu connaissance de leur exigibilité, pour
+les autres créances fiscales régulièrement liquidées. 
+
+A défaut, la responsabilité des comptables secondaires est engagée et ils sont tenus de verser les montants correspondant aux
+créances non recouvrées.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°81-58 du 23 janvier 1981 - art. 1 (V) JORF 27 janvier 1981
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -41587,22 +41779,42 @@ que s'ils ont obtenu soit un sursis de versement, soit la décharge ou l'atténu
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 435 (V)
 
 
-##### a : Sursis de versement
-
 ###### Article 430
 
-Les demandes de sursis de versement peuvent être présentées alors même que les cotes qu'elles visent n'auraient pas encore
-été portées sur des états de cotes irrecouvrables.
+La responsabilité des comptables prévue à l'article 429 n'est pas mise en jeu par le comptable principal dont ils relèvent
+lorsque : 
 
+1° Les créances ont été admises en non-valeur ; 
+
+2° Le recouvrement des créances a été empêché par des circonstances constitutives de la force majeure ; 
+
+3° Les créances sont devenues irrécouvrables au cours d'exercices pour lesquels la responsabilité du comptable principal ne
+peut plus être mise en jeu.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 429 (V)
 
 
 ###### Article 431
 
-Le sursis de versement est accordé pour une année.
+A l'occasion de l'examen des restes à recouvrer, le comptable principal prend une décision accordant la dispense de
+versement, la refusant ou constatant la force majeure. 
 
-Il est susceptible d'être renouvelé sur demande ultérieure du comptable du Trésor chargé du recouvrement des impôts directs.
+Pour l'exercice de cette compétence, le comptable principal peut déléguer sa signature aux administrateurs des finances
+publiques placés sous son autorité.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -41611,70 +41823,71 @@ Il est susceptible d'être renouvelé sur demande ultérieure du comptable du Tr
 
 ###### Article 432
 
-Le trésorier-payeur général statue sur les demandes de sursis de versement. Il délègue sa signature au receveur des finances
-pour les postes comptables de son arrondissement financier.
+La dispense de versement mentionnée à l'article 431 est accordée pour une année. Elle est susceptible d'être renouvelée
+chaque année à l'occasion de l'examen des états des restes à recouvrer. 
+
+Lorsque les comptables secondaires ne peuvent justifier du recouvrement des sommes mentionnées à l'article 429, le comptable
+principal refuse la dispense de versement et les invite à verser les sommes correspondantes. Cette décision vaut ordre de
+versement.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°99-889 du 21 octobre 1999 - art. 4 () JORF 22 octobre 1999
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
-	  - HISTO: Edition du 31 mars 2000
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 429 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 431 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 433 (V)
 
 
-##### b : Décharge de responsabilité
-
 ###### Article 433
 
-Peuvent seules faire l'objet de demandes en décharge ou en atténuation de responsabilité les cotes qui, ayant figuré sur des
-états de cotes irrecouvrables, ont été rejetées desdits états.
-
-
-
-###### Article 434
-
-Le préfet statue sur les demandes en décharge ou en atténuation de responsabilité, à moins que la cote visée ou l'une des
-cotes visées s'il s'agit d'un contribuable pour lequel plusieurs cotes sont en cause, n'excède la somme de 15 000 euros.
-
-Il se prononce au vu des avis émis par le trésorier-payeur général et par le directeur des services fiscaux, lorsque ces avis
-sont concordants et, dans le cas contraire, après avoir pris l'avis de la commission départementale prévue à l'article 443.
+Les comptables secondaires peuvent demander la remise gracieuse des sommes mises à leur charge dans les conditions prévues au
+second alinéa de l'article 432. Cette demande a un effet suspensif de paiement jusqu'à la date de notification de la
+décision.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 432 (V)
+
+
+###### Article 434
+
+Le comptable principal statue sur les demandes de remise gracieuse des comptables secondaires relatives à des décisions leur
+refusant la dispense de versement, dont le montant n'excède pas un seuil fixé par arrêté du ministre chargé du budget. Au-
+delà de ce seuil, ces demandes relèvent de la compétence du ministre chargé du budget, qui se prononce au vu de l'avis émis
+par le comptable principal.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 12 février 2015 - art. 3 (V)
 
-	**Cite**:
-
-	  - CGIAN3 443
-
 
 ###### Article 435
 
-Le ministre de l'économie et des finances statue sur les demandes en décharge ou en atténuation de responsabilité lorsqu'il
-s'agit de cotes dont le montant excède les limites de la compétence du préfet telle qu'elle est fixée à l'article 434.
-
-Il se prononce au vu des avis émis par la direction générale des impôts et la direction de la comptabilité publique  lorsque
-ces avis sont concordants et  dans le cas contraire  après avoir pris l'avis de la commission centrale prévue à l'article
-444.
+Les décisions accordant la dispense de versement, la refusant, constatant la force majeure ou celles relatives à une demande
+de remise gracieuse, mentionnées aux précédents articles, sont notifiées par le comptable principal au comptable secondaire
+concerné soit par lettre recommandée avec demande d'avis de réception, soit dans la forme administrative. Dans ce dernier
+cas, le comptable secondaire concerné donne récépissé de cette notification. A défaut, il est dressé procès-verbal de la
+notification par l'agent qui y a procédé.
 
 **Liens relatifs à cet article**
 
@@ -41682,265 +41895,24 @@ ces avis sont concordants et  dans le cas contraire  après avoir pris l'avis de
 
 	  - CGIAN3 434, 444
 
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°88-1001 du 20 octobre 1988
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
 
 ###### Article 436
 
-La responsabilité du comptable du Trésor chargé du recouvrement des impôts directs peut être dégagée en totalité ou en
-partie.
-
-Pour l'appréciation de cette responsabilité, il est tenu compte, notamment, des difficultés du recouvrement propres au poste
-géré, de la situation du service et du montant de l'indemnité allouée au comptable du Trésor en vertu de l'article 51 de la
-loi du 10 mars 1925, sans qu'il y ait lieu, cependant, en cas de faute ou de négligence grave, de maintenir les sommes
-laissées à la charge du comptable dans les limites de ladite indemnité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°1925-03-10 art. 51
-
-
-###### Article 437
-
-Si la demande en décharge ou en atténuation de responsabilité est rejetée du fait que le recouvrement de la cote paraît
-susceptible d'être ultérieurement obtenu, un sursis de versement peut être accordé d'office au comptable chargé du
-recouvrement.
-
-Ce sursis de versement est accordé par le ministre lorsque la décision de rejet a été prise par ses soins en vertu de
-l'article 435 ou par le trésorier-payeur général lorsque cette décision est prise en application de l'article 434.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 434, 435
-
-	**Modifié par**:
-
-	  - Décret n°81-58 du 23 janvier 1981 - art. 1 (V) JORF 27 janvier 1981
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
-
-
-###### Article 438
-
-Les décisions des préfets prises sur les demandes en décharge ou en atténuation de responsabilité et qui n'auront pas fait
-l'objet d'un recours dans les conditions fixées à l'article 440, deviendront définitives si, dans les six mois de leur
-notification au comptable du Trésor, elles n'ont pas été annulées ou réformées par le ministre statuant dans les formes
-prévues au deuxième alinéa de l'article 435.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 435, 440
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-
-
-##### c : Dispositions communes
-
-###### Article 439
-
-Les demandes de sursis de versement, ainsi que les demandes en décharge ou en atténuation de responsabilité présentées, en
-vertu des dispositions qui précèdent, par les comptables du Trésor chargés du recouvrement des impôts directs, ont un effet
-suspensif.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
-
-
-###### Article 440
-
-Les comptables du Trésor chargés du recouvrement des impôts directs, ainsi que les comptables centralisateurs dont la
-responsabilité pécuniaire est en jeu, sont admis à se pourvoir devant le ministre du budget contre les décisions des préfets
-rejetant les demandes en décharge ou en atténuation de responsabilité.
-
-Le recours a un effet suspensif et est instruit comme les demandes initiales relevant directement de la compétence du
-ministre du budget.
-
-La décision du ministre est notifiée par la voie hiérarchique aux comptables intéressés et au directeur des services fiscaux.
+Lorsque le comptable secondaire n'a pas acquitté la somme réclamée à la suite de la décision refusant la dispense de
+versement ou n'a pas sollicité la remise gracieuse, un arrêté de débet est pris immédiatement à son encontre par le ministre
+chargé du budget.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-
-
-###### Article 441
-
-Les comptables du Trésor chargés du recouvrement des impôts directs sont admis à se pourvoir devant le ministre du budget
-contre les décisions rejetant les demandes de sursis de versement.
-
-Le recours a un effet suspensif.
-
-La décision du ministre est notifiée par la voie hiérarchique aux comptables intéressés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 340
-
-	**Modifié par**:
-
-	  - Décret n°99-889 du 21 octobre 1999 - art. 5 () JORF 22 octobre 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
-	  - HISTO: Edition du 31 mars 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
-
-
-###### Article 442
-
-Le receveur général des finances, trésorier-payeur général de la région d'Ile-de-France,les trésoriers-payeurs généraux et
-receveurs particuliers des finances,font de leurs deniers personnels dans un délai de trois mois à compter de la notification
-qui leur est faite de la décision l'avance des sommes laissées définitivement à la charge de leurs subordonnés et que ceux-ci
-n'auraient pas versées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°76-394 1976-05-06 art. 1 JORF 7 mai 1976
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-
-
-###### Article 443
-
-La commission départementale appelée à donner son avis sur les demandes en décharge ou en atténuation de responsabilité est
-composée ainsi qu'il suit :
-
-Le préfet ou son représentant, président ;
-
-Le trésorier-payeur général ou le receveur général des finances trésorier-payeur général de la région d'Ile-de-France ou son
-représentant ;
-
-Le directeur des services fiscaux  ou son représentant ;
-
-Un inspecteur des impôts désigné par le directeur des services fiscaux ;
-
-Un comptable du Trésor chargé du recouvrement des impôts directs désigné par le receveur général des finances  trésorier-
-payeur général de la région parisienne  ou par le trésorier-payeur général.
-
-En cas de partage égal des voix  la voix du président est prépondérante.
-
-Un inspecteur de la trésorerie générale remplit les fonctions de secrétaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 432, 434
-
-	**Modifié par**:
-
-	  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 1988-10-20
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-
-
-###### Article 444
-
-La commission centrale appelée à donner son avis sur les demandes dans les cas prévus à l'article 435 est composée ainsi
-qu'il suit :
-
-Un inspecteur général des finances, président ;
-
-L'agent judiciaire du Trésor public ;
-
-Un sous-directeur de la direction de la comptabilité publique ;
-
-Un représentant de la direction générale des impôts ;
-
-Un directeur des services fiscaux désigné par le directeur général des impôts ;
-
-Un trésorier-payeur général désigné par le directeur de la comptabilité publique ;
-
-Un comptable du Trésor chargé du recouvrement des impôts directs désigné par le directeur de la comptabilité publique.
-
-Le président  absent ou empêché  est remplacé par l'agent judiciaire du Trésor public.
-
-En cas de partage égal des voix  la voix du président est prépondérante.    Un administrateur civil de la direction de la
-comptabilité publique remplit les fonctions de secrétaire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 435
-
-	**Abrogé par**:
 
 	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
