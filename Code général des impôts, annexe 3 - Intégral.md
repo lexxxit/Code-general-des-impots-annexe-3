@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-01-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16075,8 +16075,8 @@ latentes qui y sont soumises.
 
 ###### Article 46 quater-0 ZZ bis C
 
-I.-L'engagement de conservation prévu au premier alinéa du II de l'article 210 E du code général des impôts est pris dans
-l'acte constatant la cession des biens, titres ou droits mentionnés au I du même article. 
+I.-L'engagement de conservation prévu aux premier, cinquième et septième alinéas du II de l'article 210 E du code général des
+impôts est pris dans l'acte constatant la cession des biens, titres ou droits mentionnés au I du même article. 
 
 Une copie de l'engagement mentionné au premier alinéa doit être jointe à la déclaration de résultat de la personne morale
 cédante et, selon le cas, de la société cessionnaire ou de la société crédit-preneuse, afférente à l'exercice au cours duquel
@@ -16085,6 +16085,11 @@ est réalisée la cession.
 I bis. Pour l'application du troisième alinéa du II de l'article 210 E du code général des impôts, la copie de l'engagement
 prévu à cet alinéa doit être jointe à la déclaration de résultat de la personne morale absorbante afférente à l'exercice au
 cours duquel est réalisée la fusion.
+
+I ter. - Pour l'application du sixième alinéa du II de l'article 210 E du code précité, la valeur des immeubles pris à bail,
+entendue comme leur valeur d'origine inscrite au bilan de l'entreprise crédit-preneuse avant qu'elle ne cède ces immeubles
+dans les conditions prévues au sixième alinéa précité, ne peut excéder 30 % de la valeur d'origine des immeubles encore
+inscrits à l'actif de cette même société après la cession de ces immeubles.
 
 II.-Pour l'application du IV de l'article 210 E du code général des impôts, l'engagement d'investissement est établi sur
 papier libre et joint à la déclaration de résultats de l'organisme ou de la société cédante. Il mentionne, pour chaque
@@ -16099,7 +16104,7 @@ b. Le montant de l'obligation d'investissement et la date à laquelle elle doit 
 
 	**Modifié par**:
 
-	  - Décret n°2010-394 du 20 avril 2010 - art. 1
+	  - Décret n°2012-46 du 16 janvier 2012 - art. 1
 
 	**Cite**:
 
@@ -41690,7 +41695,7 @@ d'enregistrement régulièrement perçus.
 
 ### Section II : Juridiction gracieuse
 
-#### C : Demandes des comptables du Trésor chargés du recouvrement des impôts directs
+#### C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés
 
 ##### 1 : Cotes irrécouvrables
 
@@ -41744,10 +41749,6 @@ d'admission en non-valeur vaut acceptation de celle-ci.
 	  - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
 	  - HISTO: Edition du 31 mars 2000
 
-
-#### C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés
-
-##### 1 : Cotes irrécouvrables
 
 ##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure
 
