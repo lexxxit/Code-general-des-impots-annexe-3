@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-01-29
+Version Consolidée au 2012-02-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6425,6 +6425,99 @@ résulte des dispositions précitées.
 
 ##### VI : Traitements, salaires, pensions et rentes viagères
 
+##### 0-A : Attribution gratuite d'actions aux salariés ou mandataires sociaux
+
+###### Article 38-0 septdecies
+
+I. ― 1° Les bénéficiaires d'actions gratuites attribuées dans les conditions prévues par l'article 80 quaterdecies du code
+général des impôts joignent à leur déclaration de revenus souscrite au titre de l'année d'acquisition définitive des actions
+gratuites un état individuel délivré, au plus tard le 1er mars de l'année de dépôt de la déclaration, par l'entreprise ou la
+société mentionnée au 2°. 
+
+Cet état mentionne : 
+
+a) L'objet pour lequel il est établi : application de l'article 80 quaterdecies du code général des impôts ; 
+
+b) La raison sociale et le siège social de la société émettrice des titres et, le cas échéant, celle de l'entreprise qui
+établit l'état ; 
+
+c) L'identité et l'adresse du bénéficiaire ; 
+
+d) Le nombre d'actions acquises et leur valeur unitaire à la date d'acquisition définitive ; 
+
+e) La fraction du gain d'acquisition de source française ; 
+
+f) Les dates d'attribution et d'acquisition définitive des titres ; 
+
+g) La date de fin de la période d'indisponibilité des titres. 
+
+Les contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649
+quater B ter du code général des impôts, sont dispensés de joindre cet état à cette déclaration. Ils doivent le conserver
+jusqu'à l'expiration du délai de reprise et le présenter à l'administration sur demande de sa part. 
+
+2° La société émettrice qui a son siège social en France et dans laquelle le bénéficiaire des actions gratuites exerce son
+activité ou l'entreprise mentionnée au II de l'article 80 quaterdecies du code général des impôts transmet à l'administration
+fiscale, dans la déclaration prévue à l'article 87 du même code, les informations mentionnées au j du 2° de l'article 39. 
+
+Lorsque le bénéficiaire exerce son activité dans une entreprise différente de la société ou de l'entreprise mentionnée à
+l'alinéa précédent au moment de l'acquisition définitive, cette information est transmise, selon les mêmes modalités, par
+l'entreprise dans laquelle il exerce son activité lorsqu'elle dispose des informations nécessaires. 
+
+Dans les autres cas, la société émettrice ou l'entreprise mentionnée au premier alinéa adresse au service des impôts dont
+elle relève, au plus tard le 1er mars de l'année qui suit celle au cours de laquelle a eu lieu l'acquisition définitive, un
+duplicata de l'état individuel mentionné au 1°. 
+
+3° Lorsque les actions gratuites sont inscrites sur un compte titres qui n'est pas tenu par l'entreprise ou la société
+mentionnée au 2°, celle-ci communique, soit au plus tard le 1er mars de l'année qui suit celle de l'acquisition définitive,
+soit lors de la cession des titres lorsqu'elle intervient avant cette date, une copie de l'état prévu au 1° à l'établissement
+chargé de la tenue du compte titres qui est redevable de la retenue à la source prévue à l'article 182 A ter du code général
+des impôts. 
+
+En cas de transfert des actions gratuites sur un autre compte, l'établissement mentionné à l'alinéa précédent transmet une
+copie du duplicata au nouveau redevable de la retenue à la source. 
+
+II. ― 1° En cas de mise en location ou de cession avant le terme de la période mentionnée au premier alinéa du I de l'article
+80 quaterdecies du code général des impôts, l'entreprise ou la société mentionnée au 2° du I du présent article adresse au
+service des impôts dont elle relève, au plus tard le 1er mars de l'année qui suit celle au cours de laquelle a eu lieu
+l'opération, un état individuel qui mentionne la date et la nature de l'opération, le nombre d'actions concernées, les
+informations mentionnées aux b à g du 1° du I et, le cas échéant, la survenance d'un événement prévu au sixième alinéa du I
+de l'article L. 225-197-1 du code de commerce ou au deuxième alinéa de l'article L. 225-197-3 du même code. 
+
+Elle communique une copie de cet état au bénéficiaire des actions gratuites et, le cas échéant, à l'établissement mentionné
+au 3° du I. 
+
+2° En cas d'échange sans soulte d'actions résultant d'une opération mentionnée au deuxième alinéa du I de l'article 80
+quaterdecies du code général des impôts, l'entreprise ou la société mentionnée au 2° du I du présent article adresse au
+service des impôts dont elle relève, au plus tard le 1er mars de l'année qui suit celle au cours de laquelle a eu lieu
+l'opération, un état individuel qui mentionne la date et la nature de l'opération, le nombre d'actions reçues en échange, la
+raison sociale et l'adresse de la société dont les actions sont remises en échange ainsi que les informations mentionnées aux
+b à g du 1° du I. 
+
+Elle communique une copie de cet état au bénéficiaire des actions gratuites et, le cas échéant, à l'établissement mentionné
+au 3° du I.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-131 du 30 janvier 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2012-131 du 30 janvier 2012 - art. 4 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-197-1
+	  - Code de commerce - art. L225-197-3
+	  - Code général des impôts, CGI. - art. 1649 quater B ter
+	  - Code général des impôts, CGI. - art. 182 A ter
+	  - Code général des impôts, CGI. - art. 39 (V)
+	  - Code général des impôts, CGI. - art. 80 quaterdecies (V)
+	  - Code général des impôts, CGI. - art. 87 (V)
+
+
 ##### A : Heures supplémentaires et complémentaires
 
 ###### Article 38 septdecies
@@ -6762,7 +6855,7 @@ deuxième alinéa de l'article L. 6322-37 du même code ;
 
 a) Son identification : nom de famille, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance, numéro
 d'inscription au répertoire national d'identification des personnes physiques pour les seules déclarations des personnes ou
-organismes mentionnés au I de l'article R.* 81 A-1 du livre des procédures fiscales ; 
+organismes mentionnés au I de l'article R. * 81 A-1 du livre des procédures fiscales ; 
 
 b) L'adresse de son domicile au 31 décembre de l'année du revenu ; 
 
@@ -6822,22 +6915,38 @@ statutaires relatives à la fonction publique hospitalière, travaillant à temp
 durée du travail résultant d'une convention collective, la quotité du temps de travail, convertie en cas de variation en
 cours d'année en nombre d'heures rémunérées ; 
 
+i) Au titre de l'année de levée des options définies à l'article 80 bis du code général des impôts, le nombre d'actions
+acquises, leur valeur unitaire à la date de la levée des options, leur prix de souscription, la fraction du gain de levée
+d'options de source française ainsi que les dates d'attribution et de levée des options, conformément aux dispositions du 2°
+du I de l'article 91 bis de l'annexe II au code général des impôts ; 
+
+j) Au titre de l'année d'acquisition définitive des actions gratuites définies à l'article 80 quaterdecies du code général
+des impôts, le nombre d'actions acquises, leur valeur unitaire à la date d'acquisition définitive, la fraction du gain
+d'acquisition de source française ainsi que les dates d'attribution et d'acquisition définitive des titres, conformément aux
+dispositions du 2° du I de l'article 38-0 septdecies ; 
+
+k) Au titre de l'année de souscription des titres définis à l'article 163 bis G du code général des impôts, les date, nombre
+et prix d'acquisition des titres correspondants, la fraction du gain constaté lors de l'exercice des bons de source française
+ainsi que la durée d'exercice de l'activité du bénéficiaire dans la société, conformément aux dispositions du 2° de l'article
+41 V bis ; 
+
 3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2° ci-dessus.
-
-**Nota:**
-
-Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°86-33 du 9 janvier 1986 - art. 2
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 bis
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38-0 septdecies
 	  - Code général des impôts, CGI. - art. 1599 quinquies A
+	  - Code général des impôts, CGI. - art. 163 bis G
 	  - Code général des impôts, CGI. - art. 182 A
 	  - Code général des impôts, CGI. - art. 224
 	  - Code général des impôts, CGI. - art. 225
 	  - Code général des impôts, CGI. - art. 231
+	  - Code général des impôts, CGI. - art. 80 bis
+	  - Code général des impôts, CGI. - art. 80 quaterdecies (V)
 	  - Code général des impôts, CGI. - art. 81
 	  - Code général des impôts, CGI. - art. 81 quater
 	  - Code général des impôts, CGI. - art. 83
@@ -6848,15 +6957,15 @@ Modification effectuée en conséquence des articles 1er, 3 et 12-I de l'ordonna
 	  - Code du travail - art. L6331-2
 	  - Code de la sécurité sociale. - art. L136-2
 
-	**Modifié par**:
-
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 19 février 2010 - art. 3 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39-0 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 M bis (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-131 du 30 janvier 2012 - art. 2
 
 
 ###### Article 39 A
@@ -10235,35 +10344,59 @@ d'épargne.
 
 ###### Article 41 V bis
 
-I.-La société émettrice des bons de souscription de parts de créateur d'entreprise mentionnés à l'article 163 bis G du code
-général des impôts adresse à la direction des services fiscaux du lieu de dépôt de sa déclaration de résultats, au plus tard
-le 15 février de l'année qui suit celle au cours de laquelle des titres sont souscrits en exercice des bons, une déclaration
-précisant, pour chaque souscripteur, son identité et son adresse ainsi que les date, nombre et prix d'acquisition des titres
-correspondants. 
+1° Les bénéficiaires des bons de souscription de parts de créateur d'entreprise mentionnés à l'article 163 bis G du code
+général des impôts joignent à leur déclaration de revenus souscrite au titre de l'année d'exercice des bons considérés un
+état individuel délivré, au plus tard le 1er mars de l'année de dépôt de la déclaration, par la société mentionnée au 2° du
+présent article. 
 
-La société atteste, en outre, sur cette déclaration que les bons ont été émis et attribués conformément aux dispositions des
-II à III de l'article 163 bis G du code général des impôts et, en particulier, qu'à la date de leur émission elle remplissait
-l'ensemble des conditions mentionnées au II de l'article précité sous réserve de la dérogation prévue au 1° du II bis de cet
+Cet état mentionne : 
+
+a) L'objet pour lequel il est établi : application de l'article 163 bis G du code général des impôts ; 
+
+b) La raison sociale et le siège social de la société émettrice des titres ; 
+
+c) L'identité et l'adresse du bénéficiaire ; 
+
+d) Les date, nombre et prix d'acquisition des titres ; 
+
+e) La fraction du gain constaté lors de l'exercice des bons de source française ; 
+
+f) A la date d'exercice des bons, la date depuis laquelle le bénéficiaire exerce son activité dans la société ou, s'il n'y
+exerce plus son activité, la date de son départ et son ancienneté dans la société à cette date. 
+
+La société atteste, en outre, sur cet état que les bons ont été émis et attribués conformément aux dispositions de l'article
+163 bis G précité et, en particulier, qu'à la date de leur émission elle remplissait l'ensemble des conditions prévues à cet
 article. 
 
-Elle indique également sur la même déclaration, à la date d'exercice des bons, depuis quelle date le bénéficiaire exerce son
-activité dans la société ou, s'il n'y exerce plus son activité, la date de son départ et son ancienneté dans la société à
-cette date. 
+Les contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649
+quater B ter du code général des impôts, sont dispensés de joindre cet état à cette déclaration. Ils doivent le conserver
+jusqu'à l'expiration du délai de reprise et le présenter à l'administration sur demande de sa part. 
 
-II.-La société émettrice des bons de souscription de parts de créateur d'entreprise délivre, dans le même délai, un duplicata
-de la déclaration visée au I à chaque souscripteur pour ce qui le concerne. Pour bénéficier des dispositions du I de
-l'article 163 bis G du code général des impôts, l'intéressé joint ce duplicata à sa déclaration de revenus déposée au titre
-de l'année d'exercice des bons concernés.
+2° La société émettrice des bons dans laquelle le titulaire des bons exerce son activité transmet à l'administration fiscale,
+dans la déclaration prévue à l'article 87 du code général des impôts, les informations mentionnées au k du 2° de l'article
+39. 
 
-**Nota:**
+Lorsque le titulaire exerce son activité dans une entreprise différente de la société ou de l'entreprise mentionnée à
+l'alinéa précédent au moment de l'exercice des bons, cette information est transmise, selon les mêmes modalités, par
+l'entreprise dans laquelle il exerce son activité lorsqu'elle dispose des informations nécessaires. 
 
-Modifications effectuées en conséquence de l'article 33-I [3°] et II de la loi n° 2008-776 du 4 août 2008.
+Dans les autres cas, la société émettrice adresse au service des impôts dont elle relève, au plus tard le 1er mars de l'année
+qui suit celle de l'exercice des bons, un duplicata de l'état individuel mentionné au 1°. 
+
+3° Lorsque les titres issus de l'exercice des bons sont inscrits sur un compte titres qui n'est pas tenu par l'entreprise ou
+la société mentionnée au 2°, celle-ci communique, soit au plus tard le 1er mars de l'année qui suit celle de l'exercice des
+bons, soit lors de la cession des titres lorsqu'elle intervient avant cette date, une copie de l'état prévu au 1° à
+l'établissement chargé de la tenue du compte titres qui est redevable de la retenue à la source prévue à l'article 182 A ter
+du code général des impôts. 
+
+En cas de transfert des titres sur un autre compte, l'établissement mentionné à l'alinéa précédent transmet une copie du
+duplicata au nouveau redevable de la retenue à la source.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2012-131 du 30 janvier 2012 - art. 3
 
 	**Cité par**:
 
@@ -10271,7 +10404,10 @@ Modifications effectuées en conséquence de l'article 33-I [3°] et II de la lo
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 163 bis G (V)
+	  - Code général des impôts, CGI. - art. 163 bis G
+	  - Code général des impôts, CGI. - art. 1649 quater B ter
+	  - Code général des impôts, CGI. - art. 182 A ter
+	  - Code général des impôts, CGI. - art. 87
 
 
 ##### II bis : Fonds communs de placement à risques et fonds professionnels de capital investissement
