@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-02-01
+Version Consolidée au 2012-02-23
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -40425,6 +40425,46 @@ Les paiements reçus sont versés aux ports suivant les mêmes modalités que le
 	**Créé par**:
 
 	  - Décret n°2005-1747 du 30 décembre 2005 - art. 1 () JORF 31 décembre 2005 en vigueur le 1er juillet 2006
+
+
+#### V : Consolidation au sein d'un groupe du paiement de la taxe sur la valeur ajoutée et des taxes assimilées
+
+###### Article 384 D
+
+Le redevable mentionné au 1 de l'article 1693 ter du code général des impôts adresse au service mentionné au 2 du même
+article : 
+
+1° Lors de la notification de l'option : 
+
+a. La liste des personnes morales membres du groupe. Cette liste indique, pour chaque société membre du groupe, sa
+désignation, l'adresse de son siège social et la répartition de son capital ; 
+
+b. Lorsque l'option mentionnée au premier alinéa de l'article 1693 ter du code général des impôts est exercée par un organe
+central ou une caisse départementale ou interdépartementale, la liste des personnes morales membres du groupe. Cette liste
+indique, pour chaque membre du groupe, sa désignation, l'adresse de son siège et la nature du lien qui l'unit à l'entité tête
+du groupe formé en application du troisième alinéa de l'article 223 A du même code ; 
+
+c. Les attestations par lesquelles les membres du groupe font connaître leur accord pour que le redevable mentionné au 1 de
+l'article 1693 ter du code général des impôts acquitte à leur place la taxe sur la valeur ajoutée et les taxes, contributions
+et redevances déclarées sur l'annexe à la déclaration prévue au 2 de l'article 287 du même code. 
+
+2° Au plus tard à la date de clôture de chacun des exercices arrêtés au cours de la période de validité de l'option : 
+
+a. La liste mentionnée au a ou au b du 1, mise à jour pour l'exercice suivant ; 
+
+b. Les attestations mentionnées au c du 1 produites par les entités devenant membres du groupe à compter de cet exercice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-239 du 20 février 2012 - art. 4
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1693 ter
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 287
 
 
 ### Section III : Enregistrement, publicité foncière, timbre
