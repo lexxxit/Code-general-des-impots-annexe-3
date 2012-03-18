@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-03-17
+Version Consolidée au 2012-03-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -41766,59 +41766,6 @@ d'enregistrement régulièrement perçus.
 
 #### C : Demandes des comptables de la direction générale des finances publiques chargés du recouvrement des impôts et assimilés
 
-##### 1 : Cotes irrécouvrables
-
-###### Article 426
-
-Les comptables du Trésor chargés du recouvrement des impôts directs peuvent, dans les délais et conditions fixées par les
-instructions ministérielles, demander l'admission en non-valeur des cotes irrécouvrables.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°99-889 du 21 octobre 1999 - art. 1 () JORF 22 octobre 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
-	  - HISTO: Edition du 31 mars 2000
-
-	**Cité par**:
-
-	  - Décret n°2008-446 du 7 mai 2008 - art. 1 (V)
-	  - Décret n°2008-446 du 7 mai 2008 - art. 2 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 428 (V)
-
-
-###### Article 428
-
-Le pouvoir de statuer sur les demandes d'admission en non-valeur appartient au trésorier-payeur général, qui délègue sa
-signature au receveur des finances pour les postes comptables de son arrondissement financier.
-
-Les décisions prises sur les demandes d'admission en non-valeur des cotes irrécouvrables sont notifiées aux comptables du
-Trésor.
-
-Toutefois, lorsque les sommes n'excèdent pas des limites fixées par arrêté du ministre du budget, l'absence de réponse du
-trésorier-payeur général ou du receveur des finances dans un délai de trois mois à compter de la réception de la demande
-d'admission en non-valeur vaut acceptation de celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°99-889 du 21 octobre 1999 - art. 3 () JORF 22 octobre 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°99-889 du 21 octobre 1999 - art. 8 (V)
-	  - HISTO: Edition du 31 mars 2000
-
-
 ##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure
 
 ###### Article 429
@@ -41986,6 +41933,57 @@ chargé du budget.
 
 	  - Décret n°2011-1138 du 20 septembre 2011 - art. 1
 
+
+#### C : Propositions des comptables secondaires de la direction générale des finances publiques chargés du recouvrement des créances de nature fiscale
+
+##### 1 : Créances irrécouvrables
+
+###### Article 426
+
+Les  comptables secondaires de la direction générale des finances publiques  peuvent proposer l'admission en non-valeur des
+créances de nature  fiscale qu'ils estiment irrécouvrables.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2008-446 du 7 mai 2008 - art. 1 (V)
+	  - Décret n°2008-446 du 7 mai 2008 - art. 2 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 428 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-371 du 16 mars 2012 - art. 1
+
+
+###### Article 428
+
+Le pouvoir de statuer sur les propositions d'admission en non-valeur appartient au directeur départemental des finances
+publiques ou au responsable d'un service à compétence nationale. 
+
+Les décisions prises sur les propositions d'admission en non-valeur sont notifiées aux comptables secondaires de la direction
+générale des finances publiques. 
+
+Toutefois, lorsque le montant des créances mentionnées à l'article 426 dont l'admission en non-valeur est proposée n'excède
+pas 5 000 €, l'absence de réponse du directeur départemental des finances publiques ou du responsable d'un service à
+compétence nationale dans un délai de trois mois à compter de la réception de la proposition vaut acceptation de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-371 du 16 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 426
+
+
+##### 2 : Dispense de versement, remise gracieuse et constatation de la force majeure
 
 #### D : Dispositions particulières aux impôts directs
 
