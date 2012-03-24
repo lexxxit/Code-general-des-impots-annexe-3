@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-03-22
+Version Consolidée au 2012-03-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -39570,6 +39570,37 @@ Ils obtiennent le remboursement de leurs frais réels de transport aux tarifs ap
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+
+
+#### Chapitre II : Régime de certains organismes et sociétés
+
+##### Section II : Entrepreneur individuel à responsabilité limitée 
+
+###### Article 350 bis
+
+Pour l'exercice de l'option prévue à l'article 1655 sexies du code général des impôts, l'entreprise individuelle à
+responsabilité limitée adresse une notification au service des impôts du lieu de son principal établissement.
+
+La notification de l'option indique la dénomination et l'adresse de l'entreprise individuelle à responsabilité limitée, ainsi
+que les nom, prénom, l'adresse et la signature de l'entrepreneur individuel qui exerce son activité dans le cadre d'une
+entreprise individuelle à responsabilité limitée. Le service des impôts en délivre un récépissé.
+
+L'option est notifiée avant la fin du troisième mois de l'exercice au titre duquel l'entrepreneur individuel, qui exerce son
+activité dans le cadre d'une entreprise individuelle à responsabilité limitée, souhaite être assimilé à une entreprise
+unipersonnelle à responsabilité limitée ou à une exploitation agricole à responsabilité limitée.
+
+En cas de transformation d'une entreprise individuelle en une entreprise individuelle à responsabilité limitée, l'option est
+notifiée dans les trois mois suivant cette transformation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-398 du 22 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1655 sexies
 
 
 #### Chapitre III : Les compétences de la direction générale des douanes et droits indirects en matière de contributions indirectes et de réglementations assimilées
