@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-03-29
+Version Consolidée au 2012-03-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -42748,8 +42748,8 @@ a) Frais d'ouverture des portes ;
 
 b) Notification au saisi en cas de saisie-vente hors de son domicile et en son absence ; 
 
-c) Notification au maire, au parquet ou par procès-verbal dans les cas prévus par les articles 656, 659, 660, 684 et 691 du
-code de procédure civile ; 
+c) Notification au maire, au parquet ou par procès-verbal dans les cas prévus par les articles 656,659,660,684 et 691 du code
+de procédure civile ; 
 
 d) Remise des actes sous enveloppe ; 
 
@@ -42785,19 +42785,15 @@ marché ;
 
 r) Frais de publicité provisoire et définitive des sûretés judiciaires. 
 
-Ces frais sont comptés aux redevables en conformité du tarif des huissiers de justice, des agents huissiers du Trésor, des
-commissaires-priseurs judiciaires, des notaires, ou des règles de rémunérations applicables aux avocats.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 26-IV (premier alinéa) de la loi n° 2007-1787 du 20 décembre 2007 et de
-l'article 29 de la loi n° 2000-642 du 10 juillet 2000.
+Ces frais sont comptés aux redevables en conformité du tarif des huissiers de justice, des   agents des finances publiques
+chargés des fonctions d'huissier, des commissaires-priseurs judiciaires, des notaires, ou des règles de rémunérations
+applicables aux avocats.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2012-426 du 28 mars 2012 - art. 1
 
 	**Cite**:
 
