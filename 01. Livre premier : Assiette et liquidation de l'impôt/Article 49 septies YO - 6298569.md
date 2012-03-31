@@ -2,24 +2,24 @@
 
 Pour l'application des dispositions des articles 199 ter F, 220 H et 244 quater G du code général des impôts, les entreprises
 doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du service des
-impôts dont elles dépendent.
+impôts dont elles dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
-comptable de la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
-relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les
-déclarations spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de
-solde relatif au résultat d'ensemble du groupe.
+comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des
+impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés
+prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des
+sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du
+groupe.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 ter F, 220 H, 244 quater G, 360, 223 A
-
 	**Modifié par**:
 
-	  - Décret n°2005-1745 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
+	  - Code général des impôts, CGI. - art. 199 ter F
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 223 A

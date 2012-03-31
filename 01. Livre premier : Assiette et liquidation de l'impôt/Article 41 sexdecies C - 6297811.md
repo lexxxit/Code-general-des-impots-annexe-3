@@ -2,8 +2,8 @@
 
 Le gérant d'un fonds commun de placement doit, dans les trente jours de la date de mise en distribution des produits des
 actifs compris dans le fonds, et au plus tard dans les trente jours suivant le délai de cinq mois prévu à l'article L. 214-10
-du code monétaire et financier, déposer auprès de la direction des services fiscaux désignée au premier alinéa de l'article
-41 sexdecies A, un état sur papier libre comportant l'indication : 
+du code monétaire et financier, déposer auprès de la direction départementale ou, le cas échéant, régionale des finances
+publiques désignée au premier alinéa de l'article 41 sexdecies A, un état sur papier libre comportant l'indication : 
 
 a. Des dates d'ouverture et de clôture de l'exercice dont les produits ont été mis en distribution ; 
 
@@ -19,25 +19,21 @@ e. Le cas échéant, de la date de distribution et du montant de chacun des acom
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 41 sexdecies A, 158
-	  - Code monétaire et financier - art. L214-10 (V)
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 2005-12-30 art. 76 I, XV Finances pour 2006 JORF 31 décembre 2006
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2006
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A
+	  - Code général des impôts, CGI. - art. 158
+	  - Code monétaire et financier - art. L214-10
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies E (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007

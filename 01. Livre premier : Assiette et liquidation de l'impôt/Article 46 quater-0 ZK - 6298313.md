@@ -2,32 +2,34 @@
 
 La déclaration de résultats visée à l'article 53 A du code général des impôts comporte les éléments nécessaires au contrôle
 du résultat d'ensemble. Elle est souscrite en double exemplaire par chaque société membre du groupe, qui doit joindre en
-outre :
+outre : 
 
-a) l'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble ;
+a) l'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble ; 
 
 b) l'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
 III de l'article 44 octies, du III de l'article 44 octies A et du neuvième alinéa du I de l'article 44 decies du code général
-des impôts.
+des impôts. 
 
-La société mère dépose avec son relevé de solde auprès du comptable de la direction générale des impôts la liste des sociétés
-membres du groupe et des sociétés qui cessent d'être membres de ce groupe défini à l'article 223 A du code général des
-impôts. Cette liste indique le taux de détention directe et indirecte par la société mère.
+La société mère dépose avec son relevé de solde auprès du comptable de la direction générale des finances publiques du lieu
+d'imposition défini à l'article 218 A du code précité la liste des sociétés membres du groupe et des sociétés qui cessent
+d'être membres de ce groupe défini à l'article 223 A du code précité. Cette liste indique le taux de détention directe et
+indirecte par la société mère.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 53 A, 44 decies, 223 A
-
 	**Modifié par**:
 
-	  - Décret n°2006-1796 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 Rectificatif JORF 20 janvier 2007
+	  - Décret n°2012-431  du 29 mars 2012 - art. 5
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 44 decies
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 octies A
+	  - Code général des impôts, CGI. - art. 53 A

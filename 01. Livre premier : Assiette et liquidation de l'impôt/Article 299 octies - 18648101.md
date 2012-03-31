@@ -5,7 +5,7 @@ financier ou d'un fonds commun de placement dans l'innovation mentionné à l'ar
 commun de placement à risque mentionné à l'article L. 214-36 du même code ou le dépositaire des actifs de ces fonds agissant
 pour le compte de la société de gestion est soumis aux obligations définies aux I à III de l'article 46 AI ter lorsque les
 souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III
-de l'article 885-0 V bis du code général des impôts.
+de l'article 885-0 V bis du code général des impôts. 
 
 2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, au plus tard dans les trois mois suivant la
 date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux
@@ -32,10 +32,10 @@ l'expiration de la cinquième année qui suit celle de la souscription.
 4. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du fonds sont cédées ou rachetées ou lorsque,
 dans ce même délai, l'une des conditions prévues aux articles L. 214-41-1, L. 214-41 ou L. 214-36 du code monétaire et
 financier et au III de l'article 885-0 V bis du code général des impôts cesse d'être satisfaite, la société de gestion du
-fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction des services fiscaux dans le
-ressort de laquelle est souscrite sa déclaration de résultat, un état individuel qui comprend, outre les informations
-mentionnées au 2, le nombre des parts cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas
-échéant, la nature de la condition qui cesse d'être satisfaite. 
+fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la   direction départementale ou, le cas
+échéant, régionale des finances publiques dans le ressort de laquelle est souscrite sa déclaration de résultat, un état
+individuel qui comprend, outre les informations mentionnées au 2, le nombre des parts cédées ou rachetées, le montant et la
+date de la cession ou du rachat ainsi que, le cas échéant, la nature de la condition qui cesse d'être satisfaite. 
 
 Cet état doit être délivré avant la date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la
 cession ou le rachat des parts ou le non-respect de l'une des conditions prévues aux articles L. 214-41-1, L. 214-41 ou L.
@@ -51,9 +51,9 @@ Il s'assure également que les sociétés dont les titres sont retenus pour le c
 de l'article 885-0 V bis du code général des impôts satisfont aux conditions mentionnées aux a à e ou aux a à h du 1 du I de
 l'article 885-0 V bis du code précité. 
 
-La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la clôture de chaque exercice, à la direction des
-services fiscaux dont il relève, un état de chacun des inventaires semestriels de l'actif du fonds mentionnés au premier
-alinéa, à l'appui du bilan et du compte de résultats. 
+La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la clôture de chaque exercice, à la   direction
+départementale ou, le cas échéant, régionale des finances publiques dont il relève, un état de chacun des inventaires
+semestriels de l'actif du fonds mentionnés au premier alinéa, à l'appui du bilan et du compte de résultats. 
 
 III.-1. L'engagement de conservation des parts prévu au 1 du III de l'article 885-0 V bis du code précité est constaté par un
 document, établi en double exemplaire à l'occasion de chaque souscription, qui précise le nombre de parts, la date et le
@@ -64,20 +64,15 @@ déclaration d'impôt de solidarité sur la fortune, ou fournit dans les trois m
 déclaration, l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une copie de l'engagement de conservation
 mentionné au 1.
 
-**Nota:**
-
-Décret n° 2010-604 du 4 juin 2010 art 2 : Les dispositions du présent article sont applicables à l'impôt de solidarité sur la
-fortune dû à compter de l'année 2010.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-604 du 4 juin 2010 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 1er août 2011 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cite**:
 

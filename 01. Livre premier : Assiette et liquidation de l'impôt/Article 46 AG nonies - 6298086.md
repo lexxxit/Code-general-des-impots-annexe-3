@@ -1,10 +1,11 @@
 # Article 46 AG nonies
 
 Lorsque le logement est construit par une société, les obligations déclaratives énumérées à l'article 46 AG octies incombent
-au gérant de la société.
+au gérant de la société. 
 
-Les documents sont adressés avec la déclaration d'achèvement dans les six mois de l'achèvement du logement à la direction des
-services fiscaux auprès de laquelle la société souscrit ses déclarations de résultats.
+Les documents sont adressés avec la déclaration d'achèvement dans les six mois de l'achèvement du logement à la direction
+départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle la société souscrit ses déclarations
+de résultats. 
 
 Le gérant de la société délivre en double exemplaire aux souscripteurs de titres un document attestant que la location et la
 sous-location remplissent les conditions fixées aux articles 46 AG sexies à 46 AG nonies, le souscripteur en joint un
@@ -12,18 +13,15 @@ exemplaire à sa déclaration de revenus de l'année au titre de laquelle le bai
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 46 AG octies, 46 AG sexies à 46 AG nonies
-
-	**Créé par**:
-
-	  - Décret n°92-441 du 19 mai 1992 - art. 4 (V) JORF 20 mai 1992
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°92-836 du 27 août 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG octies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexies

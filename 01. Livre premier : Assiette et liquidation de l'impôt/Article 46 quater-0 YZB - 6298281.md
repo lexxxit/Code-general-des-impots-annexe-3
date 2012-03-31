@@ -2,22 +2,21 @@
 
 Pour l'application des dispositions des articles 220 nonies et 220 R du code général des impôts, les entreprises déposent une
 déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article 360
-auprès du comptable de la direction générale des impôts.
+auprès du comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code
+général des impôts. 
 
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
 société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
 	**Cite**:
 
-	  - CGI 220 nonies, 220 R, 223 A
-	  - CGIAN3 360
-
-	**Créé par**:
-
-	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 R (V)
+	  - Code général des impôts, CGI. - art. 220 nonies (V)
+	  - Code général des impôts, CGI. - art. 223 A

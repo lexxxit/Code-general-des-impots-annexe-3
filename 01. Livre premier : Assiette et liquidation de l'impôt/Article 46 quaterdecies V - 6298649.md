@@ -9,8 +9,8 @@ premier alinéa du 2 du III de l'article 217 undecies précité court à compter
 
 La commission consultative est nationale lorsque l'agrément est délivré par le ministre chargé du budget ou locale lorsqu'en
 application des dispositions de l'article 1649 nonies du code général des impôts et dans les conditions prévues à l'article
-170 decies de l'annexe IV au code général des impôts l'agrément est délivré par le directeur des services fiscaux de la
-collectivité dans laquelle le programme d'investissement est réalisé. 
+170 decies de l'annexe IV au code général des impôts l'agrément est délivré par le directeur régional ou, le cas échéant,
+départemental des finances publiques du département dans lequel le programme d'investissement est réalisé. 
 
 Tout dossier pour lequel une demande d'agrément a été déposée après la date de promulgation de la loi n° 2003-660 du 21
 juillet 2003 de programme pour l'outre-mer et qui est susceptible de faire l'objet d'une décision de retrait d'agrément doit
@@ -21,10 +21,10 @@ juillet 2003 de programme pour l'outre-mer et qui est susceptible de faire l'obj
 	**Cite**:
 
 	  - Loi n°2003-660 du 21 juillet 2003
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (V)
-	  - Code général des impôts, CGI. - art. 1649 nonies (V)
-	  - Code général des impôts, CGI. - art. 217 undecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies
+	  - Code général des impôts, CGI. - art. 1649 nonies
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 6

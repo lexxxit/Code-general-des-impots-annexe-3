@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-03-31
+Version Consolidée au 2012-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6339,17 +6339,17 @@ Ces dispositions s'appliquent pour la détermination des résultats des exercice
 ###### Article 38 sexdecies U
 
 Les dispositions du premier alinéa de l'article 73 D du code général des impôts s'appliquent sur demande signée
-conjointement :
+conjointement : 
 
 a) En cas de transmission des titres, d'une part, par l'associé dont les titres sont transmis ou, si la transmission résulte
-du décès de cet associé, par ses ayants cause et, d'autre part, par le ou les bénéficiaires de la transmission ;
+du décès de cet associé, par ses ayants cause et, d'autre part, par le ou les bénéficiaires de la transmission ; 
 
 b) En cas de rachat des titres par la société, par l'associé dont les titres sont rachetés et par les associés présents dans
-la société à la date du rachat.
+la société à la date du rachat. 
 
-Cette demande, établie sur papier libre, doit être adressée par la société, en simple exemplaire, à la direction des services
-fiscaux auprès de laquelle elle souscrit ses déclarations de résultats, dans un délai de soixante jours à compter du jour de
-la transmission ou du rachat des titres.
+Cette demande, établie sur papier libre, doit être adressée par la société, en simple exemplaire, à la direction
+départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle elle souscrit ses déclarations de
+résultats, dans un délai de soixante jours à compter du jour de la transmission ou du rachat des titres. 
 
 L'associé dont les titres sont transmis ou rachetés doit joindre une copie de cette demande à la déclaration de ses revenus
 prévue à l'article 170 du code général des impôts qui est établie en vue de l'imposition immédiate. Lorsque la transmission
@@ -6358,49 +6358,46 @@ dernier et prévue au 2 de l'article 204 du code précité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 73 D, 170, 204
-
-	**Créé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 204
+	  - Code général des impôts, CGI. - art. 73 D
 
 
 ###### Article 38 sexdecies V
 
 Pour l'application des dispositions du premier alinéa de l'article 73 D du code général des impôts, le résultat réalisé par
 la société depuis la fin de la dernière période d'imposition jusqu'à la date de la transmission ou du rachat des titres est
-déterminé sur une déclaration spéciale établie conformément aux dispositions des articles 38 sexdecies Q ou 38 sexdecies RB.
+déterminé sur une déclaration spéciale établie conformément aux dispositions des articles 38 sexdecies Q ou 38 sexdecies RB. 
 
 L'associé dont les titres sont transmis ou rachetés est immédiatement imposable sur la quote-part lui revenant dans le
 résultat de la société arrêté dans les conditions prévues au premier alinéa. Cette quote-part doit être inscrite sur le
-formulaire de déclaration prévu à l'article 48.
+formulaire de déclaration prévu à l'article 48. 
 
 Les déclarations mentionnées aux premier et deuxième alinéas ainsi que la déclaration mentionnée à la première phrase du
 dernier alinéa de l'article 38 sexdecies U doivent être adressées, dans un délai de soixante jours à compter du jour de la
-transmission ou du rachat des titres, à la direction des services fiscaux auprès de laquelle la société souscrit ses
-déclarations. Toutefois, lorsque la transmission résulte du décès du contribuable, ces déclarations sont adressées à cette
-même direction dans le délai prévu au 2 de l'article 204 du code général des impôts.
+transmission ou du rachat des titres, à la direction départementale ou, le cas échéant, régionale des finances publiques
+auprès de laquelle la société souscrit ses déclarations. Toutefois, lorsque la transmission résulte du décès du contribuable,
+ces déclarations sont adressées à cette même direction dans le délai prévu au 2 de l'article 204 du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 73 D, 204
-	  - CGIAN3 38 sexdecies Q, 38 sexdecies RB, 48, 38 sexdecies U
-
-	**Créé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies Q (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies RB (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 48 (V)
+	  - Code général des impôts, CGI. - art. 204
+	  - Code général des impôts, CGI. - art. 73 D
 
 
 ###### Article 38 sexdecies W
@@ -6688,23 +6685,27 @@ ou parts souscrites ou reçues en rémunération de l'apport de valeurs acquises
 ###### Article 38 septdecies E
 
 Lorsque les titres souscrits ou reçus en rémunération de l'apport de valeurs acquises à la suite d'options sont cédés ou
-convertis sous la forme au porteur, l'intermédiaire agréé notifie à la direction des services fiscaux du lieu de
-l'établissement la date de l'opération et le nombre de titres concernés avant le 16 février de l'année suivant celle au cours
-de laquelle a eu lieu la cession ou la conversion.
+convertis sous la forme au porteur, l'intermédiaire agréé notifie à la   direction départementale ou, le cas échéant,
+régionale des finances publiques du lieu de l'établissement la date de l'opération et le nombre de titres concernés avant le
+16 février de l'année suivant celle au cours de laquelle a eu lieu la cession ou la conversion.
+
+**Nota:**
+
+En conséquence de l'article 26-I i et XI-5 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans objet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°84-886 du 28 septembre 1984 - art. 3 (V) JORF 6 octobre 1984
-
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°85-1007 du 24 septembre 1985
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
 
 
 ##### C : Rachat d'une entreprise par ses salariés
@@ -7020,37 +7021,36 @@ f) Le cas échéant, la date du décès ;
 
 ###### Article 39 B
 
-Sont souscrites auprès de la direction des services fiscaux du lieu du domicile de la personne ou du siège de l'établissement
-ou du bureau qui a assuré le paiement :
+Sont souscrites auprès de la direction départementale ou, le cas échéant, régionale des finances publiques du lieu du
+domicile de la personne ou du siège de l'établissement ou du bureau qui a assuré le paiement : 
 
 1° La déclaration prévue à l'article 87 du code général des impôts lorsqu'elle concerne des traitements, émoluments, salaires
-ou rétributions versés à des personnes ne relevant pas du régime général de sécurité sociale ;
+ou rétributions versés à des personnes ne relevant pas du régime général de sécurité sociale ; 
 
-2° La déclaration prévue à l'article 88 du même code ;
+2° La déclaration prévue à l'article 88 du même code ; 
 
 3° La déclaration concernant des indemnités journalières ou des allocations d'assurance et de solidarité mentionnées aux
-articles 80 quinquies ou 231 bis D du code précité.
+articles 80 quinquies ou 231 bis D du code précité. 
 
 Ces déclarations peuvent êtres souscrites soit par la communication d'un support informatique, soit par l'envoi de
 formulaires normalisés, dont les caractéristiques et le modèle sont fixés par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 87, 88, 231 bis D, 80 quinquies
-
-	**Créé par**:
-
-	  - Décret n°85-1344 du 16 décembre 1985 - art. 1 (V) JORF 20 décembre 1985
-
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°86-1086 du 7 octobre 1986
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 231 bis D
+	  - Code général des impôts, CGI. - art. 80 quinquies
+	  - Code général des impôts, CGI. - art. 87
+	  - Code général des impôts, CGI. - art. 88
 
 
 ###### Article 39-0 A
@@ -7353,14 +7353,14 @@ Les dispositions du premier alinéa de l'article 93 B du code général des imp�
 conjointement :
 
 - en cas de transmission des titres, d'une part, par l'associé dont les titres sont transmis ou, si la transmission résulte
-du décès de cet associé, par ses ayants cause et, d'autre part, par le (ou les) bénéficiaire(s) de la transmission ;
+du décès de cet associé, par ses ayants cause et, d'autre part, par le (ou les) bénéficiaire (s) de la transmission ;
 
 - en cas de rachat des titres par la société, par l'associé dont les titres sont rachetés et par les associés présents dans
-la société à la date du rachat.
+la société à la date du rachat. 
 
-Cette demande, établie sur papier libre, doit être adressée par la société, en simple exemplaire, à la direction des services
-fiscaux auprès de laquelle elle souscrit ses déclarations de résultats, dans un délai de soixante jours à compter du jour de
-la transmission ou du rachat des titres.
+Cette demande, établie sur papier libre, doit être adressée par la société, en simple exemplaire, à la direction
+départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle elle souscrit ses déclarations de
+résultats, dans un délai de soixante jours à compter du jour de la transmission ou du rachat des titres. 
 
 L'associé dont les titres sont transmis ou rachetés doit joindre une copie de cette demande à la déclaration de ses revenus
 prévue à l'article 170 du code général des impôts afférente à l'année de la transmission des titres. Lorsque la transmission
@@ -7369,48 +7369,45 @@ dernier et prévue au 2 de l'article 204 du code précité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 93 B, 170, 204
-
-	**Créé par**:
-
-	  - Décret n°97-224 du 7 mars 1997 - art. 1 () JORF 14 mars 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 204 (V)
+	  - Code général des impôts, CGI. - art. 93 B (V)
 
 
 ###### Article 41-0 bis E
 
 Pour l'application des dispositions du premier alinéa de l'article 93 B du code général des impôts, le résultat réalisé par
 la société depuis la fin de la dernière période d'imposition jusqu'à la date de la transmission ou du rachat des titres est
-déterminé sur une déclaration spéciale établie conformément aux dispositions de l'article 40 A.
+déterminé sur une déclaration spéciale établie conformément aux dispositions de l'article 40 A. 
 
 L'associé dont les titres sont transmis ou rachetés est immédiatement imposable sur la quote-part lui revenant dans le
 résultat de la société arrêté dans les conditions prévues au premier alinéa. Cette quote-part doit être inscrite sur le
-formulaire de déclaration prévu à l'article 48.
+formulaire de déclaration prévu à l'article 48. 
 
 Les déclarations mentionnées aux premier et deuxième alinéas doivent être adressées, dans un délai de soixante jours à
-compter du jour de la transmission ou du rachat des titres, à la direction des services fiscaux auprès de laquelle la société
-souscrit ses déclarations. Toutefois, lorsque la transmission résulte du décès du contribuable, ces déclarations sont
-adressées à cette même direction dans le délai prévu au 2 de l'article 204 du code général des impôts.
+compter du jour de la transmission ou du rachat des titres, à la direction départementale ou, le cas échéant, régionale des
+finances publiques auprès de laquelle la société souscrit ses déclarations. Toutefois, lorsque la transmission résulte du
+décès du contribuable, ces déclarations sont adressées à cette même direction dans le délai prévu au 2 de l'article 204 du
+code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 93 B, 204
-	  - CGIAN3 40 A, 48
-
-	**Créé par**:
-
-	  - Décret n°97-224 du 7 mars 1997 - art. 1 () JORF 14 mars 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 40 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 48
+	  - Code général des impôts, CGI. - art. 204
+	  - Code général des impôts, CGI. - art. 93 B (V)
 
 
 ###### Article 41-0 bis F
@@ -7963,8 +7960,13 @@ Le montant du prélèvement opéré ou, à défaut, l'identité et le domicile r
 
 ###### Article 41 quaterdecies
 
-L'autorisation est accordée par le directeur général des impôts.
+L'autorisation est accordée par le directeur général des finances publiques.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 26
 
 
 ###### Article 41 quindecies
@@ -7987,38 +7989,45 @@ aucune émission qu'à dater de la notification de l'autorisation ministérielle
 
 ###### Article 41 sexdecies
 
-Les titres émis à l'étranger porteront uniformément la mention suivante :
+Les titres émis à l'étranger porteront uniformément la mention suivante : 
 
-"En application du décret français n° 55-486 du 30 avril 1955 (code général des impôts, art. 131 ter-1), la présente
-obligation est soumise en France au régime fiscal des valeurs mobilières étrangères (décision du directeur général des impôts
-en date du ..)".
+" En application du décret français n° 55-486 du 30 avril 1955 (code général des impôts, art. 131 ter-1), la présente
+obligation est soumise en France au régime fiscal des valeurs mobilières étrangères (décision du directeur général des
+finances publiques en date du..) ".
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 26
+
 	**Cite**:
 
-	  - CGI 131 ter 1
-	  - Décret n°55-486 1955-04-30
+	  - Code général des impôts, CGI. - art. 131 ter (V)
 
 
 ###### Article 41 terdecies
 
 Pour être admises à bénéficier du régime fiscal prévu au 1 de l'article 131 ter du code général des impôts, les sociétés,
 compagnies ou entreprises françaises qui se proposent d'émettre à l'étranger des séries spéciales d'obligations, doivent
-déposer au préalable une demande spéciale au ministère de l'économie et des finances (direction générale des impôts).
+déposer au préalable une demande spéciale à la direction générale des finances publiques. 
 
 Cette demande indique la date et les conditions de l'émission ainsi que le nombre, le montant et les numéros des titres à
 émettre.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 131 ter 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 2
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 quindecies (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 131 ter
 
 
 ##### G : Fonds communs de placement, fonds professionnels de capital investissement et fonds professionnels spécialisés
@@ -8027,18 +8036,19 @@ Cette demande indique la date et les conditions de l'émission ainsi que le nomb
 
 Dans le mois de l'agrément délivré par l'Autorité des marchés financiers prévu à l'article L. 214-3 du code monétaire et
 financier ou dans le mois de la déclaration faite à l'Autorité des marchés financiers pour les fonds qui ne sont pas soumis à
-cet agrément, le gérant dépose auprès de la direction des services fiscaux dans le ressort de laquelle il souscrit sa
-déclaration de résultats, une déclaration d'existence du fonds et un exemplaire du règlement de celui-ci. 
+cet agrément, le gérant dépose auprès de la   direction départementale ou, le cas échéant, régionale des finances publiques
+dans le ressort de laquelle il souscrit sa déclaration de résultats, une déclaration d'existence du fonds et un exemplaire du
+règlement de celui-ci. 
 
-Le gérant d'un fonds commun de placement informe la direction des services fiscaux mentionnée au premier alinéa de la
-transformation, de la fusion, de la scission ou de la liquidation du fonds prévues à l'article L. 214-3 du code monétaire et
-financier dans le délai mentionné au premier alinéa.
+Le gérant d'un fonds commun de placement informe la   direction départementale ou, le cas échéant, régionale des finances
+publiques mentionnée au premier alinéa de la transformation, de la fusion, de la scission ou de la liquidation du fonds
+prévues à l'article L. 214-3 du code monétaire et financier dans le délai mentionné au premier alinéa.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cité par**:
 
@@ -8050,19 +8060,15 @@ financier dans le délai mentionné au premier alinéa.
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-3 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code monétaire et financier - art. L214-3
 
 
 ###### Article 41 sexdecies C
 
 Le gérant d'un fonds commun de placement doit, dans les trente jours de la date de mise en distribution des produits des
 actifs compris dans le fonds, et au plus tard dans les trente jours suivant le délai de cinq mois prévu à l'article L. 214-10
-du code monétaire et financier, déposer auprès de la direction des services fiscaux désignée au premier alinéa de l'article
-41 sexdecies A, un état sur papier libre comportant l'indication : 
+du code monétaire et financier, déposer auprès de la direction départementale ou, le cas échéant, régionale des finances
+publiques désignée au premier alinéa de l'article 41 sexdecies A, un état sur papier libre comportant l'indication : 
 
 a. Des dates d'ouverture et de clôture de l'exercice dont les produits ont été mis en distribution ; 
 
@@ -8078,28 +8084,24 @@ e. Le cas échéant, de la date de distribution et du montant de chacun des acom
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 41 sexdecies A, 158
-	  - Code monétaire et financier - art. L214-10 (V)
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 2005-12-30 art. 76 I, XV Finances pour 2006 JORF 31 décembre 2006
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2006
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-484 2007-03-30
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A
+	  - Code général des impôts, CGI. - art. 158
+	  - Code monétaire et financier - art. L214-10
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies E (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article 41 sexdecies D
@@ -8490,33 +8492,34 @@ I. Les établissements et les personnes qui tiennent le compte des opérations r
 clients sur un marché à terme d'instruments financiers ou de marchandises doivent déclarer à l'administration le montant des
 profits et des pertes réalisés par chacun de leurs clients dans le cadre de ces opérations en indiquant distinctement la
 somme algébrique des profits et des pertes afférents aux opérations mentionnées au 12° de l'article 120 et aux articles 150
-quinquies, 150 sexies et 150 octies du code général des impôts.
+quinquies, 150 sexies et 150 octies du code général des impôts. 
 
 II. Les renseignements visés au I doivent parvenir avant le 16 février de chaque année pour les opérations de l'année
-précédente à la direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils
-figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts lorsque celle-ci doit être souscrite
-ou, à défaut, sur un imprimé établi selon le même modèle et comportant l'identification du déclarant et celle du
-bénéficiaire.
+précédente à la direction départementale ou, le cas échéant, régionale des finances publiques du lieu de la résidence ou du
+principal établissement du déclarant. Ils figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des
+impôts lorsque celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant
+l'identification du déclarant et celle du bénéficiaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 150 quinquies, 150 sexies, 150 octies, 242 ter, 120 12°
-
 	**Modifié par**:
 
-	  - Décret n°95-1329 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
-	  - Décret n°95-1329 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies K (V)
 	  - Livre des procédures fiscales - art. R96 C-1 (Ab)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - Code général des impôts, CGI. - art. 120
+	  - Code général des impôts, CGI. - art. 150 quinquies
+	  - Code général des impôts, CGI. - art. 242 ter
 
 
 ###### Article 41 septdecies K
@@ -8601,32 +8604,34 @@ I. Les établissements et les personnes qui tiennent le compte des opérations r
 clients sur un marché d'options négociables doivent déclarer à l'administration le montant des profits et des pertes réalisés
 par chacun de leurs clients dans le cadre de ces opérations en indiquant distinctement la somme algébrique des profits et des
 pertes afférents aux opérations mentionnées respectivement au 12° de l'article 120 et à l'article 150 nonies du code général
-des impôts.
+des impôts. 
 
 II. Les renseignements visés au I doivent parvenir avant le 16 février de chaque année, pour les opérations de l'année
-précédente, à la direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils
-figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts lorsque celle-ci doit être souscrite
-ou, à défaut, sur un imprimé établi selon le même modèle et comportant l'identification du déclarant et celle du
-bénéficiaire.
+précédente, à la direction départementale ou, le cas échéant, régionale des finances publiques du lieu de la résidence ou du
+principal établissement du déclarant. Ils figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des
+impôts lorsque celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant
+l'identification du déclarant et celle du bénéficiaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 150 nonies, 242 ter, 120 12°
-
 	**Modifié par**:
 
-	  - Décret n°95-1330 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
-	  - Décret n°95-1330 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
 
 	**Cité par**:
 
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies O (Ab)
 	  - Livre des procédures fiscales - art. R96 C-2 (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 120
+	  - Code général des impôts, CGI. - art. 150 nonies
+	  - Code général des impôts, CGI. - art. 242 ter
 
 
 ###### Article 41 septdecies O
@@ -8709,31 +8714,34 @@ d'indiquer sur cette déclaration le détail par année des pertes reportées.
 I. Les établissements et les personnes qui tiennent le compte des opérations sur bons d'option réalisées en France ou à
 l'étranger par leurs clients doivent déclarer à l'administration le montant des profits et des pertes réalisés par chacun de
 leurs clients dans le cadre de ces opérations en indiquant distinctement la somme algébrique des profits et des pertes
-afférents aux opérations mentionnées au 12° de l'article 120 et à l'article 150 decies du code général des impôts.
+afférents aux opérations mentionnées au 12° de l'article 120 et à l'article 150 decies du code général des impôts. 
 
 II. Ces renseignements doivent parvenir avant le 16 février de chaque année, pour les opérations de l'année précédente, à la
-direction des services fiscaux du lieu de la résidence ou du principal établissement du déclarant. Ils figurent sur la
-déclaration prévue au 1 de l'article 242 ter du code général des impôts lorsque celle-ci doit être souscrite ou, à défaut,
-sur un imprimé établi selon le même modèle et comportant l'identification du déclarant et celle du bénéficiaire.
+direction départementale ou, le cas échéant, régionale des finances publiques du lieu de la résidence ou du principal
+établissement du déclarant. Ils figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts
+lorsque celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant l'identification
+du déclarant et celle du bénéficiaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 150 decies, 242 ter, 120 12°
-
 	**Modifié par**:
 
-	  - Décret n°95-1331 du 28 décembre 1995 - art. 1 () JORF 30 décembre 1995
-	  - Décret n°95-1331 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
 
 	**Cité par**:
 
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies S (Ab)
 	  - Livre des procédures fiscales - art. R96 C-3 (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 120
+	  - Code général des impôts, CGI. - art. 150 decies
+	  - Code général des impôts, CGI. - art. 242 ter
 
 
 ###### Article 41 septdecies S
@@ -8790,10 +8798,10 @@ d'indiquer sur cette déclaration le détail par année des pertes reportées.
 ###### Article 41 septdecies U
 
 Les établissements et les personnes qui tiennent le compte des opérations réalisées par leurs clients sur les parts d'un
-fonds commun d'intervention sur les marchés à terme adressent, avant le 16 février de chaque année à la direction des
-services fiscaux du lieu de leur résidence ou de leur principal établissement, un document mentionnant, pour chaque
-propriétaire de parts, le montant global, compte non tenu des frais, des cessions ou des rachats de parts réalisés au cours
-de l'année précédente.
+fonds commun d'intervention sur les marchés à terme adressent, avant le 16 février de chaque année à la direction
+départementale ou, le cas échéant, régionale des finances publiques du lieu de leur résidence ou de leur principal
+établissement, un document mentionnant, pour chaque propriétaire de parts, le montant global, compte non tenu des frais, des
+cessions ou des rachats de parts réalisés au cours de l'année précédente. 
 
 Ces renseignements sont indiqués sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts lorsque
 celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant l'identification du
@@ -8801,62 +8809,64 @@ déclarant et celle du bénéficiaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 242 ter
-
-	**Créé par**:
-
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
-
 	**Codifié par**:
 
-	  - Décret n°96-556 1996-06-21
+	  - Décret n°96-556 du 21 juin 1995
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies W (Ab)
 	  - Livre des procédures fiscales - art. R96 C-4 (Ab)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 242 ter
 
 
 ###### Article 41 septdecies V
 
-Le dépositaire des actifs du fonds adresse, le cas échéant, avant le 16 février à la direction des services fiscaux du lieu
-de sa résidence ou de son principal établissement, un document faisant apparaître pour l'année précédente :
+Le dépositaire des actifs du fonds adresse, le cas échéant, avant le 16 février à la direction départementale ou, le cas
+échéant, régionale des finances publiques du lieu de sa résidence ou de son principal établissement, un document faisant
+apparaître pour l'année précédente : 
 
 1. Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
 période pendant laquelle la limite de 10 % a été dépassée, les renseignements mentionnés au 3° du I de l'article 49 E
-concernant l'intéressé, ainsi que le nombre de parts qu'il détient ;
+concernant l'intéressé, ainsi que le nombre de parts qu'il détient ; 
 
 2. En cas de dissolution du fonds ou de distribution par le fonds d'une partie de ses avoirs entraînant annulation d'une
-fraction des parts de ce fonds :
+fraction des parts de ce fonds : 
 
-a. La date de la dissolution ou de la distribution des avoirs ;
+a. La date de la dissolution ou de la distribution des avoirs ; 
 
 b. Les renseignements mentionnés au 3° du I de l'article 49 E précité concernant chaque propriétaire de parts ainsi que le
 nombre des parts dont il disposait avant la dissolution ou, en cas de distribution d'avoirs, le nombre de ses parts annulées
-et leur valeur moyenne pondérée d'acquisition ;
+et leur valeur moyenne pondérée d'acquisition ; 
 
 c. Le montant des attributions en nature ou en espèces autres que celles présentant le caractère de revenus de capitaux
 mobiliers revenant à chaque propriétaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 49 E
-
 	**Modifié par**:
 
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
 
 
 ###### Article 41 septdecies W
@@ -8950,24 +8960,24 @@ valeur moyenne pondérée d'acquisition des parts rachetées.
 ###### Article 41 duovicies E
 
 Le gérant du fonds commun de placement ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant, adresse,
-avant le 1er février de chaque année, à la direction des services fiscaux désignée au premier alinéa de l'article 41
-sexdecies A un document faisant apparaître :
+avant le 1er février de chaque année, à la direction départementale ou, le cas échéant, régionale des finances publiques
+désignée au premier alinéa de l'article 41 sexdecies A un document faisant apparaître : 
 
 1° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
 période pendant laquelle la limite de 10 % a été dépassée, l'identité et le domicile fiscal de l'intéressé mentionnés au 3°
 du I de l'article 49 E ainsi que le nombre de parts qu'il détient ; 
 
-2° (Devenu sans objet)
+2° (Devenu sans objet) 
 
 3° Le montant global des rachats de parts effectués au profit de chaque propriétaire au cours de l'année précédente,
-lorsqu'il excède 1500 euros ; 
+lorsqu'il excède 1 500 € ; 
 
 4° Dans la même limite que celle fixée au 3°, la valeur globale des apports en nature de valeurs mobilières effectués par
 chaque propriétaire de parts ; 
 
 5° En cas de dissolution du fonds : 
 
-La date de la dissolution ;
+La date de la dissolution ; 
 
 L'identité et l'adresse de chaque propriétaire de parts mentionné au 3° du I de l'article 49 E ; 
 
@@ -8978,17 +8988,15 @@ mobiliers revenant à la suite de la liquidation.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 41 sexdecies A, 49 E
-
 	**Modifié par**:
 
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies U (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
 
 
 ###### Article 41 duovicies F
@@ -9028,57 +9036,53 @@ cession.
 ###### Article 41 duovicies G
 
 Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques adresse, ayant le 16 février de chaque année,
-à la direction des services fiscaux auprès de laquelle il souscrit sa déclaration de résultats un relevé des opérations de
-l'année précédente mentionnant :
+à la direction départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle il souscrit sa
+déclaration de résultats un relevé des opérations de l'année précédente mentionnant : 
 
-1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a effectuées et des rachats opérés par le fonds.
+1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a effectuées et des rachats opérés par le fonds. 
 
-2° La valeur globale des apports en nature de titres effectués par chaque propriétaire de parts ;
+2° La valeur globale des apports en nature de titres effectués par chaque propriétaire de parts ; 
 
 3° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
 période pendant laquelle la limite de 10 % a été dépassée, les renseignements mentionnés au 3° du I de l'article 49 E
-concernant l'intéressé, ainsi que le nombre de parts qu'il détient ;
+concernant l'intéressé, ainsi que le nombre de parts qu'il détient ; 
 
 4° En cas de dissolution du fonds ou de distribution par le fonds d'une partie de ses avoirs entraînant annulation d'une
-fraction des parts de ce fonds :
+fraction des parts de ce fonds : 
 
-a. La date de la dissolution ou de la distribution des avoirs ;
+a. La date de la dissolution ou de la distribution des avoirs ; 
 
 b. Les renseignements mentionnés au 3° du I de l'article 49 E concernant chaque propriétaire de parts ainsi que le nombre et
 la catégorie des parts dont il disposait avant la dissolution ou, en cas de distribution d'avoirs, le nombre de ses parts
-annulées, leur catégorie et leur valeur moyenne pondérée d'acquisition ;
+annulées, leur catégorie et leur valeur moyenne pondérée d'acquisition ; 
 
 c. Le montant des attributions en nature ou en espèces, autres que celles présentant le caractère de revenus de capitaux
-mobiliers revenant à chaque propriétaire.
+mobiliers revenant à chaque propriétaire. 
 
-5° En cas de distribution d'une partie des avoirs du fonds effectuée sans annulation de parts :
+5° En cas de distribution d'une partie des avoirs du fonds effectuée sans annulation de parts : 
 
-a. La date de la distribution ;
+a. La date de la distribution ; 
 
 b. Les renseignements mentionnés au 3° du I de l'article 49 E concernant chaque propriétaire de parts ainsi que le nombre et
-la catégorie de parts détenues ouvrant droit à la distribution et leur valeur moyenne pondérée d'acquisition ;
+la catégorie de parts détenues ouvrant droit à la distribution et leur valeur moyenne pondérée d'acquisition ; 
 
-c. Le montant de la distribution, qu'elle soit en nature ou en espèces revenant à chaque propriétaire.
+c. Le montant de la distribution, qu'elle soit en nature ou en espèces revenant à chaque propriétaire. 
 
 d. (abrogé)
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 49 E
-
 	**Modifié par**:
 
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 X (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
 
 
 ###### Article 41 duovicies G bis
@@ -10293,15 +10297,16 @@ les conditions définies au IV de l'article 163 bis A du code général des imp�
 ###### Article 41 T
 
 Le crédit d'impôt attaché aux revenus portés au crédit du compte d'épargne donne lieu à la délivrance d'un certificat,
-conformément aux dispositions de l'article 77 de l'annexe II au code général des impôts.
+conformément aux dispositions de l'article 77 de l'annexe II au code général des impôts. 
 
-Le certificat est établi au nom du souscripteur et porte la désignation du compte d'épargne.
+Le certificat est établi au nom du souscripteur et porte la désignation du compte d'épargne. 
 
 La restitution du crédit d'impôt mentionné sur le certificat est demandée par l'établissement chargé de la tenue du compte
-d'épargne.
+d'épargne. 
 
-Cette demande, accompagnée du certificat, est adressée à la direction des services fiscaux de la résidence de l'établissement
-dans les conditions et délai prévus au II de l'article 94 de la même annexe.
+Cette demande, accompagnée du certificat, est adressée à la direction départementale ou, le cas échéant, régionale des
+finances publiques de la résidence de l'établissement dans les conditions et délai prévus au II de l'article 94 de la même
+annexe. 
 
 La restitution est opérée au profit de cet établissement, à charge par lui d'inscrire les sommes correspondantes au crédit du
 compte d'épargne.
@@ -10310,24 +10315,27 @@ compte d'épargne.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 77
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 94 (V)
 
 
 ###### Article 41 V
 
-1. L'établissement chargé de la tenue du compte d'épargne doit déclarer à la direction des services fiscaux de sa résidence,
-avant le 1er mars de chaque année, le montant des versements effectués par le souscripteur au cours de l'année précédente.
-Lorsque la période annuelle de versement prévue au contrat ne coïncide pas avec l'année civile, la déclaration mentionne les
-versements effectués au cours de la dernière période expirée avant le 1er janvier.
+1. L'établissement chargé de la tenue du compte d'épargne doit déclarer à la direction départementale ou, le cas échéant,
+régionale des finances publiques de sa résidence, avant le 1er mars de chaque année, le montant des versements effectués par
+le souscripteur au cours de l'année précédente. Lorsque la période annuelle de versement prévue au contrat ne coïncide pas
+avec l'année civile, la déclaration mentionne les versements effectués au cours de la dernière période expirée avant le 1er
+janvier. 
 
 2. Si le souscripteur procède aux opérations de retrait mentionnées à l'article 41 R, l'établissement chargé de la tenue du
-compte d'épargne doit en aviser la direction des services fiscaux de sa résidence dans un délai de deux mois.
+compte d'épargne doit en aviser la direction départementale ou, le cas échéant, régionale des finances publiques de sa
+résidence dans un délai de deux mois. 
 
-Cette déclaration doit être produite, même si le redevable invoque un cas de force majeure ou d'invalidité totale.
+Cette déclaration doit être produite, même si le redevable invoque un cas de force majeure ou d'invalidité totale. 
 
 3. Les documents permettant de contrôler l'ensemble des opérations enregistrées au compte d'épargne doivent être conservés à
 la disposition de l'administration jusqu'à la fin de la quatrième année suivant celle de l'expiration de l'engagement
@@ -10335,9 +10343,13 @@ d'épargne.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er juillet 1979
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 R
 
 
 ##### 0 II bis : Gains de cession de titres acquis en exercice de bons de souscription de parts de créateur d'entreprise
@@ -10442,9 +10454,10 @@ Il précise le nombre de parts, leur catégorie, la date et le montant total de 
 ###### Article 41 X
 
 Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
-adresse avant le 16 février de chaque année, à la direction des services fiscaux désignée à l'article 41 duovicies G :
+adresse avant le 16 février de chaque année, à la direction départementale ou, le cas échéant, régionale des finances
+publiques désignée à l'article 41 duovicies G : 
 
-a) Une copie de l'engagement prévu au I de l'article 163 quinquies B du code général des impôts ;
+a) Une copie de l'engagement prévu au I de l'article 163 quinquies B du code général des impôts ; 
 
 b) Un état individuel mentionnant la date, le nombre, la catégorie et le montant des parts cédées ou rachetées. 
 
@@ -10453,21 +10466,18 @@ année suivant celle de l'expiration de l'engagement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 41 duovicies G, 163 quinquies B
-
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2001-435 du 21 mai 2001
 
 	**Modifié par**:
 
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies G
+	  - Code général des impôts, CGI. - art. 163 quinquies B
 
 
 ###### Article 41 Y
@@ -11602,10 +11612,11 @@ Modifications effectuées en conséquence de l'article 1
 ###### Article 46 AG nonies
 
 Lorsque le logement est construit par une société, les obligations déclaratives énumérées à l'article 46 AG octies incombent
-au gérant de la société.
+au gérant de la société. 
 
-Les documents sont adressés avec la déclaration d'achèvement dans les six mois de l'achèvement du logement à la direction des
-services fiscaux auprès de laquelle la société souscrit ses déclarations de résultats.
+Les documents sont adressés avec la déclaration d'achèvement dans les six mois de l'achèvement du logement à la direction
+départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle la société souscrit ses déclarations
+de résultats. 
 
 Le gérant de la société délivre en double exemplaire aux souscripteurs de titres un document attestant que la location et la
 sous-location remplissent les conditions fixées aux articles 46 AG sexies à 46 AG nonies, le souscripteur en joint un
@@ -11613,21 +11624,18 @@ exemplaire à sa déclaration de revenus de l'année au titre de laquelle le bai
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 46 AG octies, 46 AG sexies à 46 AG nonies
-
-	**Créé par**:
-
-	  - Décret n°92-441 du 19 mai 1992 - art. 4 (V) JORF 20 mai 1992
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°92-836 du 27 août 1992
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG octies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexies
 
 
 ###### Article 46 AG octies
@@ -11681,87 +11689,87 @@ l'article 199 undecies du code déjà cité.
 ###### Article 46 AG quaterdecies
 
 Le contribuable doit joindre à sa déclaration de revenus de l'année au titre de laquelle il demande le bénéfice de la
-réduction d'impôt les documents suivants :
+réduction d'impôt les documents suivants : 
 
-I. - Lorsque le logement neuf est destiné à devenir son habitation principale :
+I.-Lorsque le logement neuf est destiné à devenir son habitation principale : 
 
-1. L'engagement prévu au a du 2 de l'article 199 undecies A du code général des impôts qui comporte les éléments suivants :
+1. L'engagement prévu au a du 2 de l'article 199 undecies A du code général des impôts qui comporte les éléments suivants : 
 
-a) L'identité et l'adresse du contribuable ;
+a) L'identité et l'adresse du contribuable ; 
 
-b) L'adresse et la surface habitable du logement concerné ;
+b) L'adresse et la surface habitable du logement concerné ; 
 
-c) Le prix de revient ou le prix d'acquisition du logement accompagné des justificatifs ;
+c) Le prix de revient ou le prix d'acquisition du logement accompagné des justificatifs ; 
 
-d) La date d'achèvement du logement ou de son acquisition si elle est postérieure ;
+d) La date d'achèvement du logement ou de son acquisition si elle est postérieure ; 
 
 2. Une copie de la notification de l'arrêté délivrant le permis de construire lorsqu'il s'agit d'un logement que le
-contribuable fait construire.
+contribuable fait construire. 
 
 3. Pour le bénéfice de la majoration du taux de la réduction d'impôt prévue au huitième alinéa du 6 de l'article 199 undecies
 A du code général des impôts, selon le cas, soit une attestation du constructeur, du vendeur ou de l'entreprise ayant procédé
 à l'installation des équipements de production d'énergie utilisant une source d'énergie renouvelable et comportant l'adresse
 de réalisation des travaux ainsi que la désignation de ces équipements, soit une facture de ces équipements comportant, outre
 les mentions prévues à l'article 289 du code général des impôts, l'adresse de réalisation des travaux, leur nature ainsi que
-la désignation et le montant des équipements.
+la désignation et le montant des équipements. 
 
-II. - Lorsque le logement neuf est destiné à la location :
+II.-Lorsque le logement neuf est destiné à la location : 
 
 1. L'engagement prévu au b du 2 ou au 1° du 6 de l'article 199 undecies A du code général des impôts qui comporte les
 éléments définis aux a, b, c et d du I ainsi que, lorsque le bien est loué à un organisme public ou privé pour le logement à
-usage d'habitation principale de son personnel, le nom du sous-locataire et les nom et adresse de son employeur ;
+usage d'habitation principale de son personnel, le nom du sous-locataire et les nom et adresse de son employeur ; 
 
 2. Une copie de la notification de l'arrêté délivrant le permis de construire lorsqu'il s'agit d'un logement que le
-contribuable fait construire ;
+contribuable fait construire ; 
 
-3. Une copie du bail ;
+3. Une copie du bail ; 
 
 4. Une copie de l'avis d'imposition ou de non-imposition du locataire ou du sous-locataire afférent aux revenus de l'année
 visée au premier alinéa du 2 de l'article 46 AG duodecies lorsque la location est consentie dans les conditions du 2° du 6 de
-l'article 199 undecies A du code général des impôts.
+l'article 199 undecies A du code général des impôts. 
 
 5. Les factures mentionnées au 3 du I pour le contribuable qui bénéficie des dispositions du huitième alinéa du 6 de
-l'article 199 undecies A du code général des impôts.
+l'article 199 undecies A du code général des impôts. 
 
-Si un bail n'est pas signé à la date de souscription de la déclaration susvisée, les documents énumérés aux 1, 3 et 4 sont
+Si un bail n'est pas signé à la date de souscription de la déclaration susvisée, les documents énumérés aux 1,3 et 4 sont
 joints à la déclaration de l'année au cours de laquelle le bail est signé. Il en est de même en cas de changement de
-locataire ou de sous-locataire pendant la durée de l'engagement mentionné au 1.
+locataire ou de sous-locataire pendant la durée de l'engagement mentionné au 1. 
 
-III. - Lorsque le logement qui fait l'objet des travaux définis à l'article 46 AG terdecies A est destiné à devenir son
+III.-Lorsque le logement qui fait l'objet des travaux définis à l'article 46 AG terdecies A est destiné à devenir son
 habitation principale ou à être loué, l'engagement prévu au e du 2 de l'article 199 undecies A du code général des impôts
-comporte les éléments définis aux a, b, c, d du 1 du I.
+comporte les éléments définis aux a, b, c, d du 1 du I. 
 
 Il comporte également la date d'achèvement des travaux et la copie des factures des entreprises ayant réalisé les travaux qui
 précisent, outre les mentions prévues à l'article 289 du code général des impôts, l'adresse de réalisation des travaux, leur
-nature et leur montant.
+nature et leur montant. 
 
-IV. - Lorsque le logement est construit par une société, les obligations déclaratives prévues au II incombent à la société.
-Les documents sont adressés avec la déclaration d'achèvement dans les six mois de l'achèvement du logement à la direction des
-services fiscaux auprès de laquelle la société souscrit sa déclaration de résultats.
+IV.-Lorsque le logement est construit par une société, les obligations déclaratives prévues au II incombent à la société. Les
+documents sont adressés avec la déclaration d'achèvement dans les six mois de l'achèvement du logement à la direction
+départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle la société souscrit sa déclaration de
+résultats. 
 
 La société délivre en double exemplaire à chaque souscripteur un document attestant que la location et, le cas échéant, la
 sous-location remplissent les conditions prévues aux articles 46 AG undecies à 46 AG terdecies. Le souscripteur en joint un
-exemplaire à sa déclaration de revenus de l'année au cours de laquelle le bail est signé.
+exemplaire à sa déclaration de revenus de l'année au cours de laquelle le bail est signé. 
 
-V. - Pour bénéficier de l'avantage fiscal prévu à l'article 199 undecies A du code général des impôts, les contribuables sont
+V.-Pour bénéficier de l'avantage fiscal prévu à l'article 199 undecies A du code général des impôts, les contribuables sont
 tenus de joindre à la déclaration de revenus de chacune des années ouvrant droit au bénéfice de la réduction d'impôt une note
 annexe établie sur un imprimé fourni par l'administration et comportant, selon la nature des investissements et le taux qui
 leur est applicable, les modalités de calcul de la réduction d'impôt.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 38-I (6°) de la loi n° 2009-594 du 27 mai 2009.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 199 undecies A, 289
-	  - CGIAN3 46 AG duodecies, 46 AG terdecies A, 46 AG undecies à 46 AG terdecies
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG undecies
+	  - Code général des impôts, CGI. - art. 199 undecies A
+	  - Code général des impôts, CGI. - art. 289
 
 	**Cité par**:
 
@@ -11771,101 +11779,100 @@ Modifications effectuées en conséquence de l'article 38-I (6°) de la loi n° 
 
 ###### Article 46 AG quindecies
 
-I. - Les sociétés spécialisées dans le financement d'entreprises exerçant exclusivement leur activité outre-mer (SOFIOM),
+I.-Les sociétés spécialisées dans le financement d'entreprises exerçant exclusivement leur activité outre-mer (SOFIOM),
 mentionnées au g du 2 de l'article 199 undecies A du code général des impôts, doivent revêtir la forme de société anonyme et
-être soumises à l'impôt sur les sociétés dans les conditions de droit commun.
+être soumises à l'impôt sur les sociétés dans les conditions de droit commun. 
 
-II. - Les souscriptions au capital d'une SOFIOM donnent lieu à l'attribution d'actions qui doivent revêtir la forme
-nominative.
+II.-Les souscriptions au capital d'une SOFIOM donnent lieu à l'attribution d'actions qui doivent revêtir la forme
+nominative. 
 
 Une même personne ne peut détenir plus de 5 % de son capital. En outre, les personnes physiques qui ont entre elles des liens
-de nature à établir une véritable communauté d'intérêts ne peuvent détenir ensemble plus de 25 % de ce même capital.
+de nature à établir une véritable communauté d'intérêts ne peuvent détenir ensemble plus de 25 % de ce même capital. 
 
 Les souscripteurs des actions d'une SOFIOM ne peuvent se voir offrir une garantie de rachat de leurs actions pour un prix
-supérieur à 75 % de leur valeur nominale.
+supérieur à 75 % de leur valeur nominale. 
 
-III. - Chaque SOFIOM doit financer au minimum dix entreprises exerçant leur activité exclusivement outre-mer dans un secteur
-éligible défini au I de l'article 199 undecies B du code général des impôts sans liens de capital entre elles.
+III.-Chaque SOFIOM doit financer au minimum dix entreprises exerçant leur activité exclusivement outre-mer dans un secteur
+éligible défini au I de l'article 199 undecies B du code général des impôts sans liens de capital entre elles. 
 
 95 % du montant des souscriptions en numéraire agréées par le ministre du budget doivent être affectés au financement, par
 souscriptions en numéraire au capital ou par prêts participatifs, d'entreprises exerçant leur activité exclusivement outre-
-mer dans un secteur éligible défini au I de l'article 199 undecies B du code général des impôts.
+mer dans un secteur éligible défini au I de l'article 199 undecies B du code général des impôts. 
 
 Dans les douze mois de la clôture des souscriptions agréées, les sommes correspondantes doivent être affectées par
 l'entreprise exerçant exclusivement son activité outre-mer à l'acquisition ou à la création d'un investissement productif
-neuf en vue de son exploitation par cette même entreprise pendant la période minimale de cinq ans suivant cette clôture.
+neuf en vue de son exploitation par cette même entreprise pendant la période minimale de cinq ans suivant cette clôture. 
 
 Une SOFIOM ne peut détenir une participation supérieure à un seuil atteignant la minorité de blocage du capital de
 l'entreprise exerçant son activité exclusivement outre-mer dans un secteur éligible défini au I de l'article 199 undecies B
-du code général des impôts. Pour l'appréciation de ce seuil, il n'est pas tenu compte des titres cédés mentionnés au V.
+du code général des impôts. Pour l'appréciation de ce seuil, il n'est pas tenu compte des titres cédés mentionnés au V. 
 
-IV. - La part des prêts participatifs mentionnés au g du 2 de l'article 199 undecies A du code général des impôts dans le
-total du financement de l'investissement apporté par la SOFIOM à l'entreprise exerçant exclusivement son activité outre-mer
-ne peut excéder 70 %.
+IV.-La part des prêts participatifs mentionnés au g du 2 de l'article 199 undecies A du code général des impôts dans le total
+du financement de l'investissement apporté par la SOFIOM à l'entreprise exerçant exclusivement son activité outre-mer ne peut
+excéder 70 %. 
 
 La rémunération d'un prêt participatif accordé par une SOFIOM ne peut excéder le dernier taux issu du calcul mentionné au 3°
 du 1 de l'article 39 du code général des impôts connu à la date de ce prêt, majoré au maximum de 1,5 point. En outre, le taux
-d'intérêt fixe ne peut être supérieur à la moitié du taux d'intérêt légal à la date de la réalisation de l'opération.
+d'intérêt fixe ne peut être supérieur à la moitié du taux d'intérêt légal à la date de la réalisation de l'opération. 
 
-V. - La rétrocession mentionnée au troisième alinéa du g du 2 de l'article 199 undecies A du code général des impôts doit
-être organisée par la cession, par la SOFIOM, de titres de l'entreprise exerçant exclusivement son activité outre-mer.
+V.-La rétrocession mentionnée au troisième alinéa du g du 2 de l'article 199 undecies A du code général des impôts doit être
+organisée par la cession, par la SOFIOM, de titres de l'entreprise exerçant exclusivement son activité outre-mer. 
 
 A hauteur du montant de cette rétrocession, la SOFIOM procède à la cession de ses titres, dans les douze mois de la clôture
 des souscriptions agréées au capital de la SOFIOM, à l'entreprise exerçant exclusivement son activité outre-mer pour un euro
-symbolique ; la moins-value correspondante est déductible de l'assiette de l'impôt sur les sociétés pour 15 % de son montant.
+symbolique ; la moins-value correspondante est déductible de l'assiette de l'impôt sur les sociétés pour 15 % de son
+montant. 
 
-VI. - L'agrément prévu au g du 2 de l'article 199 undecies A du code général des impôts est délivré dans les conditions
-prévues à l'article 1649 nonies du même code et après avis du ministre chargé de l'outre-mer :
+VI.-L'agrément prévu au g du 2 de l'article 199 undecies A du code général des impôts est délivré dans les conditions prévues
+à l'article 1649 nonies du même code et après avis du ministre chargé de l'outre-mer : 
 
 1° Si l'investissement financé, en tout ou partie, par la SOFIOM présente un intérêt économique pour la collectivité d'outre-
-mer où il est réalisé ;
+mer où il est réalisé ; 
 
-2° S'il poursuit comme l'un de ses buts principaux la création ou le maintien d'emplois dans cette collectivité ;
+2° S'il poursuit comme l'un de ses buts principaux la création ou le maintien d'emplois dans cette collectivité ; 
 
-3° S'il s'intègre dans la politique d'aménagement du territoire, de l'environnement et de développement durable ;
+3° S'il s'intègre dans la politique d'aménagement du territoire, de l'environnement et de développement durable ; 
 
 4° Et si les modalités de réalisation de l'opération financée par la SOFIOM permettent de garantir la protection des
-investisseurs.
+investisseurs. 
 
-VII. - Pour bénéficier de l'avantage fiscal prévu à l'article 199 undecies A du code général des impôts, le souscripteur au
+VII.-Pour bénéficier de l'avantage fiscal prévu à l'article 199 undecies A du code général des impôts, le souscripteur au
 capital d'une SOFIOM doit joindre à sa déclaration de revenus de chacune des années ouvrant droit à la réduction d'impôt un
-relevé délivré par cette société faisant état :
+relevé délivré par cette société faisant état : 
 
 1° Du montant du capital de la SOFIOM, du nombre et des numéros des actions souscrites, du montant et de la date de leur
-souscription ;
+souscription ; 
 
-2° Eventuellement, du taux de la garantie accordée pour le rachat à terme de sa participation et l'identité du garant ;
+2° Eventuellement, du taux de la garantie accordée pour le rachat à terme de sa participation et l'identité du garant ; 
 
 3° Du nom et de l'adresse du siège social des entreprises qui acquièrent des investissements financés par les souscriptions
-agréées ;
+agréées ; 
 
 4° De la nature des investissements, de leur prix, et du montant des versements effectués, dans les douze mois de la clôture
-des souscriptions agréées au capital de la SOFIOM, par les entreprises aux fournisseurs concernés ;
+des souscriptions agréées au capital de la SOFIOM, par les entreprises aux fournisseurs concernés ; 
 
 5° Du montant du financement de l'investissement apporté par la SOFIOM à ces entreprises ainsi que la proportion des prêts
-participatifs dans ce financement ;
+participatifs dans ce financement ; 
 
-6° Du pourcentage de participation de la SOFIOM dans le capital de chacune desdites entreprises.
+6° Du pourcentage de participation de la SOFIOM dans le capital de chacune desdites entreprises. 
 
 Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la SOFIOM adresse
-avant le 16 février de l'année suivante à la direction des services fiscaux du domicile du cédant le relevé mentionné ci-
-dessus ou un duplicata de ce relevé.
+avant le 16 février de l'année suivante à la   direction départementale ou, le cas échéant, régionale des finances publiques
+du domicile du cédant le relevé mentionné ci-dessus ou un duplicata de ce relevé. 
 
 Ce relevé est établi sur papier libre à l'en-tête de la SOFIOM.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 199 undecies A, 199 undecies B, 39, 1649 nonies
-
-	**Créé par**:
-
-	  - Décret n°2004-393 du 4 mai 2004 - art. 1 () JORF 6 mai 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 199 undecies A
+	  - Code général des impôts, CGI. - art. 199 undecies B
+	  - Code général des impôts, CGI. - art. 39
 
 
 ###### Article 46 AG septies
@@ -12366,47 +12373,49 @@ déclaration d'impôt sur le revenu déposée au titre de l'année considérée.
 ###### Article 46 AI ter
 
 I. La société de gestion d'un fonds commun de placement dans l'innovation ou le dépositaire des actifs de ce fonds agissant
-pour le compte de la société de gestion informe la direction des services fiscaux dans le ressort de laquelle est souscrite
-sa déclaration de résultats, de la constitution d'un fonds commun de placement dans l'innovation ou, le cas échéant, de la
-transformation d'un fonds commun de placement à risques existant en fonds commun de placement dans l'innovation. Cette
-déclaration intervient dans le mois qui suit la création ou la transformation du fonds.
+pour le compte de la société de gestion informe la direction départementale ou, le cas échéant, régionale des finances
+publiques dans le ressort de laquelle est souscrite sa déclaration de résultats, de la constitution d'un fonds commun de
+placement dans l'innovation ou, le cas échéant, de la transformation d'un fonds commun de placement à risques existant en
+fonds commun de placement dans l'innovation. Cette déclaration intervient dans le mois qui suit la création ou la
+transformation du fonds. 
 
 II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles
-41 sexdecies A à 41 sexdecies F et 280 A de la présente annexe ainsi qu'à l'articleR. 87-1 du livre des procédures fiscales.
+41 sexdecies A à 41 sexdecies F et 280 A de la présente annexe ainsi qu'à l'article R. 87-1 du livre des procédures
+fiscales. 
 
 III. En cas de cession ou de rachat de parts, de dissolution du fonds ou de distribution d'une partie de ses avoirs, la
 société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles 41
-duovicies F et 41 duovicies G.
+duovicies F et 41 duovicies G. 
 
-IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, à la direction des services fiscaux
-désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds prévus à l'article D. 214-60  du code
-monétaire et financier, à l'appui du bilan et du compte de résultats.
+IV. La société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, à la direction départementale ou, le cas
+échéant, régionale des finances publiques désignée au I, un état de chacun des inventaires semestriels de l'actif du fonds
+prévus à l'article D. 214-60 du code monétaire et financier, à l'appui du bilan et du compte de résultats. 
 
 V. La société de gestion du fonds ou le dépositaire des actifs de ce fonds délivre, au plus tard le 16 février de l'année
 civile qui suit celle de la souscription des parts, aux souscripteurs qui entendent bénéficier de la réduction d'impôt prévue
-au VI de l'article 199 terdecies-0 A du code général des impôts, un état individuel qui mentionne :
+au VI de l'article 199 terdecies-0 A du code général des impôts, un état individuel qui mentionne : 
 
-a) L'objet pour lequel il est établi : application du VI de l'article 199 terdecies-0 A du code général des impôts ;
+a) L'objet pour lequel il est établi : application du VI de l'article 199 terdecies-0 A du code général des impôts ; 
 
-b) La dénomination du fonds, la raison sociale et l'adresse de la société de gestion ;
+b) La dénomination du fonds, la raison sociale et l'adresse de la société de gestion ; 
 
-c) L'identité et l'adresse du souscripteur ;
+c) L'identité et l'adresse du souscripteur ; 
 
-d) Le nombre de parts souscrites, le montant et la date de leur souscription.
+d) Le nombre de parts souscrites, le montant et la date de leur souscription. 
 
 Cet état précise que les conditions mentionnées à l'article L. 214-41 du code monétaire et financier et au 1 du VI de
-l'article 199 terdecies-0 A du code général des impôts sont remplies.
+l'article 199 terdecies-0 A du code général des impôts sont remplies. 
 
 VI. La société de gestion du fonds ou le dépositaire des actifs de ce fonds isole dans un compte spécial les parts dont la
 souscription ouvre droit au bénéfice de la réduction d'impôt. Il tient ce compte jusqu'à l'expiration de la cinquième année
-qui suit celle de la souscription.
+qui suit celle de la souscription. 
 
 VII. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du fonds sont cédées ou rachetées ou lorsque,
 dans ce même délai, l'une des conditions prévues à l'article L. 214-41 du code monétaire et financier cesse d'être remplie,
-la société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction des
-services fiscaux désignée au I, un état individuel qui comprend, outre les informations indiquées au V, le nombre des parts
-cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas échéant, la nature de la condition
-qui cesse d'être remplie.
+la société de gestion du fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction
+départementale ou, le cas échéant, régionale des finances publiques désignée au I, un état individuel qui comprend, outre les
+informations indiquées au V, le nombre des parts cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi
+que, le cas échéant, la nature de la condition qui cesse d'être remplie. 
 
 Cet état doit être délivré avant le 16 février de l'année qui suit celle de la cession ou du rachat des parts ou du non-
 respect de l'une des conditions prévues à l'article L. 214-41 du code monétaire et financier.
@@ -12415,7 +12424,7 @@ respect de l'une des conditions prévues à l'article L. 214-41 du code monétai
 
 	**Modifié par**:
 
-	  - Décret n°2011-923 du 1er août 2011 - art. 7
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cité par**:
 
@@ -12436,37 +12445,37 @@ respect de l'une des conditions prévues à l'article L. 214-41 du code monétai
 
 ###### Article 46 AI quinquies
 
-I. - La société de gestion d'un fonds d'investissement de proximité mentionné à l'article L. 214-41-1 du code monétaire et
+I.-La société de gestion d'un fonds d'investissement de proximité mentionné à l'article L. 214-41-1 du code monétaire et
 financier ou le dépositaire des actifs de ce fonds agissant pour le compte de la société de gestion est soumis aux
 obligations définies aux I à III de l'article 46 AI ter et à celles définies aux V à VII de ce même article lorsque les
 souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt prévue au VI bis ou au VI ter de l'article
-199 terdecies-0 A du code général des impôts.
+199 terdecies-0 A du code général des impôts. 
 
-II. - A chaque inventaire semestriel, la société de gestion d'un fonds d'investissement de proximité ou le dépositaire des
+II.-A chaque inventaire semestriel, la société de gestion d'un fonds d'investissement de proximité ou le dépositaire des
 actifs de ce fonds agissant pour le compte de la société de gestion s'assure que les sociétés dont les titres ou avances en
 compte courant sont retenus pour le calcul de la proportion mentionnée au 1 de l'article L. 214-41-1 du code monétaire et
 financier remplissent, à la date de clôture de leur dernier exercice précédant l'inventaire, les conditions posées à cet
-article L. 214-41-1.
+article L. 214-41-1. 
 
-La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la direction des services fiscaux dont il relève,
-un état de chacun des inventaires semestriels de l'actif du fonds mentionnés au précédent alinéa, à l'appui du bilan et du
-compte de résultats.
+La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la direction départementale ou, le cas échéant,
+régionale des finances publiques dont il relève, un état de chacun des inventaires semestriels de l'actif du fonds mentionnés
+au précédent alinéa, à l'appui du bilan et du compte de résultats. 
 
-III. - Les dispositions de l'article 46 AI quater s'appliquent au contribuable qui entend bénéficier de la réduction d'impôt
+III.-Les dispositions de l'article 46 AI quater s'appliquent au contribuable qui entend bénéficier de la réduction d'impôt
 prévue au VI bis ou au VI ter de l'article 199 terdecies-0 A du code général des impôts pour la souscription en numéraire de
 parts de fonds d'investissement de proximité mentionnés à l'article L. 214-41-1 du code monétaire et financier.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 terdecies-0 A
-	  - CGIAN3 46 AI ter, 46 AI quater
-	  - Code monétaire et financier - art. L214-41-1 (M)
-
 	**Modifié par**:
 
-	  - Décret n°2007-724 du 7 mai 2007 - art. 1 () JORF 8 mai 2007 rectificatif JORF 26 mai 2007
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI ter
+	  - Code général des impôts, CGI. - art. 199 terdecies-0 A
+	  - Code monétaire et financier - art. L214-41-1
 
 
 ##### 6° ter : Réduction d'impôt accordée au titre d'emprunts souscrits pour la reprise d'une entreprise
@@ -13652,57 +13661,56 @@ Cet état est établi sur papier libre, conformément au modèle fixé par l'adm
 
 ###### Article 46 quater-00 A
 
-La commission mentionnée au I de l'article 208 quater A du code général des impôts comprend treize membres :
+La commission mentionnée au I de l'article 208 quater A du code général des impôts comprend onze membres : 
 
-Le préfet de région qui la préside ;
+Le préfet de Corse qui la préside ; 
 
-Le trésorier-payeur général de la région Corse et celui de la Haute-Corse ;
+Le directeur régional des finances publiques de la Corse et du département de la Corse-du-Sud et le directeur départemental
+des finances publiques de la Haute-Corse ; 
 
-Le directeur des services fiscaux de la Haute-Corse et celui de la Corse-du-Sud ;
+Le directeur départemental de la cohésion sociale et de la protection des populations ; 
 
-Le directeur départemental de la concurrence, de la consommation et de la répression des fraudes ;
+Le directeur régional des douanes de Corse ; 
 
-Le directeur régional des douanes de Corse ;
+Six représentants des organisations professionnelles de la Corse désignés selon les modalités suivantes : 
 
-Six représentants des organisations professionnelles de la région Corse désignés selon les modalités suivantes :
+Un représentant désigné par la chambre départementale de commerce et d'industrie d'Ajaccio ; 
 
-Un représentant désigné par la chambre départementale de commerce et d'industrie d'Ajaccio ;
+Un représentant désigné par la chambre départementale de commerce et d'industrie de Bastia ; 
 
-Un représentant désigné par la chambre départementale de commerce et d'industrie de Bastia ;
+Un représentant désigné par la chambre départementale d'agriculture d'Ajaccio ; 
 
-Un représentant désigné par la chambre départementale d'agriculture d'Ajaccio ;
+Un représentant désigné par la chambre départementale d'agriculture de Bastia ; 
 
-Un représentant désigné par la chambre départementale d'agriculture de Bastia ;
+Un représentant désigné par la chambre départementale de métiers et de l'artisanat de la Haute-Corse ; 
 
-Un représentant désigné par la chambre départementale de métiers et de l'artisanat de la Haute-Corse ;
+Un représentant désigné par la chambre départementale de métiers et de l'artisanat de la Corse-du-Sud. 
 
-Un représentant désigné par la chambre départementale de métiers et de l'artisanat de la Corse-du-Sud.
-
-Le secrétariat de la commission est assuré par un agent de la direction générale des impôts désigné par le préfet de région,
-sur proposition du directeur des services fiscaux de la Corse-du-Sud.
+Le secrétariat de la commission est assuré par un agent de la direction générale des finances publiques désigné par le préfet
+de Corse, sur proposition du directeur régional des finances publiques de la Corse et du département de la Corse-du-Sud.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 208 quater A
-
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-356 du 24 mars 2006 - art. 3 () JORF 26 mars 2006
+	  - Décret n°2012-431  du 29 mars 2012 - art. 3
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 208 quater A
 
 
 ###### Article 46 quater-00 A bis
 
-La commission se réunit sur la convocation du préfet de région. Elle délibère valablement à condition qu'il y ait au moins
+La commission se réunit sur la convocation du préfet de Corse. Elle délibère valablement à condition qu'il y ait au moins
 huit membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
 
 La commission peut entendre à titre consultatif les représentants des collectivités territoriales concernées par le projet et
@@ -13713,72 +13721,69 @@ Les avis sont émis par la commission en présence uniquement des membres ayant 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°91-629 du 4 juillet 1991 - art. 2 (V) JORF 6 juillet 1991
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°92-836 du 27 août 1992
 
 	**Modifié par**:
 
-	  - Décret n°92-836 du 27 août 1992 - art. 3 () JORF 29 août 1992
+	  - Décret n°2012-431  du 29 mars 2012 - art. 4
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
 
 
 ###### Article 46 quater-00 A quater
 
 L'avis motivé émis par la commission est transmis, accompagné d'un exemplaire de la demande d'agrément visée à l'article 208
-quater A du code général des impôts, aux services centraux de la direction générale des impôts.
+quater A du code général des impôts, aux services centraux de la   direction générale des finances publiques.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 208 quater A
-
-	**Créé par**:
-
-	  - Décret n°91-629 du 4 juillet 1991 - art. 4 (V) JORF 6 juillet 1991
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°92-836 du 27 août 1992
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 28
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 208 quater A
 
 
 ###### Article 46 quater-00 A ter
 
 Les demandes d'agrément présentées au titre de l'article 208 quater A du code général des impôts sont établies en quatre
 exemplaires, conformément à un modèle fixé par l'administration, et adressées, préalablement à la constitution de la société
-ou à la création d'une activité nouvelle, au directeur des services fiscaux du département où sera réalisé l'investissement.
+ou à la création d'une activité nouvelle, au   directeur départemental ou, le cas échéant, régional des finances publiques du
+département où sera réalisé l'investissement. 
 
 Ce dernier en accuse réception et en effectue la transmission au secrétariat de la commission.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 208 quater A
-
-	**Créé par**:
-
-	  - Décret n°91-629 du 4 juillet 1991 - art. 3 (V) JORF 6 juillet 1991
-
 	**Codifié par**:
 
-	  - Décret n°92-836 1992-08-27
+	  - Décret n°92-836 du 27 août 1992
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 27
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 208 quater A
 
 
 ##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs
@@ -14125,53 +14130,51 @@ sont fixées à la date de clôture des exercices de la société nouvelle.
 
 La demande d'accord du ministre chargé des finances pour l'application des dispositions de l'article 220 quater A du code
 général des impôts est présentée par l'ensemble des repreneurs ; elle est signée par chacun d'eux. Elle est adressée au
-directeur général des impôts.
+directeur général des finances publiques.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 220 quater A
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 26
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quater A
 
 
 ###### Article 46 quater-0 RG
 
 Pour obtenir le remboursement ou l'imputation du crédit d'impôt dans les conditions prévues à l'article 220 quater A du code
-général des impôts, la société constituée pour le rachat doit :
+général des impôts, la société constituée pour le rachat doit : 
 
 Fixer son siège social à la même adresse que la société rachetée, arrêter ses exercices à la même date que celle-ci et
-souscrire ses déclarations au même lieu d'imposition que la société rachetée ;
+souscrire ses déclarations au même lieu d'imposition que la société rachetée ; 
 
-Présenter une demande de remboursement ou d'imputation sur des documents conformes aux modèles établis par l'administration.
+Présenter une demande de remboursement ou d'imputation sur des documents conformes aux modèles établis par l'administration. 
 
-La demande de remboursement ou d'imputation est accompagnée :
+La demande de remboursement ou d'imputation est accompagnée : 
 
 D'un document attestant le versement de l'impôt sur les sociétés par la société nouvelle et par la société rachetée pour
-l'exercice précédant celui au titre duquel le remboursement ou l'imputation sont demandés ;
+l'exercice précédant celui au titre duquel le remboursement ou l'imputation sont demandés ; 
 
 D'une copie des contrats de prêts consentis au profit de la société nouvelle mentionnant le taux d'intérêt nominal et le taux
-actuariel brut de ces prêts ainsi que le montant et la date des échéances d'amortissement et d'intérêts.
+actuariel brut de ces prêts ainsi que le montant et la date des échéances d'amortissement et d'intérêts. 
 
-Le remboursement du crédit d'impôt est subordonné à la remise au comptable de la direction générale des impôts d'une copie de
-la quittance certifiant du paiement des intérêts dont le montant sert de base au calcul du crédit d'impôt.
+Le remboursement du crédit d'impôt est subordonné à la remise au      comptable de la direction générale des finances
+publiques du lieu d'imposition défini à l'article 218 A du code général des impôts  d'une copie de la quittance certifiant du
+paiement des intérêts dont le montant sert de base au calcul du crédit d'impôt.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 220 quater A
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 quater A
 
 
 ##### Section V ter : Cession de titres de participation détenus depuis moins de deux ans entre sociétés liées
@@ -14822,28 +14825,27 @@ technique des images et du son.
 
 Pour l'application des dispositions des articles 220 sexies et 220 F du code général des impôts, les entreprises doivent
 déposer une déclaration spéciale avec le relevé de solde mentionné à l'article 360 auprès du comptable de la direction
-générale des impôts.
+générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts. 
 
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
 société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. Les
 sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration qu'elles sont tenues de
-déposer en vertu du 1 de l'article 223 du code précité.
+déposer en vertu du 1 de l'article 223 du code précité. 
 
 Une copie de la déclaration spéciale doit être adressée dans le même délai au Centre national du cinéma et de l'image animée.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3, 1er alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009,
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220 sexies, 220 F, 223 A, 223, 360
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 sexies
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 223 A
 
 
 ###### Article 46 quater-0 YR
@@ -14950,27 +14952,25 @@ ces personnels ont été effectivement employés au développement d'une product
 
 Pour l'application des dispositions des articles 220 octies et 220 Q du code général des impôts, les entreprises déposent une
 déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article 360
-auprès du comptable de la direction générale des impôts.
+auprès du      comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du
+code général des impôts. 
 
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
-société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble.
+société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. 
 
 Une copie de la déclaration spéciale est adressée dans le même délai au ministère de la culture et de la communication.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
 	**Cite**:
 
-	  - CGI 220 octies, 220 Q, 223 A
-	  - Code général des impôts annexe 3, CGIAN3 360
-
-	**Créé par**:
-
-	  - Décret n°2006-1729 du 23 décembre 2006 - art. 1 () JORF 30 décembre 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 octies
+	  - Code général des impôts, CGI. - art. 223 A
 
 
 ###### Article 46 quater-0 YU
@@ -15063,25 +15063,24 @@ que soit leur situation ou leur affectation et quelle que soit la nature du cont
 
 Pour l'application des dispositions des articles 220 nonies et 220 R du code général des impôts, les entreprises déposent une
 déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article 360
-auprès du comptable de la direction générale des impôts.
+auprès du comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code
+général des impôts. 
 
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
 société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
 	**Cite**:
 
-	  - CGI 220 nonies, 220 R, 223 A
-	  - CGIAN3 360
-
-	**Créé par**:
-
-	  - Décret n°2007-1505 du 19 octobre 2007 - art. 1 () JORF 21 octobre 2007
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 R (V)
+	  - Code général des impôts, CGI. - art. 220 nonies (V)
+	  - Code général des impôts, CGI. - art. 223 A
 
 
 ###### Article 46 quater-0 YZC
@@ -15106,19 +15105,21 @@ non libératoires et les autres crédits d'impôt.
 
 Pour l'application des dispositions de l'article 220 undecies du code général des impôts, les entreprises déposent une
 déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article 360
-auprès du comptable de la direction générale des impôts. 
+auprès du comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code
+général des impôts. 
 
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
 société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-261 du 14 mars 2008 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 218 A
 	  - Code général des impôts, CGI. - art. 220 undecies
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code général des impôts, CGI. - art. 360
@@ -15522,56 +15523,57 @@ Pour une immobilisation non amortissable, son prix d'acquisition par la sociét�
 ###### Article 46 quater-0 ZI
 
 I. L'imposition forfaitaire annuelle due par les sociétés du groupe et dont la société mère est redevable en application de
-l'article 223 A du code général des impôts est payée au comptable de la direction générale des impôts du lieu d'imposition de
-cette dernière société. Le paiement est accompagné du relevé d'acompte mentionné à l'article 366 A bis qui comporte notamment
-le montant de l'imposition forfaitaire annuelle dû par l'ensemble des sociétés du groupe.
+l'article 223 A du code général des impôts est payée au comptable de la direction générale des finances publiques du lieu
+d'imposition de cette dernière société. Le paiement est accompagné du relevé d'acompte mentionné à l'article 366 A bis qui
+comporte notamment le montant de l'imposition forfaitaire annuelle dû par l'ensemble des sociétés du groupe. 
 
-II. (Abrogé).
+II. (Abrogé). 
 
 III. La société mère doit joindre à la déclaration du résultat d'ensemble un état, conforme à un modèle établi par
 l'administration, qui fait apparaître les cotisations d'imposition forfaitaire annuelle payées au titre de l'année de clôture
 de l'exercice, et le montant des cotisations des deux années antérieures.
 
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 14-I-3° b et II de la loi n° 2008-1425 du 27 décembre 2008.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 A, 366 A bis
-
-	**Modifié par**:
-
-	  - Loi n°2005-1719 2005-12-30 art. 21 III, IV Finances pour 2006 JORF 31 décembre 2005
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 21 (V) JORF 31 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 A bis
+	  - Code général des impôts, CGI. - art. 223 A
 
 
 ###### Article 46 quater-0 ZJ
 
 Pour l'application du 2 de l'article 223 N du code général des impôts, les acomptes que la société mère doit verser pour le
-compte de la société qui cesse de faire partie du groupe sont payés au comptable de la direction générale des impôts du lieu
-d'imposition de cette dernière société. Ces acomptes sont déterminés d'après le résultat de cette même société selon les
-modalités prévues à l'article 1668 du même code.
+compte de la société qui cesse de faire partie du groupe sont payés au comptable de la direction générale des finances
+publiques du lieu d'imposition de cette dernière société. Ces acomptes sont déterminés d'après le résultat de cette même
+société selon les modalités prévues à l'article 1668 du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 N, 1668
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 30
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 1668 (V)
+	  - Code général des impôts, CGI. - art. 223 N
 
 
 ###### Article 46 quater-0 ZJ bis
@@ -15646,35 +15648,37 @@ déterminée selon les mêmes modalités.
 
 La déclaration de résultats visée à l'article 53 A du code général des impôts comporte les éléments nécessaires au contrôle
 du résultat d'ensemble. Elle est souscrite en double exemplaire par chaque société membre du groupe, qui doit joindre en
-outre :
+outre : 
 
-a) l'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble ;
+a) l'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble ; 
 
 b) l'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
 III de l'article 44 octies, du III de l'article 44 octies A et du neuvième alinéa du I de l'article 44 decies du code général
-des impôts.
+des impôts. 
 
-La société mère dépose avec son relevé de solde auprès du comptable de la direction générale des impôts la liste des sociétés
-membres du groupe et des sociétés qui cessent d'être membres de ce groupe défini à l'article 223 A du code général des
-impôts. Cette liste indique le taux de détention directe et indirecte par la société mère.
+La société mère dépose avec son relevé de solde auprès du comptable de la direction générale des finances publiques du lieu
+d'imposition défini à l'article 218 A du code précité la liste des sociétés membres du groupe et des sociétés qui cessent
+d'être membres de ce groupe défini à l'article 223 A du code précité. Cette liste indique le taux de détention directe et
+indirecte par la société mère.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 53 A, 44 decies, 223 A
-
 	**Modifié par**:
 
-	  - Décret n°2006-1796 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006 Rectificatif JORF 20 janvier 2007
+	  - Décret n°2012-431  du 29 mars 2012 - art. 5
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 44 decies
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 octies A
+	  - Code général des impôts, CGI. - art. 53 A
 
 
 ###### Article 46 quater-0 ZL
@@ -16386,24 +16390,20 @@ d'épargne forestière.
 
 III.-Lorsque les parts cédées au cours d'un exercice ont été souscrites depuis moins de huit ans par le cédant ou lorsque la
 société d'épargne forestière est dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-85 et L. 214-87
-du code monétaire et financier, elle adresse, dans les deux mois suivant l'un de ces événements, à la direction des services
-fiscaux du domicile des souscripteurs concernés le relevé mentionné au I ou un duplicata de ce relevé.
+du code monétaire et financier, elle adresse, dans les deux mois suivant l'un de ces événements, à la   direction
+départementale ou, le cas échéant, régionale des finances publiques du domicile des souscripteurs concernés le relevé
+mentionné au I ou un duplicata de ce relevé.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 217 terdecies
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. L214-87 (M)
-
-	**Créé par**:
-
-	  - Décret n°2002-292 du 22 février 2002 - art. 1 () JORF 1er mars 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 217 terdecies
+	  - Code monétaire et financier - art. L214-85
 
 
 ###### Article 46 quater-0 ZZ quinquies
@@ -16996,8 +16996,8 @@ premier alinéa du 2 du III de l'article 217 undecies précité court à compter
 
 La commission consultative est nationale lorsque l'agrément est délivré par le ministre chargé du budget ou locale lorsqu'en
 application des dispositions de l'article 1649 nonies du code général des impôts et dans les conditions prévues à l'article
-170 decies de l'annexe IV au code général des impôts l'agrément est délivré par le directeur des services fiscaux de la
-collectivité dans laquelle le programme d'investissement est réalisé. 
+170 decies de l'annexe IV au code général des impôts l'agrément est délivré par le directeur régional ou, le cas échéant,
+départemental des finances publiques du département dans lequel le programme d'investissement est réalisé. 
 
 Tout dossier pour lequel une demande d'agrément a été déposée après la date de promulgation de la loi n° 2003-660 du 21
 juillet 2003 de programme pour l'outre-mer et qui est susceptible de faire l'objet d'une décision de retrait d'agrément doit
@@ -17008,13 +17008,13 @@ juillet 2003 de programme pour l'outre-mer et qui est susceptible de faire l'obj
 	**Cite**:
 
 	  - Loi n°2003-660 du 21 juillet 2003
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies (V)
-	  - Code général des impôts, CGI. - art. 1649 nonies (V)
-	  - Code général des impôts, CGI. - art. 217 undecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 decies
+	  - Code général des impôts, CGI. - art. 1649 nonies
+	  - Code général des impôts, CGI. - art. 217 undecies
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 6
 
 
 ###### Article 46 quaterdecies W
@@ -17027,7 +17027,7 @@ b) Le sous-directeur des affaires économiques du ministère de l'outre-mer ;
 
 c) L'inspecteur général des finances chargé de l'outre-mer ; 
 
-d) Le directeur général des impôts ; 
+d) Le   directeur général des finances publiques  ; 
 
 e) Le directeur du budget ; 
 
@@ -17058,8 +17058,7 @@ Les avis sont émis par la commission en présence des seuls membres ayant voix 
 
 	**Modifié par**:
 
-	  - Décret n°2010-291 du 18 mars 2010 - art. 2 (V)
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
+	  - Décret n°2012-431  du 29 mars 2012 - art. 26
 
 
 ###### Article 46 quaterdecies X
@@ -17068,11 +17067,11 @@ En Guadeloupe, en Guyane, à la Martinique, à la Réunion et à Mayotte, la com
 
 a) Le préfet, président ;
 
-b) Le trésorier-payeur général ;
+b) Le directeur départemental ou, le cas échéant, régional des finances publiques ;
 
 c) Le secrétaire général des affaires économiques ou le fonctionnaire en tenant lieu ;
 
-d) Le directeur des services fiscaux ;
+d) (Abrogé)
 
 e) Le directeur du travail et de l'emploi ;
 
@@ -17103,7 +17102,7 @@ suivi du dispositif d'aide fiscale à l'investissement du Gouvernement au Parlem
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 7
 
 
 ###### Article 46 quaterdecies Y
@@ -17344,8 +17343,8 @@ La date et le montant des versements effectués au titre de la souscription des 
 Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire ainsi que le montant et la date des cessions. 
 
 Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la Sofica adresse
-avant le 31 mars de l'année suivante à la direction des services fiscaux du domicile du cédant le relevé mentionné ci-dessus
-ou un duplicata de ce relevé. 
+avant le 31 mars de l'année suivante à la   direction départementale ou, le cas échéant, régionale des finances publiques du
+domicile du cédant le relevé mentionné ci-dessus ou un duplicata de ce relevé. 
 
 Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration. 
 
@@ -17362,13 +17361,13 @@ par la société avant le 31 mars de l'année suivant celle de la souscription.
 
 	**Modifié par**:
 
-	  - Décret n°2009-42 du 12 janvier 2009 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 unvicies (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 217 septies (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis HE (V)
+	  - Code général des impôts, CGI. - art. 199 unvicies
+	  - Code général des impôts, CGI. - art. 217 septies
+	  - Code général des impôts, CGI. - art. 238 bis HE
 
 
 ###### Article 46 quindecies F
@@ -17480,44 +17479,41 @@ elle est postérieure.
 
 Pour bénéficier de l'avantage fiscal prévu aux articles 163 duovicies et 271 decies du code général des impôts, le
 souscripteur au capital agréé d'une société pour le financement de la pêche artisanale doit joindre à sa déclaration de
-revenus ou de résultats un relevé délivré par cette société et comprenant :
+revenus ou de résultats un relevé délivré par cette société et comprenant : 
 
-a. L'identité et l'adresse de l'actionnaire ;
+a. L'identité et l'adresse de l'actionnaire ; 
 
-b. Le montant du capital agréé et la date de l'agrément ;
+b. Le montant du capital agréé et la date de l'agrément ; 
 
-c. Le nombre et les numéros des actions souscrites, le montant et la date de leur souscription ;
+c. Le nombre et les numéros des actions souscrites, le montant et la date de leur souscription ; 
 
-d. La quote-part du capital détenue par le souscripteur ;
+d. La quote-part du capital détenue par le souscripteur ; 
 
-e. La date et le montant des versements effectués au titre de la souscription des actions ;
+e. La date et le montant des versements effectués au titre de la souscription des actions ; 
 
 f. Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire ainsi que le montant et la date des
-cessions.
+cessions. 
 
 Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la société pour le
-financement de la pêche artisanale adresse, avant le 16 février de l'année suivante, à la direction des services fiscaux du
-domicile du cédant le relevé mentionné au premier alinéa ou un duplicata de ce relevé.
+financement de la pêche artisanale adresse, avant le 16 février de l'année suivante, à la direction départementale ou, le cas
+échéant, régionale des finances publiques du domicile du cédant le relevé mentionné au premier alinéa ou un duplicata de ce
+relevé. 
 
 Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 163 duovicies, 271 decies
-
-	**Créé par**:
-
-	  - Décret n°98-124 du 2 mars 1998 - art. 1 () JORF 4 mars 1998
-
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°98-400 du 22 mai 1998
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 163 duovicies
 
 
 ###### Article 46 quindecies L
@@ -17658,33 +17654,31 @@ Les organismes agréés adressent chaque année à l'autorité qui a délivré l
 des sommes recueillies précisant l'utilisation de ces sommes et fournissent les renseignements relatifs aux entreprises
 aidées de nature à prouver qu'elles entrent effectivement dans le champ d'application du dispositif défini au 4 de l'article
 238 bis du code général des impôts. Ils communiquent également annuellement à cette même autorité tous renseignements
-permettant de garantir la conformité des aides accordées au 1 de l'article 12 du règlement (CE) n° 800 / 2008 de la
-Commission du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des
-articles 87 et 88 du traité (Règlement général d'exemption par catégorie). 
+permettant de garantir la conformité des aides accordées au 1 de l'article 12 du règlement (CE) n° 800/2008 de la Commission
+du 6 août 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88
+du traité (Règlement général d'exemption par catégorie). 
 
 Ces organismes adressent leurs comptes et leur bilan annuels certifiés par un commissaire aux comptes ainsi que leur rapport
-d'activité approuvé par l'assemblée générale au directeur des services fiscaux ayant délivré l'agrément.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 114-VII [1°] et XXIII de la loi n° 2008-1443 du 30 décembre 2008.
+d'activité approuvé par l'assemblée générale au   directeur départemental ou, le cas échéant, régional des finances publiques
+ayant délivré l'agrément.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 27
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 238 bis (V)
+	  - Code général des impôts, CGI. - art. 238 bis
 
 
 ###### Article 46 quindecies Q
 
-L'agrément peut être retiré par le directeur des services fiscaux territorialement compétent ou, le cas échéant, le ministre
-chargé du budget aux organismes qui, notamment, ne peuvent justifier d'une utilisation des sommes recueillies conforme aux
-dispositions des articles 46 quindecies M et 46 quindecies O ou qui n'ont pas fait diligence pour utiliser ces fonds.
+L'agrément peut être retiré par le directeur départemental ou, le cas échéant, régional des finances publiques
+territorialement compétent ou, le cas échéant, le ministre chargé du budget aux organismes qui, notamment, ne peuvent
+justifier d'une utilisation des sommes recueillies conforme aux dispositions des articles 46 quindecies M et 46 quindecies O
+ou qui n'ont pas fait diligence pour utiliser ces fonds. 
 
 L'autorité compétente pour accorder et retirer l'agrément peut, en cas de défaillance grave, enjoindre aux organismes de
 transférer à un organisme identique désigné par lui l'actif net constitué au moyen des sommes recueillies. Ces décisions sont
@@ -17692,17 +17686,14 @@ publiées dans les formes et conditions fixées par arrêté.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 27
+
 	**Cite**:
 
-	  - CGIAN3 46 quindecies M, 46 quindecies O
-
-	**Créé par**:
-
-	  - Décret n°2004-213 du 9 mars 2004 - art. 1 () JORF 12 mars 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies M
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies O
 
 
 ###### Article 46 quindecies QA
@@ -17915,8 +17906,9 @@ e) La quote-part du capital agréé détenue par le souscripteur ;
 f) La date et le montant des versements effectués au titre de la souscription des actions ; 
 
 Lorsque des actions de la société agréée ont été cédées au cours d'une année, la société agréée adresse avant le 16 février
-de l'année suivante au service qui a délivré l'agrément et à la direction des services fiscaux dont elle dépend le relevé
-mentionné ci-dessus relatif à l'associé cédant et à l'associé cessionnaire, ou un duplicata de ce relevé. 
+de l'année suivante au service qui a délivré l'agrément et à la   direction départementale ou, le cas échéant, régionale des
+finances publiques dont elle dépend le relevé mentionné ci-dessus relatif à l'associé cédant et à l'associé cessionnaire, ou
+un duplicata de ce relevé. 
 
 Ces relevés sont établis sur papier libre.
 
@@ -17924,7 +17916,7 @@ Ces relevés sont établis sur papier libre.
 
 	**Modifié par**:
 
-	  - Décret n°2009-288 du 13 mars 2009 - art. 4
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cite**:
 
@@ -17960,35 +17952,31 @@ effectuées.
 
 ###### Article 47 A
 
-Les déclarations prévues aux articles 240 et 241 du code général des impôts sont souscrites auprès de la direction des
-services fiscaux du lieu du domicile de la personne ou du siège de l'établissement ou du bureau qui a assuré le paiement
-lorsqu'elles sont produites par des personnes qui n'emploient aucun salarié ou emploient du personnel salarié ne relevant pas
-du régime de sécurité sociale.
+Les déclarations prévues aux articles 240 et 241 du code général des impôts sont souscrites auprès de la   direction
+départementale ou, le cas échéant, régionale des finances publiques du lieu du domicile de la personne ou du siège de
+l'établissement ou du bureau qui a assuré le paiement lorsqu'elles sont produites par des personnes qui n'emploient aucun
+salarié ou emploient du personnel salarié ne relevant pas du régime de sécurité sociale. 
 
 Ces déclarations peuvent être souscrites soit par la communication d'un support informatique, soit par l'envoi de formulaires
 normalisés, dont les caractéristiques et le modèle sont fixés par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 240, 241
-
-	**Créé par**:
-
-	  - Décret n°85-1344 du 16 décembre 1985 - art. 1 (V) JORF 20 décembre 1985
-
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°86-1086 du 7 octobre 1986
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 C (P)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - Code général des impôts, CGI. - art. 240
 
 
 ###### Article 47 bis
@@ -18104,27 +18092,27 @@ effectués.
 1. Les personnes physiques ou morales qui interviennent, à titre de partie ou d'intermédiaire, dans la conclusion des
 contrats de prêts ou dans la rédaction des actes qui les constatent sont tenues de déclarer les noms et adresses du prêteur
 et de l'emprunteur, la date, le montant et les conditions du prêt, notamment sa durée, le taux et la périodicité des intérêts
-ainsi que les modalités de remboursement du principal.
+ainsi que les modalités de remboursement du principal. 
 
-2. Ces dispositions ne sont pas applicables :
+2. Ces dispositions ne sont pas applicables : 
 
-a. Aux contrats de prêts qui sont définis par un arrêté du ministre de l'économie et des finances (1) ;
+a. Aux contrats de prêts qui sont définis par un arrêté du ministre de l'économie et des finances (1) ; 
 
 b. Aux contrats de prêts dont le principal n'excède pas un montant fixé par ce même arrêté. Toutefois, lorsque plusieurs
 contrats de prêts sont conclus au cours d'une année au nom d'un même débiteur ou d'un même créancier et que leur total en
-principal dépasse le montant visé ci-dessus, tous les contrats ainsi conclus doivent être déclarés.
+principal dépasse le montant visé ci-dessus, tous les contrats ainsi conclus doivent être déclarés. 
 
 3. La déclaration est souscrite par l'intermédiaire ou, en l'absence d'intermédiaire, par le débiteur ; dans la situation
 visée au b du 2, elle est faite, suivant le cas, par le débiteur ou le créancier au nom duquel l'ensemble des contrats ont
-été conclus.
+été conclus. 
 
 Lorsque la déclaration est souscrite par l'intermédiaire, celle-ci est adressée dans le premier mois de chaque année à la
-direction des services fiscaux du lieu du domicile réel ou du principal établissement de la personne physique ou morale
-déclarante.
+direction départementale ou, le cas échéant, régionale des finances publiques du lieu du domicile réel ou du principal
+établissement de la personne physique ou morale déclarante. 
 
 Lorsque le débiteur ou le créancier est tenu de souscrire la déclaration en application des dispositions du premier alinéa,
 celle-ci est adressée au service des impôts dont il dépend en même temps que la déclaration de ses revenus ou que la
-déclaration de ses résultats.
+déclaration de ses résultats. 
 
 La déclaration mentionne les contrats de prêts conclus au cours de la précédente année. Elle est établie sur une formule
 délivrée par l'administration.
@@ -18135,25 +18123,17 @@ délivrée par l'administration.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGIAN4 23 L
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 L (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### 2° : Paiement de revenus de valeurs mobilières
@@ -18306,32 +18286,27 @@ et à condition que les bons, titres ou contrats n'aient pas été cédés (1).
 ###### Article 49 H
 
 Il est satisfait aux obligations résultant des articles 49 D à 49 G par la communication d'un support informatique ou par
-l'envoi de formulaires normalisés.
+l'envoi de formulaires normalisés. 
 
 Les caractéristiques du support informatique et le modèle de formulaire normalisé sont fixés par la direction générale des
-impôts.
+finances publiques. 
 
-Les déclarations, accompagnées d'un bordereau récapitulatif, sont remises à la direction des services fiscaux du lieu de la
-résidence ou du principal établissement du déclarant.
+Les déclarations, accompagnées d'un bordereau récapitulatif, sont remises à la direction départementale ou, le cas échéant,
+régionale des finances publiques du lieu de la résidence ou du principal établissement du déclarant.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Arrêté 1985-02-13
-	  - CGIAN3 49 D à 49 G
-
-	**Créé par**:
-
-	  - Décret n°85-200 du 13 février 1985 - art. 8 (V) JORF 15 février 1985
-
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°85-1007 du 24 septembre 1985
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - Décret n°2012-431  du 29 mars 2012 - art. 8
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 D
 
 
 ###### Article 49 I
@@ -18519,88 +18494,89 @@ article 49 I ter dont les parts sont cédées ou rachetées au regard de leur qu
 
 ###### Article 49 I ter
 
-I. - Pour l'application des sixième et septième alinéas du 1 de l'article 242 ter du code général des impôts, les personnes
+I.-Pour l'application des sixième et septième alinéas du 1 de l'article 242 ter du code général des impôts, les personnes
 mentionnées au premier alinéa de cet article qui assurent le paiement des intérêts de créances de toute nature et produits
 assimilés définis au III doivent joindre à la déclaration prévue à l'article 49 D, et dans le même délai, un état de ces
-sommes, payées au cours de l'année précédente à un bénéficiaire effectif défini au II.
+sommes, payées au cours de l'année précédente à un bénéficiaire effectif défini au II. 
 
 Par dérogation, les gérants et les dépositaires des actifs des fonds communs de créances et des fonds communs de placement ne
-bénéficiant pas de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/CEE du Conseil du 20
+bénéficiant pas de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/ CEE du Conseil du 20
 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains
 organismes de placement collectif en valeurs mobilières ainsi que les représentants à l'égard des tiers des organismes ou
 entités sans personnalité morale produisent dans le même délai un état de sommes définies au III que ces fonds, organismes ou
 entités ont reçues pour leur quote-part revenant à un bénéficiaire effectif au cours de l'année précédente lorsque ces fonds,
-organismes ou entités ne sont pas passibles de l'impôt sur les sociétés.
+organismes ou entités ne sont pas passibles de l'impôt sur les sociétés. 
 
 Toutefois, les fonds, organismes ou entités mentionnés au deuxième alinéa peuvent déclarer ces sommes au titre de l'année de
 leur paiement, sur option expresse, irrévocable et globale, formulée soit par le gérant du fonds, qui en informe le
 dépositaire des actifs, soit, pour tout autre organisme ou entité, son représentant à l'égard des tiers. Cette option est
 formulée au plus tard le 30 juin 2005 pour les fonds, organismes ou entités existant à cette date, ou dans le mois de leur
-création dans les autres cas, auprès de la direction des services fiscaux désignée par l'article 49 H, qui leur délivre un
-certificat. Les organismes ou entités qui reçoivent des sommes mentionnées au III d'un tiers résident d'un autre Etat membre
-de la Communauté européenne lui remettent à sa demande un exemplaire de ce certificat pour justifier de leur option.
+création dans les autres cas, auprès de la direction départementale ou, le cas échéant, régionale des finances publiques
+désignée par l'article 49 H, qui leur délivre un certificat. Les organismes ou entités qui reçoivent des sommes mentionnées
+au III d'un tiers résident d'un autre Etat membre de la Communauté européenne lui remettent à sa demande un exemplaire de ce
+certificat pour justifier de leur option. 
 
-II. - Est considéré comme bénéficiaire effectif :
+II.-Est considéré comme bénéficiaire effectif : 
 
 1° Toute personne physique qui a son domicile fiscal hors de France dans un Etat membre de la Communauté européenne et qui
-perçoit pour son propre compte ou à qui sont attribuées les sommes définies au III ;
+perçoit pour son propre compte ou à qui sont attribuées les sommes définies au III ; 
 
 2° Tout organisme ou entité à qui sont payées ou attribuées les sommes définies au III établi hors de France dans un Etat
 membre de la Communauté européenne, sans personnalité morale, qui n'est pas passible de l'impôt sur les sociétés ou d'un
 impôt équivalent et qui ne bénéficie pas de la procédure de reconnaissance mutuelle des agréments prévue par la directive
-85/611/CEE du Conseil du 20 décembre 1985 précitée, lorsqu'il n'a pas produit le certificat d'option délivré par l'autorité
-compétente de son Etat de résidence pour l'application du régime mentionné au troisième alinéa du I.
+85/611/ CEE du Conseil du 20 décembre 1985 précitée, lorsqu'il n'a pas produit le certificat d'option délivré par l'autorité
+compétente de son Etat de résidence pour l'application du régime mentionné au troisième alinéa du I. 
 
-III. - 1. Les intérêts de créances de toute nature et produits assimilés au sens de la directive 2003/48/CE du Conseil du 3
-juin 2003 en matière de fiscalité des revenus de l'épargne sous forme de paiements d'intérêts s'entendent :
+III.-1. Les intérêts de créances de toute nature et produits assimilés au sens de la directive 2003/48/ CE du Conseil du 3
+juin 2003 en matière de fiscalité des revenus de l'épargne sous forme de paiements d'intérêts s'entendent : 
 
 1° Sous réserve du 2, des intérêts payés ou inscrits en compte, qui se rapportent à des créances de toute nature, assorties
 ou non de garanties hypothécaires ou d'une clause de participation aux bénéfices du débiteur, et notamment les revenus des
 fonds publics et des obligations d'emprunts, y compris les primes et lots attachés à ceux-ci, à l'exclusion des pénalisations
-pour paiement tardif ;
+pour paiement tardif ; 
 
 2° Des intérêts courus ou capitalisés obtenus lors de la cession, du remboursement ou du rachat des créances mentionnées au
-1° ;
+1° ; 
 
 3° Des revenus mentionnés aux 1°, 2° et 4° distribués par un organisme de placement collectif en valeurs mobilières
-bénéficiant de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/CEE du Conseil du 20
+bénéficiant de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/ CEE du Conseil du 20
 décembre 1985 ou par un organisme ou une entité, défini au 2° du II, établi dans un Etat membre de la Communauté européenne
 et ayant opté pour le régime mentionné au troisième alinéa du I, ou par un organisme de placement collectif établi hors de la
 Communauté européenne. Il en est ainsi que ces revenus soient payés à un bénéficiaire effectif directement par ces organismes
 ou entités ou indirectement par l'intermédiaire d'une entité définie au 2° du II et établie dans un Etat membre de la
-Communauté européenne ;
+Communauté européenne ; 
 
 4° Des revenus réalisés lors de la cession, du remboursement ou du rachat de parts ou d'actions des organismes ou entités
 mentionnés à la première phrase du 3° qui investissent, directement ou indirectement par l'intermédiaire d'autres organismes
 ou entités de même nature, plus de 40 % de leur actif en créances mentionnées au 1°, pourcentage calculé dans les conditions
-fixées à l'article 49 I quater, sous réserve des dispositions du 1 de l'article 49 I sexies.
+fixées à l'article 49 I quater, sous réserve des dispositions du 1 de l'article 49 I sexies. 
 
 2. Ne sont pas considérés comme des créances mentionnées au 1° du 1 les obligations domestiques et internationales et autres
 titres de créances négociables lorsque leur émission d'origine est antérieure au 1er mars 2001 ou, à défaut, lorsque leurs
 prospectus d'émission d'origine ont été visés avant cette date par les autorités compétentes, à condition qu'aucune nouvelle
-émission de ces titres n'ait été réalisée à compter du 1er mars 2002.
+émission de ces titres n'ait été réalisée à compter du 1er mars 2002. 
 
 En cas d'émission nouvelle postérieure à cette dernière date d'un des titres de créances mentionnés au premier alinéa, est
-considéré comme créance au sens du 1° du 1 :
+considéré comme créance au sens du 1° du 1 : 
 
 a. L'ensemble des émissions d'un même titre si celles-ci sont réalisées par un Etat ou par une entité mentionnée à l'annexe
-de la directive 2003/48/CE du Conseil du 3 juin 2003 précitée, y compris les émissions réalisées antérieurement au 1er mars
-2002 ;
+de la directive 2003/48/ CE du Conseil du 3 juin 2003 précitée, y compris les émissions réalisées antérieurement au 1er mars
+2002 ; 
 
-b. La nouvelle émission postérieure au 1er mars 2002 si celle-ci est réalisée par tout autre émetteur.
+b. La nouvelle émission postérieure au 1er mars 2002 si celle-ci est réalisée par tout autre émetteur. 
 
-IV. - L'état mentionné au premier alinéa du I comprend, outre la reprise des éléments d'identification du déclarant, de la
+IV.-L'état mentionné au premier alinéa du I comprend, outre la reprise des éléments d'identification du déclarant, de la
 référence aux comptes concernés et des éléments d'identification du bénéficiaire effectif mentionnés respectivement aux 1°,
-2° et a du 3° de l'article 49 E :
+2° et a du 3° de l'article 49 E : 
 
 1° Pour les bénéficiaires effectifs mentionnés au 1° du II, le numéro d'identification fiscale lorsqu'il figure sur le
 passeport ou la carte d'identité officielle du bénéficiaire effectif ou tout document probant communiqué par ce dernier, pour
 les relations contractuelles établies à compter du 1er janvier 2004 ou pour les transactions effectuées en l'absence de
-relation contractuelle à compter de cette même date ;
+relation contractuelle à compter de cette même date ; 
 
 2° Pour les bénéficiaires visés au 2° du II, la dénomination ou raison sociale, l'adresse du siège social ou du principal
 établissement au 1er janvier de l'année de souscription de l'état mentionné au premier alinéa du I. Les éléments
-d'identification sont justifiés dans des conditions fixées par arrêté ;
+d'identification sont justifiés dans des conditions fixées par arrêté ; 
 
 3° Le montant total des intérêts et des revenus mentionnés aux 1° et 3° du 1 du III et le montant total des cessions, rachats
 ou remboursements de créances, parts ou actions mentionnés aux 2° et 4° du 1 du même III.
@@ -18614,20 +18590,15 @@ ou remboursements de créances, parts ou actions mentionnés aux 2° et 4° du 1
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I quinquies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I sexies (M)
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 242 ter
-	  - CGIAN3 49 D, 49 H, 49 I quater, 49 I sexies, 49 E
-	  - Directive 2003-48 CE 2003-06-03
-	  - Directive 85-611 CEE 1985-12-20
-
-	**Créé par**:
-
-	  - Décret n°2005-132 du 15 février 2005 - art. 1 () JORF 17 février 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 D
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E (V)
+	  - Code général des impôts, CGI. - art. 242 ter
 
 
 ##### Section II ter : Déclaration à produire par les entreprises nouvelles bénéficiant des dispositions de l'article 44 sexies du code général des impôts
@@ -19358,29 +19329,30 @@ bénéfices ultérieurs de l'intéressé, selon les règles en vigueur à l'épo
 
 ###### Article 49 quinquies
 
-I. La restitution est ordonnée sur la demande de l'intéressé, adressée au directeur des services fiscaux du département dans
-lequel le requérant avait son domicile ou son principal établissement au 1er janvier de l'année de la réclamation.
+I. La restitution est ordonnée sur la demande de l'intéressé, adressée au directeur départemental ou, le cas échéant,
+régional des finances publiques du département dans lequel le requérant avait son domicile ou son principal établissement au
+1er janvier de l'année de la réclamation. 
 
 II. La demande de restitution doit être présentée par l'associé ou par ses ayants cause au plus tard le 31 décembre de
-l'année suivant celle au cours de laquelle le remboursement a été opéré.
+l'année suivant celle au cours de laquelle le remboursement a été opéré. 
 
 III. Les requérants doivent y mentionner, outre la dénomination et le siège de la société, le montant et la date du
-remboursement :
+remboursement : 
 
 a. Pour la taxe proportionnelle ou la retenue à la source : le service des impôts où cette imposition a été acquittée, la
 date à laquelle la déclaration ayant servi de base à ladite imposition a été déposée ainsi que le montant de l'avance, du
-prêt ou de l'acompte inclus dans la base d'imposition de la société ;
+prêt ou de l'acompte inclus dans la base d'imposition de la société ; 
 
 b. Pour la surtaxe progressive ou l'impôt sur le revenu et pour la taxe complémentaire : l'année d'imposition, le montant de
 l'avance, du prêt ou de l'acompte inclus dans le revenu imposable de ladite année ainsi que l'indication de l'article du rôle
-sous lequel l'imposition a été établie et la date à laquelle le rôle a été mis en recouvrement ;
+sous lequel l'imposition a été établie et la date à laquelle le rôle a été mis en recouvrement ; 
 
 c. Pour l'impôt sur les sociétés : la période d'imposition, le montant de l'avance, du prêt ou de l'acompte inclus dans le
 bénéfice net imposable de ladite période ainsi que, le cas échéant, l'indication de l'article du rôle sous lequel
-l'imposition a été établie et la date à laquelle le rôle a été mis en recouvrement.
+l'imposition a été établie et la date à laquelle le rôle a été mis en recouvrement. 
 
 A l'appui des renseignements visés aux b ou c, les requérants doivent produire une attestation régulière du comptable
-justifiant du paiement de l'impôt.
+justifiant du paiement de l'impôt. 
 
 IV. Dans le cas visé au cinquième alinéa du II de l'article 49 quater, la demande doit mentionner, en outre, tous
 renseignements permettant de déterminer le montant de la taxe proportionnelle ou de la retenue à la source dont la société
@@ -19389,26 +19361,22 @@ vertu de l'article 145 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 145, 111
-	  - CGIAN3 49 quater
-
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-356 du 24 mars 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 27
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 quater
+	  - Code général des impôts, CGI. - art. 145
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 sexies (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ###### Article 49 sexies
@@ -19749,13 +19717,14 @@ dans les conditions prévues à l'article R. 45 B-1 du livre des procédures fis
 ###### Article 49 septies WB
 
 Pour l'application des dispositions de l'article 244 quater E du code général des impôts, les personnes morales passibles de
-l'impôt sur les sociétés déposent auprès du comptable de la direction générale des impôts une déclaration spéciale avec le
-relevé de solde de l'exercice ou de la période d'imposition en cours lors de la réalisation de l'investissement. S'agissant
-des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère
-joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. Les sociétés du
+l'impôt sur les sociétés déposent auprès du comptable de la direction générale des finances publiques du lieu d'imposition
+défini à l'article 218 A du code précité une déclaration spéciale avec le relevé de solde mentionné à l'article 360 de
+l'exercice ou de la période d'imposition en cours lors de la réalisation de l'investissement. S'agissant des sociétés
+relevant du régime des groupes de sociétés prévu à l'article 223 A du code précité, la société mère joint les déclarations
+spéciales des sociétés du groupe au relevé de solde mentionné à l'article 360 relatif au résultat d'ensemble. Les sociétés du
 groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultat qu'elles sont tenues de
 déposer en vertu du 1 de l'article 223 du code précité. Les autres entreprises joignent la déclaration spéciale à la
-déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation des investissements.
+déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation des investissements. 
 
 L'option prévue au premier alinéa du II de l'article 244 quater E précité est réputée exercée au moment du dépôt de la
 déclaration spéciale mentionnée au premier alinéa au titre du premier exercice ou de la première période d'imposition au
@@ -19763,17 +19732,17 @@ cours de laquelle un investissement éligible au crédit d'impôt pour investiss
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 244 quater E, 223 A, 223
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 9
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater E
+	  - Code général des impôts, CGI. - art. 360
 
 
 ###### Article 49 septies WC
@@ -19923,32 +19892,33 @@ dépend l'entreprise propriétaire des biens.
 
 Pour l'application des dispositions de l'article 238 bis du code général des impôts, les entreprises doivent annexer une
 déclaration spéciale à la déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation
-des dépenses ouvrant droit à réduction d'impôt et mentionnées à l'article précité.
+des dépenses ouvrant droit à réduction d'impôt et mentionnées à l'article précité. 
 
 Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des impôts avec le relevé de solde de l'exercice ou de la période d'imposition en cours lors de la
-réalisation des dépenses ouvrant droit à réduction d'impôt. S'agissant des sociétés relevant du régime des groupes de
-sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales du groupe au
-relevé de solde relatif au résultat d'ensemble. Les sociétés du groupe sont dispensées d'annexer la déclaration spéciale les
-concernant à la déclaration de résultat qu'elles sont tenues de déposer en vertu du 1 de l'article 223 du code précité.
+la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts, avec
+le relevé de solde mentionné à l'article 360 de l'exercice ou de la période d'imposition en cours lors de la réalisation des
+dépenses ouvrant droit à réduction d'impôt. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
+l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales du groupe au relevé de solde
+relatif au résultat d'ensemble. Les sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la
+déclaration de résultat qu'elles sont tenues de déposer en vertu du 1 de l'article 223 du code précité.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 238 bis, 223 A, 223
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 31
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 238 bis
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies QC (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article 49 septies XA
@@ -20054,30 +20024,32 @@ non libératoires et les autres crédits d'impôt.
 
 Pour l'application des dispositions des articles 199 ter E, 220 G et 244 quater F du code général des impôts, les entreprises
 doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du service des
-impôts dont elles dépendent.
+impôts dont elles dépendent. 
 
 Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des impôts avec le relevé de solde de l'exercice concerné. S'agissant des sociétés relevant du régime
-des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales
-du groupe au relevé de solde relatif au résultat d'ensemble. Les sociétés du groupe sont dispensées d'annexer la déclaration
-spéciale les concernant à la déclaration de résultat qu'elles sont tenues de déposer en vertu du 1 de l'article 223 du code
-précité.
+la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts, avec
+le relevé de solde mentionné à l'article 360 de l'exercice concerné. S'agissant des sociétés relevant du régime des groupes
+de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales du groupe au
+relevé de solde relatif au résultat d'ensemble. Les sociétés du groupe sont dispensées d'annexer la déclaration spéciale les
+concernant à la déclaration de résultat qu'elles sont tenues de déposer en vertu du 1 de l'article 223 du code précité. 
 
 Une copie de la déclaration spéciale doit être adressée dans le même délai au ministre chargé de la famille.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 ter E, 220 G, 244 quater F, 223 A, 223
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 31
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360
+	  - Code général des impôts, CGI. - art. 199 ter E
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 G
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater F
 
 
 ##### Section V octies : Crédit d'impôt en faveur de l'apprentissage
@@ -20220,27 +20192,27 @@ non libératoires et les autres crédits d'impôts.
 
 Pour l'application des dispositions des articles 199 ter F, 220 H et 244 quater G du code général des impôts, les entreprises
 doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du service des
-impôts dont elles dépendent.
+impôts dont elles dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
-comptable de la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
-relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les
-déclarations spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de
-solde relatif au résultat d'ensemble du groupe.
+comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des
+impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés
+prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des
+sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du
+groupe.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 199 ter F, 220 H, 244 quater G, 360, 223 A
-
 	**Modifié par**:
 
-	  - Décret n°2005-1745 du 30 décembre 2005 - art. 3 () JORF 31 décembre 2005
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
+	  - Code général des impôts, CGI. - art. 199 ter F
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 223 A
 
 
 ##### Section V nonies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour financer l'acquisition ou la construction d'une résidence principale
@@ -20308,30 +20280,34 @@ non libératoires et les autres crédits d'impôts.
 
 ###### Article 49 septies YS
 
-Pour l'application des dispositions des articles 199 ter I, 220 K et 244 quater J du code général des impôts, les
-établissements de crédit mentionnés au I de l'article 244 quater J précité doivent annexer une déclaration spéciale à la
-déclaration de résultat qu'elles sont tenues de déposer auprès du service des impôts dont elles dépendent.
+Pour l'application des dispositions des articles 199 ter I, 
+220 K et 244 quater J du code général des impôts, les établissements de crédit mentionnés au I de l'article 244 quater J
+précité doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du
+service des impôts dont elles dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
-comptable de la direction générale des impôts avec le relevé de solde de l'exercice. S'agissant des sociétés relevant du
-régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations
-spéciales des sociétés membres du groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe
-sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultats qu'elles sont tenues de
-déposer en vertu du 1 de l'article 223 du code précité.
+comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des
+impôts, avec le relevé de solde mentionné à l'article 360 de l'exercice. S'agissant des sociétés relevant du régime des
+groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales des
+sociétés membres du groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe sont
+dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultats qu'elles sont tenues de déposer en
+vertu du 1 de l'article 223 du code précité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 31
+
 	**Cite**:
 
-	  - CGI 199 ter I, 220 K, 244 quater J, 223 A, 223
-
-	**Créé par**:
-
-	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
+	  - Code général des impôts, CGI. - art. 199 ter I
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 K
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater J
 
 
 ###### Article 49 septies YT
@@ -20389,28 +20365,33 @@ non libératoires et les autres crédits d'impôt.
 Pour l'application des dispositions des articles 199 ter G, 220 I et 244 quater H du code général des impôts, les entreprises
 doivent annexer une déclaration spéciale selon un modèle établi par l'administration à la déclaration de résultat qu'elles
 sont tenues de déposer en vertu des articles 53 A et 97 du code général des impôts auprès du service des impôts dont elles
-dépendent.
+dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
-comptable de la direction générale des impôts avec le relevé de solde de l'exercice. S'agissant des sociétés relevant du
-régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations
-spéciales des sociétés membres du groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe
-sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultat qu'elles sont tenues de déposer
-en vertu du 1 de l'article 223 du code précité.
+comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des
+impôts, avec le relevé de solde mentionné à l'article 360 de l'exercice. S'agissant des sociétés relevant du régime des
+groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales des
+sociétés membres du groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe sont
+dispensées d'annexer la déclaration spéciale les concernant à la déclaration de résultat qu'elles sont tenues de déposer en
+vertu du 1 de l'article 223 du code précité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 31
+
 	**Cite**:
 
-	  - CGI 199 ter G, 220 I, 244 quater H, 53 A, 97, 223 A, 223
-
-	**Créé par**:
-
-	  - Décret n°2005-568 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
+	  - Code général des impôts, CGI. - art. 199 ter G
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 I
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater H
+	  - Code général des impôts, CGI. - art. 53 A
+	  - Code général des impôts, CGI. - art. 97
 
 
 ##### Section V duodecies : Crédit d'impôt en faveur de l'agriculture biologique
@@ -20461,47 +20442,48 @@ non libératoires et les autres crédits d'impôt. L'excédent de crédit d'imp�
 
 ###### Article 49 septies ZB bis
 
-Pour l'application des dispositions des articles 199 ter K, 220 M et 244 quater  L du code général des impôts, les
-entreprises doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration.
+Pour l'application des dispositions des articles 199 ter K, 220 M et 244 quater L du code général des impôts, les entreprises
+doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
 
 Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du
-régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations
-spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au
-résultat d'ensemble du groupe.
+la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
+relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
+l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
+groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. 
 
 Les autres entreprises joignent la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer
-en vertu de l'article 53 A du code général des impôts.
+en vertu de l'article 53 A du code général des impôts. 
 
 Pour les sociétés de personnes et les groupements assimilés, dont les groupements agricoles d'exploitation en commun, qui ne
 seraient pas tenus au dépôt de la déclaration annuelle de résultat prévue à l'article 53 A du code général des impôts, la
 déclaration spéciale mentionnée au premier alinéa est adressée au service des impôts des entreprises dont relève la société
 de personnes ou le groupement assimilé dans le même délai que la déclaration de revenus des associés lorsque ceux-ci sont des
 personnes physiques ou que la déclaration annuelle de résultat lorsque les associés sont des personnes morales tenues de
-déposer cette déclaration en application de l'article 53 A précité.
+déposer cette déclaration en application de l'article 53 A précité. 
 
 Les associés personnes physiques joignent à leur déclaration de revenus une déclaration spéciale indiquant les quotes-parts
-de crédit d'impôt issues de leur participation dans les groupements susvisés.
+de crédit d'impôt issues de leur participation dans les groupements susvisés. 
 
 Les associés personnes morales joignent cette même déclaration spéciale à leur déclaration annuelle de résultat lorsqu'elles
-sont tenues de la déposer en application de l'article 53 A du code général des impôts.
+sont tenues de la déposer en application de l'article 53 A du code général des impôts. 
 
 Les exploitants individuels non tenus au dépôt de la déclaration annuelle de résultat prévue à l'article 53 A précité
 joignent la déclaration spéciale mentionnée au premier alinéa à leur déclaration de revenus.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
 	**Cite**:
 
-	  - CGI 199 ter K, 220 M, 244 quater L, 360, 223 A, 53 A
-
-	**Créé par**:
-
-	  - Décret n°2006-793 du 4 juillet 2006 - art. 1 () JORF 6 juillet 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 199 ter K (V)
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 M (V)
+	  - Code général des impôts, CGI. - art. 223 A (VT)
+	  - Code général des impôts, CGI. - art. 244 quater L (V)
+	  - Code général des impôts, CGI. - art. 53 A
 
 
 ##### Section V terdecies : Crédit d'impôt pour formation des dirigeants
@@ -20599,16 +20581,16 @@ non libératoires et les autres crédits d'impôt.
 ###### Article 49 septies ZH
 
 Pour l'application des dispositions des articles 199 ter L, 220 N et 244 quater M du code général des impôts, les entreprises
-souscrivent une déclaration spéciale conforme à un modèle établi par l'administration.
+souscrivent une déclaration spéciale conforme à un modèle établi par l'administration. 
 
 Les personnes morales passibles de l'impôt sur les sociétés déposent cette déclaration spéciale auprès du comptable de la
-direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime
-des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales
-pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat
-d'ensemble du groupe.
+direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
+relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
+l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
+groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. 
 
 Les autres entreprises joignent la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer
-en vertu des articles 53 A et 97 du code général des impôts.
+en vertu des articles 53 A et 97 du code général des impôts. 
 
 L'associé personne morale de société de personnes ou de groupement assimilé dont le dirigeant a suivi des heures de formation
 éligibles au crédit d'impôt prévu à l'article 244 quater M du code général des impôts dépose une déclaration spéciale
@@ -20617,17 +20599,18 @@ assimilé dont il est associé ou membre.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
 	**Cite**:
 
-	  - CGI 199 ter L, 220 N, 244 quater M, 360, 223 A, 53 A, 97
-
-	**Créé par**:
-
-	  - Décret n°2006-1040 du 23 août 2006 - art. 1 () JORF 25 août 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 199 ter L (V)
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 N (V)
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater M (V)
+	  - Code général des impôts, CGI. - art. 53 A
 
 
 ##### Section V quindecies : Crédit d'impôt en faveur des métiers d'art
@@ -20695,19 +20678,19 @@ non libératoires et les autres crédits d'impôt.
 ###### Article 49 septies ZO
 
 Pour l'application des dispositions des articles 199 ter N, 220 P et 244 quater O du code général des impôts, les entreprises
-doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration.
+doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
 
 Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du
-régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations
-spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au
-résultat d'ensemble du groupe.
+la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
+relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
+l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
+groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. 
 
 Les autres entreprises joignent la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer
-en vertu de l'article 53 A du code général des impôts.
+en vertu de l'article 53 A du code général des impôts. 
 
-L'associé ou membre d'une société de personnes ou d'un groupement mentionnés aux articles 8, 238 bis L, 239 quater, 239
-quater B et 239 quater C du code général des impôts et ayant engagé des dépenses ouvrant droit au crédit d'impôt mentionné à
+L'associé ou membre d'une société de personnes ou d'un groupement mentionnés aux articles 8,238 bis L, 239 quater, 239 quater
+B et 239 quater C du code général des impôts et ayant engagé des dépenses ouvrant droit au crédit d'impôt mentionné à
 l'article 244 quater O du même code dépose une déclaration spéciale indiquant la quote-part des crédits d'impôt provenant de
 chacune des sociétés de personnes ou groupement assimilé dont il est associé ou membre. Toutefois, lorsque l'associé ou
 membre est une personne physique, il est dispensé de déposer la déclaration spéciale lorsqu'il ne dispose pas d'un crédit
@@ -20716,17 +20699,22 @@ le groupement assimilé.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
 	**Cite**:
 
-	  - CGI 199 ter N, 220 P, 244 quater O, 360, 223 A, 53 A, 8, 238 bis L, 239 quater, 239 quater B, 239 quater C
-
-	**Créé par**:
-
-	  - Décret n°2006-1350 du 7 novembre 2006 - art. 1 () JORF 9 novembre 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 199 ter N (V)
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 P (V)
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 238 bis L (V)
+	  - Code général des impôts, CGI. - art. 239 quater (V)
+	  - Code général des impôts, CGI. - art. 239 quater B (V)
+	  - Code général des impôts, CGI. - art. 244 quater O (V)
+	  - Code général des impôts, CGI. - art. 53 A
+	  - Code général des impôts, CGI. - art. 8 (V)
 
 
 ##### Section V septdecies : Crédit d'impôt en faveur des maîtres restaurateurs
@@ -20766,16 +20754,16 @@ non libératoires et les autres crédits d'impôt.
 ###### Article 49 septies ZT
 
 Pour l'application des dispositions des articles 199 ter P, 220 U et 244 quater Q du code général des impôts, les entreprises
-doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration.
+doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
 
 Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du
-régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations
-spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au
-résultat d'ensemble du groupe.
+la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
+relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
+l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
+groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. 
 
 Les autres entreprises doivent déposer la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
-qu'elles sont tenues de souscrire en vertu de l'article 53 A du code général des impôts.
+qu'elles sont tenues de souscrire en vertu de l'article 53 A du code général des impôts. 
 
 L'associé d'une société de personnes mentionnée aux articles 8 et 238 bis L du code général des impôts ayant engagé des
 dépenses ouvrant droit au crédit d'impôt mentionné à l'article 244 quater Q du même code dépose la déclaration spéciale
@@ -20786,21 +20774,24 @@ personnes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 199 ter P, 220 U, 244 quater Q, 360, 223 A, 53 A, 8, 238 bis L
-
-	**Créé par**:
-
-	  - Décret n°2007-726 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZU (M)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - L'article sera codifié ultérieurement
+	  - Code général des impôts, CGI. - art. 199 ter P (V)
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 U (V)
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater Q
+	  - Code général des impôts, CGI. - art. 360 (P)
+	  - Code général des impôts, CGI. - art. 53 A
+	  - Code général des impôts, CGI. - art. 8
 
 
 ###### Article 49 septies ZU
@@ -20865,15 +20856,16 @@ non libératoires et les autres crédits d'impôt
 
 ###### Article 49 septies ZX
 
-Pour l'application des dispositions des articles 199 ter Q,220 V et 244 quater R du code général des impôts , les entreprises
+Pour l'application des dispositions des articles 199 ter Q, 220 V et 244 quater R du code général des impôts, les entreprises
 doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
 
 Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des impôts avec le relevé de solde mentionné à l'article 360.S'agissant des sociétés relevant du régime
-des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales
-pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat
-d'ensemble du groupe. Les autres entreprises doivent déposer la déclaration spéciale dans les mêmes délais que la déclaration
-annuelle de résultat qu'elles sont tenues de souscrire en application de l' article 53 A du code général des impôts .
+la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
+relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
+l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
+groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. Les
+autres entreprises doivent déposer la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
+qu'elles sont tenues de souscrire en application de l'article 53 A du code général des impôts. 
 
 L'associé d'une société de personnes mentionnée aux articles 8 et 238 bis L du code général des impôts ayant engagé des
 dépenses ouvrant droit au crédit d'impôt mentionné à l'article 244 quater R du même code dépose une déclaration spéciale
@@ -20884,20 +20876,22 @@ personnes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1680 du 28 novembre 2007 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 ter Q (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 220 V (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 A (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis L (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater R (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 360 (P)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 53 A (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 8 (V)
+	  - Code général des impôts, CGI. - art. 199 ter Q
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 V
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater R
+	  - Code général des impôts, CGI. - art. 360
 
 
 ##### Section V novodecies : Crédit d'impôt au titre des primes d'intéressement
@@ -21023,22 +21017,28 @@ Pour l'application des dispositions des articles 199 ter S, 220 Z et 244 quater 
 déclaration de résultat qu'elles sont tenues de déposer auprès du service des impôts dont elles dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
-comptable des impôts avec le relevé de solde de l'exercice.S'agissant des sociétés relevant du régime des groupes de sociétés
-prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales des sociétés membres du
-groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe sont dispensées d'annexer la
-déclaration spéciale les concernant à la déclaration de résultats qu'elles sont tenues de déposer en vertu du 1 de l'article
-223 du code précité.
+comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code précité avec
+le relevé de solde de l'exercice mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de
+sociétés prévu à l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales des sociétés
+membres du groupe au relevé de solde relatif au résultat d'ensemble du groupe. Les sociétés du groupe sont dispensées
+d'annexer la déclaration spéciale les concernant à la déclaration de résultats qu'elles sont tenues de déposer en vertu du 1
+de l'article 223 du code précité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 10
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 199 ter S
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 Z
+	  - Code général des impôts, CGI. - art. 223
 	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater U
+	  - Code général des impôts, CGI. - art. 360
 
 
 ###### Article 49 septies ZZE
@@ -23991,27 +23991,22 @@ obligatoires que la liste doit comporter.
 
 ###### Article 96 I
 
-Les fonctionnaires titulaires des corps de catégorie A ou B de la direction générale des impôts sont habilités à procéder aux
-visites mentionnées au IV de l'article 289 bis du code général des impôts.
+Les fonctionnaires titulaires des corps de catégorie A ou B de la   direction générale des finances publiques  sont habilités
+à procéder aux visites mentionnées au IV de l'article 289 bis du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°99-337 du 3 mai 1999 - art. 1 () JORF 4 mai 1999
 
 	**Cité par**:
 
 	  - Arrêté du 28 décembre 2010 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 28
+
 	**Cite**:
 
-	  - CGI 289 bis
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
-	  - TXT_ASSOCIE: Instruction 1999-07-12 3E-1-99
+	  - Code général des impôts, CGI. - art. 289 bis
 
 
 ##### 3° : Déclaration des échanges de biens entre Etats membres de l'Union européenne
@@ -24658,24 +24653,24 @@ L. 233-2 du code rural et de la pêche maritime. Elle est assise sur le nombre d
 
 Toute personne qui, habituellement ou occasionnellement, se livre, pour son compte ou pour le compte de tiers, aux opérations
 d'abattage d'animaux de boucherie et de charcuterie, de volailles, de lapins domestiques, de gibier d'élevage ou de
-traitement du gibier sauvage doit :
+traitement du gibier sauvage doit : 
 
 1° Souscrire, préalablement à toute opération, une déclaration d'existence auprès du service des impôts dont dépend le lieu
-d'abattage ou de traitement du gibier sauvage ;
+d'abattage ou de traitement du gibier sauvage ; 
 
 2° Tenir un registre permettant de dégager, jour par jour, et sans blanc ni rature, les éléments nécessaires à la
-constatation, à la liquidation et au contrôle de la redevance sanitaire d'abattage ;
+constatation, à la liquidation et au contrôle de la redevance sanitaire d'abattage ; 
 
-3° Déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des impôts et comportant les
-indications nécessaires à l'assiette et à la perception de la redevance.
+3° Déposer mensuellement une déclaration conforme au modèle prescrit par la   direction générale des finances publiques  et
+comportant les indications nécessaires à l'assiette et à la perception de la redevance. 
 
 Cette déclaration doit être remise par chaque redevable au service des impôts dont dépend le lieu d'abattage ou de traitement
 du gibier sauvage avant le 25 du mois suivant celui au cours duquel les opérations imposables ont été réalisées. La redevance
-doit être acquittée dans le même délai. Lorsque son montant est inférieur à 150 euros par mois, les redevables sont admis à
-déposer leur déclaration et à payer la redevance correspondante par trimestre.
+doit être acquittée dans le même délai. Lorsque son montant est inférieur à 150 € par mois, les redevables sont admis à
+déposer leur déclaration et à payer la redevance correspondante par trimestre. 
 
 Lors du dépôt de la déclaration, le redevable adresse au directeur départemental de l'agriculture et de la forêt un relevé
-des éléments déclarés.
+des éléments déclarés. 
 
 Les obligations prévues aux 1° et 2° ci-dessus ne s'appliquent pas aux personnes assujetties à la taxe sur la valeur ajoutée
 qui sont astreintes aux obligations prévues au II de l'article 286 quater du code général des impôts et par ses textes
@@ -24683,26 +24678,22 @@ d'application.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 286 quater
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2012-431  du 29 mars 2012 - art. 28
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater L (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 286 quater
 
 
 ###### Article 111 quater I
@@ -28904,48 +28895,42 @@ en conséquence de tels écrits ;
 
 I. La formalité fusionnée est exécutée au vu de deux expéditions intégrales de l'acte à publier, établies dans les conditions
 fixées par le 3 de l'article 67 modifié introduit dans le décret n° 55-1350 du 14 octobre 1955 par l'article 12 du décret n°
-67-1252 du 22 décembre 1967.
+67-1252 du 22 décembre 1967. 
 
 II. Lorsqu'un acte concerne des immeubles ou droits immobiliers situés dans le ressort de plusieurs bureaux d'hypothèques la
 formalité fusionnée est opérée au vu d'une expédition intégrale de l'acte et d'un extrait établi dans les conditions fixées
 par l'article 67-3 précité. Les dispositions du 1 modifié de l'article 68 du décret n° 55-1350 du 14 octobre 1955 sont
 applicables à la publicité requise dans les autres bureaux des hypothèques compétents ; pour son exécution, les requérants
-disposent du délai supplémentaire global d'un mois prévu à l'article 33 modifié du décret n° 55-22 du 4 janvier 1955.
+disposent du délai supplémentaire global d'un mois prévu à l'article 33 modifié du décret n° 55-22 du 4 janvier 1955. 
 
 Le bureau où la formalité fusionnée est exécutée perçoit la totalité des droits et taxes exigibles ainsi que, le cas échéant,
 les pénalités de retard encourues. Il n'est dû, dans chacun des autres bureaux, que les salaires du conservateur des
-hypothèques.
+hypothèques. 
 
 L'extrait d'acte visé à l'article 860 du code général des impôts est déposé en double exemplaire à la conservation où la
-formalité fusionnée est requise ; un exemplaire supplémentaire est remis à chacune des autres conservations intéressées.
+formalité fusionnée est requise ; un exemplaire supplémentaire est remis à chacune des autres conservations intéressées. 
+
+L'autorité compétente de l'Etat mentionnée aux premier et deuxième alinéas de l'article 860 du code général des impôts est le
+directeur général des finances publiques. 
 
 III. Quand la formalité fusionnée est applicable à des actes portant sur des immeubles situés en partie dans les départements
 de la Moselle, du Bas-Rhin et du Haut-Rhin, elle est exécutée dans les conditions fixées au II, à la conservation ou à l'une
 des conservations compétentes qui perçoit la totalité des droits et taxes exigibles sur l'acte. Les dispositions du même
 paragraphe sont applicables à la publicité requise dans les autres bureaux des hypothèques en ce qui concerne les immeubles
-situés en dehors des trois départements visés ci-dessus.
+situés en dehors des trois départements visés ci-dessus. 
 
 IV. Une réquisition de formalité fusionnée est obligatoire en cas de présentation à cette formalité d'actes qui y sont soumis
 facultativement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 67, 860
-	  - Décret n°55-22 du 4 janvier 1955 - art. 33 (M)
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 68-1 (V)
-	  - Décret n°67-1252 1967-12-22 art. 12
+	  - Décret n°99-382 du 18 mai 1999
 
 	**Modifié par**:
 
-	  - Loi n°98-261 du 6 avril 1998 - art. 18 () JORF 7 juillet 1998
-	  - Décret n°98-553 du 3 juillet 1998 - art. 26 () JORF 4 juillet 1998
-	  - Décret n°98-553 du 3 juillet 1998 - art. 29 () JORF 4 juillet 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 1999-05-18
+	  - Décret n°2012-431  du 29 mars 2012 - art. 11
 
 	**Cité par**:
 
@@ -28953,23 +28938,28 @@ facultativement.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 256 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 257 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - Code général des impôts, CGI. - art. 860
 
 
 ###### Article 254
 
-Pour l'exécution de la formalité fusionnée  les requérants doivent remettre au bureau  en même temps que les pièces visées à
+Pour l'exécution de la formalité fusionnée les requérants doivent remettre au bureau en même temps que les pièces visées à
 l'article 253, l'ensemble des documents dont le dépôt était prescrit en matière d'enregistrement et de publicité foncière au
-moment de l'entrée en vigueur du décret no 70-548 du 22 juin 1970. Ces documents sont aménagés  s'il y a lieu  suivant des
-modalités fixées par le directeur général des impôts.
+moment de l'entrée en vigueur du décret n° 70-548 du 22 juin 1970. Ces documents sont aménagés s'il y a lieu suivant des
+modalités fixées par le directeur général des finances publiques.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°70-548 1970-06-22
+	  - Décret n°70-548 du 22 juin 1970
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 253
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 26
 
 
 ###### Article 255
@@ -29035,23 +29025,37 @@ taxe.
 
 ###### Article 259
 
-Pour l'exécution de la formalité fusionnée  les conservateurs des hypothèques disposent de la totalité des pouvoirs confiés
-par la loi aux receveurs des impôts.
+Pour l'exécution de la formalité fusionnée les conservateurs des hypothèques disposent de la totalité des pouvoirs confiés
+par la loi aux  comptables de la direction générale des finances publiques chargés de la formalité de l'enregistrement.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 32
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
 ##### c : Interdictions.
 
 ###### Article 260
 
-Sous réserve des dispositions du 2° de l'article 249 il est fait défense aux receveurs des impôts d'enregistrer les actes
-obligatoirement soumis à la formalité fusionnée.
+Sous réserve des dispositions du 2° de l'article 249 il est fait défense aux comptables de la direction générale des finances
+publiques chargés de la formalité de l'enregistrement d'enregistrer les actes obligatoirement soumis à la formalité
+fusionnée.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 32
+
 	**Cite**:
 
-	  - CGIAN3 249 2°
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 249
 
 
 ##### II : Des impositions
@@ -29111,6 +29115,9 @@ avec demande d'avis de réception postale, être motivée et préciser la consis
 primitif sur lesquels porte la prorogation demandée ainsi que le montant des droits dont l'exonération est subordonnée à leur
 exécution. 
 
+L'autorité compétente de l'Etat mentionnée aux IV et IV bis du A de l'article 1594-0 G précité est le directeur départemental
+ou, le cas échéant, régional des finances publiques. 
+
 IV.-La demande de prorogation du délai prévue au IV bis du A de l'article 1594-0 G du code général des impôts doit être
 formulée au plus tard dans le mois qui suit l'expiration du délai précédemment imparti. Elle doit être adressée par pli
 recommandé avec demande d'avis de réception postale, être motivée et préciser la consistance des immeubles sur lesquels porte
@@ -29133,7 +29140,7 @@ valeur de l'acquisition pour laquelle est sollicité le bénéfice des dispositi
 
 	**Modifié par**:
 
-	  - Décret n°2011-263 du 11 mars 2011 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 12
 
 	**Cite**:
 
@@ -29202,17 +29209,17 @@ ainsi disponible ou de celle vendue cédée ou transférée.
 ###### Article 280 A
 
 Le gérant ou le dépositaire des actifs d'un fonds commun de placement agissant pour le compte du gérant, doit, en cas de
-décès d'un propriétaire de parts du fonds :
+décès d'un propriétaire de parts du fonds : 
 
-1° Déposer dans le délai prévu au I l'article 806 du code général des impôts, auprès de la direction des services fiscaux
-désignée au premier alinéa de l'article 41 sexdecies A, une déclaration rédigée sur les formules imprimées visées au II de
-l'article 806 et mentionnant :
+1° Déposer dans le délai prévu au I l'article 806 du code général des impôts, auprès de la direction départementale ou, le
+cas échéant, régionale des finances publiques désignée au premier alinéa de l'article 41 sexdecies A, une déclaration rédigée
+sur les formules imprimées visées au II de l'article 806 et mentionnant :
 
-- la dénomination du fonds, le nom ou la raison sociale et l'adresse du gérant ; 
+- la dénomination du fonds, le nom ou la raison sociale et l'adresse du gérant ;
 
-- les nom, prénoms, date de naissance, date de décès, et domicile fiscal du défunt ; 
+- les nom, prénoms, date de naissance, date de décès, et domicile fiscal du défunt ;
 
-- le nombre de parts du fonds dont le défunt était titulaire lors de son décès ; 
+- le nombre de parts du fonds dont le défunt était titulaire lors de son décès ;
 
 - le montant de la valeur de rachat de la part au jour du décès ou, à défaut de valeur de rachat déterminée à cette date, la
 date et le montant de la dernière valeur de rachat dégagée avant le décès et de celle dégagée immédiatement après ; 
@@ -29222,26 +29229,22 @@ vis des héritiers, légataires, ou donataires domiciliés hors de France.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 806
-	  - CGIAN3 41 sexdecies A
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 280 B (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A (V)
+	  - Code général des impôts, CGI. - art. 806
 
 
 ##### 4° : Fonds communs de placement à risques
@@ -29635,21 +29638,17 @@ aux successions ouvertes et aux donations consenties à compter du 22 mai 2010.
 
 ###### Article 281 I
 
-La direction des services fiscaux où a été déposé l'acte de donation ou la déclaration de succession adresse tous les six
-mois à la direction départementale de l'agriculture et de la forêt ayant délivré le certificat mentionné au a du 3° du 1, au
-a du 2° du 2 et au a du 7° du 2 de l'article 793 du code général des impôts la liste des mutations qui ont fait l'objet d'une
-exonération partielle de droits de mutation, précisant la date de signature de l'acte de donation ou la date de la
-déclaration de succession et la référence du certificat.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 5, premier alinéa du décret n° 2007-746 du 9 mai 2007.
+La   direction départementale ou, le cas échéant, régionale des finances publiques où a été déposé l'acte de donation ou la
+déclaration de succession adresse tous les six mois à la direction départementale de l'agriculture et de la forêt ayant
+délivré le certificat mentionné au a du 3° du 1, au a du 2° du 2 et au a du 7° du 2 de l'article 793 du code général des
+impôts la liste des mutations qui ont fait l'objet d'une exonération partielle de droits de mutation, précisant la date de
+signature de l'acte de donation ou la date de la déclaration de succession et la référence du certificat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cite**:
 
@@ -29781,32 +29780,29 @@ La seconde comprend les actes qui continuent à être soumis à la formalité de
 
 I. Les actes soumis à la formalité fusionnée sont portés sur le répertoire visé à l'article 867 du code général des impôts.
 Lorsqu'il est fait usage de la faculté prévue à l'article 283 qui précède, ils sont portés sur la partie du répertoire visée
-au troisième alinéa dudit article.
+au troisième alinéa dudit article. 
 
-II. Sur ces documents, la relation de la formalité fusionnée est constituée par sa date, suivie de la lettre "C", abréviation
-des mots "conservation des hypothèques" ; la relation de l'enregistrement est constituée par la date de cette formalité,
-suivie de la lettre "R", abréviation des mots "recette des impôts" ou "recette-conservation des hypothèques" suivant le cas.
+II. Sur ces documents, la relation de la formalité fusionnée est constituée par sa date, suivie de la lettre " C ",
+abréviation des mots " conservation des hypothèques " ; la relation de l'enregistrement est constituée par la date de cette
+formalité, suivie de la lettre " R. 
 
-III. Les documents désignés au I ne sont plus soumis au visa périodique des receveurs des impôts.
+III. Les documents désignés au I ne sont plus soumis au visa périodique des comptables de la direction générale des finances
+publiques chargés de la formalité de l'enregistrement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 867
-	  - CGIAN3 283
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2012-431  du 29 mars 2012 - art. 13
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 283
+	  - Code général des impôts, CGI. - art. 867
 
 
 ##### II : Obligations des agents de l'administration : Salaires des conservateurs
@@ -30536,7 +30532,7 @@ financier ou d'un fonds commun de placement dans l'innovation mentionné à l'ar
 commun de placement à risque mentionné à l'article L. 214-36 du même code ou le dépositaire des actifs de ces fonds agissant
 pour le compte de la société de gestion est soumis aux obligations définies aux I à III de l'article 46 AI ter lorsque les
 souscripteurs des parts de ce fonds entendent bénéficier de la réduction d'impôt de solidarité sur la fortune prévue au III
-de l'article 885-0 V bis du code général des impôts.
+de l'article 885-0 V bis du code général des impôts. 
 
 2. La société de gestion du fonds ou le dépositaire des actifs du fonds délivre, au plus tard dans les trois mois suivant la
 date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la souscription des parts, aux
@@ -30563,10 +30559,10 @@ l'expiration de la cinquième année qui suit celle de la souscription.
 4. Lorsque, au cours des cinq années qui suivent leur souscription, les parts du fonds sont cédées ou rachetées ou lorsque,
 dans ce même délai, l'une des conditions prévues aux articles L. 214-41-1, L. 214-41 ou L. 214-36 du code monétaire et
 financier et au III de l'article 885-0 V bis du code général des impôts cesse d'être satisfaite, la société de gestion du
-fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la direction des services fiscaux dans le
-ressort de laquelle est souscrite sa déclaration de résultat, un état individuel qui comprend, outre les informations
-mentionnées au 2, le nombre des parts cédées ou rachetées, le montant et la date de la cession ou du rachat ainsi que, le cas
-échéant, la nature de la condition qui cesse d'être satisfaite. 
+fonds ou le dépositaire des actifs de ce fonds adresse, au souscripteur et à la   direction départementale ou, le cas
+échéant, régionale des finances publiques dans le ressort de laquelle est souscrite sa déclaration de résultat, un état
+individuel qui comprend, outre les informations mentionnées au 2, le nombre des parts cédées ou rachetées, le montant et la
+date de la cession ou du rachat ainsi que, le cas échéant, la nature de la condition qui cesse d'être satisfaite. 
 
 Cet état doit être délivré avant la date limite de dépôt de la déclaration d'impôt de solidarité sur la fortune suivant la
 cession ou le rachat des parts ou le non-respect de l'une des conditions prévues aux articles L. 214-41-1, L. 214-41 ou L.
@@ -30582,9 +30578,9 @@ Il s'assure également que les sociétés dont les titres sont retenus pour le c
 de l'article 885-0 V bis du code général des impôts satisfont aux conditions mentionnées aux a à e ou aux a à h du 1 du I de
 l'article 885-0 V bis du code précité. 
 
-La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la clôture de chaque exercice, à la direction des
-services fiscaux dont il relève, un état de chacun des inventaires semestriels de l'actif du fonds mentionnés au premier
-alinéa, à l'appui du bilan et du compte de résultats. 
+La société de gestion du fonds ou le dépositaire de ses actifs adresse, à la clôture de chaque exercice, à la   direction
+départementale ou, le cas échéant, régionale des finances publiques dont il relève, un état de chacun des inventaires
+semestriels de l'actif du fonds mentionnés au premier alinéa, à l'appui du bilan et du compte de résultats. 
 
 III.-1. L'engagement de conservation des parts prévu au 1 du III de l'article 885-0 V bis du code précité est constaté par un
 document, établi en double exemplaire à l'occasion de chaque souscription, qui précise le nombre de parts, la date et le
@@ -30595,20 +30591,15 @@ déclaration d'impôt de solidarité sur la fortune, ou fournit dans les trois m
 déclaration, l'état individuel qui lui est remis conformément au 2 du I ainsi qu'une copie de l'engagement de conservation
 mentionné au 1.
 
-**Nota:**
-
-Décret n° 2010-604 du 4 juin 2010 art 2 : Les dispositions du présent article sont applicables à l'impôt de solidarité sur la
-fortune dû à compter de l'année 2010.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-604 du 4 juin 2010 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 1er août 2011 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cite**:
 
@@ -30621,93 +30612,95 @@ fortune dû à compter de l'année 2010.
 
 ###### Article 299 octies A
 
-I. - Le prélèvement de frais et commissions supportés par les souscripteurs des titres de capital ou donnant accès au capital
-de sociétés mentionnées au 3 du I de l'article 199 terdecies-0 A du code général des impôts ainsi qu'au 3 du I de l'article
-885-0 V bis du même code est autorisé sous réserve du respect des conditions prévues à l'article D. 214-80 du code monétaire
-et financier, adaptées comme suit :
+I.-Le prélèvement de frais et commissions supportés par les souscripteurs des titres de capital ou donnant accès au capital
+de sociétés mentionnées au 3° du I de l'article 199 terdecies-0 A ainsi qu'au 3° du I de l'article 885-0 V bis est autorisé
+sous réserve du respect des conditions prévues à l'article D. 214-80 du code monétaire et financier, adaptées comme suit : 
 
 1. Lorsque les statuts de la société prévoient une durée maximale de détention des titres de capital ou donnant accès au
-capital de la société par le souscripteur, la durée mentionnée à la première phrase du 3° de l'article D. 214-80 du code
+capital de la société par le souscripteur, la durée mentionnée à la première phrase du 2° de l'article D. 214-80 du code
 monétaire et financier ne peut excéder cette durée, hors éventuelles prorogations. Si les statuts de ces sociétés ne
-prévoient aucune durée maximale, le nombre d'années mentionné à la première phrase du 3° de l'article D. 214-80 du code
-monétaire et financier ne peut excéder huit ans ;
+prévoient aucune durée maximale, le nombre d'années mentionné au 4° du I de l'article D. 214-80-2 du code monétaire et
+financier ne peut excéder huit ans ; 
 
-2. Le respect du plafond mentionné au 5° de l'article D. 214-80 du code monétaire et financier s'apprécie, en moyenne
-annuelle, sur la durée maximale de détention des titres de capital ou donnant accès au capital de la société par le
+2. Le respect des plafonds mentionnés aux 3° et 4° de l'article D. 214-80 du code monétaire et financier s'apprécie, en
+moyenne annuelle, sur la durée maximale de détention des titres de capital ou donnant accès au capital de la société par le
 souscripteur prévue dans les statuts de la société, si ces derniers prévoient une durée maximale. Au-delà de cette durée, il
 s'apprécie chaque année. Si les statuts de ces sociétés ne prévoient aucune durée maximale de détention des titres de capital
-ou donnant accès au capital par le souscripteur, le respect de ce plafond s'apprécie chaque année.
+ou donnant accès au capital par le souscripteur, le respect de ce plafond s'apprécie chaque année. 
 
-II-1. Le document d'information prévu au e du 3 du I de l'article 199 terdecies-0 A du code général des impôts et au f du 3
-du I de l'article 885-0 V bis du même code, rédigé en vue de la commercialisation des titres de capital ou donnant accès au
-capital de sociétés mentionnées au I du présent article, comporte les éléments prévus au I de l'article D. 214-80-3 du code
-monétaire et financier.
+II.-1. Le document d'information prévu au premier alinéa du e du 3 du I de l'article 199 terdecies-0 A du code général des
+impôts et au premier alinéa du f du 3 du I de l'article 885-0 V bis du même code, rédigé en vue de la commercialisation des
+titres de capital ou donnant accès au capital de sociétés mentionnées au I du présent article, comporte les éléments prévus
+au I de l'article D. 214-80-2 du code monétaire et financier. 
 
 2. Si les statuts de la société mentionnée au I du présent article prévoient que les titres de capital ou donnant accès au
 capital peuvent donner lieu à des droits différents sur les distributions et le boni de liquidation de la société, le
 bulletin de souscription mentionné au 3 du présent II et le document d'information mentionné au 1 du même II comportent les
-éléments mentionnés au II de l'article D. 214-80-3 du code monétaire et financier.
+éléments mentionnés au II de l'article D. 214-80-2 du code monétaire et financier. 
 
 3. Le souscripteur fait figurer dans le bulletin de souscription aux titres de capital ou donnant accès au capital mentionnés
-au I du présent article les éléments prévus au III de l'article D. 214-80-3 du code monétaire et financier, dans les
-conditions prévues à ce même III.
+au I du présent article les éléments prévus au III de l'article D. 214-80-2 du code monétaire et financier, dans les
+conditions prévues à ce même III. 
 
-III. - Le document d'information mentionné au 1 du II du présent article explicite les prestations que rémunèrent les frais
-et commissions consentis par le souscripteur au titre de la commercialisation et du placement desdits titres.
+III.-Le document d'information mentionné au 1 du II du présent article explicite les prestations que rémunèrent les frais et
+commissions consentis par le souscripteur au titre de la commercialisation et du placement desdits titres. 
 
 Dans ce document d'information, les frais de commercialisation et de placement sont identifiés de manière clairement séparée
-des frais de gestion prélevés par les sociétés mentionnés au I du présent article.
+des frais de gestion prélevés par les sociétés mentionnés au I du présent article. 
 
-Ce document d'information présente les informations prévues à l'article D. 214-80-5 du code monétaire et financier, sous
-réserve des adaptations suivantes :
+Ce document d'information présente les informations prévues à l'article D. 214-80-3 du code monétaire et financier, sous
+réserve des adaptations suivantes : 
 
-1. Le taux de frais annuel moyen maximum total tel que prévu au i) du b du 1° de l'article D. 214-80-5 du code monétaire et
+1. Le taux maximal de frais annuel moyen total tel que prévu au i) du b du 1° de l'article D. 214-80-3 du code monétaire et
 financier est calculé, en moyenne annuelle, sur la durée maximale de détention des titres de capital ou donnant accès au
 capital de la société par le souscripteur mentionnée au I du présent article, lorsque cette durée existe. Lorsque cette durée
-n'existe pas, le taux de frais annuel moyen maximum global constitue un plafond applicable chaque année.
+n'existe pas, le taux maximal de frais annuel total constitue un plafond applicable chaque année. 
 
-2. Les éléments prévus au 2° ainsi qu'au v) du b du 3° de l'article D. 214-80-5 du code monétaire et financier sont ceux
+2. Les éléments prévus au 2° ainsi qu'au iii) du b du 3° de l'article D. 214-80-3 du code monétaire et financier sont ceux
 relatifs aux modalités spécifiques de partage de la plus-value, dès lors que les statuts de la société prévoient que les
 titres de capital ou donnant accès au capital peuvent donner lieu à des droits différents sur les distributions et le boni de
-liquidation de la société, tels que mentionnés au 2 du II du présent article.
+liquidation de la société, tels que mentionnés au 2 du II du présent article. 
 
-IV. - Le document d'information mentionné au 1 du II du présent article présente les informations prévues à l'article D.
-214-80-6 du code monétaire et financier, sous réserve de l'adaptation suivante : les règles de calcul et de plafonnement des
-frais et commissions mentionnées au iv) du b du 1° de l'article D. 214-80-6 du code monétaire et financier sont celles
-prévues dans le document d'information mentionné au présent IV.
+IV.-Le document d'information mentionné au 1 du II du présent article présente les informations prévues à l'article D.
+214-80-4 du code monétaire et financier, sous réserve de l'adaptation suivante : les règles de calcul et de plafonnement des
+frais et commissions mentionnées au iv) du b du 1° de l'article D. 214-80-4 du code monétaire et financier sont celles
+prévues dans le document d'information mentionné au présent IV. 
 
-V. - Dans les mêmes délais que ceux applicables à la mise à disposition du rapport annuel, les sociétés mentionnées au I du
+V.-Dans les mêmes délais que ceux applicables à la mise à disposition du rapport annuel, les sociétés mentionnées au I du
 présent article adressent au souscripteur une lettre d'information qui présente les informations prévues à l'article D.
-214-80-7 du code monétaire et financier, sous réserve des adaptations suivantes :
+214-80-5 du code monétaire et financier, sous réserve des adaptations suivantes : 
 
-1. Les termes "millésime antérieur de fonds" s'entendent comme "millésime antérieur de souscription à des titres de capital
-ou donnant accès au capital de société" ;
+1. Les termes : " millésime antérieur de fonds " sont remplacés par les termes : " millésime antérieur de souscription à des
+titres de capital ou donnant accès au capital de société " ; 
 
-2. Les termes "parts de fonds" s'entendent comme "titres de capital ou donnant accès au capital de société" ;
+2. Les termes : " parts de fonds " sont remplacés par les termes : " titres de capital ou donnant accès au capital de société
+" ; 
 
-3. Les termes "création du fonds" s'entendent comme "création de la société".
+3. Les termes : " création du fonds " sont remplacés par les termes : " création de la société ". 
 
-VI. - Les informations prévues à l'article D. 214-80-8 du même code, présentées sous forme de tableau, sont mentionnées dans
-le rapport de gestion des sociétés mentionnées au I du présent article.
+VI.-Les informations prévues à l'article D. 214-80-6 du même code, présentées sous forme de tableau, sont mentionnées dans le
+rapport de gestion des sociétés mentionnées au I du présent article. 
 
-VII. - Le manquement aux dispositions du présent article est passible des sanctions prévues aux cinquième et septième alinéas
+VII.-Le manquement aux dispositions du présent article est passible des sanctions prévues aux cinquième et septième alinéas
 de l'article 1763 C du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-924 du 1er août 2011 - art. 2
+	  - Décret n°2012-465 du 10 avril 2012 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, CGI.
 	  - Code général des impôts, CGI. - art. 1763 C
+	  - Code général des impôts, CGI. - art. 199 terdecies-0 A
+	  - Code général des impôts, CGI. - art. 885-0 V bis
 	  - Code monétaire et financier - art. D214-80
+	  - Code monétaire et financier - art. D214-80-2
 	  - Code monétaire et financier - art. D214-80-3
+	  - Code monétaire et financier - art. D214-80-4
 	  - Code monétaire et financier - art. D214-80-5
 	  - Code monétaire et financier - art. D214-80-6
-	  - Code monétaire et financier - art. D214-80-7
 
 
 ###### Article 299 quater
@@ -30747,21 +30740,17 @@ produit le bilan mentionné avant le 30 juin 2011 s'il souhaite continuer à bé
 
 ###### Article 299 quinquies
 
-La direction des services fiscaux adresse la liste des redevables de l'impôt de solidarité sur la fortune avant la fin de
-l'année d'imposition au titre de laquelle l'exonération partielle prévue à l'article 885 H du code général des impôts est
-demandée pour la première fois, précisant la situation des biens et la référence du certificat mentionné au a du 3° du 1 et
-au a du 2° du 2 de l'article 793 du code général des impôts à la direction départementale de l'agriculture et de la forêt
-ayant délivré le certificat.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 5, quatrième alinéa du décret n° 2007-746 du 9 mai 2007.
+La   direction départementale ou, le cas échéant, régionale des finances publiques adresse la liste des redevables de l'impôt
+de solidarité sur la fortune avant la fin de l'année d'imposition au titre de laquelle l'exonération partielle prévue à
+l'article 885 H du code général des impôts est demandée pour la première fois, précisant la situation des biens et la
+référence du certificat mentionné au a du 3° du 1 et au a du 2° du 2 de l'article 793 du code général des impôts à la
+direction départementale de l'agriculture et de la forêt ayant délivré le certificat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cite**:
 
@@ -32193,14 +32182,18 @@ Le pourcentage final de répartition sera obtenu, pour chaque commune, par la fo
 ###### Article 320
 
 Les pourcentages fixant la répartition de la valeur locative entre les communes intéressées sont, dans le mois qui suit la
-date de la mise en service, notifiés par l'ingénieur en chef du contrôle à la direction des services fiscaux du département
-dans lequel se trouve l'usine qui utilise la force motrice.
+date de la mise en service, notifiés par l'ingénieur en chef du contrôle à la   direction départementale ou, le cas échéant,
+régionale des finances publiques du département dans lequel se trouve l'usine qui utilise la force motrice. 
 
 Les pourcentages notifiés avant le 1er novembre d'une année sont retenus à partir de l'année suivante pour l'assiette de la
 taxe foncière sur les propriétés bâties. Il est également fait état de ces pourcentages pour établir les impositions dues au
 titre de l'année de la mise en service.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cité par**:
 
@@ -32211,39 +32204,36 @@ titre de l'année de la mise en service.
 
 Dans le cas où la notification prévue à l'article 320 n'a pas été faite avant le 1er novembre, la valeur locative des
 installations définies à l'article 316 est imposée en totalité dans la commune où est située l'usine utilisant la force
-motrice et il est procédé à la répartition des cotisations correspondantes entre les communes visées audit article.
+motrice et il est procédé à la répartition des cotisations correspondantes entre les communes visées audit article. 
 
 Si ces communes sont situées dans le même département, la répartition est réglée par arrêté du préfet rendu sur les
-propositions du directeur des services fiscaux et après avis de l'ingénieur en chef du contrôle, dans les trois mois suivant
-celui de la mise en recouvrement du rôle.
+propositions du directeur départemental ou, le cas échéant, régional des finances publiques et après avis de l'ingénieur en
+chef du contrôle, dans les trois mois suivant celui de la mise en recouvrement du rôle. 
 
 Si les communes intéressées sont situées dans des départements différents, la répartition est réglée par arrêté du ministre
-de l'économie et des finances, du ministre de l'intérieur sur les propositions du directeur général des impôts et après avis
-du ministre de l'industrie.
+de l'économie et des finances, du ministre de l'intérieur sur les propositions du directeur général des finances publiques et
+après avis du ministre de l'industrie. 
 
 L'arrêté préfectoral ou ministériel fixe notamment les conditions de l'attribution, à chacune des collectivités
-bénéficiaires, de la part lui revenant dans le produit des cotisations dont il s'agit.
+bénéficiaires, de la part lui revenant dans le produit des cotisations dont il s'agit. 
 
 Les impositions dues au titre de l'année de la mise en service sont établies et réparties selon la procédure définie aux
 premier à quatrième alinéas.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 320, 316
-
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2012-431  du 29 mars 2012 - art. 14
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 316
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 320
 
 
 ###### Article 321 B
@@ -38594,21 +38584,22 @@ e) Les dates d'effet des avenants et des opérations de dénouement total ou par
 ###### Article 344 G quater
 
 Les personnes visées à l'article 1649 A bis du code général des impôts produisent au plus tard le 31 mars de chaque année la
-déclaration des avances remboursables ne portant pas intérêt octroyées au cours de l'année précédente prévues par     les
+déclaration des avances remboursables ne portant pas intérêt octroyées au cours de l'année précédente prévues par les
 articles 244 quater J et 244 quater U du code général des impôts. 
 
-Les déclarations sont déposées au service des grandes entreprises ou à la direction des services fiscaux du lieu de résidence
-ou du principal établissement du déclarant lorsque ce dernier ne relève pas de la compétence de ce service.
+Les déclarations sont déposées au service des grandes entreprises ou à la   direction départementale ou, le cas échéant,
+régionale des finances publiques du lieu de résidence ou du principal établissement du déclarant lorsque ce dernier ne relève
+pas de la compétence de ce service.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-347 du 30 mars 2009 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 19 février 2010 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cite**:
 
@@ -38705,26 +38696,22 @@ au code général des impôts.
 ###### Article 344 GC
 
 La déclaration mentionnée à l'article 344 GA est souscrite avant le 1er mars de l'année qui suit celle du paiement de la
-publicité par le loueur. Elle est établie sur une formule délivrée par l'administration. Elle est adressée à la direction des
-services fiscaux du domicile ou du principal établissement du déclarant.
+publicité par le loueur. Elle est établie sur une formule délivrée par l'administration. Elle est adressée à la direction
+départementale ou, le cas échéant, régionale des finances publiques du domicile ou du principal établissement du déclarant.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGIAN3 344 GA
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 GA
 
 	**Codifié par**:
 
 	  - Décret n°82-881 1982-10-15
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°82-586 du 2 juillet 1982 - art. 3 (V) JORF 8 juillet 1982
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er septembre 1982
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 
 ##### I bis : Déclaration de la redevance et des prélèvements dus par les opérateurs de jeux ou de paris
@@ -38893,12 +38880,12 @@ Dispositions devenues sans objet en conséquence des articles 5-I-87° et 7 du d
 ###### Article 344 I quater
 
 Pour effectuer des transmissions de déclarations professionnelles par voie électronique vers la direction générale des
-impôts, l'émetteur doit posséder la qualité de "partenaire EDI".
+finances publiques, l'émetteur doit posséder la qualité de " partenaire EDI ". 
 
-Est "partenaire EDI" au sens de l'article 344 I ter toute personne qui conclut avec la direction générale des impôts une
-convention conforme au modèle défini par arrêté du ministre chargé du budget, pris après avis de la Commission nationale de
-l'informatique et des libertés. Seules peuvent conclure une telle convention les personnes qui justifient être à jour de
-leurs obligations fiscales au sens de l'article 43 du code des marchés publics.
+Est " partenaire EDI " au sens de l'article 344 I ter toute personne qui conclut avec la direction générale des finances
+publiques une convention conforme au modèle défini par arrêté du ministre chargé du budget, pris après avis de la Commission
+nationale de l'informatique et des libertés. Seules peuvent conclure une telle convention les personnes qui justifient être à
+jour de leurs obligations fiscales au sens de l'article 43 du code des marchés publics. 
 
 Cette convention prévoit les modalités de transmission et les mesures et systèmes destinés à assurer la sécurité des
 transmissions et traitements. Elle précise les conditions dans lesquelles il est recouru au chiffrement des informations
@@ -38906,61 +38893,53 @@ transmises.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: 2004)
-	  - HISTO: Edition du 31 août 2004
-
-	**Cite**:
-
-	  - CGIAN3 344 I ter
-	  - Code des marchés publics 43
+	  - Décret n°2004-1070 du 8 octobre 2004
 
 	**Modifié par**:
 
-	  - décret 2004-15 2004-01-07 art. 11 art. 2 JORF 8 janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2012-431  du 29 mars 2012 - art. 28
 
 	**Cité par**:
 
 	  - Décret n°2012-432 du 30 mars 2012 - art. 151 (VD)
 
+	**Cite**:
+
+	  - Code des marchés publics - art. 43
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I ter
+
 
 ###### Article 344 I ter
 
-I. - Pour l'application des articles 1649 quater B bis et 1649 quater B quater du code général des impôts, les déclarations
+I.-Pour l'application des articles 1649 quater B bis et 1649 quater B quater du code général des impôts, les déclarations
 professionnelles, leurs annexes et tout document les accompagnant sont transmis par voie électronique à la direction générale
-des impôts, soit par l'intermédiaire d'un organisme relais, partenaire de la direction générale des impôts pour les échanges
-de données informatisées, dénommé "partenaire EDI" et choisi par les contribuables, soit par les contribuables eux-mêmes
-s'ils ont acquis cette qualité. Le "partenaire EDI" est habilité à agir pour le compte des contribuables dans les conditions
-fixées soit par le contrat d'adhésion qui lie l'administration et le contribuable, lorsque la transmission par voie
-électronique est facultative, soit par arrêté du ministre chargé du budget, lorsque la transmission par voie électronique est
-obligatoire en application de l'article 1649 quater B quater du code précité.
+des finances publiques, soit par l'intermédiaire d'un organisme relais, partenaire de la direction générale des finances
+publiques pour les échanges de données informatisées, dénommé " partenaire EDI " et choisi par les contribuables, soit par
+les contribuables eux-mêmes s'ils ont acquis cette qualité. Le " partenaire EDI " est habilité à agir pour le compte des
+contribuables dans les conditions fixées soit par le contrat d'adhésion qui lie l'administration et le contribuable, lorsque
+la transmission par voie électronique est facultative, soit par arrêté du ministre chargé du budget, lorsque la transmission
+par voie électronique est obligatoire en application de l'article 1649 quater B quater du code précité. 
 
-II. - Pour chaque catégorie de déclaration professionnelle, les modalités de transmission et de traitement dont elle fait
+II.-Pour chaque catégorie de déclaration professionnelle, les modalités de transmission et de traitement dont elle fait
 l'objet, notamment celles prévues dans le contrat d'adhésion, sont définies par un arrêté du ministre chargé du budget pris
 après avis de la Commission nationale de l'informatique et des libertés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1649 quater B bis, 1649 quater B quater
-
-	**Créé par**:
-
-	  - Décret n°2000-1036 du 23 octobre 2000 - art. 1 () JORF 25 octobre 2000
+	  - Décret n°2012-431  du 29 mars 2012 - art. 28
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 I quater (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Code général des impôts, CGI. - art. 1649 quater B bis (V)
+	  - Code général des impôts, CGI. - art. 1649 quater B quater (VT)
 
 
 #### Chapitre II : Centres de gestion agréés
@@ -39137,21 +39116,22 @@ institué par l'article 9 du décret n° 82-379 du 6 mai 1982.
 ###### Article 344 L
 
 I. L'agrément prévu au VI de l'article 44 decies du code général des impôts ainsi que celui prévu au 1° du III de l'article
-1466 B du même code sont accordés par le ministre chargé du budget.
+1466 B du même code sont accordés par le ministre chargé du budget. 
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à un modèle fixé par l'administration, sont
-adressées au ministre chargé du budget (services centraux de la direction générale des impôts) et comportent notamment les
-renseignements et documents permettant d'apprécier l'état de difficulté de l'entreprise concernée.
+adressées au ministre chargé du budget (services centraux de la direction générale des finances publiques) et comportent
+notamment les renseignements et documents permettant d'apprécier l'état de difficulté de l'entreprise concernée. 
 
 II. L'agrément prévu au a du I de l'article 44 decies du code général des impôts ainsi que celui prévu au b du 2° du I de
-l'article 1466 B du même code sont accordés par le ministre chargé du budget.
+l'article 1466 B du même code sont accordés par le ministre chargé du budget. 
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à un modèle fixé par l'administration, sont
-adressées au directeur des services fiscaux du département de Corse où est implantée l'entreprise demanderesse.
+adressées au directeur départemental ou, le cas échéant, régional des finances publiques du département de Corse où est
+implantée l'entreprise demanderesse. 
 
 L'entreprise justifie que ses méthodes de production sont conformes aux objectifs fixés par l'article 1er du règlement (CEE)
 du Conseil n° 2078/92 du 30 juin 1992 et du règlement (CE) de la Commission n° 746/96 du 25 avril 1996 et produit à cet effet
-une attestation délivrée par les services du ministre chargé de l'agriculture.
+une attestation délivrée par les services du ministre chargé de l'agriculture. 
 
 III. Dans le cas où le demandeur n'a pas fourni la totalité des renseignements nécessaires pour l'instruction de la demande,
 le ministre chargé du budget l'invite à les produire.
@@ -39162,19 +39142,16 @@ le ministre chargé du budget l'invite à les produire.
 
 	  - CEE Règlement 2078/92 1992-06-30 Conseil art. 1
 	  - CEE Règlement 746/96 1996-04-25 Commission
-	  - CGI 44 decies, 1466 B
+	  - Code général des impôts, CGI. - art. 1466 B
+	  - Code général des impôts, CGI. - art. 44 decies
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Décret n°2012-431  du 29 mars 2012 - art. 15
 
 
 #### Chapitre V : Fiducie
@@ -39222,17 +39199,21 @@ Modifications effectuées en conséquence des articles 10-XXI et 12 de l'ordonna
 ###### Article 345
 
 La commission communale des impôts directs prévue à l'article 1650 du code général des impôts se réunit à la demande du
-directeur des services fiscaux ou de son délégué et sur convocation du maire ou de l'adjoint délégué ou  à défaut  du plus
-âgé des commissaires titulaires.
+directeur départemental ou, le cas échéant, régional des finances publiques ou de son délégué et sur convocation du maire ou
+de l'adjoint délégué ou à défaut du plus âgé des commissaires titulaires. 
 
-Les membres de la commission délibèrent en commun  à la majorité des suffrages. Ils ne peuvent prendre aucune détermination
+Les membres de la commission délibèrent en commun à la majorité des suffrages. Ils ne peuvent prendre aucune détermination
 s'ils ne sont au nombre de cinq au moins présents. En cas de partage égal des voix la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 27
+
 	**Cite**:
 
-	  - CGI 1650
+	  - Code général des impôts, CGI. - art. 1650
 
 
 ##### I bis : Commission intercommunale des impôts directs.
@@ -39240,19 +39221,23 @@ s'ils ne sont au nombre de cinq au moins présents. En cas de partage égal des 
 ###### Article 346
 
 Pour l'application du 2 de l'article 1650 A du code général des impôts, lorsque le périmètre de l'établissement public de
-coopération intercommunale se situe sur le territoire de plusieurs départements, le directeur des services fiscaux compétent
-est celui du département dans lequel l'établissement public de coopération intercommunale a son siège tel qu'il a été
-déterminé dans les statuts de cet établissement.
+coopération intercommunale se situe sur le territoire de plusieurs départements, le   directeur départemental ou, le cas
+échéant, régional des finances publiques compétent est celui du département dans lequel l'établissement public de coopération
+intercommunale a son siège tel qu'il a été déterminé dans les statuts de cet établissement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-303 du 18 mars 2009 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 27
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 346 A (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1650 A.
 
 
 ###### Article 346 A
@@ -39260,14 +39245,15 @@ déterminé dans les statuts de cet établissement.
 La désignation des membres de la commission intercommunale des impôts directs intervient dans les deux mois à compter de
 l'installation de l'organe délibérant de l'établissement public de coopération intercommunale suivant le renouvellement
 général des conseils municipaux. Toutefois, pour la première année au titre de laquelle la commission exerce ses compétences,
-la nomination des membres de la commission intervient avant le 1er janvier de cette année.
+la nomination des membres de la commission intervient avant le 1er janvier de cette année. 
 
 A défaut de liste de présentation des contribuables prévue au 2 de l'article 1650 A du code général des impôts, les membres
-de la commission sont désignés d'office par le directeur des services fiscaux un mois après mise en demeure de délibérer
-adressée à l'organe délibérant de l'établissement public de coopération intercommunale. Le directeur des services fiscaux
-mentionné à l'article 346 peut, sans mise en demeure, procéder à des désignations d'office si la liste de présentation ci-
-dessus mentionnée ne contient pas quarante noms dont quatre domiciliés en dehors du périmètre du groupement, ou contient des
-noms de personnes ne remplissant pas les conditions exigées au 1 de l'article 1650 A du code général des impôts. 
+de la commission sont désignés d'office par le directeur départemental ou, le cas échéant, régional des finances publiques un
+mois après mise en demeure de délibérer adressée à l'organe délibérant de l'établissement public de coopération
+intercommunale. Le directeur départemental ou, le cas échéant, régional des finances publiques mentionné à l'article 346
+peut, sans mise en demeure, procéder à des désignations d'office si la liste de présentation ci-dessus mentionnée ne contient
+pas quarante noms dont quatre domiciliés en dehors du périmètre du groupement, ou contient des noms de personnes ne
+remplissant pas les conditions exigées au 1 de l'article 1650 A du code général des impôts. 
 
 En cas de décès, de démission ou de révocation de cinq au moins des membres de la commission, il est procédé dans les mêmes
 conditions à de nouvelles désignations. 
@@ -39277,36 +39263,43 @@ de l'organe délibérant de l'établissement public de coopération intercommuna
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-303 du 18 mars 2009 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 27
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 346
+	  - Code général des impôts, CGI. - art. 1650 A.
 
 
 ###### Article 346 B
 
 La commission intercommunale des impôts directs mentionnée à l'article 1650 A du code général des impôts se réunit à la
-demande du directeur des services fiscaux du département du siège de l'établissement public de coopération intercommunale ou
-de son délégué et sur convocation du président de l'établissement public de coopération intercommunale ou du vice-président
-délégué ou à défaut du plus âgé des commissaires titulaires dans un délai de deux mois à compter de cette demande. En cas de
-défaut de réunion de la commission dans ce délai, il est considéré qu'elle refuse de prêter son concours. 
+demande du directeur départemental ou, le cas échéant, régional des finances publiques du département du siège de
+l'établissement public de coopération intercommunale ou de son délégué et sur convocation du président de l'établissement
+public de coopération intercommunale ou du vice-président délégué ou à défaut du plus âgé des commissaires titulaires dans un
+délai de deux mois à compter de cette demande. En cas de défaut de réunion de la commission dans ce délai, il est considéré
+qu'elle refuse de prêter son concours. 
 
-Si le directeur des services fiscaux n'a pas invité, avant le 31 janvier de l'année au titre de laquelle les modifications
-relatives aux évaluations foncières doivent être intégrées dans les rôles, le président de l'établissement public de
-coopération intercommunale à réunir la commission, ce dernier peut prendre l'initiative de la convoquer, après en avoir
-informé le directeur des services fiscaux. 
+Si le directeur départemental ou, le cas échéant, régional des finances publiques n'a pas invité, avant le 31 janvier de
+l'année au titre de laquelle les modifications relatives aux évaluations foncières doivent être intégrées dans les rôles, le
+président de l'établissement public de coopération intercommunale à réunir la commission, ce dernier peut prendre
+l'initiative de la convoquer, après en avoir informé le directeur départemental ou, le cas échéant, régional des finances
+publiques. 
 
 Les membres de la commission délibèrent en commun à la majorité des suffrages. Ils ne peuvent prendre aucune décision s'ils
 ne sont au nombre de neuf au moins présents. En cas de partage égal des voix, la voix du président est prépondérante.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-303 du 18 mars 2009 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 27
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1650 A.
 
 
 ##### II : Commission départementale des impôts directs et des taxes sur le chiffre d'affaires
@@ -39314,140 +39307,147 @@ ne sont au nombre de neuf au moins présents. En cas de partage égal des voix, 
 ###### Article 347
 
 I. 1. Sous réserve des dispositions des deuxième et troisième alinéas ci-après, les représentants des contribuables sont
-désignés par les organisations ou organismes représentatifs au niveau départemental.
+désignés par les organisations ou organismes représentatifs au niveau départemental. 
 
 Les organisations ou organismes à compétence interdépartementale désignent les représentants des contribuables parmi les
-professionnels exerçant dans le ressort de la commission.
+professionnels exerçant dans le ressort de la commission. 
 
 Le représentant salarié visé à l'article 1651 B du code général des impôts est désigné par les organisations ou organismes
-nationaux représentatifs des ingénieurs et cadres supérieurs.
+nationaux représentatifs des ingénieurs et cadres supérieurs. 
 
 2. Les membres de la commission doivent être de nationalité française, âgés de vingt-cinq ans au moins et jouir de leurs
-droits civils.
+droits civils. 
 
 L'expert-comptable visé à l'article 1651 du code général des impôts doit être inscrit au tableau régional de l'ordre et
-exercer son activité dans le ressort de la commission.
+exercer son activité dans le ressort de la commission. 
 
 3. Les organisations ou organismes représentatifs adressent la liste des représentants qu'ils désignent au secrétariat de la
-commission le 1er décembre au plus tard, pour l'année suivante.
+commission le 1er décembre au plus tard, pour l'année suivante. 
 
-Les représentants des contribuables sont désignés pour une année. Leur mandat est renouvelable par tacite reconduction.
+Les représentants des contribuables sont désignés pour une année. Leur mandat est renouvelable par tacite reconduction. 
 
 Lorsqu'il existe dans un même département plusieurs organisations ou organismes ayant vocation à désigner des membres, et à
 défaut d'accord entre eux, les représentants des contribuables sont désignés par le préfet au vu des propositions de ces
-organisations ou organismes.
+organisations ou organismes. 
 
 En cas de retard, d'empêchement ou d'absence de désignation des représentants des contribuables, la commission est
-valablement constituée.
+valablement constituée. 
 
 4. Les organismes consulaires doivent consulter les organisations patronales interprofessionnelles avant d'établir la liste
-des représentants qu'ils désignent.
+des représentants qu'ils désignent. 
 
 II. 1. Pour l'application du deuxième alinéa du I de l'article 1651 A du code général des impôts, les représentants des
 contribuables sont choisis parmi les propriétaires ruraux et exploitants agricoles, passibles de l'impôt sur le revenu au
-titre des bénéfices de l'exploitation agricole.
+titre des bénéfices de l'exploitation agricole. 
 
 2. Pour l'application de l'article 1651 C du code général des impôts, les membres désignés par les fédérations
 départementales des syndicats d'exploitants agricoles sont choisis parmi les propriétaires ruraux passibles de l'impôt sur le
-revenu dans la catégorie des bénéfices agricoles.
+revenu dans la catégorie des bénéfices agricoles. 
 
 3. Pour les matières visées à l'article 1651 D du code général des impôts, les membres désignés représentent les différentes
-régions agricoles du département.
+régions agricoles du département. 
 
 Dans le cas prévu au premier alinéa de l'article 1651 D du code précité, les représentants des contribuables sont choisis
 moitié parmi les propriétaires ruraux et moitié parmi les exploitants agricoles, passibles de l'impôt sur le revenu au titre
-des bénéfices de l'exploitation agricole.
+des bénéfices de l'exploitation agricole. 
 
 Dans le cas prévu au deuxième alinéa de l'article 1651 D du code précité, les représentants des contribuables désignés par la
 chambre d'agriculture sont choisis moitié parmi les propriétaires ruraux sur proposition des fédérations départementales des
 syndicats de la propriété agricole et des fédérations départementales des syndicats d'exploitants agricoles et moitié parmi
 les exploitants agricoles passibles de l'impôt sur le revenu au titre des bénéfices de l'exploitation agricole, sur
-proposition des fédérations départementales des syndicats d'exploitants agricoles.
+proposition des fédérations départementales des syndicats d'exploitants agricoles. 
 
 Lorsque la commission se prononce sur les tarifs d'évaluation ou les coefficients d'actualisation des valeurs locatives des
-bois et forêts, un des représentants des contribuables doit être propriétaire de bois et forêts ; il est appelé à siéger.
+bois et forêts, un des représentants des contribuables doit être propriétaire de bois et forêts ; il est appelé à siéger. 
 
 III. Il est désigné deux suppléants pour un titulaire. Le nombre de suppléants peut toutefois être modifié dans les
-conditions et limites fixées par arrêté du ministre chargé du budget.
+conditions et limites fixées par arrêté du ministre chargé du budget. 
 
 IV. Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est saisie d'un litige intéressant un contribuable qui
 relève de l'administration des douanes et des droits indirects au regard desdites taxes, l'un des représentants de la
-direction générale des impôts peut être remplacé par un fonctionnaire de la direction générale des douanes et des droits
-indirects.
+direction générale des finances publiques  peut être remplacé par un fonctionnaire de la direction générale des douanes et
+des droits indirects.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1651, 1653 A, 1651 B, 1651 C, 1651 D
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 28
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 170 undecies (V)
 
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1651
+	  - Code général des impôts, CGI. - art. 1651 A
+	  - Code général des impôts, CGI. - art. 1651 B
+	  - Code général des impôts, CGI. - art. 1651 C
+	  - Code général des impôts, CGI. - art. 1651 D
+
 
 ###### Article 348
 
-I. - 1. Un agent de la direction générale des impôts remplit les fonctions de secrétaire de la commission, avec voix
-consultative. Un ou plusieurs agents de la même direction générale peuvent assister aux séances de la commission, en qualité
-de secrétaires adjoints. Ils ont également voix consultative.
+I.-1. Un agent de la direction générale des finances publiques remplit les fonctions de secrétaire de la commission, avec
+voix consultative. Un ou plusieurs agents de la même direction générale peuvent assister aux séances de la commission, en
+qualité de secrétaires adjoints. Ils ont également voix consultative. 
 
 Lorsqu'en matière de taxes sur le chiffre d'affaires, la commission est saisie d'un litige intéressant un redevable qui
 relève de l'administration des douanes et des droits indirects au regard desdites taxes, l'un des secrétaires adjoints peut
-être un agent de la direction générale des douanes et des droits indirects.
+être un agent de la direction générale des douanes et des droits indirects. 
 
-2. Les secrétaires et secrétaires adjoints agissent pour ordre et par délégation du président de la commission.
+2. Les secrétaires et secrétaires adjoints agissent pour ordre et par délégation du président de la commission. 
 
-II. - 1. Lorsque la commission est appelée à connaître des matières prévues aux articles 1651 A et 1651 C du code général des
+II.-1. Lorsque la commission est appelée à connaître des matières prévues aux articles 1651 A et 1651 C du code général des
 impôts, le secrétaire de la commission informe le contribuable qu'il peut demander que l'un des représentants des
 contribuables soit désigné par une organisation ou un organisme professionnel de son choix. Le contribuable dispose alors
-d'un délai de trente jours pour faire connaître sa réponse.
+d'un délai de trente jours pour faire connaître sa réponse. 
 
 Lorsque le contribuable est à la fois inscrit au répertoire des métiers et immatriculé au registre du commerce et des
 sociétés, il est invité par le secrétaire de la commission à faire connaître son activité principale dans un délai de trente
 jours à compter de la réception de la demande. Les représentants des contribuables correspondant à l'activité principale
-exercée par l'intéressé sont appelés à siéger.
+exercée par l'intéressé sont appelés à siéger. 
 
-2. La commission se réunit sur convocation de son président, qui arrête, pour chaque affaire, sa composition.
+2. La commission se réunit sur convocation de son président, qui arrête, pour chaque affaire, sa composition. 
 
-III. - Lorsque la commission se réunit en application des articles 1503, 1510 et 1518 du code général des impôts, les
-personnes concernées sont invitées à se faire entendre ou à faire parvenir leurs observations écrites. A cette fin, elles
-sont convoquées dix jours au moins avant la réunion de la commission.
+III.-Lorsque la commission se réunit en application des articles 1503,1510 et 1518 du code général des impôts, les personnes
+concernées sont invitées à se faire entendre ou à faire parvenir leurs observations écrites. A cette fin, elles sont
+convoquées dix jours au moins avant la réunion de la commission. 
 
-Elles peuvent y déléguer un mandataire dûment habilité.
+Elles peuvent y déléguer un mandataire dûment habilité. 
 
-IV. - 1. La commission départementale peut se réunir en sections, comprenant, outre un magistrat du tribunal administratif,
-président, un représentant de l'administration et deux représentants des contribuables.
+IV.-1. La commission départementale peut se réunir en sections, comprenant, outre un magistrat du tribunal administratif,
+président, un représentant de l'administration et deux représentants des contribuables. 
 
-Le président de la commission arrête la composition des sections.
+Le président de la commission arrête la composition des sections. 
 
-Les sections connaissent des affaires qui leur sont envoyées par le président de la commission.
+Les sections connaissent des affaires qui leur sont envoyées par le président de la commission. 
 
-2. Le président du tribunal administratif peut, sur requête du directeur des services fiscaux et lorsque le nombre d'affaires
-le justifie, faire fonctionner plusieurs commissions dans un même département.
+2. Le président du tribunal administratif peut, sur requête du directeur départemental ou, le cas échéant, régional des
+finances publiques et lorsque le nombre d'affaires le justifie, faire fonctionner plusieurs commissions dans un même
+département. 
 
 3. La ou les commissions départementales des impôts directs et des taxes sur le chiffre d'affaires sont installées au chef
-lieu du département.
+lieu du département. 
 
-4. Pour le département de Paris, les représentants de l'administration appelés à siéger au sein de la commission
-départementale des impôts directs et des taxes sur le chiffre d'affaires sont désignés par le directeur chargé de la
-direction spécialisée des impôts pour la région d'Ile-de-France et pour Paris.
+4. (Abrogé) 
 
-V. - Le quorum est égal à la moitié du nombre des membres appelés à siéger, quelle que soit la formation.
+V.-Le quorum est égal à la moitié du nombre des membres appelés à siéger, quelle que soit la formation.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1651 A, 1651 C, 1503, 1510, 1518
-
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 16
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1503
+	  - Code général des impôts, CGI. - art. 1510
+	  - Code général des impôts, CGI. - art. 1518
+	  - Code général des impôts, CGI. - art. 1651 A
+	  - Code général des impôts, CGI. - art. 1651 C
 
 
 ##### II bis : Commission nationale des impôts directs et des taxes sur le chiffre d'affaires
@@ -39515,15 +39515,15 @@ III. - 1. La commission se réunit sur convocation de son président, qui arrêt
 2. La commission réside à Paris. 
 
 3. Les représentants de l'administration appelés à siéger au sein de la commission sont désignés par le directeur chargé de
-la direction spécialisée des impôts pour la région Ile-de-France et pour Paris. 
+la direction régionale des finances publiques d'Ile-de-France et du département de Paris. 
 
 IV. - Le quorum est égal à la moitié du nombre des membres appelés à siéger, quelle que soit la formation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1011 du 30 septembre 2008 - art. 1
+	  - Décret n°2012-431  du 29 mars 2012 - art. 17
 
 	**Cite**:
 
@@ -39532,59 +39532,30 @@ IV. - Le quorum est égal à la moitié du nombre des membres appelés à siége
 
 ##### III : Commission départementale de conciliation
 
-###### Article 349
-
-Dans les départements où existent plusieurs directions des services fiscaux, plusieurs commissions de conciliation peuvent
-être instituées par arrêté du ministre chargé du budget qui fixe leur siège et leur circonscription. Les représentants de
-l'administration appelés à siéger au sein de ces commissions sont désignés pour chacune d'entre elles par le directeur des
-services fiscaux dont le ressort territorial de la direction correspond à celui de la commission.
-
-Pour le département de Paris, les représentants de l'administration appelés à siéger au sein de la commission départementale
-de conciliation sont désignés par le directeur chargé de la direction spécialisée des impôts pour la région d'Ile-de-France
-et pour Paris.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 2 () JORF 25 octobre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 34
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
 ###### Article 350 A
 
-1. Dans le département de la Corse et dans les départements d'outre-mer les inspecteurs principaux ou départementaux des
-impôts appelés à faire partie de la commission départementale de conciliation instituée par l'article 1653 A du code général
-des impôts peuvent être remplacés par des inspecteurs des impôts.
+1. Dans les départements de la Corse-du-Sud et de la Haute-Corse et dans les départements d'outre-mer les fonctionnaires de
+la direction générale des finances publiques ayant au moins le grade d'inspecteur divisionnaire appelés à faire partie de la
+commission départementale de conciliation instituée par l'article 1653 A du code général des impôts peuvent être remplacés
+par des inspecteurs des finances publiques. 
 
-2. A défaut de chambre de notaires et d'organismes professionnels ou syndicaux visés au 5° du I de l'article 1653 A du code
-général des impôts le notaire et les représentants des contribuables à la commission départementale de conciliation sont
-désignés par le préfet.
+2. A défaut de chambre de notaires et d'organismes professionnels ou syndicaux visés au 4° et au 5° du I de l'article 1653 A
+précité le notaire et les représentants des contribuables à la commission départementale de conciliation sont désignés par le
+préfet.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1653 A
-
-	**Modifié par**:
-
-	  - Décret n°2004-620 du 29 juin 2004 - art. 1 () JORF 30 juin 2004
 
 	**Codifié par**:
 
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2006-356 du 24 mars 2006
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2012-431  du 29 mars 2012 - art. 18
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1653 A
 
 
 ###### Article 350 C
@@ -39938,48 +39909,93 @@ livre des procédures fiscales.
 	  - Livre des procédures fiscales - art. R80 F-1
 
 
+###### Article 350 quindecies
+
+I. ― L'autorité compétente de l'Etat mentionnée au second alinéa de l'article 716, au premier alinéa de l'article 805, à
+l'article 808, à la seconde phrase du second alinéa du II de l'article 1066, au second alinéa du II de l'article 1384 A, à la
+première phrase du second alinéa du II de l'article 1518 et au 2 de l'article 1960 du code général des impôts est le
+directeur départemental ou, le cas échéant, régional des finances publiques. 
+
+II. ― Les comptables publics mentionnés au 1° du c du 1 de l'article 302 bis Y et au cinquième alinéa du 5° de l'article 1018
+A du code général des impôts sont les comptables de la direction générale des finances publiques. 
+
+Les comptables publics mentionnés au cinquième alinéa du II ter de l'article 208 C et au deuxième alinéa du III de l'article
+220 septies du même code sont les comptables de la direction générale des finances publiques du lieu d'imposition défini à
+l'article 218 A du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 20
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1018 A
+	  - Code général des impôts, CGI. - art. 1066
+	  - Code général des impôts, CGI. - art. 1384 A
+	  - Code général des impôts, CGI. - art. 1518
+	  - Code général des impôts, CGI. - art. 1960
+	  - Code général des impôts, CGI. - art. 208 C
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 septies
+	  - Code général des impôts, CGI. - art. 302 bis Y
+	  - Code général des impôts, CGI. - art. 716
+	  - Code général des impôts, CGI. - art. 805
+	  - Code général des impôts, CGI. - art. 808
+
+
 ###### Article 350 terdecies
 
 I. Sous réserve des dispositions des articles 409 et 410 de l'annexe II au code général des impôts, seuls les fonctionnaires
-de la direction générale des impôts appartenant à des corps des catégories A et B peuvent fixer les bases d'imposition et
-liquider les impôts, taxes et redevances ainsi que proposer les rectifications.
+de la direction générale des finances publiques appartenant à des corps des catégories A et B peuvent fixer les bases
+d'imposition et liquider les impôts, taxes et redevances ainsi que proposer les rectifications. 
 
 Les fonctionnaires mentionnés au premier alinéa peuvent se faire assister pour les opérations de contrôle par des
-fonctionnaires stagiaires et par tout autre fonctionnaire des impôts affecté ou non dans le même service déconcentré ou
-service à compétence nationale.
+fonctionnaires stagiaires et par tout autre fonctionnaire de la direction générale des finances publiques affecté ou non dans
+le même service déconcentré ou service à compétence nationale. 
 
 II. Les fonctionnaires mentionnés au premier alinéa du I peuvent exercer les attributions que ces dispositions leur confèrent
 à l'égard des personnes physiques ou morales ou groupements de personne de droit ou de fait qui ont déposé ou auraient dû
 déposer dans le ressort territorial du service déconcentré ou du service à compétence nationale dans lequel ils sont affectés
 une déclaration, un acte ou tout autre document ainsi qu'à l'égard des personnes ou groupements qui, en l'absence
 d'obligation déclarative, y ont été ou auraient dû y être imposés ou qui y ont leur résidence principale, leur siège ou leur
-principal établissement.
+principal établissement. 
 
 III. Les fonctionnaires mentionnés au premier alinéa du I et compétents territorialement pour procéder aux contrôles visés à
 l'article L. 47 du livre des procédures fiscales d'une personne physique ou morale ou d'un groupement peuvent exercer les
 attributions définies à cet alinéa pour l'ensemble des impositions, taxes et redevances, dues par ce contribuable, quel que
-soit le lieu d'imposition ou de dépôt des déclarations ou actes relatifs à ces impositions, taxes et redevances.
+soit le lieu d'imposition ou de dépôt des déclarations ou actes relatifs à ces impositions, taxes et redevances. 
 
 IV. Sans préjudice des dispositions des II et III, les fonctionnaires mentionnés au premier alinéa du I sont compétents pour
 contrôler et liquider les droits d'enregistrement, la taxe de publicité foncière, l'impôt de solidarité sur la fortune, les
 droits de timbre et taxes assimilées, lorsque est situé dans le ressort territorial de leur service d'affectation soit le
 lieu de dépôt des actes ou déclarations, soit le lieu de situation ou d'immatriculation du bien servant à la base des
 impositions, taxes et redevances ou, s'agissant de titres, le lieu de souscription de la déclaration de résultats par la
-société émettrice ou le lieu de situation des biens servant à la détermination de la valeur de ces titres.
+société émettrice ou le lieu de situation des biens servant à la détermination de la valeur de ces titres. 
 
 Ils sont également compétents dans le ressort territorial de leur service d'affectation pour dresser, en vertu de l'article
 R. 213-4 du livre des procédures fiscales, les procès-verbaux prévus au d de l'article L. 212 et à l'article L. 213 de ce
-livre.
+livre. 
 
 V. Sans préjudice des dispositions des II, III et IV, les fonctionnaires mentionnés au premier alinéa du I peuvent exercer
 leurs attributions à l'égard des personnes physiques ou morales et des groupements liés aux personnes ou groupements qui
-relèvent de leur compétence.
+relèvent de leur compétence. 
 
 Les liens existant entre les personnes ou groupements s'entendent de l'appartenance ou du rattachement à un même foyer
 fiscal, de l'exercice d'un rôle de direction de droit ou de fait, d'une relation d'association, de subordination ou
 d'interposition, ou de l'appartenance à un même groupe d'intérêts. Les arrêtés d'attributions des services déconcentrés et
 des services à compétence nationale définissent, s'il y a lieu, la compétence des agents au regard des personnes unies par
-ces liens.
+ces liens. 
+
+VI.-Sans préjudice des dispositions du I, les fonctionnaires de la direction générale des finances publiques appartenant à
+des corps de catégorie C sont également compétents pour procéder au contrôle et proposer des rectifications de la taxe prévue
+au I de l'article 1605 du code général des impôts. 
+
+VII.-Par dérogation aux dispositions du II, les fonctionnaires compétents pour procéder au contrôle et proposer des
+rectifications de la taxe prévue au I de l'article 1605 précité exercent leurs attributions dans le ressort territorial de la
+région dans laquelle est situé le service auquel ils sont affectés ou, s'il est plus étendu, dans le ressort territorial de
+ce service.
 
 **Liens relatifs à cet article**
 
@@ -39989,21 +40005,16 @@ ces liens.
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 350 quaterdecies (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 409 (V)
 
-	**Cite**:
-
-	  - CGIAN2 409, 410
-	  - Livre des procédures fiscales - art. L212 (M)
-	  - Livre des procédures fiscales - art. L213 (M)
-	  - Livre des procédures fiscales - art. L47 (M)
-	  - Livre des procédures fiscales - art. R213-4 (M)
-
 	**Modifié par**:
 
-	  - Décret n°2004-283 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 19
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 1605
+	  - Livre des procédures fiscales - art. L212
+	  - Livre des procédures fiscales - art. L47
+	  - Livre des procédures fiscales - art. R213-4
 
 
 # Livre II : Recouvrement de l'impôt
@@ -40201,7 +40212,8 @@ accordé au contribuable.
 ###### Article 358
 
 1. Les acomptes mentionnés au 1 de l'article 1668 du code général des impôts sont calculés par le redevable et versés
-spontanément au comptable de la direction générale des impôts du lieu d'imposition défini à l'article 218 A du même code.
+spontanément au comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du
+même code. 
 
 2. Chaque versement est accompagné d'un relevé fourni par l'administration, daté et signé de la partie versante et indiquant
 la nature du versement, son échéance, les montants à payer ainsi que la désignation et l'adresse du principal établissement
@@ -40209,13 +40221,9 @@ de l'entreprise.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1668, 218 A
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 30
 
 	**Cité par**:
 
@@ -40224,9 +40232,10 @@ de l'entreprise.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 380 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 bis (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 1668
+	  - Code général des impôts, CGI. - art. 218 A
 
 
 ###### Article 359
@@ -40284,22 +40293,18 @@ alinéas précédents n'excède pas 3 000 euros.
 La liquidation de l'impôts sur les sociétés mentionnée au 2 de l'article 1668 du code général des impôts est réalisée par le
 redevable et détaillée sur un relevé de solde dont le modèle est fourni par l'administration, daté et signé de la partie
 versante et indiquant la nature du versement, son échéance, les éléments de liquidation, ainsi que la désignation et
-l'adresse du principal établissement de l'entreprise.
+l'adresse du principal établissement de l'entreprise. 
 
 Le relevé de solde accompagné le cas échéant du complément d'impôt résultant de cette liquidation est adressé au comptable de
-la direction générale des impôts mentionné au 1 de l'article 358.
+la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du même code. 
 
 Les demandes de restitution de créances remboursables sont formulées sur ce relevé.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1668, 358
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 21
 
 	**Cité par**:
 
@@ -40315,9 +40320,10 @@ Les demandes de restitution de créances remboursables sont formulées sur ce re
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YS (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YV (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 1668
+	  - Code général des impôts, CGI. - art. 218 A
 
 
 ###### Article 360 bis
@@ -40507,22 +40513,20 @@ l'adresse des associés bénéficiaires des distributions soumises à ce prélè
 
 L'impôt dû par les organismes soumis à l'impôt sur les sociétés au titre des revenus visés au 5 de l'article 206 du code
 général des impôts et selon les modalités prévues à l'article 219 bis du même code est calculé sur la déclaration de résultat
-et versé spontanément dans le délai fixé pour le dépôt de cette déclaration au comptable de la direction générale des impôts
-du lieu d'imposition défini à l'article 218 A du même code.
+et versé spontanément dans le délai fixé pour le dépôt de cette déclaration au comptable de la direction générale des
+finances publiques du lieu d'imposition défini à l'article 218 A du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 206, 219 bis, 218 A
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 30
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 206
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 219 bis
 
 
 ##### 03 bis : Imposition forfaitaire annuelle des sociétés
@@ -40618,50 +40622,51 @@ versements anticipés auxquels elle donne lieu.
 ###### Article 369
 
 1. Sous réserve des dispositions de l'article 406 terdecies, les sommes dues au titre de la taxe sur les salaires sont
-versées au comptable de la direction générale des impôts du lieu dont relève le siège de l'entreprise ou le principal
-établissement ou le domicile de l'employeur.
+versées au comptable chargé du service des impôts des entreprises du lieu dont relève le siège de l'entreprise ou le
+principal établissement ou le domicile de l'employeur, ou, pour les entreprises qui relèvent des dispositions de l'article
+344-0 A, le comptable de la direction des grandes entreprises. 
 
-Lorsque le montant total de la taxe sur les salaires acquittée l'année précédente :
+Lorsque le montant total de la taxe sur les salaires acquittée l'année précédente : 
 
-a) Est inférieur à 1 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
-rémunérations payées pendant l'année en cours dans les quinze premiers jours de l'année suivante ;
+a) Est inférieur à 1 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
+rémunérations payées pendant l'année en cours dans les quinze premiers jours de l'année suivante ; 
 
-b) Est compris entre 1 000 Euros et 4 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires
-à raison des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ;
+b) Est compris entre 1 000 € et 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison
+des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ; 
 
-c) Est supérieur à 4 000 Euros, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
-rémunérations payées pendant un mois déterminé dans les quinze premiers jours du mois suivant.
+c) Est supérieur à 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
+rémunérations payées pendant un mois déterminé dans les quinze premiers jours du mois suivant. 
 
 Toutefois, si les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées depuis le 1er janvier de
-l'année en cours sont supérieures à 10 000 Euros, les employeurs versent la totalité de ces sommes dans les quinze premiers
-jours du mois suivant le dépassement de ce seuil. Le versement des échéances restantes jusqu'à la fin de l'année s'effectue
-mensuellement.
+l'année en cours sont supérieures à 10 000 €, les employeurs versent la totalité de ces sommes dans les quinze premiers jours
+du mois suivant le dépassement de ce seuil. Le versement des échéances restantes jusqu'à la fin de l'année s'effectue
+mensuellement. 
 
 2. Chaque versement, mensuel ou trimestriel, est accompagné d'un relevé dont le modèle est fixé par l'administration, daté et
 signé par l'employeur et indiquant notamment sa désignation, sa profession et son adresse, la période à laquelle s'applique
-ce versement et le montant de la taxe sur les salaires versés.
+ce versement et le montant de la taxe sur les salaires versés. 
 
 3. Une déclaration annuelle permettant la liquidation et la régularisation de la taxe sur les salaires, dont le modèle est
 fixé par l'administration, est déposée, datée et signée par l'employeur, au lieu fixé au 1 au plus tard le 15 janvier de
-l'année qui suit celle au titre de laquelle la taxe est due.
+l'année qui suit celle au titre de laquelle la taxe est due. 
 
 Cette déclaration indique, notamment, la désignation, la profession et l'adresse de l'employeur, le montant des rémunérations
 versées au cours de l'année concernée, le montant de la taxe correspondante, le montant des sommes restant dues ou devant
 être restituées après déduction, le cas échéant, des sommes déjà versées mensuellement ou trimestriellement au titre de la
-même année.
+même année. 
 
-Elle est accompagnée, le cas échéant, de l'impôt ou du complément d'impôt exigible au titre de cette même année.
+Elle est accompagnée, le cas échéant, de l'impôt ou du complément d'impôt exigible au titre de cette même année. 
 
-4. En cas de :
+4. En cas de : 
 
-a) Transfert du siège, du principal établissement ou du domicile, les versements s'effectuent auprès du comptable des impôts
-dont dépend la nouvelle adresse ;
+a) Transfert du siège, du principal établissement ou du domicile, les versements s'effectuent auprès du comptable du service
+des impôts des entreprises dont dépend la nouvelle adresse ; 
 
 b) Cession ou de cessation d'activité, l'employeur est tenu de souscrire dans les soixante jours, et au plus tard le 15
-janvier de l'année suivante, la déclaration prévue au 3 accompagnée du paiement y afférent ;
+janvier de l'année suivante, la déclaration prévue au 3 accompagnée du paiement y afférent ; 
 
 c) Décès de l'employeur, la déclaration visée au 3 s'effectue dans les six mois du décès et au plus tard le 15 janvier de
-l'année suivante accompagnée du versement y afférent.
+l'année suivante accompagnée du versement y afférent. 
 
 5. Les redevables qui estiment que le montant annuel de leur taxe sur les salaires n'excédera pas celui de la franchise en
 impôt prévue au deuxième alinéa de l'article 1679 du code général des impôts ou de l'abattement mentionné à l'article 1679 A
@@ -40671,13 +40676,16 @@ mentionnée au 3.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 406 terdecies, 1679, 1679 A
-
 	**Modifié par**:
 
-	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 22
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 406 terdecies
+	  - Code général des impôts, CGI. - art. 1679
+	  - Code général des impôts, CGI. - art. 1679 A
 
 	**Cité par**:
 
@@ -40685,21 +40693,16 @@ mentionnée au 3.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 374 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-	  - TXT_ASSOCIE: Instruction 2001-04-25 5L-3-01
-
 
 ##### d : Taxe sur les salaires afférente aux traitements à la charge de l'Etat et des collectivités publiques
 
 ###### Article 374
 
 1. Les sommes dues au titre de la taxe sur les salaires pour des rémunérations à la charge de l'Etat et des collectivités ou
-établissements publics sont versées trimestriellement au comptable de la direction générale des impôts.
+établissements publics sont versées trimestriellement au comptable compétent mentionné à l'article 369. 
 
 Lorsque les rémunérations sont imputées sur le budget général de l'Etat ou sur les budgets annexes, le montant de la taxe sur
-les salaires est déterminé à raison de 4,25 % du montant des crédits ouverts pour le paiement de ces rémunérations.
+les salaires est déterminé à raison de 4,25 % du montant des crédits ouverts pour le paiement de ces rémunérations. 
 
 En ce qui concerne les offices et établissements publics autonomes de l'Etat ainsi que les établissements publics
 départementaux et communaux redevables de la taxe sur les salaires, le montant de la taxe est déterminé dans les conditions
@@ -40709,21 +40712,18 @@ fixées à l'article 51.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 51
-
 	**Modifié par**:
 
-	  - Décret n°2003-1388 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 23
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 369
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 51
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 53 bis (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### 7 : Contribution annuelle sur les revenus locatifs
@@ -40825,55 +40825,49 @@ participation visées à l'article 375, elle est recouvrée dans les conditions 
 
 Le montant de l'acompte prévu au deuxième alinéa de l'article 234 terdecies du code général des impôts est calculé par
 l'entreprise et versé spontanément, au plus tard le 15 du dernier mois de l'exercice, au comptable de la direction générale
-des impôts du lieu d'imposition défini à l'article 218 A du même code.
+des finances publiques du lieu d'imposition défini à l'article 218 A du même code. 
 
 Le versement est accompagné d'un relevé fourni par l'administration, daté et signé par le redevable et indiquant la nature du
 versement, son échéance, sa base de calcul et son montant ainsi que la désignation et l'adresse du principal établissement de
-l'entreprise.
+l'entreprise. 
 
 L'entreprise est dispensée du versement de l'acompte lorsqu'il n'excède pas 100 euros.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 234 terdecies, 218 A
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 30
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 378 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 218 A (V)
+	  - Code général des impôts, CGI. - art. 234 terdecies (V)
 
 
 ###### Article 380
 
 La liquidation de la contribution est réalisée et détaillée sur une déclaration fournie par l'administration, datée et signée
 par le redevable et indiquant la nature du versement, son échéance, les éléments de liquidation ainsi que la désignation et
-l'adressse du principal établissement de l'entreprise.
+l'adressse du principal établissement de l'entreprise. 
 
 Le complément d'impôt résultant, le cas échéant, de cette liquidation est adressé spontanément, au plus tard à la date fixée
-pour le dépôt de la déclaration de résultat, au comptable des impôts mentionné au 1 de l'article 358.
+pour le dépôt de la déclaration de résultat, au comptable de la direction générale des finances publiques mentionné au 1 de
+l'article 358.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 358
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 33
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 358
 
 
 ###### Article 381
@@ -40899,51 +40893,45 @@ dans les conditions prévues aux articles 381 bis et 381 ter.
 
 La contribution donne lieu au versement spontané d'un acompte déterminé selon les modalités définies au troisième alinéa de
 l'article 234 quaterdecies du code général des impôts, à effectuer au plus tard le 15 octobre de l'année de la perception des
-revenus soumis à la contribution. La somme ainsi calculée est versée au comptable des impôts mentionné au 1 de l'article 358.
+revenus soumis à la contribution. La somme ainsi calculée est versée au comptable de la direction générale des finances
+publiques mentionné au 1 de l'article 358. 
 
 L'entreprise est dispensée du versement de l'acompte lorsqu'il n'excède pas 100 euros.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 234 quaterdecies
-	  - CGIAN3 358
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 33
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 358
+	  - Code général des impôts, CGI. - art. 234 quaterdecies
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 ter (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 
 ###### Article 381 quater
 
 La contribution annuelle sur les revenus locatifs due par une personne morale ou un organisme mentionné au quatrième alinéa
 de l'article 234 quaterdecies du code général des impôts est calculée sur la déclaration de résultat et versée spontanément
-dans le délai fixé pour le dépôt de cette déclaration auprès du comptable des impôts du lieu d'imposition défini à l'article
-218 A du même code.
+dans le délai fixé pour le dépôt de cette déclaration auprès du comptable de la direction générale des finances publiques du
+lieu d'imposition défini à l'article 218 A du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 234 quaterdecies, 218 A
-
 	**Modifié par**:
 
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 1 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 33
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 234 quaterdecies
 
 
 ###### Article 381 ter
@@ -42337,9 +42325,14 @@ papier ou le document passible du droit.
 
 Le visa pour timbre est donné au comptant ou en débet.
 
-Le visa pour timbre au comptant est effectué par les comptables des impôts qui peuvent y suppléer au moyen de l'apposition de
-timbres mobiles.
+Il est effectué par le comptable de la direction générale des finances publiques chargé du droit de timbre. Pour le visa du
+timbre au comptant, le comptable peut y suppléer au moyen de l'apposition de timbres mobiles.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 24
 
 
 ##### E : Paiement de l'impôt sur états
@@ -42519,24 +42512,21 @@ pour le paiement au comptant de la contribution en suite d'une demande dûment m
 
 ###### Article 406 duodecies
 
-Les comptables publics mentionnés à l'article 1724 A du code général des impôts sont les comptables de la direction générale
-des impôts et ceux de la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les
-contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution mentionnée à
-l'article 527 du code général des impôts.
+Les comptables publics mentionnés à l'article 1724 A du code général des impôts sont les comptables de la   direction
+générale des finances publiques  et ceux de la direction générale des douanes et droits indirects en ce qui concerne, pour
+ces derniers, les contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la
+contribution mentionnée à l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1724 A, 527
-
 	**Modifié par**:
 
-	  - Décret n°2004-588 du 21 juin 2004 - art. 1 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 28
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 1724 A
+	  - Code général des impôts, CGI. - art. 527
 
 
 ###### Article 406 terdecies

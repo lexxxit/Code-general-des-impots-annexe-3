@@ -8,7 +8,7 @@ b) Le sous-directeur des affaires économiques du ministère de l'outre-mer ;
 
 c) L'inspecteur général des finances chargé de l'outre-mer ; 
 
-d) Le directeur général des impôts ; 
+d) Le   directeur général des finances publiques  ; 
 
 e) Le directeur du budget ; 
 
@@ -39,5 +39,4 @@ Les avis sont émis par la commission en présence des seuls membres ayant voix 
 
 	**Modifié par**:
 
-	  - Décret n°2010-291 du 18 mars 2010 - art. 2 (V)
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
+	  - Décret n°2012-431  du 29 mars 2012 - art. 26

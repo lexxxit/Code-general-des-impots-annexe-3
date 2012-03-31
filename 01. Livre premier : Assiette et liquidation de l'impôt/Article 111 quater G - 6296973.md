@@ -2,24 +2,24 @@
 
 Toute personne qui, habituellement ou occasionnellement, se livre, pour son compte ou pour le compte de tiers, aux opérations
 d'abattage d'animaux de boucherie et de charcuterie, de volailles, de lapins domestiques, de gibier d'élevage ou de
-traitement du gibier sauvage doit :
+traitement du gibier sauvage doit : 
 
 1° Souscrire, préalablement à toute opération, une déclaration d'existence auprès du service des impôts dont dépend le lieu
-d'abattage ou de traitement du gibier sauvage ;
+d'abattage ou de traitement du gibier sauvage ; 
 
 2° Tenir un registre permettant de dégager, jour par jour, et sans blanc ni rature, les éléments nécessaires à la
-constatation, à la liquidation et au contrôle de la redevance sanitaire d'abattage ;
+constatation, à la liquidation et au contrôle de la redevance sanitaire d'abattage ; 
 
-3° Déposer mensuellement une déclaration conforme au modèle prescrit par la direction générale des impôts et comportant les
-indications nécessaires à l'assiette et à la perception de la redevance.
+3° Déposer mensuellement une déclaration conforme au modèle prescrit par la   direction générale des finances publiques  et
+comportant les indications nécessaires à l'assiette et à la perception de la redevance. 
 
 Cette déclaration doit être remise par chaque redevable au service des impôts dont dépend le lieu d'abattage ou de traitement
 du gibier sauvage avant le 25 du mois suivant celui au cours duquel les opérations imposables ont été réalisées. La redevance
-doit être acquittée dans le même délai. Lorsque son montant est inférieur à 150 euros par mois, les redevables sont admis à
-déposer leur déclaration et à payer la redevance correspondante par trimestre.
+doit être acquittée dans le même délai. Lorsque son montant est inférieur à 150 € par mois, les redevables sont admis à
+déposer leur déclaration et à payer la redevance correspondante par trimestre. 
 
 Lors du dépôt de la déclaration, le redevable adresse au directeur départemental de l'agriculture et de la forêt un relevé
-des éléments déclarés.
+des éléments déclarés. 
 
 Les obligations prévues aux 1° et 2° ci-dessus ne s'appliquent pas aux personnes assujetties à la taxe sur la valeur ajoutée
 qui sont astreintes aux obligations prévues au II de l'article 286 quater du code général des impôts et par ses textes
@@ -27,23 +27,19 @@ d'application.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 286 quater
+	  - Décret n°2006-356 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
+	  - Décret n°2012-431  du 29 mars 2012 - art. 28
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater L (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quater LA (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 286 quater

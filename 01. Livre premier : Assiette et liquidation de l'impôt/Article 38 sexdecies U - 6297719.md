@@ -1,17 +1,17 @@
 # Article 38 sexdecies U
 
 Les dispositions du premier alinéa de l'article 73 D du code général des impôts s'appliquent sur demande signée
-conjointement :
+conjointement : 
 
 a) En cas de transmission des titres, d'une part, par l'associé dont les titres sont transmis ou, si la transmission résulte
-du décès de cet associé, par ses ayants cause et, d'autre part, par le ou les bénéficiaires de la transmission ;
+du décès de cet associé, par ses ayants cause et, d'autre part, par le ou les bénéficiaires de la transmission ; 
 
 b) En cas de rachat des titres par la société, par l'associé dont les titres sont rachetés et par les associés présents dans
-la société à la date du rachat.
+la société à la date du rachat. 
 
-Cette demande, établie sur papier libre, doit être adressée par la société, en simple exemplaire, à la direction des services
-fiscaux auprès de laquelle elle souscrit ses déclarations de résultats, dans un délai de soixante jours à compter du jour de
-la transmission ou du rachat des titres.
+Cette demande, établie sur papier libre, doit être adressée par la société, en simple exemplaire, à la direction
+départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle elle souscrit ses déclarations de
+résultats, dans un délai de soixante jours à compter du jour de la transmission ou du rachat des titres. 
 
 L'associé dont les titres sont transmis ou rachetés doit joindre une copie de cette demande à la déclaration de ses revenus
 prévue à l'article 170 du code général des impôts qui est établie en vue de l'imposition immédiate. Lorsque la transmission
@@ -20,14 +20,12 @@ dernier et prévue au 2 de l'article 204 du code précité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 73 D, 170, 204
-
-	**Créé par**:
-
-	  - Décret n°2001-524 du 14 juin 2001 - art. 1 () JORF 17 juin 2001
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 204
+	  - Code général des impôts, CGI. - art. 73 D

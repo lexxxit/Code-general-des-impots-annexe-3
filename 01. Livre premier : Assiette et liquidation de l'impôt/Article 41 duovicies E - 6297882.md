@@ -1,24 +1,24 @@
 # Article 41 duovicies E
 
 Le gérant du fonds commun de placement ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant, adresse,
-avant le 1er février de chaque année, à la direction des services fiscaux désignée au premier alinéa de l'article 41
-sexdecies A un document faisant apparaître :
+avant le 1er février de chaque année, à la direction départementale ou, le cas échéant, régionale des finances publiques
+désignée au premier alinéa de l'article 41 sexdecies A un document faisant apparaître : 
 
 1° Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
 période pendant laquelle la limite de 10 % a été dépassée, l'identité et le domicile fiscal de l'intéressé mentionnés au 3°
 du I de l'article 49 E ainsi que le nombre de parts qu'il détient ; 
 
-2° (Devenu sans objet)
+2° (Devenu sans objet) 
 
 3° Le montant global des rachats de parts effectués au profit de chaque propriétaire au cours de l'année précédente,
-lorsqu'il excède 1500 euros ; 
+lorsqu'il excède 1 500 € ; 
 
 4° Dans la même limite que celle fixée au 3°, la valeur globale des apports en nature de valeurs mobilières effectués par
 chaque propriétaire de parts ; 
 
 5° En cas de dissolution du fonds : 
 
-La date de la dissolution ;
+La date de la dissolution ; 
 
 L'identité et l'adresse de chaque propriétaire de parts mentionné au 3° du I de l'article 49 E ; 
 
@@ -29,14 +29,12 @@ mobiliers revenant à la suite de la liquidation.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 41 sexdecies A, 49 E
-
 	**Modifié par**:
 
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 2 () JORF 31 décembre 2004
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies U (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E

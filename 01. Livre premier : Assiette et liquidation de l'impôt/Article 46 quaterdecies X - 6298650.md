@@ -4,11 +4,11 @@ En Guadeloupe, en Guyane, à la Martinique, à la Réunion et à Mayotte, la com
 
 a) Le préfet, président ;
 
-b) Le trésorier-payeur général ;
+b) Le directeur départemental ou, le cas échéant, régional des finances publiques ;
 
 c) Le secrétaire général des affaires économiques ou le fonctionnaire en tenant lieu ;
 
-d) Le directeur des services fiscaux ;
+d) (Abrogé)
 
 e) Le directeur du travail et de l'emploi ;
 
@@ -39,4 +39,4 @@ suivi du dispositif d'aide fiscale à l'investissement du Gouvernement au Parlem
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 7

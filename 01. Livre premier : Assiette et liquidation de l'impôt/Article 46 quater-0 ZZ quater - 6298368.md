@@ -25,21 +25,17 @@ d'épargne forestière.
 
 III.-Lorsque les parts cédées au cours d'un exercice ont été souscrites depuis moins de huit ans par le cédant ou lorsque la
 société d'épargne forestière est dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-85 et L. 214-87
-du code monétaire et financier, elle adresse, dans les deux mois suivant l'un de ces événements, à la direction des services
-fiscaux du domicile des souscripteurs concernés le relevé mentionné au I ou un duplicata de ce relevé.
+du code monétaire et financier, elle adresse, dans les deux mois suivant l'un de ces événements, à la   direction
+départementale ou, le cas échéant, régionale des finances publiques du domicile des souscripteurs concernés le relevé
+mentionné au I ou un duplicata de ce relevé.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+
 	**Cite**:
 
-	  - CGI 217 terdecies
-	  - Code monétaire et financier - art. L214-85 (M)
-	  - Code monétaire et financier - art. L214-87 (M)
-
-	**Créé par**:
-
-	  - Décret n°2002-292 du 22 février 2002 - art. 1 () JORF 1er mars 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 217 terdecies
+	  - Code monétaire et financier - art. L214-85

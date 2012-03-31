@@ -17,8 +17,9 @@ e) La quote-part du capital agréé détenue par le souscripteur ;
 f) La date et le montant des versements effectués au titre de la souscription des actions ; 
 
 Lorsque des actions de la société agréée ont été cédées au cours d'une année, la société agréée adresse avant le 16 février
-de l'année suivante au service qui a délivré l'agrément et à la direction des services fiscaux dont elle dépend le relevé
-mentionné ci-dessus relatif à l'associé cédant et à l'associé cessionnaire, ou un duplicata de ce relevé. 
+de l'année suivante au service qui a délivré l'agrément et à la   direction départementale ou, le cas échéant, régionale des
+finances publiques dont elle dépend le relevé mentionné ci-dessus relatif à l'associé cédant et à l'associé cessionnaire, ou
+un duplicata de ce relevé. 
 
 Ces relevés sont établis sur papier libre.
 
@@ -26,7 +27,7 @@ Ces relevés sont établis sur papier libre.
 
 	**Modifié par**:
 
-	  - Décret n°2009-288 du 13 mars 2009 - art. 4
+	  - Décret n°2012-431  du 29 mars 2012 - art. 25
 
 	**Cite**:
 

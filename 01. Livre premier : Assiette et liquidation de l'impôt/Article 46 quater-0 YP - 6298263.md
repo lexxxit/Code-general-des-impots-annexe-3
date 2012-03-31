@@ -2,25 +2,24 @@
 
 Pour l'application des dispositions des articles 220 sexies et 220 F du code général des impôts, les entreprises doivent
 déposer une déclaration spéciale avec le relevé de solde mentionné à l'article 360 auprès du comptable de la direction
-générale des impôts.
+générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts. 
 
 S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
 société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. Les
 sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration qu'elles sont tenues de
-déposer en vertu du 1 de l'article 223 du code précité.
+déposer en vertu du 1 de l'article 223 du code précité. 
 
 Une copie de la déclaration spéciale doit être adressée dans le même délai au Centre national du cinéma et de l'image animée.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3, 1er alinéa de l'ordonnance n° 2009-901 du 24 juillet 2009,
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 220 sexies, 220 F, 223 A, 223, 360
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 220 sexies
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 223 A
