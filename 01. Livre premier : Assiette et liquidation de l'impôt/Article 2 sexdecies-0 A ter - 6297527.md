@@ -1,7 +1,7 @@
 # Article 2 sexdecies-0 A ter
 
-Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts ou du cinquième alinéa du I
-et du III de l'article 199 septvicies du même code : 
+Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts ou du troisième alinéa du 4
+du I et du III de l'article 199 septvicies du même code : 
 
 1° La condition de loyer s'apprécie en tenant compte du montant du loyer payé au bailleur par l'organisme locataire et du
 loyer payé à cet organisme par le sous-locataire. 
@@ -25,11 +25,15 @@ Les contribuables doivent joindre à leur déclaration des revenus de l'année a
 copie de l'avis d'impôt sur le revenu du sous-locataire établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de sous-location.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 75-I de la loi n° 2011-1977 du 28 décembre 2011.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
+	  - Décret n°2012-653 du 4 mai 2012 - art. 3
 
 	**Cite**:
 

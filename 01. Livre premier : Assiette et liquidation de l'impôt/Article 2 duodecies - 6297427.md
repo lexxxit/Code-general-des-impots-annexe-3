@@ -3,10 +3,10 @@
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2011, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,47 euros par mètre
-carré en zone A, 11,41 euros en zone B et 8,27 euros en zone C. Ces plafonds sont révisés au 1er janvier de chaque année
-selon les modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et
-arrondis au centime d'euro le plus proche. 
+a) Pour les baux conclus en 2012, les plafonds de loyer mensuel, charges non comprises, sont fixés à 17,77 € par mètre carré
+en zone A, 11,61 € en zone B et 8,41 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
+modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
+centime d'euro le plus proche. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. 
@@ -19,41 +19,43 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2011, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2012, les plafonds annuels de ressources sont les suivants : 
+
+(en euros)  
 
 <table>
   <tbody>
     <tr>
-      <td>
+      <th>
 
 COMPOSITION DU FOYER LOCATAIRE
 
-</td>
-      <td colspan="3">
+</th>
+      <th colspan="3">
 
 LIEU DE LOCATION
 
-</td>
+</th>
     </tr>
     <tr>
-      <td>
+      <th>
 
-</td>
-      <td>
+</th>
+      <th>
 
-Zone A (en euros)
+Zone A
 
-</td>
-      <td>
+</th>
+      <th>
 
-Zone B (en euros)
+Zone B
 
-</td>
-      <td>
+</th>
+      <th>
 
-Zone B (en euros)
+Zone C
 
-</td>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -63,17 +65,17 @@ Personne seule
 </td>
       <td align="center">
 
-44 793
+45 241
 
 </td>
       <td align="center">
 
-34 620
+34 966
 
 </td>
       <td align="center">
 
-30 294
+30 597
 
 </td>
     </tr>
@@ -85,17 +87,17 @@ Couple
 </td>
       <td align="center">
 
-66 943
+67 612
 
 </td>
       <td align="center">
 
-46 229
+46 691
 
 </td>
       <td align="center">
 
-40 717
+41 124
 
 </td>
     </tr>
@@ -107,17 +109,17 @@ Personne seule ou couple ayant une personne à charge
 </td>
       <td align="center">
 
-80 471
+81 276
 
 </td>
       <td align="center">
 
-55 593
+56 149
 
 </td>
       <td align="center">
 
-48 744
+49 231
 
 </td>
     </tr>
@@ -129,17 +131,17 @@ Personne seule ou couple ayant deux personnes à charge
 </td>
       <td align="center">
 
-96 391
+97 355
 
 </td>
       <td align="center">
 
-67 111
+67 782
 
 </td>
       <td align="center">
 
-58 992
+59 582
 
 </td>
     </tr>
@@ -151,17 +153,17 @@ Personne seule ou couple ayant trois personnes à charge
 </td>
       <td align="center">
 
-114 109
+115 250
 
 </td>
       <td align="center">
 
-78 946
+79 735
 
 </td>
       <td align="center">
 
-69 237
+69 929
 
 </td>
     </tr>
@@ -173,17 +175,17 @@ Personne seule ou couple ayant quatre personnes à charge
 </td>
       <td align="center">
 
-128 402
+129 686
 
 </td>
       <td align="center">
 
-88 968
+89 858
 
 </td>
       <td align="center">
 
-78 101
+78 882
 
 </td>
     </tr>
@@ -195,17 +197,17 @@ Majoration par personne à charge à partir de la cinquième
 </td>
       <td align="center">
 
-+ 14 312
++ 14 455
 
 </td>
       <td align="center">
 
-+ 9 924
++ 10 023
 
 </td>
       <td align="center">
 
-+ 8 871</td>
++ 8 960</td>
     </tr>
   </tbody>
 </table>
@@ -243,7 +245,7 @@ n° 2006-1005 du 10 août 2006.
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2012-653 du 4 mai 2012 - art. 3
 
 	**Cite**:
 

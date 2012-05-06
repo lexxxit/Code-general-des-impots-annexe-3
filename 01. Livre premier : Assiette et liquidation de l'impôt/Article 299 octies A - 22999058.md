@@ -1,7 +1,7 @@
 # Article 299 octies A
 
 I.-Le prélèvement de frais et commissions supportés par les souscripteurs des titres de capital ou donnant accès au capital
-de sociétés mentionnées au 3° du I de l'article 199 terdecies-0 A ainsi qu'au 3° du I de l'article 885-0 V bis est autorisé
+de sociétés mentionnées au 3° du I de l'article 199 terdecies 0 A  ainsi qu'au 3° du I de l'article 885-0 V bis est autorisé
 sous réserve du respect des conditions prévues à l'article D. 214-80 du code monétaire et financier, adaptées comme suit : 
 
 1. Lorsque les statuts de la société prévoient une durée maximale de détention des titres de capital ou donnant accès au
@@ -16,7 +16,7 @@ souscripteur prévue dans les statuts de la société, si ces derniers prévoien
 s'apprécie chaque année. Si les statuts de ces sociétés ne prévoient aucune durée maximale de détention des titres de capital
 ou donnant accès au capital par le souscripteur, le respect de ce plafond s'apprécie chaque année. 
 
-II.-1. Le document d'information prévu au premier alinéa du e du 3 du I de l'article 199 terdecies-0 A du code général des
+II.-1. Le document d'information prévu au premier alinéa du e du 3° du I de l'article 199 terdecies 0 A du code général des
 impôts et au premier alinéa du f du 3 du I de l'article 885-0 V bis du même code, rédigé en vue de la commercialisation des
 titres de capital ou donnant accès au capital de sociétés mentionnées au I du présent article, comporte les éléments prévus
 au I de l'article D. 214-80-2 du code monétaire et financier. 
@@ -76,12 +76,11 @@ de l'article 1763 C du code général des impôts.
 
 	**Modifié par**:
 
-	  - Décret n°2012-465 du 10 avril 2012 - art. 2
+	  - Décret n°2012-653 du 4 mai 2012 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1763 C
-	  - Code général des impôts, CGI. - art. 199 terdecies-0 A
 	  - Code général des impôts, CGI. - art. 885-0 V bis
 	  - Code monétaire et financier - art. D214-80
 	  - Code monétaire et financier - art. D214-80-2

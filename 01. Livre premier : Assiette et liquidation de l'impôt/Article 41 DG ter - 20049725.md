@@ -10,14 +10,18 @@ III.-En cas de cessation d'activité, d'abandon ou de perte du régime mentionn�
 impôts, le contribuable est soumis aux obligations prévues à l'article R. 133-30-5 du code de la sécurité sociale. 
 
 IV.-En cas de non-paiement des sommes dues ou de paiement partiel de ces dernières aux dates mentionnées à l'article R.
-133-30-2 du code de la sécurité sociale, leur recouvrement s'effectue selon les dispositions mentionnées aux articles R.
-133-30-6 et R. 133-30-7 du même code.
+133-30-2 du code de la sécurité sociale, leur recouvrement s'effectue selon les dispositions mentionnées à l'article R.
+133-30-6du même code.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er-VI du décret n° 2011-1973 du 26 décembre 2011.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1476 du 30 décembre 2008 - art. 1
+	  - Décret n°2012-653 du 4 mai 2012 - art. 3
 
 	**Cite**:
 

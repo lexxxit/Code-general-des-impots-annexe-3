@@ -2,9 +2,9 @@
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts dans sa rédaction en
 vigueur avant la publication de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, les
-plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2011, à 21,84 euros par mètre carré en
-zone A, 15,19 euros en zone B et 10,93 euros en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les
-mêmes modalités que les plafonds de loyer prévus à l'article 2 duodecies. 
+plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2012, à 22,22 € par mètre carré en
+zone A, 15,45 € en zone B et 11,12 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
+modalités que les plafonds de loyer prévus à l'article 2 duodecies. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. La surface à prendre en compte pour l'appréciation du plafond de loyer est la même que celle prévue pour
@@ -12,7 +12,7 @@ l'application de l'article 2 duodecies.
 
 **Nota:**
 
-<font size="1" color="#000000">Modifications effectuées en conséquence de l'article 1er du décret n° 2003-1219 du 19 décembre
+<font color="#000000" size="1">Modifications effectuées en conséquence de l'article 1er du décret n° 2003-1219 du 19 décembre
 2003.</font>
 
 **Liens relatifs à cet article**
@@ -31,4 +31,4 @@ l'application de l'article 2 duodecies.
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2012-653 du 4 mai 2012 - art. 3

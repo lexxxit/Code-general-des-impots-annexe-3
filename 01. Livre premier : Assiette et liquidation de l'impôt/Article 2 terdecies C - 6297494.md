@@ -6,248 +6,257 @@ locataire sont les suivants :
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus
 proche, de ceux mentionnés au :
 
-- a de l'article 2 terdecies B, pour les baux conclus en 2010, s'agissant de logements autres que ceux visés au b de ce même
+- a de l'article 2 terdecies B, pour les baux conclus en 2012, s'agissant de logements autres que ceux visés au b de ce même
 article ;
 
-- b de l'article 2 terdecies B, pour les baux conclus en 2011, s'agissant de logements visés au b de ce même article. 
+- b de l'article 2 terdecies B, pour les baux conclus en 2012, s'agissant de logements visés au b de ce même article. 
 
-Pour les baux conclus en 2011, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2012, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre
-carré de surface habitable, à 9,83 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à
-13,01 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces
+carré de surface habitable, à 10,10 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à
+13,31 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces
 plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2011, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2012, les plafonds annuels de ressources sont les suivants : 
+
+(en euros) 
 
 <table>
   <tbody>
     <tr>
-      <td>
+      <td rowspan="2">
 
 COMPOSITION DU FOYER LOCATAIRE
 
 </td>
       <td colspan="4">
 
-LIEU DE LOCATION
+LIEU DE   LOCATION
 
 </td>
     </tr>
     <tr>
       <td>
 
-</td>
-      <td>
+Zone A
 
-Zone A (en euros)
-
-</td>
-      <td>
-
-Zone B1 (en euros)
+(en €)
 
 </td>
       <td>
 
-Zone B2 (en euros)
+Zone B 1 
+
+(en €)
 
 </td>
       <td>
 
-Zone C (en euros)
+Zone B 2 
+
+(en €)
+
+</td>
+      <td>
+
+Zone   C
+
+(en   €)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule
-
-</td>
-      <td align="center">
-
-44 793
+Personne   seule
 
 </td>
-      <td align="center">
+      <td>
 
-33 272
-
-</td>
-      <td align="center">
-
-30 500
+45 241
 
 </td>
-      <td align="center">
+      <td>
 
-30 294
+33 605
+
+</td>
+      <td>
+
+30 805
+
+</td>
+      <td>
+
+30 597
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Couple
 
 </td>
-      <td align="center">
+      <td>
 
-66 943
-
-</td>
-      <td align="center">
-
-48 860
+67 612
 
 </td>
-      <td align="center">
+      <td>
 
-44 789
-
-</td>
-      <td align="center">
-
-40 717
+49 349
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td>
 
-Personne seule ou couple ayant une personne à charge
+45 237
 
 </td>
-      <td align="center">
+      <td>
 
-80 471
-
-</td>
-      <td align="center">
-
-58 493
-
-</td>
-      <td align="center">
-
-53 619
-
-</td>
-      <td align="center">
-
-48 744
+41 124
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule ou couple ayant deux personnes à charge
-
-</td>
-      <td align="center">
-
-96 391
+Personne   seule ou couple ayant une personne à charge
 
 </td>
-      <td align="center">
+      <td>
 
-70 790
-
-</td>
-      <td align="center">
-
-64 891
+81 276
 
 </td>
-      <td align="center">
+      <td>
 
-58 992
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant trois personnes à charge
+59 078
 
 </td>
-      <td align="center">
+      <td>
 
-114 109
-
-</td>
-      <td align="center">
-
-83 085
+54 155
 
 </td>
-      <td align="center">
+      <td>
 
-76 163
-
-</td>
-      <td align="center">
-
-69 237
+49 231
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule ou couple ayant quatre personnes à charge
-
-</td>
-      <td align="center">
-
-128 402
+Personne   seule ou couple ayant deux personnes à charge
 
 </td>
-      <td align="center">
+      <td>
 
-93 720
-
-</td>
-      <td align="center">
-
-85 911
+97 355
 
 </td>
-      <td align="center">
+      <td>
 
-78 101
+71 498
+
+</td>
+      <td>
+
+65 540
+
+</td>
+      <td>
+
+59 582
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Majoration par personne à charge supplémentaire à partir de la cinquième
-
-</td>
-      <td align="center">
-
-+ 14 312
+Personne   seule ou couple ayant trois personnes à charge
 
 </td>
-      <td align="center">
+      <td>
 
-+ 10 646
-
-</td>
-      <td align="center">
-
-+ 9 758
+115 250
 
 </td>
-      <td align="center">
+      <td>
 
-+ 8 771</td>
+83 916
+
+</td>
+      <td>
+
+76 925
+
+</td>
+      <td>
+
+69 929
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Personne   seule ou couple ayant quatre personnes à charge
+
+</td>
+      <td>
+
+129 686
+
+</td>
+      <td>
+
+94 657
+
+</td>
+      <td>
+
+86 770
+
+</td>
+      <td>
+
+78 882
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Majoration   par personne à charge supplémentaire à partir de la cinquième
+
+</td>
+      <td>
+
++ 14 455
+
+</td>
+      <td>
+
++ 10 752
+
+</td>
+      <td>
+
++ 9 856
+
+</td>
+      <td>
+
++ 8 960
+
+</td>
     </tr>
   </tbody>
 </table>
@@ -255,159 +264,159 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
 l'article 2 duodecies. 
 
-Pour les baux conclus en 2011, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
+Pour les baux conclus en 2012, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
 d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants : 
 
+(en euros) 
+
 <table>
-  <tbody>
-    <tr>
-      <td>
+    <tbody>
+      <tr>
+        <th>
 
 COMPOSITION DU FOYER LOCATAIRE
 
-</td>
-      <td>
+</th>
+        <th>
 
 DÉPARTEMENTS D'OUTRE-MER,
 
-Saint-Martin, Saint-Barthélemy, Mayotte
+Saint-Martin,
 
-(en euros)
+Saint-Barthélemy, Mayotte
 
-</td>
-      <td colspan="3">
+</th>
+        <th>
 
 POLYNÉSIE FRANÇAISE,
 
-Nouvelle-Calédonie, Saint-Pierre-et-Miquelon,
+Nouvelle-Calédonie,
+
+Saint-Pierre-et-Miquelon,
 
 îles Wallis et Futuna
 
-(en euros)
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule
 
 </td>
-      <td align="center">
+        <td align="center">
 
-26 473
-
-</td>
-      <td align="center">
-
-23 300
+27 193
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+23 831
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Couple
 
 </td>
-      <td align="center">
+        <td align="center">
 
-35 354
-
-</td>
-      <td align="center">
-
-43 092
+36 315
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+44 073
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant une personne à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-42 515
-
-</td>
-      <td align="center">
-
-45 584
+43 671
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+46 621
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant deux personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-51 321
-
-</td>
-      <td align="center">
-
-48 077
+52 716
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+49 171
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant trois personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-60 376
-
-</td>
-      <td align="center">
-
-51 406
+62 017
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+52 576
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant quatre personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-68 043
-
-</td>
-      <td align="center">
-
-54 738
+69 893
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+55 984
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
 </td>
-      <td align="center">
+        <td align="center">
 
-+ 7 591
-
-</td>
-      <td align="center">
-
-+ 3 496
++ 7 798
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
+
++ 3 576</td>
+      </tr>
+    </tbody>
+  </table>
 
 Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
 
@@ -447,4 +456,4 @@ Modifications effectuées en conséquence de l'article 1er (G) du décret n° 20
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2012-653 du 4 mai 2012 - art. 3

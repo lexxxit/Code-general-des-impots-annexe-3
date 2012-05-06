@@ -7,14 +7,14 @@ revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt
 
 a. Ses identité et adresse ; 
 
-b.L'adresse du logement concerné ; 
+b. L'adresse du logement concerné ; 
 
 c. Pour les logements acquis en l'état futur d'achèvement ou les logements achevés depuis au moins quinze ans, la date
 d'achèvement du logement ; 
 
 d. Le nom et le type d'établissement ou de résidence dans lequel le logement est situé ; 
 
-e.L'engagement de louer le logement meublé pendant une durée de neuf ans au moins à l'exploitant de l'établissement ou de la
+e. L'engagement de louer le logement meublé pendant une durée de neuf ans au moins à l'exploitant de l'établissement ou de la
 résidence ; 
 
 f. Le prix d'acquisition ou de revient du logement retenu pour la détermination de la base de la réduction d'impôt ; 
@@ -46,7 +46,7 @@ réalisé les travaux ; ces factures doivent mentionner l'adresse de réalisatio
 résidence ; 
 
 7° Pour les logements situés dans des résidences avec services pour personnes âgées ou handicapées, une copie attestant de la
-délivrance de l'agrément prévue à l'article L. 7232-3 du code du travail, par le gestionnaire des services. 
+délivrance de l'agrément prévue à l'article L. 7232-1 du code du travail, par le gestionnaire des services. 
 
 II.-En cas de changement d'exploitant au cours de la période couverte par l'engagement de location, le contribuable joint à
 sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu une copie du bail conclu avec le
@@ -60,12 +60,20 @@ l'engagement de location initial restant à courir à la date du décès.
 
 En cas de changement d'exploitant de l'établissement ou de la résidence, les dispositions du II sont applicables.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 31, I [5° et 8°] de la loi n° 2010-853 du 23 juillet 2010.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2012-653 du 4 mai 2012 - art. 3
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZD (T)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quindecies C (V)
+	  - Code général des impôts, CGI. - art. 199 sexvicies (V)
+	  - Code du travail - art. L7232-1 (V)
+	  - Code de la santé publique - art. L1334-13 (V)
+	  - Code de la santé publique - art. L1334-5 (V)

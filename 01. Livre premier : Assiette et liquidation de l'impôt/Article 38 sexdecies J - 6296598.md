@@ -6,7 +6,7 @@ code général des impôts sont les suivants :
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation : 
 
-a) Sinistre, constaté dans les conditions prévues à l'article R. 361-41 du code rural et de la pêche maritime ; 
+a) Sinistre, constaté dans les conditions prévues à l'article D. 361-41 du code rural et de la pêche maritime ; 
 
 b) Calamité agricole, constatée dans les conditions prévues en application de l'article L. 361-5 du code rural et de la pêche
 maritime ; 
@@ -52,7 +52,7 @@ l'agriculture en tenant compte, notamment, du degré suffisant des offres d'assu
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 26 de la loi n° 2010-874 du 27 juillet 2010.
+Modifications effectuées en conséquence de l'article 2-I du décret n° 2011-2089 du 30 décembre 2011.
 
 **Liens relatifs à cet article**
 
@@ -68,11 +68,10 @@ Modifications effectuées en conséquence de l'article 26 de la loi n° 2010-874
 	  - Code rural - art. L234-4
 	  - Code rural - art. L251-2
 	  - Code rural - art. L251-9
-	  - Code rural - art. L361-3
-	  - Code rural - art. L361-8
+	  - Code rural - art. L361-4 (V)
 	  - Code rural - art. R*231-39
 	  - Code rural - art. R361-41
 
 	**Modifié par**:
 
-	  - Décret n°2011-785 du 28 juin 2011 - art. 3
+	  - Décret n°2012-653 du 4 mai 2012 - art. 3
