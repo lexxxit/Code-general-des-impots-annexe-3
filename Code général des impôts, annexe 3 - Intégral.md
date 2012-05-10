@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-05-07
+Version Consolidée au 2012-05-11
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21816,37 +21816,6 @@ travaux de réhabilitation, du montant des travaux de réhabilitation effectivem
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 234 nonies (V)
-
-
-##### Section IV : Cotisation perçue au titre de la participation des employeurs à l'effort de construction
-
-###### Article 58 J
-
-La déclaration prévue à l'article *R. 313-3 du code de la construction et de l'habitation doit indiquer les éléments
-mentionnés à l'article R. 313-4 du même code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
-
-	**Modifié par**:
-
-	  - Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2012-721 du 9 mai 2012 - art. 5
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation.
-	  - Code de la construction et de l'habitation. - art. R313-4
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section VI : Taxe sur les loyers élevés des logements de petite surface
