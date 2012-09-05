@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-08-26
+Version Consolidée au 2012-09-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -4679,81 +4679,81 @@ COEFFICIENT
 ###### Article 38
 
 I. La déclaration dont la production est prévue aux articles 53 A et 302 septies A bis du code général des impôts et ses
-annexes bis et ter doivent mentionner :
+annexes bis et ter doivent mentionner : 
 
 a. La récapitulation des éléments concourant à la détermination du résultat, ainsi que le montant des recettes nettes
-soumises à la contribution mentionnée à l'article 234 nonies du code général des impôts ;
+soumises à la contribution mentionnée à l'article 234 nonies du code général des impôts ; 
 
 b. Le nom et l'adresse du ou des comptables ou experts chargés de tenir la comptabilité ou d'en contrôler les résultats
-généraux en précisant si ces techniciens font partie ou non du personnel salarié de l'entreprise ;
+généraux en précisant si ces techniciens font partie ou non du personnel salarié de l'entreprise ; 
 
-c. Eventuellement le nom et l'adresse du centre de gestion agréé auquel le contribuable a adhéré ;
+c. Eventuellement le nom et l'adresse du centre de gestion agréé auquel le contribuable a adhéré ; 
 
-d. Les renseignements nécessaires à l'établissement et au contrôle de l'impôt.
+d. Les renseignements nécessaires à l'établissement et au contrôle de l'impôt. 
 
-I bis. (Sans objet).
+I bis. (Sans objet). 
 
 II. Les contribuables visés à l'article 53 A du code général des impôts sont tenus de joindre à la déclaration et aux annexes
 visées au I, le bilan, le compte de résultat, le tableau des immobilisations, le tableau des amortissements, le tableau des
-provisions et l'état des échéances des créances et des dettes.
+provisions et l'état des échéances des créances et des dettes. 
 
-Ils doivent également joindre :
+Ils doivent également joindre : 
 
-1° la liste, suivant modèle fourni par l'administration, des personnes détenant au moins 10 % de leur capital, en précisant
-pour chacune d'entre elles le nombre de parts ou d'actions et le taux de détention et, pour les personnes morales, leur
-dénomination, adresse et numéro d'identification au répertoire national des établissements (numéro SIRET), pour les personnes
-physiques leurs nom, prénoms, adresse, date et lieu de naissance ;
+1° la liste, suivant le modèle fourni par l'administration, des personnes détenant au moins 10 % de leur capital, en
+précisant pour chacune d'entre elles le nombre de parts ou d'actions et le taux de détention et, pour les personnes morales,
+leur dénomination, adresse et numéro d'identification au répertoire national des établissements (numéro SIRET), pour les
+personnes physiques leurs nom, prénoms, adresse, date et lieu de naissance ; 
 
 2° la liste, suivant modèle fourni par l'administration, de leurs filiales et de leurs participations, en précisant pour
 chacune d'entre elles le taux de détention et son numéro d'identification au répertoire national des établissements (numéro
-SIRET) ;
+SIRET) ; 
 
-3° le tableau de calcul de la valeur ajoutée définie à l'article 1647 B sexies du code précité, suivant modèle établi par
-l'administration, lorsqu'ils sont soumis à l'obligation prévue à l'article 1647 E du même code ;
+3° le tableau de calcul de la valeur ajoutée définie à l'article 1586 sexies du code précité, suivant le modèle établi par
+l'administration, lorsqu'ils sont soumis à l'obligation prévue au II de l'article 1586 octies du même code ; 
 
-4° une information détaillée ayant trait aux points suivants :
+4° une information détaillée ayant trait aux points suivants : 
 
-a. dérogations aux prescriptions comptables ;
+a. dérogations aux prescriptions comptables ; 
 
-b. modifications affectant les méthodes d'évaluation et la présentation de comptes annuels ;
+b. modifications affectant les méthodes d'évaluation et la présentation de comptes annuels ; 
 
-c. produits à recevoir et charges à payer ;
+c. produits à recevoir et charges à payer ; 
 
-d. produits et charges figurant au bilan sous les postes comptes de régularisation.
+d. produits et charges figurant au bilan sous les postes comptes de régularisation. 
 
 Les contribuables ayant la qualité de commerçant sont tenus de produire, sur demande de l'administration, les éléments de
-l'annexe comptable qui ne sont pas énumérés ci-dessus.
+l'annexe comptable qui ne sont pas énumérés ci-dessus. 
 
 Doivent en outre être joints à la déclaration le tableau de détermination du résultat fiscal, l'état des déficits et des
 provisions non déductibles, l'état des renseignements divers, le tableau des éléments soumis au régime fiscal des plus-values
-moins-values et, le cas échéant, le tableau des écarts de réévaluation.
+moins-values et, le cas échéant, le tableau des écarts de réévaluation. 
 
 III. Les contribuables visés à l'article 302 septies A bis du code général des impôts sont tenus de joindre à la déclaration
 et aux annexes visées au I le bilan et le compte de résultats simplifiés, les tableaux des immobilisations, des
 amortissements et des éléments soumis au régime fiscal des plus-values et moins-values, le relevé des provisions, le relevé
-des provisions non déductibles, l'état des déficits et, le cas échéant, le tableau des écarts de réévaluation.
+des provisions non déductibles, l'état des déficits et, le cas échéant, le tableau des écarts de réévaluation. 
 
-Les personnes morales doivent également joindre :
+Les personnes morales doivent également joindre : 
 
 1° la liste, suivant modèle fourni par l'administration, des personnes détenant au moins 10 % de leur capital, en précisant
 pour chacune d'entre elles le nombre de parts ou d'actions et le taux de détention et, pour les personnes morales, leur
 dénomination, adresse et numéro d'identification au répertoire national des établissements (numéro SIRET), pour les personnes
-physiques leurs nom, prénoms, adresse, date et lieu de naissance ;
+physiques leurs nom, prénoms, adresse, date et lieu de naissance ; 
 
 2° la liste, suivant modèle fourni par l'administration, de leurs filiales et de leurs participations, en précisant pour
 chacune d'entre elles le taux de détention et son numéro d'identification au répertoire national des établissements (numéro
-SIRET).
+SIRET). 
 
 IV. Les déclarations et les documents qui y sont joints doivent être remis en double exemplaire au service des impôts du
-siège de la direction de l'entreprise ou, à défaut, du lieu du principal établissement.
+siège de la direction de l'entreprise ou, à défaut, du lieu du principal établissement. 
 
-Par dérogation au premier alinéa :
+Par dérogation au premier alinéa : 
 
 1° les personnes physiques qui exercent une activité professionnelle dans la Principauté de Monaco déposent leur déclaration
-auprès du service désigné par le ministre chargé du budget ;
+auprès du service désigné par le ministre chargé du budget ; 
 
 2° les sociétés ayant pour objet la construction d'immeubles en vue de la vente et dont l'activité porte sur un seul immeuble
-ou groupe d'immeubles souscrivent cette déclaration auprès du service des impôts du lieu de situation des constructions.
+ou groupe d'immeubles souscrivent cette déclaration auprès du service des impôts du lieu de situation des constructions. 
 
 Il en est délivré récépissé sur demande du contribuable.
 
@@ -4768,17 +4768,17 @@ Il en est délivré récépissé sur demande du contribuable.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 64 quater (V)
 
-	**Cite**:
-
-	  - CGI 53 A, 302 septies A bis, 234 nonies, 1647 B sexies, 1647 E
-
 	**Modifié par**:
 
-	  - Décret n°2006-1604 du 14 décembre 2006 - art. 1 () JORF 16 décembre 2006
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 1586 octies
+	  - Code général des impôts, CGI. - art. 1586 sexies (V)
+	  - Code général des impôts, CGI. - art. 234 nonies
+	  - Code général des impôts, CGI. - art. 302 septies A bis
+	  - Code général des impôts, CGI. - art. 53 A
 
 
 ###### Article 38 A
@@ -7213,8 +7213,8 @@ k) Le montant de la taxe sur la valeur ajoutée incluse dans les recettes ;
 
 l) En ce qui concerne les adhérents à une association agréée : le nom et l'adresse de l'association ; 
 
-m) La valeur ajoutée définie à l'article 1647 B sexies du code précité, à l'aide d'un tableau dont le modèle est établi par
-l'administration, lorsqu'ils sont soumis à l'obligation prévue à l'article 1647 E du même code. 
+m) Le calcul de la valeur ajoutée définie à l'article 1586 sexies du code précité, suivant le modèle établi par
+l'administration, lorsqu'ils sont soumis à l'obligation prévue au II de l'article 1586 octies du même code. 
 
 II. Les personnes morales doivent également joindre : 
 
@@ -7238,7 +7238,7 @@ auprès du service désigné par le ministre chargé du budget.
 
 	**Modifié par**:
 
-	  - Décret n°2009-316 du 20 mars 2009 - art. 3
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -7246,8 +7246,8 @@ auprès du service désigné par le ministre chargé du budget.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1647 B sexies
-	  - Code général des impôts, CGI. - art. 1647 E
+	  - Code général des impôts, CGI. - art. 1586 octies
+	  - Code général des impôts, CGI. - art. 1586 sexies (V)
 	  - Code général des impôts, CGI. - art. 234 nonies
 	  - Code général des impôts, CGI. - art. 96
 
@@ -13542,13 +13542,17 @@ déterminent la part des bénéfices revenant à ces membres selon les règles d
 e. Le montant des recettes nettes soumises à la contribution mentionnée à l'article 234 nonies du code général des impôts ; 
 
 II. La déclaration est établie en double exemplaire sur une formule délivrée par l'administration. La procédure de
-vérification de cette déclaration est suivie directement entre le service des impôts et la société.
+vérification de cette déclaration est suivie directement entre le service des impôts et la société. 
+
+III.-Lorsqu'elles sont soumises à l'obligation prévue au II de l'article 1586 octies du code précité, les sociétés visées à
+l'article 46 B doivent joindre à la déclaration mentionnée au I le tableau de calcul de la valeur ajoutée définie à l'article
+1586 sexies du code précité, suivant le modèle établi par l'administration.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-316 du 20 mars 2009 - art. 4
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -13558,6 +13562,8 @@ vérification de cette déclaration est suivie directement entre le service des 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 B
+	  - Code général des impôts, CGI. - art. 1586 octies
+	  - Code général des impôts, CGI. - art. 1586 sexies
 	  - Code général des impôts, CGI. - art. 234 nonies
 	  - Code général des impôts, CGI. - art. 28
 	  - Code général des impôts, CGI. - art. 38
@@ -18870,23 +18876,29 @@ impôts doit joindre à la déclaration du résultat de la période d'imposition
 
 Pour l'application du sixième alinéa du II de l'article 44 octies ou du sixième alinéa du II de l'article 44 octies A du code
 général des impôts, le contribuable est réputé avoir exercé l'ensemble de son activité dans les zones franches urbaines s'il
-n'a pas disposé, en dehors de ces zones et au cours de l'année ou de l'exercice considéré, d'immobilisations corporelles au
-sens du 1° de l'article 1467 du code général des impôts.
+n'a pas disposé, en dehors de ces zones et au cours de l'année ou de l'exercice considéré, de biens passibles d'une taxe
+foncière dont la valeur locative est comprise dans la base d'imposition à la cotisation foncière des entreprises définis à
+l'article 1467 du code général des impôts.
+
+**Nota:**
+
+Dispositions devenues sans objet en conséquence de l'article 29-I [3°] de la loi n° 2013-1279 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1467
-	  - CGIAN3 44 octies, 44 octies A
-
 	**Modifié par**:
 
-	  - Décret n°2006-1796 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1467
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 octies A
 
 
 ###### Article 49 N
@@ -19009,25 +19021,27 @@ suivi des bénéfices exonérés.
 
 Pour l'application du III de l'article 44 decies du code général des impôts, le contribuable est réputé avoir exercé
 l'ensemble de son activité en Corse s'il n'a pas disposé, en dehors des départements de Corse et au cours de l'année ou de
-l'exercice considéré, d'immobilisations corporelles au sens du 1° de l'article 1467 du code général des impôts.
+l'exercice considéré, de biens passibles d'une taxe foncière dont la valeur locative est comprise dans la base d'imposition à
+la cotisation foncière des entreprises définis à l'article 1467 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 44 decies, 1467
-
-	**Créé par**:
-
-	  - Décret n°97-343 du 11 avril 1997 - art. 3 (V) JORF 13 avril 1997
-
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°98-400 du 22 mai 1998
+
+	**Modifié par**:
+
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1467
+	  - Code général des impôts, CGI. - art. 44 decies
 
 
 ###### Article 49 T
@@ -25535,20 +25549,21 @@ fiscales sont accomplies auprès du service désigné par l'administration des i
 ###### Article 111 octodecies
 
 Le dépôt prévu à l'article 111 quindecies est restituable aux personnes qui justifient du paiement, de l'exonération ou de la
-non-exigibilité, pour la totalité de la période de validité du récépissé, de la taxe professionnelle, de la taxe sur la
-valeur ajoutée et des taxes assimilées et de l'impôt sur le revenu.
+non-exigibilité, pour la totalité de la période de validité du récépissé, de la contribution économique territoriale, de la
+taxe sur la valeur ajoutée et des taxes assimilées et de l'impôt sur le revenu. 
 
 La demande de restitution est adressée au service des impôts visé à l'article 111 novodecies.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 111 quindecies, 111 novodecies
-
 	**Modifié par**:
 
-	  - Décret n°86-959 1986-08-08 art. 5 JORF 15 août 1986 en vigueur le 1er septembre 1986
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 novodecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111 quindecies
 
 
 ###### Article 111 quaterdecies
@@ -32821,72 +32836,78 @@ poursuivent leurs études ;
 ###### Article 322 FA
 
 Pour l'application du a du 3° de l'article 1459 du code général des impôts, le gîte rural s'entend du logement meublé qui
-remplit les deux conditions suivantes :
+remplit les deux conditions suivantes : 
 
-1° Etre classé "gîte de France" dans les conditions prévues à l'article 58 de la loi n° 65-997 du 29 novembre 1965 ;
+1° Etre classé " gîte de France " dans les conditions prévues à l'article L. 324-1 du code du tourisme ; 
 
 2° Ne pas constituer l'habitation principale ou secondaire du locataire.
 
+**Nota:**
+
+En conséquence des articles 91-I-4° et 91-IV de la loi n° 2015-1785 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1459
-	  - Loi n°65-997 du 29 novembre 1965 - art. 58, v. init.
-
-	**Créé par**:
-
-	  - Décret n°92-1325 du 15 décembre 1992 - art. 1 (V) JORF 19 décembre 1992
 
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°93-1127 du 24 septembre 1993
+
+	**Modifié par**:
+
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cité par**:
 
 	  - Code du tourisme. - art. D422-2 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1459
+	  - Code du tourisme. - art. L324-1
 
 
 ##### I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire.
 
 ###### Article 322 G
 
-Le bénéfice de l'exonération temporaire de taxe professionnelle prévue par l'article 1465 du code général des impôts est
-subordonné aux conditions suivantes lorsqu'un agrément n'est pas nécessaire : 
+Le bénéfice de l'exonération temporaire de cotisation foncière des entreprises prévue par l'article 1465 du code général des
+impôts est subordonné aux conditions suivantes lorsqu'un agrément n'est pas nécessaire : 
 
 I. Réalisation d'un investissement minimal de 1 000 000 €. A défaut, les conditions prévues aux II, III, IV et V sont
 applicables. 
 
-II. En cas de création ou décentralisation d'un établissement industriel : 
+II. En cas de création d'un établissement industriel : 
 
-a. Dans les départements d'outre-mer et de la Corse et, pour les opérations réalisées jusqu'au 31 décembre 1994 dans certains
-secteurs définis par arrêté, des zones d'économie rurale dominante et des zones d'économie montagnarde, ainsi que pour les
-opérations réalisées à compter du 1er janvier 1995, dans les zones de revitalisation rurale délimitées par décret : 
+a. Dans les départements d'outre-mer et de la Corse ainsi que pour les opérations réalisées à compter du 1er janvier 1995,
+dans les zones de revitalisation rurale délimitées par décret : 
 
 1° Dans les communes situées dans une unité urbaine d'au moins 50 000 habitants : réalisation d'un investissement minimal de
-122 000 euros et création d'au moins 30 emplois : 
+122 000 € et création d'au moins 30 emplois : 
 
 2° Dans les communes situées dans une unité urbaine d'au moins 15 000 habitants et de moins de 50 000 habitants : réalisation
-d'un investissement minimal de 76 000 euros et création d'au moins 15 emplois ; 
+d'un investissement minimal de 76 000 € et création d'au moins 15 emplois ; 
 
-3° Dans les autres communes : réalisation d'un investissement minimal de 46 000 euros et création d'au moins 6 emplois ; 
+3° Dans les autres communes : réalisation d'un investissement minimal de 46 000 € et création d'au moins 6 emplois ; 
 
 b. Dans les autres zones où s'applique l'exonération temporaire : 
 
 1° Dans les communes situées dans une unité urbaine d'au moins 15 000 habitants : réalisation d'un investissement minimal de
-122 000 euros et création d'au moins 30 emplois ; 
+122 000 € et création d'au moins 30 emplois ; 
 
-2° Dans les autres communes : réalisation d'un investissement minimal de 46 000 euros et création d'au moins 10 emplois. 
+2° Dans les autres communes : réalisation d'un investissement minimal de 46 000 € et création d'au moins 10 emplois. 
 
 III. En cas d'extension d'un établissement industriel : 
 
-a. Dans les départements d'outre-mer et de la Corse et, pour les opérations réalisées jusqu'au 31 décembre 1994 dans certains
-secteurs définis par arrêté, des zones d'économie rurale dominante et des zones d'économie montagnarde, ainsi que pour les
-opérations réalisées à compter du 1er janvier 1995, dans les zones de revitalisation rurale délimitées par décret : 
+a. Dans les départements d'outre-mer et de la Corse ainsi que pour les opérations réalisées à compter du 1er janvier 1995,
+dans les zones de revitalisation rurale délimitées par décret : 
 
 1° Dans les communes situées dans une unité urbaine d'au moins 50 000 habitants : 
 
-Réalisation d'un investissement minimal de 122 000 euros, et 
+Réalisation d'un investissement minimal de 122 000 €, et 
 
 Soit création d'au moins 30 emplois se traduisant par un accroissement net d'au moins 25 % du nombre des emplois ; 
 
@@ -32894,7 +32915,7 @@ Soit création d'au moins 120 emplois ;
 
 2° Dans les communes situées dans une unité urbaine d'au moins 15 000 habitants et de moins de 50 000 habitants : 
 
-Réalisation d'un investissement minimal de 76 000 euros, et 
+Réalisation d'un investissement minimal de 76 000 €, et 
 
 Soit création d'au moins 15 emplois se traduisant par un accroissement net d'au moins 20 % du nombre des emplois ; 
 
@@ -32904,7 +32925,7 @@ Soit création d'au moins 120 emplois ;
 
 3° Dans les autres communes : 
 
-Réalisation d'un investissement minimal de 46 000 euros, et 
+Réalisation d'un investissement minimal de 46 000 €, et 
 
 Soit création d'au moins 6 emplois se traduisant par un accroissement net d'au moins 20 % du nombre des emplois ; 
 
@@ -32916,7 +32937,7 @@ b. Dans les autres zones où s'applique l'exonération temporaire :
 
 1° Dans les communes situées dans une unité urbaine d'au moins 15 000 habitants : 
 
-Réalisation d'un investissement minimal de 122 000 euros, et : 
+Réalisation d'un investissement minimal de 122 000 €, et : 
 
 Soit création d'au moins 30 emplois se traduisant par un accroissement net d'au moins 25 % du nombre des emplois ; 
 
@@ -32924,7 +32945,7 @@ Soit création d'au moins 120 emplois ;
 
 2° Dans les autres communes : 
 
-Réalisation d'un investissement minimal de 46 000 euros, et : 
+Réalisation d'un investissement minimal de 46 000 €, et : 
 
 Soit création d'au moins 10 emplois se traduisant par un accroissement net d'au moins 25 % du nombre des emplois ; 
 
@@ -32932,13 +32953,13 @@ Soit création d'au moins 50 emplois se traduisant par un accroissement net d'au
 
 Soit création d'au moins 120 emplois. 
 
-IV. En cas de création ou de décentralisation d'un établissement de recherche scientifique ou technique : 
+IV. En cas de création d'un établissement de recherche scientifique ou technique : 
 
-Réalisation d'un investissement minimal de 15 000 euros et création d'au moins 10 emplois.
+Réalisation d'un investissement minimal de 15 000 € et création d'au moins 10 emplois.
 
 V. En cas d'extension d'un établissement de recherche scientifique ou technique : 
 
-Réalisation d'un investissement minimal de 15 000 euros, et : 
+Réalisation d'un investissement minimal de 15 000 €, et : 
 
 Soit création d'au moins 10 emplois se traduisant par une augmentation d'au moins 25 % du nombre des emplois ; 
 
@@ -32948,7 +32969,7 @@ Soit création d'au moins 50 emplois.
 
 	**Modifié par**:
 
-	  - Décret n°2008-1101 du 28 octobre 2008 - art. 1
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -33027,23 +33048,23 @@ supérieure.
 
 La réalisation des conditions prévues à l'article 322 G s'apprécie au 31 décembre de la première année au cours de laquelle
 l'entreprise a procédé à l'une des opérations mentionnées à cet article. Toutefois, lorsque la période de référence servant à
-la détermination des bases de taxe professionnelle correspondantes ne coïncide pas avec l'année civile, la réalisation de ces
-conditions s'apprécie, en ce qui concerne les investissements, à la date de clôture de l'exercice retenu comme période de
-référence.
+la détermination des bases de cotisation foncière des entreprises correspondantes ne coïncide pas avec l'année civile, la
+réalisation de ces conditions s'apprécie, en ce qui concerne les investissements, à la date de clôture de l'exercice retenu
+comme période de référence.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 322 G
-
-	**Créé par**:
-
-	  - Décret n°80-922 du 21 novembre 1980 - art. 4 (V) JORF 23 novembre 1980
-
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°81-866 du 15 septembre 1981
+
+	**Modifié par**:
+
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 G
 
 	**Cité par**:
 
@@ -33053,26 +33074,26 @@ référence.
 ###### Article 322 K
 
 Lorsque, aux dates fixées à l'article 322 J, l'entreprise ne remplit pas les conditions requises, elle peut néanmoins
-demander à bénéficier provisoirement de l'exonération temporaire de taxe professionnelle. A l'appui de cette demande, elle
-doit indiquer les réalisations déjà effectuées et exposer les conditions dans lesquelles elle compte atteindre les seuils
-réglementaires. L'exonération ne sera définitivement acquise que si l'entreprise justifie au 31 décembre de la troisième
-année de l'opération qu'elle remplit désormais les conditions exigées pour en bénéficier. Lorsque l'exercice ne coïncide pas
-avec l'année civile, cette date est remplacée, pour les seules immobilisations par celle de l'expiration de l'exercice de
-douze mois clos au cours de cette troisième année. Cette échéance ne peut en aucun cas être reportée.
+demander à bénéficier provisoirement de l'exonération temporaire de cotisation foncière des entreprises. A l'appui de cette
+demande, elle doit indiquer les réalisations déjà effectuées et exposer les conditions dans lesquelles elle compte atteindre
+les seuils réglementaires. L'exonération ne sera définitivement acquise que si l'entreprise justifie au 31 décembre de la
+troisième année de l'opération qu'elle remplit désormais les conditions exigées pour en bénéficier. Lorsque l'exercice ne
+coïncide pas avec l'année civile, cette date est remplacée, pour les seules immobilisations par celle de l'expiration de
+l'exercice de douze mois clos au cours de cette troisième année. Cette échéance ne peut en aucun cas être reportée.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 322 J
-
-	**Créé par**:
-
-	  - Décret n°80-922 du 21 novembre 1980 - art. 5 (V) JORF 23 novembre 1980
-
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°81-866 du 15 septembre 1981
+
+	**Modifié par**:
+
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 322 J
 
 
 ###### Article 322 L
@@ -33097,61 +33118,29 @@ seuils fixés à l'article 322 G, l'exonération cesse de s'appliquer à compter
 
 ###### Article 322 N
 
-Pour les opérations susceptibles d'être exonérées à compter du 1er janvier 1998 ou ultérieurement, la demande d'exonération
-de taxe professionnelle doit être formulée dans les conditions prévues à l'article 1477 du code général des impôts.
+La demande d'exonération de cotisation foncière des entreprises doit être formulée dans les conditions prévues à l'article
+1477 du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+
 	**Cite**:
 
-	  - CGI 1477
-
-	**Créé par**:
-
-	  - Décret n°97-94 du 29 janvier 1997 - art. 2 () JORF 5 février 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Code général des impôts, CGI. - art. 1477
 
 
 ###### Article 322 O
 
 Lorsque, dans une même commune, une entreprise exploite plusieurs établissements situés dans et hors de la zone franche
-urbaine ou de la zone de redynamisation urbaine, elle doit déclarer séparément les éléments passibles de la taxe
-professionnelle pour chacun des établissements qui sont situés dans la zone.
+urbaine ou de la zone de redynamisation urbaine, elle doit déclarer séparément les éléments passibles de la cotisation
+foncière des entreprises pour chacun des établissements qui sont situés dans la zone.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-94 du 29 janvier 1997 - art. 2 () JORF 5 février 1997
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-
-
-###### Article 322 P
-
-Lorsque les neuvième, dixième et onzième alinéas du I quater de l'article 1466 A du code général des impôts trouvent à
-s'appliquer, l'entreprise doit déclarer les éléments transférés exclus de l'exonération.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1466 A
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
-
-	**Abrogé par**:
 
 	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
@@ -33194,87 +33183,34 @@ Les activités éligibles aux dispositions du 3° du III de l'article 1466 F du 
 
 ###### Article 323
 
-Pour l'assiette de la taxe professionnelle due par les entreprises hydrauliques concédées ou d'une puissance supérieure à 500
-kilowatts la valeur locative de la force motrice des chutes d'eau et de leurs aménagements utilisés par ces entreprises est
-répartie entre les communes sur le territoire desquelles sont situés les ouvrages définitifs de génie civil et celles sur le
-territoire desquelles coulent les cours d'eau utilisés  dans les conditions fixées par les articles 316 à 321 B.
+Pour l'assiette de la cotisation foncière des entreprises due par les entreprises hydrauliques concédées ou d'une puissance
+supérieure à 500 kilowatts la valeur locative de la force motrice des chutes d'eau et de leurs aménagements utilisés par ces
+entreprises est répartie entre les communes sur le territoire desquelles sont situés les ouvrages définitifs de génie civil
+et celles sur le territoire desquelles coulent les cours d'eau utilisés dans les conditions fixées par les articles 316 à 321
+B.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 316 A CGIAN3 321 B
-
-	**Modifié par**:
-
-	  - Loi n°85-1404 du 30 décembre 1985 - art. 16 () JORF 31 décembre 1985
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°86-1086 du 7 octobre 1986
 
-
-##### III : Crédit de taxe en faveur des entreprises implantées dans des zones d'emploi en grande difficulté
-
-###### Article 324
-
-Pour la détermination des vingt zones d'emploi reconnues en grande difficulté mentionnées au 1° du II de l'article 1647 C
-sexies :
-
-1° Le taux de chômage est apprécié au 30 septembre de l'année précédant celle de l'application du crédit d'impôt ;
-
-2° Le taux d'emploi salarié industriel retenu au 30 septembre de l'année précédant celle de l'application du crédit d'impôt
-est celui prévalant au 31 décembre de la troisième année précédant l'année d'application du crédit d'impôt ;
-
-3° L'indice d'évolution de l'emploi salarié sur une durée de quatre ans retenu au 30 septembre de l'année précédant celle de
-l'application du crédit d'impôt est constitué par le rapport entre, au numérateur, le nombre total des emplois salariés
-estimé au 31 décembre de la troisième année précédant celle de l'application du crédit d'impôt et, au dénominateur, le nombre
-total des emplois salariés estimé au 31 décembre de la septième année précédant celle de l'application du crédit d'impôt.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1647 C sexies
-
-	**Créé par**:
-
-	  - Décret n°2005-488 du 18 mai 2005 - art. 1 () JORF 19 mai 2005
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-
-##### IV : Valeur locative des biens cédés entre entreprises liées
-
-###### Article 324-0 A
-
-Les conditions d'exercice du contrôle prévu au 3° quater de l'article 1469 du code général des impôts doivent être remplies à
-un moment quelconque au cours des six mois qui précèdent ou suivent la cession du bien.
-
-**Liens relatifs à cet article**
-
 	**Cite**:
 
-	  - CGI 1469
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 316
 
-	**Créé par**:
 
-	  - Décret n°2006-476 du 25 avril 2006 - art. 1 () JORF 27 avril 2006
+##### Section III : Cotisation foncière des entreprises
 
-	**Abrogé par**:
+##### I : Exonération des gîtes ruraux.
 
-	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+##### I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire.
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
+##### II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts
 
 ##### Section III bis : Règles d'évaluation de la valeur locative des biens imposables
 
@@ -36594,25 +36530,22 @@ Modification effectuée en conséquence de l'article 87 [1°] du décret n° 201
 ###### Article 331
 
 Les justifications prévues à l'article 330 sont fournies au service des impôts dans la circonscription duquel sont situés les
-établissements boutiques ou magasins à raison desquels les intéressés sont passibles de la taxe professionnelle. 
+établissements boutiques ou magasins à raison desquels les intéressés sont passibles de la cotisation foncière des
+entreprises. 
 
 La justification de l'inscription au répertoire des métiers est constituée par la production d'une copie sur papier libre
 certifiée conforme par le maire ou par le commissaire de police du récépissé de la demande d'immatriculation visé à l'article
 10 de l'arrêté du 30 août 1983 relatif à l'organisation et à la tenue du répertoire des métiers. 
 
-La justification de la non-inscription sur la liste électorale de la      chambre de commerce et d'industrie territoriale
-consiste en une attestation délivrée par le greffe du tribunal de commerce.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 87 [1°] du décret n° 2010-1463 du 1er décembre 2010.
+La justification de la non-inscription sur la liste électorale de la chambre de commerce et d'industrie territoriale consiste
+en une attestation délivrée par le greffe du tribunal de commerce.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté 1983-08-30 art. 10
-	  - CGIAN3 330
+	  - Arrêté du 30 août 1983 (V)
+	  - Code général des impôts, CGI. - art. 330 (V)
 
 	**Codifié par**:
 
@@ -36620,7 +36553,7 @@ Modification effectuée en conséquence de l'article 87 [1°] du décret n° 201
 
 	**Modifié par**:
 
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 
 ##### Section II : Contribution additionnelle à l'imposition forfaitaire sur les entreprises de réseaux applicable aux stations radioélectriques
@@ -38703,10 +38636,10 @@ ou personnes morales qui sont dans le champ d'application de l'article 209 B du 
 déclarations et documents se rapportant aux taxes, contributions et redevances assises et contrôlées comme en matière de taxe
 sur la valeur ajoutée ; 
 
-5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité,161 de
+5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité, 161 de
 l'annexe II et 369 de l'annexe III au même code ; 
 
-6° A la déclaration de cotisation minimale de taxe professionnelle prévue au IV de l'article 1647 E du même code ; 
+6° A la déclaration prévue au II de l'article 1586 octies du même code ; 
 
 7° A la déclaration des sociétés immobilières mentionnée aux articles 172 bis du même code et 46 C ; 
 
@@ -38735,7 +38668,7 @@ terdecies.
 
 	**Modifié par**:
 
-	  - Décret n°2008-591 du 23 juin 2008 - art. 2
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 	**Cite**:
 
@@ -38746,7 +38679,7 @@ terdecies.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 369
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C
 	  - Code général des impôts, CGI. - art. 1010
-	  - Code général des impôts, CGI. - art. 1647 E
+	  - Code général des impôts, CGI. - art. 1586 octies
 	  - Code général des impôts, CGI. - art. 172
 	  - Code général des impôts, CGI. - art. 172 bis
 	  - Code général des impôts, CGI. - art. 209 B
@@ -39158,24 +39091,18 @@ pendant la ou les périodes indiquées, quel que soit le mode de règlement de c
 
 La date mentionnée dans le code général des impôts à la troisième phrase du premier alinéa de l'article 175, au deuxième
 alinéa du 1 de l'article 223, à la première et à la cinquième phrases du 1° du I de l'article 298 bis, au septième alinéa de
-l'article 302 bis KD, au I de l'article 1477, au b du 2° du II de l'article 1635 sexies, au IV de l'article 1647 E et à la
-première phrase du troisième alinéa de l'article 1679 septies est fixée au deuxième jour ouvré suivant le premier mai.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 2-2.1.5. de la loi n° 2009-1673 du 30 décembre 2009.
+l'article 302 bis KD, au I de l'article 1477 et à la première phrase du troisième alinéa de l'article 1679 septies est fixée
+au deuxième jour ouvré suivant le premier mai.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1609 septvicies
-	  - Code général des impôts, CGI. - art. 1635 sexies
-	  - Code général des impôts, CGI. - art. 1647 E
+	  - Code général des impôts, CGI. - art. 1477 (V)
 	  - Code général des impôts, CGI. - art. 1679 septies
 	  - Code général des impôts, CGI. - art. 175
 	  - Code général des impôts, CGI. - art. 223
@@ -39471,15 +39398,14 @@ institué par l'article 9 du décret n° 82-379 du 6 mai 1982.
 
 ###### Article 344 L
 
-I. L'agrément prévu au VI de l'article 44 decies du code général des impôts ainsi que celui prévu au 1° du III de l'article
-1466 B du même code sont accordés par le ministre chargé du budget. 
+I. L'agrément prévu au VI de l'article 44 decies du code général des impôts est accordé par le ministre chargé du budget. 
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à un modèle fixé par l'administration, sont
 adressées au ministre chargé du budget (services centraux de la direction générale des finances publiques) et comportent
 notamment les renseignements et documents permettant d'apprécier l'état de difficulté de l'entreprise concernée. 
 
-II. L'agrément prévu au a du I de l'article 44 decies du code général des impôts ainsi que celui prévu au b du 2° du I de
-l'article 1466 B du même code sont accordés par le ministre chargé du budget. 
+II. L'agrément prévu au a du I de l'article 44 decies du code général des impôts est accordé par le ministre chargé du
+budget. 
 
 Les demandes, établies en quatre exemplaires, sur papier libre, conformément à un modèle fixé par l'administration, sont
 adressées au directeur départemental ou, le cas échéant, régional des finances publiques du département de Corse où est
@@ -39497,7 +39423,6 @@ le ministre chargé du budget l'invite à les produire.
 	**Cite**:
 
 	  - CEE Règlement 2078/92 1992-06-30 Conseil art. 1
-	  - CEE Règlement 746/96 1996-04-25 Commission
 	  - Code général des impôts, CGI. - art. 1466 B
 	  - Code général des impôts, CGI. - art. 44 decies
 
@@ -39507,7 +39432,11 @@ le ministre chargé du budget l'invite à les produire.
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 15
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+
+	**Liens**:
+
+	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
 
 
 #### Chapitre V : Fiducie
@@ -42892,9 +42821,9 @@ chargé des grandes entreprises mentionné au premier alinéa de l'article 344-0
 
 II.-Les dispositions du I s'appliquent à l'impôt sur les sociétés, à l'imposition forfaitaire annuelle des sociétés, à la
 contribution sur les revenus locatifs, à la contribution sociale sur l'impôt sur les sociétés prévues respectivement aux
-articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la taxe professionnelle, à la cotisation
-foncière des entreprises et à la cotisation sur la valeur ajoutée des entreprises de même qu'aux taxes additionnelles et
-annexes à cette taxe ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
+articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la cotisation foncière des entreprises et à la
+cotisation sur la valeur ajoutée des entreprises de même qu'aux taxes additionnelles et annexes à cette cotisation ainsi
+qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
 leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique à l'ensemble des impositions
@@ -42920,7 +42849,7 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 	**Modifié par**:
 
-	  - Décret n°2011-1303 du 14 octobre 2011 - art. 10
+	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
 
 	**Cite**:
 
