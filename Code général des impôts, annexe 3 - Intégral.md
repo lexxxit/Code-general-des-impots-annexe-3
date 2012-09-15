@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-09-06
+Version Consolidée au 2012-09-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -32829,7 +32829,7 @@ poursuivent leurs études ;
 	  - TXT_ASSOCIE: Instruction 2003-03-06 6D-2-03
 
 
-##### Section III : Taxe professionnelle
+##### Section III : Cotisation foncière des entreprises
 
 ##### I : Exonération des gîtes ruraux.
 
@@ -33203,14 +33203,6 @@ B.
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 316
 
-
-##### Section III : Cotisation foncière des entreprises
-
-##### I : Exonération des gîtes ruraux.
-
-##### I bis : Exonération temporaire accordée dans le cadre de l'aménagement du territoire.
-
-##### II : Lieu d'imposition des entreprises hydrauliques concédées ou d'une puissance supérieure à 500 kilowatts
 
 ##### Section III bis : Règles d'évaluation de la valeur locative des biens imposables
 
@@ -38924,6 +38916,136 @@ normalisés, dont les caractéristiques et le modèle sont fixés par l'administ
 	**Modifié par**:
 
 	  - Décret n°2007-484 du 30 mars 2007 - art. 4 () JORF 31 mars 2007
+
+
+##### 0I ter : Obligations déclaratives des administrateurs de trusts
+
+###### Article 344 G octies
+
+Pour l'application de l'article 1649 AB du code général des impôts, le domicile fiscal est apprécié au 1er janvier de chaque
+année.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1050 du 14 septembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 AB
+
+
+###### Article 344 G septies
+
+L'administrateur d'un trust défini à l'article 792-0 bis du code général des impôts dépose au service des impôts des
+entreprises étrangères, au plus tard le 15 juin de chaque année, la déclaration mentionnée au deuxième alinéa de l'article
+1649 AB du même code. 
+
+Cette déclaration est établie sur papier libre et comporte les indications suivantes : 
+
+1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
+et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
+
+2° L'identification du ou des bénéficiaires : nom et prénom ou raison sociale, adresse et, le cas échéant, date et lieu de
+naissance et, s'il y a lieu, de décès ; 
+
+3° L'identification de l'administrateur du trust : nom et prénom ou dénomination sociale et adresse ; 
+
+4° L'identification du trust : dénomination et adresse ; 
+
+5° Le contenu des termes du trust : contenu de l'acte de trust et des éventuelles stipulations complémentaires régissant son
+fonctionnement, notamment l'indication de sa révocabilité ou de son irrévocabilité, de son caractère discrétionnaire ou non
+et des règles régissant l'attribution des biens ou droits mis en trust ainsi que de leurs produits ; 
+
+6° Si l'un au moins des constituants, bénéficiaires réputés constituants ou bénéficiaires a son domicile fiscal en France,
+l'inventaire détaillé des biens, droits et produits capitalisés, situés en France ou hors de France et placés dans le trust
+ainsi que leur valeur vénale au 1er janvier de l'année ; 
+
+7° Si aucun des constituants, bénéficiaires réputés constituants ou bénéficiaires n'a son domicile fiscal en France,
+l'inventaire détaillé des biens, droits et produits capitalisés, situés en France et placés dans le trust ainsi que leur
+valeur vénale au 1er janvier de l'année, à l'exclusion des placements financiers au sens de l'article 885 L du code précité. 
+
+L'administrateur du trust est dispensé d'indiquer les informations mentionnées au 5° si la déclaration prévue au premier
+alinéa de l'article 1649 AB du code précité a été précédemment déposée. 
+
+La déclaration mentionnée au premier alinéa est accompagnée, le cas échéant, du paiement du montant correspondant au
+prélèvement prévu à l'article 990 J du code précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1050 du 14 septembre 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2012-1050 du 14 septembre 2012 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 AB
+	  - Code général des impôts, CGI. - art. 792-0 bis
+	  - Code général des impôts, CGI. - art. 885 L
+	  - Code général des impôts, CGI. - art. 990 J
+
+
+###### Article 344 G sexies
+
+La déclaration mentionnée au premier alinéa de l'article 1649 AB du code général des impôts est déposée au service des impôts
+des entreprises étrangères dans le mois qui suit la constitution, la modification ou l'extinction d'un trust défini à
+l'article 792-0 bis du même code. 
+
+Cette déclaration est établie sur papier libre et comporte les indications suivantes : 
+
+1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
+et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
+
+2° L'identification du ou des bénéficiaires : nom et prénom ou raison sociale, adresse et, le cas échéant, date et lieu de
+naissance et, s'il y a lieu, de décès ; 
+
+3° L'identification de l'administrateur du trust : nom et prénom ou dénomination sociale et adresse ; 
+
+4° L'identification du trust : dénomination et adresse ; 
+
+5° Le contenu des termes du trust : contenu de l'acte de trust et des éventuelles stipulations complémentaires régissant son
+fonctionnement, notamment l'indication de sa révocabilité ou de son irrévocabilité, de son caractère discrétionnaire ou non
+et des règles régissant l'attribution des biens ou droits mis en trust ainsi que de leurs produits ; 
+
+6° La nature et la date de survenance de l'événement qui a généré l'obligation déclarative ; 
+
+7° Le cas échéant, la consistance, appréciée au jour de l'événement mentionné au 6°, des biens ou droits mis en trust, et
+celle des biens, droits ou produits transmis, attribués ou sortis du trust du fait de cet événement ; 
+
+8° Pour chaque bien ou droit mis en trust mentionné dans la déclaration conformément au 7°, les nom et prénom ou raison
+sociale, l'adresse et, le cas échéant, les date et lieu de naissance et, s'il y a lieu, de décès, des personnes les mettant
+en trust ; 
+
+9° Pour chaque bien, droit ou produit transmis, attribué ou sorti du trust mentionné dans la déclaration conformément au 7°,
+les nom et prénom ou la raison sociale, l'adresse et, le cas échéant, les date et lieu de naissance des personnes auxquelles
+ce bien, droit ou produit est transmis, attribué ou sorti du trust concerné. 
+
+Pour l'application du présent article, on entend par modification du trust tout changement dans ses termes, mode de
+fonctionnement, constituant, bénéficiaire réputé constituant, bénéficiaire, administrateur, tout décès de l'un d'entre eux,
+toute nouvelle mise en trust ou toute sortie du trust de biens ou droits, toute transmission ou attribution de biens, droits
+ou produits du trust et, plus généralement, toute modification de droit ou de fait susceptible d'affecter l'économie ou le
+fonctionnement du trust concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1050 du 14 septembre 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2012-1050 du 14 septembre 2012 - art. 2 (V)
+	  - Arrêté du 16 avril 2014 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 AB
+	  - Code général des impôts, CGI. - art. 792-0 bis
 
 
 ##### I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes
