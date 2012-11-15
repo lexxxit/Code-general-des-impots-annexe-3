@@ -15,7 +15,8 @@ diminuées, lors de chaque cession, d'une somme égale aux amortissements calcul
 du résultat d'ensemble depuis la précédente cession.
 
 2. Comprendre dans le résultat ou plus-value ou moins-value nette à long terme d'ensemble de l'exercice de cession hors du
-groupe d'une immobilisation la plus-value ou la moins-value calculée par différence entre :
+groupe d'une immobilisation, autre que la cession de titres d'une société du groupe, la plus-value ou la moins-value calculée
+par différence entre :
 
 D'une part, le prix de vente de l'élément cédé ;
 
@@ -29,10 +30,21 @@ l'article 39 B du code général des impôts.
 
 En cas de moins-value, celle-ci est diminuée des mêmes amortissements différés.
 
-III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
-immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette
-immobilisation ou lors de l'apport d'une immobilisation amortissable entre sociétés du groupe lorsque cet apport bénéficie
-des dispositions de l'article 210 A du code général des impôts.
+3. Comprendre dans le résultat ou la plus-value ou moins-value nette à long terme d'ensemble de l'exercice de cession le
+montant cumulé des plus-values ou des moins-values de cession de titres qui n'ont pas été retenues pour le calcul du résultat
+ou de la plus-value ou moins-value nette à long terme d'ensemble en application de l'article 223 F lorsque :
+
+a) La cession est réalisée par une société du groupe à une société autre qu'une société du groupe ou autre qu'une société
+intermédiaire et porte sur des titres d'une autre société du groupe ;
+
+b) La cession est réalisée par une société intermédiaire à une société autre qu'une société du groupe ou autre qu'une société
+intermédiaire et porte sur des titres d'une société qui demeure dans le groupe et qui ont été préalablement acquis auprès
+d'une société du groupe. 
+
+III. 1. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
+immobilisation autre que les titres d'une société du groupe à une autre société du groupe ou lors de la sortie du groupe de
+la société qui est propriétaire de cette immobilisation ou lors de l'apport d'une immobilisation amortissable entre sociétés
+du groupe lorsque cet apport bénéficie des dispositions de l'article 210 A du code général des impôts.
 
 Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
 
@@ -40,16 +52,23 @@ Pour une immobilisation amortissable, sa valeur nette comptable dans les écritu
 
 Pour une immobilisation non amortissable, son prix d'acquisition par la société qui en est propriétaire.
 
+2. Les dispositions du 3 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé des titres
+d'une société du groupe à une autre société du groupe ou à une société intermédiaire ou lors de la sortie du groupe de la
+société qui est propriétaire de ces titres, ou lors de la sortie du groupe d'une société dont les titres ont fait l'objet
+d'une cession à une société intermédiaire.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 F, 39 B, 210 A
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 210 A
+	  - Code général des impôts, CGI. - art. 223 F
+	  - Code général des impôts, CGI. - art. 39 B

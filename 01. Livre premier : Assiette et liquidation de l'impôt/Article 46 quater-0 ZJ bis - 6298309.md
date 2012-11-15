@@ -3,8 +3,8 @@
 1. Pour l'application des dispositions du 5 de l'article 223 I du code général des impôts, la fraction du déficit
 correspondant à celui des sociétés membres du groupe ayant cessé ou des sociétés apportées et faisant partie du nouveau
 groupe et pour lesquelles le bénéfice de ces dispositions est demandé est calculée par application au déficit restant à
-reporter après, le cas échéant, les réintégrations mentionnées aux c, d, e ou f du 6 de l'article 223 L du code général des
-impôts, du rapport existant, pour chaque exercice, entre la somme des déficits pris en compte pour la détermination du
+reporter après, le cas échéant, les réintégrations mentionnées aux c, d, e, f ou i du 6 de l'article 223 L du code général
+des impôts, du rapport existant, pour chaque exercice, entre la somme des déficits pris en compte pour la détermination du
 résultat d'ensemble au titre de ces sociétés et la somme des déficits de même nature pris en compte pour l'ensemble des
 sociétés du groupe. Cette fraction ne peut excéder le montant dont le transfert a été admis, le cas échéant, dans le cadre
 d'une décision d'agrément prise en application du II de l'article 209 du même code. 
@@ -17,12 +17,12 @@ qui peut être imputée dans les conditions prévues au 5 de l'article 223 I de 
 exercice, selon les modalités précisées au premier alinéa. 
 
 La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de l'article 223 I du code général des impôts est
-demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e ou g du 6 de l'article 223 L
-de ce code concernant l'identité des sociétés membres du nouveau groupe. 
+demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e, g ou i  du 6 de l'article 223
+L de ce code concernant l'identité des sociétés membres du nouveau groupe. 
 
 2. Pour l'application du troisième alinéa de l'article 223 R du code général des impôts : 
 
-a) La partie du déficit qui ne peut plus être imputée si la société qui y est mentionnée sort du groupe est calculée en
+a) La partie du déficit qui ne peut plus être imputée lorsqu'une société  qui y est mentionnée sort du groupe est calculée en
 considérant que les déficits déjà imputés correspondent à ceux de cette société ; 
 
 b) La somme ainsi calculée est imputée sur le déficit encore reportable subi au titre de l'exercice le plus ancien ; 
@@ -40,7 +40,7 @@ d'ensemble de l'exercice, auquel s'ajoute le montant qu'elle aurait pu imputer s
 de l'exercice précédent ; 
 
 b Dans le cas où le résultat d'ensemble du groupe est nul, une proportion des déficits d'ensemble reportables égale à celle
-qu'elle aurait obtenue en sortant du groupe au cours de l'exercice précédent. 
+qu'elle aurait obtenue en sortant du groupe au cours de l'exercice précédent.
 
 Le montant déterminé conformément au a ou au b est réduit dans le rapport entre la fraction du déficit d'ensemble susceptible
 d'être imputé dans les conditions prévues à l'article 223 G du code général des impôts et le montant global du déficit
@@ -54,13 +54,13 @@ déterminée selon les mêmes modalités.
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 209 (V)
-	  - Code général des impôts, CGI. - art. 223 E (V)
-	  - Code général des impôts, CGI. - art. 223 G (V)
-	  - Code général des impôts, CGI. - art. 223 I (V)
-	  - Code général des impôts, CGI. - art. 223 L (VT)
-	  - Code général des impôts, CGI. - art. 223 R (V)
+	  - Code général des impôts, CGI. - art. 209
+	  - Code général des impôts, CGI. - art. 223 E
+	  - Code général des impôts, CGI. - art. 223 G
+	  - Code général des impôts, CGI. - art. 223 I
+	  - Code général des impôts, CGI. - art. 223 L
+	  - Code général des impôts, CGI. - art. 223 R

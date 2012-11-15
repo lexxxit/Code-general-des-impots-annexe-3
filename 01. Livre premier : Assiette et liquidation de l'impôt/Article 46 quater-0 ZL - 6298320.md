@@ -7,6 +7,27 @@ la détermination et au contrôle de ce résultat. La société mère doit joind
 membres du groupe, à compter du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le
 montant de ces subventions ou abandons. 
 
+1 bis. Un état des plus-values ou moins-values de cession d'actifs immobilisés non retenues pour le calcul du résultat ou de
+la plus ou moins-value nette à long terme d'ensemble en application de l'article 223 F du code général des impôts, indiquant,
+pour chaque immobilisation concernée : 
+
+a) La nature du bien ; 
+
+b) L'identité de son propriétaire (dénomination, adresse, le cas échéant numéro d'identité tel que défini au premier alinéa
+de l'article R. 123-221 du code de commerce) à la clôture de l'exercice ; 
+
+c) Le cas échéant, l'identité de ses propriétaires successifs au cours de l'exercice ; 
+
+d) La valeur d'origine du bien à l'actif de la société du groupe qui a réalisé la première cession ; 
+
+e) Le montant des amortissements cumulés effectivement déduits pour l'assiette de l'impôt pendant la période d'utilisation du
+bien par les sociétés du groupe ; 
+
+f) Le montant des suppléments d'amortissements calculés selon les modalités du 1 du II de l'article 46 quater 0-ZH ; 
+
+g) Le montant cumulé des plus-values ou moins-values qui n'ont pas été retenues pour le calcul du résultat ou de la plus-
+value ou moins-value nette à long terme d'ensemble en application de l'article 223 F précité. 
+
 2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au a de l'article 46 quater-0 ZK ; 
 
 3. Un tableau de synthèse de ces rectifications ; 
@@ -16,7 +37,7 @@ montant de ces subventions ou abandons.
 5. Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme
 d'ensemble et les crédits d'impôt susceptibles d'être utilisés par la société mère. 
 
-6. Dans les situations visées aux c, d, e, f ou g du 6 de l'article 223 L du code général des impôts, des états faisant
+6. Dans les situations visées aux c, d, e, f, g ou i du 6 de l'article 223 L du code général des impôts, des états faisant
 apparaître : 
 
 a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé ou des sociétés
@@ -35,14 +56,19 @@ alinéa de l'article 223 E du code général des impôts revenant à chacune d'e
 
 7. (Périmé) 
 
-8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A et 44 decies du
-code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à
-long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A et du neuvième
-alinéa du I de l'article 44 decies du code général des impôts. 
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 decies, 44
+duodecies et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du
+bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de
+l'article 44 octies A, du huitième alinéa du I de l'article 44 decies, du III de l'article 44 duodecies et du III de
+l'article 44 terdecies du code général des impôts. 
 
 9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts
 déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même
 article. 
+
+10. Un état des rectifications prévues aux deuxième, troisième, quatrième, septième et dix-huitième alinéas de l'article 223
+B et à l'article 223 D du code général des impôts qui sont afférentes à des sociétés du groupe détenues par l'intermédiaire
+d'une société intermédiaire. 
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
@@ -50,17 +76,23 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2009-811 du 30 juin 2009 - art. 1
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
-	  - Code général des impôts, CGI. - art. 223 B (V)
-	  - Code général des impôts, CGI. - art. 223 E (V)
-	  - Code général des impôts, CGI. - art. 223 I (V)
-	  - Code général des impôts, CGI. - art. 223 L (VT)
-	  - Code général des impôts, CGI. - art. 223 Q (V)
-	  - Code général des impôts, CGI. - art. 223 R (V)
-	  - Code général des impôts, CGI. - art. 44 decies (V)
-	  - Code général des impôts, CGI. - art. 44 octies (V)
-	  - Code général des impôts, CGI. - art. 44 octies A (V)
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK
+	  - Code général des impôts, CGI. - art. 223 B
+	  - Code général des impôts, CGI. - art. 223 D
+	  - Code général des impôts, CGI. - art. 223 E
+	  - Code général des impôts, CGI. - art. 223 F
+	  - Code général des impôts, CGI. - art. 223 I
+	  - Code général des impôts, CGI. - art. 223 L
+	  - Code général des impôts, CGI. - art. 223 Q
+	  - Code général des impôts, CGI. - art. 223 R
+	  - Code général des impôts, CGI. - art. 44 decies
+	  - Code général des impôts, CGI. - art. 44 duodecies
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 octies A
+	  - Code général des impôts, CGI. - art. 44 terdecies

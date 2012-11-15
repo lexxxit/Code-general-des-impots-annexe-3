@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-09-24
+Version Consolidée au 2012-11-16
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15610,13 +15610,24 @@ La société mère adresse à ce même service :
 
 1. Lors de la notification de l'option : 
 
-a) la liste des personnes morales qui seront membres du groupe. Cette liste indique, pour chaque société mentionnée au b, sa
-désignation, l'adresse de son siège social et la répartition de son capital et, pour chaque autre personne morale, sa
-désignation, l'adresse de son siège social et la nature du lien qui l'unit à l'entité tête du groupe formé en application du
-deuxième ou troisième alinéa de l'article 223 A du code général des impôts ; 
+a) la liste des personnes morales et des établissements stables  qui seront membres du groupe. Cette liste indique, pour
+chaque société mentionnée au b, sa désignation, l'adresse de son siège social et la répartition de son capital et, pour
+chaque autre personne morale, sa désignation, l'adresse de son siège social et, le cas échéant, celle de son établissement
+stable, et la nature du lien qui l'unit à l'entité tête du groupe formé en application du deuxième ou troisième alinéa de
+l'article 223 A du code général des impôts ; 
+
+a bis) La liste des personnes morales et des établissements stables qui seront qualifiés de sociétés intermédiaires. Cette
+liste indique, pour chaque société mentionnée au b bis, sa désignation, l'adresse de son siège social, l'impôt étranger
+équivalent à l'impôt sur les sociétés auquel elle est soumise et la répartition de son capital et, pour chaque autre personne
+morale, sa désignation, l'adresse de son siège social et, le cas échéant, celle de son établissement stable, l'impôt étranger
+équivalent à l'impôt sur les sociétés auquel elle ou son établissement stable est soumis et la nature du lien qui l'unit à
+l'entité tête du groupe formé en application du deuxième ou troisième alinéa de l'article 223 A du code général des impôts ; 
 
 b) Des attestations par lesquelles les sociétés filiales font connaître leur accord pour que la société mère retienne leurs
-propres résultats pour la détermination du résultat d'ensemble. 
+propres résultats pour la détermination du résultat d'ensemble ;
+
+b bis) Des attestations par lesquelles les sociétés filiales font connaître leur accord pour qu'elles soient qualifiées de
+sociétés intermédiaires ; 
 
 c) Le cas échéant, le document visé au premier alinéa du c du 6 de l'article 223 L du code général des impôts ou au deuxième
 alinéa du g du 6 du même article, qui comporte la liste et les attestations précédemment mentionnées. 
@@ -15624,10 +15635,17 @@ alinéa du g du 6 du même article, qui comporte la liste et les attestations pr
 2. Au plus tard à l'expiration du délai de dépôt de la déclaration de résultat de chacun des exercices arrêtés au cours de la
 période de validité de l'option : 
 
-a) La liste mentionnée au a du 1, mise à jour pour l'exercice suivant ; 
+a) La liste des sociétés qui seront membres du groupe défini à l'article 223 A du code général des impôts, au titre de
+l'exercice suivant ;
 
-b) Les attestations mentionnées au b du 1 produites par les sociétés qui seront membres du groupe à compter de cet
-exercice ; 
+a bis) La liste des sociétés intermédiaires définies à l'article 223 A du code général des impôts ainsi que des sociétés qui
+cessent d'être qualifiées de sociétés intermédiaires au titre de l'exercice suivant ;  
+
+b) Les attestations mentionnées au b du 1 produites par les sociétés qui seront membres du groupe à compter de cet exercice
+suivant ; 
+
+b bis) Les attestations mentionnées au b bis du 1 produites par les sociétés qui seront qualifiées de sociétés intermédiaires
+à compter de cet exercice suivant ; 
 
 c) le cas échéant, l'extrait de l'annexe comptable comportant les informations suivantes sur les comptes combinés : nom de
 l'entreprise combinante, liste des entreprises du périmètre de combinaison et description de la nature des liens qui
@@ -15636,6 +15654,10 @@ motifs qui justifient la non-combinaison de certaines entreprises ;
 
 d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité de contrôle prudentiel pour elle-même et pour
 les caisses locales qui la détiennent.
+
+2 bis. Dans les trois mois de l'acquisition des titres d'une société du groupe ou d'une autre société intermédiaire,
+l'attestation mentionnée au b bis du 1 produite par la société qui sera qualifiée de société intermédiaire à compter de
+l'exercice au cours duquel est intervenue cette acquisition. 
 
 3. En même temps que la déclaration du résultat d'ensemble de l'exercice au cours duquel le capital de la société mère vient
 à être détenu à hauteur de 95 % au moins, directement ou indirectement, par une personne morale passible de l'impôt sur les
@@ -15648,8 +15670,7 @@ la détention en cause.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -15692,42 +15713,41 @@ conformes aux modèles établis par l'administration.
 
 ###### Article 46 quater-0 ZF
 
-Pour l'application des dispositions de l'article 223 A du code général des impôts, la détention de 95 p. 100 au moins du
-capital d'une société s'entend de la détention en pleine propriété de 95 p. 100 au moins des droits à dividendes et de 95 p.
-100 au moins des droits de vote attachés aux titres émis par cette société.
+Pour l'application des dispositions de l'article 223 A du code général des impôts, la détention de 95% au moins du capital
+d'une société s'entend de la détention en pleine propriété de 95% au moins des droits à dividendes et de 95% au moins des
+droits de vote attachés aux titres émis par cette société.
 
 Les droits détenus indirectement s'entendent des droits détenus par l'intermédiaire d'une chaîne de participation. Le
 pourcentage de ces droits est apprécié en multipliant entre eux les taux de détention successifs. Toutefois, pour cette
-appréciation, la société qui détient 95 p. 100 au moins du capital d'une autre société est considérée comme détenant ce
-capital en totalité.
+appréciation, la société qui détient 95% au moins du capital d'une autre société est considérée comme détenant ce capital en
+totalité.
+
+Peuvent être membres du groupe les sociétés détenues, dans les conditions mentionnées aux deux alinéas précédents, par une
+société étrangère dont l'établissement stable est membre du groupe, à la condition que leurs titres soient inscrits à l'actif
+du bilan fiscal de cet établissement stable.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 A
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
-	  - HISTO: Edition du 15 juillet 1988
-
-	**Créé par**:
-
-	  - Décret n°88-318 du 28 mars 1988 - art. 3 (V) JORF 8 avril 1988
-
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Modifié par**:
+
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 223 A
 
 
 ###### Article 46 quater-0 ZG
 
 La subvention indirecte mentionnée au sixième alinéa de l'article 223 B et au premier alinéa de l'article 223 R du code
 général des impôts s'entend des renonciations à recettes qui proviennent des prêts ou d'avances sans intérêt ou à un taux
-d'intérêt inférieur au taux du marché. Elle s'entend également de la livraison de biens ou de la prestation de services sans
-contrepartie ou pour un prix inférieur à leur prix de revient ou, s'agissant de biens composant l'actif immobilisé, pour un
-prix inférieur à leur valeur réelle.
+d'intérêt inférieur au taux du marché. Elle s'entend également de la livraison de biens ou de la prestation de services entre
+sociétés du groupe sans contrepartie ou pour un prix inférieur à leur prix de revient ou, s'agissant de biens composant
+l'actif immobilisé, pour un prix inférieur à leur valeur réelle. 
 
 Constituent également une subvention indirecte au sens des articles 223 B et 223 R déjà cités les excédents de charges qui
 proviennent des emprunts contractés, des avances reçues qui sont assortis d'un taux d'intérêt plus élevé que celui du marché.
@@ -15735,21 +15755,18 @@ Il en est de même des achats de biens ou de services pour un prix plus élevé 
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 223 B, 223 R
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - Décret n°95-1281 du 11 décembre 1995
 
 	**Modifié par**:
 
-	  - Loi n°94-1163 1994-12-29 art. 42 Finances rectificative pour 1994, JORF 30 décembre 1994
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-1281 1995-12-11
+	  - Code général des impôts, CGI. - art. 223 B
+	  - Code général des impôts, CGI. - art. 223 R
 
 
 ###### Article 46 quater-0 ZH
@@ -15769,7 +15786,8 @@ diminuées, lors de chaque cession, d'une somme égale aux amortissements calcul
 du résultat d'ensemble depuis la précédente cession.
 
 2. Comprendre dans le résultat ou plus-value ou moins-value nette à long terme d'ensemble de l'exercice de cession hors du
-groupe d'une immobilisation la plus-value ou la moins-value calculée par différence entre :
+groupe d'une immobilisation, autre que la cession de titres d'une société du groupe, la plus-value ou la moins-value calculée
+par différence entre :
 
 D'une part, le prix de vente de l'élément cédé ;
 
@@ -15783,10 +15801,21 @@ l'article 39 B du code général des impôts.
 
 En cas de moins-value, celle-ci est diminuée des mêmes amortissements différés.
 
-III. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
-immobilisation à une autre société du groupe ou lors de la sortie du groupe de la société qui est propriétaire de cette
-immobilisation ou lors de l'apport d'une immobilisation amortissable entre sociétés du groupe lorsque cet apport bénéficie
-des dispositions de l'article 210 A du code général des impôts.
+3. Comprendre dans le résultat ou la plus-value ou moins-value nette à long terme d'ensemble de l'exercice de cession le
+montant cumulé des plus-values ou des moins-values de cession de titres qui n'ont pas été retenues pour le calcul du résultat
+ou de la plus-value ou moins-value nette à long terme d'ensemble en application de l'article 223 F lorsque :
+
+a) La cession est réalisée par une société du groupe à une société autre qu'une société du groupe ou autre qu'une société
+intermédiaire et porte sur des titres d'une autre société du groupe ;
+
+b) La cession est réalisée par une société intermédiaire à une société autre qu'une société du groupe ou autre qu'une société
+intermédiaire et porte sur des titres d'une société qui demeure dans le groupe et qui ont été préalablement acquis auprès
+d'une société du groupe. 
+
+III. 1. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
+immobilisation autre que les titres d'une société du groupe à une autre société du groupe ou lors de la sortie du groupe de
+la société qui est propriétaire de cette immobilisation ou lors de l'apport d'une immobilisation amortissable entre sociétés
+du groupe lorsque cet apport bénéficie des dispositions de l'article 210 A du code général des impôts.
 
 Dans ce cas, la plus-value ou la moins-value est calculée en prenant pour premier terme de la différence :
 
@@ -15794,19 +15823,26 @@ Pour une immobilisation amortissable, sa valeur nette comptable dans les écritu
 
 Pour une immobilisation non amortissable, son prix d'acquisition par la société qui en est propriétaire.
 
+2. Les dispositions du 3 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé des titres
+d'une société du groupe à une autre société du groupe ou à une société intermédiaire ou lors de la sortie du groupe de la
+société qui est propriétaire de ces titres, ou lors de la sortie du groupe d'une société dont les titres ont fait l'objet
+d'une cession à une société intermédiaire.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 F, 39 B, 210 A
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZL (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 210 A
+	  - Code général des impôts, CGI. - art. 223 F
+	  - Code général des impôts, CGI. - art. 39 B
 
 
 ###### Article 46 quater-0 ZI
@@ -15870,8 +15906,8 @@ société selon les modalités prévues à l'article 1668 du même code.
 1. Pour l'application des dispositions du 5 de l'article 223 I du code général des impôts, la fraction du déficit
 correspondant à celui des sociétés membres du groupe ayant cessé ou des sociétés apportées et faisant partie du nouveau
 groupe et pour lesquelles le bénéfice de ces dispositions est demandé est calculée par application au déficit restant à
-reporter après, le cas échéant, les réintégrations mentionnées aux c, d, e ou f du 6 de l'article 223 L du code général des
-impôts, du rapport existant, pour chaque exercice, entre la somme des déficits pris en compte pour la détermination du
+reporter après, le cas échéant, les réintégrations mentionnées aux c, d, e, f ou i du 6 de l'article 223 L du code général
+des impôts, du rapport existant, pour chaque exercice, entre la somme des déficits pris en compte pour la détermination du
 résultat d'ensemble au titre de ces sociétés et la somme des déficits de même nature pris en compte pour l'ensemble des
 sociétés du groupe. Cette fraction ne peut excéder le montant dont le transfert a été admis, le cas échéant, dans le cadre
 d'une décision d'agrément prise en application du II de l'article 209 du même code. 
@@ -15884,12 +15920,12 @@ qui peut être imputée dans les conditions prévues au 5 de l'article 223 I de 
 exercice, selon les modalités précisées au premier alinéa. 
 
 La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de l'article 223 I du code général des impôts est
-demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e ou g du 6 de l'article 223 L
-de ce code concernant l'identité des sociétés membres du nouveau groupe. 
+demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e, g ou i  du 6 de l'article 223
+L de ce code concernant l'identité des sociétés membres du nouveau groupe. 
 
 2. Pour l'application du troisième alinéa de l'article 223 R du code général des impôts : 
 
-a) La partie du déficit qui ne peut plus être imputée si la société qui y est mentionnée sort du groupe est calculée en
+a) La partie du déficit qui ne peut plus être imputée lorsqu'une société  qui y est mentionnée sort du groupe est calculée en
 considérant que les déficits déjà imputés correspondent à ceux de cette société ; 
 
 b) La somme ainsi calculée est imputée sur le déficit encore reportable subi au titre de l'exercice le plus ancien ; 
@@ -15907,7 +15943,7 @@ d'ensemble de l'exercice, auquel s'ajoute le montant qu'elle aurait pu imputer s
 de l'exercice précédent ; 
 
 b Dans le cas où le résultat d'ensemble du groupe est nul, une proportion des déficits d'ensemble reportables égale à celle
-qu'elle aurait obtenue en sortant du groupe au cours de l'exercice précédent. 
+qu'elle aurait obtenue en sortant du groupe au cours de l'exercice précédent.
 
 Le montant déterminé conformément au a ou au b est réduit dans le rapport entre la fraction du déficit d'ensemble susceptible
 d'être imputé dans les conditions prévues à l'article 223 G du code général des impôts et le montant global du déficit
@@ -15921,16 +15957,16 @@ déterminée selon les mêmes modalités.
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 209 (V)
-	  - Code général des impôts, CGI. - art. 223 E (V)
-	  - Code général des impôts, CGI. - art. 223 G (V)
-	  - Code général des impôts, CGI. - art. 223 I (V)
-	  - Code général des impôts, CGI. - art. 223 L (VT)
-	  - Code général des impôts, CGI. - art. 223 R (V)
+	  - Code général des impôts, CGI. - art. 209
+	  - Code général des impôts, CGI. - art. 223 E
+	  - Code général des impôts, CGI. - art. 223 G
+	  - Code général des impôts, CGI. - art. 223 I
+	  - Code général des impôts, CGI. - art. 223 L
+	  - Code général des impôts, CGI. - art. 223 R
 
 
 ###### Article 46 quater-0 ZK
@@ -15942,19 +15978,21 @@ outre :
 a) l'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble ; 
 
 b) l'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
-III de l'article 44 octies, du III de l'article 44 octies A et du neuvième alinéa du I de l'article 44 decies du code général
-des impôts. 
+III de l'article 44 octies, du III de l'article 44 octies A, de la seconde phrase du huitième alinéa du I de l'article 44
+decies, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts. 
 
-La société mère dépose avec son relevé de solde auprès du comptable de la direction générale des finances publiques du lieu
-d'imposition défini à l'article 218 A du code précité la liste des sociétés membres du groupe et des sociétés qui cessent
-d'être membres de ce groupe défini à l'article 223 A du code précité. Cette liste indique le taux de détention directe et
-indirecte par la société mère.
+La société mère dépose au plus tard à l'expiration du délai de dépôt de son relevé de solde auprès du comptable de la
+direction générale des finances publiques la liste des sociétés membres du groupe et des sociétés intermédiaires ainsi que
+des sociétés qui cessent d'être membres de ce groupe défini à l'article 223 A du code général des impôts ou qui cessent
+d'être qualifiées de sociétés intermédiaires. Cette liste indique le taux de détention directe et indirecte par la société
+mère. Cette liste constitue une annexe à la déclaration d'impôt sur les sociétés au sens de l'article 1649 quater B quater du
+code général des impôts pour la modalité de souscription par voie électronique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 5
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -15962,11 +16000,13 @@ indirecte par la société mère.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 218 A
+	  - Code général des impôts, CGI. - art. 1649 quater B quater
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code général des impôts, CGI. - art. 44 decies
+	  - Code général des impôts, CGI. - art. 44 duodecies
 	  - Code général des impôts, CGI. - art. 44 octies
 	  - Code général des impôts, CGI. - art. 44 octies A
+	  - Code général des impôts, CGI. - art. 44 terdecies
 	  - Code général des impôts, CGI. - art. 53 A
 
 
@@ -15979,6 +16019,27 @@ la détermination et au contrôle de ce résultat. La société mère doit joind
 membres du groupe, à compter du 1er janvier 1992, indiquant la dénomination des sociétés concernées ainsi que la nature et le
 montant de ces subventions ou abandons. 
 
+1 bis. Un état des plus-values ou moins-values de cession d'actifs immobilisés non retenues pour le calcul du résultat ou de
+la plus ou moins-value nette à long terme d'ensemble en application de l'article 223 F du code général des impôts, indiquant,
+pour chaque immobilisation concernée : 
+
+a) La nature du bien ; 
+
+b) L'identité de son propriétaire (dénomination, adresse, le cas échéant numéro d'identité tel que défini au premier alinéa
+de l'article R. 123-221 du code de commerce) à la clôture de l'exercice ; 
+
+c) Le cas échéant, l'identité de ses propriétaires successifs au cours de l'exercice ; 
+
+d) La valeur d'origine du bien à l'actif de la société du groupe qui a réalisé la première cession ; 
+
+e) Le montant des amortissements cumulés effectivement déduits pour l'assiette de l'impôt pendant la période d'utilisation du
+bien par les sociétés du groupe ; 
+
+f) Le montant des suppléments d'amortissements calculés selon les modalités du 1 du II de l'article 46 quater 0-ZH ; 
+
+g) Le montant cumulé des plus-values ou moins-values qui n'ont pas été retenues pour le calcul du résultat ou de la plus-
+value ou moins-value nette à long terme d'ensemble en application de l'article 223 F précité. 
+
 2. Pour chacune des sociétés membres du groupe, l'état des rectifications mentionné au a de l'article 46 quater-0 ZK ; 
 
 3. Un tableau de synthèse de ces rectifications ; 
@@ -15988,7 +16049,7 @@ montant de ces subventions ou abandons.
 5. Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme
 d'ensemble et les crédits d'impôt susceptibles d'être utilisés par la société mère. 
 
-6. Dans les situations visées aux c, d, e, f ou g du 6 de l'article 223 L du code général des impôts, des états faisant
+6. Dans les situations visées aux c, d, e, f, g ou i du 6 de l'article 223 L du code général des impôts, des états faisant
 apparaître : 
 
 a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé ou des sociétés
@@ -16007,14 +16068,19 @@ alinéa de l'article 223 E du code général des impôts revenant à chacune d'e
 
 7. (Périmé) 
 
-8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A et 44 decies du
-code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la plus-value nette à
-long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies A et du neuvième
-alinéa du I de l'article 44 decies du code général des impôts. 
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 decies, 44
+duodecies et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du
+bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de
+l'article 44 octies A, du huitième alinéa du I de l'article 44 decies, du III de l'article 44 duodecies et du III de
+l'article 44 terdecies du code général des impôts. 
 
 9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts
 déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même
 article. 
+
+10. Un état des rectifications prévues aux deuxième, troisième, quatrième, septième et dix-huitième alinéas de l'article 223
+B et à l'article 223 D du code général des impôts qui sont afférentes à des sociétés du groupe détenues par l'intermédiaire
+d'une société intermédiaire. 
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
@@ -16022,20 +16088,26 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2009-811 du 30 juin 2009 - art. 1
+	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
-	  - Code général des impôts, CGI. - art. 223 B (V)
-	  - Code général des impôts, CGI. - art. 223 E (V)
-	  - Code général des impôts, CGI. - art. 223 I (V)
-	  - Code général des impôts, CGI. - art. 223 L (VT)
-	  - Code général des impôts, CGI. - art. 223 Q (V)
-	  - Code général des impôts, CGI. - art. 223 R (V)
-	  - Code général des impôts, CGI. - art. 44 decies (V)
-	  - Code général des impôts, CGI. - art. 44 octies (V)
-	  - Code général des impôts, CGI. - art. 44 octies A (V)
+	  - Code de commerce - art. R123-221
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK
+	  - Code général des impôts, CGI. - art. 223 B
+	  - Code général des impôts, CGI. - art. 223 D
+	  - Code général des impôts, CGI. - art. 223 E
+	  - Code général des impôts, CGI. - art. 223 F
+	  - Code général des impôts, CGI. - art. 223 I
+	  - Code général des impôts, CGI. - art. 223 L
+	  - Code général des impôts, CGI. - art. 223 Q
+	  - Code général des impôts, CGI. - art. 223 R
+	  - Code général des impôts, CGI. - art. 44 decies
+	  - Code général des impôts, CGI. - art. 44 duodecies
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 octies A
+	  - Code général des impôts, CGI. - art. 44 terdecies
 
 
 ###### Article 46 quater-0 ZM
@@ -16069,81 +16141,6 @@ accompagnée des pièces prévues à l'article 46 quater-0 ZL.
 
 	  - Décret n°88-1001 1988-10-20
 	  - Décret n°95-1281 1995-12-11
-
-
-###### Article 46 quater-0 ZO
-
-Lorsqu'une société mère agréée en application de l'article  209 sexies du code général des impôts opte pour le régime de
-groupe défini à l'article 223 A de ce code, ses déficits reportables du point de vue fiscal à l'ouverture du premier exercice
-d'application de ce régime sont imputables sur ses bénéfices ultérieurs dans les conditions prévues au troisième alinéa du I
-de l'article 209 et à l'article 223 I du code déjà cité.
-
-Toutefois, si le montant du déficit déductible au titre d'un exercice en application du premier alinéa est inférieur au
-pourcentage fixé ci-après du bénéfice d'ensemble déterminé après déduction du déficit d'ensemble des exercices antérieurs, la
-société mère peut imputer sur son résultat fiscal, à hauteur de la différence entre ce pourcentage de bénéfice et ce montant
-de déficit déductible, une fraction complémentaire des déficits mentionnés au premier alinéa, autres que ceux imputables dans
-les conditions prévues au troisième alinéa du I de l'article 209 du même code.
-
-Le pourcentage mentionné au deuxième alinéa est égal à un tiers pour le premier exercice d'application à la société mère
-visée au présent article du régime défini à l'article 223 A du code général des impôts. Il est augmenté d'un sixième pour
-chacun des quatre exercices suivants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 209 sexies, 223 A, 209 I, 223 I
-
-	**Modifié par**:
-
-	  - Décret n°2004-467 du 25 mai 2004 - art. 1 () JORF 2 juin 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-
-###### Article 46 quater-0 ZS
-
-I. - Lorsqu'une société mère agréée en application de l'article 209 sexies du code général des impôts opte pour le régime
-défini à l'article 223 A de ce code, elle doit déclarer les plus-values ou moins-values afférentes aux cessions successives
-d'un même bien entre sociétés assimilées à des établissements de la société mère pour l'application de l'article 209 sexies
-déjà cité ou entre la société mère et les sociétés en cause, si ces plus-values ou moins-values n'ont pas été retenues pour
-la détermination du résultat ou de la plus-value ou moins-value nette à long terme.
-
-Cette déclaration, présentée sur un état conforme au modèle établi par l'administration, doit être jointe lors de la
-notification de l'option aux documents mentionnés à l'article 46 quater-0 ZD.
-
-II. - Le montant des plus-values ou des moins-values définies au I est compris dans le résultat ou plus-value ou moins-value
-nette à long terme d'ensemble de l'exercice de la première cession du bien à compter de la date d'effet de l'option ou de
-celui de la sortie du groupe de la société qui en est propriétaire, si cette sortie précède la cession.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 46 quater-0 ZD
-
-	**Créé par**:
-
-	  - Décret n°88-592 du 6 mai 1988 - art. 5 (V) JORF 8 mai 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1001 du 20 octobre 1988
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988
 
 
 ##### Section VIII bis : Régime de taxation au tonnage
