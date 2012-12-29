@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-12-20
+Version Consolidée au 2012-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -38586,18 +38586,18 @@ supplémentaires acquittées au cours de la même année.
 ###### Article 344 quindecies
 
 Conformément au 3° du II de l'article 1635 sexies du code général des impôts, les taux des abattements dont bénéficie La
-Poste sont fixés, pour l'année 2011, à :
+Poste sont fixés, pour l'année 2012, à :
 
 a. 85 % des bases d'imposition pour la cotisation foncière des entreprises et pour les taxes foncières ;
 
-b. 79 % de la valeur ajoutée retenue pour l'application de l'article 1586 ter pour ce qui concerne la cotisation sur la
+b. 78 % de la valeur ajoutée retenue pour l'application de l'article 1586 ter pour ce qui concerne la cotisation sur la
 valeur ajoutée des entreprises.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-2069 du 30 décembre 2011 - art. 1
+	  - Décret n°2012-1480 du 27 décembre 2012 - art. 1
 
 	**Cite**:
 
