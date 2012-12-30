@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-12-30
+Version Consolidée au 2012-12-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1721,6 +1721,320 @@ Modifications effectuées en conséquence de l'article 1er (G) du décret n° 20
 	**Modifié par**:
 
 	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+
+
+###### Article 2 terdecies D
+
+I. ― Pour l'application du premier alinéa du III de l'article 19 novovicies du code général des impôts : 
+
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2013, à 16,52
+€ en zone A bis, 12,27 € dans le reste de la zone A, 9,88 € en zone B 1 et 8,59 € en zone B 2. Ces plafonds sont révisés au
+1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies. 
+
+Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la
+formule suivante : 
+
+0,7 + 19/S, 
+
+dans laquelle S est la surface du logement. Le coefficient ainsi obtenu est arrondi à la deuxième décimale la plus proche et
+ne peut excéder 1,2. 
+
+Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au dernier alinéa du a de l'article
+2 duodecies ; 
+
+2. Les plafonds de ressources sont les suivants : 
+
+a) Pour les baux conclus en 2013, les plafonds annuels de ressources des locataires sont les suivants : 
+
+<table>
+  <tbody>
+    <tr>
+      <td width="227" rowspan="2">
+
+COMPOSITION DU FOYER LOCATAIRE
+
+</td>
+      <td width="454" colspan="4">
+
+LIEU DE SITUATION DU LOGEMENT
+
+</td>
+    </tr>
+    <tr>
+      <td width="113">
+
+Zone A bis
+
+(en euros)
+
+</td>
+      <td width="113">
+
+Reste
+
+de la zone A
+
+(en euros)
+
+</td>
+      <td width="113">
+
+Zone B 1
+
+(en euros)
+
+</td>
+      <td width="113">
+
+Zone B 2
+
+(en euros)
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+Personne seule
+
+</td>
+      <td valign="top" width="113">
+
+36 502
+
+</td>
+      <td valign="top" width="113">
+
+36 502
+
+</td>
+      <td width="113" valign="top">
+
+29 751
+
+</td>
+      <td width="113" valign="top">
+
+26 776
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+Couple
+
+</td>
+      <td valign="top" width="113">
+
+54 554
+
+</td>
+      <td valign="top" width="113">
+
+54 554
+
+</td>
+      <td valign="top" width="113">
+
+39 731
+
+</td>
+      <td width="113" valign="top">
+
+35 757
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Personne seule ou couple ayant une personne à charge
+
+</td>
+      <td valign="top" width="113">
+
+71 515
+
+</td>
+      <td valign="top" width="113">
+
+65 579
+
+</td>
+      <td valign="top" width="113">
+
+47 780
+
+</td>
+      <td width="113" valign="top">
+
+43 002
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+Personne seule ou couple ayant deux personnes à charge
+
+</td>
+      <td width="113" valign="top">
+
+85 384
+
+</td>
+      <td width="113" valign="top">
+
+78 550
+
+</td>
+      <td width="113" valign="top">
+
+57 681
+
+</td>
+      <td width="113" valign="top">
+
+51 913
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Personne seule ou couple ayant trois personnes à charge
+
+</td>
+      <td width="113" valign="top">
+
+101 589
+
+</td>
+      <td valign="top" width="113">
+
+92 989
+
+</td>
+      <td width="113" valign="top">
+
+67 854
+
+</td>
+      <td valign="top" width="113">
+
+61 069
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Personne seule ou couple ayant quatre personnes à charge
+
+</td>
+      <td width="113" valign="top">
+
+114 315
+
+</td>
+      <td valign="top" width="113">
+
+104 642
+
+</td>
+      <td valign="top" width="113">
+
+76 472
+
+</td>
+      <td width="113" valign="top">
+
+68 824
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Majoration par personne à charge supplémentaire à partir de la cinquième
+
+</td>
+      <td width="113" valign="top">
+
++ 12 736
+
+</td>
+      <td width="113" valign="top">
+
++ 11 659
+
+</td>
+      <td valign="top" width="113">
+
++ 8 531
+
+</td>
+      <td width="113" valign="top">
+
++ 7 677
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2
+duodecies ; 
+
+b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
+général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
+signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées aux articles 196 à 196 B du
+même code. 
+
+II. ― Les zones A, A bis, B 1 et B 2 mentionnées au I sont celles définies à l'article R. 304-1 du code de la construction et
+de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1532 du 29 décembre 2012 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-1102 du 30 septembre 2014 (V)
+	  - Code de la construction et de l'habitation. - art. R302-27 (V)
+	  - Code de la construction et de l'habitation. - art. R302-28 (V)
+	  - Code de la construction et de l'habitation. - art. R302-29 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA quaterdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA undecies (M)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 novovicies
+
+
+###### Article 2 terdecies E
+
+Pour l'application du deuxième alinéa du IV de l'article 199 novovicies du code général des impôts, les zones géographiques
+se caractérisant par un déséquilibre entre l'offre et la demande de logements, autres que celles mentionnées au premier
+alinéa du IV de ce même article, s'entendent des communes classées dans la zone B 2, telle qu'elle est définie à l'article R.
+304-1 du code de la construction et de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1532 du 29 décembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 novovicies
+	  - Code de la construction et de l'habitation. - art. R304-1
 
 
 ###### Article 2 vicies
@@ -13227,6 +13541,67 @@ terdecies.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
 	  - Code général des impôts, CGI. - art. 199 septvicies
 	  - Code de la construction et de l'habitation. - art. R304-1
+
+
+###### Article 46 AZA octies B
+
+Le plafond par mètre carré de surface habitable mentionné au premier alinéa du A du V de l'article 199 novovicies du code
+général des impôts est fixé à 5 500 €. 
+
+La surface habitable à prendre en compte s'entend, pour les logements situés en métropole, de celle prévue au dernier alinéa
+du a de l'article 2 duodecies et, pour ceux situés outre-mer, de celle prévue au III de l'article 46 AG terdecies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1532 du 29 décembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
+	  - Code général des impôts, CGI. - art. 199 novovicies
+
+
+###### Article 46 AZA octies-0 A
+
+Les logements mentionnés au II de l'article 199 novovicies du code général des impôts s'entendent : 
+
+1° Pour les logements acquis neufs, ou, sous réserve du 2°, pour les logements acquis en l'état futur d'achèvement ou que le
+contribuable fait construire : 
+
+a) Soit de ceux qui bénéficient du label mentionné au 1° du de l'article 46 AZA octies ; 
+
+b) Soit de ceux qui respectent les caractéristiques thermiques et conditions mentionnées au I de l'article R. 111-20 du code
+de la construction et de l'habitation, selon les prescriptions fixées par l'arrêté prévu au II du même article. 
+
+Pour justifier du respect de la condition prévue à l'alinéa précédent, le contribuable présente, sur demande de
+l'administration fiscale, l'attestation mentionnée à l'article 6 de l'arrêté du 11 octobre 2011 relatif aux attestations de
+prise en compte de la réglementation thermique et de réalisation d'une étude de faisabilité relative aux approvisionnements
+en énergie pour les bâtiments neufs ou les parties nouvelles de bâtiments ; 
+
+2° Pour les logements qui font ou qui ont fait l'objet de travaux mentionnés aux 2°, 3° et 4° du B du I de l'article 199
+novovicies du code général des impôts ou pour les logements acquis en l'état futur d'achèvement mentionnés au premier alinéa
+du I de ce même article lorsqu'ils ne sont pas soumis aux dispositions de l'article L. 111-9 du code de la construction et de
+l'habitation : 
+
+a) Soit de ceux qui bénéficient d'un des labels mentionnés au a du 2° du I de l'article 46 AZA octies ; 
+
+b) Soit de ceux qui respectent les exigences de performance énergétique globale dans les mêmes conditions et selon les mêmes
+modalités que celles définies au b du 2° du I de l'article 46 AZA octies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1532 du 29 décembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA octies
+	  - Code général des impôts, CGI. - art. 199 novovicies
+	  - Code de la construction et de l'habitation. - art. R*111-20
 
 
 ##### 18° : Réduction d'impôt accordée au titre des dépenses relatives aux travaux de conservation ou de restauration d'objets mobiliers classés monuments historiques
@@ -43192,18 +43567,21 @@ hors le cas de saisine du juge d'instruction ou du tribunal correctionnel par le
 dans les conditions prévues aux articles 485 et 486 du code de procédure civile. 
 
 Les réquisitions du parquet sont prises à la demande du directeur départemental de l'administration qui a provoqué la mise
-sous séquestre dans le cas où aucune décision définitive n'est intervenue sur l'action publique et à la demande du trésorier-
-payeur général dans le cas de décision définitive jusqu'à et après l'exécution de cette décision.
+sous séquestre dans le cas où aucune décision définitive n'est intervenue sur l'action publique et à la demande du directeur
+départemental des finances publiques ou du responsable du service à compétence nationale dans le cas de décision définitive
+jusqu'à et après l'exécution de cette décision.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 26-IV (premier alinéa) de la loi n° 2007-1787 du 20 décembre 2007.
+Décret n° 2011-1303 du 14 octobre 2011 article 18 II : Pour les départements dans lesquels la direction départementale des
+finances publiques n'est pas créée et au plus tard jusqu'au 31 décembre 2012, les présentes dispositions demeurent
+applicables dans leur rédaction antérieure au 15 octobre 2011.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
+	  - Décret n°2011-1303 du 14 octobre 2011 - art. 11
 
 	**Cite**:
 
