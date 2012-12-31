@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2012-12-31
+Version Consolidée au 2013-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -21788,26 +21788,9 @@ construction et de l'habitation, dans le tableau ci-après :
 <table>
     <tbody>
       <tr>
-        <th>
-
-TRANCHES 
-
-</th>
-        <th>
-
-1 à 2 
-
-</th>
-        <th>
-
-3 à 5 
-
-</th>
-        <th colspan="4">
-
-6
-
-</th>
+        <td align="center">TRANCHES</td>
+        <td align="center">1 à 2</td>
+        <td align="center" colspan="3">3 à 5 </td>
       </tr>
       <tr>
         <td align="center">
@@ -21823,11 +21806,6 @@ Prime p
         <td align="center">
 
 55 points de base 
-
-</td>
-        <td align="center">
-
-35 points de base 
 
 </td>
       </tr>
@@ -21851,7 +21829,7 @@ trimestre.
 
 	**Modifié par**:
 
-	  - Décret n°2011-2059 du 30 décembre 2011 - art. 2
+	  - Décret n°2012-1531 du 29 décembre 2012 - art. 2
 
 	**Cite**:
 
@@ -25416,6 +25394,40 @@ Communauté européenne ne donnent pas lieu au remboursement de la redevance san
 	  - HISTO: Edition du 31 mars 1999
 
 
+###### Article 111 quater J
+
+La redevance sanitaire d'abattage mentionnée à l'article 302 bis N du code général des impôts est modulée en fonction du
+classement des établissements ou, le cas échéant, de leurs chaînes d'abattage au regard de la fréquence des contrôles
+officiels à réaliser, au sens du 1 de l'article 3 du règlement (CE) n° 882/2004 du Parlement européen et du Conseil du 29
+avril 2004 relatif aux contrôles officiels effectués pour s'assurer de la conformité avec la législation sur les aliments
+pour animaux et les denrées alimentaires et avec les dispositions relatives à la santé animale et au bien-être des animaux. 
+
+La redevance due pour les abattages réalisés dans les établissements ou sur les chaînes d'abattage classés au 31 décembre de
+l'année précédente en catégorie A ou B en application de l'article D. 233-15 du code rural et de la pêche maritime est
+modulée à la baisse. La redevance due pour les abattages réalisés dans les établissements ou sur les chaînes d'abattage
+classés au 31 décembre de l'année précédente en catégorie D ou E en application de ce même article est modulée à la hausse. 
+
+La redevance due pour les abattages ou traitements réalisés dans les établissements ou sur les chaînes d'abattage classés au
+31 décembre de l'année précédente en catégorie A ou B en application des articles D. 233-16 ou D. 233-17 du code rural et de
+la pêche maritime est modulée à la baisse. La redevance due pour les abattages ou traitements réalisés dans les
+établissements ou sur les chaînes d'abattage classés au 31 décembre de l'année précédente en catégorie C ou D en application
+de ces mêmes articles est modulée à la hausse. 
+
+Le taux de modulation de la redevance est fixé par arrêté conjoint des ministres chargés de l'agriculture et du budget
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1150 du 12 octobre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 bis N
+	  - Code rural - art. D233-15 (V)
+	  - Code rural - art. D233-16 (V)
+
+
 #### Chapitre V : Redevance sanitaire de découpage
 
 ###### Article 111 quater L
@@ -26053,43 +26065,6 @@ ressortissant étranger, il doit être en possession d'un titre de séjour valab
 
 ##### Section 0I : Entrepositaires et opérateurs agréés
 
-###### Article 111-00 A
-
-Les déchets ou pertes observés en cours de fabrication, de transformation et de stockage d'alcools et de boissons alcooliques
-doivent être inscrits par l'entrepositaire agréé dans la colonne "sorties" de sa comptabilité matières au moment où ils sont
-constatés ou au plus tard à la clôture de l'exercice annuel, par tarifs d'imposition et par produits concernés tels que
-définis aux articles 286 I et J de l'annexe II au code général des impôts.
-
-Si ces déchets ou pertes se situent, pour les opérations de fabrication ou de transformation, dans la limite du taux annuel
-prévu à l'article 111-00 B et pour les opérations de stockage, dans la limite du taux annuel prévu à l'article 111-00 C, ils
-ne donnent pas lieu à la perception de droits. La déduction ainsi attribuée ne s'applique qu'aux déchets et pertes réellement
-constatés par l'entrepositaire agréé. Si l'entrepositaire agréé ne constate aucun déchet ou aucune perte réelle, il ne pourra
-bénéficier de cette déduction.
-
-Les pertes accidentelles doivent être signalées immédiatement à l'administration. Elles sont inscrites en sorties dans la
-comptabilité matières. Ces pertes ne font pas l'objet d'une taxation dès lors qu'elles sont admises par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN2 286 I, 286 J
-	  - CGIAN3 111-00 B, 111-00 C
-
-	**Créé par**:
-
-	  - Décret n°2001-649 du 16 juillet 2001 - art. 1 () JORF 21 juillet 2001
-
-	**Cité par**:
-
-	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-
 ###### Article 111-0 A
 
 Sans préjudice des dispositions de l'article 502 du code général des impôts, les niveaux mentionnés au 3° du I de l'article
@@ -26117,228 +26092,41 @@ e) 110 litres pour les bières.
 	  - Code général des impôts, CGI. - art. 502 (V)
 
 
-###### Article 111-00 B
-
-Pour toutes les opérations de fabrication ou de transformation d'alcools et de boissons alcooliques antérieures au stockage,
-l'entrepositaire agréé applique les taux de pertes ou de déchets annuels conformément au tableau ci-après.
-
-CATEGORIE DE PRODUITS :
-
-Vins finis (après fermentation) et cidre (après dépectinisation).
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-1,5 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées.
-
-CATEGORIE DE PRODUITS :
-
-Spiritueux :
-
-- élaboration par distillation, macération, infusion ... ;
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-5 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées. 
-
-CATEGORIE DE PRODUITS :
-
-Spiritueux :
-
-- opérations liées à la transformation.
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-1 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées. 
-
-CATEGORIE DE PRODUITS :
-
-Produits intermédiaires :
-
-- élaboration par mutage ;
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-1,5 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées. 
-
-CATEGORIE DE PRODUITS :
-
-Produits intermédiaires :
-
-- opérations liées à la transformation.
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-1 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées. 
-
-CATEGORIE DE PRODUITS :
-
-Alcools :
-
-- élaboration par distillation ;
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-3,25 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées. 
-
-CATEGORIE DE PRODUITS :
-
-Alcools :
-
-- opérations liées à la transformation ;
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-1 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées. 
-
-CATEGORIE DE PRODUITS :
-
-Alcools :
-
-- dénaturation ;
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-1,25 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées. 
-
-CATEGORIE DE PRODUITS :
-
-Alcools :
-
-- déshydratation.
-
-TAUX ANNUEL DE PERTES ou de déchets à l'élaboration :
-
-0,7 % sur les volumes de produits alcooliques mis en oeuvre.
-
-TAUX ANNUEL DE PERTES ou de déchets au conditionnement à l'exception des vins mousseux élaborés selon la méthode
-traditionnelle :
-
-0,7 % sur les quantités conditionnées. 
-
-Ces taux sont indicatifs. Un entrepositaire agréé peut proposer à l'administration des taux de pertes ou de déchets
-supérieurs si son processus de fabrication ou de transformation le justifie.
-
-Dans ce cas, il soumet au directeur régional des douanes et droits indirects dans le ressort territorial duquel se trouve
-l'entrepôt fiscal d'accises concerné, le taux de pertes ou de déchets réel encouru selon les modalités fixées ci-après. Cette
-mesure s'applique en outre aux entrepositaires agréés producteurs d'arômes alcooliques et aux régénérateurs d'alcools.
-L'entrepositaire agréé transmet au directeur régional des douanes et droits indirects une demande de fixation d'un taux
-annuel de pertes ou de déchets qui comporte les renseignements suivants :
-
-a) Nom ou raison sociale et adresse du requérant ;
-
-b) Activité économique de la société du requérant ;
-
-c) Numéro d'accises ou d'identification du requérant ;
-
-d) Adresse des entrepôts fiscaux d'accises ;
-
-e) Estimation des quantités, espèces et qualités des matières premières mises en oeuvre, entre deux arrêtés annuels de la
-comptabilité matières, pour la fabrication ou la transformation d'alcools et de boissons alcooliques et quantités de ces
-produits obtenues exprimées en volume d'alcool pur, s'il s'agit d'alcool, ou en volume effectif, s'il s'agit de produits
-intermédiaires ou de produits mentionnés à l'article 438 du code général des impôts, ou en volume effectif par degré
-alcoométrique, s'il s'agit de bières ;
-
-f) Description détaillée des procédés et techniques de fabrication ou de transformation d'alcools et de boissons
-alcooliques ;
-
-g) Proposition d'un taux annuel de pertes ou de déchets pour chaque alcool ou boisson alcoolique fabriqué ou transformé
-permettant d'évaluer la quantité d'alcool ou de boisson alcoolique effectivement obtenue à partir d'une quantité déterminée
-de matières premières ;
-
-h) Date et lieu d'établissement de la demande et signature du requérant appuyée du cachet de son entreprise.
-
-Le directeur régional des douanes et droits indirects statue sur la demande après avoir reçu, le cas échéant, l'avis du
-laboratoire des douanes et droits indirects compétent. Si cela s'avère nécessaire, ledit laboratoire fait prélever
-contradictoirement trois échantillons représentatifs des alcools ou boissons alcooliques fabriqués ou transformés aux fins
-d'analyse et se déplace dans les entrepôts fiscaux d'accises du requérant pour expertiser les conditions de fabrication ou de
-transformation.
-
-La décision du directeur régional des douanes et droits indirects fixant un taux annuel de pertes ou de déchets est transmise
-au requérant. Si le directeur régional des douanes et droits indirects fixe un taux annuel de déchets différent de celui
-figurant dans la demande, sa décision doit être motivée. Ce taux est reconduit pour l'exercice suivant si les conditions de
-fabrication ou de transformation dans l'entrepôt fiscal d'accises de l'entrepositaire agréé sont inchangées.
-
-Si ces conditions de fabrication ou de transformation sont modifiées, le taux annuel de pertes ou de déchets peut être révisé
-chaque année par le directeur régional des douanes et droits indirects qui l'a fixé. La demande est effectuée dans les mêmes
-conditions que pour la fixation du taux initial. La révision est effectuée à l'issue de l'arrêté annuel de la comptabilité
-matières du déclarant.
-
-Tout changement ou toute modification des procédés de fabrication ou de transformation, susceptible d'avoir des conséquences
-sur le taux annuel de pertes ou de déchets, doit être porté sans délai à la connaissance du directeur régional des douanes et
-droits indirects visé au premier alinéa par l'entrepositaire agréé.
-
-Sur les alcools employés au mutage, il est accordé aux entrepositaires agréés fabriquant des mistelles une déduction maximum
-fixée à 3 % pour la fabrication des mistelles blanches et 5 % pour la fabrication de mistelles rouges, pour couvrir les
-déchets de fabrication.
+###### Article 111-00 A
+
+Les déchets ou pertes physiquement constatés en cours de fabrication, de transformation et de stockage d'alcools et de
+boissons alcooliques doivent être inscrits par l'entrepositaire agréé dans la colonne " sorties " de sa comptabilité matières
+au moment où ils sont constatés, par tarif d'imposition et par produit concerné tel que défini aux articles 286 I et J de
+l'annexe II au code général des impôts. 
+
+Si ces déchets ou pertes se situent, pour les opérations de fabrication ou de transformation, dans la limite du volume de
+déduction résultant de l'application du taux annuel prévu à l'article 111-00 B et pour les opérations de stockage, dans la
+limite du volume de déduction résultant de l'application du taux annuel prévu à l'article 111-00 C, ils ne donnent pas lieu à
+la perception de droits. La déduction ainsi attribuée s'applique par entrepôt fiscal suspensif de droits d'accises, par type
+d'opération et selon les distinctions prévues aux articles 286 I et J de l'annexe II au code général des impôts. Elle ne peut
+concerner que des déchets et pertes physiquement constatés par l'entrepositaire agréé. Si l'entrepositaire agréé ne constate
+physiquement aucun déchet ou aucune perte, il ne peut bénéficier de cette déduction. 
+
+Les pertes accidentelles doivent être signalées immédiatement à l'administration. Elles sont inscrites en sorties dans la
+comptabilité matières. Ces pertes ne font pas l'objet d'une taxation dès lors qu'elles sont admises par l'administration
+après examen de la demande d'admission en décharge présentée par l'entrepositaire agréé.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 438
-
-	**Créé par**:
-
-	  - Décret n°2001-649 du 16 juillet 2001 - art. 1 () JORF 21 juillet 2001
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2012-1245 du 7 novembre 2012 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 118 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 C (V)
 
 
 ###### Article 111-0 B
@@ -26375,84 +26163,300 @@ de la dernière année civile. Toutefois, lorsque cette période est inférieure
 	  - Code général des impôts, CGI. - art. 302 H ter
 
 
-###### Article 111-00 C
+###### Article 111-00 B
 
-Pour les opérations de stockage d'alcools et de boissons alcooliques, l'entrepositaire agréé applique les taux de pertes ou
-de déchets annuels maximum conformément au tableau ci-après. Ces taux sont applicables aux différents types de stockages
-identifiés en tant que tels.
+I. - Pour les pertes et déchets physiquement constatés lors des opérations de fabrication ou de transformation d'alcools et
+de boissons alcooliques antérieures au stockage, l'entrepositaire agréé bénéficie d'une déduction dans la limite des taux
+annuels figurant au tableau ci-après. 
 
-Vins et cidres
+<table>
+  <tbody>
+    <tr>
+      <td>
 
-STOCKAGE SOUS BOIS : 4,5 % sur le stock moyen
+CATÉGORIES DE PRODUITS 
 
-STOCKAGE en cuves étanches : 0,7 % sur le stock moyen
+</td>
+      <td>
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+TAUX ANNUEL DE PERTES 
 
-Produits intermédiaires.
+ou de déchets à l'élaboration 
 
-STOCKAGE SOUS BOIS : 5 % sur le stock moyen
+</td>
+      <td colspan="3">
 
-STOCKAGE en cuves étanches : 0,7 % sur le stock moyen
+TAUX ANNUEL DE PERTES 
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+ou de déchets au conditionnement, 
 
-Spiritueux.
+à l'exception des vins mousseux 
 
-STOCKAGE SOUS BOIS : 6 % sur le stock moyen
+élaborés selon la méthode traditionnelle 
 
-STOCKAGE en cuves étanches : 1,5 % sur le stock moyen
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+Vins finis (après fermentation) et cidre (après dépectinisation). 
 
-Rhums (DOM).
+</td>
+      <td align="center">
 
-STOCKAGE SOUS BOIS : 8 % sur le stock moyen
+1,5 % sur les volumes de produits alcooliques mis en œuvre. 
 
-STOCKAGE en cuves étanches : 3 % sur le stock moyen
+</td>
+      <td align="center">
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+0,7 % sur les quantités conditionnées. 
 
-Alcools.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-STOCKAGE SOUS BOIS : 6 % sur le stock moyen
+Spiritueux : 
 
-STOCKAGE en cuves étanches : 1,5 % sur le stock moyen
+</td>
+      <td align="center">
 
-STOCKAGE après conditionnement : 0,3 % sur les quantités sorties
+</td>
+      <td align="center">
 
-Pour les vins mousseux élaborés selon la méthode traditionnelle, l'entrepositaire agréé applique un taux global maximum de
-1,5 % aux volumes de vin élaboré en bouteilles.
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-Pour les eaux-de-vie de fruits stockées en cuves étanches ouvertes, le taux annuel forfaitaire de pertes est fixé à 2,5 % sur
-le stock moyen.
+- élaboration par distillation, macération, infusion... ; 
 
-Pour la bière, le taux annuel forfaitaire de pertes est fixé à 1 % sur les quantités sorties.
+</td>
+      <td align="center">
 
-Pour les arômes, le taux annuel forfaitaire de pertes est fixé à 1,25 % sur les quantités sorties.
+5 % sur les volumes de produits alcooliques mis en œuvre. 
 
-Ces taux annuels forfaitaires s'appliquent par entrepôt fiscal suspensif de droits d'accises.
+</td>
+      <td align="center">
 
-Le stock moyen est obtenu en additionnant les résultats des balances journalières des comptes des entrées et des sorties. Ce
-stock peut être aussi obtenu en additionnant les soldes mensuels reportés chaque mois dans la comptabilité matières depuis le
-dernier arrêté annuel. Ces résultats sont éventuellement corrigés de ceux des recensements réalisés par l'administration et
-reportés dans la comptabilité matières. Le solde moyen est alors obtenu en divisant ce total par le nombre de mois écoulés
-depuis le dernier arrêté annuel.
+0,7 % sur les quantités conditionnées. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- opérations liées à la transformation. 
+
+</td>
+      <td align="center">
+
+1 % sur les volumes de produits alcooliques mis en œuvre. 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Produits intermédiaires : 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- élaboration par mutage ; 
+
+</td>
+      <td align="center">
+
+1,5 % sur les volumes de produits alcooliques mis en œuvre. 
+
+</td>
+      <td align="center">
+
+0,7 % sur les quantités conditionnées. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- opérations liées à la transformation. 
+
+</td>
+      <td align="center">
+
+1 % sur les volumes de produits alcooliques mis en œuvre. 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Alcools : 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- élaboration par distillation ; 
+
+</td>
+      <td align="center">
+
+3,25 % sur les volumes de produits alcooliques mis en œuvre. 
+
+</td>
+      <td align="center">
+
+0,7 % sur les quantités conditionnées. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- opérations liées à la transformation ; 
+
+</td>
+      <td align="center">
+
+1 % sur les volumes de produits alcooliques mis en œuvre. 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- dénaturation ; 
+
+</td>
+      <td align="center">
+
+1,25 % sur les volumes de produits alcooliques mis en œuvre. 
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+- déshydratation. 
+
+</td>
+      <td align="center">
+
+0,7 % sur les volumes de produits alcooliques mis en œuvre. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+II. - Par dérogation au I, et à l'exclusion des taux prévus en raison des opérations liées à la transformation, un
+entrepositaire agréé peut proposer à l'administration des taux de pertes ou de déchets supérieurs si son processus de
+fabrication, de transformation ou de conditionnement le justifie. 
+
+Dans ce cas, il soumet au directeur régional des douanes et droits indirects dans le ressort territorial duquel se trouve
+l'entrepôt fiscal d'accises concerné le taux de pertes ou de déchets réel encouru selon les modalités fixées ci-après. Cette
+mesure s'applique en outre aux entrepositaires agréés producteurs d'arômes alcooliques et aux régénérateurs d'alcools.
+L'entrepositaire agréé transmet au directeur régional des douanes et droits indirects une demande de fixation d'un taux
+annuel de pertes ou de déchets qui comporte les renseignements suivants : 
+
+a) Nom ou raison sociale et adresse du requérant ; 
+
+b) Activité économique de la société du requérant ; 
+
+c) Numéro d'accises ou d'identification du requérant ; 
+
+d) Adresse des entrepôts fiscaux d'accises ; 
+
+e) Estimation des quantités, espèces et qualités des matières premières mises en œuvre, entre deux arrêtés annuels de la
+comptabilité matières, pour la fabrication, la transformation ou le conditionnement d'alcools et de boissons alcooliques et
+quantités de ces produits obtenues ou conditionnées exprimées en volume d'alcool pur, s'il s'agit d'alcool, ou en volume
+effectif, s'il s'agit de produits intermédiaires ou de produits mentionnés à l'
+article 438 du code général des impôts
+, ou en volume effectif par degré alcoométrique, s'il s'agit de bières ; 
+
+f) Description détaillée des procédés et techniques de fabrication, de transformation ou de conditionnement d'alcools et de
+boissons alcooliques ; 
+
+g) Proposition d'un taux annuel de pertes ou de déchets pour chaque alcool ou boisson alcoolique fabriqué, transformé ou
+conditionné permettant d'évaluer la quantité d'alcool ou de boisson alcoolique effectivement obtenue ou effectivement
+conditionnée à partir d'une quantité déterminée de matières premières ; 
+
+h) Date et lieu d'établissement de la demande et signature du requérant appuyée du cachet de son entreprise. 
+
+Le directeur régional des douanes et droits indirects statue sur la demande après avoir reçu, le cas échéant, l'avis du
+laboratoire des douanes et droits indirects compétent. Si cela s'avère nécessaire, ledit laboratoire fait prélever
+contradictoirement trois échantillons représentatifs des alcools ou boissons alcooliques fabriqués, transformés ou
+conditionnés aux fins d'analyse et se déplace dans les entrepôts fiscaux d'accises du requérant pour expertiser les
+conditions de fabrication, de transformation ou de conditionnement. 
+
+La décision du directeur régional des douanes et droits indirects fixant un taux annuel de pertes ou de déchets est transmise
+au requérant. Si le directeur régional des douanes et droits indirects fixe un taux annuel de pertes ou de déchets différent
+de celui figurant dans la demande, sa décision doit être motivée. Ce taux est reconduit pour l'exercice suivant si les
+conditions de fabrication, de transformation ou de conditionnement dans l'entrepôt fiscal d'accises de l'entrepositaire agréé
+sont inchangées. 
+
+III. - Si les conditions de fabrication, de transformation ou de conditionnement mentionnées au II sont modifiées, le taux
+annuel de pertes ou de déchets peut être révisé chaque année par le directeur régional des douanes et droits indirects qui
+l'a fixé. La demande est effectuée dans les mêmes conditions que pour la fixation du taux initial. La révision est effectuée
+à l'issue de l'arrêté annuel de la comptabilité matières du déclarant. 
+
+IV. - Tout changement ou toute modification des procédés de fabrication, de transformation ou de conditionnement, susceptible
+d'avoir des conséquences sur le taux annuel de pertes ou de déchets, doit être porté sans délai à la connaissance du
+directeur régional des douanes et droits indirects mentionné au II par l'entrepositaire agréé. 
+
+V. - Sur les alcools employés au mutage, il est accordé aux entrepositaires agréés fabriquant des mistelles une déduction
+maximum fixée à 3 % pour la fabrication des mistelles blanches et 5 % pour la fabrication de mistelles rouges, pour couvrir
+les déchets de fabrication.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°2001-649 du 16 juillet 2001 - art. 1 () JORF 21 juillet 2001
+	  - Décret n°2002-923 du 6 juin 2002
+
+	**Modifié par**:
+
+	  - Décret n°2012-1245 du 7 novembre 2012 - art. 1
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178-0 bis B (V)
+	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 118 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 438
 
 
 ###### Article 111-0 C
@@ -26484,6 +26488,182 @@ du code précité.
 	  - Code général des impôts, CGI. - art. 302 D
 	  - Code général des impôts, CGI. - art. 302 G
 	  - Code général des impôts, CGI. - art. 302 H ter
+
+
+###### Article 111-00 C
+
+Pour les pertes et déchets physiquement constatés lors des opérations de stockage d'alcools et de boissons alcooliques,
+l'entrepositaire agréé bénéficie d'une déduction dans la limite des taux annuels figurant au tableau ci-après. La déduction
+est calculée et appliquée par produit concerné tel que défini aux articles 286 I et J de l'annexe II au code général des
+impôts et par type de stockage identifié en tant que tel. 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+      </td><td>
+
+STOCKAGE SOUS BOIS 
+
+</td>
+      <td>
+
+STOCKAGE 
+
+en cuves étanches 
+
+</td>
+      <td colspan="2">
+
+STOCKAGE 
+
+après conditionnement 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Vins et cidres 
+
+</td>
+      <td align="center">
+
+4,5 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+0,7 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+0,3 % sur les quantités sorties 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Produits intermédiaires 
+
+</td>
+      <td align="center">
+
+5 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+0,7 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+0,3 % sur les quantités sorties 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Spiritueux 
+
+</td>
+      <td align="center">
+
+6 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+1,5 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+0,3 % sur les quantités sorties 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Rhums (DOM) 
+
+</td>
+      <td align="center">
+
+8 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+3 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+0,3 % sur les quantités sorties 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Alcools 
+
+</td>
+      <td align="center">
+
+6 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+1,5 % sur le stock moyen 
+
+</td>
+      <td align="center">
+
+0,3 % sur les quantités sorties 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Pour les vins mousseux élaborés selon la méthode traditionnelle, l'entrepositaire agréé applique un taux de pertes global
+maximum de 1,5 % aux volumes de vin élaboré en bouteilles. 
+
+Pour les eaux-de-vie de fruits stockées en cuves étanches ouvertes, le taux annuel de pertes maximum est fixé à 2,5 % sur le
+stock moyen. 
+
+Pour la bière, le taux annuel de pertes maximum est fixé à 1 % sur les quantités sorties. 
+
+Pour les arômes, le taux annuel de pertes maximum est fixé à 1,25 % sur les quantités sorties. 
+
+Le stock moyen est obtenu en additionnant les résultats des balances journalières des comptes des entrées et des sorties. Ce
+stock peut être aussi obtenu en additionnant les soldes mensuels reportés chaque mois dans la comptabilité matières depuis le
+dernier arrêté annuel. Ces résultats sont éventuellement corrigés de ceux des recensements réalisés par l'administration et
+reportés dans la comptabilité matières. Le solde moyen est alors obtenu en divisant ce total par le nombre de mois écoulés
+depuis le dernier arrêté annuel.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1245 du 7 novembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 A (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178-0 bis B (V)
 
 
 ###### Article 111-0 D
@@ -26527,6 +26707,29 @@ prévu au deuxième alinéa du V de l'article 302 G.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2002
+
+
+###### Article 111-00 D
+
+Les destructions d'alcool et de boissons alcooliques en suspension de droits doivent faire l'objet d'une demande préalable de
+l'entrepositaire agréé. La demande est formulée par écrit et doit parvenir au service des douanes au plus tard trois jours
+ouvrables avant la date de réalisation de l'opération. La demande précise la date, l'heure, le motif justifiant la
+destruction et le lieu de la destruction ou de l'envoi sur un site de destruction ainsi que la nature et le volume des
+produits par tarif d'imposition et par produit concerné tel que défini aux articles 286 I et J de l'annexe II du code général
+des impôts. L'exonération des droits d'accises est acquise pour les produits et volumes reconnus par l'administration. En
+l'absence de réponse de l'administration ou en l'absence du service lors de l'opération de destruction ou lors de l'envoi sur
+le site de destruction, l'exonération des droits d'accises est acquise pour les produits et volumes repris sur la demande de
+destruction. Les produits détruits sont inscrits en sortie dans la comptabilité matières.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-1245 du 7 novembre 2012 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I
 
 
 ##### Section 0I bis : Modalités d'exonération des droits d'accises sur les alcools et les boissons alcooliques
@@ -29519,11 +29722,23 @@ siège statutaire, soit celui de la direction effective, soit le principal étab
 
 ###### Article 251
 
-Lorsqu'un acte concerne des immeubles ou droits immobiliers situés dans le ressort de plusieurs bureaux d'hypothèques  la
-formalité fusionnée est exécutée au bureau où la publicité est requise en premier lieu. Ce bureau est l'un quelconque des
-bureaux intéressés au choix du requérant ; il est indiqué dans chacune des expéditions présentées à la formalité.
+Lorsqu'un acte concerne des immeubles ou droits immobiliers situés dans le ressort de plusieurs services de la publicité
+foncière la formalité fusionnée est exécutée au service où la publicité est requise en premier lieu. Ce service est l'un
+quelconque des services intéressés au choix du requérant ; il est indiqué dans chacune des expéditions présentées à la
+formalité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 1
 
 
+##### 1 : Services compétents
+
+##### a : Enregistrement
+
+##### b : Formalité fusionnée
 
 ##### 2 : Modalités d'exécution
 
@@ -29601,26 +29816,31 @@ I. La formalité fusionnée est exécutée au vu de deux expéditions intégrale
 fixées par le 3 de l'article 67 modifié introduit dans le décret n° 55-1350 du 14 octobre 1955 par l'article 12 du décret n°
 67-1252 du 22 décembre 1967. 
 
-II. Lorsqu'un acte concerne des immeubles ou droits immobiliers situés dans le ressort de plusieurs bureaux d'hypothèques la
-formalité fusionnée est opérée au vu d'une expédition intégrale de l'acte et d'un extrait établi dans les conditions fixées
-par l'article 67-3 précité. Les dispositions du 1 modifié de l'article 68 du décret n° 55-1350 du 14 octobre 1955 sont
-applicables à la publicité requise dans les autres bureaux des hypothèques compétents ; pour son exécution, les requérants
-disposent du délai supplémentaire global d'un mois prévu à l'article 33 modifié du décret n° 55-22 du 4 janvier 1955. 
+II. Lorsqu'un acte concerne des immeubles ou droits immobiliers situés dans le ressort de plusieurs services de la publicité
+foncière la formalité fusionnée est opérée au vu d'une expédition intégrale de l'acte et d'un extrait établi dans les
+conditions fixées par l'article 67-3 précité. Les dispositions du 1 modifié de l'article 68 du décret n° 55-1350 du 14
+octobre 1955 sont applicables à la publicité requise dans les autres services de la publicité foncière compétents ; pour son
+exécution, les requérants disposent du délai supplémentaire global d'un mois prévu à l'article 33 modifié du décret n° 55-22
+du 4 janvier 1955. 
 
-Le bureau où la formalité fusionnée est exécutée perçoit la totalité des droits et taxes exigibles ainsi que, le cas échéant,
-les pénalités de retard encourues. Il n'est dû, dans chacun des autres bureaux, que les salaires du conservateur des
-hypothèques. 
+Le service où la formalité fusionnée est exécutée perçoit la totalité des droits et taxes exigibles ainsi que, le cas
+échéant, les pénalités de retard encourues. Par dérogation à la disposition qui précède, la contribution de sécurité
+immobilière prévue à l'
+article 879 du code général des impôts
+est également due dans chacun des autres services. 
 
-L'extrait d'acte visé à l'article 860 du code général des impôts est déposé en double exemplaire à la conservation où la
-formalité fusionnée est requise ; un exemplaire supplémentaire est remis à chacune des autres conservations intéressées. 
+L'extrait prévu à l'
+article 860 du code général des impôts
+est déposé en double exemplaire au service où la formalité fusionnée est requise ; un exemplaire supplémentaire est remis à
+chacun des autres services concernés.  
 
 L'autorité compétente de l'Etat mentionnée aux premier et deuxième alinéas de l'article 860 du code général des impôts est le
 directeur général des finances publiques. 
 
 III. Quand la formalité fusionnée est applicable à des actes portant sur des immeubles situés en partie dans les départements
-de la Moselle, du Bas-Rhin et du Haut-Rhin, elle est exécutée dans les conditions fixées au II, à la conservation ou à l'une
-des conservations compétentes qui perçoit la totalité des droits et taxes exigibles sur l'acte. Les dispositions du même
-paragraphe sont applicables à la publicité requise dans les autres bureaux des hypothèques en ce qui concerne les immeubles
+de la Moselle, du Bas-Rhin et du Haut-Rhin, elle est exécutée dans les conditions fixées au II, au service ou à l'un des
+services compétents qui perçoit la totalité des droits et taxes exigibles sur l'acte. Les dispositions du même paragraphe
+sont applicables à la publicité requise dans les autres services de la publicité foncière en ce qui concerne les immeubles
 situés en dehors des trois départements visés ci-dessus. 
 
 IV. Une réquisition de formalité fusionnée est obligatoire en cas de présentation à cette formalité d'actes qui y sont soumis
@@ -29628,13 +29848,21 @@ facultativement.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°55-22 du 4 janvier 1955 - art. 33
+	  - Décret n°55-1350 du 14 octobre 1955
+	  - Décret n°55-1350 du 14 octobre 1955 - art. 68
+	  - Code général des impôts, CGI. - art. 860
+	  - Code général des impôts, CGI. - art. 879
+
 	**Codifié par**:
 
 	  - Décret n°99-382 du 18 mai 1999
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 11
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 1
 
 	**Cité par**:
 
@@ -29642,17 +29870,13 @@ facultativement.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 256 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 257 (V)
 
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 860
-
 
 ###### Article 254
 
-Pour l'exécution de la formalité fusionnée les requérants doivent remettre au bureau en même temps que les pièces visées à
-l'article 253, l'ensemble des documents dont le dépôt était prescrit en matière d'enregistrement et de publicité foncière au
-moment de l'entrée en vigueur du décret n° 70-548 du 22 juin 1970. Ces documents sont aménagés s'il y a lieu suivant des
-modalités fixées par le directeur général des finances publiques.
+Pour l'exécution de la formalité fusionnée les requérants doivent remettre au service de la publicité foncière en même temps
+que les pièces visées à l'article 253, l'ensemble des documents dont le dépôt était prescrit en matière d'enregistrement et
+de publicité foncière au moment de l'entrée en vigueur du décret n° 70-548 du 22 juin 1970. Ces documents sont aménagés s'il
+y a lieu suivant des modalités fixées par le directeur général des finances publiques.
 
 **Liens relatifs à cet article**
 
@@ -29663,7 +29887,7 @@ modalités fixées par le directeur général des finances publiques.
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 26
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 1
 
 
 ###### Article 255
@@ -29689,18 +29913,23 @@ général des impôts.
 
 ###### Article 256
 
-Les pièces visées aux articles 253 et 254 et l'extrait d'acte prévu à l'article 860 du code général des impôts peuvent être :
+Les pièces visées aux articles 253 et 254 et l'extrait d'acte prévu à l'article 860 du code général des impôts peuvent
+être : 
 
-soit remis au bureau compétent ;
+soit remis au service de la publicité foncière compétent ; 
 
-soit adressés directement audit bureau par pli postal ordinaire ou recommandé.
+soit adressés directement à ce service par pli postal ordinaire ou recommandé.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 1
+
 	**Cite**:
 
-	  - CGI 860
-	  - CGIAN3 253, 254
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 253 (V)
+	  - Code général des impôts, CGI. - art. 860 (V)
 
 
 ###### Article 257
@@ -29725,22 +29954,6 @@ Malgré la notification d'une cause de rejet de la formalité l'acte est réput�
 sont perçus en conséquence. La publication de l'acte  après régularisation  ne donne pas lieu au versement d'une nouvelle
 taxe.
 
-
-
-###### Article 259
-
-Pour l'exécution de la formalité fusionnée les conservateurs des hypothèques disposent de la totalité des pouvoirs confiés
-par la loi aux  comptables de la direction générale des finances publiques chargés de la formalité de l'enregistrement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 32
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
 
 
 ##### c : Interdictions.
@@ -30497,9 +30710,8 @@ I. Les actes soumis à la formalité fusionnée sont portés sur le répertoire 
 Lorsqu'il est fait usage de la faculté prévue à l'article 283 qui précède, ils sont portés sur la partie du répertoire visée
 au troisième alinéa dudit article. 
 
-II. Sur ces documents, la relation de la formalité fusionnée est constituée par sa date, suivie de la lettre " C ",
-abréviation des mots " conservation des hypothèques " ; la relation de l'enregistrement est constituée par la date de cette
-formalité, suivie de la lettre " R. 
+II. Sur ces documents, la relation de la formalité fusionnée est constituée par sa date, suivie de la lettre "C" ; la
+relation de l'enregistrement est constituée par la date de cette formalité, suivie de la lettre "R". 
 
 III. Les documents désignés au I ne sont plus soumis au visa périodique des comptables de la direction générale des finances
 publiques chargés de la formalité de l'enregistrement.
@@ -30512,564 +30724,12 @@ publiques chargés de la formalité de l'enregistrement.
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 13
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 283
 	  - Code général des impôts, CGI. - art. 867
-
-
-##### II : Obligations des agents de l'administration : Salaires des conservateurs
-
-##### 1 : Généralités
-
-###### Article 285
-
-Les salaires des conservateurs des hypothèques, pour les fonctions dont ces agents sont chargés, sont fixés conformément aux
-tarifs énoncés dans la présente section.
-
-Les bases de calcul et le montant des salaires sont arrondis à l'euro le plus proche. La fraction d'euro égale ou supérieure
-à 0,50 est comptée pour un.
-
-Lorsque le conservateur, en application de l'article 880 du code général des impôts, prononce, à défaut de versement d'avance
-des salaires et hors les cas d'exception prévus par les dispositions en vigueur, le refus du dépôt des expéditions, extraits,
-copies ou bordereaux à publier, ce refus a lieu dans les conditions fixées à l'article 74 du décret n° 55-1350 modifié du 14
-octobre 1955 ; à défaut du même versement, les états et certificats établis sont retenus jusqu'au complet paiement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 880
-
-	**Modifié par**:
-
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-##### 2 : Salaires fixes
-
-###### Article 286
-
-Il est alloué un salaire fixe de 8 € pour tout bordereau rectificatif ou tout complément de bordereau déposé en application
-du 3 de l'article 34 du décret n° 55-1350 modifié du 14 octobre 1955.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 34
-
-	**Cité par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 4 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-###### Article 287
-
-Il est alloué un salaire fixe de 15 € : 
-
-pour chaque publication ne donnant pas ouverture au salaire proportionnel, notamment : 
-
-1° pour chaque déclaration de changement de domicile par acte séparé, pour l'indication d'une créance hypothécaire ou
-privilégiée déjà inscrite et grevée de substitution et pour chaque mention de prorogation de délai ; 
-
-2° pour la publication de chaque commandement valant saisie immobilière ; 
-
-3° pour la mention de l'assignation et des dénonciations prévues à l'article R. 322-9 du code des procédures civiles
-d'exécution ; 
-
-4° pour l'acte du conservateur constatant son refus de publier un commandement valant saisie en cas de commandement
-transcrit ; 
-
-5° pour la mention prévue à l'article R. 321-10 du code des procédures civiles d'exécution ; 
-
-6° pour la radiation de la saisie ; 
-
-7° pour la mention de tout jugement ou ordonnance en marge de la publication d'une saisie ; 
-
-8° pour chaque duplicata de certificat de radiation, subrogation ou résolution ; 
-
-9° pour la publication de chaque état descriptif de division et de chaque acte modificatif d'état descriptif de division ; 
-
-10° pour la publication de chaque convention passée en application de l'article L. 351-2 du code de la construction et de
-l'habitation ; 
-
-11° pour la publication des actes constatant la modification de la forme juridique de personnes morales, lorsque cette
-modification n'emporte pas création d'un être moral nouveau ; 
-
-12° pour la publication des demandes en justice mentionnées au c du 4° de l'article 28 du décret n° 55-22 du 4 janvier 1955
-modifié ainsi que des demandes en justice, procès-verbaux et déclarations visées au 2 de l'article 37 du même décret ; 
-
-13° pour la publication des décisions et des actes constatant les désistements mentionnés au d du 4° de l'article 28 modifié
-du décret n° 55-22 du 4 janvier 1955 ; 
-
-14° pour les actes et attestations rectificatives publiés en application du 3 de l'article 34 du décret n° 55-1350 modifié du
-14 octobre 1955 ; 
-
-15° Pour la publication des actes constatant les opérations mentionnées à l'article 1048 ter du code général des impôts ; 
-
-16° pour la publication de chaque déclaration établie pour l'application des articles L. 526-1 à L. 526-3 du code de
-commerce ; 
-
-17° Pour l'inscription des avenants prévus par l'article 59 de l'ordonnance n° 2006-346 du 23 mars 2006 relative aux
-sûretés ; 
-
-18° Pour l'inscription des transformations prévues par le III de l'article 10 de la loi n° 2007-212 du 20 février 2007
-portant diverses dispositions intéressant la Banque de France.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 du 4 janvier 1955 - art. 28
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 34
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 59
-	  - Loi n°2007-212 du 20 février 2007 - art. 10
-	  - Code des procédures civiles d'exécution - art. R321-10
-	  - Code de commerce - art. L526-1
-	  - Code général des impôts, CGI. - art. 1048 ter
-	  - Code de la construction et de l'habitation. - art. L351-2
-
-	**Modifié par**:
-
-	  - Décret n°2012-783 du 30 mai 2012 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-###### Article 288
-
-I. Le tarif des salaires exigibles pour les réquisitions déposées en vue de la délivrance des renseignements hypothécaires
-sommaires visés au I de l'article 42-1 du décret n° 55-1350 du 14 octobre 1955 modifié est fixé comme suit :
-
-1° Réquisitions ne comportant pas la désignation des immeubles ou demandes de prorogation afférentes à ce type de
-réquisitions :
-
-8 € par personne individuellement désignée dans la demande ;
-
-2° Réquisitions formulées sans indication de personne ou demandes de prorogation afférentes à ce type de réquisitions :
-
-8 € par immeuble indiqué.
-
-Est considéré comme immeuble chaque îlot de propriété ou parcelle cadastrale ou chaque lot de copropriété pour les biens
-faisant l'objet d'un état descriptif de division ou d'un document analogue ;
-
-3° Réquisitions comportant à la fois la désignation individuelle des immeubles et des personnes ou demandes de prorogation
-afférentes à ce type de réquisitions :
-
-8 € pour celles formulées du chef de trois personnes au maximum et portant sur cinq immeubles au maximum.
-
-Il est perçu en sus de ce tarif :
-
-3 € par personne indiquée au-delà de la troisième ;
-
-1 € par immeuble au-delà du cinquième.
-
-4° (Abrogé).
-
-II. Dans les bureaux où le fichier immobilier est informatisé, la délivrance des renseignements prévue à l'article 53-6 du
-décret n° 55-1350 du 14 octobre 1955 modifié donne lieu à l'application des tarifs définis au I du présent article.
-
-III. Pour les réquisitions déposées en vue de la délivrance de renseignements sous forme de copies de fiches visées à
-l'article 43 du décret n° 55-1350 du 14 octobre 1955 modifié, il est fait application des tarifs définis aux 1° et 2° du I.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 42-1
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 43
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 53-6
-
-	**Modifié par**:
-
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-###### Article 289
-
-Le tarif des salaires exigibles pour les réquisitions déposées en vue de la délivrance des renseignements hypothécaires
-ordinaires, visé à l'article 42 du décret n° 55-1350 modifié du 14 octobre 1955, est fixé comme suit :
-
-1° Réquisitions ne comportant pas la désignation des immeubles :
-
-11 € par personne individuellement désignée dans la demande ;
-
-2° Réquisitions formulées sans indication de personne :
-
-11 € par immeuble indiqué.
-
-Est considéré comme immeuble chaque îlot de propriété ou parcelle cadastrale ou chaque lot de copropriété pour les biens
-faisant l'objet d'un état descriptif de division ou d'un document analogue ;
-
-3° Réquisitions comportant à la fois la désignation individuelle des immeubles et des personnes :
-
-11 € pour celles formulées du chef de trois personnes au maximum et portant sur cinq immeubles au maximum.
-
-Il est perçu en sus de ce tarif :
-
-5 € par personne indiquée au-delà de la troisième ;
-
-1 € par immeuble au-delà du cinquième.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 42
-
-	**Modifié par**:
-
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-###### Article 290
-
-Le tarif des salaires exigibles lors de la demande de délivrance des copies des documents publiés est fixé à :
-
-1° Copies intégrales de documents :
-
-6 € par bordereau d'inscription demandé ;
-
-15 € par publication demandée autre que les copies d'états descriptifs de division ou de règlements de copropriété pour
-lesquelles le tarif des salaires exigibles est fixé à 30 €.
-
-Lorsque le requérant n'indique pas les références aux documents, il sera perçu un acompte provisionnel de 15 €, non
-remboursable.
-
-Dans l'hypothèse où le salaire calculé sur la base du tarif ci-avant est, lors de la délivrance des copies, supérieur à 15 €,
-le complément sera réclamé au requérant.
-
-2° Extraits littéraux de documents :
-
-6 € par extrait littéral demandé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-###### Article 291
-
-Le tarif des salaires exigibles pour la délivrance des extraits prévus par le 2 de l'article 40, le III de l'article 42-1 et
-l'article 85-1 du décret n° 55-1350 modifié du 14 octobre 1955 est fixé à 5 € par extrait analytique de document demandé et
-expressément désigné par ses références (nature, date, volume et numéro).
-
-Lorsque les réquisitions d'extraits complétant un état sommaire ne comportent pas les références aux formalités, il est fait
-application du tarif défini à l'article 289.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 289
-	  - Décret n°55-1350 du 14 octobre 1955
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 85-1
-
-	**Modifié par**:
-
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-###### Article 292
-
-Le tarif des salaires exigibles pour la délivrance des relevés de formalités prévus au 2 de l'article 85-1 du décret n°
-55-1350 modifié du 14 octobre 1955, et à l'article 8 de l'arrêté du 9 avril 1956 portant création et fonctionnement des
-centres spéciaux d'archives hypothécaires est fixé à 5 € par personne du chef de laquelle les renseignements sont demandés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1956-04-09 art. 8
-
-	**Modifié par**:
-
-	  - Décret n°2001-96 2001-02-02 art. 1 C JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2002
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-##### 3 : Salaires proportionnels
-
-###### Article 293
-
-Le salaire alloué pour l'inscription de chaque droit d'hypothèque ou privilège est liquidé, au taux unique de 0,05 %, sur les
-sommes ou valeurs de la créance garantie, énoncées au bordereau.
-
-En ce qui concerne les inscriptions prises pour sûreté d'une créance indéterminée, le salaire est perçu sur le montant de
-l'évaluation du droit garanti, à fournir par les requérants.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V)
-	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2007-1567 du 2 novembre 2007 - art. 1 () JORF 4 novembre 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-	**Codifié par**:
-
-	  - L'article sera codifié ultérieurement
-
-
-###### Article 294
-
-Le salaire alloué pour chaque déclaration soit de cession d'antériorité, soit de subrogation, soit de subrogation et de
-changement de domicile par le même acte est liquidé, au taux unique de 0,05 %, sur les sommes faisant l'objet de la
-subrogation ou, dans le cas de cession d'antériorité, sur la valeur de la plus faible inscription.
-
-Le même salaire s'applique à la publication de la convention de rechargement prévue à l'article 2422 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2006-729 du 22 juin 2006 - art. 1 () JORF 24 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-	**Cite**:
-
-	  - Code civil - art. 2422
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-
-###### Article 295
-
-Le salaire alloué pour chaque radiation d'inscription est liquidé, au taux unique de 0,10 %, sur les sommes faisant l'objet
-de la radiation.
-
-En cas de réduction du gage, le salaire est liquidé sur le montant total des sommes garanties par l'inscription ou sur la
-valeur de l'immeuble affranchi, si cette valeur est déclarée dans l'acte et est inférieure au montant des sommes garanties.
-En cas de mainlevée partielle ayant pour objet la division de l'hypothèque, de telle sorte que chaque immeuble ou fraction
-d'immeuble ne garantisse plus qu'une partie de la créance, le salaire afférent à chacun des dégrèvements partiels résultant
-de la division ne peut être liquidé sur une somme supérieure à la fraction de la créance originaire dont chaque immeuble ou
-fraction d'immeuble reste grevé.
-
-Par dérogation aux dispositions qui précèdent, le salaire alloué pour la radiation requise conformément au troisième alinéa
-de l'article 2441 du code civil est liquidé au taux unique de 0,05 % sur les sommes faisant l'objet de la radiation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2006-729 du 22 juin 2006 - art. 2 () JORF 24 juin 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-	**Cite**:
-
-	  - Code civil - art. 2441
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-
-###### Article 296
-
-Le salaire alloué pour la publication de chaque acte est liquidé, au taux unique de 0,10 %, sur les sommes énoncées ou la
-valeur estimée par les requérants, sous peine de refus du dépôt, des immeubles ou des droits faisant l'objet de la
-publication.
-
-La valeur des biens retenue pour la perception du salaire ne peut être inférieure à celle servant de base définitive à la
-perception de la taxe de publicité foncière ou des droits d'enregistrement ou en ce qui concerne les actes non assujettis à
-une imposition proportionnelle  à la valeur réelle des immeubles ou des droits faisant l'objet de la publication.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°82-881 1982-10-15
-
-	**Modifié par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 1 (V) JORF 29 juillet 1981
-	  - Décret n°81-721 du 24 juillet 1981 - art. 2 (V) JORF 29 juillet 1981
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er septembre 1982
-
-
-###### Article 297
-
-Les formalités hypothécaires  pour lesquelles il est alloué aux conservateurs des hypothèques un salaire proportionnel et
-gradué donnent lieu à la perception du salaire minimal lorsqu'elles se rapportent à la construction  à la première mutation
-ou à l'attribution des logements économiques ou des logements à réaliser par des personnes groupées en sociétés ou en
-associations qui s'engagent  dans les actes de prêts consentis dans les conditions prévues au décret n° 50-899 du 2 août 1950
-modifié  à faire         r effectuer par leurs membres des apports en travail.
-
-Pour l'application du présent article  le salaire minimal représente la moitié du salaire proportionnel normal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°50-899 du 2 août 1950
-
-	**Modifié par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 3 (V) JORF 29 juillet 1981
-
-	**Cité par**:
-
-	  - Décret n°81-721 du 24 juillet 1981 - art. 3 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-##### 4 : Minimum de perception
-
-###### Article 298
-
-Le salaire ne peut être inférieur à :
-
-a. 8 € par inscription mentionnée à l'article 293 ou par déclaration ou convention de rechargement mentionnée à l'article
-294 ;
-
-b. 15 € par radiation mentionnée à l'article 295 ou par acte pour les publications visées à l'article 296.
-
-Ce dernier salaire est également exigible lorsque les publications ne donnent pas ouverture au salaire proportionnel.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 293, 294, 295, 296
-
-	**Modifié par**:
-
-	  - Décret n°2007-1567 du 2 novembre 2007 - art. 1 () JORF 4 novembre 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-
-##### 5 : Délivrance de renseignements urgents
-
-###### Article 299
-
-La délivrance des renseignements prévue au II de l'article 42-1 et à l'article 53-6 du décret n° 55-1350 du 14 octobre 1955
-modifié et la fourniture de copies de fiches énoncée à l'article 43 du décret précité donnent ouverture, en sus des salaires
-visés à l'article 288, à une majoration de 50 % de ces salaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 288
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 42-1
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 43
-	  - Décret n°55-1350 du 14 octobre 1955 - art. 53-6
-
-	**Modifié par**:
-
-	  - Décret n°98-689 du 30 juillet 1998 - art. 2 () JORF 8 août 1998
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1463 du 26 décembre 2012 - art. 4
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
 
 
 #### Chapitre I bis : Impôt de solidarité sur la fortune
@@ -39640,6 +39300,42 @@ est déposée par l'intermédiaire du représentant mentionné à l'article 302 
 	  - Code de la sécurité sociale. - art. L137-26 (V)
 
 
+##### I ter : Déclaration d'achat au détail de métaux ferreux et non ferreux
+
+###### Article 344 GE
+
+La déclaration mentionnée à l'article 1649 bis du code général des impôts doit comporter les indications suivantes : 
+
+1° Concernant le déclarant, ses nom, prénoms ou raison sociale, adresse et, pour les entreprises, le numéro SIRET ; 
+
+2° Concernant chaque vendeur de métaux ferreux et non ferreux : 
+
+a. Son identification : nom de famille, le cas échéant, nom de l'époux, prénoms, sexe, date et lieu de naissance et, pour les
+entreprises, la raison sociale et le numéro SIRET ; 
+
+b. L'adresse de son domicile ou siège social ; 
+
+c. Le montant total des achats effectués auprès de lui au titre de l'année. 
+
+La déclaration est souscrite auprès de la direction départementale des finances publiques du lieu du domicile de la personne
+ou du siège de l'établissement qui a effectué l'acquisition, soit par la communication d'un support informatique, soit par
+l'envoi de formulaires normalisés, dont les caractéristiques et le modèle sont fixés par l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. 3 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-1322 du 28 novembre 2012 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 bis
+
+
 ##### II : Déclaration des ventes autres que les ventes au détail
 
 ###### Article 344 H
@@ -41509,19 +41205,14 @@ principal établissement ou le domicile de l'employeur, ou, pour les entreprises
 
 Lorsque le montant total de la taxe sur les salaires acquittée l'année précédente : 
 
-a) Est inférieur à 1 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
+a) Est inférieur à 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
 rémunérations payées pendant l'année en cours dans les quinze premiers jours de l'année suivante ; 
 
-b) Est compris entre 1 000 € et 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison
-des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ; 
+b) Est compris entre 4 000 € et 10 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à
+raison des rémunérations payées pendant un trimestre déterminé dans les quinze premiers jours du trimestre suivant ; 
 
-c) Est supérieur à 4 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
+c) Est supérieur à 10 000 €, les employeurs versent les sommes dues au titre de la taxe sur les salaires à raison des
 rémunérations payées pendant un mois déterminé dans les quinze premiers jours du mois suivant. 
-
-Toutefois, si les sommes dues au titre de la taxe sur les salaires à raison des rémunérations payées depuis le 1er janvier de
-l'année en cours sont supérieures à 10 000 €, les employeurs versent la totalité de ces sommes dans les quinze premiers jours
-du mois suivant le dépassement de ce seuil. Le versement des échéances restantes jusqu'à la fin de l'année s'effectue
-mensuellement. 
 
 2. Chaque versement, mensuel ou trimestriel, est accompagné d'un relevé dont le modèle est fixé par l'administration, daté et
 signé par l'employeur et indiquant notamment sa désignation, sa profession et son adresse, la période à laquelle s'applique
@@ -41559,7 +41250,7 @@ mentionnée au 3.
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 22
+	  - Décret n°2012-1464 du 26 décembre 2012 - art. 1
 
 	**Cite**:
 
@@ -42409,11 +42100,16 @@ de la recette.
 
 ###### Article 384 quinquies A
 
-L'expédition rendue au déposant après accomplissement de la formalité fusionnée est revêtue par le conservateur des
-hypothèques d'une mention attestant l'exécution de la formalité ainsi que le paiement des sommes dues. Il y est exprimé la
-date de la formalité ainsi que la référence du dépôt  le volume et le numéro du registre où le document se trouve enliassé.
-Le total des sommes perçues est inscrit en toutes lettres.
+L'expédition rendue au déposant après accomplissement de la formalité fusionnée est revêtue par le service de la publicité
+foncière d'une mention attestant l'exécution de la formalité ainsi que le paiement des sommes dues. Il y est exprimé la date
+de la formalité ainsi que la référence du dépôt le volume et le numéro du registre où le document se trouve enliassé. Le
+total des sommes perçues est inscrit en toutes lettres.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 1
 
 
 #### I : Taxe spéciale sur les conventions d'assurances
@@ -43605,9 +43301,15 @@ Lorsqu'un acte a fait l'objet d'un refus de publier et que la régularisation ne
 sanctionnant le retard dans l'exécution de la formalité de l'enregistrement n'est exigible si celle-ci est requise dans le
 délai prévu pour la formalité fusionnée.
 
-Pour le calcul de ce délai  il est fait abstraction de la période comprise entre le dépôt de l'acte refusé au bureau des
-hypothèques et sa présentation à l'enregistrement lorsque celle-ci intervient dans le mois de la notification du refus.
+Pour le calcul de ce délai il est fait abstraction de la période comprise entre le dépôt de l'acte refusé au service de la
+publicité foncière et sa présentation à l'enregistrement lorsque celle-ci intervient dans le mois de la notification du
+refus.
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2012-1463 du 26 décembre 2012 - art. 1
 
 
 ## Chapitre II : Procédures

@@ -29,26 +29,9 @@ construction et de l'habitation, dans le tableau ci-après :
 <table>
     <tbody>
       <tr>
-        <th>
-
-TRANCHES 
-
-</th>
-        <th>
-
-1 à 2 
-
-</th>
-        <th>
-
-3 à 5 
-
-</th>
-        <th colspan="4">
-
-6
-
-</th>
+        <td align="center">TRANCHES</td>
+        <td align="center">1 à 2</td>
+        <td align="center" colspan="3">3 à 5 </td>
       </tr>
       <tr>
         <td align="center">
@@ -64,11 +47,6 @@ Prime p
         <td align="center">
 
 55 points de base 
-
-</td>
-        <td align="center">
-
-35 points de base 
 
 </td>
       </tr>
@@ -92,7 +70,7 @@ trimestre.
 
 	**Modifié par**:
 
-	  - Décret n°2011-2059 du 30 décembre 2011 - art. 2
+	  - Décret n°2012-1531 du 29 décembre 2012 - art. 2
 
 	**Cite**:
 
