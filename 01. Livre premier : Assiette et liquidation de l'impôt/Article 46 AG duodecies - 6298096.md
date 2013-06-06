@@ -3,14 +3,14 @@
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants : 
 
-1. Pour les baux conclus en 2012, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2013, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à : 
 
-1° 161 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
+1° 164 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
 année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à
 la consommation hors tabac de chacun des quatre départements d'outre-mer ; 
 
-2° 201 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
+2° 205 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
 Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que
 la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la
 Nouvelle-Calédonie. 
@@ -31,40 +31,33 @@ Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut d
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure. 
 
-Pour les baux conclus en 2012, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2013, les plafonds annuels de ressources sont les suivants : 
 
 (en euros) 
 
 <table>
   <tbody>
     <tr>
-      <th>
+      <td rowspan="2">
 
 COMPOSITION DU FOYER DU LOCATAIRE
 
-</th>
-      <th colspan="2">
+</td>
+      <td colspan="2">
 
 PLAFOND ANNUEL DE RESSOURCES
 
-</th>
+</td>
     </tr>
     <tr>
-      <th>
-
-</th>
-      <th>
-
-Départements d'outre-mer,
+      <td> Départements d'outre-mer, 
 
 Saint-Barthélemy,
 
 Saint-Martin et Mayotte
 
-</th>
-      <th>
-
-Polynésie française, Nouvelle-Calédonie,
+</td>
+      <td> Polynésie française, Nouvelle-Calédonie, 
 
 îles Wallis et Futuna, Terres australes
 
@@ -72,22 +65,22 @@ et antarctiques françaises
 
 et Saint-Pierre-et-Miquelon
 
-</th>
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Personne seule
 
 </td>
-      <td align="center">
+      <td>
 
-30 433
+30 985
 
 </td>
-      <td align="center">
+      <td>
 
-29 329
+29 873
 
 </td>
     </tr>
@@ -97,16 +90,10 @@ Personne seule
 Couple
 
 </td>
+      <td align="center">57 307 </td>
       <td align="center">
 
-56 287
-
-</td>
-      <td align="center">
-
-54 243
-
-</td>
+55 249</td>
     </tr>
     <tr>
       <td align="center">
@@ -114,14 +101,10 @@ Couple
 Personne seule ou couple ayant une personne à charge
 
 </td>
+      <td align="center">60 621</td>
       <td align="center">
 
-59 542
-
-</td>
-      <td align="center">
-
-57 380
+58 444
 
 </td>
     </tr>
@@ -133,12 +116,12 @@ Personne seule ou couple ayant deux personnes à charge
 </td>
       <td align="center">
 
-62 798
+63 936
 
 </td>
       <td align="center">
 
-60 519
+61 641 
 
 </td>
     </tr>
@@ -150,12 +133,12 @@ Personne seule ou couple ayant trois personnes à charge
 </td>
       <td align="center">
 
-67 149
+68 365
 
 </td>
       <td align="center">
 
-64 709
+65 909 
 
 </td>
     </tr>
@@ -167,14 +150,10 @@ Personne seule ou couple ayant quatre personnes à charge
 </td>
       <td align="center">
 
-71 500
+72 795
 
 </td>
-      <td align="center">
-
-68 901
-
-</td>
+      <td align="center">70 179</td>
     </tr>
     <tr>
       <td align="center">
@@ -184,12 +163,12 @@ Majoration par personne à charge à partir de la cinquième
 </td>
       <td align="center">
 
-+ 4 568
++ 4 651
 
 </td>
-      <td align="center">
+      <td align="center">+ 4 483
 
-+ 4 401</td>
+</td>
     </tr>
   </tbody>
 </table>
@@ -216,7 +195,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2013-463 du 3 juin 2013 - art. 4
 
 	**Cité par**:
 

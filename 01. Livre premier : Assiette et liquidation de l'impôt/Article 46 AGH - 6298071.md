@@ -13,10 +13,10 @@ concernés ;
 
 d. Pour l'application du d du 2 de l'article 199 decies H précité, la nature, le montant et la date de paiement des travaux
 forestiers réalisés ; le cas échéant, les contribuables joignent également le document du fournisseur des matériels
-forestiers de reproduction utilisés mentionné à l'article R. 552-22 du code forestier et une attestation sur l'honneur selon
+forestiers de reproduction utilisés mentionné à l'article R. 153-16 du code forestier et une attestation sur l'honneur selon
 laquelle est respecté l'arrêté régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à
 l'investissement forestier ainsi que, dans le cas où le contribuable est titulaire d'un compte d'épargne d'assurance pour la
-forêt prévu à l'article L. 261-1 du code forestier, une attestation sur l'honneur selon laquelle les sommes dépensées pour la
+forêt prévu à l'article L. 352-1 du code forestier, une attestation sur l'honneur selon laquelle les sommes dépensées pour la
 réalisation des travaux et pour lesquelles le bénéfice de la réduction d'impôt est demandé, ne proviennent pas de ce même
 compte ; 
 
@@ -32,19 +32,24 @@ dispositions ;
 g. Pour l'application du g du 2 de l'article 199 decies H précité, l'attestation de l'entreprise d'assurance précisant
 l'identité et l'adresse de l'assureur, la nature des risques couverts, le nombre d'hectares assurés contre le risque de
 tempête, le montant de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile ainsi
-que, dans le cas où le contribuable est titulaire d'un compte d'épargne d'assurance pour la forêt prévu à l'article L. 261-1
+que, dans le cas où le contribuable est titulaire d'un compte d'épargne d'assurance pour la forêt prévu à l'article L. 352-1
 du code forestier, une attestation sur l'honneur selon laquelle les sommes dépensées pour le paiement des cotisations
 relatives au contrat d'assurance précité et pour lesquelles le bénéfice de la réduction d'impôt est demandé, ne proviennent
 pas de ce même compte.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er à 8 de l'ordonnance n° 2012-92 du 26 janvier 2012, et des articles
+2, 3, 6 et 7 du décret n° 2012-836 du 29 juin 2012.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-2067 du 30 décembre 2011 - art. 1
 
 	**Cite**:
 
+	  - Code forestier (nouveau) - art. L352-1
+	  - Code forestier (nouveau) - art. R153-16
 	  - Code général des impôts, CGI. - art. 199 decies H
-	  - Code forestier - art. L261-1 (VT)
-	  - Code forestier - art. R552-22
+
+	**Modifié par**:
+
+	  - Décret n°2013-463 du 3 juin 2013 - art. 4
