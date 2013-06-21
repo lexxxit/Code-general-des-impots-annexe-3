@@ -126,13 +126,23 @@ aux articles 196 à 196 B du même code.
 
 II.-Les plafonds de loyer mentionnés au premier alinéa du 1 du I et les plafonds de ressources mentionnés au 2 du même I sont
 révisés au 1er janvier de chaque année selon les modalités définies aux 1° des 1 et 1 bis de l'article 46 AG duodecies pour
-les départements de la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte.
+les départements de la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte. 
+
+III.-La réduction des plafonds de loyer définis au premier alinéa du 1 du I s'applique en Guadeloupe, en Guyane, en
+Martinique, à La Réunion et à Mayotte dans les mêmes conditions et selon les mêmes modalités que celles prévues au III de
+l'article 2 terdecies D, sous réserve des dispositions suivantes : 
+
+1° Les plafonds de loyer réduits sont révisés au 1er janvier de chaque année dans les conditions prévues au II du présent
+article ; 
+
+2° Pour la consultation prévue au 1° du 2 du III de l'article 2 terdecies D, le conseil départemental de l'habitat mentionné
+à l'article L. 364-1 du code de la construction et de l'habitation est substitué au comité régional de l'habitat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-474 du 5 juin 2013 - art. 1
+	  - Décret n°2013-517 du 19 juin 2013 - art. 2
 
 	**Cité par**:
 
@@ -144,9 +154,10 @@ les départements de la Guadeloupe, la Guyane, la Martinique, La Réunion et May
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
 	  - Code général des impôts, CGI. - art. 1417
 	  - Code général des impôts, CGI. - art. 196
 	  - Code général des impôts, CGI. - art. 199 novovicies
+	  - Code de la construction et de l'habitation. - art. L364-1

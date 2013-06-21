@@ -22,28 +22,28 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 a) Pour les baux conclus en 2013, les plafonds annuels de ressources des locataires sont les suivants : 
 
 <table>
-    <tbody>
-      <tr>
-        <td rowspan="2" width="227">
+  <tbody>
+    <tr>
+      <td width="227" rowspan="2">
 
 COMPOSITION DU FOYER LOCATAIRE 
 
 </td>
-        <td width="454" colspan="4">
+      <td width="454" colspan="4">
 
 LIEU DE SITUATION DU LOGEMENT 
 
 </td>
-      </tr>
-      <tr>
-        <td width="113">
+    </tr>
+    <tr>
+      <td width="113">
 
 Zone A bis 
 
 (en euros) 
 
 </td>
-        <td width="113">
+      <td width="113">
 
 Reste 
 
@@ -52,212 +52,212 @@ de la zone A
 (en euros) 
 
 </td>
-        <td width="113">
+      <td width="113">
 
 Zone B 1 
 
 (en euros) 
 
 </td>
-        <td width="113">
+      <td width="113">
 
 Zone B 2 
 
 (en euros) 
 
 </td>
-      </tr>
-      <tr>
-        <td width="227" valign="top">
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 Personne seule 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 36 502 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 36 502 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 29 751 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 26 776 
 
 </td>
-      </tr>
-      <tr>
-        <td width="227" valign="top">
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 Couple 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 54 554 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 54 554 
 
 </td>
-        <td width="113" valign="top">
+      <td width="113" valign="top">
 
 39 731 
 
 </td>
-        <td width="113" valign="top">
+      <td valign="top" width="113">
 
 35 757 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top" width="227">
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 Personne seule ou couple ayant une personne à charge 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 71 515 
 
 </td>
-        <td valign="top" width="113">
+      <td width="113" valign="top">
 
 65 579 
 
 </td>
-        <td width="113" valign="top">
+      <td width="113" valign="top">
 
 47 780 
 
 </td>
-        <td width="113" valign="top">
+      <td width="113" valign="top">
 
 43 002 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top" width="227">
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-        <td valign="top" width="113">
+      <td width="113" valign="top">
 
 85 384 
 
 </td>
-        <td valign="top" width="113">
+      <td width="113" valign="top">
 
 78 550 
 
 </td>
-        <td width="113" valign="top">
+      <td width="113" valign="top">
 
 57 681 
 
 </td>
-        <td width="113" valign="top">
+      <td valign="top" width="113">
 
 51 913 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top" width="227">
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 Personne seule ou couple ayant trois personnes à charge 
 
 </td>
-        <td width="113" valign="top">
+      <td valign="top" width="113">
 
 101 589 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 92 989 
 
 </td>
-        <td width="113" valign="top">
+      <td width="113" valign="top">
 
 67 854 
 
 </td>
-        <td width="113" valign="top">
+      <td valign="top" width="113">
 
 61 069 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top" width="227">
+    </tr>
+    <tr>
+      <td width="227" valign="top">
 
 Personne seule ou couple ayant quatre personnes à charge 
 
 </td>
-        <td valign="top" width="113">
+      <td valign="top" width="113">
 
 114 315 
 
 </td>
-        <td width="113" valign="top">
+      <td width="113" valign="top">
 
 104 642 
 
 </td>
-        <td valign="top" width="113">
+      <td width="113" valign="top">
 
 76 472 
 
 </td>
-        <td valign="top" width="113">
+      <td width="113" valign="top">
 
 68 824 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="top" width="227">
+    </tr>
+    <tr>
+      <td valign="top" width="227">
 
 Majoration par personne à charge supplémentaire à partir de la cinquième 
 
 </td>
-        <td valign="top" width="113">
+      <td width="113" valign="top">
 
 + 12 736 
 
 </td>
-        <td valign="top" width="113">
+      <td width="113" valign="top">
 
 + 11 659 
 
 </td>
-        <td valign="top" width="113">
+      <td width="113" valign="top">
 
 + 8 531 
 
 </td>
-        <td width="113" valign="top">
+      <td valign="top" width="113">
 
 + 7 677 
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2
 duodecies ; 
@@ -268,13 +268,43 @@ signature du contrat de location et les personnes à charge s'entendent des pers
 même code. 
 
 II. ― Les zones A, A bis, B 1 et B 2 mentionnées au I sont celles définies à l'article R. 304-1 du code de la construction et
-de l'habitation.
+de l'habitation. 
+
+III.-Pour l'application du second alinéa du III de l'article 199 novovicies du code général des impôts, les plafonds de loyer
+mentionnés au premier alinéa du 1 du I, lorsqu'ils ne sont pas sensiblement inférieurs aux loyers pratiqués dans le parc
+privé, peuvent être réduits dans les conditions et selon les modalités suivantes : 
+
+1. Les plafonds de loyer réduits sont, par commune ou ensemble de communes appartenant à une même zone, compris entre le
+niveau du loyer pratiqué pour les logements du parc locatif privé et les plafonds de loyer applicables aux logements financés
+dans les conditions prévues aux articles R. 331-17 à R. 331-21 du code de la construction et de l'habitation. Le niveau du
+loyer pratiqué dans le parc locatif privé est apprécié par tous moyens, notamment à partir des informations recueillies dans
+les observatoires et bases de données disponibles ou figurant dans les programmes locaux de l'habitat prévus aux articles L.
+302-1 et L. 302-4-1 du même code. 
+
+2. Le représentant de l'Etat dans la région soumet pour avis son projet d'arrêté : 
+
+1° Au comité régional de l'habitat mentionné à l'article L. 364-1 du code de la construction et de l'habitation ; 
+
+2° Aux communes et établissements publics de coopération intercommunale disposant d'un programme local de l'habitat
+exécutoire ainsi qu'aux départements qui ont conclu la convention avec l'Etat prévue à l'article L. 301-5-2 du code de la
+construction et de l'habitation, sur le territoire desquels il est envisagé d'appliquer la réduction. Les collectivités et
+établissements disposent d'un délai de deux mois pour émettre leur avis. A l'expiration de ce délai, ils sont réputés s'être
+prononcés. 
+
+3. Aux plafonds de loyer réduits, il est fait application du coefficient multiplicateur défini au 1 du I. 
+
+4. Les plafonds de loyer réduits sont révisés au 1er janvier de chaque année dans les conditions prévues au premier alinéa du
+1 du I. 
+
+5. L'arrêté fixant des plafonds de loyer réduits s'applique aux logements dont l'acte authentique d'acquisition est signé ou,
+s'agissant des logements que le contribuable fait construire, dont la demande de permis de construire est déposée
+postérieurement à l'entrée en vigueur de l'arrêté.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2013-517 du 19 juin 2013 - art. 1
 
 	**Cité par**:
 
@@ -291,6 +321,11 @@ de l'habitation.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1417
-	  - Code général des impôts, CGI. - art. 196
 	  - Code général des impôts, CGI. - art. 199 novovicies
+	  - Code de la construction et de l'habitation. - art. L301-5-2
+	  - Code de la construction et de l'habitation. - art. L302-1
+	  - Code de la construction et de l'habitation. - art. L302-4-1
+	  - Code de la construction et de l'habitation. - art. L364-1
 	  - Code de la construction et de l'habitation. - art. R304-1
+	  - Code de la construction et de l'habitation. - art. R331-17
+	  - Code de la construction et de l'habitation. - art. R331-21
