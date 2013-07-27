@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2013-07-01
+Version Consolidée au 2013-07-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -3790,20 +3790,19 @@ impôts appréciées à cette même date.
 
 ###### Article 10 GA
 
-Les dispositions de l'article 39 octies A du Code général des impôts sont applicables aux établissements de crédit
-enregistrés par l'Autorité de contrôle prudentiel et habilités à effectuer des opérations de crédit ou de crédit-bail au
-profit des entreprises.
+Les dispositions de l'article 39 octies A du code général des impôts sont applicables aux établissements de crédit
+enregistrés par l'Autorité de contrôle prudentiel et de résolution et habilités à effectuer des opérations de crédit ou de
+crédit-bail au profit des entreprises.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 39 octies A
-
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3 (V)
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 39 octies A (VT)
 
 
 ###### Article 10 GA bis
@@ -16065,7 +16064,7 @@ La société mère adresse à ce même service :
 
 1. Lors de la notification de l'option : 
 
-a) la liste des personnes morales et des établissements stables  qui seront membres du groupe. Cette liste indique, pour
+a) la liste des personnes morales et des établissements stables qui seront membres du groupe. Cette liste indique, pour
 chaque société mentionnée au b, sa désignation, l'adresse de son siège social et la répartition de son capital et, pour
 chaque autre personne morale, sa désignation, l'adresse de son siège social et, le cas échéant, celle de son établissement
 stable, et la nature du lien qui l'unit à l'entité tête du groupe formé en application du deuxième ou troisième alinéa de
@@ -16094,7 +16093,7 @@ a) La liste des sociétés qui seront membres du groupe défini à l'article 223
 l'exercice suivant ;
 
 a bis) La liste des sociétés intermédiaires définies à l'article 223 A du code général des impôts ainsi que des sociétés qui
-cessent d'être qualifiées de sociétés intermédiaires au titre de l'exercice suivant ;  
+cessent d'être qualifiées de sociétés intermédiaires au titre de l'exercice suivant ; 
 
 b) Les attestations mentionnées au b du 1 produites par les sociétés qui seront membres du groupe à compter de cet exercice
 suivant ; 
@@ -16107,8 +16106,8 @@ l'entreprise combinante, liste des entreprises du périmètre de combinaison et 
 permettent de fonder les critères de sélection des entreprises dont les comptes sont combinés, ainsi que l'indication des
 motifs qui justifient la non-combinaison de certaines entreprises ;
 
-d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité de contrôle prudentiel pour elle-même et pour
-les caisses locales qui la détiennent.
+d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité de contrôle prudentiel et de résolution pour
+elle-même et pour les caisses locales qui la détiennent.
 
 2 bis. Dans les trois mois de l'acquisition des titres d'une société du groupe ou d'une autre société intermédiaire,
 l'attestation mentionnée au b bis du 1 produite par la société qui sera qualifiée de société intermédiaire à compter de
@@ -16125,7 +16124,7 @@ la détention en cause.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 	**Cité par**:
 
