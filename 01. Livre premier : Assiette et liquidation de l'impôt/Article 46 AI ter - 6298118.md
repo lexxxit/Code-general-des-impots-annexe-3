@@ -3,9 +3,11 @@
 I. La société de gestion d'un fonds commun de placement dans l'innovation ou le dépositaire des actifs de ce fonds agissant
 pour le compte de la société de gestion informe la direction départementale ou, le cas échéant, régionale des finances
 publiques dans le ressort de laquelle est souscrite sa déclaration de résultats, de la constitution d'un fonds commun de
-placement dans l'innovation ou, le cas échéant, de la transformation d'un fonds commun de placement à risques existant en
-fonds commun de placement dans l'innovation. Cette déclaration intervient dans le mois qui suit la création ou la
-transformation du fonds. 
+placement dans l'innovation ou, le cas échéant, de la transformation d'un fonds commun de placement à risques, d'un fonds
+professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou d'un fonds professionnel
+de capital investissement existant en fonds commun de placement dans l'innovation. Cette déclaration intervient dans le mois
+qui suit la création ou la transformation du fonds. 
 
 II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles
 41 sexdecies A à 41 sexdecies F et 280 A de la présente annexe ainsi qu'à l'article R. 87-1 du livre des procédures
@@ -48,15 +50,20 @@ que, le cas échéant, la nature de la condition qui cesse d'être remplie.
 Cet état doit être délivré avant le 16 février de l'année qui suit celle de la cession ou du rachat des parts ou du non-
 respect de l'une des conditions prévues à l'article L. 214-30 du code monétaire et financier.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 2011-915 du 1er août 2011.
-
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2013-676  du 25 juillet 2013 (V)
+	  - Code général des impôts, CGI. (V)
+	  - Livre des procédures fiscales - art. R87-1 (M)
+	  - Code monétaire et financier - art. D214-60 (M)
+	  - Code monétaire et financier - art. L214-30 (M)
+	  - Code monétaire et financier - art. L214-37 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cité par**:
 

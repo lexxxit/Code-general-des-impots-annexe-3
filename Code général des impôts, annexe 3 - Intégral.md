@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2013-07-28
+Version Consolidée au 2013-07-31
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8740,30 +8740,30 @@ paiements effectués.
 
 ###### Article 41 sexdecies G
 
-Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
-est soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F.
+Le gérant d'un fonds commun de placement à risques, d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du
+code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
+juridique de la gestion d'actifs ou d'un fonds professionnel de capital investissement ou le dépositaire des actifs de ce
+fonds agissant pour le compte du gérant est soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies F.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 41 sexdecies A à CGIAN3 41 sexdecies F
-
-	**Créé par**:
-
-	  - Décret n°85-41 du 8 janvier 1985 - art. 1 (V) JORF 12 janvier 1985
-
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°85-1007 du 24 septembre 1985
+
+	**Cite**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A (V)
+	  - Code monétaire et financier - art. L214-37
+
+	**Modifié par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 Y (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1985
 
 
 ##### G bis : Modalités d'imposition et conditions de ventilation des revenus distribués ou répartis par des sociétés, organismes ou placements collectifs 
@@ -8771,10 +8771,10 @@ est soumis aux obligations définies aux articles 41 sexdecies A à 41 sexdecies
 ###### Article 41 sexdecies H
 
 1. Pour l'application du sixième alinéa du 4° du 3 de l'article 158 du code général des impôts, et sans préjudice des autres
-dispositions fiscales qui leur sont applicables, les sociétés ou organismes mentionnés au même 4° ou, à défaut de
-personnalité morale, leur gérant ou représentant à l'égard des tiers, ventilent leurs distributions ou répartitions en
-distinguant la part éligible à l'abattement de 40 % mentionné au 2° du 3 de l'article 158 du code précité de celle non
-éligible à cet abattement.
+dispositions fiscales qui leur sont applicables, les sociétés, organismes ou placements collectifs mentionnés au même 4° ou,
+à défaut de personnalité morale, leur gérant ou représentant à l'égard des tiers, ventilent leurs distributions ou
+répartitions en distinguant la part éligible à l'abattement de 40 % mentionné au 2° du 3 de l'article 158 du code précité de
+celle non éligible à cet abattement.
 
 La ventilation de ces distributions ou répartitions est communiquée à l'établissement payeur soumis aux obligations de
 l'article 242 ter du code précité lors de leur mise en paiement, et est tenue à la disposition des actionnaires, des porteurs
@@ -8782,11 +8782,11 @@ de parts et de tout établissement payeur soumis aux obligations de l'article 24
 l'administration fiscale.
 
 La part éligible à l'abattement de 40 % mentionné au premier alinéa est indiquée sur les rapports annuels ou semestriels
-prévus par le règlement général de l'Autorité des marchés financiers pour les sociétés et organismes mentionnés au a du 4° du
-3 de l'article 158 du code général des impôts ainsi que sur les rapports annuels et semestriels mentionnés à l'article 27 de
-la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et
-administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM), pour les organismes
-mentionnés au b du 4° du 3 du même article 158.
+prévus par le règlement général de l'Autorité des marchés financiers pour les sociétés, organismes ou placements collectifs
+mentionnés au a du 4° du 3 de l'article 158 du code général des impôts ainsi que sur les rapports annuels et semestriels
+mentionnés à l'article 27 de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions
+législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières
+(OPCVM), pour les organismes mentionnés au b du 4° du 3 du même article 158.
 
 2. Pour l'application du 1, les personnes mentionnées au premier alinéa du 1 prélèvent les revenus distribués ou répartis
 éligibles à l'abattement de 40 % mentionné au 2° du 3 de l'article 158 du code précité sur les revenus identifiés comme tels
@@ -8809,26 +8809,21 @@ l'administration fiscale.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 158, 242 ter
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2007-484 du 30 mars 2007
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 2005-12-30 art. 76 I, XV Finances pour 2006 JORF 31 décembre 2006
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 76 (V) JORF 31 décembre 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-484 2007-03-30
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies J (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 158
 
 
 ###### Article 41 sexdecies I
@@ -8858,25 +8853,23 @@ mentionné au 2° du 3 de l'article 158 du même code.
 ###### Article 41 sexdecies J
 
 Les contribuables qui perçoivent des revenus distribués ou répartis directement par des organismes de placement collectif en
-valeurs mobilières mentionnés au b du 4° du 3 de l'article 158 du code général des impôts tiennent à la disposition de
-l'administration fiscale l'état de suivi des distributions ou répartitions prévu au 4 de l'article 41 sexdecies H ainsi que
-les rapports mentionnés au troisième alinéa du 1 du même article justifiant de cette ventilation. Ces dispositions sont
-également applicables aux établissements payeurs soumis aux obligations de l'article 242 ter du code précité.
+valeurs mobilières ou placements collectifs mentionnés au b du 4° du 3 de l'article 158 du code général des impôts tiennent à
+la disposition de l'administration fiscale l'état de suivi des distributions ou répartitions prévu au 4 de l'article 41
+sexdecies H ainsi que les rapports mentionnés au troisième alinéa du 1 du même article justifiant de cette ventilation. Ces
+dispositions sont également applicables aux établissements payeurs soumis aux obligations de l'article 242 ter du code
+précité.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
+
 	**Cite**:
 
-	  - CGI 158, 242 ter
-	  - CGIAN3 41 sexdecies
-
-	**Créé par**:
-
-	  - Décret n°2004-1525 du 30 décembre 2004 - art. 1 () JORF 31 décembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies H
+	  - Code général des impôts, CGI. - art. 158
+	  - Code général des impôts, CGI. - art. 242 ter
 
 
 ##### G ter : Prélèvement sur les produits de placements à revenu fixe et les produits de bons ou contrats de capitalisation de source européenne
@@ -9520,8 +9513,11 @@ mobiliers revenant à la suite de la liquidation.
 
 ###### Article 41 duovicies F
 
-En cas de rachat ou de cession de parts, le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques doit
-fournir au propriétaire des parts rachetées ou cédées tous les éléments de calcul de la plus-value, et notamment :
+En cas de rachat ou de cession de parts, le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques,
+d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction
+antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou d'un fonds
+professionnel de capital investissement,  doit fournir au propriétaire des parts rachetées ou cédées tous les éléments de
+calcul de la plus-value, et notamment :
 
 a. Les éléments nécessaires à la détermination de la valeur moyenne pondérée d'acquisition des parts rachetées ou cédées ;
 
@@ -9535,28 +9531,27 @@ cession.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGIAN3 39 quater
-
 	**Codifié par**:
 
-	  - Décret n°2001-435 2001-05-21
+	  - Décret n°2001-435 du 21 mai 2001
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2001-435 du 21 mai 2001 - art. 4 () JORF 23 mai 2001
+	  - Ordonnance n°2013-676 du 25 juillet 2013
+	  - Code monétaire et financier - art. L214-37
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 
 ###### Article 41 duovicies G
 
-Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques adresse, ayant le 16 février de chaque année,
-à la direction départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle il souscrit sa
-déclaration de résultats un relevé des opérations de l'année précédente mentionnant : 
+Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques, d'un fonds professionnel spécialisé relevant
+de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
+2013 modifiant le cadre juridique de la gestion d'actifs ou d'un fonds professionnel de capital investissement, adresse,
+ayant le 16 février de chaque année, à la direction départementale ou, le cas échéant, régionale des finances publiques
+auprès de laquelle il souscrit sa déclaration de résultats un relevé des opérations de l'année précédente mentionnant : 
 
 1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a effectuées et des rachats opérés par le fonds. 
 
@@ -9591,17 +9586,19 @@ d. (abrogé)
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
+	  - Code monétaire et financier - art. L214-37
+
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 X (V)
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
 
 
 ###### Article 41 duovicies G bis
@@ -10221,32 +10218,36 @@ Ces renseignements sont mentionnés sur la déclaration prévue au 1 de l'articl
 ###### Article 41 DGA
 
 I.-Le taux applicable à titre dérogatoire, mentionné au cinquième alinéa du 8 du II de l'article 150-0 A du code général des
-impôts et au sixième alinéa du 1 du II de l'article 163 quinquies C du même code, est fixé à 0, 25 % du montant total des
-souscriptions dans le fonds commun de placement à risques, la société de capital-risque ou l'entité mentionnée au dernier
-alinéa du 8 du II de l'article 150-0 A précité, lorsque l'objet principal du fonds, de la société ou de l'entité est
-d'investir, directement ou indirectement par l'intermédiaire d'autres fonds, sociétés ou entités : 
+impôts et au sixième alinéa du 1 du II de l'article 163 quinquies C du même code, est fixé à 0,25 % du montant total des
+souscriptions dans le fonds commun de placement à risques, le fonds professionnel spécialisé relevant de l'article L. 214-37
+du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
+juridique de la gestion d'actifs, le fonds professionnel de capital investissement, la société de capital-risque ou l'entité
+mentionnée au dernier alinéa du 8 du II de l'article 150-0 A précité, lorsque l'objet principal du fonds, de la société ou de
+l'entité est d'investir, directement ou indirectement par l'intermédiaire d'autres fonds, sociétés ou entités : 
 
 1° Dans des sociétés innovantes qui satisfont à la condition prévue au 1° ou au 2° du I de l'article L. 214-30 du code
 monétaire et financier, dont les titres ne sont admis aux négociations ni sur un marché réglementé d'instruments financiers
 français ou étranger, ni sur un marché non réglementé d'instruments financiers d'un Etat qui n'est pas partie à l'accord sur
 l'Espace économique européen ; 
 
-2° Dans des petites ou moyennes entreprises au sens de l'annexe I au règlement (CE) n° 800 / 2008 de la Commission du 6 août
+2° Dans des petites ou moyennes entreprises au sens de l'annexe I au règlement (CE) n° 800/2008 de la Commission du 6 août
 2008 déclarant certaines catégories d'aides compatibles avec le marché commun en application des articles 87 et 88 du traité
 (règlement général d'exemption par catégorie), dont les titres ne sont admis aux négociations ni sur un marché réglementé
 d'instruments financiers français ou étranger, ni sur un marché non réglementé d'instruments financiers d'un Etat qui n'est
 pas partie à l'accord sur l'Espace économique européen. Pour apprécier la composition du capital des petites et moyennes
 entreprises, il n'est pas tenu compte des participations des sociétés de capital-risque, des fonds communs de placement à
-risques, des sociétés de développement régional, des sociétés financières d'innovation et des sociétés unipersonnelles
-d'investissement à risque ou des structures équivalentes établies dans un autre Etat membre de la Communauté européenne ou
-dans un Etat ou territoire ayant conclu avec la France une convention fiscale qui contient une clause d'assistance
-administrative en vue de lutter contre la fraude ou l'évasion fiscale. 
+risques, des fonds professionnel spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction
+antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, des fonds
+professionnels de capital investissement, des sociétés de développement régional, des sociétés financières d'innovation et
+des sociétés unipersonnelles d'investissement à risque ou des structures équivalentes établies dans un autre Etat membre de
+la Communauté européenne ou dans un Etat ou territoire ayant conclu avec la France une convention fiscale qui contient une
+clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion fiscale. 
 
-Le taux d'investissement de 0, 25 % mentionné au premier alinéa du I s'applique également au montant total des souscriptions
+Le taux d'investissement de 0,25 % mentionné au premier alinéa du I s'applique également au montant total des souscriptions
 dans un fonds commun de placement dans l'innovation mentionné à l'article L. 214-30 du code monétaire et financier et dans un
 fonds d'investissement de proximité mentionné à l'article L. 214-31 du même code. 
 
-Toutefois, le taux d'investissement de 0, 25 % ne s'applique pas lorsque les parts, actions ou droits du fonds, de la société
+Toutefois, le taux d'investissement de 0,25 % ne s'applique pas lorsque les parts, actions ou droits du fonds, de la société
 ou de l'entité donnant lieu à des droits différents sur leur actif net ou leurs produits et attribués en fonction de la
 qualité de la personne donnent droit à un pourcentage supérieur à 20 % des plus-values et produits réalisés par le fonds, la
 société ou l'entité au-delà des souscriptions reçues. 
@@ -10255,18 +10256,20 @@ II.-Lorsque les parts, actions ou droits du fonds, de la société ou de l'entit
 actif net ou leurs produits et attribués en fonction de la qualité de la personne donnent droit à un pourcentage inférieur à
 20 % des plus-values et produits réalisés par le fonds, la société ou l'entité au-delà des souscriptions reçues, le taux
 d'investissement de 1 % prévu au cinquième alinéa du 8 du II de l'article 150-0 A du code général des impôts et au sixième
-alinéa du 1 du II de l'article 163 quinquies C du même code, ainsi que le taux de 0, 25 % prévu au I, sont diminués dans la
+alinéa du 1 du II de l'article 163 quinquies C du même code, ainsi que le taux de 0,25 % prévu au I, sont diminués dans la
 proportion existant entre le pourcentage auquel donnent droit ces parts, actions ou droits et le pourcentage de 20 %. 
 
 III.-Le ministre chargé de l'économie peut autoriser l'application d'un taux inférieur à celui de 1 % prévu au cinquième
 alinéa du 8 du II de l'article 150-0 A du code général des impôts et au sixième alinéa du 1 du II de l'article 163 quinquies
-C du même code lorsque l'objet principal du fonds commun de placement à risques, de la société de capital-risque ou de
-l'entité mentionnée au dernier alinéa du 8 du II de l'article 150-0 A précité est d'investir dans des conditions
-particulières au regard des pratiques courantes de marché, compte tenu des types d'investissement pratiqués et du niveau de
-risque qui en résulte. 
+C du même code lorsque l'objet principal du fonds commun de placement à risques, du fonds professionnel spécialisé relevant
+de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
+2013 modifiant le cadre juridique de la gestion d'actifs, du fonds professionnel de capital investissement, de la société de
+capital-risque ou de l'entité mentionnée au dernier alinéa du 8 du II de l'article 150-0 A précité est d'investir dans des
+conditions particulières au regard des pratiques courantes de marché, compte tenu des types d'investissement pratiqués et du
+niveau de risque qui en résulte. 
 
 Cette autorisation est donnée après avis du comité du capital-investissement ; elle fixe le taux d'investissement applicable
-au fonds, à la société ou à l'entité, qui ne peut être inférieur à 0, 5 %, ainsi que les conditions d'application de la
+au fonds, à la société ou à l'entité, qui ne peut être inférieur à 0,5 %, ainsi que les conditions d'application de la
 dérogation accordée. 
 
 IV.-1. Il est créé un comité du capital-investissement placé auprès du ministre chargé de l'économie. 
@@ -10280,11 +10283,11 @@ Sur le rapport du directeur général du Trésor et du directeur de la législat
 dérogation est justifiée et, dans l'affirmative, émet un avis sur le taux d'investissement retenu pour le fonds, la société
 ou l'entité concerné, sur la durée de la dérogation accordée et sur les modalités de sa mise en œuvre. 
 
-2. Le comité du capital-investissement comprend :
+2. Le comité du capital-investissement comprend : 
 
-1° le directeur général des finances publiques ou son représentant ;
+1° le directeur général des finances publiques ou son représentant ; 
 
-2° le directeur général du Trésor ou son représentant ;
+2° le directeur général du Trésor ou son représentant ; 
 
 3° le directeur de la législation fiscale ou son représentant. 
 
@@ -10293,15 +10296,20 @@ investissement à participer à ses travaux.
 
 3. Le secrétariat général du comité du capital-investissement est assuré par la direction générale du Trésor.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 2011-915 du 1er août 2011.
-
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013
+	  - Code général des impôts, CGI. - art. 150-0 A (V)
+	  - Code général des impôts, CGI. - art. 163 quinquies C (V)
+	  - Code monétaire et financier - art. L214-30
+	  - Code monétaire et financier - art. L214-31 (VT)
+	  - Code monétaire et financier - art. L214-37
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cité par**:
 
@@ -10964,9 +10972,9 @@ Il précise le nombre de parts, leur catégorie, la date et le montant total de 
 
 ###### Article 41 X
 
-Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
-adresse avant le 16 février de chaque année, à la direction départementale ou, le cas échéant, régionale des finances
-publiques désignée à l'article 41 duovicies G : 
+Le gérant d'un fonds commun de placement à risques ou d'un fonds professionnel de capital investissement, ou le dépositaire
+des actifs de ce fonds agissant pour le compte du gérant adresse avant le 16 février de chaque année, à la direction
+départementale ou, le cas échéant, régionale des finances publiques désignée à l'article 41 duovicies G : 
 
 a) Une copie de l'engagement prévu au I de l'article 163 quinquies B du code général des impôts ; 
 
@@ -10983,7 +10991,7 @@ année suivant celle de l'expiration de l'engagement.
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cite**:
 
@@ -12930,9 +12938,11 @@ Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 201
 I. La société de gestion d'un fonds commun de placement dans l'innovation ou le dépositaire des actifs de ce fonds agissant
 pour le compte de la société de gestion informe la direction départementale ou, le cas échéant, régionale des finances
 publiques dans le ressort de laquelle est souscrite sa déclaration de résultats, de la constitution d'un fonds commun de
-placement dans l'innovation ou, le cas échéant, de la transformation d'un fonds commun de placement à risques existant en
-fonds commun de placement dans l'innovation. Cette déclaration intervient dans le mois qui suit la création ou la
-transformation du fonds. 
+placement dans l'innovation ou, le cas échéant, de la transformation d'un fonds commun de placement à risques, d'un fonds
+professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou d'un fonds professionnel
+de capital investissement existant en fonds commun de placement dans l'innovation. Cette déclaration intervient dans le mois
+qui suit la création ou la transformation du fonds. 
 
 II. La société de gestion du fonds ou le dépositaire des actifs de ce fonds est soumis aux obligations définies aux articles
 41 sexdecies A à 41 sexdecies F et 280 A de la présente annexe ainsi qu'à l'article R. 87-1 du livre des procédures
@@ -12975,15 +12985,20 @@ que, le cas échéant, la nature de la condition qui cesse d'être remplie.
 Cet état doit être délivré avant le 16 février de l'année qui suit celle de la cession ou du rachat des parts ou du non-
 respect de l'une des conditions prévues à l'article L. 214-30 du code monétaire et financier.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 2011-915 du 1er août 2011.
-
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2013-676  du 25 juillet 2013 (V)
+	  - Code général des impôts, CGI. (V)
+	  - Livre des procédures fiscales - art. R87-1 (M)
+	  - Code monétaire et financier - art. D214-60 (M)
+	  - Code monétaire et financier - art. L214-30 (M)
+	  - Code monétaire et financier - art. L214-37 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cité par**:
 
@@ -14302,34 +14317,35 @@ obligations antérieures.
 
 I. ― Les sociétés de placement à prépondérance immobilière à capital variable doivent joindre à leur déclaration de résultat
 du premier exercice d'application du régime d'exonération prévu au 3° nonies de l'article 208 du code général des impôts la
-copie de l'agrément délivré par l'Autorité des marchés financiers en application de l'article L. 214-91 du code monétaire et
+copie de l'agrément délivré par l'Autorité des marchés financiers en application de l'article L. 214-35 du code monétaire et
 financier ou, le cas échéant, l'avis de réception par l'Autorité des marchés financiers de la demande d'agrément mentionnant
 la date d'expiration du délai à compter de laquelle l'agrément est réputé accordé à défaut d'agrément exprès, ainsi que la
 liste de leurs filiales qui optent dans les conditions du III bis de l'article 208 C du code général des impôts, en indiquant
 leur dénomination, l'adresse de leur siège social, le numéro d'identité qui leur a été attribué dans les conditions du
-premier alinéa de l'article R. 123-221 du code de commerce et la répartition de leur capital.
+premier alinéa de l'article R. 123-221 du code de commerce et la répartition de leur capital. 
 
 II. ― Les sociétés de placement à prépondérance immobilière à capital variable doivent joindre à leur déclaration de résultat
-la liste mentionnée au I, actualisée, ainsi qu'un état, conforme au modèle établi par l'administration, qui fait apparaître :
+la liste mentionnée au I, actualisée, ainsi qu'un état, conforme au modèle établi par l'administration, qui fait
+apparaître : 
 
-1° La décomposition de leurs sommes distribuables définies au I de l'article L. 214-128 du code monétaire et financier, selon
-les opérations visées au II de ce même article ;
+1° La décomposition de leurs sommes distribuables définies au I de l'article L. 214-69 du code monétaire et financier, selon
+les opérations visées au II de ce même article ; 
 
 2° Les obligations de distribution résultant des II et III de ce même article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-683 du 12 juin 2009 - art. 1
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-221
 	  - Code général des impôts, CGI. - art. 208
 	  - Code général des impôts, CGI. - art. 208 C
-	  - Code monétaire et financier - art. L214-128
-	  - Code monétaire et financier - art. L214-91
+	  - Code monétaire et financier - art. L214-35
+	  - Code monétaire et financier - art. L214-69
 
 
 ##### Section 0I bis A : Exonération édictée en faveur des sociétés unipersonnelles d'investissement à risque
@@ -17146,27 +17162,28 @@ cession.
 Ce relevé est établi sur papier libre conformément au modèle fixé par l'administration. 
 
 II.-Le relevé mentionné au I est complété par une attestation fournie par la société indiquant qu'elle respecte les
-dispositions prévues aux articles L. 214-85 et L. 214-87 du code monétaire et financier. 
+dispositions prévues aux articles L. 214-121 et L. 214-123 à L. 214-125 du code monétaire et financier. 
 
 Cette attestation doit également être jointe à sa déclaration de résultats par le souscripteur au capital d'une société
 d'épargne forestière. 
 
 III.-Lorsque les parts cédées au cours d'un exercice ont été souscrites depuis moins de huit ans par le cédant ou lorsque la
-société d'épargne forestière est dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-85 et L. 214-87
-du code monétaire et financier, elle adresse, dans les deux mois suivant l'un de ces événements, à la   direction
-départementale ou, le cas échéant, régionale des finances publiques du domicile des souscripteurs concernés le relevé
-mentionné au I ou un duplicata de ce relevé.
+société d'épargne forestière est dissoute ou cesse de respecter les dispositions prévues aux articles L. 214-121 et L.
+214-123 à L. 214-125 du code monétaire et financier, elle adresse, dans les deux mois suivant l'un de ces événements, à la
+direction départementale ou, le cas échéant, régionale des finances publiques du domicile des souscripteurs concernés le
+relevé mentionné au I ou un duplicata de ce relevé.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 217 terdecies
-	  - Code monétaire et financier - art. L214-85
+	  - Code monétaire et financier - art. L214-121
+	  - Code monétaire et financier - art. L214-123
 
 
 ###### Article 46 quater-0 ZZ quinquies
@@ -30469,30 +30486,30 @@ vis des héritiers, légataires, ou donataires domiciliés hors de France.
 	  - Code général des impôts, CGI. - art. 806
 
 
-##### 4° : Fonds communs de placement à risques
+##### 4° : Fonds communs de placement à risques, fonds professionnels de capital investissement et fonds professionnels spécialisés
 
 ###### Article 280 B
 
-Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
-est soumis aux obligations définies à l'article 280 A.
+Le gérant d'un fonds commun de placement à risques, d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du
+code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
+juridique de la gestion d'actifs ou d'un fonds professionnel de capital investissement, ou le dépositaire des actifs de ce
+fonds agissant pour le compte du gérant est soumis aux obligations définies à l'article 280 A.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGIAN3 280 A
-
-	**Créé par**:
-
-	  - Décret n°85-41 du 8 janvier 1985 - art. 1 (V) JORF 12 janvier 1985
-
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°85-1007 du 24 septembre 1985
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 15 juillet 1985
+	  - Ordonnance n°2013-676 du 25 juillet 2013
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 280 A
+	  - Code monétaire et financier - art. L214-37
+
+	**Modifié par**:
+
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 
 ##### B : Régimes spéciaux et exonérations
@@ -31042,7 +31059,7 @@ publiques chargés de la formalité de l'enregistrement.
 
 ###### Article 299 bis
 
-I. - 1. La personne qui demande le bénéfice pour la première fois des dispositions du 1 du I de l'article 885 I ter du code
+I.-1. La personne qui demande le bénéfice pour la première fois des dispositions du 1 du I de l'article 885 I ter du code
 général des impôts au titre d'une souscription au capital d'une société donnée joint à sa déclaration d'impôt de solidarité
 sur la fortune, ou fournit dans les trois mois suivant la date limite de dépôt de ladite déclaration, une attestation émanant
 de cette société précisant : 
@@ -31098,7 +31115,7 @@ de la société de gestion du fonds ou du dépositaire des actifs du fonds préc
 
 2° Les éléments mentionnés aux b à d du 2 du I de l'article 299 octies ; 
 
-3° Le respect par le fonds des conditions mentionnées, selon la nature du fonds concerné, aux  articles L. 214-28, L. 214-38,
+3° Le respect par le fonds des conditions mentionnées, selon la nature du fonds concerné, aux articles L. 214-28, L. 214-160,
 L. 214-30 ou L. 214-31 du code monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité ; 
 
 4° Le détail de la fraction mentionnée au second alinéa du 4 du I de l'article 885 I ter précité. 
@@ -31110,26 +31127,23 @@ l'article 885 I ter du code général des impôts joint à sa déclaration d'imp
 1° Le nombre de parts détenues par le demandeur au 1er janvier de l'année d'imposition reçues en contrepartie de
 souscriptions satisfaisant aux conditions prévues par l'article 885 I ter précité ; 
 
-2° Le respect par le fonds des conditions mentionnées, selon la nature du fonds concerné, aux articles L. 214-28, L. 214-38,
-L. 214-30 ou L. 214-31 du code monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité.
+2° Le respect par le fonds des conditions mentionnées, selon la nature du fonds concerné, aux articles L. 214-28, L. 214-160,
+L. 214-30 ou L. 214-31 du code monétaire et financier et au 3 ou au 4 du I de l'article 885 I ter précité. 
 
-IV.- (Abrogé à compter du 6 août 2010).
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 2011-915 du 1er août 2011.
+IV.-(Abrogé à compter du 6 août 2010).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 885 I ter
-	  - Code monétaire et financier - art. L214-36
-	  - Code monétaire et financier - art. L214-41
+	  - Code monétaire et financier - art. L214-160 (V)
+	  - Code monétaire et financier - art. L214-28
+	  - Code monétaire et financier - art. L214-30 (V)
 
 
 ###### Article 299 decies

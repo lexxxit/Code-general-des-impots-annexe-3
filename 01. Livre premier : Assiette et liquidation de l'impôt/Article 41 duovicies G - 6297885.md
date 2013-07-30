@@ -1,8 +1,10 @@
 # Article 41 duovicies G
 
-Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques adresse, ayant le 16 février de chaque année,
-à la direction départementale ou, le cas échéant, régionale des finances publiques auprès de laquelle il souscrit sa
-déclaration de résultats un relevé des opérations de l'année précédente mentionnant : 
+Le gérant ou le dépositaire des actifs d'un fonds commun de placement à risques, d'un fonds professionnel spécialisé relevant
+de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet
+2013 modifiant le cadre juridique de la gestion d'actifs ou d'un fonds professionnel de capital investissement, adresse,
+ayant le 16 février de chaque année, à la direction départementale ou, le cas échéant, régionale des finances publiques
+auprès de laquelle il souscrit sa déclaration de résultats un relevé des opérations de l'année précédente mentionnant : 
 
 1° Pour chaque propriétaire, le montant global des cessions de parts qu'il a effectuées et des rachats opérés par le fonds. 
 
@@ -37,14 +39,16 @@ d. (abrogé)
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Ordonnance n°2013-676 du 25 juillet 2013
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
+	  - Code monétaire et financier - art. L214-37
+
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+	  - Décret n°2013-687 du 25 juillet 2013 - art. 26 (V)
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 X (V)
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
