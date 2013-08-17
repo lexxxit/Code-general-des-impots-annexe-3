@@ -1,10 +1,11 @@
 # Article 2 terdecies F
 
-I.-Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général
+I. - Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général
 des impôts sont fixés comme suit : 
 
 1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2013, fixés à 9,88 €
-en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte. 
+en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et
+à 12,27 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de
 l'article 2 terdecies D. 
@@ -26,9 +27,16 @@ COMPOSITION du foyer locataire
 
 LIEU DE SITUATION DU LOGEMENT 
 
-Guadeloupe, Guyane, Martinique La Réunion ou Mayotte 
+Guadeloupe, Guyane, Martinique La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon
 
 (en euros) 
+
+</td>
+      <td align="center">LIEU DE SITUATION DU LOGEMENT :
+
+Nouvelle-Calédonie, Polynésie française, îles Wallis et Futuna
+
+(en euros)
 
 </td>
     </tr>
@@ -43,6 +51,7 @@ Personne seule
 26 776 
 
 </td>
+      <td align="center">29 721 </td>
     </tr>
     <tr>
       <td align="center">
@@ -55,6 +64,7 @@ Couple
 35 757 
 
 </td>
+      <td align="center"> 39 690</td>
     </tr>
     <tr>
       <td align="center">
@@ -67,6 +77,7 @@ Personne seule ou couple ayant une personne à charge
 43 002 
 
 </td>
+      <td align="center"> 47 732</td>
     </tr>
     <tr>
       <td align="center">
@@ -79,6 +90,7 @@ Personne seule ou couple ayant deux personnes à charge
 51 913 
 
 </td>
+      <td align="center"> 57 623</td>
     </tr>
     <tr>
       <td align="center">
@@ -91,6 +103,7 @@ Personne seule ou couple ayant trois personnes à charge
 61 069 
 
 </td>
+      <td align="center">67 787 </td>
     </tr>
     <tr>
       <td align="center">
@@ -103,6 +116,7 @@ Personne seule ou couple ayant quatre personnes à charge
 68 824 
 
 </td>
+      <td align="center"> 76 395</td>
     </tr>
     <tr>
       <td align="center">
@@ -115,6 +129,9 @@ Majoration par personne à charge supplémentaire à partir de la cinquième
 + 7 677 
 
 </td>
+      <td align="center">+ 8 521
+
+</td>
     </tr>
   </tbody>
 </table>
@@ -124,11 +141,13 @@ l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur l
 année précédant celle de la signature du contrat de location et les personnes à charge s'entendent des personnes mentionnées
 aux articles 196 à 196 B du même code. 
 
-II.-Les plafonds de loyer mentionnés au premier alinéa du 1 du I et les plafonds de ressources mentionnés au 2 du même I sont
-révisés au 1er janvier de chaque année selon les modalités définies aux 1° des 1 et 1 bis de l'article 46 AG duodecies pour
-les départements de la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte. 
+II. - Les plafonds de loyer mentionnés au premier alinéa du 1 du I et les plafonds de ressources mentionnés au 2 du même I
+sont révisés au 1er janvier de chaque année selon les modalités définies aux 1° des 1 et 1 bis de l'article 46 AG duodecies
+pour les départements de la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte ainsi que pour Saint-Martin et Saint-
+Pierre-et-Miquelon, et selon celles définies au 2° du 1 et aux 2° et 3° du 1 bis du même article pour la Polynésie française,
+la Nouvelle-Calédonie et les îles Wallis et Futuna. 
 
-III.-La réduction des plafonds de loyer définis au premier alinéa du 1 du I s'applique en Guadeloupe, en Guyane, en
+III. - La réduction des plafonds de loyer définis au premier alinéa du 1 du I s'applique en Guadeloupe, en Guyane, en
 Martinique, à La Réunion et à Mayotte dans les mêmes conditions et selon les mêmes modalités que celles prévues au III de
 l'article 2 terdecies D, sous réserve des dispositions suivantes : 
 
@@ -142,7 +161,7 @@ article ;
 
 	**Modifié par**:
 
-	  - Décret n°2013-517 du 19 juin 2013 - art. 2
+	  - Décret n°2013-749 du 14 août 2013 - art. 1
 
 	**Cité par**:
 
