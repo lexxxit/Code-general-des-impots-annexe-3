@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2013-08-18
+Version Consolidée au 2013-10-15
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -26522,40 +26522,6 @@ après examen de la demande d'admission en décharge présentée par l'entreposi
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-00 C (V)
 
 
-###### Article 111-0 B
-
-Les entrepositaires agréés et les destinataires enregistrés mentionnés respectivement aux articles 302 G et 302 H ter du code
-général des impôts bénéficient de la dispense de caution prévue au 2 du III de l'article 302 D et au premier alinéa du I de
-l'article 302 H ter du code précité à condition que les droits d'accise dont ils sont redevables n'excèdent pas, en valeur
-annuelle, deux fois et demi le montant du droit de consommation fixé au 2° du I de l'article 403 du même code. 
-
-La valeur mentionnée au premier alinéa s'entend de la moyenne annuelle des opérations taxables réalisées par les
-entrepositaires agréés et les destinataires enregistrés au cours des deux dernières années civiles. 
-
-Lorsque les personnes citées au premier alinéa ne peuvent justifier de deux années d'exercice de leur profession, la valeur
-s'entend de la moyenne annuelle des opérations taxables, établie en prenant en compte la période d'activité écoulée au terme
-de la dernière année civile. Toutefois, lorsque cette période est inférieure à huit mois, aucune dispense de caution ne peut
-être accordée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-631 du 9 juin 2010 - art. 1
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D (V)
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 403
-	  - Code général des impôts, CGI. - art. 302 D
-	  - Code général des impôts, CGI. - art. 302 G
-	  - Code général des impôts, CGI. - art. 302 H ter
-
-
 ###### Article 111-00 B
 
 I. - Pour les pertes et déchets physiquement constatés lors des opérations de fabrication ou de transformation d'alcools et
@@ -26852,32 +26818,51 @@ les déchets de fabrication.
 	  - Code général des impôts, CGI. - art. 438
 
 
-###### Article 111-0 C
+###### Article 111-0 B
 
-La décision autorisant la dispense de caution est notifiée à l'entrepositaire agréé ou au destinataire enregistré par le
-receveur des douanes territorialement compétent. 
+I. - Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les destinataires enregistrés
+mentionnés à l'article 302 H ter du même code bénéficient respectivement de la dispense de caution prévue au 2 du III de
+l'article 302 D et au premier alinéa du I de l'article 302 H ter du code précité lorsque les droits d'accise dont ils sont
+redevables n'excèdent pas un montant annuel de 20 000 €. Ce montant est relevé au 1er janvier de chaque année dans une
+proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Il est
+arrondi à l'euro le plus proche, la fraction d'euro égale à 0,50 est comptée pour 1. Ce relèvement ne peut excéder 1,75 %. 
 
-Les personnes mentionnées au premier alinéa qui ne remplissent plus les conditions d'obtention de la dispense prévue à
-l'article 111-0 B sont tenues, dans le délai d'un mois, de fournir une caution solidaire garantissant le paiement des droits
-dus, conformément aux dispositions du 2 du III de l'article 302 D et du premier alinéa du I de l'article 302 H ter du code
-général des impôts.
+Le montant annuel mentionné au premier alinéa s'entend de la moyenne annuelle des opérations taxables réalisées au cours des
+deux dernières années civiles par les entrepositaires agréés et les destinataires enregistrés. Pour les entrepositaires
+agréés acquittant les droits en une échéance annuelle unique, la moyenne annuelle s'entend des opérations taxables réalisées
+au cours des deux dernières années à la date de l'échéance fixée au 4 du III de l'article 302 D du code général des impôts. 
 
-L'inobservation des dispositions du deuxième alinéa entraîne le retrait de l'agrément prévu aux articles 302 G et 302 H ter
-du code précité.
+Lorsque les entrepositaires agréés et les destinataires enregistrés justifient d'une période limitée d'exercice de leur
+profession comprise entre huit et vingt trois mois inclus, ce montant s'entend de la moyenne annuelle des opérations taxables
+établie en prenant en compte la période d'activité écoulée au terme de la dernière année civile. Dans cette hypothèse, le
+montant des opérations taxables, arrêté au 31 décembre de l'année écoulée, est converti en base annuelle. Lorsque cette
+période d'exercice est inférieure à huit mois, ce montant est estimé par l'administration fiscale à partir des opérations
+taxables qu'elles envisagent de réaliser sur une période de douze mois à compter du démarrage de leur activité, information
+qu'elles communiquent à l'administration. 
+
+II. - Les entrepositaires agréés qui détiennent, en régime de suspension de droits d'accise, dans un entrepôt suspensif de
+ces droits, les produits mentionnés au 1° du I de l'article 302 G du code général des impôts bénéficient de la dispense de
+caution prévue au 3° du deuxième alinéa du V de ce même article, lorsque les droits d'accise suspendus, appréciés sur la base
+du stock mensuel maximal enregistré au cours de la dernière année civile, n'excèdent pas le montant mentionné au premier
+alinéa du I. Ce montant est relevé dans les mêmes conditions que celles mentionnées au premier alinéa du I.
+
+Lorsque  ces personnes ne peuvent justifier d'une année d'exercice de leur  profession, ce montant est estimé par
+l'administration fiscale à partir  du stock mensuel maximal des produits fiscalisés qu'elles envisagent de  détenir sur une
+période de douze mois à compter du démarrage de leur  activité, information qu'elles communiquent à l'administration.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+	  - Décret n°2013-887 du 2 octobre 2013 - art. 1
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 D (V)
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
 	  - Code général des impôts, CGI. - art. 302 D
 	  - Code général des impôts, CGI. - art. 302 G
 	  - Code général des impôts, CGI. - art. 302 H ter
@@ -27059,6 +27044,45 @@ depuis le dernier arrêté annuel.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 178-0 bis B (V)
 
 
+###### Article 111-0 C
+
+La décision autorisant la dispense de caution est notifiée à l'entrepositaire agréé ou au destinataire enregistré par le
+comptable des douanes. 
+
+Les entrepositaires agréés et les destinataires enregistrés qui ne remplissent plus les conditions d'obtention de la dispense
+de caution prévue au I de l'article 111-0 B sont tenus de fournir, dans le délai d'un mois suivant la fin de l'année en
+cours, une caution solidaire garantissant le paiement des droits dus, conformément au 2 du III de l'article 302 D et au
+premier alinéa du I de l'article 302 H ter du code général des impôts. 
+
+Pour les entrepositaires agréés qui acquittent les droits en une échéance annuelle unique, le délai d'un mois court à compter
+de la date de l'échéance fixée au 4 du III de l'article 302 D du code général des impôts. 
+
+Les entrepositaires agréés qui ne remplissent plus les conditions d'obtention de la dispense de caution prévue au II de
+l'article 111-0 B sont tenus de fournir, dans le délai d'un mois à compter du dépassement du seuil de la dispense, une
+caution solidaire garantissant le paiement des droits dus, conformément au premier alinéa du V de l'article 302 G du code
+général des impôts. 
+
+L'inobservation des dispositions des deuxième, troisième et quatrième alinéas est passible du retrait de l'agrément prévu au
+sixième alinéa du V de l'article 302 G et au quatrième alinéa du I de l'article 302 H ter du code précité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2013-887 du 2 octobre 2013 - art. 2
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
+	  - Code général des impôts, CGI. - art. 302 D
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 H ter
+
+
 ###### Article 111-00 D
 
 Les destructions d'alcool et de boissons alcooliques en suspension de droits doivent faire l'objet d'une demande préalable de
@@ -27084,37 +27108,61 @@ destruction. Les produits détruits sont inscrits en sortie dans la comptabilit�
 
 ###### Article 111-0 D
 
-I. - La dispense de caution prévue au deuxième alinéa  du V de l'article 302 G du code général des impôts s'applique aux
+I.-La dispense de caution prévue au 2° du deuxième alinéa du V de l'article 302 G du code général des impôts s'applique aux
 producteurs de vin qui, cumulativement, et en moyenne calculée sur une période de trois ans, produisent moins de 1 000
-hectolitres de vin par an et expédient en régime de suspension de droits moins de 1 000 hectolitres de vin par an.
+hectolitres de vin par an et expédient en régime de suspension de droits à destination d'un autre Etat membre moins de 1 000
+hectolitres de vin par an. 
 
 La période mentionnée au premier alinéa s'entend des trois années d'activité de vin écoulées à la date du dépôt de la
 déclaration annuelle de récolte prévue par l'article 407 du code général des impôts. Lorsque cette période est inférieure à
-trois ans, aucune dispense de caution ne peut être accordée.
+trois ans, aucune dispense de caution ne peut être accordée. 
 
-II. - Le producteur de vin dispensé de caution dans les conditions fixées au I doit justifier de la qualité d'entrepositaire
+II.-Le producteur de vin dispensé de caution dans les conditions fixées au I doit justifier de la qualité d'entrepositaire
 agréé prévue au 1° du I de l'article 302 G du code général des impôts. Il est en outre tenu au paiement des droits exigibles
-en cas de non-apurement des documents d'accompagnement qu'il a souscrits, en application de l'article 302 P du même code.
+en cas de non-apurement des documents d'accompagnement qu'il a souscrits, en application de l'article 302 P du même code. 
 
-III. - La décision autorisant la dispense de caution est notifiée au producteur de vin par le receveur des douanes
-territorialement compétent.
+III.-La décision autorisant la dispense de caution est notifiée au producteur de vin par le comptable des douanes. 
 
-IV. - Le producteur de vin qui ne remplit plus les conditions de la dispense prévue au I est tenu, dans le délai d'un mois
+IV.-Le producteur de vin qui ne remplit plus les conditions de la dispense prévue au I est tenu, dans le délai d'un mois
 suivant la date de dépôt de sa dernière déclaration annuelle de récolte, de fournir une caution solidaire garantissant le
-paiement des droits dus, conformément aux dispositions du premier alinéa du V de l'article 302 G du code général des impôts.
+paiement des droits dus, conformément aux dispositions du premier alinéa du V de l'article 302 G du code général des impôts. 
 
 L'inobservation par les producteurs de vin concernés des dispositions du premier alinéa est passible du retrait de l'agrément
-prévu au sixième alinéa  du V de l'article 302 G.
+prévu au sixième alinéa du V de l'article 302 G. 
 
-**Nota:**
+V.-Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts qui expédient sur le territoire
+national en régime de suspension de droits d'accise des produits mentionnés au 1° du I de cet article bénéficient de la
+dispense de caution prévue au 3° du deuxième alinéa du V de ce même article, lorsque les droits d'accise suspendus n'excèdent
+pas le montant mentionné au premier alinéa du I de l'article 111-0 B du code précité. Ce montant est relevé dans les mêmes
+conditions que celles mentionnées au premier alinéa du I du même article. 
 
-Modifications effectuées en conséquence de l'article 55 de la loi n° 2012-1510 du 29 décembre 2012.
+Le montant annuel mentionné au premier alinéa s'entend de la moyenne annuelle des droits suspendus appréciés à partir des
+expéditions nationales réalisées en régime de suspension de droits par les entrepositaires agréés au cours des deux dernières
+années civiles. 
+
+Lorsque les entrepositaires agréés justifient d'une période limitée d'exercice de leur profession comprise entre huit et
+vingt-trois mois inclus, ce montant s'entend de la moyenne annuelle des droits suspendus appréciés à partir des expéditions
+nationales réalisées en régime de suspension de droits établie en prenant en compte la période d'activité écoulée au terme de
+la dernière année civile. Dans cette hypothèse, le montant des droits suspendus, arrêté au 31 décembre de l'année écoulée,
+est converti en base annuelle. Lorsque cette période d'exercice est inférieure à huit mois, ce montant est estimé par
+l'administration fiscale à partir des expéditions nationales qu'elles envisagent de réaliser en régime de suspension de
+droits sur une période de douze mois à compter du démarrage de leur activité, information qu'elles communiquent à
+l'administration. 
+
+VI.-La décision autorisant la dispense de caution est notifiée à l'entrepositaire agréé par le comptable des douanes. 
+
+L'entrepositaire agréé qui ne remplit plus les conditions d'obtention de la dispense prévue au V est tenu, dans le délai d'un
+mois suivant la fin de l'année en cours, de fournir une caution solidaire garantissant le paiement des droits dus,
+conformément au premier alinéa du V de l'article 302 G du code général des impôts. 
+
+L'inobservation des dispositions du deuxième alinéa est passible du retrait de l'agrément prévu au sixième alinéa du V de
+l'article 302 G.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2013-887 du 2 octobre 2013 - art. 3
 
 	**Cité par**:
 
@@ -27122,8 +27170,10 @@ Modifications effectuées en conséquence de l'article 55 de la loi n° 2012-151
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 302 G
-	  - Code général des impôts, CGI. - art. 407
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
+	  - Code général des impôts, CGI. - art. 302 G (V)
+	  - Code général des impôts, CGI. - art. 302 P (V)
+	  - Code général des impôts, CGI. - art. 407 (V)
 
 
 ##### Section 0I bis : Modalités d'exonération des droits d'accises sur les alcools et les boissons alcooliques
