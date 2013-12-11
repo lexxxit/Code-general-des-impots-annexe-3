@@ -54,15 +54,19 @@ f) Les dépenses de pellicules et autres supports d'images et les dépenses de l
 pellicules négatives image, de pellicules magnétiques son et plus généralement de tous supports analogiques ou numériques
 d'images et de son, de laboratoires de tournage, de laboratoires de finition, de laboratoire vidéo et de sous-titrage ; 
 
-5. Au titre des dépenses de transport et de restauration : les dépenses de transport de biens et de matériels artistiques et
-techniques, ainsi que les dépenses de transport et de restauration des équipes artistiques et techniques, strictement
-nécessaires aux besoins de la production de l'œuvre.
+5. Au titre des dépenses de transport, de restauration et d'hébergement : les dépenses de transport de biens et de matériels
+artistiques et techniques, ainsi que les dépenses de transport, de restauration et d'hébergement des équipes artistiques et
+techniques, strictement nécessaires aux besoins de la production de l'œuvre.
+
+Les dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans la limite de 270 euros par nuitée dans la
+ville de Paris et les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 euros dans les
+autres départements.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-1464 du 30 novembre 2009 - art. 1
+	  - Décret n°2013-1138 du 9 décembre 2013 - art. 1
 
 	**Cite**:
 
