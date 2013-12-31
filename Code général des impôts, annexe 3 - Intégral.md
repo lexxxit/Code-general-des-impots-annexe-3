@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2013-12-29
+Version Consolidée au 2014-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -22177,13 +22177,16 @@ l'attestation portant le calcul du crédit d'impôt et délivrée par l'organism
 312-1 du code de la construction et de l'habitation. Ces éléments doivent figurer sur l'attestation délivrée au plus tard le
 31 mars qui suit l'expiration de la période de six mois mentionnée au c du II de l'article R. *319-14 du code de la
 construction et de l'habitation pour la communication par l'établissement de crédit des informations concernant les avances
-qui font apparaître un avantage indûment perçu par l'emprunteur.
+qui font apparaître un avantage indûment perçu par l'emprunteur. Par dérogation, les éléments de nature à modifier le montant
+du crédit d'impôt en raison de l'avantage indûment perçu par l'emprunteur mentionné à l'article R. 319-30 du même code
+doivent figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration de la période de neuf mois
+mentionnée à la deuxième phrase du même article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+	  - Décret n°2013-1297 du 27 décembre 2013 - art. 3
 
 	**Cite**:
 
@@ -39428,21 +39431,22 @@ supplémentaires acquittées au cours de la même année.
 ###### Article 344 quindecies
 
 Conformément au 3° du II de l'article 1635 sexies du code général des impôts, les taux des abattements dont bénéficie La
-Poste sont fixés, pour l'année 2012, à :
+Poste sont fixés, pour l'année 2013, à : 
 
-a. 85 % des bases d'imposition pour la cotisation foncière des entreprises et pour les taxes foncières ;
+a. 85 % des bases d'imposition pour la cotisation foncière des entreprises et pour les taxes foncières ; 
 
-b. 78 % de la valeur ajoutée retenue pour l'application de l'article 1586 ter pour ce qui concerne la cotisation sur la
+b. 80 % de la valeur ajoutée retenue pour l'application de l'article 1586 ter pour ce qui concerne la cotisation sur la
 valeur ajoutée des entreprises.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1480 du 27 décembre 2012 - art. 1
+	  - Décret n°2013-1288 du 27 décembre 2013 - art. 1
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 1586 ter (V)
 	  - Code général des impôts, CGI. - art. 1635 sexies
 
 
@@ -40015,7 +40019,8 @@ L'administrateur d'un trust défini à l'article 792-0 bis du code général des
 entreprises étrangères, au plus tard le 15 juin de chaque année, la déclaration mentionnée au deuxième alinéa de l'article
 1649 AB du même code. 
 
-Cette déclaration est établie sur papier libre et comporte les indications suivantes : 
+Cette déclaration est   souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
+comporte les indications suivantes : 
 
 1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
 et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
@@ -40047,13 +40052,13 @@ prélèvement prévu à l'article 990 J du code précité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-1050 du 14 septembre 2012 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2012-1050 du 14 septembre 2012 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-949 du 23 octobre 2013 - art. 1
 
 	**Cite**:
 
@@ -40069,7 +40074,8 @@ La déclaration mentionnée au premier alinéa de l'article 1649 AB du code gén
 des entreprises étrangères dans le mois qui suit la constitution, la modification ou l'extinction d'un trust défini à
 l'article 792-0 bis du même code. 
 
-Cette déclaration est établie sur papier libre et comporte les indications suivantes : 
+Cette déclaration est   souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
+comporte les indications suivantes : 
 
 1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
 et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
@@ -40106,14 +40112,14 @@ fonctionnement du trust concerné.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-1050 du 14 septembre 2012 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2012-1050 du 14 septembre 2012 - art. 2 (V)
 	  - Arrêté du 16 avril 2014 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-949 du 23 octobre 2013 - art. 1
 
 	**Cite**:
 

@@ -8,13 +8,16 @@ l'attestation portant le calcul du crédit d'impôt et délivrée par l'organism
 312-1 du code de la construction et de l'habitation. Ces éléments doivent figurer sur l'attestation délivrée au plus tard le
 31 mars qui suit l'expiration de la période de six mois mentionnée au c du II de l'article R. *319-14 du code de la
 construction et de l'habitation pour la communication par l'établissement de crédit des informations concernant les avances
-qui font apparaître un avantage indûment perçu par l'emprunteur.
+qui font apparaître un avantage indûment perçu par l'emprunteur. Par dérogation, les éléments de nature à modifier le montant
+du crédit d'impôt en raison de l'avantage indûment perçu par l'emprunteur mentionné à l'article R. 319-30 du même code
+doivent figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration de la période de neuf mois
+mentionnée à la deuxième phrase du même article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+	  - Décret n°2013-1297 du 27 décembre 2013 - art. 3
 
 	**Cite**:
 

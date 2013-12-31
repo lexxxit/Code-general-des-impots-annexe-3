@@ -4,7 +4,8 @@ La déclaration mentionnée au premier alinéa de l'article 1649 AB du code gén
 des entreprises étrangères dans le mois qui suit la constitution, la modification ou l'extinction d'un trust défini à
 l'article 792-0 bis du même code. 
 
-Cette déclaration est établie sur papier libre et comporte les indications suivantes : 
+Cette déclaration est   souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
+comporte les indications suivantes : 
 
 1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
 et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
@@ -41,14 +42,14 @@ fonctionnement du trust concerné.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-1050 du 14 septembre 2012 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2012-1050 du 14 septembre 2012 - art. 2 (V)
 	  - Arrêté du 16 avril 2014 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-949 du 23 octobre 2013 - art. 1
 
 	**Cite**:
 
