@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-01-02
+Version Consolidée au 2014-02-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -40611,25 +40611,24 @@ Le centre de gestion agréé doit informer ses adhérents de cette décision dan
 
 ###### Article 344 K
 
-Les arrêtés prévus au II de l'article 1649 nonies du code général des impôts sont pris après avis du Comité des
-investissements à caractère économique et social ou, lorsqu'il s'agit d'agrément pour l'octroi d'allégements fiscaux prévus
-en faveur de l'aménagement du territoire, après avis du comité interministériel des aides à la localisation des activités
-institué par l'article 9 du décret n° 82-379 du 6 mai 1982.
+Les arrêtés prévus au II de l'article 1649 nonies du code général des impôts sont pris, lorsqu'il s'agit d'agrément pour
+l'octroi d'allégements fiscaux prévus en faveur de l'aménagement du territoire, après avis du comité interministériel des
+aides à la localisation des activités institué par l'article 9 du décret n° 82-379 du 6 mai 1982.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°82-379 du 6 mai 1982 - art. 9 (V)
-	  - Code général des impôts, CGI. - art. 1649 nonies (V)
-
-	**Modifié par**:
-
-	  - Décret n°96-1022 du 27 novembre 1996 - art. 8 () JORF 29 novembre 1996
+	  - Décret n°82-379 du 6 mai 1982 - art. 9
+	  - Code général des impôts, CGI. - art. 1649 nonies
 
 	**Codifié par**:
 
-	  - Décret n°97-661 1997-05-28
+	  - Décret n°97-661 du 28 mai 1997
+
+	**Modifié par**:
+
+	  - Décret n°2014-132 du 17 février 2014 - art. 32
 
 
 ###### Article 344 L
