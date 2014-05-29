@@ -21,8 +21,7 @@ différent doit ainsi être calculé par l'entreprise au titre :
 3° Des apprentis employés par une entreprise portant le label " Entreprise du patrimoine vivant " au sens de l'article 23 de
 la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises ; 
 
-4° Des apprentis dont le contrat d'apprentissage est signé dans les conditions prévues à l'article L. 337-3 du code de
-l'éducation ; 
+4° Dispositions devenues sans objet ; 
 
 5° Des apprentis dont le contrat d'apprentissage est signé à l'issue d'un contrat de volontariat pour l'insertion mentionné à
 l'article L. 130-1 du code du service national. 
@@ -32,26 +31,25 @@ de présence dans l'entreprise, pour cette même année, des apprentis employés
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007 et de
-l'article 1er du décret n° 2008-244 du 7 mars 2008.
+Modifications effectuées en conséquence de l'article 56-III de la loi n° 2013-595 du 8 juillet 2013.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 23 (V)
-	  - Code général des impôts, CGI. - art. 244 quater G (V)
-	  - Code de l'éducation - art. L337-3 (Ab)
-	  - Code du service national - art. L130-1 (V)
-	  - Code du travail - art. D5131-13 (V)
-	  - Code du travail - art. L5131-7 (V)
-	  - Code du travail - art. L5213-1 (V)
-	  - Code du travail - art. L5213-2 (V)
-	  - Code du travail - art. L6221-1 (V)
+	  - Loi n°2005-882 du 2 août 2005 - art. 23
+	  - Code général des impôts, CGI. - art. 244 quater G
+	  - Code de l'éducation - art. L337-3
+	  - Code du service national - art. L130-1
+	  - Code du travail - art. D5131-13
+	  - Code du travail - art. L5131-7
+	  - Code du travail - art. L5213-1
+	  - Code du travail - art. L5213-2
+	  - Code du travail - art. L6221-1
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 

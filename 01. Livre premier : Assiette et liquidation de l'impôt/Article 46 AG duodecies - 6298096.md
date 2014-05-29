@@ -3,14 +3,14 @@
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants : 
 
-1. Pour les baux conclus en 2013, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2014, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à : 
 
-1° 164 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
+1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
 année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à
 la consommation hors tabac de chacun des quatre départements d'outre-mer ; 
 
-2° 205 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
+2° 209 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
 Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que
 la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la
 Nouvelle-Calédonie. 
@@ -31,149 +31,172 @@ Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut d
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure. 
 
-Pour les baux conclus en 2013, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
 
 (en euros) 
 
 <table>
-  <tbody>
-    <tr>
-      <td rowspan="2">
+    <tbody>
+      <tr>
+        <th>COMPOSITION DU FOYER LOCATAIRE
 
-COMPOSITION DU FOYER DU LOCATAIRE
-
-</td>
-      <td colspan="2">
+</th>
+        <th colspan="2">
 
 PLAFOND ANNUEL DE RESSOURCES
 
-</td>
-    </tr>
-    <tr>
-      <td> Départements d'outre-mer, 
+</th>
+      </tr>
+      <tr>
+        <th>
 
-Saint-Barthélemy,
+</th>
+        <th>
 
-Saint-Martin et Mayotte
+Départements d'outre-mer,
 
-</td>
-      <td> Polynésie française, Nouvelle-Calédonie, 
+Saint-Martin,
 
-îles Wallis et Futuna, Terres australes
+Saint-Barthélemy, Mayotte
+
+</th>
+        <th>
+
+Polynésie française,
+
+Nouvelle-Calédonie,
+
+îles Wallis et Futuna
+
+Saint-Pierre-et-Miquelon,
+
+Terres australes
 
 et antarctiques françaises
 
-et Saint-Pierre-et-Miquelon
-
-</td>
-    </tr>
-    <tr>
-      <td>
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule
 
 </td>
-      <td>
+        <td align="center">
 
-30 985
-
-</td>
-      <td>
-
-29 873
+31 430
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+30 323
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Couple
 
 </td>
-      <td align="center">57 307 </td>
-      <td align="center">
+        <td align="center">
 
-55 249</td>
-    </tr>
-    <tr>
-      <td align="center">
+58 129
+
+</td>
+        <td align="center">
+
+56 081
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant une personne à charge
 
 </td>
-      <td align="center">60 621</td>
-      <td align="center">
+        <td align="center">
 
-58 444
+61 491
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+59 324
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant deux personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-63 936
-
-</td>
-      <td align="center">
-
-61 641 
+64 853
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+62 569
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant trois personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-68 365
-
-</td>
-      <td align="center">
-
-65 909 
+69 346
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+66 902
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant quatre personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-72 795
+73 839
 
 </td>
-      <td align="center">70 179</td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+71 236
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Majoration par personne à charge à partir de la cinquième
 
 </td>
-      <td align="center">
+        <td align="center">
 
-+ 4 651
-
-</td>
-      <td align="center">+ 4 483
++ 4 718
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
 
-Ces plafonds sont relevés chaque année selon les modalités définies au 1. 
++ 4 551
+
+</td>
+      </tr>
+    </tbody>
+  </table>Ces plafonds sont relevés chaque année selon les modalités définies au 1. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts. 
@@ -195,7 +218,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 

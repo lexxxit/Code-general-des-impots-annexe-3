@@ -56,11 +56,10 @@ alinéa de l'article 223 E du code général des impôts revenant à chacune d'e
 
 7. (Périmé) 
 
-8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 decies, 44
-duodecies et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du
-bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de
-l'article 44 octies A, du huitième alinéa du I de l'article 44 decies, du III de l'article 44 duodecies et du III de
-l'article 44 terdecies du code général des impôts. 
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 duodecies
+et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la
+plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies
+A, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts. 
 
 9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts
 déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même
@@ -76,13 +75,13 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-221
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (M)
 	  - Code général des impôts, CGI. - art. 223 B
 	  - Code général des impôts, CGI. - art. 223 D
 	  - Code général des impôts, CGI. - art. 223 E
@@ -91,8 +90,6 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 	  - Code général des impôts, CGI. - art. 223 L
 	  - Code général des impôts, CGI. - art. 223 Q
 	  - Code général des impôts, CGI. - art. 223 R
-	  - Code général des impôts, CGI. - art. 44 decies
-	  - Code général des impôts, CGI. - art. 44 duodecies
 	  - Code général des impôts, CGI. - art. 44 octies
 	  - Code général des impôts, CGI. - art. 44 octies A
 	  - Code général des impôts, CGI. - art. 44 terdecies

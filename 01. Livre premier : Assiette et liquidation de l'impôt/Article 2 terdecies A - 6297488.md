@@ -2,8 +2,8 @@
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts dans sa rédaction en
 vigueur avant la publication de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, les
-plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2013, à 22,71 € par mètre carré en
-zone A, 15,79 € en zone B et 11,36 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
+plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2014, à 22,98 € par mètre carré en
+zone A, 15,98 € en zone B et 11,50 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
 modalités que les plafonds de loyer prévus à l'article 2 duodecies. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
@@ -27,8 +27,9 @@ l'application de l'article 2 duodecies.
 	**Cite**:
 
 	  - Loi n°2006-872 du 13 juillet 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
 	  - Code général des impôts, CGI. - art. 31
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3

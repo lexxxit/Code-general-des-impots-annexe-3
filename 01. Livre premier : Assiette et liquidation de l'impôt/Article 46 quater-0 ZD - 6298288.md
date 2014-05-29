@@ -63,11 +63,15 @@ signée des représentants dûment mandatés de la société mère et de la soci
 précise, la nature, les circonstances et les justifications juridiques, économiques ou sociales de l'opération à l'origine de
 la détention en cause.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 24-I de la loi n° 2013-672 du 26 juillet 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 

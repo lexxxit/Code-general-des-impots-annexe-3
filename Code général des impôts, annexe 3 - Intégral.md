@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-02-19
+Version Consolidée au 2014-05-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -68,8 +68,8 @@ montant, ainsi que la désignation des immeubles sur lesquels ils sont réalisé
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2013, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,16 € par mètre carré
-en zone A, 11,87 € en zone B et 8,60 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
+a) Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,38 € par mètre carré
+en zone A, 12,01 € en zone B et 8,70 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
 modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
 centime d'euro le plus proche. 
 
@@ -84,56 +84,69 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2013, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
 
-(en euros) 
+(En euros) 
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2">
+      <th>
 
 COMPOSITION DU FOYER LOCATAIRE
 
-</td>
-      <td colspan="3">
+</th>
+      <th colspan="3">
 
-LIEU DE LOCATION 
+LIEU DE LOCATION
 
-</td>
+</th>
     </tr>
     <tr>
-      <td>
+      <th>
+
+</th>
+      <th>
 
 Zone A
 
-</td>
-      <td>
+(en euros)
+
+</th>
+      <th>
 
 Zone B
 
-</td>
-      <td>
+(en euros)
+
+</th>
+      <th>
 
 Zone C
 
-</td>
+(en euros)
+
+</th>
     </tr>
     <tr>
-      <td> Personne seule</td>
-      <td>
+      <td align="center">
 
-46 214
-
-</td>
-      <td>
-
-35 718
+Personne seule
 
 </td>
-      <td>
+      <td align="center">
 
-31 255
+46 630
+
+</td>
+      <td align="center">
+
+36 039
+
+</td>
+      <td align="center">
+
+31 536
 
 </td>
     </tr>
@@ -145,17 +158,17 @@ Couple
 </td>
       <td align="center">
 
-69 066
+69 688
 
 </td>
       <td align="center">
 
-47 695
+48 124
 
 </td>
       <td align="center">
 
-42 008
+42 386
 
 </td>
     </tr>
@@ -167,17 +180,17 @@ Personne seule ou couple ayant une personne à charge
 </td>
       <td align="center">
 
-83 023
+83 770
 
 </td>
       <td align="center">
 
-57 356
+57 872
 
 </td>
       <td align="center">
 
-50 289
+50 742
 
 </td>
     </tr>
@@ -189,17 +202,17 @@ Personne seule ou couple ayant deux personnes à charge
 </td>
       <td align="center">
 
-99 448
+100 343
 
 </td>
       <td align="center">
 
-69 239
+69 862
 
 </td>
       <td align="center">
 
-60 863
+61 411
 
 </td>
     </tr>
@@ -211,17 +224,17 @@ Personne seule ou couple ayant trois personnes à charge
 </td>
       <td align="center">
 
-117 728
+118 788
 
 </td>
       <td align="center">
 
-81 449
+82 182
 
 </td>
       <td align="center">
 
-71 432
+72 075
 
 </td>
     </tr>
@@ -233,17 +246,17 @@ Personne seule ou couple ayant quatre personnes à charge
 </td>
       <td align="center">
 
-132 474
+133 666
 
 </td>
       <td align="center">
 
-91 790
+92 616
 
 </td>
       <td align="center">
 
-80 578
+81 303
 
 </td>
     </tr>
@@ -255,17 +268,17 @@ Majoration par personne à charge à partir de la cinquième
 </td>
       <td align="center">
 
-+ 14 766
++ 14 899
 
 </td>
       <td align="center">
 
-+ 10 238
++ 10 330
 
 </td>
       <td align="center">
 
-+ 9 153
++ 9 235
 
 </td>
     </tr>
@@ -280,8 +293,8 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars 1999 et de l'article 1er D du décret
-n° 2006-1005 du 10 août 2006.
+Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars 1999, de l'article 1er D du décret n°
+2006-1005 du 10 août 2006 et de l'article 1er-I du décret n° 2010-1601 du 20 décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -305,7 +318,7 @@ n° 2006-1005 du 10 août 2006.
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
@@ -1119,8 +1132,8 @@ Modifications effectuées en conséquence de l'article 75-I de la loi n° 2011-1
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2013 les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 16,27 € par mètre carré en zone I bis, 14,41 € en zone I, 11,13 € en zone II et 10,50 € en zone III. Les
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2014 les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 16,47 € par mètre carré en zone I bis, 14,58 € en zone I, 11,26 € en zone II et 10,63 € en zone III. Les
 plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article 2
 duodecies. 
 
@@ -1139,7 +1152,7 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
@@ -1156,8 +1169,8 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts dans sa rédaction en
 vigueur avant la publication de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, les
-plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2013, à 22,71 € par mètre carré en
-zone A, 15,79 € en zone B et 11,36 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
+plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2014, à 22,98 € par mètre carré en
+zone A, 15,98 € en zone B et 11,50 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
 modalités que les plafonds de loyer prévus à l'article 2 duodecies. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
@@ -1181,11 +1194,12 @@ l'application de l'article 2 duodecies.
 	**Cite**:
 
 	  - Loi n°2006-872 du 13 juillet 2006
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
 	  - Code général des impôts, CGI. - art. 31
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 
 ###### Article 2 terdecies B
@@ -1193,18 +1207,18 @@ l'application de l'article 2 duodecies.
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
 mensuel, par mètre carré, charges non comprises, sont fixés : 
 
-a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2013, à 22,71 € en zone A, 15,79
-€ en zone B 1,12,91 € en zone B 2 et 9,46 € en zone C ; 
+a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2014, à 22,98 € en zone A, 15,98
+€ en zone B 1,13,06 € en zone B 2 et 9,57 € en zone C ; 
 
 b. S'agissant des logements acquis ou construits à compter du 1er janvier 2011 ou des logements acquis par des sociétés
 civiles de placement immobilier en tout ou partie au moyen de souscriptions réalisées à compter de cette même date, pour les
-baux conclus en 2013, à 22,57 € en zone A bis, 16,74 € dans le reste de la zone A, 13,51 € en zone B 1,11,02 € en zone B 2 et
-7,67 € en zone C.
+baux conclus en 2014, à 22,84 € en zone A bis, 16,94 € dans le reste de la zone A, 13,67 € en zone B 1,11,15 € en zone B 2 et
+7,76 € en zone C.
 
 Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa
 du a de l'article 2 duodecies.
 
-Pour les baux conclus en 2013, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants
 mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
@@ -1223,14 +1237,8 @@ la surface habitable à prendre en compte pour l'appréciation des plafonds de l
 **Nota:**
 
 Modifications effectuées en conséquence de l'article 1
-  <sup>er</sup> G du décret n° 2006-1005 du 10 août 2006.
-
-Décret n° 2011-2056 du 29 décembre 2011 art 2 : Les présentes dispositions s'appliquent aux baux conclus à compter du 1er
-janvier 2012.
-
-Le plafond de loyer mensuel prévu pour la zone C au b de l'article 2 terdecies B de l'annexe III au code général des impôts
-dans sa rédaction issue du présent décret est actualisé pour la première fois au 1er janvier 2013, selon les modalités
-prévues au quatrième alinéa du même article.
+  <sup>er</sup> G du décret n° 2006-1005 du 10 août 2006, de l'article 1er-II [1°] du décret n° 2010-1601 du 20 décembre
+2010.
 
 **Liens relatifs à cet article**
 
@@ -1249,11 +1257,11 @@ prévues au quatrième alinéa du même article.
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
 	  - Code général des impôts, CGI. - art. 31
 
@@ -1266,289 +1274,281 @@ locataire sont les suivants :
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus
 proche, de ceux mentionnés au :
 
-- a de l'article 2 terdecies B, pour les baux conclus en 2013, s'agissant de logements autres que ceux visés au b de ce même
+- a de l'article 2 terdecies B, pour les baux conclus en 2014, s'agissant de logements autres que ceux visés au b de ce même
 article ;
 
-- b de l'article 2 terdecies B, pour les baux conclus en 2013, s'agissant de logements visés au b de ce même article. 
+- b de l'article 2 terdecies B, pour les baux conclus en 2014, s'agissant de logements visés au b de ce même article. 
 
-Pour les baux conclus en 2013, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre
-carré de surface habitable, à 10,28 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à
-13,56 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces
+carré de surface habitable, à 10,43 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à
+13,76 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces
 plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2013, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
 
 (en euros) 
 
 <table>
-  <tbody>
-    <tr>
-      <td rowspan="2">
+    <tbody>
+      <tr>
+        <th>COMPOSITION DU FOYER LOCATAIRE
 
-COMPOSITION DU FOYER LOCATAIRE
-
-</td>
-      <td colspan="4">
+</th>
+        <th colspan="4">
 
 LIEU DE LOCATION
 
-</td>
-    </tr>
-    <tr>
-      <td>
+</th>
+      </tr>
+      <tr>
+        <th>
+
+</th>
+        <th>
 
 Zone A
 
-(en €)
+(en euros)
 
-</td>
-      <td>
+</th>
+        <th>
 
-Zone B 1 
+Zone B1
 
-(en €)
+(en euros)
 
-</td>
-      <td>
+</th>
+        <th>
 
-Zone B 2 
+Zone B2
 
-(en €)
-
-</td>
-      <td>
+</th>
+        <th>
 
 Zone C
 
-(en €)
+(en euros)
 
-</td>
-    </tr>
-    <tr>
-      <td>
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule
 
 </td>
-      <td>
+        <td align="center">
 
-46 214
-
-</td>
-      <td>
-
-34 328
+46 630
 
 </td>
-      <td>
+        <td align="center">
 
-31 467
-
-</td>
-      <td>
-
-31 255
+34 637
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="center">
+
+31 750
+
+</td>
+        <td align="center">
+
+31 536
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Couple
 
 </td>
-      <td>
+        <td align="center">
 
-69 066
-
-</td>
-      <td>
-
-50 410
+69 688
 
 </td>
-      <td>
+        <td align="center">
 
-46 210
-
-</td>
-      <td>
-
-42 008
+50 864
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="center">
+
+46 626
+
+</td>
+        <td align="center">
+
+42 386
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant une personne à charge
 
 </td>
-      <td>
+        <td align="center">
 
-83 023
-
-</td>
-      <td>
-
-60 348
+83 770
 
 </td>
-      <td>
+        <td align="center">
 
-55 319
-
-</td>
-      <td>
-
-50 289
+60 891
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="center">
+
+55 817
+
+</td>
+        <td align="center">
+
+50 742
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant deux personnes à charge
 
 </td>
-      <td>
+        <td align="center">
 
-99 448
-
-</td>
-      <td>
-
-73 035
+100 343
 
 </td>
-      <td>
+        <td align="center">
 
-66 949
-
-</td>
-      <td>
-
-60 863
+73 692
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="center">
+
+67 552
+
+</td>
+        <td align="center">
+
+61 411
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant trois personnes à charge
 
 </td>
-      <td>
+        <td align="center">
 
-117 728
-
-</td>
-      <td>
-
-85 720
+118 788
 
 </td>
-      <td>
+        <td align="center">
 
-78 579
-
-</td>
-      <td>
-
-71 432
+86 491
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="center">
+
+79 286
+
+</td>
+        <td align="center">
+
+72 075
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant quatre personnes à charge
 
 </td>
-      <td>
+        <td align="center">
 
-132 474
-
-</td>
-      <td>
-
-96 692
+133 666
 
 </td>
-      <td>
+        <td align="center">
 
-88 636
-
-</td>
-      <td>
-
-80 578
+97 562
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="center">
+
+89 434
+
+</td>
+        <td align="center">
+
+81 303
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
 </td>
-      <td>
+        <td align="center">
 
-+ 14 766
-
-</td>
-      <td>
-
-+ 10 983
++ 14 899
 
 </td>
-      <td>
+        <td align="center">
 
-+ 10 068
-
-</td>
-      <td>
-
-+ 9 153
++ 11 082
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
 
-Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
-l'article 2 duodecies. 
++ 10 159
 
-Pour les baux conclus en 2013, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
+</td>
+        <td align="center">
+
++ 9 235</td>
+      </tr>
+    </tbody>
+  </table>Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources
+prévus à l'article 2 duodecies. 
+Pour les baux conclus en 2014, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
 d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants : 
 
 (en euros) 
 
 <table>
-  <tbody>
-    <tr>
-      <td>
+    <tbody>
+      <tr>
+        <th>COMPOSITION DU FOYER LOCATAIRE
 
-COMPOSITION DU FOYER LOCATAIRE
+</th>
+        <th>
 
-</td>
-      <td>
-
-DÉPARTEMENTS D'OUTRE-MER, 
+DÉPARTEMENTS D'OUTRE-MER,
 
 Saint-Martin,
 
 Saint-Barthélemy, Mayotte
 
-</td>
-      <td>
+</th>
+        <th>
 
-POLYNÉSIE FRANÇAISE, 
+POLYNÉSIE FRANÇAISE,
 
 Nouvelle-Calédonie,
 
@@ -1556,115 +1556,130 @@ Saint-Pierre-et-Miquelon,
 
 îles Wallis et Futuna
 
-</td>
-    </tr>
-    <tr>
-      <td align="center">
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule
 
 </td>
-      <td align="center">
+        <td align="center">
 
-27 686
-
-</td>
-      <td align="center">
-
-24 273
+28 083
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+24 639
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Couple
 
 </td>
-      <td align="center">
+        <td align="center">
 
-36 973
+37 504
 
 </td>
-      <td align="center">
+        <td align="center">
 
-44 890</td>
-    </tr>
-    <tr>
-      <td align="center">
+45 566
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant une personne à charge
 
 </td>
-      <td align="center">44 462</td>
-      <td align="center">
+        <td align="center">
 
-47 486
+45 100
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+48 201
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant deux personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-53 671
+54 441
 
 </td>
-      <td align="center">
+        <td align="center">
 
-50 083</td>
-    </tr>
-    <tr>
-      <td align="center">
+50 837
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant trois personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-63 141
+64 047
 
 </td>
-      <td align="center">
+        <td align="center">
 
-53 551</td>
-    </tr>
-    <tr>
-      <td align="center">
+54 358
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant quatre personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-71 159</td>
-      <td align="center">
-
-57 022
+72 180
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+57 881
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
 </td>
-      <td align="center">
+        <td align="center">
 
-+ 7 940</td>
-      <td align="center">
++ 8 054
 
-+ 3 643</td>
-    </tr>
-  </tbody>
-</table>
+</td>
+        <td align="center">
 
-Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
++ 3 698
+
+</td>
+      </tr>
+    </tbody>
+  </table>Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG
+duodecies. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts. 
@@ -1692,11 +1707,11 @@ Modifications effectuées en conséquence de l'article 1er (G) du décret n° 20
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
 	  - Code général des impôts, CGI. - art. 1417
 	  - Code général des impôts, CGI. - art. 196
@@ -1708,8 +1723,8 @@ Modifications effectuées en conséquence de l'article 1er (G) du décret n° 20
 
 I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2013, à 16,52
-€ en zone A bis, 12,27 € dans le reste de la zone A, 9,88 € en zone B 1 et 8,59 € en zone B 2. Ces plafonds sont révisés au
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2014, à 16,72
+€ en zone A bis, 12,42 € dans le reste de la zone A, 10,00 € en zone B 1 et 8,69 € en zone B 2. Ces plafonds sont révisés au
 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la
@@ -1725,248 +1740,243 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants : 
 
-a) Pour les baux conclus en 2013, les plafonds annuels de ressources des locataires sont les suivants : 
+a) Pour les baux conclus en 2014, les plafonds annuels de ressources des locataires sont les suivants : 
 
 <table>
-  <tbody>
-    <tr>
-      <td width="227" rowspan="2">
+    <tbody>
+      <tr>
+        <th>COMPOSITION DU FOYER LOCATAIRE
 
-COMPOSITION DU FOYER LOCATAIRE 
+</th>
+        <th colspan="4">
 
-</td>
-      <td width="454" colspan="4">
+LIEU DE LOCATION
 
-LIEU DE SITUATION DU LOGEMENT 
+</th>
+      </tr>
+      <tr>
+        <th>
 
-</td>
-    </tr>
-    <tr>
-      <td width="113">
+</th>
+        <th>
 
-Zone A bis 
+Zone A
 
-(en euros) 
+(en euros)
 
-</td>
-      <td width="113">
+</th>
+        <th>
 
-Reste 
+Zone B1
 
-de la zone A 
+(en euros)
 
-(en euros) 
+</th>
+        <th>
 
-</td>
-      <td width="113">
+Zone B2
 
-Zone B 1 
+</th>
+        <th>
 
-(en euros) 
+Zone C
 
-</td>
-      <td width="113">
+(en euros)
 
-Zone B 2 
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-(en euros) 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
-
-Personne seule 
+Personne seule
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-36 502 
-
-</td>
-      <td valign="top" width="113">
-
-36 502 
+36 831
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-29 751 
-
-</td>
-      <td valign="top" width="113">
-
-26 776 
+36 831
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
+        <td align="center">
+
+30 019
+
+</td>
+        <td align="center">
+
+27 017
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Couple 
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-54 554 
-
-</td>
-      <td valign="top" width="113">
-
-54 554 
+55 045
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-39 731 
-
-</td>
-      <td valign="top" width="113">
-
-35 757 
+55 045
 
 </td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
+        <td align="center">
 
-Personne seule ou couple ayant une personne à charge 
+40 089
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-71 515 
-
-</td>
-      <td width="113" valign="top">
-
-65 579 
+36 079
 
 </td>
-      <td width="113" valign="top">
+      </tr>
+      <tr>
+        <td align="center">
 
-47 780 
-
-</td>
-      <td width="113" valign="top">
-
-43 002 
+Personne seule ou couple ayant une personne à charge
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
+        <td align="center">
 
-Personne seule ou couple ayant deux personnes à charge 
+72 159
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-85 384 
-
-</td>
-      <td width="113" valign="top">
-
-78 550 
+66 169
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-57 681 
-
-</td>
-      <td valign="top" width="113">
-
-51 913 
+48 210
 
 </td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
+        <td align="center">
 
-Personne seule ou couple ayant trois personnes à charge 
+43 389
 
 </td>
-      <td valign="top" width="113">
+      </tr>
+      <tr>
+        <td align="center">
 
-101 589 
-
-</td>
-      <td valign="top" width="113">
-
-92 989 
+Personne seule ou couple ayant deux personnes à charge
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-67 854 
-
-</td>
-      <td valign="top" width="113">
-
-61 069 
+86 152
 
 </td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
+        <td align="center">
 
-Personne seule ou couple ayant quatre personnes à charge 
+79 257
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-114 315 
-
-</td>
-      <td width="113" valign="top">
-
-104 642 
+58 200
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-76 472 
-
-</td>
-      <td width="113" valign="top">
-
-68 824 
+52 380
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
+      </tr>
+      <tr>
+        <td align="center">
 
-Majoration par personne à charge supplémentaire à partir de la cinquième 
-
-</td>
-      <td width="113" valign="top">
-
-+ 12 736 
+Personne seule ou couple ayant trois personnes à charge
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-+ 11 659 
-
-</td>
-      <td width="113" valign="top">
-
-+ 8 531 
+102 503
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-+ 7 677 
+93 826
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
 
-Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2
-duodecies ; 
+68 465
+
+</td>
+        <td align="center">
+
+61 619
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge
+
+</td>
+        <td align="center">
+
+115 344
+
+</td>
+        <td align="center">
+
+105 584
+
+</td>
+        <td align="center">
+
+77 160
+
+</td>
+        <td align="center">
+
+69 443
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Majoration par personne à charge supplémentaire à partir de la cinquième
+
+</td>
+        <td align="center">
+
++ 12 851
+
+</td>
+        <td align="center">
+
++ 11 764
+
+</td>
+        <td align="center">
+
++ 8 608
+
+</td>
+        <td align="center">
+
++ 7 746
+
+</td>
+      </tr>
+    </tbody>
+  </table>Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de
+l'article 2 duodecies ; 
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
@@ -2006,11 +2016,15 @@ prononcés.
 s'agissant des logements que le contribuable fait construire, dont la demande de permis de construire est déposée
 postérieurement à l'entrée en vigueur de l'arrêté.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-517 du 19 juin 2013 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -2061,9 +2075,9 @@ alinéa du IV de ce même article, s'entendent des communes classées dans la zo
 I. - Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général
 des impôts sont fixés comme suit : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2013, fixés à 9,88 €
-en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et
-à 12,27 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2014, fixés à 10,02
+€ en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon,
+et à 12,45 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de
 l'article 2 terdecies D. 
@@ -2071,123 +2085,157 @@ l'article 2 terdecies D.
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG
 terdecies. 
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2013, les suivants : 
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2014, les suivants : 
 
 <table>
   <tbody>
     <tr>
-      <td>
+      <th>COMPOSITION DU FOYER LOCATAIRE
 
-COMPOSITION du foyer locataire 
+</th>
+      <th>
 
-</td>
-      <td>
+LIEU DE SITUATION DU LOGEMENT :
 
-LIEU DE SITUATION DU LOGEMENT 
+Guadeloupe, Guyane, Martinique,
 
-Guadeloupe, Guyane, Martinique La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon
+La Réunion, Mayotte, Saint-Martin,
 
-(en euros) 
-
-</td>
-      <td align="center">LIEU DE SITUATION DU LOGEMENT :
-
-Nouvelle-Calédonie, Polynésie française, îles Wallis et Futuna
+ou Saint-Pierre-et-Miquelon
 
 (en euros)
 
+</th>
+      <th>
+
+LIEU DE SITUATION DU LOGEMENT :
+
+Nouvelle-Calédonie,
+
+Polynésie française
+
+îles Wallis et Futuna
+
+(en euros)
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule
+
+</td>
+      <td align="center">
+
+27 160
+
+</td>
+      <td align="center">
+
+30 169
+
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule 
+Couple
 
 </td>
       <td align="center">
 
-26 776 
+36 270
 
 </td>
-      <td align="center">29 721 </td>
+      <td align="center">
+
+40 288
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Couple 
+Personne seule ou couple ayant une personne à charge
 
 </td>
       <td align="center">
 
-35 757 
+43 619
 
 </td>
-      <td align="center"> 39 690</td>
+      <td align="center">
+
+48 451
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant une personne à charge 
+Personne seule ou couple ayant deux personnes à charge
 
 </td>
       <td align="center">
 
-43 002 
+52 658
 
 </td>
-      <td align="center"> 47 732</td>
+      <td align="center">
+
+58 491
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant deux personnes à charge 
+Personne seule ou couple ayant trois personnes à charge
 
 </td>
       <td align="center">
 
-51 913 
+61 945
 
 </td>
-      <td align="center"> 57 623</td>
+      <td align="center">
+
+68 808
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant trois personnes à charge 
+Personne seule ou couple ayant quatre personnes à charge
 
 </td>
       <td align="center">
 
-61 069 
+69 811
 
 </td>
-      <td align="center">67 787 </td>
+      <td align="center">
+
+77 546
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant quatre personnes à charge 
+Majoration par personne à charge supplémentaire à partir de la cinquième
 
 </td>
       <td align="center">
 
-68 824 
-
-</td>
-      <td align="center"> 76 395</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Majoration par personne à charge supplémentaire à partir de la cinquième 
++ 7 788
 
 </td>
       <td align="center">
 
-+ 7 677 
-
-</td>
-      <td align="center">+ 8 521
++ 8 650
 
 </td>
     </tr>
@@ -2215,11 +2263,15 @@ article ;
 2° Pour la consultation prévue au 1° du 2 du III de l'article 2 terdecies D, le conseil départemental de l'habitat mentionné
 à l'article L. 364-1 du code de la construction et de l'habitation est substitué au comité régional de l'habitat.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2013-474 du 5 juin 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-749 du 14 août 2013 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -2231,7 +2283,7 @@ article ;
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
 	  - Code général des impôts, CGI. - art. 1417
@@ -3318,20 +3370,24 @@ vendues au cours desdits exercices et, d'autre part, la moyenne des valeurs des 
 
 ###### Article 10 quaterdecies
 
-Pour l'application des dispositions des vingtième, vingt et unième, trente-quatrième et trente-cinquième alinéas du 5° du 1
-de l'article 39 du code général des impôts, les entreprises doivent joindre à leur déclaration de résultat de chaque exercice
-un état de suivi des provisions pour dépréciation des titres de participation et des immeubles de placement non admises en
+Pour l'application des dispositions des dix-neuvième, vingtième, trente-troisième et trente-quatrième alinéas du 5° du 1 de
+l'article 39 du code général des impôts, les entreprises doivent joindre à leur déclaration de résultat de chaque exercice un
+état de suivi des provisions pour dépréciation des titres de participation et des immeubles de placement non admises en
 déduction, conforme au modèle fourni par l'administration.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1027 du 21 août 2006 - art. 1 () JORF 22 août 2006
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 39 (VT)
+	  - Code général des impôts, CGI. - art. 39
 
 
 ##### D : Provisions pour reconstitution des gisements
@@ -3474,136 +3530,6 @@ Modification effectuée en conséquence des articles 5 et 8 de la loi n° 2003-2
 	  - Code général des impôts, CGI. - art. 39 ter
 
 
-##### b : Entreprises produisant certaines substances minérales solides
-
-##### Provisions constituées à partir de 1972
-
-###### Article 10 C quinquies
-
-I. Le montant de la provision pour reconstitution des gisements de minéraux solides susceptible d'être admise en franchise
-d'impôt à la clôture de chacun des exercices clos en 1972 et ultérieurement ne peut excéder : 
-
-Ni 15 % du montant des ventes des produits marchands extraits des gisements de minerais figurant sur la liste prévue au 1 de
-l'article 39 ter B du code général des impôts, exploités par l'entreprise, lorsque ces ventes sont prises en compte pour la
-détermination du bénéfice imposable en France ; 
-
-Ni 50 % du bénéfice net imposable réalisé au cours de l'exercice considéré et provenant de la vente, en l'état ou après
-transformation, de ces mêmes produits. 
-
-II. Sont assimilées à des ventes de produits extraits de gisements exploités par l'entreprise les ventes de produits acquis
-par celle-ci auprès de filiales étrangères dans lesquelles elle détient directement ou indirectement 50 % au moins des droits
-de vote. 
-
-L'appréciation des droits détenus par l'intermédiaire de filiales s'opère en multipliant successivement, quel que soit le
-degré de filiation, les pourcentages détenus par chaque société mère. 
-
-III. (abrogé) 
-
-IV. Les produits marchands s'entendent des produits obtenus en faisant subir au minerai les préparations et concentrations
-qui doivent nécessairement être effectuées avant la première vente. 
-
-Le montant des ventes de ces produits est déterminé sous déduction des ports facturés aux clients et des taxes françaises qui
-y sont incorporées. 
-
-En ce qui concerne les entreprises qui transforment elles-mêmes les produits marchands ci-dessus définis, le montant des
-ventes est calculé en appliquant aux quantités de ces produits compris dans les produits finis vendus au cours de l'exercice
-le prix unitaire moyen de vente, pendant cet exercice, desdits produits marchands. 
-
-Au montant des ventes ainsi déterminé s'ajoutent toutes sommes allouées à l'entreprise à titre de subventions ou de
-protection, sous quelque forme que ce soit, et calculées en fonction des quantités de produits extraits de ses gisements. 
-
-V. Pour la détermination du bénéfice net imposable, il y a lieu : 
-
-D'une part, d'exclure la fraction des provisions antérieurement constituées qui serait rapportée aux bases de l'impôt
-conformément aux dispositions de l'article 10 E ; 
-
-D'autre part, de déduire le déficit subi au cours d'un exercice dans la métropole et dans les départements d'outre-mer et
-provenant de la vente, en l'état ou après transformation, de produits extraits des gisements de minerais donnant droit à la
-constitution d'une provision, du bénéfice réalisé au cours de l'exercice suivant et provenant des mêmes opérations. Si ce
-bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté
-successivement sur les exercices suivants jusqu'au cinquième exercice qui suit l'exercice déficitaire.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2002-1206 du 27 septembre 2002 - art. 1 () JORF 29 septembre 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C sexies (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 4 C bis (P)
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E
-	  - Code général des impôts, CGI. - art. 39 ter B
-
-
-###### Article 10 C sexies
-
-I. La provision visée à l'article précédent constituée à la clôture d'un exercice doit, avant l'expiration d'un délai de cinq
-ans à partir de la clôture de cet exercice, être utilisée : 
-
-a. Soit à tous travaux ou immobilisations nécessaires aux recherches portant sur des gisements ou parties de gisements non
-encore reconnus et concernant les minerais figurant sur la liste visée à l'article 10 C quinquies ; 
-
-b. Soit à tous travaux ou immobilisations destinés à améliorer la récupération des substances minérales comprises dans ces
-mêmes minerais ; 
-
-c. Soit à l'acquisition de participations dans des sociétés ou organismes ayant pour objet d'effectuer la recherche et
-l'exploitation des minerais figurant sur la liste visée à l'article 10 C quinquies ou d'améliorer la récupération des
-substances minérales comprises dans ces mêmes minerais. 
-
-Le terme " participations " s'entend, au sens du c, des actions ou des parts d'intérêts ainsi que des sommes avancées aux
-sociétés ou organismes ci-dessus visés et effectivement destinées à être investies par ces sociétés et organismes dans des
-travaux de recherche ou de récupération des substances minérales considérées. 
-
-II. Lorsque le remploi de la provision est effectué pour la mise en valeur de gisements situés hors de la France
-métropolitaine, des départements d'outre-mer, de Saint-Pierre-et-Miquelon, de Mayotte, de Nouvelle-Calédonie, de Polynésie
-française, des îles Wallis et Futuna et des Terres australes et antarctiques françaises, sa validité est subordonnée à un
-agrément du ministre de l'économie et des finances, après avis du ministre du développement industriel et scientifique.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°76-1212 du 24 décembre 1976 - art. 1 (Ab) JORF 28 décembre 1976
-	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
-	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
-	  - Loi n°2003-660 2003-07-21 art. 61 I JORF 22 juillet 2003
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (V)
-
-
 ##### c : Dispositions communes
 
 ###### Article 10 D
@@ -3624,30 +3550,42 @@ faisant ressortir le montant des dotations de chaque exercice.
 
 ###### Article 10 E
 
-Si elle est utilisée dans le délai et les conditions prévus aux articles 10 C et 10 C sexies, la provision est définitivement
-exonérée de l'impôt sur le revenu ou de l'impôt sur les sociétés et peut être virée à un compte de réserve quelconque au
-passif du bilan. Les sommes ainsi utilisées en travaux de recherches ou de récupération ou en participations peuvent, dans
-les conditions fixées par le code général des impôts, être comptabilisées en dépenses d'exploitation, faire l'objet
-d'amortissements annuels ou donner lieu à la constitution de provisions pour dépréciation. 
+Si elle est utilisée dans le délai et les conditions prévus à l'article 10 C, la provision est définitivement exonérée de
+l'impôt sur le revenu ou de l'impôt sur les sociétés et peut être virée à un compte de réserve quelconque au passif du bilan.
+Les sommes ainsi utilisées en travaux de recherches ou de récupération ou en participations peuvent, dans les conditions
+fixées par le code général des impôts, être comptabilisées en dépenses d'exploitation, faire l'objet d'amortissements annuels
+ou donner lieu à la constitution de provisions pour dépréciation. 
 
 A défaut de remploi dans le délai ci-dessus, la provision est rapportée au bénéfice imposable de l'exercice en cours à la
 date d'expiration de ce délai.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°81-866 1981-09-15
+	  - Décret n°81-866 du 15 septembre 1981
+
+	**Modifié par**:
+
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B (P)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (P)
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C
 
 
 ###### Article 10 F
@@ -3663,27 +3601,34 @@ L'application des dispositions du deuxième alinéa est subordonnée à la condi
 ne soit pas expiré à la date de la cession et à l'obligation pour les nouveaux exploitants, pour la société absorbante ou
 nouvelle ou pour la société bénéficiaire de l'apport, d'inscrire immédiatement à leur passif la provision figurant dans les
 écritures du précédent exploitant, des sociétés fusionnées ou de la société apporteuse et qui était afférente aux éléments
-transférés et de l'utiliser avant l'expiration du délai imparti à l'ancien exploitant dans les conditions prévues aux
-articles 10 C et 10 C sexies et sous les sanctions fixées à l'article 10 E.
+transférés et de l'utiliser avant l'expiration du délai imparti à l'ancien exploitant dans les conditions prévues à l'article
+10 C et sous les sanctions fixées à l'article 10 E.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E (V)
-	  - Code général des impôts, CGI. - art. 201 (V)
-	  - Code général des impôts, CGI. - art. 204 (V)
-	  - Code général des impôts, CGI. - art. 210 A (V)
-	  - Code général des impôts, CGI. - art. 41 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E (P)
+	  - Code général des impôts, CGI. - art. 201
+	  - Code général des impôts, CGI. - art. 204
+	  - Code général des impôts, CGI. - art. 210 A
+	  - Code général des impôts, CGI. - art. 41
 
 
 ###### Article 10 G
@@ -3694,26 +3639,36 @@ conditions de son utilisation.
 
 Elles doivent indiquer, notamment, pour l'exercice considéré : 
 
-a. Le montant net, déterminé comme il est dit aux articles 10 B et 10 C quinquies, des ventes des produits marchands extraits
-des gisements exploités par l'entreprise ou acquis par celle-ci auprès de filiales étrangères dans les conditions prévues au
-II de l'article 10 C quinquies ; 
+a. Le montant net, déterminé comme il est dit à l'article 10 B, des ventes des produits marchands extraits des gisements
+exploités par l'entreprise ; 
 
-b. Le montant du bénéfice net imposable visé à l'article 10 B ou du bénéfice net imposable visé à l'article 10 C quinquies ; 
+b. Le montant du bénéfice net imposable visé à l'article 10 B ; 
 
-c. Et, le cas échéant, le montant des sommes utilisées dans les conditions prévues aux articles 10 C et 10 C sexies.
+c. Et, le cas échéant, le montant des sommes utilisées dans les conditions prévues à l'article 10 C.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
+
+Les mots : "ou acquis par celle-ci auprès de filiales étrangères dans les conditions prévues au II de l'article 10 C
+quinquies" deviennent sans objet ;
+
+Les mots : "ou du bénéfice net imposable visé à l'article 10 C quinquies" deviennent sans objet.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2002-1206 du 27 septembre 2002 - art. 1 () JORF 29 septembre 2002
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Liens**:
+
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C sexies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C
 
 
 ##### D-0 bis : Provisions pour investissements en faveur des entreprises de presse
@@ -3813,15 +3768,15 @@ Les dispositions de l'article 39 octies A du code général des impôts sont app
 enregistrés par l'Autorité de contrôle prudentiel et de résolution et habilités à effectuer des opérations de crédit ou de
 crédit-bail au profit des entreprises.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 24-I de la loi n° 2013-672 du 26 juillet 2013.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 39 octies A (VT)
+	  - Code général des impôts, CGI. - art. 39 octies A
 
 
 ###### Article 10 GA bis
@@ -5322,22 +5277,26 @@ Pour l'application du 9 de l'article 38 du code général des impôts, les entre
 résultats de chaque exercice un état établi sur un document conforme au modèle fixé par l'administration. 
 
 Cet état mentionne notamment, pour chaque participation, le prix d'acquisition, la valeur réelle, la valeur d'équivalence et
-le montant de la dépréciation définie au dix-huitième alinéa du 5° du 1 de l'article 39 du code précité.
+le montant de la dépréciation définie au dix-septième alinéa du 5° du 1 de l'article 39 du code précité.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2002-923 2002-06-06
+	  - Décret n°2002-923 du 6 juin 2002
 
 	**Modifié par**:
 
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 38 (VT)
-	  - Code général des impôts, CGI. - art. 39 (VT)
+	  - Code général des impôts, CGI. - art. 38
+	  - Code général des impôts, CGI. - art. 39
 
 
 ##### M : Renseignements à fournir par les entreprises à l'appui de la déclaration prévue à l'article 53 A du code général des impôts
@@ -7376,9 +7335,8 @@ b) L'effectif au dernier jour ouvrable de l'année précédente ;
 
 c) Le montant de la taxe sur les salaires ; 
 
-d) Pour les employeurs assujettis à la taxe d'apprentissage et à la contribution au développement de l'apprentissage
-conformément, respectivement, aux articles 224 et 1599 quinquies A du code général des impôts, le montant des rémunérations
-défini aux articles 225 et 225 A du code général des impôts ; 
+d) Pour les employeurs assujettis à la taxe d'apprentissage conformément à l'article 1599 ter A du code général des impôts ,
+le montant des rémunérations défini à l'article 1599 ter B du code général des impôts  ; 
 
 e) Pour les employeurs assujettis à la participation au développement de la formation professionnelle continue conformément à
 l'article L. 6331-2 du code du travail, le montant des rémunérations défini au deuxième alinéa de l'article L. 6331-2 précité
@@ -7465,7 +7423,8 @@ ainsi que la durée d'exercice de l'activité du bénéficiaire dans la sociét�
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 3-II [1er] de la loi n° 2012-958 du 16 août 2012.
+Modifications effectuées en conséquence des articles 60-I A [2°], 60-I A [3°], 60-I E et 60-VII de la loi n° 2013-1279 du 29
+décembre 2013.
 
 **Liens relatifs à cet article**
 
@@ -7474,11 +7433,8 @@ Modifications effectuées en conséquence de l'article 3-II [1er] de la loi n° 
 	  - Loi n°86-33 du 9 janvier 1986 - art. 2
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 bis
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 38-0 septdecies
-	  - Code général des impôts, CGI. - art. 1599 quinquies A
 	  - Code général des impôts, CGI. - art. 163 bis G
 	  - Code général des impôts, CGI. - art. 182 A
-	  - Code général des impôts, CGI. - art. 224
-	  - Code général des impôts, CGI. - art. 225
 	  - Code général des impôts, CGI. - art. 231
 	  - Code général des impôts, CGI. - art. 80 bis
 	  - Code général des impôts, CGI. - art. 80 quaterdecies
@@ -7499,7 +7455,7 @@ Modifications effectuées en conséquence de l'article 3-II [1er] de la loi n° 
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 
 ###### Article 39 A
@@ -9620,59 +9576,6 @@ d. (abrogé)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 X (V)
 
 
-###### Article 41 duovicies G bis
-
-I.-Lorsqu'un contribuable entend bénéficier de l'exonération d'impôt sur le revenu prévue, sur option, au 7 du III de
-l'article 150-0 A du code général des impôts, il informe de cette intention la société au capital de laquelle il a souscrit
-les titres cédés, au plus tard le 31 décembre de l'année de la cession. 
-
-Dans ce cas, la société lui délivre, avant le 16 février de l'année qui suit celle de la cession, un état individuel qui
-mentionne : 
-
-a) La raison sociale, l'objet social et le siège social de la société ; 
-
-b) L'identité et l'adresse du souscripteur ; 
-
-c) Le nombre, le montant et la date de souscription et de libération des titres détenus par le contribuable au 1er janvier de
-l'année de la cession de ces titres ; 
-
-d) Le nombre des titres cédés par le contribuable dans l'année ; 
-
-e) La date à partir de laquelle la société a bénéficié du statut de jeune entreprise innovante défini à l'article 44 sexies-0
-A du code général des impôts et, si tel est le cas, la date de fin de ce statut. 
-
-II.-Le contribuable qui entend bénéficier de l'exonération prévue au 7 du III de l'article 150-0 A précité : 
-
-a) Formule l'option prévue à ce même 7 sur la déclaration mentionnée à l'article 74-0 F de l'annexe II au code général des
-impôts et déposée au titre de l'année de la cession des titres ; 
-
-b) Conserve l'état individuel mentionné au I jusqu'à l'expiration de la fin de la troisième année qui suit celle au titre de
-laquelle il a bénéficié de l'exonération précitée.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 17-I D [4°] et [III] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-506 du 3 avril 2007 - art. 1 () JORF 5 avril 2007
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2014-1223 du 21 octobre 2014 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 74-0 F
-	  - Code général des impôts, CGI. - art. 150-0 A
-
-
 ###### Article 41 duovicies H
 
 Pour l'application du III de l'article 150 VA du code général des impôts, les frais supportés par le vendeur à l'occasion de
@@ -10547,49 +10450,22 @@ après déduction de la quote-part y afférente des subventions, quelle que soit
 
 
 
-###### Article 41 H
+###### Article 41 I
 
-L'application des articles 41 E à 41 G peut être étendue aux immeubles qui, bien que non classés parmi les monuments
-historiques ni inscrits à l'inventaire supplémentaire, font partie du patrimoine national à raison de leur caractère
-historique ou artistique particulier. Toutefois, la déduction des charges visées au I de l'article 41 F est réservée à ceux
-de ces immeubles qui sont ouverts au public ; elle est limitée à 50% de leur montant. 
+Pour l'application de l'article 41 F, un arrêté détermine les conditions auxquelles il doit être satisfait pour que
+l'immeuble soit considéré comme ouvert au public (1). 
 
-Pour être admis au bénéfice des dispositions du présent article, les immeubles doivent faire l'objet d'un agrément spécial
-accordé par le ministre chargé du budget.
+(1) Annexe IV, art. 17 ter à 17 quinquies.
 
 **Nota:**
 
-Dispositions devenues sans objet en conséquence de l'article 26-I [l] et XI-3 de la loi n° 2013-1278 du 29 décembre 2013.
+Modifications effectuées en conséquence de l'article 26-I [l] et XI-3 de la loi n° 2013-1278 du 29 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-1016 du 22 septembre 2004 - art. 1 () JORF 29 septembre 2004
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 E
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 quinquies (V)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 quinquies A (P)
-
-
-###### Article 41 I
-
-Pour l'application des articles 41 F et 41 H, un arrêté détermine les conditions auxquelles il doit être satisfait pour que
-l'immeuble soit considéré comme ouvert au public (1). 
-
-(1) Annexe IV, art. 17 ter à 17 quinquies.
-
-**Liens relatifs à cet article**
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -10603,20 +10479,26 @@ l'immeuble soit considéré comme ouvert au public (1).
 
 ###### Article 41 I bis
 
-Pour les immeubles qui, bien que non classés parmi les monuments historiques, ni inscrits à l'inventaire supplémentaire, ni
-objets d'un agrément ministériel, font partie du patrimoine national à raison du label délivré par la "Fondation du
-patrimoine", les charges déductibles afférentes à ces immeubles sont exclusivement celles qui correspondent aux travaux de
-réparation et d'entretien. Pour les immeubles habitables, seuls les travaux de cette nature, afférents aux murs, aux façades
-et aux toitures, ouvrent droit à déduction. La déduction est en outre réservée à ceux de ces immeubles qui sont visibles de
-la voie publique. La déduction des charges est limitée à 50 % de leur montant. Cette déduction est toutefois portée à 100 %
-lorsque les travaux sont subventionnés à hauteur de 20 % au moins de leur montant. Ces pourcentages de déduction s'appliquent
-à la seule fraction des travaux non couverte par une subvention.
+Pour les immeubles qui, bien que non classés parmi les monuments historiques, ni inscrits à l'inventaire supplémentaire, font
+partie du patrimoine national à raison du label délivré par la "Fondation du patrimoine", les charges déductibles afférentes
+à ces immeubles sont exclusivement celles qui correspondent aux travaux de réparation et d'entretien. Pour les immeubles
+habitables, seuls les travaux de cette nature, afférents aux murs, aux façades et aux toitures, ouvrent droit à déduction. La
+déduction est en outre réservée à ceux de ces immeubles qui sont visibles de la voie publique. La déduction des charges est
+limitée à 50 % de leur montant. Cette déduction est toutefois portée à 100 % lorsque les travaux sont subventionnés à hauteur
+de 20 % au moins de leur montant. Ces pourcentages de déduction s'appliquent à la seule fraction des travaux non couverte par
+une subvention.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 26-I [l] et XI-3 de la loi n° 2013-1278 du 29 décembre 2013.
+
+Les mots : "ni objets d'un agrément ministériel", deviennent sans objet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1016 du 22 septembre 2004 - art. 1 () JORF 29 septembre 2004
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -10626,15 +10508,14 @@ lorsque les travaux sont subventionnés à hauteur de 20 % au moins de leur mont
 ###### Article 41 J
 
 Pour bénéficier de la déduction des charges énumérées aux articles 41 F et 41 I bis, les propriétaires d'immeubles classés
-monuments historiques, inscrits à l'inventaire supplémentaire ou faisant l'objet de l'agrément spécial prévu à l'article 41 H
-ou bénéficiant du label délivré par la " Fondation du patrimoine " mentionné à l'article 41 I bis sont tenus de joindre à la
-déclaration annuelle de leurs revenus une note indiquant : 
+monuments historiques, inscrits à l'inventaire supplémentaire ou bénéficiant du label délivré par la " Fondation du
+patrimoine " mentionné à l'article 41 I bis sont tenus de joindre à la déclaration annuelle de leurs revenus une note
+indiquant : 
 
 Le détail des sommes dont la déduction est demandée ; 
 
 La date du décret, de l'arrêté ou de la décision qui a, selon le cas, soit classé l'immeuble ou certaines parties de
-l'immeuble sur la liste des monuments historiques, soit décidé son inscription à l'inventaire supplémentaire, soit accordé
-l'agrément spécial. 
+l'immeuble sur la liste des monuments historiques, soit décidé son inscription à l'inventaire supplémentaire.
 
 Pour les monuments classés, elle est accompagnée d'une attestation de l'administration des affaires culturelles certifiant
 que les travaux exécutés ont effectivement le caractère de travaux d'entretien et de réparation et indiquant d'une part, le
@@ -10644,15 +10525,23 @@ taux de la subvention accordée.
 Pour les immeubles ayant reçu le label délivré par la " Fondation du patrimoine ", elle est accompagnée d'une copie de la
 décision d'octroi de ce label.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 26-I l et XI-3 de la loi n° 2013-1278 du 29 décembre 2013.
+
+Les mots : "ou faisant l'objet de l'agrément spécial prévu à l'article 41 H" deviennent sans objet ;
+
+Les mots : , "soit accordé l'agrément spécial" deviennent sans objet.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-1016 du 22 septembre 2004 - art. 1 () JORF 29 septembre 2004
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 F
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 I bis (V)
 
 
@@ -11980,14 +11869,14 @@ En cas de changement d'exploitant de la résidence, les dispositions du II sont 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants : 
 
-1. Pour les baux conclus en 2013, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2014, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à : 
 
-1° 164 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
+1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
 année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à
 la consommation hors tabac de chacun des quatre départements d'outre-mer ; 
 
-2° 205 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
+2° 209 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
 Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que
 la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la
 Nouvelle-Calédonie. 
@@ -12008,149 +11897,172 @@ Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut d
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure. 
 
-Pour les baux conclus en 2013, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
 
 (en euros) 
 
 <table>
-  <tbody>
-    <tr>
-      <td rowspan="2">
+    <tbody>
+      <tr>
+        <th>COMPOSITION DU FOYER LOCATAIRE
 
-COMPOSITION DU FOYER DU LOCATAIRE
-
-</td>
-      <td colspan="2">
+</th>
+        <th colspan="2">
 
 PLAFOND ANNUEL DE RESSOURCES
 
-</td>
-    </tr>
-    <tr>
-      <td> Départements d'outre-mer, 
+</th>
+      </tr>
+      <tr>
+        <th>
 
-Saint-Barthélemy,
+</th>
+        <th>
 
-Saint-Martin et Mayotte
+Départements d'outre-mer,
 
-</td>
-      <td> Polynésie française, Nouvelle-Calédonie, 
+Saint-Martin,
 
-îles Wallis et Futuna, Terres australes
+Saint-Barthélemy, Mayotte
+
+</th>
+        <th>
+
+Polynésie française,
+
+Nouvelle-Calédonie,
+
+îles Wallis et Futuna
+
+Saint-Pierre-et-Miquelon,
+
+Terres australes
 
 et antarctiques françaises
 
-et Saint-Pierre-et-Miquelon
-
-</td>
-    </tr>
-    <tr>
-      <td>
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule
 
 </td>
-      <td>
+        <td align="center">
 
-30 985
-
-</td>
-      <td>
-
-29 873
+31 430
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+30 323
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Couple
 
 </td>
-      <td align="center">57 307 </td>
-      <td align="center">
+        <td align="center">
 
-55 249</td>
-    </tr>
-    <tr>
-      <td align="center">
+58 129
+
+</td>
+        <td align="center">
+
+56 081
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant une personne à charge
 
 </td>
-      <td align="center">60 621</td>
-      <td align="center">
+        <td align="center">
 
-58 444
+61 491
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+59 324
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant deux personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-63 936
-
-</td>
-      <td align="center">
-
-61 641 
+64 853
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+62 569
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant trois personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-68 365
-
-</td>
-      <td align="center">
-
-65 909 
+69 346
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+66 902
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Personne seule ou couple ayant quatre personnes à charge
 
 </td>
-      <td align="center">
+        <td align="center">
 
-72 795
+73 839
 
 </td>
-      <td align="center">70 179</td>
-    </tr>
-    <tr>
-      <td align="center">
+        <td align="center">
+
+71 236
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Majoration par personne à charge à partir de la cinquième
 
 </td>
-      <td align="center">
+        <td align="center">
 
-+ 4 651
-
-</td>
-      <td align="center">+ 4 483
++ 4 718
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
 
-Ces plafonds sont relevés chaque année selon les modalités définies au 1. 
++ 4 551
+
+</td>
+      </tr>
+    </tbody>
+  </table>Ces plafonds sont relevés chaque année selon les modalités définies au 1. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts. 
@@ -12172,7 +12084,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -13187,14 +13099,18 @@ I. ― Le montant des dons aux organismes mentionnés au 4 bis de l'article 200 
 distinctement sur la déclaration de revenus prévue à l'article 170 du même code de l'année au titre de laquelle les dons sont
 effectués. 
 
-II. ― Pour l'application du deuxième alinéa du 4 bis de l'article 200 du code général des impôts, les pièces à fournir dans
-le délai de dépôt de la déclaration sont celles mentionnées au deuxième alinéa de l'article 46 AW bis.
+II. ― Pour l'application du deuxième alinéa du 4 bis de l'article 200 du code général des impôts, les pièces à fournir sont
+celles mentionnées au deuxième alinéa de l'article 46 AW bis.
+
+**Nota:**
+
+Les mots : "dans le délai de dépôt de la déclaration" deviennent sans objet.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
@@ -14802,135 +14718,6 @@ Cet état est établi sur papier libre, conformément au modèle fixé par l'adm
 	  - Code général des impôts, CGI. - art. 208 sexies (V)
 
 
-##### Section I ter : Activités créées en Corse
-
-###### Article 46 quater-00 A
-
-La commission mentionnée au I de l'article 208 quater A du code général des impôts comprend onze membres : 
-
-Le préfet de Corse qui la préside ; 
-
-Le directeur régional des finances publiques de la Corse et du département de la Corse-du-Sud et le directeur départemental
-des finances publiques de la Haute-Corse ; 
-
-Le directeur départemental de la cohésion sociale et de la protection des populations ; 
-
-Le directeur régional des douanes de Corse ; 
-
-Six représentants des organisations professionnelles de la Corse désignés selon les modalités suivantes : 
-
-Un représentant désigné par la chambre départementale de commerce et d'industrie d'Ajaccio ; 
-
-Un représentant désigné par la chambre départementale de commerce et d'industrie de Bastia ; 
-
-Un représentant désigné par la chambre départementale d'agriculture d'Ajaccio ; 
-
-Un représentant désigné par la chambre départementale d'agriculture de Bastia ; 
-
-Un représentant désigné par la chambre départementale de métiers et de l'artisanat de la Haute-Corse ; 
-
-Un représentant désigné par la chambre départementale de métiers et de l'artisanat de la Corse-du-Sud. 
-
-Le secrétariat de la commission est assuré par un agent de la direction générale des finances publiques désigné par le préfet
-de Corse, sur proposition du directeur régional des finances publiques de la Corse et du département de la Corse-du-Sud.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 208 quater A
-
-
-###### Article 46 quater-00 A bis
-
-La commission se réunit sur la convocation du préfet de Corse. Elle délibère valablement à condition qu'il y ait au moins
-huit membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
-
-La commission peut entendre à titre consultatif les représentants des collectivités territoriales concernées par le projet et
-les experts de l'administration dont elle estime utile de prendre l'avis. Les membres de la commission ainsi que les
-personnalités ou experts entendus à titre consultatif sont tenus au secret professionnel.
-
-Les avis sont émis par la commission en présence uniquement des membres ayant voix délibérative.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-836 du 27 août 1992
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 4
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-
-###### Article 46 quater-00 A quater
-
-L'avis motivé émis par la commission est transmis, accompagné d'un exemplaire de la demande d'agrément visée à l'article 208
-quater A du code général des impôts, aux services centraux de la   direction générale des finances publiques.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-836 du 27 août 1992
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 28
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 208 quater A
-
-
-###### Article 46 quater-00 A ter
-
-Les demandes d'agrément présentées au titre de l'article 208 quater A du code général des impôts sont établies en quatre
-exemplaires, conformément à un modèle fixé par l'administration, et adressées, préalablement à la constitution de la société
-ou à la création d'une activité nouvelle, au   directeur départemental ou, le cas échéant, régional des finances publiques du
-département où sera réalisé l'investissement. 
-
-Ce dernier en accuse réception et en effectue la transmission au secrétariat de la commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°92-836 du 27 août 1992
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 27
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 208 quater A
-
-
 ##### Section II : Monuments historiques. Charges déductibles pour les organismes non lucratifs
 
 ###### Article 46 quater-0 A
@@ -16305,64 +16092,6 @@ déduits à compter du 1er janvier 1985 pour le calcul de l'impôt.
 	  - Décret n°86-1086 1986-10-07
 
 
-###### Article 46 quater-0 ZA
-
-La provision pour dépréciation du portefeuille prévue aux dix-septième à dix-neuvième alinéas du 5° du 1 de l'article 39 du
-code général des impôts doit être égale, au 1er janvier 1985, à la différence entre la valeur des titres à la clôture de
-l'exercice 1984 et leur valeur d'origine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 39
-
-
-###### Article 46 quater-0 ZB
-
-A moins que, en vue de faire face aux risques afférents à leurs opérations de crédit à moyen et à long terme, elles n'aient
-constitué au 31 décembre 1984 des provisions pour un montant égal ou supérieur à 0,50 % de l'en-cours des crédits, les
-caisses sont tenues de faire figurer au 1er janvier 1985 à leur bilan la provision prévue au quinzième alinéa du 5° du 1 de
-l'article 39 du code général des impôts pour un montant de 0,50 % de l'en-cours des crédits afférents auxdites opérations.
-Cette provision est constituée en ajoutant aux provisions pour risques sur crédit à moyen ou long terme comptabilisées au 31
-décembre 1984 les sommes nécessaires, prélevées sur les provisions à caractère général ou, à défaut, sur les réserves. Ce
-complément est inscrit de façon distincte au bilan.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [c] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 39
-
-
 ###### Article 46 quater-0 ZC
 
 Les provisions, autres que les provisions pour risques sur crédit à moyen ou à long terme mentionnées à l'article 46 quater-0
@@ -16451,11 +16180,15 @@ signée des représentants dûment mandatés de la société mère et de la soci
 précise, la nature, les circonstances et les justifications juridiques, économiques ou sociales de l'opération à l'origine de
 la détention en cause.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 24-I de la loi n° 2013-672 du 26 juillet 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -16630,43 +16363,6 @@ d'une cession à une société intermédiaire.
 	  - Code général des impôts, CGI. - art. 39 B
 
 
-###### Article 46 quater-0 ZI
-
-I. L'imposition forfaitaire annuelle due par les sociétés du groupe et dont la société mère est redevable en application de
-l'article 223 A du code général des impôts est payée au comptable de la direction générale des finances publiques du lieu
-d'imposition de cette dernière société. Le paiement est accompagné du relevé d'acompte mentionné à l'article 366 A bis qui
-comporte notamment le montant de l'imposition forfaitaire annuelle dû par l'ensemble des sociétés du groupe. 
-
-II. (Abrogé). 
-
-III. La société mère doit joindre à la déclaration du résultat d'ensemble un état, conforme à un modèle établi par
-l'administration, qui fait apparaître les cotisations d'imposition forfaitaire annuelle payées au titre de l'année de clôture
-de l'exercice, et le montant des cotisations des deux années antérieures.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 14-I-3° b et II de la loi n° 2008-1425 du 27 décembre 2008.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 du 24 mars 2006
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 30
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 366 A bis
-	  - Code général des impôts, CGI. - art. 223 A
-
-
 ###### Article 46 quater-0 ZJ
 
 Pour l'application du 2 de l'article 223 N du code général des impôts, les acomptes que la société mère doit verser pour le
@@ -16763,8 +16459,8 @@ outre :
 a) l'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble ; 
 
 b) l'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
-III de l'article 44 octies, du III de l'article 44 octies A, de la seconde phrase du huitième alinéa du I de l'article 44
-decies, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts. 
+III de l'article 44 octies, du III de l'article 44 octies A, du III de l'article 44 duodecies et du III de l'article 44
+terdecies du code général des impôts. 
 
 La société mère dépose au plus tard à l'expiration du délai de dépôt de son relevé de solde auprès du comptable de la
 direction générale des finances publiques la liste des sociétés membres du groupe et des sociétés intermédiaires ainsi que
@@ -16777,7 +16473,7 @@ code général des impôts pour la modalité de souscription par voie électroni
 
 	**Modifié par**:
 
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -16787,7 +16483,6 @@ code général des impôts pour la modalité de souscription par voie électroni
 
 	  - Code général des impôts, CGI. - art. 1649 quater B quater
 	  - Code général des impôts, CGI. - art. 223 A
-	  - Code général des impôts, CGI. - art. 44 decies
 	  - Code général des impôts, CGI. - art. 44 duodecies
 	  - Code général des impôts, CGI. - art. 44 octies
 	  - Code général des impôts, CGI. - art. 44 octies A
@@ -16853,11 +16548,10 @@ alinéa de l'article 223 E du code général des impôts revenant à chacune d'e
 
 7. (Périmé) 
 
-8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 decies, 44
-duodecies et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du
-bénéfice et de la plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de
-l'article 44 octies A, du huitième alinéa du I de l'article 44 decies, du III de l'article 44 duodecies et du III de
-l'article 44 terdecies du code général des impôts. 
+8. Un document indiquant les sociétés du groupe relevant des dispositions des articles 44 octies, 44 octies A, 44 duodecies
+et 44 terdecies du code général des impôts, comportant les éléments nécessaires au calcul de la fraction du bénéfice et de la
+plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies
+A, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts. 
 
 9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts
 déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même
@@ -16873,13 +16567,13 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-221
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (M)
 	  - Code général des impôts, CGI. - art. 223 B
 	  - Code général des impôts, CGI. - art. 223 D
 	  - Code général des impôts, CGI. - art. 223 E
@@ -16888,8 +16582,6 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 	  - Code général des impôts, CGI. - art. 223 L
 	  - Code général des impôts, CGI. - art. 223 Q
 	  - Code général des impôts, CGI. - art. 223 R
-	  - Code général des impôts, CGI. - art. 44 decies
-	  - Code général des impôts, CGI. - art. 44 duodecies
 	  - Code général des impôts, CGI. - art. 44 octies
 	  - Code général des impôts, CGI. - art. 44 octies A
 	  - Code général des impôts, CGI. - art. 44 terdecies
@@ -16969,60 +16661,6 @@ par l'administration.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 209-0 B (V)
-
-
-##### Section VIII ter : Imputation de déficits subis à l'étranger par les petites et moyennes entreprises
-
-###### Article 46 quater-0 ZS ter
-
-I.-Pour l'application de l'article 209 C du code général des impôts, la détention d'un pourcentage du capital d'une société
-s'entend de la détention en pleine propriété de ce même pourcentage des droits à dividendes et des droits de vote attachés
-aux titres émis par cette société. 
-
-Les droits détenus indirectement s'entendent des droits détenus par l'intermédiaire d'une chaîne de participation. Le
-pourcentage de ces droits est apprécié en multipliant entre eux les taux de détention successifs. 
-
-II.-La petite ou moyenne entreprise qui, au titre d'un exercice, déduit de son résultat imposable les déficits de succursales
-et filiales dans les conditions prévues à l'article 209 C du code général des impôts ou n'a pas encore rapporté à son
-résultat imposable les déficits qu'elle a ainsi préalablement déduits joint à sa déclaration de résultats un état conforme au
-modèle établi par l'administration qui mentionne : 
-
-1° Sa dénomination sociale, son numéro d'identité tel que défini au premier alinéa de l'article R. 123-221 du code de
-commerce, l'adresse de son siège ou de son principal établissement si elle diffère de celle du siège, et le nombre de
-salariés qu'elle emploie ; 
-
-2° La liste de ses associés ou de ses actionnaires en précisant pour chacun d'eux le nombre de parts ou d'actions, la quote-
-part de capital et de droits de vote ainsi que toutes les modifications apportées à ces éléments en cours d'exercice. Sont
-indiqués en outre, pour les personnes morales, la dénomination, l'adresse, le numéro d'identité tel que défini au premier
-alinéa de l'article R. 123-221 du code de commerce et leur effectif salarié ainsi que, pour les personnes physiques, les nom,
-prénoms, adresse, date et lieu de naissance ; 
-
-3° Le cas échéant, la liste des personnes morales qui détiennent indirectement l'entreprise, en précisant pour chacune
-d'elles les informations mentionnées au 2° ; 
-
-4° Le suivi par exercice des déficits déduits de son résultat imposable et de ceux rapportés à son résultat imposable, par
-succursale ou filiale, en précisant pour chacune d'elles la dénomination, l'adresse, l'impôt étranger équivalant à l'impôt
-sur les sociétés auquel elle est soumise, ainsi que, pour les filiales, le taux de détention de l'entreprise dans leur
-capital et, le cas échéant, la référence à la législation le limitant.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [w] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2009-417 du 15 avril 2009 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code de commerce - art. R123-221
-	  - Code général des impôts, CGI. - art. 209 C
 
 
 ##### Section IX : Entreprises nouvelles bénéficiant des dispositions de l'article 44 septies
@@ -17516,137 +17154,6 @@ de conservation des titres.
 	**Créé par**:
 
 	  - Décret n°2002-292 du 22 février 2002 - art. 1 () JORF 1er mars 2002
-
-
-##### Section XV : Amortissement exceptionnel pour la souscription en numéraire de parts de sociétés d'investissement régional ou d'investissement régional ou d'investissement pour le développement rural
-
-###### Article 46 quater-0 ZZ sexies
-
-I. Pour bénéficier de l'amortissement exceptionnel prévu à l'article 217 quaterdecies du code général des impôts, le
-souscripteur au capital de l'une des sociétés mentionnées à l'article précité doit joindre à sa déclaration de résultats un
-relevé délivré par cette société et comprenant : 
-
-a) La raison sociale et l'adresse de la société ; 
-
-b) L'identité et l'adresse de l'actionnaire ; 
-
-c) Le nombre et le numéro des actions souscrites, le montant et la date de leur souscription ; 
-
-d) La date et le montant des versements effectués au titre de la souscription des actions ; 
-
-e) Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire, ainsi que le montant et la date de
-cession. 
-
-II. Lorsque les actions cédées au cours d'un exercice ont été souscrites depuis moins de cinq ans par le cédant, la société
-concernée adresse, dans les deux mois suivant la cession des actions, au service des impôts dont dépend le domicile du cédant
-le relevé mentionné au I ou un duplicata de ce relevé. 
-
-Ce relevé est établi sur papier libre ou sur support informatique, conformément au modèle fixé par l'administration.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 26-I [y] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2005-465 du 6 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 217 quaterdecies
-
-
-##### Section XVI : Déduction pour la souscription au capital de sociétés implantées dans les zones franches urbaines
-
-###### Article 46 quater-0 ZZ nonies
-
-I.-Lorsque la société bénéficiaire des versements ne satisfait pas à la condition prévue au a du II de l'article 217
-sexdecies du code général des impôts, elle indique, sur papier libre, en annexe à la déclaration de résultats de l'exercice
-au cours duquel elle a cessé d'exercer son activité dans les zones franches urbaines dans la période de trois ans mentionnée
-au a précité, l'identification du ou des souscripteurs, la date de cessation de l'activité, ainsi que le montant des sommes
-réintégrées à ses résultats imposables. 
-
-II.-Lorsque cette même société ne satisfait pas à la condition prévue au b du II de l'article 217 sexdecies précité, elle
-indique, sous les mêmes formes, à l'issue de la période de trois ans mentionnée au b précité, l'identification du ou des
-souscripteurs, le montant des sommes non utilisées pour son activité exercée dans les zones franches urbaines, ainsi que le
-montant des sommes réintégrées à ses résultats imposables.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-496 du 30 mars 2007 - art. 1 () JORF 1er avril 2007
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 217 sexdecies
-
-
-###### Article 46 quater-0 ZZ octies
-
-Lorsque le souscripteur cède les titres dans le délai de trois ans mentionné au premier alinéa du III de l'article 217
-sexdecies du code général des impôts, il indique, sur papier libre, en annexe à la déclaration de résultats de l'exercice au
-cours duquel les titres sont cédés, l'identification de la société dont les titres sont cédés, la date de cession de ces
-titres et le montant de la déduction réintégrée à ses résultats imposables.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-496 du 30 mars 2007 - art. 1 () JORF 1er avril 2007
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 217 sexdecies
-
-
-###### Article 46 quater-0 ZZ septies
-
-Pour bénéficier de la déduction prévue à l'article 217 sexdecies du code général des impôts, le souscripteur au capital d'une
-société exerçant ou créant des activités en zone franche urbaine joint à sa déclaration de résultats au titre de l'exercice
-de réalisation de l'investissement un relevé comprenant : 
-
-a) La dénomination sociale et le numéro d'immatriculation au registre du commerce et des sociétés de la société bénéficiaire
-de la souscription ; 
-
-b) L'adresse du siège de la société bénéficiaire de la souscription, ainsi que son adresse dans la zone franche urbaine si
-elle est différente de celle du siège ; 
-
-c) Le nombre et le numéro des parts ou actions souscrites, le montant et la date de leur souscription ; 
-
-d) Le montant et la date des versements en numéraire effectués au titre de la souscription des parts ou actions ; 
-
-e) Le détail du calcul du montant de la déduction pratiquée par l'investisseur au titre de la souscription. 
-
-Ce relevé est établi sur papier libre ou sur support informatique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-496 du 30 mars 2007 - art. 1 () JORF 1er avril 2007
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 217 sexdecies
 
 
 #### Chapitre II : Dispositions communes à l'impôt sur le revenu et à l'impôt sur les sociétés
@@ -18337,9 +17844,9 @@ clause prévoyant que l'oeuvre ne sera pas financée pour plus de 50 % de son co
 
 ###### Article 46 quindecies E
 
-I.-Pour bénéficier de l'avantage fiscal prévu aux articles 199 unvicies et 217 septies du code général des impôts, le
-souscripteur au capital agréé d'une Sofica doit produire sur demande du service, à l'appui de sa déclaration de revenus ou de
-résultats un relevé délivré par cette société et comprenant : 
+I.-Pour bénéficier de l'avantage fiscal prévu à l'article 199 unvicies du code général des impôts, le souscripteur au capital
+agréé d'une Sofica doit produire sur demande du service, à l'appui de sa déclaration de revenus ou de résultats un relevé
+délivré par cette société et comprenant : 
 
 L'identité et l'adresse de l'actionnaire ; 
 
@@ -18354,7 +17861,7 @@ La date et le montant des versements effectués au titre de la souscription des 
 Le cas échéant, le nombre et les numéros des actions cédées par l'actionnaire ainsi que le montant et la date des cessions. 
 
 Lorsque les actions cédées au cours d'une année ont été souscrites depuis moins de cinq ans par le cédant, la Sofica adresse
-avant le 31 mars de l'année suivante à la   direction départementale ou, le cas échéant, régionale des finances publiques du
+avant le 31 mars de l'année suivante à la direction départementale ou, le cas échéant, régionale des finances publiques du
 domicile du cédant le relevé mentionné ci-dessus ou un duplicata de ce relevé. 
 
 Ce relevé est établi sur papier libre, conformément au modèle fixé par l'administration. 
@@ -18368,16 +17875,19 @@ prévues au a de l'article 238 bis HE du code général des impôts.
 III. ― Pour l'application de l'article 199 unvicies du code général des impôts, le relevé mentionné au I doit être délivré
 par la société avant le 31 mars de l'année suivant celle de la souscription.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 26-I [x] de la loi n° 2013-1278 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 unvicies
-	  - Code général des impôts, CGI. - art. 217 septies
+	  - Code général des impôts, CGI. - art. 199 unvicies (V)
 	  - Code général des impôts, CGI. - art. 238 bis HE
 
 
@@ -19725,35 +19235,6 @@ impôts doit joindre à la déclaration du résultat de la période d'imposition
 	  - Code général des impôts, CGI. - art. 44 octies A (VT)
 
 
-###### Article 49 M
-
-Pour l'application du sixième alinéa du II de l'article 44 octies ou du sixième alinéa du II de l'article 44 octies A du code
-général des impôts, le contribuable est réputé avoir exercé l'ensemble de son activité dans les zones franches urbaines s'il
-n'a pas disposé, en dehors de ces zones et au cours de l'année ou de l'exercice considéré, de biens passibles d'une taxe
-foncière dont la valeur locative est comprise dans la base d'imposition à la cotisation foncière des entreprises définis à
-l'article 1467 du code général des impôts.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 29-I [3°] de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1467
-	  - Code général des impôts, CGI. - art. 44 octies
-	  - Code général des impôts, CGI. - art. 44 octies A
-
-
 ###### Article 49 N
 
 Les bailleurs d'immeubles visés au 5° du I de l'article 35 du code général des impôts bénéficiant des dispositions de
@@ -19806,119 +19287,6 @@ du résultat.
 
 	  - Code général des impôts, CGI. - art. 44 octies (VT)
 	  - Code général des impôts, CGI. - art. 44 octies A (VT)
-
-
-##### Section II quinquies : Entreprises implantées en Corse
-
-###### Article 49 Q
-
-Lorsque le début ou le terme de la période d'exonération prévus au I de l'article 44 decies du code général des impôts ne
-coïncide pas avec le début ou le terme de l'année ou de l'exercice d'imposition, la règle du prorata du temps est appliquée
-pour déterminer la fraction du bénéfice imposable et celle du bénéfice exonéré.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-343 du 11 avril 1997 - art. 1 (V) JORF 13 avril 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 du 22 mai 1998
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 44 decies
-
-
-###### Article 49 R
-
-Le contribuable qui peut bénéficier des dispositions de l'article 44 decies du code général des impôts doit joindre à la
-déclaration afférente au résultat de chaque période d'imposition des bénéfices : 
-
-1. Un état qui mentionne les renseignements suivants : 
-
-a. La nature exacte de l'activité de l'entreprise, l'implantation précise de son siège et de ses établissements, sa situation
-au regard des aides à l'investissement visées au a du I de l'article 44 decies du code général des impôts ; 
-
-b. L'effectif des salariés, la nature du contrat de travail de chacun d'eux, la durée du temps de travail prévue par ce
-contrat et le temps de travail effectif de chaque salarié au cours de l'exercice ; 
-
-2. Un document conforme à un modèle établi par l'administration comportant les éléments nécessaires à la détermination et au
-suivi des bénéfices exonérés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002 - art. 7 () JORF 8 juin 2002
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 44 decies
-
-
-###### Article 49 S
-
-Pour l'application du III de l'article 44 decies du code général des impôts, le contribuable est réputé avoir exercé
-l'ensemble de son activité en Corse s'il n'a pas disposé, en dehors des départements de Corse et au cours de l'année ou de
-l'exercice considéré, de biens passibles d'une taxe foncière dont la valeur locative est comprise dans la base d'imposition à
-la cotisation foncière des entreprises définis à l'article 1467 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°98-400 du 22 mai 1998
-
-	**Modifié par**:
-
-	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1467
-	  - Code général des impôts, CGI. - art. 44 decies
-
-
-###### Article 49 T
-
-L'option mentionnée au XI de l'article 44 decies du code général des impôts est notifiée, sur un document conforme à un
-modèle établi par l'administration, au service des impôts auprès duquel est souscrite la déclaration du résultat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°97-343 du 11 avril 1997 - art. 4 (V) JORF 13 avril 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-400 du 22 mai 1998
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 44 decies
 
 
 ##### Section II sexies : Entreprises implantées dans les bassins d'emploi à redynamiser
@@ -21302,8 +20670,7 @@ différent doit ainsi être calculé par l'entreprise au titre :
 3° Des apprentis employés par une entreprise portant le label " Entreprise du patrimoine vivant " au sens de l'article 23 de
 la loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises ; 
 
-4° Des apprentis dont le contrat d'apprentissage est signé dans les conditions prévues à l'article L. 337-3 du code de
-l'éducation ; 
+4° Dispositions devenues sans objet ; 
 
 5° Des apprentis dont le contrat d'apprentissage est signé à l'issue d'un contrat de volontariat pour l'insertion mentionné à
 l'article L. 130-1 du code du service national. 
@@ -21313,26 +20680,25 @@ de présence dans l'entreprise, pour cette même année, des apprentis employés
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er, 3 et 12-I de l'ordonnance n° 2007-329 du 12 mars 2007 et de
-l'article 1er du décret n° 2008-244 du 7 mars 2008.
+Modifications effectuées en conséquence de l'article 56-III de la loi n° 2013-595 du 8 juillet 2013.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 23 (V)
-	  - Code général des impôts, CGI. - art. 244 quater G (V)
-	  - Code de l'éducation - art. L337-3 (Ab)
-	  - Code du service national - art. L130-1 (V)
-	  - Code du travail - art. D5131-13 (V)
-	  - Code du travail - art. L5131-7 (V)
-	  - Code du travail - art. L5213-1 (V)
-	  - Code du travail - art. L5213-2 (V)
-	  - Code du travail - art. L6221-1 (V)
+	  - Loi n°2005-882 du 2 août 2005 - art. 23
+	  - Code général des impôts, CGI. - art. 244 quater G
+	  - Code de l'éducation - art. L337-3
+	  - Code du service national - art. L130-1
+	  - Code du travail - art. D5131-13
+	  - Code du travail - art. L5131-7
+	  - Code du travail - art. L5213-1
+	  - Code du travail - art. L5213-2
+	  - Code du travail - art. L6221-1
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -22010,88 +21376,6 @@ bénéficiaire du crédit d'impôt prévu à l'article 244 quater Q du code gén
 	  - Code général des impôts, CGI. - art. 244 quater Q (V)
 
 
-##### Section V octodecies : Crédit d'impôt en faveur  des débitants de tabac
-
-###### Article 49 septies ZV
-
-En cas de clôture d'exercice en cours d'année, le montant du crédit d'impôt prévu à l'article 244 quater R du code général
-des impôts est calculé en prenant en compte les dépenses éligibles exposées au titre de la dernière année civile écoulée
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-1680 du 28 novembre 2007 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 244 quater R
-
-
-###### Article 49 septies ZW
-
-Le crédit d'impôt prévu à l'article 244 quater R du code général des impôts est imputé sur l'impôt dû après les prélèvements
-non libératoires et les autres crédits d'impôt
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2007-1680 du 28 novembre 2007 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 244 quater R
-
-
-###### Article 49 septies ZX
-
-Pour l'application des dispositions des articles 199 ter Q, 220 V et 244 quater R du code général des impôts, les entreprises
-doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
-
-Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
-relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
-l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
-groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. Les
-autres entreprises doivent déposer la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
-qu'elles sont tenues de souscrire en application de l'article 53 A du code général des impôts. 
-
-L'associé d'une société de personnes mentionnée aux articles 8 et 238 bis L du code général des impôts ayant engagé des
-dépenses ouvrant droit au crédit d'impôt mentionné à l'article 244 quater R du même code dépose une déclaration spéciale
-indiquant la quote-part des crédits d'impôt provenant de chacune des sociétés de personnes dont il est associé. Toutefois,
-lorsque l'associé est une personne physique, il est dispensé de déposer la déclaration spéciale lorsqu'il ne dispose pas d'un
-crédit d'impôt mentionné à l'article 244 quater R précité autre que celui issu de sa participation dans la société de
-personnes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 29
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 199 ter Q
-	  - Code général des impôts, CGI. - art. 218 A
-	  - Code général des impôts, CGI. - art. 220 V
-	  - Code général des impôts, CGI. - art. 223 A
-	  - Code général des impôts, CGI. - art. 244 quater R
-	  - Code général des impôts, CGI. - art. 360
-
-
 ##### Section V novodecies : Crédit d'impôt au titre des primes d'intéressement
 
 ###### Article 49 septies ZY
@@ -22272,29 +21556,6 @@ l'avance ainsi que l'origine du reversement ou de l'arrêt d'imputation du créd
 
 	  - Code général des impôts, CGI. - art. 244 quater U
 	  - Code de la construction et de l'habitation. - art. R*319-12 (V)
-
-
-###### Article 49 septies ZZE bis
-
-Le plafond mentionné au 7 du I de l'article 244 quater U du code général des impôts est fixé à 30 000 €.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 74-II [3°] et V de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-2070 du 30 décembre 2011 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 244 quater U
 
 
 ##### Section V unvicies : Crédit d'impôt au titre des prêts ne portant pas intérêt consentis pour financer la primo-accession à la propriété
@@ -22674,98 +21935,6 @@ l'immeuble. Cette attestation est établie sur un document conforme au modèle f
 
 #### Chapitre III : Taxes diverses
 
-##### Section 0I : Taxe d'apprentissage.
-
-###### Article 50-0
-
-Le montant de la partie du salaire versée aux apprentis dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-
-Martin ne donnant lieu à aucune charge en application de l'article 225 A du code général des impôts, est fixé conformément
-aux dispositions de l'article D. 6522-2 du code du travail.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 60-I A [3°] de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 225 A
-	  - Code du travail - art. D6522-2
-
-
-###### Article 50-0 bis
-
-Le montant de la fraction de taxe d'apprentissage obligatoirement réservée au développement de l'apprentissage en application
-de l'article 226 B du code général des impôts est fixé conformément aux dispositions de l'article D. 6241-8 du code du
-travail pour la métropole et aux dispositions du 2° de l'article D. 6522-1 du code précité pour les départements d'outre-mer,
-Saint-Barthélemy et Saint-Martin.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 60-I A [2°] de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 J bis (P)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 226 B
-	  - Code du travail - art. D6241-8
-	  - Code du travail - art. D6522-1
-
-
-###### Article 50-0 ter
-
-Le montant de la fraction de taxe d'apprentissage versée au Trésor public en application de l'article 226 B du code général
-des impôts est fixé conformément aux dispositions de l'article D. 6241-9 du code du travail pour la métropole et aux
-dispositions du 3° de l'article D. 6522-1 du code précité pour les départements d'outre-mer, Saint-Barthélemy et Saint-
-Martin.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 60-I A [2°] de la loi n° 2013-1279 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 J ter (Ab)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 226 B
-	  - Code du travail - art. D6241-9
-	  - Code du travail - art. D6522-1
-
-
 ##### Section I : Taxe sur les salaires
 
 ##### II : Base de la taxe
@@ -22959,14 +22128,14 @@ situées dans la zone A telle que définie par l'arrêté des ministres chargés
 304-1 du code de la construction et de l'habitation. 
 
 II.-Le montant du loyer mensuel, charges non comprises, mentionné au I de l'article 234 du code général des impôts, au-delà
-duquel les logements sont soumis à raison des loyers perçus à la taxe prévue par cet article, est fixé à 40,88 € par mètre
+duquel les logements sont soumis à raison des loyers perçus à la taxe prévue par cet article, est fixé à 41,37 € par mètre
 carré de surface habitable pour les logements donnés en location nue ou meublée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
@@ -26776,6 +25945,23 @@ dans les mêmes délais ;
 	  - Code rural - art. L235-1
 
 
+#### Chapitre IX : Prélèvements sur les jeux et paris
+
+###### Article 111 quater V
+
+Le taux du prélèvement prévu à l'article 302 bis ZG du code général des impôts est fixé à 5,3 %.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1 et 2 du décret n° 2013-1321 du 27 décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+
+
 ### Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires
 
 #### Chapitre II : Récépissé de consignation
@@ -27277,7 +26463,7 @@ les déchets de fabrication.
 I. - Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les destinataires enregistrés
 mentionnés à l'article 302 H ter du même code bénéficient respectivement de la dispense de caution prévue au 2 du III de
 l'article 302 D et au premier alinéa du I de l'article 302 H ter du code précité lorsque les droits d'accise dont ils sont
-redevables n'excèdent pas un montant annuel de 20 000 €. Ce montant est relevé au 1er janvier de chaque année dans une
+redevables n'excèdent pas un montant annuel de 20 350 €. Ce montant est relevé au 1er janvier de chaque année dans une
 proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Il est
 arrondi à l'euro le plus proche, la fraction d'euro égale à 0,50 est comptée pour 1. Ce relèvement ne peut excéder 1,75 %. 
 
@@ -27300,15 +26486,19 @@ caution prévue au 3° du deuxième alinéa du V de ce même article, lorsque le
 du stock mensuel maximal enregistré au cours de la dernière année civile, n'excèdent pas le montant mentionné au premier
 alinéa du I. Ce montant est relevé dans les mêmes conditions que celles mentionnées au premier alinéa du I.
 
-Lorsque  ces personnes ne peuvent justifier d'une année d'exercice de leur  profession, ce montant est estimé par
-l'administration fiscale à partir  du stock mensuel maximal des produits fiscalisés qu'elles envisagent de  détenir sur une
-période de douze mois à compter du démarrage de leur  activité, information qu'elles communiquent à l'administration.
+Lorsque ces personnes ne peuvent justifier d'une année d'exercice de leur profession, ce montant est estimé par
+l'administration fiscale à partir du stock mensuel maximal des produits fiscalisés qu'elles envisagent de détenir sur une
+période de douze mois à compter du démarrage de leur activité, information qu'elles communiquent à l'administration.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er [1°] et 4 du décret n° 2013-887 du 2 octobre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-887 du 2 octobre 2013 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -27587,8 +26777,8 @@ prévu au sixième alinéa du V de l'article 302 G.
 V.-Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts qui expédient sur le territoire
 national en régime de suspension de droits d'accise des produits mentionnés au 1° du I de cet article bénéficient de la
 dispense de caution prévue au 3° du deuxième alinéa du V de ce même article, lorsque les droits d'accise suspendus n'excèdent
-pas le montant mentionné au premier alinéa du I de l'article 111-0 B du code précité. Ce montant est relevé dans les mêmes
-conditions que celles mentionnées au premier alinéa du I du même article. 
+pas le montant mentionné au premier alinéa du I de l'article 111-0 B. Ce montant est relevé dans les mêmes conditions que
+celles mentionnées au premier alinéa du I du même article. 
 
 Le montant annuel mentionné au premier alinéa s'entend de la moyenne annuelle des droits suspendus appréciés à partir des
 expéditions nationales réalisées en régime de suspension de droits par les entrepositaires agréés au cours des deux dernières
@@ -27616,7 +26806,7 @@ l'article 302 G.
 
 	**Modifié par**:
 
-	  - Décret n°2013-887 du 2 octobre 2013 - art. 3
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -27624,10 +26814,10 @@ l'article 302 G.
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (V)
-	  - Code général des impôts, CGI. - art. 302 G (V)
-	  - Code général des impôts, CGI. - art. 302 P (V)
-	  - Code général des impôts, CGI. - art. 407 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 B (M)
+	  - Code général des impôts, CGI. - art. 302 G
+	  - Code général des impôts, CGI. - art. 302 P
+	  - Code général des impôts, CGI. - art. 407
 
 
 ##### Section 0I bis : Modalités d'exonération des droits d'accises sur les alcools et les boissons alcooliques
@@ -32947,7 +32137,7 @@ a) L'activité exercée ;
 b) Le nombre de salariés de l'entreprise exploitante au 1er janvier 2004 ou à la date de sa création si elle est
 postérieure ; 
 
-c) Le cas échéant, l'option entre les exonérations prévues aux articles 1383 A, 1383 C, 1383 D et 1383 F du code général des
+c) Le cas échéant, l'option entre les exonérations prévues aux articles 1383 A, 1383 C et 1383 D du code général des
 impôts ; 
 
 d) Le montant du chiffre d'affaires annuel hors taxes réalisé au cours de la période de référence retenue pour l'imposition
@@ -32971,17 +32161,22 @@ l'article 1383 C du code général des impôts.
 Tout changement au cours d'une année relatif à l'exploitant ou à l'activité exercée doit être porté à la connaissance de
 l'administration avant le 1er janvier de l'année suivante.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 29-I [13°] de la loi n° 2013-1279 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1383 A (V)
-	  - Code général des impôts, CGI. - art. 1383 C (V)
-	  - Code général des impôts, CGI. - art. 1383 F (V)
+	  - Code général des impôts, CGI. - art. 1383 A
+	  - Code général des impôts, CGI. - art. 1383 C
+	  - Code général des impôts, CGI. - art. 1383 D (V)
+	  - Code général des impôts, CGI. - art. 1466 A (VT)
 
 
 ###### Article 315 septies A
@@ -33575,7 +32770,7 @@ trente jours suivant la réception de la demande de l'administration fiscale.
 ###### Article 321 H
 
 I. ― Pour l'application de la majoration prévue par l'article 1396 du code général des impôts, la valeur forfaitaire moyenne
-au mètre carré est fixée à 198 € en zone A, 103 € en zone B1, 73 € en zone B2 et 38 € en zone C. 
+au mètre carré est fixée à 201 € en zone A, 104 € en zone B1, 74 € en zone B2 et 38 € en zone C. 
 
 Pour l'application du présent article, les zones A, B1, B2 et C sont celles prévues pour l'application des articles 2
 terdecies B et 2 terdecies C et définies par arrêté des ministres chargés du budget et du logement. 
@@ -33592,12 +32787,12 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2007-1
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C (M)
 	  - Code général des impôts, CGI. - art. 1396
 
 
@@ -37174,96 +36369,58 @@ doit être inférieur à 6 400 €.
 
 ### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
 
-#### Chapitre unique : Impôts directs et taxes assimilées
+#### Chapitre unique : Taxe d'apprentissage
 
-###### Article 328 H
+###### Article 328 J bis
 
-Pour bénéficier de l'exonération prévue à l'article 1599 ter E du code général des impôts, le redevable de la taxe foncière
-sur les propriétés bâties et de la taxe spéciale d'équipement additionnelle à la taxe foncière sur les propriétés bâties
-perçue au profit de la région d'Ile-de-France doit adresser au service des impôts du lieu de situation des biens une
-déclaration comportant tous les éléments d'identification. 
-
-La déclaration doit être accompagnée des documents justifiant que le bail a pris effet dans les conditions prescrites par
-l'article L. 252-3 du code de la construction et de l'habitation. 
-
-La déclaration doit être conforme à un modèle établi par l'administration.
+Le montant de la fraction de taxe d'apprentissage obligatoirement réservée au développement de l'apprentissage en application
+de l'article 1599 ter D du code général des impôts est fixé conformément aux dispositions de l'article D. 6241-8 du code du
+travail pour la métropole et aux dispositions du 2° de l'article D. 6522-1 du code précité pour les départements d'outre-mer,
+Saint-Barthélemy et Saint-Martin.
 
 **Nota:**
 
-Dispositions devenues sans objet en conséquence de l'article 108-XIX C-1 de la loi n° 2010-1657 du 29 décembre 2010.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°98-657 du 29 juillet 1998 - art. 50 () JORF 31 juillet 1998
-
-	**Codifié par**:
-
-	  - Décret n°99-382 du 18 mai 1999
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1599 ter E
-	  - Code de la construction et de l'habitation. - art. L252-3
-
-
-###### Article 328 I
-
-La déclaration doit être souscrite avant le 1er janvier de la première année à compter de laquelle le redevable de la taxe
-foncière sur les propriétés bâties et de la taxe spéciale d'équipement additionnelle à la taxe foncière sur les propriétés
-bâties perçue au profit de la région d'Ile-de-France peut, au titre de l'immeuble concerné, bénéficier des dispositions de
-l'article 1599 ter E du code général des impôts.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 108-XIX C-1 de la loi n° 2010-1657 du 29 décembre 2010.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 J (P)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1599 ter E
-
-	**Créé par**:
-
-	  - Décret n°97-826 1995-09-03 art. 1 JORF 10 septembre 1997
-
-
-###### Article 328 J
-
-Lorsque la déclaration est souscrite après l'expiration du délai prévu à l'article 328 I, l'exonération ne s'applique que
-pour la période restant à courir après le 31 décembre de l'année de la souscription.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 108-XIX C-1 de la loi n° 2010-1657 du 29 décembre 2010.
+Cet article devient sans objet en conséquence de l'article 8-I-1° et VI de la loi n° 2014-891 du 8 août 2014.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°97-826 du 3 septembre 1997 - art. 1 () JORF 10 septembre 1997
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Liens**:
 
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 328 I (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 50-0 bis (T)
+
+
+###### Article 328 J ter
+
+Le montant de la fraction de taxe d'apprentissage versée au Trésor public en application de l'article 1599 ter D du code
+général des impôts est fixé conformément aux dispositions de l'article D. 6241-9 du code du travail pour la métropole et aux
+dispositions du 3° de l'article D. 6522-1 du code précité pour les départements d'outre-mer, Saint-Barthélemy et Saint-
+Martin.
+
+**Nota:**
+
+Cet article devient sans objet en conséquence de l'article 8-I-1° et VI de la loi n° 2014-891 du 8 août 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
+
+	**Anciens textes**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 50-0 ter (T)
 
 
 ### Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics
@@ -38001,17 +37158,17 @@ concerne la destination des produits, les quantités utilisées et le paiement a
 
 ###### Article 331 W
 
-Le taux de la redevance mentionnée à l'article 1609 tertricies du code général des impôts est de 8 %.
+Le taux de la redevance mentionnée à l'article 1609 tertricies du code général des impôts est de 5,9 %.
 
 **Nota:**
 
-Création effectuée en conséquence de l'article 1er du décret n° 2010-909 du 3 août 2010.
+Modification effectuée en conséquence des articles 1er et 2 du décret n° 2013-1320 du 27 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 
 #### Chapitre II : Contributions indirectes
@@ -38108,6 +37265,8 @@ compléments de taxe sont liquidés en même temps que la taxe due au titre du m
 
 ##### Section I : Contribution alimentant le fonds commun des accidents du travail agricole
 
+##### Section I : Contribution forfaitaire des organismes assureurs
+
 ###### Article 336 bis
 
 I.-La déclaration mentionnée au septième alinéa de l'article 1622 du code général des impôts est adressée à la Caisse des
@@ -38119,20 +37278,17 @@ a. La déclaration annuelle effectuée par la Caisse centrale de la mutualité s
 affiliées au régime d'assurance des non-salariés agricoles contre les accidents du travail et des maladies professionnelles,
 auprès de chaque caisse départementale et pluridépartementale de mutualité sociale agricole ; 
 
-b. La déclaration annuelle effectuée par le groupement visé à l'article L. 752-14 du code rural et de la pêche maritime
-mentionne le nombre de personnes affiliées au régime d'assurance des non-salariés agricoles contre les accidents du travail
-et des maladies professionnelles, auprès de chacun des organismes assureurs autres que les caisses de mutualité sociale
-agricole.
+b. Dispositions devenues sans objet.
 
 **Nota:**
 
-Modification effectuée en conséquence des articles 1er et 7 de l'ordonnance n° 2010-462 du 6 mai 2010.
+Modifications effectuées en conséquence de l'article 82-I [21°] de la loi n° 2013-1203 du 23 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -38141,8 +37297,7 @@ Modification effectuée en conséquence des articles 1er et 7 de l'ordonnance n�
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1622 (V)
-	  - Code rural - art. L752-14 (V)
+	  - Code général des impôts, CGI. - art. 1622
 
 
 ###### Article 336 ter
@@ -39705,8 +38860,8 @@ ou personnes morales qui sont dans le champ d'application de l'article 209 B du 
 déclarations et documents se rapportant aux taxes, contributions et redevances assises et contrôlées comme en matière de taxe
 sur la valeur ajoutée ; 
 
-5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité, 161 de
-l'annexe II et 369 de l'annexe III au même code ; 
+5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité, à
+l'article 161 de l'annexe II et à l'article 369 de l'annexe III au même code ; 
 
 6° A la déclaration prévue au II de l'article 1586 octies du même code ; 
 
@@ -39717,7 +38872,8 @@ ter X du même code ;
 
 9° (Sans objet) ; 
 
-10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du même code ; 
+10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du code général
+des impôts ; 
 
 11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 336 bis ; 
 
@@ -39725,40 +38881,39 @@ ter X du même code ;
 
 13° (Sans objet) ; 
 
-14° A la déclaration de taxe sur les véhicules de tourisme des sociétés prévue à l'article 1010 du même code ; 
+14° A la déclaration de taxe sur les véhicules de tourisme des sociétés prévue à l'article 1010 du code général des impôts ; 
 
 15° Sur option, à la déclaration de taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et de stockage
-dans la région Ile-de-France prévue à l'article 231 ter du même code. L'option ne peut être exercée que si l'entreprise a
-opté pour le paiement des taxes foncières auprès du comptable du service des grandes entreprises mentionné au premier alinéa
-de l'article 344-0 A. Elle est formulée dans les mêmes conditions que celles prévues pour l'option mentionnée à l'article 406
-terdecies.
+dans la région Ile-de-France prévue à l'article 231 ter du code général des impôts. L'option ne peut être exercée que si
+l'entreprise a opté pour le paiement des taxes foncières auprès du comptable du service des grandes entreprises mentionné au
+premier alinéa de l'article 344-0 A. Elle est formulée dans les mêmes conditions que celles prévues pour l'option mentionnée
+à l'article 406 terdecies.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 161
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 369
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C
-	  - Code général des impôts, CGI. - art. 1010
+	  - Code général des impôts, CGI. - art. 1010 (V)
 	  - Code général des impôts, CGI. - art. 1586 octies
 	  - Code général des impôts, CGI. - art. 172
 	  - Code général des impôts, CGI. - art. 172 bis
 	  - Code général des impôts, CGI. - art. 209 B
 	  - Code général des impôts, CGI. - art. 223
-	  - Code général des impôts, CGI. - art. 231 ter
+	  - Code général des impôts, CGI. - art. 231 ter (V)
 	  - Code général des impôts, CGI. - art. 235 ter J
 	  - Code général des impôts, CGI. - art. 235 ter X
 	  - Code général des impôts, CGI. - art. 287
-	  - Code général des impôts, CGI. - art. 990 F
-	  - Code général des impôts, CGI. - art. 991
+	  - Code général des impôts, CGI. - art. 990 F (V)
+	  - Code général des impôts, CGI. - art. 991 (V)
 
 	**Cité par**:
 
@@ -40016,10 +39171,10 @@ année.
 ###### Article 344 G septies
 
 L'administrateur d'un trust défini à l'article 792-0 bis du code général des impôts dépose au service des impôts des
-entreprises étrangères, au plus tard le 15 juin de chaque année, la déclaration mentionnée au deuxième alinéa de l'article
+entreprises étrangères, au plus tard le 15 juin de chaque année, la déclaration mentionnée au sixième alinéa de l'article
 1649 AB du même code. 
 
-Cette déclaration est   souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
+Cette déclaration est souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
 comporte les indications suivantes : 
 
 1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
@@ -40050,6 +39205,10 @@ alinéa de l'article 1649 AB du code précité a été précédemment déposée.
 La déclaration mentionnée au premier alinéa est accompagnée, le cas échéant, du paiement du montant correspondant au
 prélèvement prévu à l'article 990 J du code précité.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 11 de la loi n° 2013-1117 du 6 décembre 2013.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -40058,7 +39217,7 @@ prélèvement prévu à l'article 990 J du code précité.
 
 	**Modifié par**:
 
-	  - Décret n°2013-949 du 23 octobre 2013 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
@@ -40347,54 +39506,6 @@ au deuxième jour ouvré suivant le premier mai.
 	  - Code général des impôts, CGI. - art. 302 bis KD
 
 
-#### Chapitre I bis : Déclaration des transferts de sommes, titres ou valeurs
-
-###### Article 344 I bis
-
-1. La déclaration des sommes, titres ou valeurs, prévue au premier alinéa de l'article 1649 quater A du code général des
-impôts, est déposée par les personnes physiques, pour leur compte ou pour celui d'autrui, auprès de l'administration des
-douanes, y compris pour les transferts en provenance ou à destination de la Principauté de Monaco. 
-
-2. En cas de transfert vers ou en provenance de Nouvelle-Calédonie, de la Polynésie française, des îles Wallis et Futuna et
-des Terres australes et antarctiques françaises ou des collectivités territoriales de Mayotte ou Saint-Pierre-et-Miquelon,
-les personnes physiques déclarent à l'administration des douanes les sommes, titres ou valeurs objet des transferts qu'elles
-réalisent pour leur propre compte ou pour celui d'autrui, lorsqu'ils sont égaux ou supérieurs à 7 600 €. 
-
-3. Les dispositions des 1 et 2 sont applicables aux envois postaux. 
-
-4. Les sommes, titres ou valeurs visés aux 1 et 2 sont définis par arrêté pris par le ministre délégué au budget.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence des articles 5-I-87° et 7 du décret n° 2005-1007 du 2 août 2005.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
-	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
-	  - Loi n°2003-660 2003-07-21 art. 61 II JORF 22 juillet 2003
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 du 8 octobre 2004
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies A (P)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F novodecies B (P)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1649 quater A
-
-
 #### Chapitre I ter : Transmission des déclarations professionnelles par voie électronique
 
 ###### Article 344 I quater
@@ -40462,151 +39573,6 @@ après avis de la Commission nationale de l'informatique et des libertés.
 	  - Code général des impôts, CGI. - art. 1649 quater B quater (VT)
 
 
-#### Chapitre II : Centres de gestion agréés
-
-###### Article 344 IA
-
-Les centres de gestion agréés qui, en application du IV de l'article 1649 quater D du code général des impôts, désirent tenir
-ou centraliser les documents comptables de leurs adhérents imposés dans la catégorie des bénéfices industriels et commerciaux
-et placés sous le régime simplifié d'imposition doivent demander à être habilités à cet effet. 
-
-La demande d'habilitation est présentée, instruite et renouvelée dans les mêmes conditions et délais que la demande
-d'agrément.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IC (P)
-	  - Code général des impôts, annexe 4, CGIAN4. - art. 164 F unvicies A (P)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1649 quater D
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-
-###### Article 344 IB
-
-La demande d'habilitation n'est recevable que si elle est accompagnée des documents suivants : 
-
-1° Un exemplaire des statuts ou une copie de la délibération qui a complété l'objet statutaire du centre ; 
-
-2° Les engagements énumérés à l'article 344 IC ainsi que les pièces justificatives relatives à la qualification des
-responsables du service comptable et au contrat d'assurance destiné à couvrir les conséquences pécuniaires de la
-responsabilité civile encourue en raison des travaux effectués.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IC
-
-	**Codifié par**:
-
-	  - Décret n°83-899 1983-10-06
-
-	**Créé par**:
-
-	  - Décret n°83-388 du 11 mai 1983 - art. 2 (V) JORF 17 mai 1983
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-
-###### Article 344 IC
-
-Les centres de gestion mentionnés à l'article 344 IA doivent prendre et respecter les engagements suivants : 
-
-1° Confier la responsabilité de leurs services comptables à des personnes répondant aux conditions de diplôme ou d'expérience
-professionnelle définies par l'article 16 II du décret n° 75-911 du 6 octobre 1975 modifié et employer au moins un
-responsable répondant à ces conditions pour dix techniciens salariés effectuant des travaux comptables ; 
-
-2° Respecter les obligations incombant aux membres de l'ordre des experts-comptables telles qu'elles sont définies par les
-articles 17,21,24 modifiés et 23 de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-
-comptables et réglementant le titre et la profession d'expert-comptable ; 
-
-3° Communiquer aux adhérents la liste des personnes inscrites au tableau dressé par le conseil régional de l'ordre en qualité
-d'expert-comptable ou d'expert-comptable stagiaire autorisé de manière à ce que chaque adhérent dispose du libre choix du
-professionnel qui sera chargé d'exercer une mission de surveillance sur son dossier et de lui délivrer le visa en application
-du IV de l'article 1649 quater D du code général des impôts ; 
-
-4° Convenir par écrit avec l'adhérent de la nature des travaux comptables qui seront effectués au cours de l'exercice ainsi
-que du tarif qui sera appliqué et faire apparaître distinctement la somme correspondante et le montant de la cotisation
-réclamée par le centre ; 
-
-5° Mentionner sur le registre des adhésions ou sur un document annexe la date de début et, le cas échéant, de cessation de
-leurs missions comptables ainsi que les nom et adresse du membre de l'ordre des experts-comptables ou de l'expert-comptable
-stagiaire chargé de la mission de surveillance ; 
-
-6° Effectuer les diligences leur permettant de s'assurer que les documents comptables qu'ils tiennent ou centralisent sont
-conformes aux prescriptions législatives ou réglementaires relatives à la tenue des comptes ; 
-
-7° Indiquer, le cas échéant, sur l'attestation mentionnée à l'article 371 L de l'annexe II au code général des impôts, que la
-comptabilité est tenue ou centralisée par leurs soins et si le visa a été ou non délivré par le professionnel mentionné au 3°
-ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°75-911 du 6 octobre 1975 - art. 16
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IA
-	  - Code général des impôts, CGI. - art. 1649 quater D
-
-	**Modifié par**:
-
-	  - Loi n°94-679 du 8 août 1994 - art. 49 (V) JORF 10 août 1994
-	  - Loi n°94-679 du 8 août 1994 - art. 50 () JORF 10 août 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1281 du 11 décembre 1995
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 IB (P)
-
-
-###### Article 344 ID
-
-La commission régionale d'agrément mentionnée à l'article 371 G de l'annexe II au code général des impôts peut retirer
-l'habilitation si les engagements pris ne sont pas respectés. 
-
-Le centre de gestion agréé doit informer ses adhérents de cette décision dans le délai d'un mois.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2005-1734 du 29 décembre 2005 - art. 1 () JORF 31 décembre 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 G
-
-
 #### Chapitre IV : Agrément
 
 ###### Article 344 K
@@ -40629,49 +39595,6 @@ aides à la localisation des activités institué par l'article 9 du décret n°
 	**Modifié par**:
 
 	  - Décret n°2014-132 du 17 février 2014 - art. 32
-
-
-###### Article 344 L
-
-I. L'agrément prévu au VI de l'article 44 decies du code général des impôts est accordé par le ministre chargé du budget. 
-
-Les demandes, établies en quatre exemplaires, sur papier libre, conformément à un modèle fixé par l'administration, sont
-adressées au ministre chargé du budget (services centraux de la direction générale des finances publiques) et comportent
-notamment les renseignements et documents permettant d'apprécier l'état de difficulté de l'entreprise concernée. 
-
-II. L'agrément prévu au a du I de l'article 44 decies du code général des impôts est accordé par le ministre chargé du
-budget. 
-
-Les demandes, établies en quatre exemplaires, sur papier libre, conformément à un modèle fixé par l'administration, sont
-adressées au directeur départemental ou, le cas échéant, régional des finances publiques du département de Corse où est
-implantée l'entreprise demanderesse. 
-
-L'entreprise justifie que ses méthodes de production sont conformes aux objectifs fixés par l'article 1er du règlement (CEE)
-du Conseil n° 2078/92 du 30 juin 1992 et du règlement (CE) de la Commission n° 746/96 du 25 avril 1996 et produit à cet effet
-une attestation délivrée par les services du ministre chargé de l'agriculture. 
-
-III. Dans le cas où le demandeur n'a pas fourni la totalité des renseignements nécessaires pour l'instruction de la demande,
-le ministre chargé du budget l'invite à les produire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CEE Règlement 2078/92 1992-06-30 Conseil art. 1
-	  - Code général des impôts, CGI. - art. 1466 B
-	  - Code général des impôts, CGI. - art. 44 decies
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
 
 
 #### Chapitre V : Fiducie
@@ -42050,41 +40973,6 @@ finances publiques du lieu d'imposition défini à l'article 218 A du même code
 	  - Code général des impôts, CGI. - art. 206
 	  - Code général des impôts, CGI. - art. 218 A
 	  - Code général des impôts, CGI. - art. 219 bis
-
-
-##### 03 bis : Imposition forfaitaire annuelle des sociétés
-
-###### Article 366 A bis
-
-L'imposition forfaitaire annuelle mentionnée à l'article 223 septies du code général des impôts est versée spontanément au
-plus tard le 15 mars auprès du comptable de la direction générale des finances publiques compétent pour le recouvrement de
-l'impôt sur les sociétés. 
-
-Ce versement accompagne le relevé d'acompte d'impôt sur les sociétés payable à cette même date et mentionné au 2 de l'article
-358.
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence des articles 14-I-3° [b] et 14-II de la loi n° 2008-1425 du 27 décembre 2008.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1303 du 14 octobre 2011 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 358
-	  - Code général des impôts, CGI. - art. 223 septies
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZI (P)
 
 
 ##### 3 quater : Contribution sociale sur l'impôt sur les sociétés
@@ -44057,12 +42945,11 @@ contribution mentionnée à l'article 527 du code général des impôts.
 I.-Les impôts et taxes dus par les personnes et groupements mentionnés à l'article 344-0 A sont payés au comptable du service
 chargé des grandes entreprises mentionné au premier alinéa de l'article 344-0 A. 
 
-II.-Les dispositions du I s'appliquent à l'impôt sur les sociétés, à l'imposition forfaitaire annuelle des sociétés, à la
-contribution sur les revenus locatifs, à la contribution sociale sur l'impôt sur les sociétés prévues respectivement aux
-articles 223 septies, 234 nonies et 235 ter ZC du code général des impôts, à la taxe prévue par l'article 235 ter ZD du code
-général des impôts à la cotisation foncière des entreprises et à la cotisation sur la valeur ajoutée des entreprises de même
-qu'aux taxes additionnelles et annexes à cette cotisation ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de
-l'article 344-0 B. 
+II.-Les dispositions du I s'appliquent à l'impôt sur les sociétés, à la contribution sur les revenus locatifs, à la
+contribution sociale sur l'impôt sur les sociétés prévues respectivement aux  articles 234 nonies  et 235 ter ZC du code
+général des impôts, à la taxe prévue par l'article 235 ter ZD du code général des impôts à la cotisation foncière des
+entreprises et à la cotisation sur la valeur ajoutée des entreprises de même qu'aux taxes additionnelles et annexes à cette
+cotisation ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
 leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique à l'ensemble des impositions
@@ -44084,11 +42971,17 @@ le lieu d'imposition. Ces dispositions s'appliquent également au rôle ou à l'
 chargé des grandes entreprises en vue du recouvrement d'une imposition qui aurait dû faire l'objet d'une déclaration ou d'un
 paiement auprès du service déconcentré dans le ressort duquel est situé le lieu d'imposition.
 
+**Nota:**
+
+Modifications effectuées en conséquence des articles 14-I [3°] b et 14-II de la loi n° 2008-1425 du 27 décembre 2008.
+
+Les mots : "à l'imposition forfaitaire annuelle des sociétés" et la référence : 223 septies, deviennent sans objet.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-1225 du 23 décembre 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 

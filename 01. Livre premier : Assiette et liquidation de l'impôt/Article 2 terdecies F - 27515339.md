@@ -3,9 +3,9 @@
 I. - Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général
 des impôts sont fixés comme suit : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2013, fixés à 9,88 €
-en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon, et
-à 12,27 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2014, fixés à 10,02
+€ en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon,
+et à 12,45 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de
 l'article 2 terdecies D. 
@@ -13,123 +13,157 @@ l'article 2 terdecies D.
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG
 terdecies. 
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2013, les suivants : 
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2014, les suivants : 
 
 <table>
   <tbody>
     <tr>
-      <td>
+      <th>COMPOSITION DU FOYER LOCATAIRE
 
-COMPOSITION du foyer locataire 
+</th>
+      <th>
 
-</td>
-      <td>
+LIEU DE SITUATION DU LOGEMENT :
 
-LIEU DE SITUATION DU LOGEMENT 
+Guadeloupe, Guyane, Martinique,
 
-Guadeloupe, Guyane, Martinique La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon
+La Réunion, Mayotte, Saint-Martin,
 
-(en euros) 
-
-</td>
-      <td align="center">LIEU DE SITUATION DU LOGEMENT :
-
-Nouvelle-Calédonie, Polynésie française, îles Wallis et Futuna
+ou Saint-Pierre-et-Miquelon
 
 (en euros)
 
+</th>
+      <th>
+
+LIEU DE SITUATION DU LOGEMENT :
+
+Nouvelle-Calédonie,
+
+Polynésie française
+
+îles Wallis et Futuna
+
+(en euros)
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule
+
+</td>
+      <td align="center">
+
+27 160
+
+</td>
+      <td align="center">
+
+30 169
+
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule 
+Couple
 
 </td>
       <td align="center">
 
-26 776 
+36 270
 
 </td>
-      <td align="center">29 721 </td>
+      <td align="center">
+
+40 288
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Couple 
+Personne seule ou couple ayant une personne à charge
 
 </td>
       <td align="center">
 
-35 757 
+43 619
 
 </td>
-      <td align="center"> 39 690</td>
+      <td align="center">
+
+48 451
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant une personne à charge 
+Personne seule ou couple ayant deux personnes à charge
 
 </td>
       <td align="center">
 
-43 002 
+52 658
 
 </td>
-      <td align="center"> 47 732</td>
+      <td align="center">
+
+58 491
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant deux personnes à charge 
+Personne seule ou couple ayant trois personnes à charge
 
 </td>
       <td align="center">
 
-51 913 
+61 945
 
 </td>
-      <td align="center"> 57 623</td>
+      <td align="center">
+
+68 808
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant trois personnes à charge 
+Personne seule ou couple ayant quatre personnes à charge
 
 </td>
       <td align="center">
 
-61 069 
+69 811
 
 </td>
-      <td align="center">67 787 </td>
+      <td align="center">
+
+77 546
+
+</td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant quatre personnes à charge 
+Majoration par personne à charge supplémentaire à partir de la cinquième
 
 </td>
       <td align="center">
 
-68 824 
-
-</td>
-      <td align="center"> 76 395</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Majoration par personne à charge supplémentaire à partir de la cinquième 
++ 7 788
 
 </td>
       <td align="center">
 
-+ 7 677 
-
-</td>
-      <td align="center">+ 8 521
++ 8 650
 
 </td>
     </tr>
@@ -157,11 +191,15 @@ article ;
 2° Pour la consultation prévue au 1° du 2 du III de l'article 2 terdecies D, le conseil départemental de l'habitat mentionné
 à l'article L. 364-1 du code de la construction et de l'habitation est substitué au comité régional de l'habitat.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2013-474 du 5 juin 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-749 du 14 août 2013 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -173,7 +211,7 @@ article ;
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
 	  - Code général des impôts, CGI. - art. 1417

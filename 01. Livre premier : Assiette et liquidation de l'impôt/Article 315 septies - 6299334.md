@@ -11,7 +11,7 @@ a) L'activité exercée ;
 b) Le nombre de salariés de l'entreprise exploitante au 1er janvier 2004 ou à la date de sa création si elle est
 postérieure ; 
 
-c) Le cas échéant, l'option entre les exonérations prévues aux articles 1383 A, 1383 C, 1383 D et 1383 F du code général des
+c) Le cas échéant, l'option entre les exonérations prévues aux articles 1383 A, 1383 C et 1383 D du code général des
 impôts ; 
 
 d) Le montant du chiffre d'affaires annuel hors taxes réalisé au cours de la période de référence retenue pour l'imposition
@@ -35,14 +35,19 @@ l'article 1383 C du code général des impôts.
 Tout changement au cours d'une année relatif à l'exploitant ou à l'activité exercée doit être porté à la connaissance de
 l'administration avant le 1er janvier de l'année suivante.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 29-I [13°] de la loi n° 2013-1279 du 29 décembre 2013.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1383 A (V)
-	  - Code général des impôts, CGI. - art. 1383 C (V)
-	  - Code général des impôts, CGI. - art. 1383 F (V)
+	  - Code général des impôts, CGI. - art. 1383 A
+	  - Code général des impôts, CGI. - art. 1383 C
+	  - Code général des impôts, CGI. - art. 1383 D (V)
+	  - Code général des impôts, CGI. - art. 1466 A (VT)

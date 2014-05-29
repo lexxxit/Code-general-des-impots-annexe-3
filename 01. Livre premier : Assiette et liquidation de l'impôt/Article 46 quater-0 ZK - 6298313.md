@@ -7,8 +7,8 @@ outre :
 a) l'état des rectifications apportées à son résultat pour la détermination du résultat d'ensemble ; 
 
 b) l'état de détermination du bénéfice et de la plus-value nette à long terme ouvrant droit à exonération en application du
-III de l'article 44 octies, du III de l'article 44 octies A, de la seconde phrase du huitième alinéa du I de l'article 44
-decies, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts. 
+III de l'article 44 octies, du III de l'article 44 octies A, du III de l'article 44 duodecies et du III de l'article 44
+terdecies du code général des impôts. 
 
 La société mère dépose au plus tard à l'expiration du délai de dépôt de son relevé de solde auprès du comptable de la
 direction générale des finances publiques la liste des sociétés membres du groupe et des sociétés intermédiaires ainsi que
@@ -21,7 +21,7 @@ code général des impôts pour la modalité de souscription par voie électroni
 
 	**Modifié par**:
 
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -31,7 +31,6 @@ code général des impôts pour la modalité de souscription par voie électroni
 
 	  - Code général des impôts, CGI. - art. 1649 quater B quater
 	  - Code général des impôts, CGI. - art. 223 A
-	  - Code général des impôts, CGI. - art. 44 decies
 	  - Code général des impôts, CGI. - art. 44 duodecies
 	  - Code général des impôts, CGI. - art. 44 octies
 	  - Code général des impôts, CGI. - art. 44 octies A

@@ -3,8 +3,8 @@
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2013, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,16 € par mètre carré
-en zone A, 11,87 € en zone B et 8,60 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
+a) Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,38 € par mètre carré
+en zone A, 12,01 € en zone B et 8,70 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
 modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
 centime d'euro le plus proche. 
 
@@ -19,56 +19,69 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2013, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
 
-(en euros) 
+(En euros) 
 
 <table>
   <tbody>
     <tr>
-      <td rowspan="2">
+      <th>
 
 COMPOSITION DU FOYER LOCATAIRE
 
-</td>
-      <td colspan="3">
+</th>
+      <th colspan="3">
 
-LIEU DE LOCATION 
+LIEU DE LOCATION
 
-</td>
+</th>
     </tr>
     <tr>
-      <td>
+      <th>
+
+</th>
+      <th>
 
 Zone A
 
-</td>
-      <td>
+(en euros)
+
+</th>
+      <th>
 
 Zone B
 
-</td>
-      <td>
+(en euros)
+
+</th>
+      <th>
 
 Zone C
 
-</td>
+(en euros)
+
+</th>
     </tr>
     <tr>
-      <td> Personne seule</td>
-      <td>
+      <td align="center">
 
-46 214
-
-</td>
-      <td>
-
-35 718
+Personne seule
 
 </td>
-      <td>
+      <td align="center">
 
-31 255
+46 630
+
+</td>
+      <td align="center">
+
+36 039
+
+</td>
+      <td align="center">
+
+31 536
 
 </td>
     </tr>
@@ -80,17 +93,17 @@ Couple
 </td>
       <td align="center">
 
-69 066
+69 688
 
 </td>
       <td align="center">
 
-47 695
+48 124
 
 </td>
       <td align="center">
 
-42 008
+42 386
 
 </td>
     </tr>
@@ -102,17 +115,17 @@ Personne seule ou couple ayant une personne à charge
 </td>
       <td align="center">
 
-83 023
+83 770
 
 </td>
       <td align="center">
 
-57 356
+57 872
 
 </td>
       <td align="center">
 
-50 289
+50 742
 
 </td>
     </tr>
@@ -124,17 +137,17 @@ Personne seule ou couple ayant deux personnes à charge
 </td>
       <td align="center">
 
-99 448
+100 343
 
 </td>
       <td align="center">
 
-69 239
+69 862
 
 </td>
       <td align="center">
 
-60 863
+61 411
 
 </td>
     </tr>
@@ -146,17 +159,17 @@ Personne seule ou couple ayant trois personnes à charge
 </td>
       <td align="center">
 
-117 728
+118 788
 
 </td>
       <td align="center">
 
-81 449
+82 182
 
 </td>
       <td align="center">
 
-71 432
+72 075
 
 </td>
     </tr>
@@ -168,17 +181,17 @@ Personne seule ou couple ayant quatre personnes à charge
 </td>
       <td align="center">
 
-132 474
+133 666
 
 </td>
       <td align="center">
 
-91 790
+92 616
 
 </td>
       <td align="center">
 
-80 578
+81 303
 
 </td>
     </tr>
@@ -190,17 +203,17 @@ Majoration par personne à charge à partir de la cinquième
 </td>
       <td align="center">
 
-+ 14 766
++ 14 899
 
 </td>
       <td align="center">
 
-+ 10 238
++ 10 330
 
 </td>
       <td align="center">
 
-+ 9 153
++ 9 235
 
 </td>
     </tr>
@@ -215,8 +228,8 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars 1999 et de l'article 1er D du décret
-n° 2006-1005 du 10 août 2006.
+Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars 1999, de l'article 1er D du décret n°
+2006-1005 du 10 août 2006 et de l'article 1er-I du décret n° 2010-1601 du 20 décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -240,7 +253,7 @@ n° 2006-1005 du 10 août 2006.
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cite**:
 

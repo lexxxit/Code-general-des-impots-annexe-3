@@ -2,8 +2,8 @@
 
 I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2013, à 16,52
-€ en zone A bis, 12,27 € dans le reste de la zone A, 9,88 € en zone B 1 et 8,59 € en zone B 2. Ces plafonds sont révisés au
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2014, à 16,72
+€ en zone A bis, 12,42 € dans le reste de la zone A, 10,00 € en zone B 1 et 8,69 € en zone B 2. Ces plafonds sont révisés au
 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la
@@ -19,248 +19,243 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants : 
 
-a) Pour les baux conclus en 2013, les plafonds annuels de ressources des locataires sont les suivants : 
+a) Pour les baux conclus en 2014, les plafonds annuels de ressources des locataires sont les suivants : 
 
 <table>
-  <tbody>
-    <tr>
-      <td width="227" rowspan="2">
+    <tbody>
+      <tr>
+        <th>COMPOSITION DU FOYER LOCATAIRE
 
-COMPOSITION DU FOYER LOCATAIRE 
+</th>
+        <th colspan="4">
 
-</td>
-      <td width="454" colspan="4">
+LIEU DE LOCATION
 
-LIEU DE SITUATION DU LOGEMENT 
+</th>
+      </tr>
+      <tr>
+        <th>
 
-</td>
-    </tr>
-    <tr>
-      <td width="113">
+</th>
+        <th>
 
-Zone A bis 
+Zone A
 
-(en euros) 
+(en euros)
 
-</td>
-      <td width="113">
+</th>
+        <th>
 
-Reste 
+Zone B1
 
-de la zone A 
+(en euros)
 
-(en euros) 
+</th>
+        <th>
 
-</td>
-      <td width="113">
+Zone B2
 
-Zone B 1 
+</th>
+        <th>
 
-(en euros) 
+Zone C
 
-</td>
-      <td width="113">
+(en euros)
 
-Zone B 2 
+</th>
+      </tr>
+      <tr>
+        <td align="center">
 
-(en euros) 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
-
-Personne seule 
+Personne seule
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-36 502 
-
-</td>
-      <td valign="top" width="113">
-
-36 502 
+36 831
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-29 751 
-
-</td>
-      <td valign="top" width="113">
-
-26 776 
+36 831
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
+        <td align="center">
+
+30 019
+
+</td>
+        <td align="center">
+
+27 017
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
 
 Couple 
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-54 554 
-
-</td>
-      <td valign="top" width="113">
-
-54 554 
+55 045
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-39 731 
-
-</td>
-      <td valign="top" width="113">
-
-35 757 
+55 045
 
 </td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
+        <td align="center">
 
-Personne seule ou couple ayant une personne à charge 
+40 089
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-71 515 
-
-</td>
-      <td width="113" valign="top">
-
-65 579 
+36 079
 
 </td>
-      <td width="113" valign="top">
+      </tr>
+      <tr>
+        <td align="center">
 
-47 780 
-
-</td>
-      <td width="113" valign="top">
-
-43 002 
+Personne seule ou couple ayant une personne à charge
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
+        <td align="center">
 
-Personne seule ou couple ayant deux personnes à charge 
+72 159
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-85 384 
-
-</td>
-      <td width="113" valign="top">
-
-78 550 
+66 169
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-57 681 
-
-</td>
-      <td valign="top" width="113">
-
-51 913 
+48 210
 
 </td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
+        <td align="center">
 
-Personne seule ou couple ayant trois personnes à charge 
+43 389
 
 </td>
-      <td valign="top" width="113">
+      </tr>
+      <tr>
+        <td align="center">
 
-101 589 
-
-</td>
-      <td valign="top" width="113">
-
-92 989 
+Personne seule ou couple ayant deux personnes à charge
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-67 854 
-
-</td>
-      <td valign="top" width="113">
-
-61 069 
+86 152
 
 </td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
+        <td align="center">
 
-Personne seule ou couple ayant quatre personnes à charge 
+79 257
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-114 315 
-
-</td>
-      <td width="113" valign="top">
-
-104 642 
+58 200
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-76 472 
-
-</td>
-      <td width="113" valign="top">
-
-68 824 
+52 380
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
+      </tr>
+      <tr>
+        <td align="center">
 
-Majoration par personne à charge supplémentaire à partir de la cinquième 
-
-</td>
-      <td width="113" valign="top">
-
-+ 12 736 
+Personne seule ou couple ayant trois personnes à charge
 
 </td>
-      <td width="113" valign="top">
+        <td align="center">
 
-+ 11 659 
-
-</td>
-      <td width="113" valign="top">
-
-+ 8 531 
+102 503
 
 </td>
-      <td valign="top" width="113">
+        <td align="center">
 
-+ 7 677 
+93 826
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="center">
 
-Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2
-duodecies ; 
+68 465
+
+</td>
+        <td align="center">
+
+61 619
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge
+
+</td>
+        <td align="center">
+
+115 344
+
+</td>
+        <td align="center">
+
+105 584
+
+</td>
+        <td align="center">
+
+77 160
+
+</td>
+        <td align="center">
+
+69 443
+
+</td>
+      </tr>
+      <tr>
+        <td align="center">
+
+Majoration par personne à charge supplémentaire à partir de la cinquième
+
+</td>
+        <td align="center">
+
++ 12 851
+
+</td>
+        <td align="center">
+
++ 11 764
+
+</td>
+        <td align="center">
+
++ 8 608
+
+</td>
+        <td align="center">
+
++ 7 746
+
+</td>
+      </tr>
+    </tbody>
+  </table>Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de
+l'article 2 duodecies ; 
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
@@ -300,11 +295,15 @@ prononcés.
 s'agissant des logements que le contribuable fait construire, dont la demande de permis de construire est déposée
 postérieurement à l'entrée en vigueur de l'arrêté.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-517 du 19 juin 2013 - art. 1
+	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
