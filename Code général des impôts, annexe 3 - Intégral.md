@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-06-26
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -25248,78 +25248,14 @@ fiscales et les représenter à toute demande des agents de l'administration des
 
 ###### Article 99
 
-Le montant de la majoration mentionnée au VI de l'article 302 bis K du code général des impôts est fixé comme suit :
-
-<table>
-  <tbody>
-    <tr>
-      <td width="378">
-
-</td>
-      <td width="227">
-
-PASSAGERS POUVANT
-
-bénéficier sans supplément de prix à bord de services auxquels l'ensemble des passagers ne peut accéder gratuitement
-
-</td>
-      <td width="76">
-
-AUTRES passagers
-
-</td>
-    </tr>
-    <tr>
-      <td width="378" valign="top">
-
-Passagers embarqués à destination de la France, d'un autre Etat membre de la Communauté européenne, d'un autre Etat partie à
-l'accord sur l'Espace économique européen ou de la Confédération suisse
-
-</td>
-      <td width="227" valign="top">
-
-10 €
-
-</td>
-      <td width="76" valign="top">
-
-1 €
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="378">
-
-Passagers embarqués à destination d'un autre Etat
-
-</td>
-      <td valign="top" width="227">
-
-40 €
-
-</td>
-      <td valign="top" width="76">
-
-4 €
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Nota:**
-
-Dispositions devenues sans objet en conséquence de l'article 108-I [1°] de la loi n° 2013-1278 du 29 décembre 2013.
+Pour l'application des dispositions du VI de l'article 302 bis K du code général des impôts, constituent un système
+aéroportuaire les aéroports de Paris-Charles-de-Gaulle, de Paris-Orly et de Paris-Le Bourget.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-173 du 22 février 2008 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2014-661 du 23 juin 2014 - art. 1
 
 	**Cite**:
 
@@ -37262,8 +37198,6 @@ compléments de taxe sont liquidés en même temps que la taxe due au titre du m
 
 
 #### Chapitre III : Enregistrement
-
-##### Section I : Contribution alimentant le fonds commun des accidents du travail agricole
 
 ##### Section I : Contribution forfaitaire des organismes assureurs
 
