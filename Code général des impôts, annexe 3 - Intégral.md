@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-07-19
+Version Consolidée au 2014-08-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8930,496 +8930,71 @@ troisième année qui suit celle au titre de laquelle il a bénéficié de cette
 
 ###### Article 41 septdecies H
 
-Pour l'application de l'article 150 quater du code général des impôts, le dénouement d'un contrat intervient à la date de
+Pour l'application de l'article 150 ter du code général des impôts, le dénouement d'un contrat intervient à la date de
 clôture définitive de la position ouverte par ce contrat.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-306 du 30 mars 1992 - art. 6 () JORF 1er avril 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 150 quater (V)
-
-
-###### Article 41 septdecies I
-
-Les contribuables qui réalisent en France, directement ou par personne interposée, des opérations sur un marché à terme
-d'instruments financiers ou de marchandises doivent, pour l'application de l'article 97 du code général des impôts, déclarer
-distinctement sur une formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette
-relevant des régimes définis respectivement aux articles 150 quinquies, 150 sexies et 150 octies du code général des impôts
-ainsi que les éléments nécessaires à leur détermination. 
-
-Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des dix années antérieures sont tenus
-d'indiquer sur cette déclaration le détail des pertes reportées par année et par nature de profit.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-522 du 9 juin 2004 - art. 1 () JORF 12 juin 2004
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 150 octies (V)
-	  - Code général des impôts, CGI. - art. 150 quinquies (V)
-	  - Code général des impôts, CGI. - art. 150 sexies (V)
-	  - Code général des impôts, CGI. - art. 97 (V)
-
-
-###### Article 41 septdecies J
-
-I. Les établissements et les personnes qui tiennent le compte des opérations réalisées en France ou à l'étranger par leurs
-clients sur un marché à terme d'instruments financiers ou de marchandises doivent déclarer à l'administration le montant des
-profits et des pertes réalisés par chacun de leurs clients dans le cadre de ces opérations en indiquant distinctement la
-somme algébrique des profits et des pertes afférents aux opérations mentionnées au 12° de l'article 120 et aux articles 150
-quinquies, 150 sexies et 150 octies du code général des impôts. 
-
-II. Les renseignements visés au I doivent parvenir avant le 16 février de chaque année pour les opérations de l'année
-précédente à la direction départementale ou, le cas échéant, régionale des finances publiques du lieu de la résidence ou du
-principal établissement du déclarant. Ils figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des
-impôts lorsque celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant
-l'identification du déclarant et celle du bénéficiaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies K (V)
-	  - Livre des procédures fiscales - art. R96 C-1 (Ab)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 120
-	  - Code général des impôts, CGI. - art. 150 quinquies
-	  - Code général des impôts, CGI. - art. 242 ter
-
-
-###### Article 41 septdecies K
-
-Lorsque les opérations sur un marché à terme d'instruments financiers ou de marchandises sont réalisées par l'intermédiaire
-d'une société mentionnée à l'article 8 du code général des impôts, la société doit déclarer à l'administration, selon les
-modalités définies à l'article 41 septdecies J, la quote-part des profits et des pertes correspondant aux droits de chacun de
-ses membres dans la société.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°95-1329 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
-	  - Décret n°95-1329 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies J (V)
-	  - Code général des impôts, CGI. - art. 8 (V)
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. R96 C-1 (Ab)
-
-
-##### 2° : Profits réalisés sur les marchés d'options négociables
-
-###### Article 41 septdecies L
-
-Pour l'application du 2 de l'article 150 nonies du code général des impôts, le dénouement d'un contrat intervient à la date
-de clôture définitive de la position ouverte par ce contrat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-234 du 11 mars 1992 - art. 1 (V) JORF 15 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-836 1992-08-27
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 150 nonies
-
-
-###### Article 41 septdecies M
-
-Les contribuables qui réalisent, directement ou par personne interposée, des opérations imposables en application de
-l'article 150 nonies du code général des impôts doivent, pour l'application de l'article 97 du même code, déclarer sur une
-formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette ainsi que les éléments
-nécessaires à leur détermination. 
-
-Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des dix années antérieures sont tenus
-d'indiquer sur cette déclaration le détail par année des pertes reportées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-522 du 9 juin 2004 - art. 1 () JORF 12 juin 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 150 nonies
-	  - Code général des impôts, CGI. - art. 97
-
-
-###### Article 41 septdecies N
-
-I. Les établissements et les personnes qui tiennent le compte des opérations réalisées en France ou à l'étranger par leurs
-clients sur un marché d'options négociables doivent déclarer à l'administration le montant des profits et des pertes réalisés
-par chacun de leurs clients dans le cadre de ces opérations en indiquant distinctement la somme algébrique des profits et des
-pertes afférents aux opérations mentionnées respectivement au 12° de l'article 120 et à l'article 150 nonies du code général
-des impôts. 
-
-II. Les renseignements visés au I doivent parvenir avant le 16 février de chaque année, pour les opérations de l'année
-précédente, à la direction départementale ou, le cas échéant, régionale des finances publiques du lieu de la résidence ou du
-principal établissement du déclarant. Ils figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des
-impôts lorsque celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant
-l'identification du déclarant et celle du bénéficiaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies O (Ab)
-	  - Livre des procédures fiscales - art. R96 C-2 (Ab)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 120
-	  - Code général des impôts, CGI. - art. 150 nonies
-	  - Code général des impôts, CGI. - art. 242 ter
-
-
-###### Article 41 septdecies O
-
-Lorsque les opérations sur un marché d'options négociables sont réalisées par l'intermédiaire d'une société mentionnée à
-l'article 8 du code général des impôts, la société doit déclarer à l'administration, selon les modalités définies à l'article
-41 septdecies N, la quote-part des profits et des pertes correspondant aux droits de chacun de ses membres dans la société.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°95-1330 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
-	  - Décret n°95-1330 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies N (Ab)
-	  - Code général des impôts, CGI. - art. 8
-
-
-##### 3° : Profits réalisés sur les opérations de bons d'option
-
-###### Article 41 septdecies P
-
-Pour l'application du 2 de l'article 150 decies du code général des impôts, le dénouement d'une opération sur bon d'option
-intervient à la date de clôture de la position ouverte par ce bon.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°92-605 du 30 juin 1992 - art. 1 (V) JORF 4 juillet 1992
 
 	**Codifié par**:
 
 	  - Décret n°92-836 du 27 août 1992
 
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 150 decies
-
-
-###### Article 41 septdecies Q
-
-Les contribuables qui réalisent, directement ou par personne interposée, des opérations imposables en application de
-l'article 150 decies du code général des impôts doivent, pour l'application de l'article 97 du code déjà cité, déclarer sur
-une formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette ainsi que les
-éléments nécessaires à leur détermination. 
-
-Les contribuables qui demandent à bénéficier d'un report de pertes subies au cours des dix années antérieures sont tenus
-d'indiquer sur cette déclaration le détail par année des pertes reportées.
-
-**Liens relatifs à cet article**
-
 	**Modifié par**:
 
-	  - Décret n°2004-522 du 9 juin 2004 - art. 1 () JORF 12 juin 2004
-
-	**Abrogé par**:
-
 	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150 decies
-	  - Code général des impôts, CGI. - art. 97
+	  - Code général des impôts, CGI. - art. 150 ter
 
 
-###### Article 41 septdecies R
+###### Article 41 septdecies I
 
-I. Les établissements et les personnes qui tiennent le compte des opérations sur bons d'option réalisées en France ou à
-l'étranger par leurs clients doivent déclarer à l'administration le montant des profits et des pertes réalisés par chacun de
-leurs clients dans le cadre de ces opérations en indiquant distinctement la somme algébrique des profits et des pertes
-afférents aux opérations mentionnées au 12° de l'article 120 et à l'article 150 decies du code général des impôts. 
-
-II. Ces renseignements doivent parvenir avant le 16 février de chaque année, pour les opérations de l'année précédente, à la
-direction départementale ou, le cas échéant, régionale des finances publiques du lieu de la résidence ou du principal
-établissement du déclarant. Ils figurent sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts
-lorsque celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant l'identification
-du déclarant et celle du bénéficiaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies S (Ab)
-	  - Livre des procédures fiscales - art. R96 C-3 (Ab)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 120
-	  - Code général des impôts, CGI. - art. 150 decies
-	  - Code général des impôts, CGI. - art. 242 ter
-
-
-###### Article 41 septdecies S
-
-Lorsque les opérations sur bons d'option sont réalisées par l'intermédiaire d'une société mentionnée à l'article 8 du code
-général des impôts, la société doit déclarer à l'administration, selon les modalités définies à l'article 41 septdecies R, la
-quote-part des profits et des pertes correspondant aux droits de chacun de ses membres dans la société.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°95-1331 du 28 décembre 1995 - art. 2 () JORF 30 décembre 1995
-	  - Décret n°95-1331 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies R (Ab)
-	  - Code général des impôts, CGI. - art. 8
-
-
-##### 4° : Profits réalisés lors de la cession ou du rachat de parts de fonds communs d'intervention sur les marchés à terme
-
-###### Article 41 septdecies T
-
-Les contribuables qui réalisent en France, directement ou par personne interposée, des opérations imposables en application
-de l'article 150 undecies du code général des impôts doivent, pour l'application de l'article 97 du même code, déclarer sur
-une formule spéciale délivrée par l'administration le montant du profit net imposable ou de la perte nette ainsi que les
-éléments nécessaires à leur détermination. 
+Pour l'application de l'article 150 ter du code général des impôts, les contribuables indiquent sur une déclaration conforme
+à un modèle établi par l'administration le montant du profit net imposable ou de la perte nette ainsi que les éléments
+nécessaires à leur détermination. 
 
 Les contribuables qui demandent à bénéficier d'un report des pertes subies au cours des dix années antérieures sont tenus
-d'indiquer sur cette déclaration le détail par année des pertes reportées.
+d'indiquer sur cette déclaration le détail des pertes reportées par année.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Décret n°2004-522 du 9 juin 2004 - art. 1 () JORF 12 juin 2004
-
-	**Abrogé par**:
 
 	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150 undecies
-	  - Code général des impôts, CGI. - art. 97
+	  - Code général des impôts, CGI. - art. 150 ter (V)
 
 
-###### Article 41 septdecies U
+###### Article 41 septdecies K
 
-Les établissements et les personnes qui tiennent le compte des opérations réalisées par leurs clients sur les parts d'un
-fonds commun d'intervention sur les marchés à terme adressent, avant le 16 février de chaque année à la direction
-départementale ou, le cas échéant, régionale des finances publiques du lieu de leur résidence ou de leur principal
-établissement, un document mentionnant, pour chaque propriétaire de parts, le montant global, compte non tenu des frais, des
-cessions ou des rachats de parts réalisés au cours de l'année précédente. 
-
-Ces renseignements sont indiqués sur la déclaration prévue au 1 de l'article 242 ter du code général des impôts lorsque
-celle-ci doit être souscrite ou, à défaut, sur un imprimé établi selon le même modèle et comportant l'identification du
-déclarant et celle du bénéficiaire.
+Lorsque les opérations sur les instruments financiers à terme entrant dans le champ d'application de l'article 150 ter du
+code général des impôts sont réalisées par l'intermédiaire d'une société mentionnée à l'article 8 du code général des impôts,
+la société doit déclarer à l'administration, selon les modalités définies à l'article 242 ter E du même code, la quote-part
+des profits et des pertes correspondant aux droits de chacun de ses membres dans la société.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°96-556 du 21 juin 1995
-
 	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
-
-	**Abrogé par**:
 
 	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 duovicies E (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies W (Ab)
-	  - Livre des procédures fiscales - art. R96 C-4 (Ab)
+	  - Livre des procédures fiscales - art. R96 C-1 (Ab)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 242 ter
-
-
-###### Article 41 septdecies V
-
-Le dépositaire des actifs du fonds adresse, le cas échéant, avant le 16 février à la direction départementale ou, le cas
-échéant, régionale des finances publiques du lieu de sa résidence ou de son principal établissement, un document faisant
-apparaître pour l'année précédente : 
-
-1. Dans l'hypothèse où l'un des propriétaires de parts a détenu plus de 10 % des parts pendant une partie de l'année, la
-période pendant laquelle la limite de 10 % a été dépassée, les renseignements mentionnés au 3° du I de l'article 49 E
-concernant l'intéressé, ainsi que le nombre de parts qu'il détient ; 
-
-2. En cas de dissolution du fonds ou de distribution par le fonds d'une partie de ses avoirs entraînant annulation d'une
-fraction des parts de ce fonds : 
-
-a. La date de la dissolution ou de la distribution des avoirs ; 
-
-b. Les renseignements mentionnés au 3° du I de l'article 49 E précité concernant chaque propriétaire de parts ainsi que le
-nombre des parts dont il disposait avant la dissolution ou, en cas de distribution d'avoirs, le nombre de ses parts annulées
-et leur valeur moyenne pondérée d'acquisition ; 
-
-c. Le montant des attributions en nature ou en espèces autres que celles présentant le caractère de revenus de capitaux
-mobiliers revenant à chaque propriétaire.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
-
-
-###### Article 41 septdecies W
-
-Lorsque les opérations sur parts de fonds communs d'intervention sur les marchés à terme sont réalisées par l'intermédiaire
-d'une société mentionnée à l'article 8 du code général des impôts, la société doit déclarer à l'administration, selon les
-modalités définies à l'article 41 septdecies U, la quote-part des cessions ou des rachats mentionnés à ce même article qui
-correspond aux droits de chacun des associés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies U (Ab)
+	  - Code général des impôts, CGI. - art. 150 ter
+	  - Code général des impôts, CGI. - art. 242 ter E
 	  - Code général des impôts, CGI. - art. 8
 
-	**Cité par**:
 
-	  - Livre des procédures fiscales - art. R96 C-4 (Ab)
+##### VIII bis : Profits réalisés sur les instruments financiers à terme
 
-
-###### Article 41 septdecies X
-
-Le gérant d'un fonds commun d'intervention sur les marchés à terme ou le dépositaire des actifs de ce fonds est soumis aux
-obligations définies aux articles 41 sexdecies A à 41 sexdecies F.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 1 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 2 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 3 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 4 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 7 (V) JORF 30 décembre 1995
-
-	**Codifié par**:
-
-	  - Décret n°96-556 1996-06-21
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A
-
+##### 1° : Profits réalisés sur les marchés à terme
 
 ##### X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
 
