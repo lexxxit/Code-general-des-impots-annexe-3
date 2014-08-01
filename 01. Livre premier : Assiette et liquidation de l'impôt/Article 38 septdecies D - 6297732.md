@@ -12,20 +12,20 @@ d) Les prestataires de services d'investissement ;
 
 e) (Sans objet). 
 
-f) Les sociétés par actions ou à responsabilité limitée et les sociétés coopératives ouvrières de production pour les actions
-ou parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
+f) Les sociétés par actions ou à responsabilité limitée et les    sociétés coopératives de production pour les actions ou
+parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-46 1984-01-24 art. 18
-	  - Code général des impôts, CGI. - art. 83 (V)
-
-	**Modifié par**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
+	  - Loi n°84-46 du 24 janvier 1984
+	  - Code général des impôts, CGI. - art. 83
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2000-477 du 2 juin 2000
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 30

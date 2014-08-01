@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-08-01
+Version Consolidée au 2014-08-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -5988,24 +5988,24 @@ Les modalités de comptabilisation de ces frais.
 
 Le contribuable qui, dans les conditions prévues aux 2° quater et 2° quinquies de l'article 83 du code général des impôts,
 déduit d'une rémunération visée à l'article 62 du même code les intérêts d'un emprunt contracté pour souscrire au capital
-d'une société nouvelle ou d'une société coopérative ouvrière de production est soumis aux obligations prévues aux articles 38
+d'une société nouvelle ou d'une société coopérative de production est soumis aux obligations prévues aux articles 38
 septdecies A à 38 septdecies E.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°84-886 du 28 septembre 1984 - art. 1 (V) JORF 6 octobre 1984
-
 	**Codifié par**:
 
-	  - Décret n°85-1007 1985-09-24
+	  - Décret n°85-1007 du 24 septembre 1985
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 30
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (V)
-	  - Code général des impôts, CGI. - art. 62 (V)
-	  - Code général des impôts, CGI. - art. 83 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (M)
+	  - Code général des impôts, CGI. - art. 62
+	  - Code général des impôts, CGI. - art. 83 (M)
 
 
 ##### V : Bénéfices de l'exploitation agricole
@@ -7049,18 +7049,18 @@ Dispositions devenues sans objet en conséquence de l'article 3-II [1er] de la l
 
 Le contribuable qui, dans les conditions prévues aux 2° quater et 2° quinquies de l'article 83 et au I de l'article 83 bis du
 code général des impôts, déduit d'un salaire les intérêts d'un emprunt contracté pour souscrire au capital d'une société
-nouvelle ou d'une société coopérative ouvrière de production ou pour acquérir des actions ou des parts d'une société en vue
-de sa reprise doit fournir les mêmes renseignements que ceux prévus au troisième alinéa de l'article 43.
+nouvelle ou d'une société coopérative de production ou pour acquérir des actions ou des parts d'une société en vue de sa
+reprise doit fournir les mêmes renseignements que ceux prévus au troisième alinéa de l'article 43.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°87-991 du 13 novembre 1987 - art. 10 () JORF 14 novembre 1987
-
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
+	  - Décret n°88-1001 du 20 octobre 1988
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 30
 
 	**Cité par**:
 
@@ -7068,13 +7068,9 @@ de sa reprise doit fournir les mêmes renseignements que ceux prévus au troisi�
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 43 (V)
-	  - Code général des impôts, CGI. - art. 83 (V)
-	  - Code général des impôts, CGI. - art. 83 bis (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 43
+	  - Code général des impôts, CGI. - art. 83
+	  - Code général des impôts, CGI. - art. 83 bis
 
 
 ###### Article 38 septdecies B
@@ -7155,23 +7151,23 @@ d) Les prestataires de services d'investissement ;
 
 e) (Sans objet). 
 
-f) Les sociétés par actions ou à responsabilité limitée et les sociétés coopératives ouvrières de production pour les actions
-ou parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
+f) Les sociétés par actions ou à responsabilité limitée et les    sociétés coopératives de production pour les actions ou
+parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-46 1984-01-24 art. 18
-	  - Code général des impôts, CGI. - art. 83 (V)
-
-	**Modifié par**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
+	  - Loi n°84-46 du 24 janvier 1984
+	  - Code général des impôts, CGI. - art. 83
 
 	**Codifié par**:
 
-	  - Décret n°2000-477 2000-06-02
+	  - Décret n°2000-477 du 2 juin 2000
+
+	**Modifié par**:
+
+	  - Loi n°2014-856 du 31 juillet 2014 - art. 30
 
 
 ###### Article 38 septdecies E
@@ -8924,7 +8920,7 @@ troisième année qui suit celle au titre de laquelle il a bénéficié de cette
 	  - Code général des impôts, CGI. - art. 163 quinquies C bis (V)
 
 
-##### VIII bis : Profits réalisés sur les marchés à terme, sur les marchés d'options négociables et sur les opérations de bons d'options
+##### VIII bis : Profits réalisés sur les instruments financiers à terme
 
 ##### 1° : Profits réalisés sur les marchés à terme
 
@@ -8991,10 +8987,6 @@ des profits et des pertes correspondant aux droits de chacun de ses membres dans
 	  - Code général des impôts, CGI. - art. 242 ter E
 	  - Code général des impôts, CGI. - art. 8
 
-
-##### VIII bis : Profits réalisés sur les instruments financiers à terme
-
-##### 1° : Profits réalisés sur les marchés à terme
 
 ##### X : Plus-values de cession à titre onéreux de biens ou de droits de toute nature
 
