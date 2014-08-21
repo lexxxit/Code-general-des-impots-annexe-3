@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-08-02
+Version Consolidée au 2014-08-22
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -22789,6 +22789,58 @@ contrôle de la mise à bord des biens.
 	**Cité par**:
 
 	  - Décret n°2015-1077 du 26 août 2015 - art. 3 (V)
+
+
+###### Article 75
+
+Dans le cadre de la procédure prévue aux deuxième à sixième alinéas du 2° du I de l'article 262 du code général des impôts,
+le titre justificatif de l'exportation est constitué par un bordereau de vente à l'exportation numéroté dans une série
+continue et conforme au modèle établi par la direction générale des douanes et droits indirects. Ce document est délivré le
+jour de la transaction par le vendeur au voyageur éligible à la procédure et muni de son passeport. 
+
+Le bordereau de vente à l'exportation est édité par voie informatique dans le cadre d'un téléservice. La procédure de secours
+prévue à l'article 75 A constitue la seule exception à ce principe. 
+
+Un arrêté du ministre chargé du budget fixe la forme, les conditions d'établissement et d'apurement du titre mentionné au
+premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-914 du 18 août 2014 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 16 décembre 2014 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 262
+
+
+###### Article 75 A
+
+Le vendeur, préalablement affilié à un opérateur de détaxe ou habilité au téléservice mentionné au second alinéa de l'article
+75, est autorisé à recourir à la procédure de secours dans les cas suivants : 
+
+1° Indisponibilité générale du téléservice mentionné au second alinéa de l'article 75 ; 
+
+2° Panne des outils informatiques du vendeur permettant l'émission des bordereaux de vente à l'exportation ; 
+
+3° Interruption de la connexion internet du vendeur. 
+
+Les modalités de recours à la procédure de secours sont prévues par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-914 du 18 août 2014 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 16 décembre 2014 - art. 10 (V)
 
 
 ##### Section II : Assiette de la taxe
