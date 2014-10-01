@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-08-23
+Version Consolidée au 2014-10-02
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -71,7 +71,12 @@ ressources du locataire sont les suivants :
 a) Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,38 € par mètre carré
 en zone A, 12,01 € en zone B et 8,70 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
 modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
-centime d'euro le plus proche. 
+centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du
+premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au
+1° du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements
+situés en outre-mer, au 1° du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Les
+plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2
+terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. 
@@ -93,12 +98,12 @@ Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suiva
     <tr>
       <th>
 
-COMPOSITION DU FOYER LOCATAIRE
+COMPOSITION DU FOYER LOCATAIRE 
 
 </th>
       <th colspan="3">
 
-LIEU DE LOCATION
+LIEU DE LOCATION 
 
 </th>
     </tr>
@@ -108,193 +113,193 @@ LIEU DE LOCATION
 </th>
       <th>
 
-Zone A
+Zone A 
 
-(en euros)
-
-</th>
-      <th>
-
-Zone B
-
-(en euros)
+(en euros) 
 
 </th>
       <th>
 
-Zone C
+Zone B 
 
-(en euros)
+(en euros) 
+
+</th>
+      <th>
+
+Zone C 
+
+(en euros) 
 
 </th>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule
+Personne seule 
 
 </td>
       <td align="center">
 
-46 630
+46 630 
 
 </td>
       <td align="center">
 
-36 039
+36 039 
 
 </td>
       <td align="center">
 
-31 536
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Couple
-
-</td>
-      <td align="center">
-
-69 688
-
-</td>
-      <td align="center">
-
-48 124
-
-</td>
-      <td align="center">
-
-42 386
+31 536 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant une personne à charge
+Couple 
 
 </td>
       <td align="center">
 
-83 770
+69 688 
 
 </td>
       <td align="center">
 
-57 872
+48 124 
 
 </td>
       <td align="center">
 
-50 742
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge
-
-</td>
-      <td align="center">
-
-100 343
-
-</td>
-      <td align="center">
-
-69 862
-
-</td>
-      <td align="center">
-
-61 411
+42 386 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Personne seule ou couple ayant trois personnes à charge
+Personne seule ou couple ayant une personne à charge 
 
 </td>
       <td align="center">
 
-118 788
+83 770 
 
 </td>
       <td align="center">
 
-82 182
+57 872 
 
 </td>
       <td align="center">
 
-72 075
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant quatre personnes à charge
-
-</td>
-      <td align="center">
-
-133 666
-
-</td>
-      <td align="center">
-
-92 616
-
-</td>
-      <td align="center">
-
-81 303
+50 742 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Majoration par personne à charge à partir de la cinquième
+Personne seule ou couple ayant deux personnes à charge 
 
 </td>
       <td align="center">
 
-+ 14 899
+100 343 
 
 </td>
       <td align="center">
 
-+ 10 330
+69 862 
 
 </td>
       <td align="center">
 
-+ 9 235
+61 411 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+      <td align="center">
+
+118 788 
+
+</td>
+      <td align="center">
+
+82 182 
+
+</td>
+      <td align="center">
+
+72 075 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+      <td align="center">
+
+133 666 
+
+</td>
+      <td align="center">
+
+92 616 
+
+</td>
+      <td align="center">
+
+81 303 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Majoration par personne à charge à partir de la cinquième 
+
+</td>
+      <td align="center">
+
++ 14 899 
+
+</td>
+      <td align="center">
+
++ 10 330 
+
+</td>
+      <td align="center">
+
++ 9 235 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au dernier alinéa de l'article L. 441-1
-du code de la construction et de l'habitation et arrondis à l'euro le plus proche. 
+Ces plafonds sont révisés au 1er janvier de chaque année en fonction de l'évolution annuelle de l'indice des prix à la
+consommation hors tabac et arrondis à l'euro le plus proche. Cette variation est appréciée entre le 1er octobre de l'avant-
+dernière année et le 1er octobre de l'année précédente. 
+
+Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I
+de l'article 31 du code général des impôts, les plafonds annuels de ressources sont égaux à ceux fixés au 2 du I de l'article
+2 terdecies D, ou, pour les logements situés en outre-mer, au 2 du I de l'article 2 terdecies F. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars 1999, de l'article 1er D du décret n°
-2006-1005 du 10 août 2006 et de l'article 1er-I du décret n° 2010-1601 du 20 décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -305,6 +310,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 99-244
 	  - Arrêté du 1er août 2014 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. Annexe I à L'article R321-23 (M)
 	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R321-23 (M)
+	  - Code de la construction et de l'habitation. - art. R302-28 (V)
 	  - Code de la construction et de l'habitation. - art. R331-102 (V)
 	  - Code de la construction et de l'habitation. - art. R331-91 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies (V)
@@ -318,12 +324,13 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 99-244
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2014-1102 du 30 septembre 2014 - art. 2
 
 	**Cite**:
 
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F
+	  - Code général des impôts, CGI. - art. 31
 	  - Code de la construction et de l'habitation. - art. L353-9-2
-	  - Code de la construction et de l'habitation. - art. L441-1
 	  - Code de la construction et de l'habitation. - art. R*111-2
 
 
