@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-10-02
+Version Consolidée au 2014-10-05
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11165,13 +11165,14 @@ personne physique ou morale prévue à la dernière phrase de l'article D. 321-1
 	  - Code du tourisme. - art. D321-1
 
 
-##### 2° bis : Réduction d'impôt accordée au titre de certains investissements forestiers
+##### 2° bis : Réduction et crédit d'impôt accordés au titre de certains investissements forestiers
 
 ###### Article 46 AGH
 
-Pour l'application du a, du d, du f et du g du 2 de l'article 199 decies H du code général des impôts, les contribuables sont
-tenus de joindre à leur déclaration des revenus de l'année au titre de laquelle le bénéfice de la réduction d'impôt est
-demandé une note annexe, établie conformément à un modèle fixé par l'administration qui comporte les éléments suivants : 
+I.-Pour l'application des a et d du 2 de l'article 199 decies H du code général des impôts et des 1° et 3° du 2 de l'article
+200 quindecies du même code, les contribuables sont tenus de joindre à leur déclaration des revenus de l'année au titre de
+laquelle le bénéfice de la réduction ou du crédit d'impôt est demandé une note annexe, établie conformément à un modèle fixé
+par l'administration qui comporte les éléments suivants : 
 
 a. L'identité et l'adresse du contribuable ; 
 
@@ -11180,31 +11181,32 @@ b. La désignation de la ou des parcelles de terrain en nature de bois et forêt
 c. Pour l'application du a du 2 de l'article 199 decies H précité, le prix et la date d'acquisition du ou des terrains
 concernés ; 
 
-d. Pour l'application du d du 2 de l'article 199 decies H précité, la nature, le montant et la date de paiement des travaux
-forestiers réalisés ; le cas échéant, les contribuables joignent également le document du fournisseur des matériels
+d. Pour l'application du 1° du 2 de l'article 200 quindecies précité, la nature, le montant et la date de paiement des
+travaux forestiers réalisés ; le cas échéant, les contribuables joignent également le document du fournisseur des matériels
 forestiers de reproduction utilisés mentionné à l'article R. 153-16 du code forestier et une attestation sur l'honneur selon
 laquelle est respecté l'arrêté régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à
-l'investissement forestier ainsi que, dans le cas où le contribuable est titulaire d'un compte d'épargne d'assurance pour la
-forêt prévu à l'article L. 352-1 du code forestier, une attestation sur l'honneur selon laquelle les sommes dépensées pour la
-réalisation des travaux et pour lesquelles le bénéfice de la réduction d'impôt est demandé, ne proviennent pas de ce même
+l'investissement forestier ainsi que, dans le cas où le contribuable est titulaire d'un compte d'investissement forestier et
+d'assurance prévu à l'article L. 352-1 du code forestier, une attestation sur l'honneur selon laquelle les sommes dépensées
+pour la réalisation des travaux et pour lesquelles le bénéfice du crédit d'impôt est demandé, ne proviennent pas de ce même
 compte ; 
 
-d bis. Pour l'application du f du 2 de l'article 199 decies H du code général des impôts, l'identité et l'adresse du
-cocontractant, la date de signature du contrat, le montant de la rémunération et la date de versement ; 
-
-e. Pour l'application du d et du f du 2 de l'article 199 decies H précité, la nature de la garantie de gestion durable
+e. Pour l'application des 1° et 3° du 2 de l'article 200 quindecies précité, la nature de la garantie de gestion durable
 applicable à l'unité de gestion concernée ; 
 
-f. Pour l'application du a et du d du 2 de l'article 199 decies H précité, la déclaration d'engagement prévue par ces
-dispositions ; 
+f. Pour l'application du a du 2 de l'article 199 decies H précité et du 1° du 2 de l'article 200 quindecies précités, la
+déclaration d'engagement prévue par ces dispositions. 
 
-g. Pour l'application du g du 2 de l'article 199 decies H précité, l'attestation de l'entreprise d'assurance précisant
-l'identité et l'adresse de l'assureur, la nature des risques couverts, le nombre d'hectares assurés contre le risque de
-tempête, le montant de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile ainsi
-que, dans le cas où le contribuable est titulaire d'un compte d'épargne d'assurance pour la forêt prévu à l'article L. 352-1
-du code forestier, une attestation sur l'honneur selon laquelle les sommes dépensées pour le paiement des cotisations
-relatives au contrat d'assurance précité et pour lesquelles le bénéfice de la réduction d'impôt est demandé, ne proviennent
-pas de ce même compte.
+II.-a. Pour l'application du d du 2 de l'article 199 decies H du code précité, le contribuable présente, à la demande de
+l'administration fiscale, l'attestation de l'entreprise d'assurance précisant l'identité et l'adresse de l'assureur, la
+nature des risques couverts, le nombre d'hectares assurés contre le risque de tempête, le montant de la cotisation
+d'assurance versée pour couvrir notamment ce risque au titre de l'année civile ainsi que, dans le cas où le contribuable est
+titulaire d'un compte d'investissement forestier et d'assurance prévu à l'article L. 352-1 du code forestier, une attestation
+sur l'honneur selon laquelle les sommes dépensées pour le paiement des cotisations relatives au contrat d'assurance précité
+et pour lesquelles le bénéfice de la réduction d'impôt est demandé, ne proviennent pas de ce même compte. 
+
+b. Pour l'application du 3° du 2 de l'article 200 quindecies de ce code, le contribuable précise, à la demande de
+l'administration, l'identité et l'adresse du cocontractant, la date de signature du contrat, le montant de la rémunération,
+la date de versement et l'attestation mentionnée au quatrième alinéa du 4 du même article.
 
 **Nota:**
 
@@ -11218,10 +11220,11 @@ Modifications effectuées en conséquence des articles 1er à 8 de l'ordonnance 
 	  - Code forestier (nouveau) - art. L352-1
 	  - Code forestier (nouveau) - art. R153-16
 	  - Code général des impôts, CGI. - art. 199 decies H
+	  - Code général des impôts, CGI. - art. 200 quindecies
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-1114 du 2 octobre 2014 - art. 1
 
 
 ###### Article 46 AGI
@@ -11232,38 +11235,36 @@ a souscrit ou acquis les parts au plus tard le 31 décembre de l'année de sousc
 société doit alors joindre à la déclaration de résultat de cette même année les déclarations d'engagement prévues par ces
 dispositions, établies conformément à des modèles fixés par l'administration. 
 
-Pour l'application du e du 2 de l'article 199 decies H précité, le groupement ou la société doit joindre à sa déclaration de
-résultat de l'année où les travaux sont payés les déclarations d'engagement prévues par ces dispositions, établies
-conformément à des modèles fixés par l'administration. 
+Pour l'application du 2° du 2 de l'article 200 quindecies du code général des impôts, le groupement ou la société doit
+joindre à sa déclaration de résultat de l'année où les travaux sont payés les déclarations d'engagement prévues par ces
+dispositions, établies conformément à des modèles fixés par l'administration. 
 
 II.-Le groupement ou la société doit, avant le 16 février de l'année civile qui suit celle de la souscription ou
 l'acquisition de parts, celle du paiement des travaux forestiers réalisés par le groupement ou la société ou celle du
-versement de la rémunération au cocontractant mentionné au f du 
-2 de l'article 199 decies H du code général des impôts 
-ou du versement de la cotisation d'assurance mentionnée au g du 2 du même article, délivrer à ses associés qui entendent
-bénéficier de la réduction d'impôt un document établi conformément à un modèle fixé par l'administration et comportant, pour
-l'année précédente, les renseignements suivants : 
+versement de la rémunération au cocontractant mentionné au 3° du 2 de l'article 200 quindecies du code général des impôts ou
+du versement de la cotisation d'assurance mentionnée au d du 2 de l'article 199 decies H du même code, délivrer à ses
+associés qui entendent bénéficier de la réduction ou du crédit d'impôt un document établi conformément à un modèle fixé par
+l'administration et comportant, pour l'année précédente, les renseignements suivants : 
 
 a. La raison sociale et l'adresse du siège social du groupement ou de la société ; 
 
-b. Dans les cas prévus aux b, c et e du 2 de l'article 199 decies H précité, l'attestation que les engagements mentionnés au
-I ont été pris et sont respectés. 
+b. Dans les cas prévus aux b et c du 2 de l'article 199 decies H précité et au 2° du 2 de l'article 200 quindecies précité
+précité, l'attestation que les engagements mentionnés au I ont été pris et sont respectés. 
 
-c. Dans le cas prévu au e du 2 de l'article 199 decies H précité, la nature de la garantie de gestion durable applicable à
+c. Dans le cas prévu au 2° du 2 de l'article 200 quindecies précité, la nature de la garantie de gestion durable applicable à
 l'unité de gestion concernée, la nature, le montant total et la date de paiement des travaux forestiers ; le cas échéant, le
 groupement ou la société délivre également le document du fournisseur des matériels forestiers de reproduction utilisés
 mentionné à l'article R. 153-16 du code forestier et une attestation sur l'honneur selon laquelle est respecté l'arrêté
 régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à l'investissement forestier ; 
 
-c bis. Dans le cas prévu au f du 
-2 de l'article 199 decies H du code général des impôts
-, l'identité et l'adresse du cocontractant, la date de signature du contrat ainsi que le montant et la date de versement de
-sa rémunération, accompagnés de la facture et de l'attestation mentionnées au 3 bis de l'article précité ; 
+c bis. Dans le cas prévu au 3° du 2 de l'article 200 quindecies du code général des impôts, l'identité et l'adresse du
+cocontractant, la date de signature du contrat ainsi que le montant et la date de versement de sa rémunération, accompagnés
+de la facture et de l'attestation mentionnées au quatrième alinéa du 4 du même article ; 
 
-d. Dans les cas prévus aux e et f du 2 de l'article 199 decies H précité, le nombre et le pourcentage de parts du groupement
-ou de la société détenues par l'associé ; 
+d. Dans les cas prévus aux 2° et 3° du 2 de l'article 200 quindecies précité, le nombre et le pourcentage de parts du
+groupement ou de la société détenues par l'associé ; 
 
-e. Dans le cas prévu au g du 2 de l'article 199 decies H précité, l'attestation de l'entreprise d'assurance précisant
+e. Dans le cas prévu au d du 2 de l'article 199 decies H précité, l'attestation de l'entreprise d'assurance précisant
 l'identité et l'adresse de l'assureur, la nature des risques couverts, le nombre d'hectares assurés contre le risque de
 tempête et le montant de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile. 
 
@@ -11280,27 +11281,28 @@ d. Le nombre, les numéros et les valeurs nominales des parts détenues par chac
 décembre de l'année précédente et, le cas échéant, des parts souscrites, acquises et transmises au cours de l'année ainsi que
 la date de ces opérations ; 
 
-e. La nature, le montant et la date de paiement des travaux forestiers éligibles à la réduction d'impôt, ainsi que la
-désignation de la ou des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées. Le cas
-échéant, le groupement ou la société joint le document du fournisseur des matériels forestiers de reproduction utilisés
-mentionné à l'article R. 153-16 du code forestier et une attestation sur l'honneur selon laquelle est respecté l'arrêté
-régional relatif aux matériels forestiers de reproduction éligibles aux aides de l'Etat à l'investissement forestier ; 
+e. Pour l'application des 1° et 2° du 2 de l'article 200 quindecies la nature, le montant et la date de paiement des travaux
+forestiers éligibles au crédit d'impôt, ainsi que la désignation de la ou des parcelles de terrain en nature de bois et
+forêts ou de terrain nu à boiser concernées. Le cas échéant, le groupement ou la société joint le document du fournisseur des
+matériels forestiers de reproduction utilisés mentionné à l'article R. 153-16 du code forestier et une attestation sur
+l'honneur selon laquelle est respecté l'arrêté régional relatif aux matériels forestiers de reproduction éligibles aux aides
+de l'Etat à l'investissement forestier ; 
 
-f. L'identité et l'adresse du cocontractant mentionné au f du 
-2 de l'article 199 decies H du code général des impôts
-, la date de signature du contrat, le montant de sa rémunération et sa date de versement, ainsi que la désignation de la ou
-des parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées ; 
+f. L'identité et l'adresse du cocontractant mentionné au 3° du 2 de l'article 200 quindecies du code général des impôts, la
+date de signature du contrat, le montant de sa rémunération et sa date de versement, ainsi que la désignation de la ou des
+parcelles de terrain en nature de bois et forêts ou de terrain nu à boiser concernées ; 
 
-g. L'attestation de l'entreprise d'assurance précisant l'identité et l'adresse de l'assureur mentionné au g du 2 de l'article
+g. L'attestation de l'entreprise d'assurance précisant l'identité et l'adresse de l'assureur mentionné au d du 2 de l'article
 199 decies H précité, la nature des risques couverts, le nombre d'hectares assurés contre le risque de tempête et le montant
 de la cotisation d'assurance versée pour couvrir notamment ce risque au titre de l'année civile. 
 
-IV.-Les parts détenues par les associés qui entendent bénéficier de la réduction d'impôt sont inscrites, dans les trente
-jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle la réduction d'impôt a été
-demandée, sur un compte ouvert au nom de l'associé dans la comptabilité du groupement ou de la société ou sur un registre
-spécial. le groupement ou la société tient ce compte ou ce registre et conserve les documents relatifs aux opérations qui
-l'affectent jusqu'à la fin de la troisième année suivant celle de l'expiration de l'engagement de conservation des parts
-prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôts.
+IV.-Les parts détenues par les associés qui entendent bénéficier de la réduction ou du crédit d'impôt sont inscrites, dans
+les trente jours suivant la date limite de dépôt de la déclaration de revenus de l'année au cours de laquelle la réduction ou
+le crédit d'impôt a été demandé, sur un compte ouvert au nom de l'associé dans la comptabilité du groupement ou de la société
+ou sur un registre spécial. Le groupement ou la société tient ce compte ou ce registre et conserve les documents relatifs aux
+opérations qui l'affectent jusqu'à la fin de la troisième année suivant celle de l'expiration de l'engagement de conservation
+des parts prévu aux b et c de l'article 199 decies H du code général des impôts et au 2° du 2 de l'article 200 quindecies du
+même code.
 
 **Nota:**
 
@@ -11310,21 +11312,22 @@ Modifications effectuées en conséquence des articles 2, 3, 6 et 7  du décret 
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2014-1114 du 2 octobre 2014 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 199 decies H
+	  - Code général des impôts, CGI. - art. 200 quindecies
 	  - Code forestier (nouveau) - art. R153-16
 
 
 ###### Article 46 AGJ
 
-I.-L'engagement de conservation des parts prévu aux b, c et e du 2 de l'article 199 decies H du code général des impôts,
-établi conformément à un modèle fixé par l'administration, est joint à la déclaration des revenus de l'année au cours de
-laquelle les parts ouvrant droit au bénéfice de la réduction d'impôt ont été souscrites ou acquises, ou au cours de laquelle
-le groupement forestier ou la société d'épargne forestière a payé les dépenses de travaux forestiers qui ont ouvert droit à
-cette réduction. 
+I.-L'engagement de conservation des parts prévu aux b et c du 2 de l'article 199 decies H du code général des impôts et au 2°
+du 2 de l'article 200 quindecies du même code, établi conformément à un modèle fixé par l'administration, est joint à la
+déclaration des revenus de l'année au cours de laquelle les parts ouvrant droit au bénéfice de la réduction d'impôt ont été
+souscrites ou acquises, ou au cours de laquelle le groupement forestier ou la société d'épargne forestière a payé les
+dépenses de travaux forestiers qui ont ouvert droit au crédit d'impôt. 
 
 II.-Les associés joignent à cette déclaration le document mentionné au II de l'article 46 AGI.
 
@@ -11332,31 +11335,33 @@ II.-Les associés joignent à cette déclaration le document mentionné au II de
 
 	**Modifié par**:
 
-	  - Décret n°2009-810 du 30 juin 2009 - art. 1
+	  - Décret n°2014-1114 du 2 octobre 2014 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 decies H (V)
+	  - Code général des impôts, CGI. - art. 199 decies H
+	  - Code général des impôts, CGI. - art. 200 quindecies
 
 
 ###### Article 46 AGK
 
-I.-Pour l'application des d et e du 2 de l'article 199 decies H du code général des impôts, sont éligibles à la réduction
+I. - Pour l'application des 1° et 2° du 2 de l'article 200 quindecies  du code général des impôts, sont éligibles au crédit
 d'impôt les travaux de plantation, de reconstitution, de renouvellement, de sauvegarde et d'amélioration des peuplements et
 les travaux de création et d'amélioration des dessertes. 
 
-II.-La garantie afférente au contrat d'assurance mentionné au g du 2 de l'article 199 decies H du code général des impôts
+II. - La garantie afférente au contrat d'assurance mentionné au d du 2 de l'article 199 decies H du code général des impôts
 couvre notamment le risque de tempête touchant des terrains en nature de bois et forêts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-2067 du 30 décembre 2011 - art. 1
+	  - Décret n°2014-1114 du 2 octobre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 decies H (V)
+	  - Code général des impôts, CGI. - art. 199 decies H
+	  - Code général des impôts, CGI. - art. 200 quindecies
 
 
 ##### 2° ter : Réduction d'impôt accordée au titre des investissements dans des résidences hôtelières à vocation sociale
