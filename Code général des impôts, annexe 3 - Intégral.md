@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-10-15
+Version Consolidée au 2014-10-24
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -8569,9 +8569,9 @@ b. De la date de mise en distribution ;
 
 c. Du nombre de parts du fonds commun de placement existant à chacune de ces trois dernières dates ; 
 
-d. Du montant, déterminé conformément aux dispositions de l'article L. 214-17-2 précité, de la répartition effectuée au titre
-de l'exercice considéré et de la part de la répartition éligible à l'abattement de 40 % mentionné au 2° du 3 de l'article 158
-du code général des impôts ; 
+d. Du montant, déterminé conformément aux dispositions du 1° de l'article L. 214-17-2 précité, de la répartition effectuée au
+titre de l'exercice considéré et de la part de la répartition éligible à l'abattement de 40 % mentionné au 2° du 3 de
+l'article 158 du code général des impôts ; 
 
 e. Le cas échéant, de la date de distribution et du montant de chacun des acomptes versés au titre du même exercice.
 
@@ -8587,13 +8587,13 @@ Modifications effectuées en conséquence de l'article 3 de l'ordonnance n° 201
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2014-1223 du 21 octobre 2014 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies A
 	  - Code général des impôts, CGI. - art. 158
-	  - Code monétaire et financier - art. L214-17-2 (V)
+	  - Code monétaire et financier - art. L214-17-2
 
 	**Cité par**:
 
