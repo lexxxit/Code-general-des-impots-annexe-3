@@ -2,8 +2,9 @@
 
 L'organisme mentionné au troisième alinéa de l'article L. 312-1 du code de la construction et de l'habitation est tenu de
 transmettre au service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque
-établissement de crédit, un état relatif au crédit d'impôt en faveur de la première accession à la propriété pour chaque
-établissement de crédit tenu de déposer une déclaration spéciale lui ayant déclaré des avances remboursables sans intérêt. 
+établissement de crédit ou société de financement, un état relatif au crédit d'impôt en faveur de la première accession à la
+propriété pour chaque établissement de crédit ou société de financement tenu de déposer une déclaration spéciale lui ayant
+déclaré des avances remboursables sans intérêt. 
 
 Cet état doit faire apparaître les éléments suivants : 
 
@@ -20,11 +21,11 @@ l'avance ainsi que l'origine du reversement ou de l'arrêt d'imputation du créd
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-567 du 23 mai 2005 - art. 1 () JORF 28 mai 2005
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 244 quater J (VT)
-	  - Code de la construction et de l'habitation. - art. L312-1 (VT)
+	  - Code général des impôts, CGI. - art. 244 quater J
+	  - Code de la construction et de l'habitation. - art. L312-1

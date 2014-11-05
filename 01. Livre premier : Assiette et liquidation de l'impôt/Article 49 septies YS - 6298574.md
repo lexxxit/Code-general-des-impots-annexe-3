@@ -1,9 +1,9 @@
 # Article 49 septies YS
 
 Pour l'application des dispositions des articles 199 ter I, 
-220 K et 244 quater J du code général des impôts, les établissements de crédit mentionnés au I de l'article 244 quater J
-précité doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du
-service des impôts dont elles dépendent. 
+220 K et 244 quater J du code général des impôts, les établissements de crédit et les sociétés de financement mentionnés au I
+de l'article 244 quater J précité doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues
+de déposer auprès du service des impôts dont elles dépendent. 
 
 Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
 comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des
@@ -17,11 +17,11 @@ vertu du 1 de l'article 223 du code précité.
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 31
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360
 	  - Code général des impôts, CGI. - art. 199 ter I
 	  - Code général des impôts, CGI. - art. 218 A
 	  - Code général des impôts, CGI. - art. 220 K

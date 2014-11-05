@@ -1,9 +1,9 @@
 # Article 49 septies ZZE
 
 L'organisme mentionné à l'article R. * 319-12 du code de la construction et de l'habitation est tenu de transmettre au
-service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit,
-un état relatif au crédit d'impôt pour chaque établissement de crédit tenu de déposer une déclaration spéciale lui ayant
-déclaré des avances remboursables sans intérêt. 
+service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque établissement de crédit ou
+société de financement, un état relatif au crédit d'impôt pour chaque établissement de crédit ou société de financement tenu
+de déposer une déclaration spéciale lui ayant déclaré des avances remboursables sans intérêt. 
 
 Cet état doit faire apparaître les éléments suivants : 
 
@@ -20,11 +20,11 @@ l'avance ainsi que l'origine du reversement ou de l'arrêt d'imputation du créd
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-347 du 30 mars 2009 - art. 1
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 244 quater U
-	  - Code de la construction et de l'habitation. - art. R*319-12 (V)
+	  - Code de la construction et de l'habitation. - art. R319-12

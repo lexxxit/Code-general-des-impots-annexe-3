@@ -5,21 +5,21 @@ remboursables doivent être prises en compte dans leur totalité à compter du p
 
 Les éléments de nature à modifier le montant et les conditions de remboursement de l'avance remboursable sans intérêt doivent
 être pris en compte pour la production de l'attestation portant le calcul du crédit d'impôt et délivrée par l'organisme
-mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de
-crédit. 
+mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation à l'établissement de crédit
+ou à la société de financement. 
 
 Par exception, lorsque les emprunteurs dont le ou les avis d'imposition font apparaître, par rapport aux revenus fiscaux de
 référence déclarés, un écart justifiant une baisse de l'avantage dont ils ont bénéficié et qu'ils ont régularisé cette
-situation auprès de l'établissement de crédit entre le 1er janvier et le 31 mars de l'année suivant celle de l'offre, les
-éléments ayant modifié le montant et les conditions de remboursement de l'avance peuvent être pris en compte sur
-l'attestation délivrée par l'organisme mentionné au deuxième alinéa au plus tard la deuxième année qui suit celle de
-l'émission de l'offre.
+situation auprès de l'établissement de crédit ou de la société de financement entre le 1er janvier et le 31 mars de l'année
+suivant celle de l'offre, les éléments ayant modifié le montant et les conditions de remboursement de l'avance peuvent être
+pris en compte sur l'attestation délivrée par l'organisme mentionné au deuxième alinéa au plus tard la deuxième année qui
+suit celle de l'émission de l'offre.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1468 du 22 décembre 2008 - art. 1
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 	**Cite**:
 

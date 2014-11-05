@@ -2,8 +2,8 @@
 
 L'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation est tenu de
 transmettre au service chargé des grandes entreprises, dans les quatre mois de la clôture de l'exercice de chaque
-établissement de crédit, un état relatif au crédit d'impôt pour chaque établissement de crédit tenu de déposer une
-déclaration spéciale lui ayant déclaré des prêts ne portant pas intérêt. 
+établissement de crédit ou société de financement, un état relatif au crédit d'impôt pour chaque établissement de crédit ou
+société de financement tenu de déposer une déclaration spéciale lui ayant déclaré des prêts ne portant pas intérêt. 
 
 Cet état doit faire apparaître les éléments suivants : 
 
@@ -20,9 +20,9 @@ général des impôts et l'origine de ce reversement ou de cet arrêt d'imputati
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1728 du 30 décembre 2010 - art. 1
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 	**Cite**:
 

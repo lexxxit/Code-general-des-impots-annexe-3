@@ -12,9 +12,9 @@ Toutefois, ce prélèvement n'est pas applicable :
 
 2° Aux intérêts des dépôts en devises effectués auprès des établissements de crédit installés en France ; 
 
-3° Aux revenus provenant d'opérations de trésorerie à court terme réalisées entre des établissements de crédit installés en
-France d'une part, et des banques établies à l'étranger, des organismes internationaux ou des institutions financières
-publiques étrangères, d'autre part ; 
+3° Aux revenus provenant d'opérations de trésorerie à court terme réalisées entre des établissements de crédit ou des
+sociétés de financement installés en France d'une part, et des banques établies à l'étranger, des organismes internationaux
+ou des institutions financières publiques étrangères, d'autre part ; 
 
 4° Aux intérêts provenant d'opérations à court terme perçus par les banques établies à l'étranger à raison des effets
 représentatifs de créances hypothécaires détenus par elles et susceptibles d'être acquis par le crédit foncier de France ; 
@@ -26,11 +26,7 @@ dont le domicile fiscal ou le siège social est situé hors de France.
 
 	**Modifié par**:
 
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
 
 	**Cité par**:
 
@@ -39,5 +35,5 @@ dont le domicile fiscal ou le siège social est situé hors de France.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 125 A (V)
-	  - Code général des impôts, CGI. - art. 157 (V)
+	  - Code général des impôts, CGI. - art. 125 A
+	  - Code général des impôts, CGI. - art. 157
