@@ -6,10 +6,9 @@ code général des impôts sont les suivants :
 
 1° Aléas climatiques et naturels ayant affecté l'exploitation : 
 
-a) Sinistre, constaté dans les conditions prévues à l'article D. 361-41 du code rural et de la pêche maritime ; 
+a) (Abrogé) ; 
 
-b) Calamité agricole, constatée dans les conditions prévues en application de l'article L. 361-5 du code rural et de la pêche
-maritime ; 
+b) Calamité agricole, mentionnée à l'article L. 361-5 du code rural et de la pêche maritime ; 
 
 c) Catastrophe naturelle, constatée dans les conditions prévues à l'article L. 125-1 du code des assurances ; 
 
@@ -31,28 +30,9 @@ d) Suspension, retrait ou modification de l'autorisation d'exploitation de cultu
 imputable au bénéficiaire de l'autorisation d'exploitation de cultures marines, en application de l'article 15 du décret n°
 83-228 du 22 mars 1983 fixant le régime de l'autorisation des exploitations de cultures marines. 
 
-II.-(Paragraphe abrogé) 
+II.-(Abrogé). 
 
-III. Pour l'application de l'article 72 D bis du code général des impôts, les exploitants agricoles doivent souscrire : 
-
-1° Pour la totalité de leur exploitation, une assurance contre l'incendie ; 
-
-2° Le cas échéant, une assurance contre l'ensemble des risques assurables à l'ouverture de l'exercice, définis à l'article D.
-361-33 du code rural et de la pêche maritime, dont une fraction des primes ou cotisations est prise en charge par le Fonds
-national de gestion des risques en agriculture en application de l'article L. 361-4 du même code et dont les garanties sont
-fixées en fonction des normes de production habituellement admises dans la région considérée ; 
-
-3° Et, selon le cas : 
-
-a) Pour leurs cultures, autres que celles assurées en application du 2°, une assurance contre la grêle ou, au choix de
-l'exploitant, tout autre dommage, hormis celui mentionné au 1° ; 
-
-b) Pour leurs cheptels, une assurance contre les risques définis par arrêté des ministres chargés de l'économie et de
-l'agriculture en tenant compte, notamment, du degré suffisant des offres d'assurances existantes.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 2-I du décret n° 2011-2089 du 30 décembre 2011.
+III.-(Abrogé).
 
 **Liens relatifs à cet article**
 
@@ -68,10 +48,11 @@ Modifications effectuées en conséquence de l'article 2-I du décret n° 2011-2
 	  - Code rural - art. L234-4
 	  - Code rural - art. L251-2
 	  - Code rural - art. L251-9
-	  - Code rural - art. L361-4 (V)
+	  - Code rural - art. L361-4
+	  - Code rural - art. L361-5 (V)
 	  - Code rural - art. R*231-39
 	  - Code rural - art. R361-41
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2014-1610 du 24 décembre 2014 - art. 1
