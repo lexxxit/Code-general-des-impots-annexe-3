@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2014-12-28
+Version Consolidée au 2014-12-30
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -18858,35 +18858,35 @@ impôts doit joindre à la déclaration du résultat de la période d'imposition
 Les bailleurs d'immeubles visés au 5° du I de l'article 35 du code général des impôts bénéficiant des dispositions de
 l'article 44 octies ou de l'article 44 octies A de ce code doivent joindre à la déclaration du résultat de chaque période
 d'imposition des bénéfices un document mentionnant le lieu d'implantation de chaque immeuble donné à bail. Lorsque tous leurs
-moyens d'exploitation ne sont pas situés dans les zones franches urbaines, ils doivent également joindre en annexe à cette
-déclaration un compte séparé faisant apparaître, pour chaque immeuble situé dans ces zones, le bénéfice net provenant de son
-exploitation.
+moyens d'exploitation ne sont pas situés dans les  zones franches urbaines-territoires entrepreneurs, ils doivent également
+joindre en annexe à cette déclaration un compte séparé faisant apparaître, pour chaque immeuble situé dans ces zones, le
+bénéfice net provenant de son exploitation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-1796 du 23 décembre 2006 - art. 1 () JORF 31 décembre 2006
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 48
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 35 (V)
-	  - Code général des impôts, CGI. - art. 44 octies (VT)
-	  - Code général des impôts, CGI. - art. 44 octies A (VT)
+	  - Code général des impôts, CGI. - art. 35
+	  - Code général des impôts, CGI. - art. 44 octies
+	  - Code général des impôts, CGI. - art. 44 octies A
 
 
 ###### Article 49 O
 
-En cas de transfert d'activité dans une zone franche urbaine, le contribuable est tenu d'indiquer le ou les lieux antérieurs
-d'exercice de cette activité et le service des impôts auprès duquel les déclarations de résultat ont été souscrites. Il
-indique également, le cas échéant, la nature et le montant des subventions et aides qui lui ont été accordées par l'Etat et
-les collectivités publiques.
+En cas de transfert d'activité dans une  zone franche urbaine-territoire entrepreneur, le contribuable est tenu d'indiquer le
+ou les lieux antérieurs d'exercice de cette activité et le service des impôts auprès duquel les déclarations de résultat ont
+été souscrites. Il indique également, le cas échéant, la nature et le montant des subventions et aides qui lui ont été
+accordées par l'Etat et les collectivités publiques.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°97-116 du 10 février 1997 - art. 1 () JORF 11 février 1997
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 48
 
 
 ###### Article 49 P
@@ -32832,15 +32832,15 @@ La demande d'exonération de cotisation foncière des entreprises doit être for
 
 ###### Article 322 O
 
-Lorsque, dans une même commune, une entreprise exploite plusieurs établissements situés dans et hors de la zone franche
-urbaine ou de la zone de redynamisation urbaine, elle doit déclarer séparément les éléments passibles de la cotisation
-foncière des entreprises pour chacun des établissements qui sont situés dans la zone.
+Lorsque, dans une même commune, une entreprise exploite plusieurs établissements situés dans et hors de la  zone franche
+urbaine-territoire entrepreneur ou de la zone de redynamisation urbaine, elle doit déclarer séparément les éléments passibles
+de la cotisation foncière des entreprises pour chacun des établissements qui sont situés dans la zone.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1015 du 3 septembre 2012 - art. 1
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 48
 
 
 ###### Article 322 Q
