@@ -1,15 +1,16 @@
 # Article 97 ter
 
-Lorsque l'administration le radie du registre d'identification dans les cas prévus au 4 de l'article 298 sexdecies F du code
-général des impôts, l'assujetti non établi dans la Communauté en est informé par voie électronique. Cette information reprend
-les motifs de la radiation.
+Lorsque l'administration le radie du registre d'identification dans les cas prévus au 4 de l'article 298 sexdecies F et au
+III de l'article 298 sexdecies G du code général des impôts, l'assujetti en est informé par voie électronique. Cette
+information reprend les motifs de la radiation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-658 du 18 juillet 2003 - art. 2 () JORF 20 juillet 2003
+	  - Décret n°2014-1692 du 30 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+	  - Code général des impôts, CGI. - art. 298 sexdecies F
+	  - Code général des impôts, CGI. - art. 298 sexdecies G (V)

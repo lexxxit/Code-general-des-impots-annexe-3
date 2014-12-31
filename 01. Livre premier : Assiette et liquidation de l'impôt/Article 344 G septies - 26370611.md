@@ -7,13 +7,13 @@ entreprises étrangères, au plus tard le 15 juin de chaque année, la déclarat
 Cette déclaration est souscrite en langue française sur un imprimé conforme à un modèle établi par l'administration et
 comporte les indications suivantes : 
 
-1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, adresse
-et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
+1° L'identification du ou des constituants ou bénéficiaires réputés constituants : nom et prénom ou raison sociale, numéro
+SIREN , adresse et, le cas échéant, date et lieu de naissance et, s'il y a lieu, de décès ; 
 
-2° L'identification du ou des bénéficiaires : nom et prénom ou raison sociale, adresse et, le cas échéant, date et lieu de
-naissance et, s'il y a lieu, de décès ; 
+2° L'identification du ou des bénéficiaires : nom et prénom ou raison sociale, numéro SIREN , adresse et, le cas échéant,
+date et lieu de naissance et, s'il y a lieu, de décès ; 
 
-3° L'identification de l'administrateur du trust : nom et prénom ou dénomination sociale et adresse ; 
+3° L'identification de l'administrateur du trust : nom et prénom ou dénomination sociale, numéro SIREN  et adresse ; 
 
 4° L'identification du trust : dénomination et adresse ; 
 
@@ -47,7 +47,7 @@ Modifications effectuées en conséquence de l'article 11 de la loi n° 2013-111
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2014-1372 du 17 novembre 2014  - art. 1
 
 	**Cite**:
 

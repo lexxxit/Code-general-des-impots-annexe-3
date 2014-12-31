@@ -8,9 +8,9 @@ L'exonération prévue au premier alinéa est subordonnée à la condition que l
 pendant au moins cinq ans et que le bien cédé n'entre pas dans le champ d'application du A de l'article 1594-0 G du code
 général des impôts. A défaut, les dispositions des articles 150 U à 150 VH du même code sont applicables. 
 
-Les terrains expropriés qui ne remplissent pas les conditions mentionnées aux a et b du 1° du II de l'article L. 13-15 du
-code de l'expropriation pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ
-d'application du A de l'article 1594-0 G du code général des impôts. 
+Les terrains expropriés qui ne remplissent pas les conditions mentionnées à l'article L. 322-3 du code de l'expropriation
+pour cause d'utilité publique ne sont pas considérés comme des biens entrant dans le champ d'application du A de l'article
+1594-0 G du code général des impôts. 
 
 2. Si le bien cédé a figuré pendant une partie du temps écoulé depuis l'acquisition, dans le patrimoine privé du
 contribuable, il est fait application de l'article 151 sexies du code général des impôts.
@@ -19,11 +19,14 @@ contribuable, il est fait application de l'article 151 sexies du code général 
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1415 du 20 octobre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 150 U (V)
-	  - Code général des impôts, CGI. - art. 151 sexies (V)
-	  - Code général des impôts, CGI. - art. 1594-0 G (V)
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L13-15 (V)
+	  - Code général des impôts, CGI. - art. 150 U
+	  - Code général des impôts, CGI. - art. 151 sexies
+	  - Code général des impôts, CGI. - art. 1594-0 G
