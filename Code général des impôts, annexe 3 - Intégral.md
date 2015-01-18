@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-01-19
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -1229,7 +1229,7 @@ Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non compri
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants
 mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
-- d'un quart pour les départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Mayotte ;
+- d'un quart pour les départements d'outre-mer, Saint-Barthélemy et Saint-Martin ;
 
 - d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie, Saint-Pierre-et-Miquelon et les îles Wallis et Futuna. 
 
@@ -1240,12 +1240,6 @@ ministres chargés du budget et du logement et la surface habitable à prendre e
 loyer est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du cinquième alinéa,
 la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III de l'article
 46 AG terdecies.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 1
-  <sup>er</sup> G du décret n° 2006-1005 du 10 août 2006, de l'article 1er-II [1°] du décret n° 2010-1601 du 20 décembre
-2010.
 
 **Liens relatifs à cet article**
 
@@ -1264,7 +1258,7 @@ Modifications effectuées en conséquence de l'article 1
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
 
 	**Cite**:
 
@@ -1288,9 +1282,9 @@ article ;
 
 Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre
-carré de surface habitable, à 10,43 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte et à
-13,76 € en Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces
-plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
+carré de surface habitable, à 10,43 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,76 € en
+Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont
+relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
 
 b. Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
@@ -1301,238 +1295,241 @@ Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suiva
 (en euros) 
 
 <table>
-    <tbody>
-      <tr>
-        <th>COMPOSITION DU FOYER LOCATAIRE
+  <tbody>
+    <tr>
+      <th>COMPOSITION DU FOYER LOCATAIRE
 
 </th>
-        <th colspan="4">
+      <th colspan="4">
 
 LIEU DE LOCATION
 
 </th>
-      </tr>
-      <tr>
-        <th>
+    </tr>
+    <tr>
+      <th>
 
 </th>
-        <th>
+      <th>
 
-Zone A
+Zone A 
 
 (en euros)
 
 </th>
-        <th>
+      <th>
 
-Zone B1
+Zone B1 
 
 (en euros)
 
 </th>
-        <th>
+      <th>
 
 Zone B2
 
 </th>
-        <th>
+      <th>
 
-Zone C
+Zone C 
 
 (en euros)
 
 </th>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Personne seule
 
 </td>
-        <td align="center">
+      <td align="center">
 
 46 630
 
 </td>
-        <td align="center">
+      <td align="center">
 
 34 637
 
 </td>
-        <td align="center">
+      <td align="center">
 
 31 750
 
 </td>
-        <td align="center">
+      <td align="center">
 
 31 536
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Couple
 
 </td>
-        <td align="center">
+      <td align="center">
 
 69 688
 
 </td>
-        <td align="center">
+      <td align="center">
 
 50 864
 
 </td>
-        <td align="center">
+      <td align="center">
 
 46 626
 
 </td>
-        <td align="center">
+      <td align="center">
 
 42 386
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Personne seule ou couple ayant une personne à charge
 
 </td>
-        <td align="center">
+      <td align="center">
 
 83 770
 
 </td>
-        <td align="center">
+      <td align="center">
 
 60 891
 
 </td>
-        <td align="center">
+      <td align="center">
 
 55 817
 
 </td>
-        <td align="center">
+      <td align="center">
 
 50 742
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Personne seule ou couple ayant deux personnes à charge
 
 </td>
-        <td align="center">
+      <td align="center">
 
 100 343
 
 </td>
-        <td align="center">
+      <td align="center">
 
 73 692
 
 </td>
-        <td align="center">
+      <td align="center">
 
 67 552
 
 </td>
-        <td align="center">
+      <td align="center">
 
 61 411
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Personne seule ou couple ayant trois personnes à charge
 
 </td>
-        <td align="center">
+      <td align="center">
 
 118 788
 
 </td>
-        <td align="center">
+      <td align="center">
 
 86 491
 
 </td>
-        <td align="center">
+      <td align="center">
 
 79 286
 
 </td>
-        <td align="center">
+      <td align="center">
 
 72 075
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Personne seule ou couple ayant quatre personnes à charge
 
 </td>
-        <td align="center">
+      <td align="center">
 
 133 666
 
 </td>
-        <td align="center">
+      <td align="center">
 
 97 562
 
 </td>
-        <td align="center">
+      <td align="center">
 
 89 434
 
 </td>
-        <td align="center">
+      <td align="center">
 
 81 303
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+    </tr>
+    <tr>
+      <td align="center">
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
 </td>
-        <td align="center">
+      <td align="center">
 
 + 14 899
 
 </td>
-        <td align="center">
+      <td align="center">
 
 + 11 082
 
 </td>
-        <td align="center">
+      <td align="center">
 
 + 10 159
 
 </td>
-        <td align="center">
+      <td align="center">
 
 + 9 235</td>
-      </tr>
-    </tbody>
-  </table>Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources
-prévus à l'article 2 duodecies. 
+    </tr>
+  </tbody>
+</table>
+
+Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
+l'article 2 duodecies. 
+
 Pour les baux conclus en 2014, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
 d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants : 
 
@@ -1546,16 +1543,16 @@ d'impôt prévue à l'article 199 septvicies du code général des impôts sont 
 </th>
         <th>
 
-DÉPARTEMENTS D'OUTRE-MER,
+DÉPARTEMENTS D'OUTRE-MER, 
 
 Saint-Martin,
 
-Saint-Barthélemy, Mayotte
+Saint-Barthélemy
 
 </th>
         <th>
 
-POLYNÉSIE FRANÇAISE,
+POLYNÉSIE FRANÇAISE, 
 
 Nouvelle-Calédonie,
 
@@ -1697,10 +1694,6 @@ premier alinéa du a est la même que celle prévue au troisième alinéa du a d
 quatrième alinéa du a, la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle
 déterminée au III de l'article 46 AG terdecies.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 1er (G) du décret n° 2006-1005 du 10 août 2006
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -1714,12 +1707,12 @@ Modifications effectuées en conséquence de l'article 1er (G) du décret n° 20
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies (M)
 	  - Code général des impôts, CGI. - art. 1417
 	  - Code général des impôts, CGI. - art. 196
 	  - Code général des impôts, CGI. - art. 199 septvicies
@@ -6795,26 +6788,22 @@ plantations, des variétés de plants recommandés ou tolérés et des condition
 
 ###### Article 38 sexdecies T
 
-I. Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, l'exonération d'impôt sur le
-revenu est accordée à compter du 1er janvier de l'année suivant celle de l'exécution des travaux. 
+I. Dans les départements de la Guadeloupe, de la Guyane, de Mayotte, de la Martinique et de la Réunion, l'exonération d'impôt
+sur le revenu est accordée à compter du 1er janvier de l'année suivant celle de l'exécution des travaux. 
 
 II. L'avantage fiscal prévu au I est supprimé de plein droit lorsque les parcelles précédemment exonérées cessent d'être
 affectées à des cultures agréées ou d'être exploitées dans les conditions fixées par l'arrêté d'agrément prévu à l'article 38
 sexdecies S.
 
-**Nota:**
-
-Ces dispositions s'appliquent pour la détermination des résultats des exercices clos à compter du 31 décembre 2004.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2005-1 du 3 janvier 2005 - art. 2 () JORF 4 janvier 2005
+	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies S (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies S
 
 
 ##### G : Transmission ou rachat des droits d'un associé personne physique dans une société exerçant une activité agricole
@@ -10570,14 +10559,14 @@ propres à chacun d'eux, des éléments qui composent le revenu brut global du c
 Les contribuables doivent également déclarer, séparément, les revenus mentionnés au troisième alinéa du 1 de l'article 49 F. 
 
 La déclaration mentionne séparément le montant des revenus, de quelque nature qu'ils soient, encaissés directement ou
-indirectement à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et
-Futuna et dans les Terres australes et antarctiques françaises et à l'étranger.
+indirectement à Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et
+dans les Terres australes et antarctiques françaises et à l'étranger.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-962 du 15 septembre 2008 - art. 1
+	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
 
 	**Cité par**:
 
@@ -11431,9 +11420,9 @@ du locataire sont les suivants :
 1. Pour les baux conclus en 2014, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à : 
 
-1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte. Ce plafond est révisé chaque
-année, le 1er janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à
-la consommation hors tabac de chacun des quatre départements d'outre-mer ; 
+1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
+janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
+consommation hors tabac de chacun des cinq départements d'outre-mer ; 
 
 2° 209 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
 Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que
@@ -11442,9 +11431,9 @@ Nouvelle-Calédonie.
 
 1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application : 
 
-1° Dans les départements d'outre-mer, à Saint-Barthélemy, à Saint-Martin et à Mayotte, de la dernière variation annuelle
-publiée par l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de
-la conclusion du bail ; 
+1° Dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin, de la dernière variation annuelle publiée par
+l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion
+du bail ; 
 
 2° En Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises et à Saint-
 Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut de la statistique de la Polynésie française au
@@ -11478,16 +11467,14 @@ PLAFOND ANNUEL DE RESSOURCES
 </th>
         <th>
 
-Départements d'outre-mer,
+Départements d'outre-mer, 
 
-Saint-Martin,
-
-Saint-Barthélemy, Mayotte
+Saint-Martin et Saint-Barthélemy
 
 </th>
         <th>
 
-Polynésie française,
+Polynésie française, 
 
 Nouvelle-Calédonie,
 
@@ -11643,7 +11630,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
 
 	**Cité par**:
 
@@ -11949,9 +11936,8 @@ par référence aux loyers habituellement constatés dans le voisinage pour des 
 I.-Les plafonds annuels de ressources mentionnés au 2° du I de l'article 199 undecies C du code général des impôts sont
 égaux : 
 
-1° Dans les départements d'outre-mer, à Saint-Martin, à Saint-Barthélemy et à Mayotte, aux plafonds annuels de ressources
-prévus pour l'application dans les départements d'outre-mer de l'article R. 372-21 du code de la construction et de
-l'habitation ; 
+1° Dans les départements d'outre-mer, à Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour
+l'application dans les départements d'outre-mer de l'article R. 372-21 du code de la construction et de l'habitation ; 
 
 2° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, à 81, 25 % des plafonds
 annuels de ressources mentionnés au 2 de l'article 46 AG duodecies et applicables sur ces territoires. 
@@ -11964,8 +11950,7 @@ de la construction et de l'habitation ;
 2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de ce même article dans le
 département de Guadeloupe ; 
 
-3° A Mayotte, aux plafonds annuels de loyers prévus pour l'application de ce même article dans le département de La
-Réunion ; 
+3° Abrogé ;
 
 4° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, à 90 % des plafonds
 annuels de loyers mentionnés au 1 de l'article 46 AG duodecies et applicables sur ces territoires. 
@@ -11975,9 +11960,8 @@ III.-1. La part minimale mentionnée au 5° du I de l'article 199 undecies C du 
 2. Les plafonds annuels de ressources mentionnés au 5° du I de l'article 199 undecies C du code général des impôts sont
 égaux : 
 
-1° Dans les départements d'outre-mer, à Saint-Martin, à Saint-Barthélemy et à Mayotte, aux plafonds annuels de ressources
-prévus pour l'application dans les départements d'outre-mer de l'article R. 372-7 du code de la construction et de
-l'habitation ; 
+1° Dans les départements d'outre-mer, à Saint-Martin et à Saint-Barthélemy, aux plafonds annuels de ressources prévus pour
+l'application dans les départements d'outre-mer de l'article R. 372-7 du code de la construction et de l'habitation ; 
 
 2° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, à dix treizièmes des
 plafonds annuels de ressources mentionnés au 2° du I. 
@@ -11990,8 +11974,7 @@ de la construction et de l'habitation ;
 2° A Saint-Barthélemy et à Saint-Martin, aux plafonds annuels de loyers prévus pour l'application de ce même article dans le
 département de Guadeloupe ; 
 
-3° A Mayotte, aux plafonds annuels de loyers prévus pour l'application de ce même article dans le département de La
-Réunion ; 
+3° Abrogé ; 
 
 4° A Saint-Pierre-et-Miquelon, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna, aux deux tiers des
 plafonds annuels de loyers mentionnés au 4° du II. 
@@ -12056,7 +12039,7 @@ qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
 
 	**Cité par**:
 

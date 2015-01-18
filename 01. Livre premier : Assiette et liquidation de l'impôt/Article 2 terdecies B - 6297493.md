@@ -18,7 +18,7 @@ Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non compri
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants
 mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
-- d'un quart pour les départements d'outre-mer, Saint-Barthélemy, Saint-Martin et Mayotte ;
+- d'un quart pour les départements d'outre-mer, Saint-Barthélemy et Saint-Martin ;
 
 - d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie, Saint-Pierre-et-Miquelon et les îles Wallis et Futuna. 
 
@@ -29,12 +29,6 @@ ministres chargés du budget et du logement et la surface habitable à prendre e
 loyer est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du cinquième alinéa,
 la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III de l'article
 46 AG terdecies.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 1
-  <sup>er</sup> G du décret n° 2006-1005 du 10 août 2006, de l'article 1er-II [1°] du décret n° 2010-1601 du 20 décembre
-2010.
 
 **Liens relatifs à cet article**
 
@@ -53,7 +47,7 @@ Modifications effectuées en conséquence de l'article 1
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
 
 	**Cite**:
 
