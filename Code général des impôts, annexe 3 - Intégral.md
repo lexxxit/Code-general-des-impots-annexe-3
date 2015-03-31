@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-02-14
+Version Consolidée au 2015-04-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -26730,6 +26730,114 @@ réalisation de l'opération constituant une entrée ou une sortie selon les dis
 	**Cité par**:
 
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 I (V)
+
+
+###### Article 111-0 HA
+
+Les alcools, boissons alcooliques et tabacs manufacturés ne peuvent être réintroduits sur le territoire de l'Union européenne
+par les voyageurs que dans les limites et conditions qui leur sont applicables.
+
+Les voyageurs sont tenus de déclarer ces produits à l'administration des douanes et droits indirects lors de leur
+importation. Ils acquittent les droits d'accises afférents à ces produits pour la part excédant les limites mentionnées ci-
+dessus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 2
+
+
+###### Article 111-0 HB
+
+I.-Les voyageurs qui se rendent par la voie aérienne ou maritime à destination d'un autre Etat membre de l'Union européenne
+peuvent acquérir, en droits acquittés, des alcools, boissons alcooliques et tabacs manufacturés dans les comptoirs de vente. 
+
+A l'occasion de leur achat dans un comptoir de vente, les voyageurs présentent leur titre de transport indiquant leur
+destination finale. 
+
+II.-Les membres d'équipage de l'aéronef ou du navire peuvent acquérir des produits exonérés de droits d'accises vendus dans
+les comptoirs de vente sous réserve de présenter, lors de leur achat, un ordre de mission attestant que le lieu de
+destination se situe en dehors du territoire de l'Union européenne. Les membres d'équipage d'un moyen de transport à
+destination d'un Etat membre de l'Union européenne acquièrent les produits soumis à accises en droits acquittés. 
+
+III.-Lors de la vente, l'entrepositaire agréé établit un document commercial, dont un exemplaire est remis à l'acheteur. Ce
+document comporte notamment la nature et le volume des produits vendus, l'identité de l'acheteur et sa destination finale
+ainsi que le statut fiscal des produits vendus mentionnant le paiement ou non des droits d'accises. 
+
+Les informations devant figurer sur ce document commercial sont précisées par arrêté du ministre chargé du budget. 
+
+Ce document commercial est conservé dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des
+procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 BC (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L102 B
+
+
+###### Article 111-0 HC
+
+Les voyageurs à destination d'un Etat membre de l'Union européenne peuvent acquérir les alcools, boissons alcooliques et
+tabacs manufacturés en droits acquittés dans les boutiques de vente à bord. 
+
+La vente à bord en exonération des droits d'accises n'a lieu que pendant la navigation. 
+
+A l'occasion des ventes à bord, le responsable de la boutique de vente à bord établit un document commercial, dont un
+exemplaire est remis à l'acheteur. Ce document comporte la nature et le volume des produits vendus ainsi que leur statut
+fiscal. 
+
+Les informations devant figurer sur ce document commercial sont précisées par arrêté du ministre chargé du budget. 
+
+Pour les produits vendus en droits acquittés à bord des navires n'effectuant que des navigations intracommunautaires, le
+document commercial peut ne pas spécifier le nom du voyageur et le lieu de destination figurant sur son titre de transport.
+Il précise la liaison maritime en cause. 
+
+Ce document commercial est conservé dans les conditions et selon les modalités fixées à l'article L. 102 B du livre des
+procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 2
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 BC (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L102 B
+
+
+###### Article 111-0 HD
+
+Pour l'application du 3° de l'article 302 F bis du code général des impôts, la navigation maritime est entendue comme une
+navigation effectuée en dehors des eaux intérieures au sens de la Convention des Nations unies sur le droit de la mer et
+d'une durée supérieure ou égale à six heures ou une navigation incluant une sortie des eaux territoriales. 
+
+Lorsque la consommation de tabacs à bord des aéronefs est interdite, l'exonération des droits d'accises prévue au 3° de
+l'article 302 F bis du code général des impôts n'est pas applicable aux tabacs manufacturés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-184 du 17 février 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 F bis
 
 
 ##### Section II : Titres de mouvement
