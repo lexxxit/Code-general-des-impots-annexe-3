@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-04-01
+Version Consolidée au 2015-04-20
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -30393,6 +30393,100 @@ Modification effectuée en conséquence de l'article 6 du décret n° 2007-746 d
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 793
+
+
+###### Article 281 K
+
+La demande d'agrément mentionnée au 
+I de l'article 795-0 A du code général des impôts
+est présentée en langue française sur papier libre, conformément à un modèle fixé par arrêté du ministre chargé du budget,
+auprès des services centraux de la direction générale des finances publiques par la personne morale ou l'organisme constitué
+sur le fondement d'un droit étranger et ayant son siège dans un Etat membre de l'Union européenne ou dans un Etat partie à
+l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de
+lutter contre la fraude et l'évasion fiscales. 
+
+Sont jointes à la demande les pièces justificatives dont la liste est fixée par arrêté du ministre chargé du budget ainsi que
+leur traduction en langue française, attestant que la personne morale ou l'organisme poursuit des objectifs et présente des
+caractéristiques similaires à ceux des personnes morales ou organismes dont le siège est situé en France et qui répondent aux
+conditions prévues aux articles 
+794
+et 
+795
+du code général des impôts. 
+
+Les demandes de renouvellement d'agrément sont présentées selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-442 du 17 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 794
+	  - Code général des impôts, CGI. - art. 795
+	  - Code général des impôts, CGI. - art. 795-0 A
+
+
+###### Article 281 L
+
+I.-La décision est prise par le ministre chargé du budget et notifiée à la personne morale ou à l'organisme ; elle est
+motivée en cas de refus. 
+
+II.-L'agrément accordé au titre d'une première demande porte sur la période comprise entre la date de la notification et le
+31 décembre de la troisième année qui suit cette date. 
+
+Les demandes de renouvellement sont présentées, au plus tard, le 30 juin de la dernière année couverte par l'agrément. En cas
+de renouvellement, l'agrément est accordé pour une période de trois ans courant à compter du 1er janvier suivant. En cas de
+refus de renouvellement d'agrément, l'agrément en cours produit ses effets jusqu'à son terme. 
+
+III.-La liste des personnes morales et organismes agréés est publiée sur le site internet de l'administration fiscale. Cette
+liste est actualisée à chaque décision d'agrément. 
+
+IV.-L'agrément peut être retiré par décision motivée du ministre chargé du budget lorsqu'il est établi que la personne morale
+ou l'organisme, en totalité ou en partie, ne poursuit plus d'objectifs ou ne présente plus de caractéristiques similaires à
+ceux des personnes morales ou organismes dont le siège est situé en France et qui répondent aux conditions prévues aux
+articles 
+794
+et 
+795
+du code général des impôts. Cette décision est notifiée à la personne morale ou à l'organisme. La liste mentionnée au III est
+actualisée en conséquence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-442 du 17 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 794
+	  - Code général des impôts, CGI. - art. 795
+
+
+###### Article 281 M
+
+I.-La valeur des dons ou legs aux personnes morales ou organismes mentionnés au 
+I de l'article 795-0 A du code général des impôts
+est indiquée distinctement sur la déclaration de succession prévue au I de l'article 800 du même code ou sur la déclaration
+de don mentionnée à l'article 757 du même code ou sur l'acte authentique constatant la donation. 
+
+II.-Pour l'application du 
+II de l'article 795-0 A du code général des impôts
+, les pièces à fournir dans le délai de dépôt de la déclaration de succession, de don ou de l'acte de donation sont celles
+mentionnées au deuxième alinéa de l'article 281 K.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-442 du 17 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 795-0 A
 
 
 ###### Article 281 ter
