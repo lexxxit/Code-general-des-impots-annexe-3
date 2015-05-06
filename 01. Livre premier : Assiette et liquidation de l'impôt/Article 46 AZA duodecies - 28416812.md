@@ -1,6 +1,6 @@
 # Article 46 AZA duodecies
 
-I.-Pour l'application du deuxième alinéa du D du I et du premier alinéa du III de l'article 199 novovicies du code général
+I. - Pour l'application du deuxième alinéa du D du I et du premier alinéa du III de l'article 199 novovicies du code général
 des impôts : 
 
 1° La condition de loyer s'apprécie en tenant compte du montant du loyer payé au bailleur par l'organisme locataire et du
@@ -28,13 +28,28 @@ c) Une copie du contrat de sous-location faisant apparaître le montant de la re
 d) Une copie de l'avis d'impôt sur le revenu du sous-locataire établi au titre de l'avant-dernière année précédant celle de
 la signature du contrat de sous-location. 
 
-II.-Lorsque le contrat de location ou de sous-location n'est pas signé au moment du dépôt de la déclaration des revenus de
+4° Pour les investissements réalisés à compter du 1er septembre 2014, lorsque le contribuable proroge son engagement de
+location dans les conditions prévues aux 1 et 2 du I bis de l'article 46 AZA undecies, il joint à sa déclaration des revenus
+de l'année au cours de laquelle intervient le terme de l'engagement initial ou celui de la première période triennale de
+prorogation :
+
+a) Les documents mentionnés aux b à d du 3° ;
+
+b) La note annexe prévue au 1° du 1 du I bis de l'article 46 AZA undecies.
+
+II. - Lorsque le contrat de location ou de sous-location n'est pas signé au moment du dépôt de la déclaration des revenus de
 l'année d'achèvement de l'immeuble ou des travaux, ou de l'acquisition de l'immeuble si elle est postérieure, les documents
 mentionnés aux b à d du 3° du I sont joints à la déclaration des revenus de l'année au cours de laquelle le contrat de
 location ou le contrat de sous-location est signé. 
 
-En cas de changement de locataire ou de sous-locataire au cours de la période couverte par l'engagement de location, le
-contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est intervenu : 
+Lorsque le contrat de location ou de sous-location n'est pas signé au titre de la période de l'année postérieure à la date de
+prorogation de l'engagement de location mentionnée aux 1 et 2 du I bis de l'article 46 AZA undecies, les documents mentionnés
+aux b à d du 3° du I sont joints à la déclaration des revenus de l'année au cours de laquelle le contrat de location ou le
+contrat de sous-location est signé.  
+
+En cas de changement de locataire ou de sous-locataire au cours de la période couverte par l'engagement de location, le cas
+échéant prorogé,  le contribuable joint à sa déclaration des revenus de l'année au cours de laquelle le changement est
+intervenu : 
 
 a) Une copie du nouveau bail conclu avec l'organisme locataire ; 
 
@@ -45,15 +60,15 @@ dernière année précédant celle de la signature du contrat de sous-location.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1235 du 23 décembre 2013 - art. 1
+	  - Décret n°2015-503 du 4 mai 2015 - art. 1
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (V)
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA undecies (V)
-	  - Code général des impôts, CGI. - art. 199 novovicies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA undecies
+	  - Code général des impôts, CGI. - art. 199 novovicies
