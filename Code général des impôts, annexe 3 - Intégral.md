@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-05-07
+Version Consolidée au 2015-05-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -39801,8 +39801,8 @@ Lorsqu'il existe plusieurs organisations ou organismes ayant vocation à désign
 les représentants des contribuables sont désignés par le président de la commission au vu des propositions de ces
 organisations ou organismes. 
 
-3.L'Assemblée des chambres françaises de commerce et d'industrie consulte les organisations patronales interprofessionnelles
-avant d'établir la liste des représentants qu'elle désigne. 
+3. CCI France consulte les organisations patronales interprofessionnelles avant d'établir la liste des représentants qu'elle
+désigne. 
 
 II. - Il est désigné deux suppléants pour un titulaire. Le nombre de suppléants peut toutefois être modifié dans les
 conditions et limites fixées par arrêté du ministre chargé du budget. 
@@ -39814,14 +39814,14 @@ droits indirects.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1011 du 30 septembre 2008 - art. 1
+	  - Décret n°2015-536 du 15 mai 2015 - art. 5
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1651 H
-	  - Code général des impôts, CGI. - art. 1651 J
+	  - Code général des impôts, CGI. - art. 1651 J (V)
 
 
 ###### Article 348 C
