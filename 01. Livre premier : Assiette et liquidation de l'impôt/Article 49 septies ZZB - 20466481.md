@@ -10,14 +10,18 @@ l'attestation portant le calcul du crédit d'impôt et délivrée par l'organism
 construction et de l'habitation pour la communication par l'établissement de crédit ou la société de financement des
 informations concernant les avances qui font apparaître un avantage indûment perçu par l'emprunteur. Par dérogation, les
 éléments de nature à modifier le montant du crédit d'impôt en raison de l'avantage indûment perçu par l'emprunteur mentionné
-à l'article R. 319-30 du même code doivent figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration
+à l'article R.* 319-30 du même code doivent figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration
 de la période de neuf mois mentionnée à la deuxième phrase du même article.
+
+**Nota:**
+
+Modification effectuée en conséquence du décret n° 2014-1315 du 3 novembre 2014, art. 11-26°.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 

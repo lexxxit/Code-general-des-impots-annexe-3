@@ -11,21 +11,24 @@ même code ;
 
 4° (sans objet). 
 
-5° Accède à la comptabilité des organisateurs de réunions sportives en application du c du 3° de l'article 1561 du code
-général des impôts.
+5° (sans objet).
+
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-1654 du 29 décembre 2014, article 21-I-11° et III.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 12 () JORF 27 mars 2004
-
 	**Codifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2004-1070 du 8 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1561 (V)
-	  - Code général des impôts, CGI. - art. 302 M (V)
-	  - Code général des impôts, CGI. - art. 468 (V)
+	  - Code général des impôts, CGI. - art. 1561
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 468

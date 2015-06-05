@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-05-17
+Version Consolidée au 2015-06-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -68,13 +68,13 @@ montant, ainsi que la désignation des immeubles sur lesquels ils sont réalisé
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,38 € par mètre carré
-en zone A, 12,01 € en zone B et 8,70 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
+a) Pour les baux conclus en 2015, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,48 € par mètre carré
+en zone A, 12,08 € en zone B et 8,75 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
 modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
 centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du
-premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au
-1° du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements
-situés en outre-mer, au 1° du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Les
+premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1
+du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements situés
+en outre-mer, au 1 du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Les
 plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2
 terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté. 
 
@@ -89,203 +89,196 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2015, les plafonds annuels de ressources sont les suivants : 
 
 (En euros) 
 
 <table>
   <tbody>
     <tr>
-      <th>
-
-COMPOSITION DU FOYER LOCATAIRE 
+      <th rowspan="2">COMPOSITION DU FOYER LOCATAIRE
 
 </th>
       <th colspan="3">
 
-LIEU DE LOCATION 
+LIEU DE LOCATION
 
 </th>
     </tr>
     <tr>
       <th>
 
-</th>
-      <th>
-
 Zone A 
 
-(en euros) 
+(en €)
 
 </th>
       <th>
 
 Zone B 
 
-(en euros) 
+(en €)
 
 </th>
       <th>
 
 Zone C 
 
-(en euros) 
+(en €)
 
 </th>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule 
-
-</td>
-      <td align="center">
-
-46 630 
+Personne seule
 
 </td>
       <td align="center">
 
-36 039 
+46 807
 
 </td>
       <td align="center">
 
-31 536 
+36 176
+
+</td>
+      <td align="center">
+
+31 656
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Couple 
 
 </td>
       <td align="center">
 
-69 688 
+69 953
 
 </td>
       <td align="center">
 
-48 124 
+48 307
 
 </td>
       <td align="center">
 
-42 386 
+42 547
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule ou couple ayant une personne à charge 
-
-</td>
-      <td align="center">
-
-83 770 
+Personne seule ou couple ayant une personne à charge
 
 </td>
       <td align="center">
 
-57 872 
+84 088
 
 </td>
       <td align="center">
 
-50 742 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge 
+58 092
 
 </td>
       <td align="center">
 
-100 343 
-
-</td>
-      <td align="center">
-
-69 862 
-
-</td>
-      <td align="center">
-
-61 411 
+50 935
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule ou couple ayant trois personnes à charge 
-
-</td>
-      <td align="center">
-
-118 788 
+Personne seule ou couple ayant deux personnes à charge
 
 </td>
       <td align="center">
 
-82 182 
+100 724
 
 </td>
       <td align="center">
 
-72 075 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant quatre personnes à charge 
+70 127
 
 </td>
       <td align="center">
 
-133 666 
-
-</td>
-      <td align="center">
-
-92 616 
-
-</td>
-      <td align="center">
-
-81 303 
+61 644
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Majoration par personne à charge à partir de la cinquième 
-
-</td>
-      <td align="center">
-
-+ 14 899 
+Personne seule ou couple ayant trois personnes à charge
 
 </td>
       <td align="center">
 
-+ 10 330 
+119 239
 
 </td>
       <td align="center">
 
-+ 9 235 
+82 494
 
 </td>
+      <td align="center">
+
+72 349
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Personne seule ou couple ayant quatre personnes à charge
+
+</td>
+      <td align="center">
+
+134 174
+
+</td>
+      <td align="center">
+
+92 968
+
+</td>
+      <td align="center">
+
+81 612
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Majoration par personne à charge à partir de la cinquième
+
+</td>
+      <td align="center">
+
++ 14 956
+
+</td>
+      <td align="center">
+
++ 10 369
+
+</td>
+      <td align="center">
+
++ 9 270</td>
     </tr>
   </tbody>
 </table>
@@ -301,6 +294,11 @@ de l'article 31 du code général des impôts, les plafonds annuels de ressource
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
 
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2010-1601 du 20 décembre 2010, art. 1er-I et du décret n° 2014-1102 du
+30 septembre 2014, art. 2-2° et 3°
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -310,7 +308,6 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Arrêté du 1er août 2014 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. Annexe I à L'article R321-23 (M)
 	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R321-23 (M)
-	  - Code de la construction et de l'habitation. - art. R302-28 (V)
 	  - Code de la construction et de l'habitation. - art. R331-102 (V)
 	  - Code de la construction et de l'habitation. - art. R331-91 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies (V)
@@ -324,7 +321,7 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	**Modifié par**:
 
-	  - Décret n°2014-1102 du 30 septembre 2014 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
@@ -442,7 +439,7 @@ d'achèvement des travaux.L'engagement de conservation des titres formulé par l
 déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son conjoint pour la période postérieure à
 cet événement.
 
-L'engagement de conservation des titres prévu au sixième alinéa du m du 1° du I de l'article 31 du code général des impôts
+L'engagement de conservation des titres prévu au cinquième alinéa du m du 1° du I de l'article 31 du code général des impôts
 est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
 pour la première fois à la déduction calculée en fonction du revenu brut. 
 
@@ -456,16 +453,20 @@ III.-Les associés joignent à chacune de leurs déclarations des revenus y comp
 logement prévue au premier alinéa du j et au deuxième alinéa du l du 1° du I de l'article 31 du code général des impôts un
 exemplaire du document mentionné au II de l'article 2 septdecies.
 
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-366 du 24 mars 2014, art. 122-IV
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies
-	  - Code général des impôts, CGI. - art. 199 septvicies (V)
+	  - Code général des impôts, CGI. - art. 199 septvicies
 	  - Code général des impôts, CGI. - art. 31
 
 
@@ -1139,8 +1140,8 @@ Modifications effectuées en conséquence de l'article 75-I de la loi n° 2011-1
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2014 les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 16,47 € par mètre carré en zone I bis, 14,58 € en zone I, 11,26 € en zone II et 10,63 € en zone III. Les
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2015 les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 16,56 € par mètre carré en zone I bis, 14,66 € en zone I, 11,32 € en zone II et 10,69 € en zone III. Les
 plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article 2
 duodecies. 
 
@@ -1159,7 +1160,7 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
@@ -1176,8 +1177,8 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts dans sa rédaction en
 vigueur avant la publication de la loi n° 2006-872 du 13 juillet 2006 portant engagement national pour le logement, les
-plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2014, à 22,98 € par mètre carré en
-zone A, 15,98 € en zone B et 11,50 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
+plafonds de loyer mensuel, charges non comprises, sont fixés, pour les baux conclus en 2015, à 23,11 € par mètre carré en
+zone A, 16,07 € en zone B et 11,57 € en zone C. Les plafonds sont relevés chaque année, au 1er janvier, selon les mêmes
 modalités que les plafonds de loyer prévus à l'article 2 duodecies. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
@@ -1201,12 +1202,12 @@ l'application de l'article 2 duodecies.
 	**Cite**:
 
 	  - Loi n°2006-872 du 13 juillet 2006
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
 	  - Code général des impôts, CGI. - art. 31
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 
 ###### Article 2 terdecies B
@@ -1214,18 +1215,18 @@ l'application de l'article 2 duodecies.
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
 mensuel, par mètre carré, charges non comprises, sont fixés : 
 
-a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2014, à 22,98 € en zone A, 15,98
-€ en zone B 1,13,06 € en zone B 2 et 9,57 € en zone C ; 
+a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2015, à 23,11 € en zone A, 16,07
+€ en zone B 1,13,13 € en zone B 2 et 9,62 € en zone C ; 
 
 b. S'agissant des logements acquis ou construits à compter du 1er janvier 2011 ou des logements acquis par des sociétés
 civiles de placement immobilier en tout ou partie au moyen de souscriptions réalisées à compter de cette même date, pour les
-baux conclus en 2014, à 22,84 € en zone A bis, 16,94 € dans le reste de la zone A, 13,67 € en zone B 1,11,15 € en zone B 2 et
-7,76 € en zone C.
+baux conclus en 2015, à 22,97 € en zone A bis, 17,04 € dans le reste de la zone A, 13,75 € en zone B 1, 11,21 € en zone B 2
+et 7,80 € en zone C.
 
 Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa
 du a de l'article 2 duodecies.
 
-Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2015, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants
 mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
@@ -1240,6 +1241,11 @@ ministres chargés du budget et du logement et la surface habitable à prendre e
 loyer est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du cinquième alinéa,
 la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle déterminée au III de l'article
 46 AG terdecies.
+
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2006-1005 du 10 août 2006, art. 1er G et  du décret n° 2010-1601 du 20
+décembre 2010, art. 1er-II [1°].
 
 **Liens relatifs à cet article**
 
@@ -1258,7 +1264,7 @@ la surface habitable à prendre en compte pour l'appréciation des plafonds de l
 
 	**Modifié par**:
 
-	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
@@ -1275,14 +1281,14 @@ locataire sont les suivants :
 a. Les plafonds de loyer mensuel, charges non comprises, sont fixés aux quatre cinquièmes, arrondis au centime d'euro le plus
 proche, de ceux mentionnés au :
 
-- a de l'article 2 terdecies B, pour les baux conclus en 2014, s'agissant de logements autres que ceux visés au b de ce même
+- a de l'article 2 terdecies B, pour les baux conclus en 2015, s'agissant de logements autres que ceux visés au b de ce même
 article ;
 
-- b de l'article 2 terdecies B, pour les baux conclus en 2014, s'agissant de logements visés au b de ce même article. 
+- b de l'article 2 terdecies B, pour les baux conclus en 2015, s'agissant de logements visés au b de ce même article. 
 
-Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2015, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux, par mètre
-carré de surface habitable, à 10,43 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,76 € en
+carré de surface habitable, à 10,51 € dans les départements d'outre-mer, à Saint-Barthélemy et Saint-Martin et à 13,80 € en
 Polynésie française, en Nouvelle-Calédonie, à Saint-Pierre-et-Miquelon et dans les îles Wallis et Futuna. Ces plafonds sont
 relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
 
@@ -1290,247 +1296,246 @@ b. Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2015, les plafonds annuels de ressources sont les suivants : 
 
 (en euros) 
 
 <table>
-  <tbody>
-    <tr>
-      <th>COMPOSITION DU FOYER LOCATAIRE
+    <tbody>
+      <tr>
+        <th rowspan="2">COMPOSITION DU FOYER LOCATAIRE
 
 </th>
-      <th colspan="4">
+        <th colspan="4">
 
 LIEU DE LOCATION
 
 </th>
-    </tr>
-    <tr>
-      <th>
-
-</th>
-      <th>
+      </tr>
+      <tr>
+        <th>
 
 Zone A 
 
-(en euros)
+(en €)
 
 </th>
-      <th>
+        <th>
 
 Zone B1 
 
-(en euros)
+(en €)
 
 </th>
-      <th>
+        <th>
 
-Zone B2
+Zone B2 
+
+(en €)
 
 </th>
-      <th>
+        <th>
 
 Zone C 
 
-(en euros)
+(en €)
 
 </th>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-Personne seule
-
-</td>
-      <td align="center">
-
-46 630
+Personne seule 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-34 637
-
-</td>
-      <td align="center">
-
-31 750
+46 807
 
 </td>
-      <td align="center">
+        <td align="center">
 
-31 536
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Couple
+34 769
 
 </td>
-      <td align="center">
+        <td align="center">
 
-69 688
-
-</td>
-      <td align="center">
-
-50 864
+31 871
 
 </td>
-      <td align="center">
+        <td align="center">
 
-46 626
-
-</td>
-      <td align="center">
-
-42 386
+31 656
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-Personne seule ou couple ayant une personne à charge
-
-</td>
-      <td align="center">
-
-83 770
+Couple 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-60 891
-
-</td>
-      <td align="center">
-
-55 817
+69 953
 
 </td>
-      <td align="center">
+        <td align="center">
 
-50 742
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge
+51 057
 
 </td>
-      <td align="center">
+        <td align="center">
 
-100 343
-
-</td>
-      <td align="center">
-
-73 692
+46 803
 
 </td>
-      <td align="center">
+        <td align="center">
 
-67 552
-
-</td>
-      <td align="center">
-
-61 411
+42 547
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-Personne seule ou couple ayant trois personnes à charge
-
-</td>
-      <td align="center">
-
-118 788
+Personne seule ou couple ayant une personne à charge 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-86 491
-
-</td>
-      <td align="center">
-
-79 286
+84 088
 
 </td>
-      <td align="center">
+        <td align="center">
 
-72 075
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant quatre personnes à charge
+61 122
 
 </td>
-      <td align="center">
+        <td align="center">
 
-133 666
-
-</td>
-      <td align="center">
-
-97 562
+56 029
 
 </td>
-      <td align="center">
+        <td align="center">
 
-89 434
-
-</td>
-      <td align="center">
-
-81 303
+50 935
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left">
 
-Majoration par personne à charge supplémentaire à partir de la cinquième
-
-</td>
-      <td align="center">
-
-+ 14 899
+Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-      <td align="center">
+        <td align="center">
 
-+ 11 082
-
-</td>
-      <td align="center">
-
-+ 10 159
+100 724
 
 </td>
-      <td align="center">
+        <td align="center">
 
-+ 9 235</td>
-    </tr>
-  </tbody>
-</table>
+73 972
+
+</td>
+        <td align="center">
+
+67 809
+
+</td>
+        <td align="center">
+
+61 644
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+        <td align="center">
+
+119 239
+
+</td>
+        <td align="center">
+
+86 820
+
+</td>
+        <td align="center">
+
+79 587
+
+</td>
+        <td align="center">
+
+72 349
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+        <td align="center">
+
+134 174
+
+</td>
+        <td align="center">
+
+97 933
+
+</td>
+        <td align="center">
+
+89 774
+
+</td>
+        <td align="center">
+
+81 612
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
+
+Majoration par personne à charge supplémentaire à partir de la cinquième 
+
+</td>
+        <td align="center">
+
++ 14 956
+
+</td>
+        <td align="center">
+
++ 11 124
+
+</td>
+        <td align="center">
+
++ 10 198
+
+</td>
+        <td align="center">
+
++ 9 270</td>
+      </tr>
+    </tbody>
+  </table>
 
 Ces plafonds sont révisés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de ressources prévus à
 l'article 2 duodecies. 
 
-Pour les baux conclus en 2014, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
+Pour les baux conclus en 2015, les ressources des locataires de logements situés outre-mer qui ouvrent droit à la réduction
 d'impôt prévue à l'article 199 septvicies du code général des impôts sont les suivants : 
 
 (en euros) 
@@ -1545,145 +1550,144 @@ d'impôt prévue à l'article 199 septvicies du code général des impôts sont 
 
 DÉPARTEMENTS D'OUTRE-MER, 
 
-Saint-Martin,
+Saint-Martin, Saint-Barthélemy 
 
-Saint-Barthélemy
+(en €)
 
 </th>
         <th>
 
 POLYNÉSIE FRANÇAISE, 
 
-Nouvelle-Calédonie,
+Nouvelle-Calédonie, Saint-Pierre-et-Miquelon, Iles Wallis-et-Futuna 
 
-Saint-Pierre-et-Miquelon,
-
-îles Wallis et Futuna
+(en €)
 
 </th>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left">
 
 Personne seule
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-28 083
-
-</td>
-        <td align="center">
-
-24 639
+28 289
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-Couple
-
-</td>
-        <td align="center">
-
-37 504
-
-</td>
-        <td align="center">
-
-45 566
+24 712
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left">
+
+Couple 
+
+</td>
+        <td valign="bottom" align="center">
+
+37 779
+
+</td>
+        <td align="center" valign="bottom">
+
+45 701
+
+</td>
+      </tr>
+      <tr>
+        <td align="left">
 
 Personne seule ou couple ayant une personne à charge
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-45 100
+45 431
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-48 201
+48 343
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left">
 
 Personne seule ou couple ayant deux personnes à charge
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-54 441
+54 840
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-50 837
+50 987
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left">
 
 Personne seule ou couple ayant trois personnes à charge
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-64 047
+64 517
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-54 358
+54 519
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left">
 
 Personne seule ou couple ayant quatre personnes à charge
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-72 180
+72 709
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-57 881
+58 052
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left">
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-+ 8 054
++ 8 113
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-+ 3 698
++ 3 709
 
 </td>
       </tr>
     </tbody>
-  </table>Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG
-duodecies. 
+  </table>
+
+Ces plafonds sont relevés au 1er janvier de chaque année selon les modalités définies au 1 de l'article 46 AG duodecies. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts. 
@@ -1693,6 +1697,10 @@ budget et du logement et la surface habitable à prendre en compte pour l'appré
 premier alinéa du a est la même que celle prévue au troisième alinéa du a de l'article 2 duodecies. Pour l'application du
 quatrième alinéa du a, la surface habitable à prendre en compte pour l'appréciation des plafonds de loyer est celle
 déterminée au III de l'article 46 AG terdecies.
+
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2006-1005 du 10 août 2006, art. 1er G
 
 **Liens relatifs à cet article**
 
@@ -1707,11 +1715,11 @@ déterminée au III de l'article 46 AG terdecies.
 
 	**Modifié par**:
 
-	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies (M)
 	  - Code général des impôts, CGI. - art. 1417
 	  - Code général des impôts, CGI. - art. 196
@@ -1723,8 +1731,8 @@ déterminée au III de l'article 46 AG terdecies.
 
 I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2014, à 16,72
-€ en zone A bis, 12,42 € dans le reste de la zone A, 10,00 € en zone B 1 et 8,69 € en zone B 2. Ces plafonds sont révisés au
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2015, à 16,82
+€ en zone A bis, 12,49 € dans le reste de la zone A, 10,06 € en zone B 1 et 8,74 € en zone B 2. Ces plafonds sont révisés au
 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la
@@ -1740,243 +1748,242 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants : 
 
-a) Pour les baux conclus en 2014, les plafonds annuels de ressources des locataires sont les suivants : 
+a) Pour les baux conclus en 2015, les plafonds annuels de ressources des locataires sont les suivants : 
 
 <table>
     <tbody>
       <tr>
-        <th>COMPOSITION DU FOYER LOCATAIRE
+        <th rowspan="2">COMPOSITION DU FOYER LOCATAIRE
 
 </th>
         <th colspan="4">
 
-LIEU DE LOCATION
+LIEU DE SITUATION DU LOGEMENT
 
 </th>
       </tr>
       <tr>
         <th>
 
-</th>
-        <th>
-
-Zone A
+Zone A bis 
 
 (en euros)
 
 </th>
         <th>
 
-Zone B1
+Reste de la zone A 
 
 (en euros)
 
 </th>
         <th>
 
-Zone B2
+Zone B 1 
+
+(en euros)
 
 </th>
         <th>
 
-Zone C
+Zone B 2 
 
 (en euros)
 
 </th>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left" valign="middle">
 
 Personne seule
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-36 831
-
-</td>
-        <td align="center">
-
-36 831
+36 971
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-30 019
-
-</td>
-        <td align="center">
-
-27 017
+36 971
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+        <td valign="middle" align="center">
 
-Couple 
+30 133
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-55 045
-
-</td>
-        <td align="center">
-
-55 045
-
-</td>
-        <td align="center">
-
-40 089
-
-</td>
-        <td align="center">
-
-36 079
+27 120
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle" align="left">
+
+Couple
+
+</td>
+        <td valign="middle" align="center">
+
+55 254
+
+</td>
+        <td valign="middle" align="center">
+
+55 254
+
+</td>
+        <td valign="middle" align="center">
+
+40 241
+
+</td>
+        <td align="center" valign="middle">
+
+36 216
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
 
 Personne seule ou couple ayant une personne à charge
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-72 159
-
-</td>
-        <td align="center">
-
-66 169
+72 433
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-48 210
+66 420
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-43 389
+48 393
+
+</td>
+        <td align="center" valign="middle">
+
+43 554
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle" align="left">
 
 Personne seule ou couple ayant deux personnes à charge
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-86 152
-
-</td>
-        <td align="center">
-
-79 257
+86 479
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-58 200
+79 558
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-52 380
+58 421
+
+</td>
+        <td valign="middle" align="center">
+
+52 579
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left" valign="middle">
 
 Personne seule ou couple ayant trois personnes à charge
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-102 503
-
-</td>
-        <td align="center">
-
-93 826
+102 893
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-68 465
+94 183
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-61 619
+68 725
+
+</td>
+        <td align="center" valign="middle">
+
+61 853
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td align="left" valign="middle">
 
 Personne seule ou couple ayant quatre personnes à charge
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-115 344
-
-</td>
-        <td align="center">
-
-105 584
+115 782
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-77 160
+105 985
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-69 443
+77 453
+
+</td>
+        <td valign="middle" align="center">
+
+69 707
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td valign="middle" align="left">
 
 Majoration par personne à charge supplémentaire à partir de la cinquième
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-+ 12 851
-
-</td>
-        <td align="center">
-
-+ 11 764
++ 12 900
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
-+ 8 608
-
-</td>
-        <td align="center">
-
-+ 7 746
++ 11 809
 
 </td>
+        <td align="center" valign="middle">
+
++ 8 641
+
+</td>
+        <td align="center" valign="middle">
+
++ 7 775</td>
       </tr>
     </tbody>
-  </table>Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de
-l'article 2 duodecies ; 
+  </table>
+
+Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2
+duodecies ; 
 
 b) Les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code
 général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière année précédant celle de la
@@ -1999,7 +2006,8 @@ les observatoires et bases de données disponibles ou figurant dans les programm
 
 2. Le représentant de l'Etat dans la région soumet pour avis son projet d'arrêté : 
 
-1° Au comité régional de l'habitat mentionné à l'article L. 364-1 du code de la construction et de l'habitation ; 
+1° Au comité régional de l'habitat et de l'hébergement mentionné à l'article L. 364-1 du code de la construction et de
+l'habitation ; 
 
 2° Aux communes et établissements publics de coopération intercommunale disposant d'un programme local de l'habitat
 exécutoire ainsi qu'aux départements qui ont conclu la convention avec l'Etat prévue à l'article L. 301-5-2 du code de la
@@ -2018,13 +2026,10 @@ postérieurement à l'entrée en vigueur de l'arrêté.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012.
+Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012 et de la loi n°
+2014-366 du 24 mars 2014, art. 33-3°.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
 
 	**Cité par**:
 
@@ -2038,10 +2043,14 @@ Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA terdecies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AZA undecies (M)
 
+	**Modifié par**:
+
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
+
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1417
-	  - Code général des impôts, CGI. - art. 199 novovicies
+	  - Code général des impôts, CGI. - art. 199 novovicies (V)
 	  - Code de la construction et de l'habitation. - art. L301-5-2
 	  - Code de la construction et de l'habitation. - art. L302-1
 	  - Code de la construction et de l'habitation. - art. L302-4-1
@@ -2075,9 +2084,9 @@ alinéa du IV de ce même article, s'entendent des communes classées dans la zo
 I. - Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général
 des impôts sont fixés comme suit : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2014, fixés à 10,02
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2015, fixés à 10,09
 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon,
-et à 12,45 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
+et à 12,49 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de
 l'article 2 terdecies D. 
@@ -2085,7 +2094,7 @@ l'article 2 terdecies D.
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG
 terdecies. 
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2014, les suivants : 
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2015, les suivants : 
 
 <table>
   <tbody>
@@ -2095,147 +2104,139 @@ terdecies.
 </th>
       <th>
 
-LIEU DE SITUATION DU LOGEMENT :
+LIEU DE SITUATION DU LOGEMENT : 
 
-Guadeloupe, Guyane, Martinique,
+Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon 
 
-La Réunion, Mayotte, Saint-Martin,
-
-ou Saint-Pierre-et-Miquelon
-
-(en euros)
+(en €)
 
 </th>
       <th>
 
-LIEU DE SITUATION DU LOGEMENT :
+LIEU DE SITUATION DU LOGEMENT : 
 
-Nouvelle-Calédonie,
+Nouvelle-Calédonie, Polynésie Française, Iles Wallis-et-Futuna 
 
-Polynésie française
-
-îles Wallis et Futuna
-
-(en euros)
+(en €)
 
 </th>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="left">
 
-Personne seule
-
-</td>
-      <td align="center">
-
-27 160
+Personne seule 
 
 </td>
-      <td align="center">
+      <td align="center" valign="bottom">
 
-30 169
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Couple
+27 359
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-36 270
-
-</td>
-      <td align="center">
-
-40 288
+30 258
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="left">
 
-Personne seule ou couple ayant une personne à charge
-
-</td>
-      <td align="center">
-
-43 619
+Couple 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-48 451
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge
+36 536
 
 </td>
-      <td align="center">
+      <td align="center" valign="bottom">
 
-52 658
-
-</td>
-      <td align="center">
-
-58 491
+40 407
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="left">
 
-Personne seule ou couple ayant trois personnes à charge
-
-</td>
-      <td align="center">
-
-61 945
+Personne seule ou couple ayant une personne à charge 
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-68 808
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant quatre personnes à charge
+43 939
 
 </td>
-      <td align="center">
+      <td valign="bottom" align="center">
 
-69 811
-
-</td>
-      <td align="center">
-
-77 546
+48 594
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left" valign="middle">
 
-Majoration par personne à charge supplémentaire à partir de la cinquième
-
-</td>
-      <td align="center">
-
-+ 7 788
+Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-      <td align="center">
+      <td align="center" valign="bottom">
 
-+ 8 650
+53 044
+
+</td>
+      <td valign="bottom" align="center">
+
+58 664
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="left">
+
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+      <td align="center" valign="bottom">
+
+62 399
+
+</td>
+      <td align="center" valign="bottom">
+
+69 011
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="left">
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+      <td valign="bottom" align="center">
+
+70 323
+
+</td>
+      <td valign="bottom" align="center">
+
+77 775
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Majoration par personne à charge supplémentaire à partir de la cinquième 
+
+</td>
+      <td valign="bottom" align="center">
+
++ 7 846
+
+</td>
+      <td align="center" valign="bottom">
+
++ 8 676
 
 </td>
     </tr>
@@ -2260,18 +2261,20 @@ l'article 2 terdecies D, sous réserve des dispositions suivantes :
 1° Les plafonds de loyer réduits sont révisés au 1er janvier de chaque année dans les conditions prévues au II du présent
 article ; 
 
-2° Pour la consultation prévue au 1° du 2 du III de l'article 2 terdecies D, le conseil départemental de l'habitat mentionné
-à l'article L. 364-1 du code de la construction et de l'habitation est substitué au comité régional de l'habitat.
+2° Pour la consultation prévue au 1° du 2 du III de l'article 2 terdecies D, le conseil départemental de l'habitat et de
+l'hébergement mentionné à l'article L. 364-1 du code de la construction et de l'habitation est substitué au comité régional
+de l'habitat et de l'hébergement.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2013-474 du 5 juin 2013.
+Modifications effectuées en conséquence de l'article 1er-1° du décret n° 2013-474 du 5 juin 2013 et de la loi n° 2014-366 du
+24 mars 2014, art. 33-3°.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cité par**:
 
@@ -2286,7 +2289,7 @@ Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (M)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
-	  - Code général des impôts, CGI. - art. 1417
+	  - Code général des impôts, CGI. - art. 1417 (V)
 	  - Code général des impôts, CGI. - art. 196
 	  - Code général des impôts, CGI. - art. 199 novovicies
 	  - Code de la construction et de l'habitation. - art. L364-1
@@ -3388,287 +3391,6 @@ Modifications effectuées en conséquence de l'article 26-I [c] de la loi n° 20
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 39
-
-
-##### D : Provisions pour reconstitution des gisements
-
-##### a : Entreprises de recherches et d'exploitation d'hydrocarbures.
-
-###### Article 10 A
-
-Les entreprises, sociétés et organismes de toute nature qui effectuent la recherche et l'exploitation des hydrocarbures
-liquides ou gazeux dans la France métropolitaine, dans les départements et collectivités d'outre-mer, dans les Etats de la
-Communauté, ainsi qu'en Algérie, au Maroc, en Tunisie, au Togo et au Cameroun sont, à partir des exercices clos en 1952,
-autorisés à constituer en franchise d'impôt sur le revenu ou d'impôt sur les sociétés des provisions pour reconstitution des
-gisements, dans les conditions prévues aux articles 10 B, 10 C et 10 D à 10 F.
-
-**Nota:**
-
-Modification effectuée en conséquence des articles 5 et 8 de la loi n° 2003-276 du 28 mars 2003.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B (P)
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 D
-
-
-###### Article 10 B
-
-1. Le montant de la provision pour reconstitution des gisements ne peut excéder, pour chaque exercice : 
-
-Ni 23,50 % du montant des ventes des produits marchands extraits des gisements d'hydrocarbures exploités par l'entreprise et
-dont les résultats entrent dans le champ d'application de l'article 34 du code général des impôts ; 
-
-Ni 50 % du bénéfice net imposable réalisé au cours de l'exercice considéré et provenant de la vente, en l'état ou après
-transformation, des produits extraits des gisements d'hydrocarbures que l'entreprise possède dans l'ensemble des
-collectivités et pays visés à l'article 10 A. 
-
-2. Pour le calcul prévu au 1, le montant des ventes des produits marchands extraits des gisements d'hydrocarbures s'entend du
-montant net des ventes de pétrole brut, de gaz naturel et des produits éventuellement extraits du gaz naturel, déduction
-faite des ports facturés aux clients et des taxes incorporées dans les prix de vente, notamment de la taxe intérieure de
-consommation visée à l'article 265 du code des douanes. 
-
-Au montant des ventes ainsi déterminées s'ajoutent toutes sommes allouées à l'entreprise à titre de subventions ou de
-protection, sous quelque forme que ce soit, et calculées en fonction des quantités de produits extraits de ses gisements. 
-
-Le bénéfice net d'exploitation dont il est fait état pour le calcul de la deuxième limite de la provision ne comprend pas la
-fraction des provisions antérieurement constituées qui, en application des dispositions de l'article 10 E, serait rapportée
-aux bases de l'impôt. 
-
-Pour la détermination de ce bénéfice net, les déficits d'exploitation sont admis en déduction dans les conditions suivantes. 
-
-En cas de déficit subi au cours d'un exercice dans la métropole et dans les départements d'outre-mer et provenant de la
-vente, en l'état ou après transformation, de produits extraits de gisements d'hydrocarbures que l'entreprise possède dans
-l'ensemble des collectivités visées à l'article 10 A, ce déficit est déduit du bénéfice réalisé au cours de l'exercice
-suivant et provenant des mêmes opérations. Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement
-opérée, l'excédent du déficit est reporté successivement sur les exercices suivants jusqu'au cinquième exercice qui suit
-l'exercice déficitaire.
-
-**Nota:**
-
-Modification effectuée en conséquence des articles 5 et 8 de la loi n° 2003-276 du 28 mars 2003.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 A (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E
-	  - Code général des impôts, CGI. - art. 34
-	  - Code des douanes - art. 265
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
-
-
-###### Article 10 C
-
-La provision constituée à la clôture d'un exercice doit, dans l'un des délais prévus au troisième alinéa du 1 de l'article 39
-ter du code général des impôts, être utilisée : 
-
-a) Soit à tous travaux ou immobilisations nécessaires aux recherches d'hydrocarbures entreprises dans la France
-métropolitaine, dans les départements et les collectivités d'outre-mer, dans les Etats de la Communauté, ainsi qu'en Algérie,
-au Maroc, en Tunisie, au Togo et au Cameroun, à l'exclusion des travaux ou immobilisations portant sur un gisement reconnu
-ayant donné lieu à attribution d'un titre d'exploitation, sauf s'ils sont destinés à améliorer la rémunération des
-hydrocarbures dans ce gisement. 
-
-b) Soit à l'acquisition de participations dans les sociétés et organismes désignés par arrêté du ministre de l'économie et
-des finances et du ministre de l'industrie (2) ayant pour objet d'effectuer la recherche et l'exploitation de gisements
-d'hydrocarbures dans les mêmes collectivités et pays. 
-
-Ne pourront être considérées comme " participations " utilisées au titre de la provision pour reconstitution des gisements
-que : 
-
-a) Les actions, parts sociales ou parts d'intérêts souscrites aux augmentations de capital des sociétés et organismes ci-
-dessus visés et sous réserve que les souscripteurs s'engagent auprès du ministère de l'industrie (direction des carburants) à
-ne pas négocier les titres souscrits pendant un délai de deux ans à compter de la réalisation de l'augmentation de capital ; 
-
-b) Les sommes avancées, sans intérêt, à ces sociétés et organismes en contrepartie soit d'une participation ultérieure au
-capital desdites sociétés ou desdits organismes, soit d'une participation en nature ou en espèces à leur production
-d'hydrocarbures.
-
-**Nota:**
-
-Modification effectuée en conséquence des articles 5 et 8 de la loi n° 2003-276 du 28 mars 2003.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-294 du 1er avril 2008 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 G (P)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 39 ter
-
-
-##### c : Dispositions communes
-
-###### Article 10 D
-
-La provision pour reconstitution des gisements est inscrite au passif du bilan de l'entreprise sous une rubrique spéciale
-faisant ressortir le montant des dotations de chaque exercice.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 A (P)
-
-
-###### Article 10 E
-
-Si elle est utilisée dans le délai et les conditions prévus à l'article 10 C, la provision est définitivement exonérée de
-l'impôt sur le revenu ou de l'impôt sur les sociétés et peut être virée à un compte de réserve quelconque au passif du bilan.
-Les sommes ainsi utilisées en travaux de recherches ou de récupération ou en participations peuvent, dans les conditions
-fixées par le code général des impôts, être comptabilisées en dépenses d'exploitation, faire l'objet d'amortissements annuels
-ou donner lieu à la constitution de provisions pour dépréciation. 
-
-A défaut de remploi dans le délai ci-dessus, la provision est rapportée au bénéfice imposable de l'exercice en cours à la
-date d'expiration de ce délai.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°81-866 du 15 septembre 1981
-
-	**Modifié par**:
-
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C quinquies (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 F (P)
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C
-
-
-###### Article 10 F
-
-En cas de cession ou de cessation d'entreprise ou de décès de l'exploitant, la provision pour reconstitution des gisements
-figurant au dernier bilan est considérée comme un élément du bénéfice immédiatement imposable dans les conditions fixées par
-l'article 201 et le 2 de l'article 204 du code général des impôts. 
-
-Toutefois, la provision n'est pas rapportée au bénéfice imposable lorsque l'exploitation du fonds d'industrie est continuée
-dans les conditions prévues aux articles 41 et 210 A à 210 C du code général susvisé. 
-
-L'application des dispositions du deuxième alinéa est subordonnée à la condition que le délai d'utilisation de la provision
-ne soit pas expiré à la date de la cession et à l'obligation pour les nouveaux exploitants, pour la société absorbante ou
-nouvelle ou pour la société bénéficiaire de l'apport, d'inscrire immédiatement à leur passif la provision figurant dans les
-écritures du précédent exploitant, des sociétés fusionnées ou de la société apporteuse et qui était afférente aux éléments
-transférés et de l'utiliser avant l'expiration du délai imparti à l'ancien exploitant dans les conditions prévues à l'article
-10 C et sous les sanctions fixées à l'article 10 E.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2002-923 du 6 juin 2002
-
-	**Modifié par**:
-
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 E (P)
-	  - Code général des impôts, CGI. - art. 201
-	  - Code général des impôts, CGI. - art. 204
-	  - Code général des impôts, CGI. - art. 210 A
-	  - Code général des impôts, CGI. - art. 41
-
-
-###### Article 10 G
-
-Les entreprises doivent fournir au service des impôts, à l'appui de la déclaration des résultats de chaque exercice, tous
-renseignements utiles sur les éléments de calcul de la provision pour reconstitution des gisements ainsi que sur les
-conditions de son utilisation. 
-
-Elles doivent indiquer, notamment, pour l'exercice considéré : 
-
-a. Le montant net, déterminé comme il est dit à l'article 10 B, des ventes des produits marchands extraits des gisements
-exploités par l'entreprise ; 
-
-b. Le montant du bénéfice net imposable visé à l'article 10 B ; 
-
-c. Et, le cas échéant, le montant des sommes utilisées dans les conditions prévues à l'article 10 C.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 26-I [f] de la loi n° 2013-1278 du 29 décembre 2013.
-
-Les mots : "ou acquis par celle-ci auprès de filiales étrangères dans les conditions prévues au II de l'article 10 C
-quinquies" deviennent sans objet ;
-
-Les mots : "ou du bénéfice net imposable visé à l'article 10 C quinquies" deviennent sans objet.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 B
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 10 C
 
 
 ##### D-0 bis : Provisions pour investissements en faveur des entreprises de presse
@@ -5991,21 +5713,25 @@ déduit d'une rémunération visée à l'article 62 du même code les intérêts
 d'une société nouvelle ou d'une société coopérative de production est soumis aux obligations prévues aux articles 38
 septdecies A à 38 septdecies E.
 
+**Nota:**
+
+En conséquence de l'article 26-I i et XI-5 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans objet.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°85-1007 du 24 septembre 1985
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 30
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies A
 	  - Code général des impôts, CGI. - art. 62
-	  - Code général des impôts, CGI. - art. 83 (M)
+	  - Code général des impôts, CGI. - art. 83
 
 
 ##### V : Bénéfices de l'exploitation agricole
@@ -7032,15 +6758,19 @@ code général des impôts, déduit d'un salaire les intérêts d'un emprunt con
 nouvelle ou d'une société coopérative de production ou pour acquérir des actions ou des parts d'une société en vue de sa
 reprise doit fournir les mêmes renseignements que ceux prévus au troisième alinéa de l'article 43.
 
+**Nota:**
+
+En conséquence de l'article 26-I i et XI-5 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans objet.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°88-1001 du 20 octobre 1988
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 30
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
 
 	**Cité par**:
 
@@ -7134,6 +6864,10 @@ e) (Sans objet).
 f) Les sociétés par actions ou à responsabilité limitée et les    sociétés coopératives de production pour les actions ou
 parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à la suite d'options.
 
+**Nota:**
+
+En conséquence de l'article 26-I i et XI-5 de la loi n° 2013-1278 du 29 décembre 2013, cet article devient sans objet.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -7145,9 +6879,9 @@ parts souscrites ou reçues en rémunération de l'apport de valeurs acquises à
 
 	  - Décret n°2000-477 du 2 juin 2000
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2014-856 du 31 juillet 2014 - art. 30
+	  - PERIME: Décret n°2017-698 du 2 mai 2017 - art. 3
 
 
 ###### Article 38 septdecies E
@@ -11217,8 +10951,8 @@ l'administration et comportant, pour l'année précédente, les renseignements s
 
 a. La raison sociale et l'adresse du siège social du groupement ou de la société ; 
 
-b. Dans les cas prévus aux b et c du 2 de l'article 199 decies H précité et au 2° du 2 de l'article 200 quindecies précité
-précité, l'attestation que les engagements mentionnés au I ont été pris et sont respectés. 
+b. Dans les cas prévus aux b et c du 2 de l'article 199 decies H précité et au 2° du 2 de l'article 200 quindecies précité,
+l'attestation que les engagements mentionnés au I ont été pris et sont respectés. 
 
 c. Dans le cas prévu au 2° du 2 de l'article 200 quindecies précité, la nature de la garantie de gestion durable applicable à
 l'unité de gestion concernée, la nature, le montant total et la date de paiement des travaux forestiers ; le cas échéant, le
@@ -11273,15 +11007,11 @@ opérations qui l'affectent jusqu'à la fin de la troisième année suivant cell
 des parts prévu aux b et c de l'article 199 decies H du code général des impôts et au 2° du 2 de l'article 200 quindecies du
 même code.
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 2, 3, 6 et 7  du décret n° 2012-836 du 29 juin 2012.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1114 du 2 octobre 2014 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
@@ -11417,14 +11147,14 @@ En cas de changement d'exploitant de la résidence, les dispositions du II sont 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
 du locataire sont les suivants : 
 
-1. Pour les baux conclus en 2014, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+1. Pour les baux conclus en 2015, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
 habitable à : 
 
-1° 167 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
+1° 169 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
 janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
 consommation hors tabac de chacun des cinq départements d'outre-mer ; 
 
-2° 209 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
+2° 210 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
 Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que
 la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la
 Nouvelle-Calédonie. 
@@ -11445,170 +11175,161 @@ Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut d
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
 établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure. 
 
-Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2015, les plafonds annuels de ressources sont les suivants : 
 
 (en euros) 
 
 <table>
     <tbody>
       <tr>
-        <th>COMPOSITION DU FOYER LOCATAIRE
+        <th rowspan="2">COMPOSITION DU FOYER DU LOCATAIRE 
 
 </th>
         <th colspan="2">
 
-PLAFOND ANNUEL DE RESSOURCES
+PLAFOND ANNUEL DE RESSOURCES 
+
+(en €) 
 
 </th>
       </tr>
       <tr>
         <th>
 
-</th>
-        <th>
-
-Départements d'outre-mer, 
-
-Saint-Martin et Saint-Barthélemy
+Départements d'outre-mer, Saint-Barthélemy et Saint-Martin 
 
 </th>
         <th>
 
-Polynésie française, 
+Polynésie française ; 
 
-Nouvelle-Calédonie,
-
-îles Wallis et Futuna
-
-Saint-Pierre-et-Miquelon,
-
-Terres australes
-
-et antarctiques françaises
+Nouvelle-Calédonie ; îles Wallis-et-Futuna ; Terres australes et antarctiques françaises et Saint-Pierre-et-Miquelon 
 
 </th>
       </tr>
       <tr>
-        <td align="center">
+        <td>
 
-Personne seule
-
-</td>
-        <td align="center">
-
-31 430
+Personne seule 
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-30 323
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Couple
+31 661 
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-58 129
-
-</td>
-        <td align="center">
-
-56 081
+30 413 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td>
 
-Personne seule ou couple ayant une personne à charge
-
-</td>
-        <td align="center">
-
-61 491
+Couple 
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-59 324
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge
+58 555 
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-64 853
-
-</td>
-        <td align="center">
-
-62 569
+56 247 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td>
 
-Personne seule ou couple ayant trois personnes à charge
-
-</td>
-        <td align="center">
-
-69 346
+Personne seule ou couple ayant une personne à charge 
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-66 902
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-Personne seule ou couple ayant quatre personnes à charge
+61 942 
 
 </td>
-        <td align="center">
+        <td align="center" valign="bottom">
 
-73 839
-
-</td>
-        <td align="center">
-
-71 236
+59 499 
 
 </td>
       </tr>
       <tr>
-        <td align="center">
+        <td>
 
-Majoration par personne à charge à partir de la cinquième
-
-</td>
-        <td align="center">
-
-+ 4 718
+Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-        <td align="center">
+        <td valign="bottom" align="center">
 
-+ 4 551
+65 329 
+
+</td>
+        <td align="center" valign="bottom">
+
+62 754 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+        <td valign="bottom" align="center">
+
+69 854 
+
+</td>
+        <td align="center" valign="bottom">
+
+67 100 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+        <td valign="bottom" align="center">
+
+74 380 
+
+</td>
+        <td align="center" valign="bottom">
+
+71 446 
+
+</td>
+      </tr>
+      <tr>
+        <td>
+
+Majoration par personne à charge à partir de la cinquième 
+
+</td>
+        <td valign="bottom" align="center">
+
++ 4 753 
+
+</td>
+        <td align="center" valign="bottom">
+
++ 4 565 
 
 </td>
       </tr>
     </tbody>
-  </table>Ces plafonds sont relevés chaque année selon les modalités définies au 1. 
+  </table>
+
+Ces plafonds sont relevés chaque année selon les modalités définies au 1. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts. 
@@ -11630,7 +11351,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1
 
 	**Modifié par**:
 
-	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cité par**:
 
@@ -12724,8 +12445,8 @@ l'exception des capteurs horizontaux.
 
 II.-Pour justifier du respect de critères de qualification mentionnés au second alinéa du 2 de l'article 200 quater du code
 général des impôts , l'entreprise qui procède à la fourniture et à l'installation des équipements, matériaux et appareils
-mentionnés au I du présent article doit être titulaire d'un signe de qualité conformément à l'article 2 du décret 2014-812 du
-16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du
+mentionnés au I du présent article doit être titulaire d'un signe de qualité conformément à l'article 2 du décret n° 2014-812
+du 16 juillet 2014 pris pour l'application du second alinéa du 2 de l'article 200 quater du code général des impôts et du
 dernier alinéa du 2 du I de l'article 244 quater U du code général des impôts. 
 
 Lorsque l'entreprise réalise plusieurs travaux mentionnés au I du présent article, seuls les travaux relevant de catégories
@@ -12745,10 +12466,6 @@ modifiée par l'article 1 du décret n° 2015-1262).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2014-812 du 16 juillet 2014 - art. 1
-
 	**Cité par**:
 
 	  - Décret n°2014-812 du 16 juillet 2014 - art. 2 (V)
@@ -12757,6 +12474,10 @@ modifiée par l'article 1 du décret n° 2015-1262).
 	  - Arrêté du 23 juillet 2015 - art. 1 (VD)
 	  - Arrêté du 23 juillet 2015 - art. 10 (VD)
 	  - Code de l'énergie - art. R124-4 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 
 ##### 13° : Réduction d'impôt accordée au titre de l'aide apportée à certains créateurs d'entreprise
@@ -14976,161 +14697,6 @@ suivant celui de la réalisation de l'événement.
 
 	  - PEREMPTION: Décret n°98-400 du 22 mai 1998 - art. 3 () JORF 24 mai 1998
 	  - HISTO: Edition du 22 avril 1998
-
-
-##### Section VI ter : Crédit d'impôt pour investissement en faveur des entreprises implantées dans certains secteurs de la région Nord - Pas-de-Calais.
-
-###### Article 46 quater-0 YF
-
-La date de constitution de la personne morale bénéficiaire du crédit d'impôt institué par l'article 220 septies du code
-général des impôts est celle de son immatriculation au registre du commerce et des sociétés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°93-1160 du 12 octobre 1993 - art. 1 (V) JORF 14 octobre 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 220 septies
-
-
-###### Article 46 quater-0 YG
-
-Pour l'application du I de l'article 220 septies du code général des impôts, la date de réalisation des investissements est,
-pour les biens acquis, la date de leur livraison à la personne morale bénéficiaire du crédit d'impôt et, pour les biens loués
-en crédit-bail, la date de leur mise à la disposition de cette personne morale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°93-1160 du 12 octobre 1993 - art. 2 (V) JORF 14 octobre 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 220 septies
-
-
-###### Article 46 quater-0 YH
-
-Dans les limites fixées au II de l'article 220 septies du code général des impôts, la personne morale peut imputer le crédit
-d'impôt prévu au I du même article lors du paiement du solde de l'impôt sur les sociétés dû au titre des résultats des
-exercices clos à compter de la date à laquelle l'immobilisation lui a été livrée ou, en cas de bien loué en crédit-bail, mise
-à sa disposition. L'imputation s'opère après celle des crédits d'impôt non restituables.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°93-1160 du 12 octobre 1993 - art. 3 (V) JORF 14 octobre 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-899 1994-10-17
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 220 septies
-
-
-###### Article 46 quater-0 YI
-
-Les personnes morales qui demandent le bénéfice du crédit d'impôt prévu au I de l'article 220 septies du code général des
-impôts doivent joindre à la déclaration des résultats de chaque exercice au cours duquel des investissements ouvrant droit au
-crédit d'impôt ont été réalisés un état relatif à ces investissements mentionnant pour chacun d'eux : 
-
-1° Sa nature ; 
-
-2° Sa durée d'amortissement ; 
-
-3° Son mode de réalisation ; 
-
-4° La désignation du vendeur et la date de la livraison du bien pour les biens acquis ou la désignation de la société de
-crédit-bail et la date de la mise à la disposition pour les biens loués en crédit-bail ; 
-
-5° Le prix de revient hors taxes ; 
-
-6° Le montant des subventions obtenues à raison du bien ; 
-
-7° Le crédit d'impôt correspondant. 
-
-Pour les biens loués en crédit-bail, cet état est accompagné d'une attestation délivrée par la société de crédit-bail
-précisant la nature du bien, sa date d'acquisition et la désignation du vendeur, son prix de revient hors taxes, la date du
-contrat de crédit-bail et sa durée ainsi que la date à laquelle le bien a été mis à la disposition de la personne morale. 
-
-Le modèle de chacun de ces documents est fixé par l'administration.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°93-1160 du 12 octobre 1993 - art. 4 (V) JORF 14 octobre 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-899 du 17 octobre 1994
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 220 septies
-
-
-###### Article 46 quater-0 YJ
-
-Les personnes morales qui bénéficient du crédit d'impôt prévu au I de l'article 220 septies du code général des impôts
-doivent joindre au relevé de solde de chacun des exercices clos dans les dix ans de leur constitution, un document conforme
-au modèle fixé par l'administration faisant apparaître les renseignements suivants : 
-
-1° Les éléments de calcul du crédit d'impôt donnant lieu à une imputation sur l'impôt sur les sociétés ou à un reversement ; 
-
-2° Les modalités de détermination de l'impôt sur les sociétés sur lequel le crédit d'impôt est imputable conformément aux
-dispositions du II de l'article 220 septies précité ; 
-
-3° L'effectif de salariés au cours de l'exercice conformément au 4° du IV du même article ; 
-
-4° La nature de chaque bien affecté par l'un des événements mentionnés au premier alinéa du III de l'article 220 septies
-susmentionné, l'événement affectant le bien et la date de cet événement ainsi que le crédit d'impôt correspondant au bien
-concerné.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2004-1152 2004-10-29 art. 1 C JORF 30 octobre 2004 en vigueur le 1er novembre 2004
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 220 septies
 
 
 ##### Section VI quater : Crédit d'impôt pour dépenses de production déléguée d'oeuvres cinématographiques ou audiovisuelles
@@ -18934,11 +18500,11 @@ moyens d'exploitation ne sont pas situés dans les  zones franches urbaines-terr
 joindre en annexe à cette déclaration un compte séparé faisant apparaître, pour chaque immeuble situé dans ces zones, le
 bénéfice net provenant de son exploitation.
 
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-1655 du 29 décembre 2014, art. 48-III.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 48
 
 	**Cite**:
 
@@ -18954,11 +18520,10 @@ ou les lieux antérieurs d'exercice de cette activité et le service des impôts
 été souscrites. Il indique également, le cas échéant, la nature et le montant des subventions et aides qui lui ont été
 accordées par l'Etat et les collectivités publiques.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Modifié par**:
+Modification effectuée en conséquence de la loi n° 2014-1655 du 29 décembre 2014, art. 48-III.
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 48
 
 
 ###### Article 49 P
@@ -19169,9 +18734,10 @@ transformation sous douane défini aux articles 130 à 136 du règlement (CEE) n
 
 2. Le contribuable qui a bénéficié des dispositions de l'article 44 quaterdecies du code général des impôts au titre de
 l'exercice précédent joint à sa déclaration de résultat le reçu délivré par la Caisse des dépôts et consignations au titre
-des sommes versées au fonds d'appui aux expérimentations en faveur des jeunes mentionné à l'article 25 de la loi n° 2008-1249
-du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion, ainsi qu'un
-document conforme à un modèle établi par l'administration sur lequel sont portés : 
+des sommes versées au fonds d'appui aux expérimentations en faveur des jeunes et de leur engagement pour des causes d'intérêt
+général mentionné à l'article 25 de la loi n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et
+réformant les politiques d'insertion, ainsi qu'un document conforme à un modèle établi par l'administration sur lequel sont
+portés : 
 
 1° Le montant des dépenses exposées par le contribuable en application des articles 235 ter D et 235 ter KA du même code ; 
 
@@ -19185,17 +18751,21 @@ II.-L'option mentionnée au VII de l'article 44 quaterdecies du code général d
 service des impôts auprès duquel est souscrite la déclaration de résultat de l'entreprise ou la déclaration d'ensemble des
 revenus du contribuable dont l'entreprise n'est pas soumise à un régime réel d'imposition.
 
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-856 du 31 juillet 2014, art. 66.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2008-1249 du 1er décembre 2008 - art. 25
-	  - Code général des impôts, CGI. - art. 235 ter D (V)
-	  - Code général des impôts, CGI. - art. 44 quaterdecies
+	  - Code général des impôts, CGI. - art. 235 ter D
+	  - Code général des impôts, CGI. - art. 44 quaterdecies (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-135 du 10 février 2010 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 
 ###### Article 49 ZC
@@ -21155,14 +20725,18 @@ l'attestation portant le calcul du crédit d'impôt et délivrée par l'organism
 construction et de l'habitation pour la communication par l'établissement de crédit ou la société de financement des
 informations concernant les avances qui font apparaître un avantage indûment perçu par l'emprunteur. Par dérogation, les
 éléments de nature à modifier le montant du crédit d'impôt en raison de l'avantage indûment perçu par l'emprunteur mentionné
-à l'article R. 319-30 du même code doivent figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration
+à l'article R.* 319-30 du même code doivent figurer sur l'attestation délivrée au plus tard le 31 mars qui suit l'expiration
 de la période de neuf mois mentionnée à la deuxième phrase du même article.
+
+**Nota:**
+
+Modification effectuée en conséquence du décret n° 2014-1315 du 3 novembre 2014, art. 11-26°.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
@@ -21277,13 +20851,18 @@ portant pas intérêt doivent être pris en compte dans leur totalité à compte
 Les éléments de nature à modifier le montant du crédit d'impôt doivent être déclarés par les établissements de crédit ou les
 sociétés de financement au plus tard le 31 mars qui suit l'année du premier versement des prêts ne portant pas intérêt à
 l'organisme mentionné au cinquième alinéa de l'article L. 312-1 du code de la construction et de l'habitation pour la
-production de l'attestation portant le calcul du crédit d'impôt et délivrée par cet organisme à ces établissements. 
+production de l'attestation portant le calcul du crédit d'impôt et délivrée par cet organisme à ces établissements ou
+société. 
 
 Par exception, les événements mentionnés aux II et III de l'article 199 ter T du code général des impôts doivent être
 déclarés dans les trois mois qui suivent leur déclaration par l'emprunteur à l'établissement de crédit ou la société de
 financement ou l'expiration du délai de déclaration laissé à l'emprunteur pour justifier de certaines conditions du prêt en
 application de l'arrêté mentionné à l'article R. 31-10-4 du code de la construction et de l'habitation. Ils doivent alors
 être pris en compte pour la production de l'attestation le 31 mars suivant.
+
+**Nota:**
+
+Modification effectuée en conséquence du décret n° 2014-1316 du 3 novembre 2014, art. 10-11°.
 
 **Liens relatifs à cet article**
 
@@ -21294,7 +20873,7 @@ application de l'arrêté mentionné à l'article R. 31-10-4 du code de la const
 
 	**Modifié par**:
 
-	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
@@ -21822,18 +21401,18 @@ situées dans la zone A telle que définie par l'arrêté des ministres chargés
 304-1 du code de la construction et de l'habitation. 
 
 II.-Le montant du loyer mensuel, charges non comprises, mentionné au I de l'article 234 du code général des impôts, au-delà
-duquel les logements sont soumis à raison des loyers perçus à la taxe prévue par cet article, est fixé à 41,37 € par mètre
+duquel les logements sont soumis à raison des loyers perçus à la taxe prévue par cet article, est fixé à 41,61 € par mètre
 carré de surface habitable pour les logements donnés en location nue ou meublée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 234
+	  - Code général des impôts, CGI. - art. 234 (M)
 	  - Code de la construction et de l'habitation. - art. R304-1
 
 
@@ -22399,32 +21978,6 @@ correspondantes.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 72 (V)
-
-
-###### Article 73-0 A
-
-Pour l'application du deuxième alinéa de l'article 298 septies du code général des impôts, les taux réduits de la taxe sur la
-valeur ajoutée s'appliquent à hauteur de la part du prix hors taxe de l'offre composite représentative de la livraison de la
-publication imprimée. La détermination de cette part par l'éditeur peut être réalisée selon toute méthode traduisant la
-réalité économique des opérations.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article unique de la loi n° 2014-237 du 27 février 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-115 du 27 janvier 2011 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 298 septies
 
 
 ##### C : Transports, opérations et services exonérés
@@ -26174,7 +25727,7 @@ les déchets de fabrication.
 I. - Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les destinataires enregistrés
 mentionnés à l'article 302 H ter du même code bénéficient respectivement de la dispense de caution prévue au 2 du III de
 l'article 302 D et au premier alinéa du I de l'article 302 H ter du code précité lorsque les droits d'accise dont ils sont
-redevables n'excèdent pas un montant annuel de 20 350 €. Ce montant est relevé au 1er janvier de chaque année dans une
+redevables n'excèdent pas un montant annuel de 20 492 €. Ce montant est relevé au 1er janvier de chaque année dans une
 proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Il est
 arrondi à l'euro le plus proche, la fraction d'euro égale à 0,50 est comptée pour 1. Ce relèvement ne peut excéder 1,75 %. 
 
@@ -26203,13 +25756,13 @@ période de douze mois à compter du démarrage de leur activité, information q
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 1er [1°] et 4 du décret n° 2013-887 du 2 octobre 2013.
+Modifications effectuées en conséquence des articles 1er 1° et 4 du décret n° 2013-887 du 2 octobre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cité par**:
 
@@ -32686,7 +32239,7 @@ trente jours suivant la réception de la demande de l'administration fiscale.
 ###### Article 321 H
 
 I. ― Pour l'application de la majoration prévue par l'article 1396 du code général des impôts, la valeur forfaitaire moyenne
-au mètre carré est fixée à 201 € en zone A, 104 € en zone B1, 74 € en zone B2 et 38 € en zone C. 
+au mètre carré est fixée à 203 € en zone A, 105 € en zone B1, 75 € en zone B2 et 38 € en zone C. 
 
 Pour l'application du présent article, les zones A, B1, B2 et C sont celles prévues pour l'application des articles 2
 terdecies B et 2 terdecies C et définies par arrêté des ministres chargés du budget et du logement. 
@@ -32703,12 +32256,12 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2007-1
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies B
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C
 	  - Code général des impôts, CGI. - art. 1396
 
 
@@ -33138,15 +32691,20 @@ La demande d'exonération de cotisation foncière des entreprises doit être for
 
 ###### Article 322 O
 
-Lorsque, dans une même commune, une entreprise exploite plusieurs établissements situés dans et hors de la  zone franche
-urbaine-territoire entrepreneur ou de la zone de redynamisation urbaine, elle doit déclarer séparément les éléments passibles
-de la cotisation foncière des entreprises pour chacun des établissements qui sont situés dans la zone.
+Lorsque, dans une même commune, une entreprise exploite plusieurs établissements situés dans et hors de la zone franche
+urbaine-territoire entrepreneur, elle doit déclarer séparément les éléments passibles de la cotisation foncière des
+entreprises pour chacun des établissements qui sont situés dans la zone.
+
+**Nota:**
+
+<font color="#000000" size="1">Modification effectuée en conséquence de la loi n° 2014-173 du 21 février 2014, articles 27-2°
+b et 30-II et de la loi n° 2014-1655 du 29 décembre 2014, article 48-III.</font>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2014-1655 du 29 décembre 2014 - art. 48
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 
 ###### Article 322 Q
@@ -35620,82 +35178,6 @@ obligations définies à l'article 53 A du code général des impôts sont tiré
 
 ##### Section IV : Autres taxes communales
 
-###### Article 325 bis
-
-Pour l'application de l'article 1522 bis du code général des impôts :
-
-1° La direction générale des finances publiques adresse chaque année à la commune ou à l'établissement public de coopération
-intercommunale au profit duquel est perçue une part incitative de la taxe d'enlèvement des ordures ménagères, la liste des
-locaux imposés à la taxe d'enlèvement des ordures ménagères au titre de l'année.
-
-Cette liste précise, pour chaque local :
-
-a. les codes département et direction de la direction générale des finances publiques ;
-
-b. le code collectivité ;
-
-c. le numéro d'invariant et le numéro PEV ;
-
-d. le code siret de la commune ou de l'établissement public de coopération intercommunale ;
-
-e. le code préfixe de section ;
-
-f. le code de section ;
-
-g. le numéro de plan ;
-
-h. le numéro de bâtiment, d'escalier, d'étage et de porte ;
-
-i. la nature du local ;
-
-j. le numéro de voirie ;
-
-k. l'indice de répétition ;
-
-l. le libellé et le code rivoli de la voie ;
-
-m. le code civilité ou la forme juridique du propriétaire au 1er janvier de l'année ;
-
-n. le nom et le prénom du propriétaire au 1er janvier de l'année ;
-
-o. le nom de l'occupant au 1er janvier de l'année précédente ;
-
-p. la valeur locative foncière retenue pour l'établissement de la taxe d'enlèvement des ordures ménagères au titre de
-l'année.
-
-2° La commune ou, le cas échéant, l'établissement public de coopération intercommunale complète, pour chaque local figurant
-sur la liste mentionnée au 1°, le montant en euro de la part incitative de taxe d'enlèvement des ordures ménagères au cours
-de l'année précédente. Cette liste complétée est transmise à la direction générale des finances publiques avant la date
-limite de transmission des décisions relatives aux taux de fiscalité directe locale mentionnée à l'article 1639 A du code
-général des impôts ;
-
-3° (Abrogé)
-
-4° Les syndicats mixtes sont substitués à leurs établissements publics de coopération intercommunale adhérents pour
-l'application des dispositions prévues aux 1° et 2°, lorsque ces derniers perçoivent la part incitative de taxe d'enlèvement
-des ordures ménagères en application des dispositions du 2 du VI de l'article 1379-0 bis du code général des impôts.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 53-I [12°] et IV de la loi n° 2014-1545 du 20 décembre 2014.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2014-932 du 19 août 2014 - art. 1
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1379-0 bis
-	  - Code général des impôts, CGI. - art. 1522 bis
-	  - Code général des impôts, CGI. - art. 1639 A
-
-
 ###### Article 326
 
 Pour l'application de l'article 1528 du code général des impôts : 
@@ -36259,62 +35741,6 @@ doit être inférieur à 6 400 €.
 	  - Code général des impôts, CGI. - art. 1594 I ter
 
 
-### Titre I ter : Impositions perçues au profit des régions et de la collectivité territoriale de Corse
-
-#### Chapitre unique : Taxe d'apprentissage
-
-###### Article 328 J bis
-
-Le montant de la fraction de taxe d'apprentissage obligatoirement réservée au développement de l'apprentissage en application
-de l'article 1599 ter D du code général des impôts est fixé conformément aux dispositions de l'article D. 6241-8 du code du
-travail pour la métropole et aux dispositions du 2° de l'article D. 6522-1 du code précité pour les départements d'outre-mer,
-Saint-Barthélemy et Saint-Martin.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 8-I-1° et VI de la loi n° 2014-891 du 8 août 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Anciens textes**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 50-0 bis (T)
-
-
-###### Article 328 J ter
-
-Le montant de la fraction de taxe d'apprentissage versée au Trésor public en application de l'article 1599 ter D du code
-général des impôts est fixé conformément aux dispositions de l'article D. 6241-9 du code du travail pour la métropole et aux
-dispositions du 3° de l'article D. 6522-1 du code précité pour les départements d'outre-mer, Saint-Barthélemy et Saint-
-Martin.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 8-I-1° et VI de la loi n° 2014-891 du 8 août 2014.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Anciens textes**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 50-0 ter (T)
-
-
 ### Titre Ier quater : Autres impositions perçues au profit des collectivités territoriales ou de certains établissements publics
 
 #### Chapitre unique : Imposition forfaitaire sur les entreprises de réseaux
@@ -36349,24 +35775,28 @@ service des impôts dont relève leur établissement principal, au moyen d'un su
 caractéristiques sont fixées par l'administration. En l'absence d'établissement sur le territoire national, ces entreprises
 demandent leur immatriculation auprès du service des impôts des entreprises de la direction des résidents à l'étranger et des
 services généraux (DRESG) et transmettent une déclaration au service des impôts dont relève l'établissement principal de
-l'établissement public Réseau ferré de France.
+l'établissement public SNCF Réseau.
+
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-872 du 4 août 2014, articles 25-II et 40.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-714 du 28 juin 2010 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1599 quater A (V)
+	  - Code général des impôts, CGI. - art. 1599 quater A (M)
 
 
 ###### Article 328 N
 
-L'établissement public Réseau ferré de France dépose auprès du service de fiscalité directe locale dont relève son
-établissement principal, au plus tard le 31 mars de chaque année, la déclaration prévue à l'article 1649 A ter du code
-général des impôts au moyen d'un support papier ou dématérialisé dont les caractéristiques sont fixées par l'administration. 
+L'établissement public SNCF Réseau dépose auprès du service de fiscalité directe locale dont relève son établissement
+principal, au plus tard le 31 mars de chaque année, la déclaration prévue à l'article 1649 A ter du code général des impôts
+au moyen d'un support papier ou dématérialisé dont les caractéristiques sont fixées par l'administration. 
 
 Cette déclaration mentionne : 
 
@@ -36377,16 +35807,20 @@ transport de voyageurs l'année précédente : dénomination sociale, adresse co
 2° Le nombre de sillons-kilomètres réservés l'année précédente pour des opérations de transport de voyageurs et répartis par
 région.
 
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-872 du 4 août 2014, articles 25-II et 40.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-714 du 28 juin 2010 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-221
-	  - Code général des impôts, CGI. - art. 1649 A ter
+	  - Code général des impôts, CGI. - art. 1649 A ter (V)
 
 
 ###### Article 328 O
@@ -37050,17 +36484,17 @@ concerne la destination des produits, les quantités utilisées et le paiement a
 
 ###### Article 331 W
 
-Le taux de la redevance mentionnée à l'article 1609 tertricies du code général des impôts est de 5,9 %.
+Le taux de la redevance mentionnée à l'article 1609 tertricies du code général des impôts est de 6,1 %.
 
 **Nota:**
 
-Modification effectuée en conséquence des articles 1er et 2 du décret n° 2013-1320 du 27 décembre 2013.
+Modification effectuée en conséquence des articles 1er et 2 du décret n° 2014-1694 du 30 décembre 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 
 #### Chapitre II : Contributions indirectes
@@ -37421,8 +36855,8 @@ renouvellement ou de modification de cette autorisation :
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="246"> </td>
-      <td width="151" valign="top">
+      <td width="246" valign="top">
+      </td><td valign="top" width="151">
 
 DEMANDE EFFECTUÉE 
 
@@ -37473,7 +36907,7 @@ du code de la santé publique
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 1° Demande d'autorisation de mise sur le marché relative à une spécialité pharmaceutique ou à un autre médicament mentionné à
 l'article L. 5121-8 du code de la santé publique présentée conformément aux articles 
@@ -37486,7 +36920,7 @@ R. 5121-21 et R. 5121-25 du même code
 50 000 € 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 34 000 € 
 
@@ -37498,13 +36932,13 @@ R. 5121-21 et R. 5121-25 du même code
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spécialité ou d'un autre médicament mentionné à
 l'article L. 5121-8 du code de la santé publique présenté simultanément à la première demande d'autorisation 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 25 000 € 
 
@@ -37521,7 +36955,7 @@ l'article L. 5121-8 du code de la santé publique présenté simultanément à l
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 2° Demande d'autorisation de mise sur le marché relative à : 
 
@@ -37529,7 +36963,7 @@ l'article L. 5121-8 du code de la santé publique présenté simultanément à l
       <td width="151" valign="top">
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 </td>
       <td valign="top" width="170">
@@ -37543,24 +36977,24 @@ a) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'ar
 présentée conformément au 2° de l'article R. 5121-26 du même code contenant une nouvelle association 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 35 000 € 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 23 000 € 
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 23 000 € 
 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 b) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
@@ -37569,7 +37003,7 @@ L. 5121-8 du code de la santé publique, présentée conformément au 3° de l'a
 R. 5121-28 du code précité et relative à une voie d'administration différente de celle de la demande initiale 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 35 000 € 
 
@@ -37579,7 +37013,7 @@ R. 5121-28 du code précité et relative à une voie d'administration différent
 23 000 € 
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 23 000 € 
 
@@ -37598,12 +37032,12 @@ L. 5121-8 du code de la santé publique, présentée conformément au 1° de l'a
 35 000 € 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 23 000 € 
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 23 000 € 
 
@@ -37626,14 +37060,14 @@ conformément au 2° de l'article R. 5121-28 du code précité et relative à un
 23 000 € 
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
 
 23 000 € 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spécialité ou autre médicament mentionné à l'article L.
 5121-8 du code de la santé publique présenté simultanément à la première demande d'autorisation relevant des a, b, c ou d du
@@ -37650,7 +37084,7 @@ présent 2°
 11 500 € 
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
 
 11 500 € 
 
@@ -37665,7 +37099,7 @@ présent 2°
       <td valign="top" width="151">
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 </td>
       <td width="170" valign="top">
@@ -37673,7 +37107,7 @@ présent 2°
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 a) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
@@ -37692,7 +37126,7 @@ d'administration ni de l'indication thérapeutique
 14 000 € 
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 14 000 € 
 
@@ -37725,7 +37159,7 @@ R. 5121-29-1 du même code
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 c) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
@@ -37733,12 +37167,12 @@ L. 5121-8 du code de la santé publique, relative à une nouvelle forme pharmace
 d'administration ni de l'indication thérapeutique 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 21 000 € 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 14 000 € 
 
@@ -37760,7 +37194,32 @@ des différences relatives à la substance active ou lorsque la bioéquivalence 
 5121-29-1 du code précité 
 
 </td>
+      <td valign="top" width="151">
+
+21 000 € 
+
+</td>
       <td width="151" valign="top">
+
+14 000 € 
+
+</td>
+      <td width="170" valign="top">
+
+14 000 € 
+
+</td>
+    </tr>
+    <tr>
+      <td width="246" valign="top">
+
+e) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
+
+L. 5121-8 du code de la santé publique, présentée conformément au 3° de l'article R. 5121-26 du code précité et concernant
+des différences relatives à la substance active ou le changement de la biodisponibilité ou de la pharmacocinétique 
+
+</td>
+      <td valign="top" width="151">
 
 21 000 € 
 
@@ -37779,13 +37238,12 @@ des différences relatives à la substance active ou lorsque la bioéquivalence 
     <tr>
       <td valign="top" width="246">
 
-e) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
+f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
-L. 5121-8 du code de la santé publique, présentée conformément au 3° de l'article R. 5121-26 du code précité et concernant
-des différences relatives à la substance active ou le changement de la biodisponibilité ou de la pharmacocinétique 
+L. 5121-8 du code de la santé publique consistant en allergène, par famille de produits 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 21 000 € 
 
@@ -37804,42 +37262,18 @@ des différences relatives à la substance active ou le changement de la biodisp
     <tr>
       <td width="246" valign="top">
 
-f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
-
-L. 5121-8 du code de la santé publique consistant en allergène, par famille de produits 
-
-</td>
-      <td width="151" valign="top">
-
-21 000 € 
-
-</td>
-      <td width="151" valign="top">
-
-14 000 € 
-
-</td>
-      <td width="170" valign="top">
-
-14 000 € 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="246">
-
 g) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
 L. 5121-8 du code de la santé publique consistant en un médicament homéopathique :
 
 </td>
-      <td valign="top" width="151">
-
-</td>
       <td width="151" valign="top">
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="151">
+
+</td>
+      <td valign="top" width="170">
 
 </td>
     </tr>
@@ -37866,12 +37300,12 @@ L. 5121-8 du code de la santé publique consistant en un médicament homéopathi
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 - médicament homéopathique autorisé et mis sur le marché avant le 18 janvier 1994 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 2 100 € 
 
@@ -37888,14 +37322,14 @@ L. 5121-8 du code de la santé publique consistant en un médicament homéopathi
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 4° Demande de modification d'une autorisation de mise sur le marché relative à une spécialité pharmaceutique ou autre
 médicament mentionné à l'article L. 5121-8 du code de la santé publique, présentée conformément à l'article R. 5121-41-5 du
 même code et relative à une ou des indications thérapeutiques différentes 
 
 </td>
-      <td valign="top" align="left" colspan="3">
+      <td align="left" valign="top" colspan="3">
 
 Quelle que soit la procédure : 22 000 € 
 
@@ -37924,7 +37358,7 @@ code de la santé publique consiste en un changement de nom ou d'adresse du titu
 mise sur le marché 
 
 </td>
-      <td colspan="3" valign="top" align="left">
+      <td valign="top" align="left" colspan="3">
 
 Quelle que soit la procédure : 1 400 € 
 
@@ -37937,7 +37371,7 @@ Quelle que soit la procédure : 1 400 €
 médicament mentionné à l'article L. 5121-8 du code de la santé publique 
 
 </td>
-      <td align="left" valign="top" colspan="3">
+      <td colspan="3" align="left" valign="top">
 
 Quelle que soit la procédure : 5 000 € 
 
@@ -37953,7 +37387,7 @@ délivrée par le directeur général de l'agence mentionnée à l'article L. 53
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="529">
+      <td width="529" valign="top">
 
 1° Demande adressée à l'agence mentionnée à l'article L. 5311-1 du code de la santé publique concernant la reconnaissance, en
 application de l'article R. 5121-51-1 du même code, d'une autorisation de mise sur le marché présentée conformément aux
@@ -37961,7 +37395,7 @@ articles R. 5121-21 et R. 5121-25 du même code délivrée par le directeur gén
 du même code 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 16 000 € 
 
@@ -37974,26 +37408,26 @@ Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spéciali
 l'article L. 5121-8 du même code présenté simultanément à la première demande 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 8 000 € 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 2° Demande concernant la reconnaissance, en application de l'article R. 5121-51-1 du code de la santé publique, d'une
 autorisation de mise sur le marché délivrée par le directeur général de l'agence mentionnée à l'article L. 5311-1 du code de
 la santé publique relative à : 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 a) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code de la santé publique,
 présentée conformément au 2° de l'article R. 5121-26 du même code contenant une nouvelle association 
@@ -38026,7 +37460,7 @@ c) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'ar
 présentée conformément au 1° de l'article R. 5121-26 du même code 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 12 000 € 
 
@@ -38039,14 +37473,14 @@ Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spéciali
 5121-8 du code de la santé publique présenté simultanément à la première demande d'autorisation relevant des a, b ou c 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 6 000 € 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td width="529" valign="top">
 
 3° Demande concernant la reconnaissance, en application de l'article R. 5121-51-1 du code de la santé publique, d'une
 autorisation de mise sur le marché délivrée par le directeur général de l'agence mentionnée à l'article L. 5311-1 du même
@@ -38075,13 +37509,13 @@ Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spéciali
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 4° Demande concernant la reconnaissance, en application de l'article R. 5121-51-1 du code de la santé publique, d'une
 d'autorisation de mise sur le marché relative à : 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 </td>
     </tr>
@@ -38100,7 +37534,7 @@ différent de celui de la demande initiale sans modification ni de la voie d'adm
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td width="529" valign="top">
 
 b) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code de la santé publique,
 présentée conformément au 1°, au 3° ou au 4° de l'article R. 5121-28 ou à l'article R. 5121-29-1 du même code 
@@ -38113,14 +37547,14 @@ présentée conformément au 1°, au 3° ou au 4° de l'article R. 5121-28 ou à
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 c) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code de la santé publique,
 relative à une nouvelle forme pharmaceutique sans modification ni de la voie d'administration ni de l'indication
 thérapeutique 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 7 000 € 
 
@@ -38149,20 +37583,20 @@ présentée conformément au 3° de l'article R. 5121-26 du même code et concer
 active ou le changement de la biodisponibilité ou de la pharmacocinétique 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 7 000 € 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code de la santé publique
 consistant en allergène, par famille de produits 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 7 000 € 
 
@@ -38183,7 +37617,7 @@ les renouvellements d'importation parallèle :
 du code de la santé publique : 674 €. 
 
 VI. - Au titre du 6° du I de l'article 1635 bis AE précité, pour toute demande de visa ou de renouvellement de visa de
-publicité mentionné aux articles L. 5122-8, L. 5122-9 et L. 5122-14 du code de la santé publique : 510 €. 
+publicité mentionné aux articles L. 5122-8 et L. 5122-9 du code de la santé publique : 510 €. 
 
 VII. - Au titre du 7° du I de l'article 1635 bis AE précité, pour toute demande d'autorisation ou de renouvellement
 d'autorisation de publicité mentionnée aux articles L. 5213-4 et L. 5223-3 du code de la santé publique : 510 €. 
@@ -38192,15 +37626,19 @@ VIII. - La quittance obtenue de l'administration fiscale après versement d'un d
 à l'appui de la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique,
 conformément au III de l'article 1635 bis AE du code général des impôts.
 
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-201 du 24 février 2014, article 3-V.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-103 du 29 janvier 2013 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1635 bis AE
+	  - Code général des impôts, CGI. - art. 1635 bis AE (V)
 	  - Code de la santé publique - art. L5121-13
 	  - Code de la santé publique - art. L5121-14
 	  - Code de la santé publique - art. L5121-8
@@ -38750,8 +38188,8 @@ ou personnes morales qui sont dans le champ d'application de l'article 209 B du 
 déclarations et documents se rapportant aux taxes, contributions et redevances assises et contrôlées comme en matière de taxe
 sur la valeur ajoutée ; 
 
-5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 235 ter J du code précité, à
-l'article 161 de l'annexe II et à l'article 369 de l'annexe III au même code ; 
+5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article 161 de l'annexe II et à l'article
+369 de l'annexe III au même code ; 
 
 6° A la déclaration prévue au II de l'article 1586 octies du même code ; 
 
@@ -38783,27 +38221,27 @@ premier alinéa de l'article 344-0 A. Elle est formulée dans les mêmes conditi
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 369
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C
-	  - Code général des impôts, CGI. - art. 1010 (V)
+	  - Code général des impôts, CGI. - art. 1010
 	  - Code général des impôts, CGI. - art. 1586 octies
 	  - Code général des impôts, CGI. - art. 172
 	  - Code général des impôts, CGI. - art. 172 bis
 	  - Code général des impôts, CGI. - art. 209 B
 	  - Code général des impôts, CGI. - art. 223
-	  - Code général des impôts, CGI. - art. 231 ter (V)
+	  - Code général des impôts, CGI. - art. 231 ter (M)
 	  - Code général des impôts, CGI. - art. 235 ter J
 	  - Code général des impôts, CGI. - art. 235 ter X
 	  - Code général des impôts, CGI. - art. 287
-	  - Code général des impôts, CGI. - art. 990 F (V)
-	  - Code général des impôts, CGI. - art. 991 (V)
+	  - Code général des impôts, CGI. - art. 990 F
+	  - Code général des impôts, CGI. - art. 991
 
 	**Cité par**:
 
@@ -40004,31 +39442,34 @@ même code ;
 
 4° (sans objet). 
 
-5° Accède à la comptabilité des organisateurs de réunions sportives en application du c du 3° de l'article 1561 du code
-général des impôts.
+5° (sans objet).
+
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-1654 du 29 décembre 2014, article 21-I-11° et III.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 12 () JORF 27 mars 2004
-
 	**Codifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2004-1070 du 8 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1561 (V)
-	  - Code général des impôts, CGI. - art. 302 M (V)
-	  - Code général des impôts, CGI. - art. 468 (V)
+	  - Code général des impôts, CGI. - art. 1561
+	  - Code général des impôts, CGI. - art. 302 M
+	  - Code général des impôts, CGI. - art. 468
 
 
 ###### Article 350 quater
 
 I.-La direction générale des douanes et droits indirects exerce les compétences prévues : 
 
-1° Aux articles 306,321,412,426,427,450,454,1562,1565 septies du code général des impôts ; 
+1° Aux articles 306,321,412,426,427,450,454,1562(1),1565 septies du code général des impôts ; 
 
 2° Au premier alinéa de l'article 444 du code général des impôts ; 
 
@@ -40058,31 +39499,36 @@ des impôts ;
 
 3° (sans objet)
 
+**Nota:**
+
+(1) la référence [1562] devient sans objet, modification effectuée en conséquence de la loi n° 2014-1654 du 29 décembre 2014,
+article 21-I-11° et III
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 13 () JORF 27 mars 2004
 
 	**Codifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2004-1070 du 8 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1562 (V)
-	  - Code général des impôts, CGI. - art. 1565 septies (V)
-	  - Code général des impôts, CGI. - art. 304 (V)
-	  - Code général des impôts, CGI. - art. 306 (V)
-	  - Code général des impôts, CGI. - art. 319 (V)
-	  - Code général des impôts, CGI. - art. 321 (V)
-	  - Code général des impôts, CGI. - art. 412 (V)
-	  - Code général des impôts, CGI. - art. 426 (V)
-	  - Code général des impôts, CGI. - art. 444 (V)
-	  - Code général des impôts, CGI. - art. 450 (V)
-	  - Code général des impôts, CGI. - art. 454 (V)
-	  - Code général des impôts, CGI. - art. 570 (V)
-	  - Code général des impôts, CGI. - art. 625 (V)
+	  - Code général des impôts, CGI. - art. 1562
+	  - Code général des impôts, CGI. - art. 1565 septies
+	  - Code général des impôts, CGI. - art. 304
+	  - Code général des impôts, CGI. - art. 306
+	  - Code général des impôts, CGI. - art. 319
+	  - Code général des impôts, CGI. - art. 321
+	  - Code général des impôts, CGI. - art. 412
+	  - Code général des impôts, CGI. - art. 426
+	  - Code général des impôts, CGI. - art. 444
+	  - Code général des impôts, CGI. - art. 450
+	  - Code général des impôts, CGI. - art. 454
+	  - Code général des impôts, CGI. - art. 570
+	  - Code général des impôts, CGI. - art. 625
 
 
 ###### Article 350 quinquies
@@ -40251,19 +39697,14 @@ directeur départemental ou, le cas échéant, régional des finances publiques.
 II. ― Les comptables publics mentionnés au 1° du c du 1 de l'article 302 bis Y et au douzième alinéa de l'article 1018 A du
 code général des impôts sont les comptables de la direction générale des finances publiques. 
 
-Les comptables publics mentionnés au cinquième alinéa du II ter de l'article 208 C et au deuxième alinéa du III de l'article
-220 septies du même code sont les comptables de la direction générale des finances publiques du lieu d'imposition défini à
-l'article 218 A du code général des impôts.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 31-IV de la loi n° 2011-1862 du 13 décembre 2011.
+Les comptables publics mentionnés au cinquième alinéa du II ter de l'article  208 C du même code sont les comptables de la
+direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
@@ -40276,7 +39717,7 @@ Modifications effectuées en conséquence de l'article 31-IV de la loi n° 2011-
 	  - Code général des impôts, CGI. - art. 218 A
 	  - Code général des impôts, CGI. - art. 220 septies
 	  - Code général des impôts, CGI. - art. 302 bis Y
-	  - Code général des impôts, CGI. - art. 716
+	  - Code général des impôts, CGI. - art. 716 (V)
 	  - Code général des impôts, CGI. - art. 805
 	  - Code général des impôts, CGI. - art. 808
 
@@ -41490,140 +40931,6 @@ conclusion de la convention prévue au 3 du III de l'article 117 quater du code 
 	  - Code général des impôts, CGI. - art. 117 quater
 
 
-##### 12 : Participation des employeurs au développement de la formation professionnelle continue
-
-###### Article 381 U
-
-Le versement dû au Trésor public par les centres de formation conventionnés en application de l'article 235 ter HA du code
-général des impôts, doit être effectué dans le mois qui suit la date d'échéance de la convention.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 10-II-2° et III de la loi n° 2014-288 du 5 mars 2014.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 V (P)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 X (Ab)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 235 ter HA
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-
-###### Article 381 V
-
-Les versements prévus à l'article 381 U doivent être accompagnés d'un bordereau de versement établi en double exemplaire qui
-doit indiquer, outre la désignation et l'adresse du déclarant : 
-
-1° La nature juridique et le montant des versements reçus des employeurs ; 
-
-2° Le montant des dépenses de formation exposées en contrepartie des fonds ainsi reçus ; 
-
-3° Le montant du versement à effectuer.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 10-II-2° et III de la loi n° 2014-288 du 5 mars 2014.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 U (P)
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 W (P)
-
-	**Codifié par**:
-
-	  - Décret n°84-875 1984-10-01
-
-
-###### Article 381 W
-
-Le bordereau de versement prévu à l'article 381 V doit être remis au service des impôts compétent. Ce service est celui du
-lieu : 
-
-de souscription de la déclaration des résultats pour les organismes de formation à but lucratif, ainsi que pour les
-dispensateurs de formation dont l'activité revêt un caractère non commercial ; 
-
-du domicile ou du siège social pour les organismes de formation à but non lucratif et les fonds d'assurance-formation.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 10-II-2° et III de la loi n° 2014-288 du 5 mars 2014.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2006-356 2006-03-24
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 V (P)
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 X (Ab)
-
-
-###### Article 381 X
-
-A défaut d'exécution spontanée des versements prévus à l'article 381 U, il est fait application par les agents commissionnés
-chargés du contrôle de la participation des employeurs, de la procédure décrite aux articles R. 6362-3 à R. 6362-7 du code du
-travail. Cette procédure est également applicable aux versements indiqués à l'article L. 6362-7 du code précité. 
-
-Le comptable compétent de la direction générale des finances publiques pour recevoir les versements résultant de la procédure
-prévue au premier alinéa est celui défini à l'article 381 W.
-
-**Nota:**
-
-Cet article devient sans objet en conséquence de l'article 10-II-2° et III de la loi n° 2014-288 du 5 mars 2014.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-1303 du 14 octobre 2011 - art. 5
-
-	**Abrogé par**:
-
-	  - Décret n°2015-608 du 3 juin 2015 - art. 3
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 U
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 381 W (P)
-	  - Code du travail - art. L6362-7
-	  - Code du travail - art. R6362-3
-
-
 ##### 13 : Taxe d'apprentissage
 
 ###### Article 381 XA
@@ -42760,30 +42067,30 @@ V. La taxe est payable en une seule fois, dans les conditions prévues au I, à 
 
 La direction générale des douanes et droits indirects est compétente pour percevoir : 
 
-1° Les cotisations mentionnées aux articles 564 quinquies et 564 sexies du code général des impôts ; 
+1° Les cotisations mentionnées à l'article 564 quinquies du code général des impôts ; 
 
 2° Le droit de consommation sur les tabacs dans les conditions prévues à l'article 575 C du code général des impôts ; 
 
-3° 4° (Sans objet). 
+3° 4° 5° (Sans objet).
 
-5° La taxe mentionnée à l'article 1699 du code général des impôts.
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-1654 du 29 décembre 2014, articles 20-II [1°] et 21-I [11°] et III.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi - art. 27 (V) JORF 31 décembre 2002
-
 	**Codifié par**:
 
-	  - Décret n°2003-298 2003-03-31
+	  - Décret n°2003-298 du 31 mars 2003
+
+	**Modifié par**:
+
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1699 (V)
-	  - Code général des impôts, CGI. - art. 564 quinquies (V)
-	  - Code général des impôts, CGI. - art. 564 sexies (V)
-	  - Code général des impôts, CGI. - art. 575 C (V)
+	  - Code général des impôts, CGI. - art. 564 quinquies
+	  - Code général des impôts, CGI. - art. 575 C
 
 
 ###### Article 406 undecies A

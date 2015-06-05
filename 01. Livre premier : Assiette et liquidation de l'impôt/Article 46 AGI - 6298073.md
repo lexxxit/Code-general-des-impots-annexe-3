@@ -19,8 +19,8 @@ l'administration et comportant, pour l'année précédente, les renseignements s
 
 a. La raison sociale et l'adresse du siège social du groupement ou de la société ; 
 
-b. Dans les cas prévus aux b et c du 2 de l'article 199 decies H précité et au 2° du 2 de l'article 200 quindecies précité
-précité, l'attestation que les engagements mentionnés au I ont été pris et sont respectés. 
+b. Dans les cas prévus aux b et c du 2 de l'article 199 decies H précité et au 2° du 2 de l'article 200 quindecies précité,
+l'attestation que les engagements mentionnés au I ont été pris et sont respectés. 
 
 c. Dans le cas prévu au 2° du 2 de l'article 200 quindecies précité, la nature de la garantie de gestion durable applicable à
 l'unité de gestion concernée, la nature, le montant total et la date de paiement des travaux forestiers ; le cas échéant, le
@@ -75,15 +75,11 @@ opérations qui l'affectent jusqu'à la fin de la troisième année suivant cell
 des parts prévu aux b et c de l'article 199 decies H du code général des impôts et au 2° du 2 de l'article 200 quindecies du
 même code.
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 2, 3, 6 et 7  du décret n° 2012-836 du 29 juin 2012.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1114 du 2 octobre 2014 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 

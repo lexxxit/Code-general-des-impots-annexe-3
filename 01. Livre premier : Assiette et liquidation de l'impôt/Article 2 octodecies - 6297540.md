@@ -14,7 +14,7 @@ d'achèvement des travaux.L'engagement de conservation des titres formulé par l
 déclaration des revenus souscrite par ce dernier au titre de l'année du décès de son conjoint pour la période postérieure à
 cet événement.
 
-L'engagement de conservation des titres prévu au sixième alinéa du m du 1° du I de l'article 31 du code général des impôts
+L'engagement de conservation des titres prévu au cinquième alinéa du m du 1° du I de l'article 31 du code général des impôts
 est constaté lors du dépôt de la déclaration des revenus de l'année au cours de laquelle la location au locataire ouvre droit
 pour la première fois à la déduction calculée en fonction du revenu brut. 
 
@@ -28,14 +28,18 @@ III.-Les associés joignent à chacune de leurs déclarations des revenus y comp
 logement prévue au premier alinéa du j et au deuxième alinéa du l du 1° du I de l'article 31 du code général des impôts un
 exemplaire du document mentionné au II de l'article 2 septdecies.
 
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-366 du 24 mars 2014, art. 122-IV
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-844 du 8 juillet 2009 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies
-	  - Code général des impôts, CGI. - art. 199 septvicies (V)
+	  - Code général des impôts, CGI. - art. 199 septvicies
 	  - Code général des impôts, CGI. - art. 31

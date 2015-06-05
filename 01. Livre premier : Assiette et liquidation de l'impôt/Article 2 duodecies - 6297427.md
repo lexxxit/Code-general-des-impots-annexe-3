@@ -3,13 +3,13 @@
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2014, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,38 € par mètre carré
-en zone A, 12,01 € en zone B et 8,70 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
+a) Pour les baux conclus en 2015, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,48 € par mètre carré
+en zone A, 12,08 € en zone B et 8,75 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
 modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
 centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du
-premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au
-1° du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements
-situés en outre-mer, au 1° du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Les
+premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1
+du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements situés
+en outre-mer, au 1 du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Les
 plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2
 terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté. 
 
@@ -24,203 +24,196 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2014, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2015, les plafonds annuels de ressources sont les suivants : 
 
 (En euros) 
 
 <table>
   <tbody>
     <tr>
-      <th>
-
-COMPOSITION DU FOYER LOCATAIRE 
+      <th rowspan="2">COMPOSITION DU FOYER LOCATAIRE
 
 </th>
       <th colspan="3">
 
-LIEU DE LOCATION 
+LIEU DE LOCATION
 
 </th>
     </tr>
     <tr>
       <th>
 
-</th>
-      <th>
-
 Zone A 
 
-(en euros) 
+(en €)
 
 </th>
       <th>
 
 Zone B 
 
-(en euros) 
+(en €)
 
 </th>
       <th>
 
 Zone C 
 
-(en euros) 
+(en €)
 
 </th>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule 
-
-</td>
-      <td align="center">
-
-46 630 
+Personne seule
 
 </td>
       <td align="center">
 
-36 039 
+46 807
 
 </td>
       <td align="center">
 
-31 536 
+36 176
+
+</td>
+      <td align="center">
+
+31 656
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Couple 
 
 </td>
       <td align="center">
 
-69 688 
+69 953
 
 </td>
       <td align="center">
 
-48 124 
+48 307
 
 </td>
       <td align="center">
 
-42 386 
+42 547
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule ou couple ayant une personne à charge 
-
-</td>
-      <td align="center">
-
-83 770 
+Personne seule ou couple ayant une personne à charge
 
 </td>
       <td align="center">
 
-57 872 
+84 088
 
 </td>
       <td align="center">
 
-50 742 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant deux personnes à charge 
+58 092
 
 </td>
       <td align="center">
 
-100 343 
-
-</td>
-      <td align="center">
-
-69 862 
-
-</td>
-      <td align="center">
-
-61 411 
+50 935
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Personne seule ou couple ayant trois personnes à charge 
-
-</td>
-      <td align="center">
-
-118 788 
+Personne seule ou couple ayant deux personnes à charge
 
 </td>
       <td align="center">
 
-82 182 
+100 724
 
 </td>
       <td align="center">
 
-72 075 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Personne seule ou couple ayant quatre personnes à charge 
+70 127
 
 </td>
       <td align="center">
 
-133 666 
-
-</td>
-      <td align="center">
-
-92 616 
-
-</td>
-      <td align="center">
-
-81 303 
+61 644
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Majoration par personne à charge à partir de la cinquième 
-
-</td>
-      <td align="center">
-
-+ 14 899 
+Personne seule ou couple ayant trois personnes à charge
 
 </td>
       <td align="center">
 
-+ 10 330 
+119 239
 
 </td>
       <td align="center">
 
-+ 9 235 
+82 494
 
 </td>
+      <td align="center">
+
+72 349
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Personne seule ou couple ayant quatre personnes à charge
+
+</td>
+      <td align="center">
+
+134 174
+
+</td>
+      <td align="center">
+
+92 968
+
+</td>
+      <td align="center">
+
+81 612
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Majoration par personne à charge à partir de la cinquième
+
+</td>
+      <td align="center">
+
++ 14 956
+
+</td>
+      <td align="center">
+
++ 10 369
+
+</td>
+      <td align="center">
+
++ 9 270</td>
     </tr>
   </tbody>
 </table>
@@ -236,6 +229,11 @@ de l'article 31 du code général des impôts, les plafonds annuels de ressource
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
 
+**Nota:**
+
+Modifications effectuées en conséquence du décret n° 2010-1601 du 20 décembre 2010, art. 1er-I et du décret n° 2014-1102 du
+30 septembre 2014, art. 2-2° et 3°
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -245,7 +243,6 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 	  - Arrêté du 1er août 2014 - art. 2 (V)
 	  - Code de la construction et de l'habitation. - art. Annexe I à L'article R321-23 (M)
 	  - Code de la construction et de l'habitation. - art. Annexe III à l'article R321-23 (M)
-	  - Code de la construction et de l'habitation. - art. R302-28 (V)
 	  - Code de la construction et de l'habitation. - art. R331-102 (V)
 	  - Code de la construction et de l'habitation. - art. R331-91 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 quaterdecies (V)
@@ -259,7 +256,7 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	**Modifié par**:
 
-	  - Décret n°2014-1102 du 30 septembre 2014 - art. 2
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 

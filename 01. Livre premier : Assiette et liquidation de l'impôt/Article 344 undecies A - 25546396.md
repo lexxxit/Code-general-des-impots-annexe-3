@@ -185,8 +185,8 @@ renouvellement ou de modification de cette autorisation :
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="246"> </td>
-      <td width="151" valign="top">
+      <td width="246" valign="top">
+      </td><td valign="top" width="151">
 
 DEMANDE EFFECTUÉE 
 
@@ -237,7 +237,7 @@ du code de la santé publique
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 1° Demande d'autorisation de mise sur le marché relative à une spécialité pharmaceutique ou à un autre médicament mentionné à
 l'article L. 5121-8 du code de la santé publique présentée conformément aux articles 
@@ -250,7 +250,7 @@ R. 5121-21 et R. 5121-25 du même code
 50 000 € 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 34 000 € 
 
@@ -262,13 +262,13 @@ R. 5121-21 et R. 5121-25 du même code
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spécialité ou d'un autre médicament mentionné à
 l'article L. 5121-8 du code de la santé publique présenté simultanément à la première demande d'autorisation 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 25 000 € 
 
@@ -285,7 +285,7 @@ l'article L. 5121-8 du code de la santé publique présenté simultanément à l
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 2° Demande d'autorisation de mise sur le marché relative à : 
 
@@ -293,7 +293,7 @@ l'article L. 5121-8 du code de la santé publique présenté simultanément à l
       <td width="151" valign="top">
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 </td>
       <td valign="top" width="170">
@@ -307,24 +307,24 @@ a) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'ar
 présentée conformément au 2° de l'article R. 5121-26 du même code contenant une nouvelle association 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 35 000 € 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 23 000 € 
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 23 000 € 
 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 b) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
@@ -333,7 +333,7 @@ L. 5121-8 du code de la santé publique, présentée conformément au 3° de l'a
 R. 5121-28 du code précité et relative à une voie d'administration différente de celle de la demande initiale 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 35 000 € 
 
@@ -343,7 +343,7 @@ R. 5121-28 du code précité et relative à une voie d'administration différent
 23 000 € 
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 23 000 € 
 
@@ -362,12 +362,12 @@ L. 5121-8 du code de la santé publique, présentée conformément au 1° de l'a
 35 000 € 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 23 000 € 
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 23 000 € 
 
@@ -390,14 +390,14 @@ conformément au 2° de l'article R. 5121-28 du code précité et relative à un
 23 000 € 
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
 
 23 000 € 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spécialité ou autre médicament mentionné à l'article L.
 5121-8 du code de la santé publique présenté simultanément à la première demande d'autorisation relevant des a, b, c ou d du
@@ -414,7 +414,7 @@ présent 2°
 11 500 € 
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
 
 11 500 € 
 
@@ -429,7 +429,7 @@ présent 2°
       <td valign="top" width="151">
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 </td>
       <td width="170" valign="top">
@@ -437,7 +437,7 @@ présent 2°
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 a) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
@@ -456,7 +456,7 @@ d'administration ni de l'indication thérapeutique
 14 000 € 
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 14 000 € 
 
@@ -489,7 +489,7 @@ R. 5121-29-1 du même code
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 c) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
@@ -497,12 +497,12 @@ L. 5121-8 du code de la santé publique, relative à une nouvelle forme pharmace
 d'administration ni de l'indication thérapeutique 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 21 000 € 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 14 000 € 
 
@@ -524,7 +524,32 @@ des différences relatives à la substance active ou lorsque la bioéquivalence 
 5121-29-1 du code précité 
 
 </td>
+      <td valign="top" width="151">
+
+21 000 € 
+
+</td>
       <td width="151" valign="top">
+
+14 000 € 
+
+</td>
+      <td width="170" valign="top">
+
+14 000 € 
+
+</td>
+    </tr>
+    <tr>
+      <td width="246" valign="top">
+
+e) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
+
+L. 5121-8 du code de la santé publique, présentée conformément au 3° de l'article R. 5121-26 du code précité et concernant
+des différences relatives à la substance active ou le changement de la biodisponibilité ou de la pharmacocinétique 
+
+</td>
+      <td valign="top" width="151">
 
 21 000 € 
 
@@ -543,13 +568,12 @@ des différences relatives à la substance active ou lorsque la bioéquivalence 
     <tr>
       <td valign="top" width="246">
 
-e) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
+f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
-L. 5121-8 du code de la santé publique, présentée conformément au 3° de l'article R. 5121-26 du code précité et concernant
-des différences relatives à la substance active ou le changement de la biodisponibilité ou de la pharmacocinétique 
+L. 5121-8 du code de la santé publique consistant en allergène, par famille de produits 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 21 000 € 
 
@@ -568,42 +592,18 @@ des différences relatives à la substance active ou le changement de la biodisp
     <tr>
       <td width="246" valign="top">
 
-f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
-
-L. 5121-8 du code de la santé publique consistant en allergène, par famille de produits 
-
-</td>
-      <td width="151" valign="top">
-
-21 000 € 
-
-</td>
-      <td width="151" valign="top">
-
-14 000 € 
-
-</td>
-      <td width="170" valign="top">
-
-14 000 € 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="246">
-
 g) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article 
 
 L. 5121-8 du code de la santé publique consistant en un médicament homéopathique :
 
 </td>
-      <td valign="top" width="151">
-
-</td>
       <td width="151" valign="top">
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="151">
+
+</td>
+      <td valign="top" width="170">
 
 </td>
     </tr>
@@ -630,12 +630,12 @@ L. 5121-8 du code de la santé publique consistant en un médicament homéopathi
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 - médicament homéopathique autorisé et mis sur le marché avant le 18 janvier 1994 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 2 100 € 
 
@@ -652,14 +652,14 @@ L. 5121-8 du code de la santé publique consistant en un médicament homéopathi
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 4° Demande de modification d'une autorisation de mise sur le marché relative à une spécialité pharmaceutique ou autre
 médicament mentionné à l'article L. 5121-8 du code de la santé publique, présentée conformément à l'article R. 5121-41-5 du
 même code et relative à une ou des indications thérapeutiques différentes 
 
 </td>
-      <td valign="top" align="left" colspan="3">
+      <td align="left" valign="top" colspan="3">
 
 Quelle que soit la procédure : 22 000 € 
 
@@ -688,7 +688,7 @@ code de la santé publique consiste en un changement de nom ou d'adresse du titu
 mise sur le marché 
 
 </td>
-      <td colspan="3" valign="top" align="left">
+      <td valign="top" align="left" colspan="3">
 
 Quelle que soit la procédure : 1 400 € 
 
@@ -701,7 +701,7 @@ Quelle que soit la procédure : 1 400 €
 médicament mentionné à l'article L. 5121-8 du code de la santé publique 
 
 </td>
-      <td align="left" valign="top" colspan="3">
+      <td colspan="3" align="left" valign="top">
 
 Quelle que soit la procédure : 5 000 € 
 
@@ -717,7 +717,7 @@ délivrée par le directeur général de l'agence mentionnée à l'article L. 53
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="529">
+      <td width="529" valign="top">
 
 1° Demande adressée à l'agence mentionnée à l'article L. 5311-1 du code de la santé publique concernant la reconnaissance, en
 application de l'article R. 5121-51-1 du même code, d'une autorisation de mise sur le marché présentée conformément aux
@@ -725,7 +725,7 @@ articles R. 5121-21 et R. 5121-25 du même code délivrée par le directeur gén
 du même code 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 16 000 € 
 
@@ -738,26 +738,26 @@ Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spéciali
 l'article L. 5121-8 du même code présenté simultanément à la première demande 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 8 000 € 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 2° Demande concernant la reconnaissance, en application de l'article R. 5121-51-1 du code de la santé publique, d'une
 autorisation de mise sur le marché délivrée par le directeur général de l'agence mentionnée à l'article L. 5311-1 du code de
 la santé publique relative à : 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 a) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code de la santé publique,
 présentée conformément au 2° de l'article R. 5121-26 du même code contenant une nouvelle association 
@@ -790,7 +790,7 @@ c) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'ar
 présentée conformément au 1° de l'article R. 5121-26 du même code 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 12 000 € 
 
@@ -803,14 +803,14 @@ Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spéciali
 5121-8 du code de la santé publique présenté simultanément à la première demande d'autorisation relevant des a, b ou c 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 6 000 € 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td width="529" valign="top">
 
 3° Demande concernant la reconnaissance, en application de l'article R. 5121-51-1 du code de la santé publique, d'une
 autorisation de mise sur le marché délivrée par le directeur général de l'agence mentionnée à l'article L. 5311-1 du même
@@ -839,13 +839,13 @@ Pour chaque dosage ou forme pharmaceutique supplémentaire de la même spéciali
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 4° Demande concernant la reconnaissance, en application de l'article R. 5121-51-1 du code de la santé publique, d'une
 d'autorisation de mise sur le marché relative à : 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 </td>
     </tr>
@@ -864,7 +864,7 @@ différent de celui de la demande initiale sans modification ni de la voie d'adm
 </td>
     </tr>
     <tr>
-      <td valign="top" width="529">
+      <td width="529" valign="top">
 
 b) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code de la santé publique,
 présentée conformément au 1°, au 3° ou au 4° de l'article R. 5121-28 ou à l'article R. 5121-29-1 du même code 
@@ -877,14 +877,14 @@ présentée conformément au 1°, au 3° ou au 4° de l'article R. 5121-28 ou à
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 c) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code de la santé publique,
 relative à une nouvelle forme pharmaceutique sans modification ni de la voie d'administration ni de l'indication
 thérapeutique 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 7 000 € 
 
@@ -913,20 +913,20 @@ présentée conformément au 3° de l'article R. 5121-26 du même code et concer
 active ou le changement de la biodisponibilité ou de la pharmacocinétique 
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 7 000 € 
 
 </td>
     </tr>
     <tr>
-      <td width="529" valign="top">
+      <td valign="top" width="529">
 
 f) Une spécialité pharmaceutique ou à un autre médicament mentionné à l'article L. 5121-8 du code de la santé publique
 consistant en allergène, par famille de produits 
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 7 000 € 
 
@@ -947,7 +947,7 @@ les renouvellements d'importation parallèle :
 du code de la santé publique : 674 €. 
 
 VI. - Au titre du 6° du I de l'article 1635 bis AE précité, pour toute demande de visa ou de renouvellement de visa de
-publicité mentionné aux articles L. 5122-8, L. 5122-9 et L. 5122-14 du code de la santé publique : 510 €. 
+publicité mentionné aux articles L. 5122-8 et L. 5122-9 du code de la santé publique : 510 €. 
 
 VII. - Au titre du 7° du I de l'article 1635 bis AE précité, pour toute demande d'autorisation ou de renouvellement
 d'autorisation de publicité mentionnée aux articles L. 5213-4 et L. 5223-3 du code de la santé publique : 510 €. 
@@ -956,15 +956,19 @@ VIII. - La quittance obtenue de l'administration fiscale après versement d'un d
 à l'appui de la demande déposée auprès de l'agence mentionnée à l'article L. 5311-1 du code de la santé publique,
 conformément au III de l'article 1635 bis AE du code général des impôts.
 
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-201 du 24 février 2014, article 3-V.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-103 du 29 janvier 2013 - art. 1
+	  - Décret n°2015-608 du 3 juin 2015 - art. 3
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1635 bis AE
+	  - Code général des impôts, CGI. - art. 1635 bis AE (V)
 	  - Code de la santé publique - art. L5121-13
 	  - Code de la santé publique - art. L5121-14
 	  - Code de la santé publique - art. L5121-8
