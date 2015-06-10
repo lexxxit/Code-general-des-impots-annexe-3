@@ -9,9 +9,11 @@ modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la con
 centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du
 premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1
 du I de l'article 2 terdecies D, ou, le cas échéant, en application du III de ce même article, ou, pour les logements situés
-en outre-mer, au 1 du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Les
-plafonds fixés par arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2
-terdecies F ne s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté. 
+en outre-mer, au 1 du I de l'article 2 terdecies F, ou, le cas échéant, en application du III de ce même article. Pour ces
+mêmes conventions, les plafonds de loyer applicables pour les logements situés dans la zone C sont égaux à ceux fixés au
+présent alinéa pour les logements situés dans la zone B2 du 1 du I de l'article 2 terdecies D précité. Les plafonds fixés par
+arrêté du représentant de l'Etat dans la région en application des III des articles 2 terdecies D et 2 terdecies F ne
+s'appliquent qu'aux conventions conclues à compter de l'entrée en vigueur de l'arrêté. 
 
 Pour l'application du présent article, les zones A, B et C sont définies par arrêté des ministres chargés du budget et du
 logement. 
@@ -224,15 +226,12 @@ dernière année et le 1er octobre de l'année précédente.
 
 Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du premier alinéa du m du 1° du I
 de l'article 31 du code général des impôts, les plafonds annuels de ressources sont égaux à ceux fixés au 2 du I de l'article
-2 terdecies D, ou, pour les logements situés en outre-mer, au 2 du I de l'article 2 terdecies F. 
+2 terdecies D, ou, pour les logements situés en outre-mer, au 2 du I de l'article 2 terdecies F. Pour ces mêmes conventions,
+les plafonds annuels de ressources applicables pour les logements situés dans la zone C sont égaux à ceux fixés au présent
+alinéa pour les logements situés dans la zone B2 du tableau annexé au a du 2 du I de l'article 2 terdecies D précité. 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
-
-**Nota:**
-
-Modifications effectuées en conséquence du décret n° 2010-1601 du 20 décembre 2010, art. 1er-I et du décret n° 2014-1102 du
-30 septembre 2014, art. 2-2° et 3°
 
 **Liens relatifs à cet article**
 
@@ -256,7 +255,7 @@ Modifications effectuées en conséquence du décret n° 2010-1601 du 20 décemb
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 3
+	  - Décret n°2015-638 du 8 juin 2015 - art. 1
 
 	**Cite**:
 
