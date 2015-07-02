@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-06-12
+Version Consolidée au 2015-07-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -29437,8 +29437,14 @@ ou copies de l'acte.
 
 ###### Article 266 bis
 
-I.-La justification de l'exécution des travaux prévus au I du A de l'article 1594-0 G du code général des impôts résulte du
-dépôt de la déclaration spéciale mentionnée au I de l'article 244 de l'annexe II au même code. 
+I.-La justification de l'exécution des travaux prévus au I du A de l'article 1594-0 G du code général des impôts résulte : 
+
+1° Dans les cas indiqués au I de l'article 244 de l'annexe II au même code, du dépôt de la déclaration spéciale qui y est
+mentionnée ; 
+
+2° Dans les autres cas, du dépôt en mairie de la déclaration attestant de l'achèvement des travaux et de la conformité des
+travaux de construction ou d'aménagement au permis délivré ou de la déclaration préalable, mentionnée à l'article L. 462-1 du
+code de l'urbanisme. 
 
 II.-Lorsque l'engagement mentionné au I du A de l'article 1594-0 G du code général des impôts porte sur la construction de
 maisons individuelles et que la superficie du terrain acquis excède celle pour laquelle l'exonération est applicable aux
@@ -29463,7 +29469,7 @@ ou, le cas échéant, régional des finances publiques.
 IV.-La demande de prorogation du délai prévue au IV bis du A de l'article 1594-0 G du code général des impôts doit être
 formulée au plus tard dans le mois qui suit l'expiration du délai précédemment imparti. Elle doit être adressée par pli
 recommandé avec demande d'avis de réception postale, être motivée et préciser la consistance des immeubles sur lesquels porte
-la prorogation demandée ainsi que le montant des droits dont l'exonération est subordonnée à leur revente.
+la prorogation demandée ainsi que le montant des droits dont l'exonération est subordonnée à leur revente. 
 
 V.-La substitution d'un engagement de construire à un engagement de revendre telle que prévue au troisième alinéa du II du A
 de l'article 1594-0 G du code général des impôts résulte de l'envoi au service des impôts par pli recommandé avec demande
@@ -29478,22 +29484,17 @@ l'article 635 du code précité d'un acte complémentaire à l'acte de mutation 
 substitue le nouvel engagement. Cet acte précise l'objet et la consistance des travaux auxquels il est renoncé ainsi que la
 valeur de l'acquisition pour laquelle est sollicité le bénéfice des dispositions de l'article 1115 du même code.
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 6 et 7 du décret n° 2011-2054 du 29 décembre 2011.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2015-793 du 30 juin 2015 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 244
-	  - Code général des impôts, CGI. - art. 1115
 	  - Code général des impôts, CGI. - art. 1594-0 G
-	  - Code général des impôts, CGI. - art. 635
+	  - Code de l'urbanisme - art. L462-1
 
 
 ##### 3 : Régime particulier aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin
