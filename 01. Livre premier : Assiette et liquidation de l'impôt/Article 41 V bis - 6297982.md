@@ -1,9 +1,9 @@
 # Article 41 V bis
 
-1° Les bénéficiaires des bons de souscription de parts de créateur d'entreprise mentionnés à l'article 163 bis G du code
-général des impôts joignent à leur déclaration de revenus souscrite au titre de l'année d'exercice des bons considérés un
-état individuel délivré, au plus tard le 1er mars de l'année de dépôt de la déclaration, par la société mentionnée au 2° du
-présent article. 
+1° La société mentionnée au 2° délivre un état individuel aux bénéficiaires des bons de souscription de parts de créateur
+d'entreprise mentionnés à l'article 163 bis G du code général des impôts, au plus tard le 1er mars de l'année de dépôt de
+leur déclaration de revenus souscrite au titre de l'année d'exercice des bons. Les bénéficiaires doivent le conserver jusqu'à
+l'expiration du délai de reprise et le présenter à la demande de l'administration fiscale. 
 
 Cet état mentionne : 
 
@@ -23,10 +23,6 @@ exerce plus son activité, la date de son départ et son ancienneté dans la soc
 La société atteste, en outre, sur cet état que les bons ont été émis et attribués conformément aux dispositions de l'article
 163 bis G précité et, en particulier, qu'à la date de leur émission elle remplissait l'ensemble des conditions prévues à cet
 article. 
-
-Les contribuables qui transmettent la déclaration de leurs revenus par voie électronique, en application de l'article 1649
-quater B ter du code général des impôts, sont dispensés de joindre cet état à cette déclaration. Ils doivent le conserver
-jusqu'à l'expiration du délai de reprise et le présenter à l'administration sur demande de sa part. 
 
 2° La société émettrice des bons dans laquelle le titulaire des bons exerce son activité transmet à l'administration fiscale,
 dans la déclaration prévue à l'article 87 du code général des impôts, les informations mentionnées au k du 2° de l'article
@@ -52,7 +48,7 @@ duplicata au nouveau redevable de la retenue à la source.
 
 	**Modifié par**:
 
-	  - Décret n°2012-131 du 30 janvier 2012 - art. 3
+	  - Décret n°2015-966 du 31 juillet 2015 - art. 2
 
 	**Cité par**:
 
@@ -61,6 +57,5 @@ duplicata au nouveau redevable de la retenue à la source.
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 163 bis G
-	  - Code général des impôts, CGI. - art. 1649 quater B ter
 	  - Code général des impôts, CGI. - art. 182 A ter
 	  - Code général des impôts, CGI. - art. 87
