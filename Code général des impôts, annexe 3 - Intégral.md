@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-08-06
+Version Consolidée au 2015-08-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -11797,12 +11797,6 @@ construction et de l'habitation, dans la limite globale de 12 % du montant total
 limite peut être portée à 15 % pour les programmes ou ensembles d'investissements d'un montant inférieur à 10 millions
 d'euros. 
 
-Lorsque, dans les départements d'outre-mer, à Saint-Martin et à Mayotte, l'investissement mentionné au I de l'article 199
-undecies C du code général des impôts fait l'objet d'une subvention de l'Etat dans les conditions fixées aux articles R.
-372-1 et suivants du code de la construction et de l'habitation, le prix de revient mentionné au II de l'article 199 undecies
-C est celui retenu pour le calcul de l'assiette de subvention tel que prévu à l'article R. 372-9 du code de la construction
-et de l'habitation, dans la limite définie au II de l'article 199 undecies C. 
-
 VII.-1. Pour l'application des dispositions de l'article 199 undecies C du code général des impôts, les ressources du
 locataire, les personnes composant son foyer ou à sa charge et la surface à prendre en compte sont déterminées ainsi qu'il
 est dit aux articles 46 AG duodecies et 46 AG terdecies. 
@@ -11810,11 +11804,16 @@ est dit aux articles 46 AG duodecies et 46 AG terdecies.
 2. Les travaux de réhabilitation mentionnés au VI de l'article 199 undecies C du code général des impôts s'entendent de ceux
 qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 
+VIII. - La fraction minimale de 5 % de financement par subvention publique des logements, mentionnée au 9° du I de l'article
+199 undecies C du code général des impôts, est déterminée, pour chaque programme d'investissement, par rapport au montant
+retenu pour le calcul de la réduction d'impôt prévue au même article 199 undecies C, selon les modalités prévues au II du
+même article.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
 
 	**Cité par**:
 
@@ -11829,10 +11828,8 @@ qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 	  - Code général des impôts, CGI. - art. 199 undecies C
 	  - Code de la construction et de l'habitation. - art. L111-30
 	  - Code de la construction et de l'habitation. - art. R331-76-5-1
-	  - Code de la construction et de l'habitation. - art. R372-1
 	  - Code de la construction et de l'habitation. - art. R372-21
 	  - Code de la construction et de l'habitation. - art. R372-7
-	  - Code de la construction et de l'habitation. - art. R372-9
 
 
 ###### Article 46 AG sexies
@@ -16447,6 +16444,22 @@ locataire ne peuvent excéder les limites mentionnées aux 1 et 2 de l'article 4
 	  - Code général des impôts, CGI. - art. 217 undecies (V)
 
 
+###### Article 46 quater-0 ZZ ter A
+
+Pour l'application du troisième alinéa du I de l'article 217 undecies du code général des impôts, les véhicules strictement
+indispensables à l'activité de l'exploitant sont définis par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 217 undecies
+
+
 ##### Section XIV : Amortissement exceptionnel pour la souscription de parts de sociétés d'épargne forestière
 
 ###### Article 46 quater-0 ZZ quater
@@ -16978,109 +16991,117 @@ suivi du dispositif d'aide fiscale à l'investissement du Gouvernement au Parlem
 I.-1. Pour l'application de l'article 242 sexies du code général des impôts, la personne morale réalisant des investissements
 transmet à l'administration fiscale : 
 
-1° Les éléments permettant son identification : dénomination sociale, adresse, code activité et numéro attribué, conformément
-aux dispositions du premier alinéa de l'article R. 123-221 du code de commerce ; 
+1°  Les éléments permettant son identification : dénomination sociale,  adresse, code activité et numéro attribué,
+conformément aux dispositions  du premier alinéa de l'article R. 123-221 du code de commerce; 
 
-2° L'identité de ses associés ou de ses membres (nom, prénoms, dénomination sociale, adresse, numéro attribué, conformément
-aux dispositions du premier alinéa de l'article R. 123-221 du code de commerce) et la répartition de leurs droits dans les
+2°  L'identité de ses associés ou de ses membres (nom, prénoms,  dénomination sociale, adresse, numéro attribué, conformément
+aux  dispositions du premier alinéa de l'article R. 123-221 du code de  commerce) et la répartition de leurs droits dans les
 résultats ; 
 
-3° La nature de l'investissement et le secteur d'investissement, conformément à la liste fixée par l'administration fiscale,
-auquel il est affecté ; 
+3°  La nature de l'investissement et le secteur d'investissement,  conformément à la liste fixée par l'administration
+fiscale, auquel il  est affecté ; 
 
-4° La collectivité sur le territoire de laquelle est situé ou exploité à titre principal l'investissement (Martinique,
-Guadeloupe, Guyane, Réunion, Saint-Martin, Saint-Barthélemy, Saint-Pierre-et-Miquelon, Mayotte, Nouvelle-Calédonie, Polynésie
-française, Wallis-et-Futuna, Terres australes et antarctiques françaises) ; 
+4° La collectivité sur le territoire de laquelle  est situé ou exploité à titre principal l'investissement (Martinique,
+Guadeloupe, Guyane, Réunion, Saint-Martin, Saint-Barthélemy,  Saint-Pierre-et-Miquelon, Mayotte, Nouvelle-Calédonie,
+Polynésie  française, Wallis-et-Futuna, Terres australes et antarctiques  françaises) ; 
 
-5° Le nom de la commune ou, à Wallis-et-Futuna, de la circonscription, sur le territoire de laquelle est situé ou exploité à
+5° Le nom de la commune ou, à Wallis-et-Futuna, de  la circonscription, sur le territoire de laquelle est situé ou exploité à
 titre principal l'investissement ; 
 
-6° La date de livraison ou d'achèvement, la date de début d'exploitation, ainsi que, le cas échéant, la date de mise en
+6° La date de livraison ou  d'achèvement, la date de début d'exploitation, ainsi que, le cas  échéant, la date de mise en
 location de l'investissement ; 
 
 7° Le prix de revient total hors taxes de l'investissement ; 
 
-8° S'il y a lieu, la date d'attribution, la nature et le montant de chacune des subventions accordées pour financer
-l'investissement, ainsi que le montant et la nature des aides accordées au titre d'un régime fiscal local d'aide à
+8°  S'il y a lieu, la date d'attribution, la nature et le montant de  chacune des aides publiques  accordées pour financer
+l'investissement, ainsi  que le montant et la nature des aides accordées au titre d'un régime  fiscal local d'aide à
 l'investissement ; 
 
 9° Le montant de la base de calcul de l'avantage fiscal et, s'il y a lieu, le taux de la réduction d'impôt appliquée ; 
 
-10° L'identification de chacune des entreprises exploitantes et, le cas échéant, des entreprises locataires : dénomination
-sociale ou commerciale, adresse, code activité et numéro attribué conformément aux dispositions du premier alinéa de
-l'article R. 123-221 du code de commerce ainsi que, s'il y a lieu, la nature de ses liens avec les personnes morales
-mentionnées au 1° ; 
+10°  L'identification de chacune des entreprises exploitantes et, le cas  échéant, des entreprises locataires : dénomination
+sociale ou  commerciale, adresse, code activité et numéro attribué conformément aux  dispositions du premier alinéa de
+l'article R. 123-221 du code de  commerce ainsi que, s'il y a lieu, la nature de ses liens avec les  personnes morales
+mentionnées au 1°, et le montant de chiffre d'affaires réalisé, apprécié selon les modalités définies au I de l'article 199
+undecies B du code général des impôts  ; 
 
 11° Le cas échéant, la quote-part de l'aide fiscale rétrocédée à l'exploitant ; 
 
-12° Le cas échéant, le nombre d'emplois directs, en équivalent temps plein, devant être créés ou maintenus pendant les cinq
-ou sept premières années d'exploitation de l'investissement ; 
+12°  Le cas échéant, le nombre d'emplois directs, en équivalent temps plein,  devant être créés ou maintenus pendant les cinq
+ou sept premières  années d'exploitation de l'investissement ; 
 
 13° Le cas échéant, la date de l'accord, de l'agrément ou de l'autorisation préalable de l'administration. 
 
 2. Lorsque l'investissement consiste en la réalisation de logements et ouvre droit aux dispositions prévues aux articles 199
-undecies A, 199 undecies C ou 217 undecies du code général des impôts, la personne morale précise, en outre : 
+undecies A, 199 undecies C, 217 undecies, 244 quater W ou 244 quater Xdu code général des impôts, la personne morale précise,
+en outre : 
 
 1° Si l'investissement consiste en l'acquisition, la construction ou la réhabilitation de logements ; 
 
-2° Le cas échéant, si les logements sont spécialement adaptés à l'hébergement de personnes âgées de plus de soixante-cinq ans
-ou de personnes handicapées ; 
+2°  Le cas échéant, si les logements sont spécialement adaptés à  l'hébergement de personnes âgées de plus de soixante-cinq
+ans ou de  personnes handicapées ; 
 
 3° Le nombre et le type de ces logements ; 
 
-4° Si la location de ces logements relève du secteur libre, intermédiaire ou social, ou, le cas échéant, répond à la
-condition prévue au 5° du I de l'article 199 undecies C du code général des impôts ; 
+4°  Si la location de ces logements relève du secteur libre, intermédiaire  ou social, ou, le cas échéant, répond à la
+condition prévue au 5° du I  de l'article 199 undecies C et au d du 1 du I de l'article 244 quater X du code général des
+impôts ; 
 
-5° Le cas échéant, la nature des équipements de production d'énergie renouvelable, des appareils utilisant une source
-d'énergie renouvelable, ou des matériaux d'isolation ; 
+5° Le  cas échéant, la nature des équipements de production d'énergie  renouvelable, des appareils utilisant une source
+d'énergie renouvelable,  ou des matériaux d'isolation ; 
 
-6° Si les logements sont situés sur le territoire d'une zone urbaine sensible définie au 3 de l'article 42 de la loi n°
-95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire ; 
+6° Si les logements sont situés sur le territoire de quartiers prioritaires de la politique de la ville définis à l'article 5
+de la loi n° 2014-173 du 21 février 2014 de programmation pour la ville et la cohésion urbaine  ; 
 
 7° S'il y a lieu, l'identité de l'organisme d'habitations à loyer modéré mentionné à l'article L. 411-2 du code de la
-construction et de l'habitation qui prend en location le logement ; 
+construction et de l'habitationqui prend en location le logement ; 
 
-8° S'il y a lieu, l'identité de la personne signataire du contrat de location-accession mentionnée au 1° du I bis de
-l'article 217 undecies du code général des impôts ou de la convention prévue au 7° du I de l'article 199 undecies C du même
-code ; 
+8°  S'il y a lieu, l'identité de la personne signataire du contrat de  location-accession mentionnée au 1° du I bis de
+l'article 217 undecies et au a du 3° du 4 du I de l'article 244 quater W  du code général des impôts ou de la convention
+prévue au 7° du I de  l'article 199 undecies C du même code ; 
 
-9° Le cas échéant, le montant, la date d'octroi et la référence du prêt mentionné au 2° du I bis de l'article 217 undecies du
-code général des impôts ; 
+9° Le cas échéant, le  montant, la date d'octroi et la référence du prêt mentionné au 2° du I  bis de l'article 217 undecies
+et au b du 3° du 4 du I de l'article 244 quater W du code général des impôts ; 
 
-10° La quote-part de l'aide fiscale rétrocédée à la personne physique signataire du contrat de location-accession ou à
-l'organisme d'habitations à loyer modéré locataire. 
+10° Le cas échéant, la  quote-part de l'aide fiscale rétrocédée à la personne physique  signataire du contrat de location-
+accession ou à l'organisme  d'habitations à loyer modéré locataire. 
 
-II.-Lorsque la personne réalisant directement l'investissement est une personne physique, elle déclare ses nom, prénoms et
+II.-Lorsque la personne  réalisant directement l'investissement est une personne physique, elle  déclare ses nom, prénoms et
 adresse ainsi que : 
 
 1° Les éléments mentionnés aux 3° à 9° du 1 du I, lorsque l'investissement est réalisé dans le cadre des dispositions de
 l'article 199 undecies B du code général des impôts ; 
 
-2° Les éléments mentionnés au 2 du I, lorsque l'investissement est réalisé dans le cadre des dispositions de l'article 199
-undecies C du code général des impôts ; 
+1° bis Les éléments mentionnés aux 3° à 9° du 1 du I complétés de ceux mentionnés aux 12° et 13° du 1 du I, lorsque
+l'investissement est réalisé dans le cadre des dispositions de l'article 244 quater W du code général des impôts ; 
 
-3° Les éléments mentionnés aux 1°, 3°, 4°, 5° et 6° du 2 du I, lorsque l'investissement est réalisé dans le cadre des
-dispositions des b et e du 2 de l'article 199 undecies A du code général des impôts ; 
+2°  Les éléments mentionnés au 2 du I, lorsque l'investissement est réalisé  dans le cadre des dispositions de l'article 199
+undecies C du code  général des impôts ; 
 
-4° La superficie du logement et le nombre d'occupants à titre principal, lorsque l'investissement est réalisé dans le cadre
-des dispositions du a du 2 de l'article 199 undecies A du code général des impôts.
+3° Les éléments mentionnés aux 1°, 3°, 4°,  5° et 6° du 2 du I, lorsque l'investissement est réalisé dans le cadre  des
+dispositions des b et e du 2 de l'article 199 undecies A du code  général des impôts ; 
+
+4° La superficie du logement et le nombre  d'occupants à titre principal, lorsque l'investissement est réalisé dans  le cadre
+des dispositions du a du 2 de l'article 199 undecies A du code  général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 42
+	  - Loi n°2014-173 du 21 février 2014 - art. 5
 	  - Code de commerce - art. R123-221
 	  - Code général des impôts, CGI. - art. 199 undecies A
 	  - Code général des impôts, CGI. - art. 199 undecies B
 	  - Code général des impôts, CGI. - art. 199 undecies C
 	  - Code général des impôts, CGI. - art. 217 undecies
 	  - Code général des impôts, CGI. - art. 242 sexies
+	  - Code général des impôts, CGI. - art. 244 quater W
+	  - Code général des impôts, CGI. - art. 244 quater X
 	  - Code de la construction et de l'habitation. - art. L411-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-136 du 10 février 2010 - art. 1
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
 
 
 ##### Section 0I quater : Financement en capital d'oeuvres cinématographiques ou audiovisuelles
@@ -21133,6 +21154,343 @@ général des impôts et l'origine de ce reversement ou de cet arrêt d'imputati
 	  - Code général des impôts, CGI. - art. 199 ter T
 	  - Code de la construction et de l'habitation. - art. L31-10-6
 	  - Code de la construction et de l'habitation. - art. L312-1
+
+
+##### Section V duovicies : Crédit d'impôt en faveur des investissements productifs neufs réalisés outre-mer
+
+###### Article 49 septies ZZL
+
+Les investissements productifs neufs réalisés dans les départements d'outre-mer qui ouvrent droit au crédit d'impôt prévu au
+I de l'article 244 quater W du code général des impôts sont les acquisitions ou créations d'immobilisations corporelles,
+neuves et amortissables, affectées aux activités relevant des secteurs éligibles en vertu des dispositions du I de l'article
+199 undecies B du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 undecies B
+	  - Code général des impôts, CGI. - art. 244 quater W
+
+
+###### Article 49 septies ZZM
+
+Le crédit d'impôt prévu au I de l'article 244 quater W du code général des impôts est déterminé en tenant compte du montant
+des aides publiques ou, lorsque l'investissement consiste en l'acquisition ou la construction de logements neufs, des
+subventions publiques, obtenues ou demandées et non encore accordées à la date de clôture de l'exercice au cours duquel
+l'investissement est réalisé. S'il y a lieu, le montant du crédit d'impôt est régularisé au titre de l'exercice au cours
+duquel intervient la décision concernant leur octroi et leur montant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater W
+
+
+###### Article 49 septies ZZN
+
+Le crédit d'impôt prévu au I de l'article 244 quater W du code général des impôts n'est pas imputable sur l'impôt résultant
+de la reprise des crédits d'impôt prévus à cet article ou à l'article 244 quater X du même code antérieurement obtenus ou des
+réductions d'impôt prévues à l'article 199 undecies B du code général des impôts et des déductions fiscales prévues à
+l'article 217 undecies du même code antérieurement pratiquées, ni sur l'impôt résultant de la majoration du revenu global
+effectuée en application des vingt-troisième, vingt-cinquième et vingt-sixième alinéas du I de l'article 199 undecies B du
+code susmentionné.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 undecies B
+	  - Code général des impôts, CGI. - art. 244 quater W
+
+
+###### Article 49 septies ZZO
+
+Pour l'application du a du 2 du I de l'article 244 quater W du code général des impôts, les véhicules strictement
+indispensables à l'activité de l'exploitant sont définis par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater W
+
+
+###### Article 49 septies ZZP
+
+Pour l'application du b du 1° du 4 du I de l'article 244 quater W du code général des impôts, le loyer et les ressources du
+locataire ne peuvent excéder les plafonds mentionnés respectivement au 1° du 1 et au 2 de l'article 46 AG duodecies.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater W
+
+
+###### Article 49 septies ZZQ
+
+L'option mentionnée au V de l'article 244 quater W du code général des impôts est formulée sur un document conforme à un
+modèle établi par l'administration, auprès du service des impôts du lieu de dépôt de la déclaration de résultat de
+l'exercice, avec la déclaration de résultat de l'exercice au titre duquel le crédit d'impôt est accordé en application du IV
+de l'article 244 quater W susmentionné.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater W
+
+
+###### Article 49 septies ZZR
+
+1. Pour l'application des dispositions des articles 199 ter U, 220 Z quater et 244 quater W du code général des impôts, les
+entreprises souscrivent une déclaration spéciale conforme au modèle établi par l'administration, qu'elles déposent auprès du
+service des impôts dont elles dépendent, au titre de l'exercice au cours duquel l'investissement est mis en service ou est
+mis à leur disposition dans le cadre d'un contrat de location avec option d'achat ou de crédit-bail ou, en cas d'acquisition
+d'immeuble à construire ou de construction d'immeuble, au titre de chacun des exercices au cours desquels interviennent
+l'achèvement des fondations, la mise hors d'eau et la livraison de l'immeuble ou, en cas de rénovation ou de réhabilitation
+d'immeuble, au titre de l'exercice d'achèvement des travaux.
+
+Les personnes morales passibles de l'impôt sur les sociétés déposent cette déclaration spéciale dans les mêmes délais que le
+relevé de solde mentionné à l'article 360 de la présente annexe.
+
+S'agissant des sociétés relevant du régime des groupes de sociétés prévu aux articles 223 A et 223 A bis du code général des
+impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du groupe, y compris celle la
+concernant, dans les mêmes délais que le relevé de solde relatif au résultat d'ensemble du groupe.
+
+Les autres entreprises déposent la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
+qu'elles sont tenues de souscrire en application de l'article 53 A du code général des impôts.
+
+L'associé d'une société de personnes ou d'un groupement mentionnés au VI de l'article 244 quater W susmentionné dépose une
+déclaration spéciale indiquant la quote-part des crédits d'impôt provenant de chacune des sociétés de personnes ou
+groupements assimilés dont il est associé. L'associé personne physique qui ne bénéficie que d'un crédit d'impôt correspondant
+à sa participation dans ces sociétés de personnes ou groupements est dispensé de déposer la déclaration spéciale
+correspondante.
+
+En cas de pluralité d'investissements au titre d'un même exercice, les exploitants souscrivent également une déclaration
+récapitulative dans les mêmes délais que la déclaration spéciale mentionnée au premier alinéa.
+
+2. Pour l'application du 4 du I de l'article 244 quater W du code général des impôts, les entreprises joignent à la
+déclaration spéciale mentionnée au 1 les documents énumérés au II de l'article 46 AG quaterdecies.
+
+Si le bail n'est pas signé à la date de souscription de la déclaration susmentionnée, les documents relatifs au bail et au
+locataire sont joints à la déclaration de l'exercice au cours duquel le bail est signé. Il en est de même en cas de
+changement de locataire pendant la période indiquée au a du 1° du 4 du I de l'article 244 quater W du code général des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 ter U
+	  - Code général des impôts, CGI. - art. 220 Z quater
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 223 A bis
+	  - Code général des impôts, CGI. - art. 244 quater W
+	  - Code général des impôts, CGI. - art. 53 A
+
+
+###### Article 49 septies ZZS
+
+La créance mentionnée au deuxième alinéa de l'article 199 ter U du code général des impôts ne peut faire l'objet que d'une
+seule cession ou d'un seul nantissement, pour son montant total ou partiel. En cas de pluralité d'investissements au titre
+d'un exercice, la créance mentionnée à cet article est déterminée de manière distincte par programme d'investissements, au
+titre de l'ensemble des investissements d'un même programme au titre dudit exercice. Lorsque, en cas d'acquisition d'immeuble
+à construire ou de construction d'immeuble, le crédit d'impôt est accordé au titre de plusieurs exercices distincts en
+application du a du 2 du IV de l'article 244 quater W du code général des impôts, la créance mentionnée à l'article 199 ter U
+susmentionné est déterminée distinctement au titre de chacun des exercices concernés.
+
+Le comptable de la direction générale des finances publiques adresse à l'établissement de crédit cessionnaire :
+
+1° A réception de la notification de la cession ou du nantissement de la créance, un certificat indiquant si la créance
+mentionnée au premier alinéa a déjà fait ou non l'objet d'une cession ou d'un nantissement antérieur ;
+
+2° A réception de la déclaration spéciale faisant état d'une cession ou d'un nantissement de créance mentionné au premier
+alinéa souscrite par l'entreprise bénéficiaire du crédit d'impôt prévu à l'article 244 quater W du code général des impôts,
+un certificat de créance mentionnant le montant à hauteur duquel la cession ou le nantissement peut être pris en compte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 199 ter U
+	  - Code général des impôts, CGI. - art. 244 quater W
+
+
+##### Section V tervicies : Crédit d'impôt en faveur des organismes d'habitations à loyer modéré qui réalisent des investissements dans les logements neufs en outre-mer
+
+###### Article 49 septies ZZT
+
+Pour l'application de l'article 244 quater X du code général des impôts : 
+
+1° Le montant annuel des ressources mentionnées au b du 1 du I ne peut excéder les plafonds indiqués au 1° du I de l'article
+46 AG sexdecies ; 
+
+2° Le montant des loyers mentionnés au c du 1 du I ne peut excéder les plafonds indiqués aux 1° et 3° du II de l'article 46
+AG sexdecies ; 
+
+3° a) La part minimale de la surface habitable des logements mentionnée au d du 1 du I est fixée à 30 % ; 
+
+b) Le montant annuel des ressources mentionnées au d du 1 du I ne peut excéder les plafonds indiqués au 1° du 2 du III de
+l'article 46 AG sexdecies ; 
+
+c) Le montant des loyers mentionnés au d du 1 du I ne peut excéder les plafonds indiqués aux 1° et 3° du 3 du III de
+l'article 46 AG sexdecies ; 
+
+4° La fraction mentionnée au e du 1 du I est égale à 4,5 % du coût de la construction au sens des 4° et 5° du VI de l'article
+46 AG sexdecies lorsque tous les logements sont équipés d'une installation d'eau chaude sanitaire et à 3,5 % dans les autres
+cas ; 
+
+5° Le prix de revient mentionné au 1 du II inclut, pour leur montant réel et justifié, les sommes indiquées au VI de
+l'article 46 AG sexdecies ; 
+
+6° a) Les ressources du locataire, les personnes composant son foyer ou à sa charge sont déterminées conformément aux premier
+et quatrième alinéas du 2 de l'article 46 AG duodecies ; 
+
+b) La surface à prendre en compte est déterminée conformément au III de l'article 46 AG terdecies ; 
+
+c) Les travaux de réhabilitation mentionnés au 3 du I s'entendent de ceux qui satisfont aux conditions prévues à l'article 46
+AG terdecies A.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 terdecies A
+	  - Code général des impôts, CGI. - art. 244 quater X
+
+
+###### Article 49 septies ZZU
+
+L'option mentionnée au V de l'article 244 quater X du code général des impôts est formulée sur un document conforme à un
+modèle établi par l'administration, auprès du service des impôts du lieu de dépôt de la déclaration du résultat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater X
+
+
+###### Article 49 septies ZZV
+
+Pour l'application des dispositions des articles 220 Z quinquies et 244 quater X du code général des impôts, les organismes
+souscrivent une déclaration spéciale conforme au modèle établi par l'administration, qu'ils déposent auprès du service des
+impôts du lieu de dépôt de leur déclaration de résultat.
+
+Cette déclaration spéciale est déposée dans les mêmes délais que la déclaration annuelle de résultat que les organismes sont
+tenus de souscrire en application de l'article 53 A du code général des impôts au titre de l'exercice au cours duquel
+intervient l'acquisition de l'immeuble ou sa mise à disposition dans le cadre d'un contrat de crédit-bail. En cas de
+construction d'immeuble, la déclaration spéciale est déposée au titre de chacun des exercices au cours desquels interviennent
+l'achèvement des fondations, la mise hors d'eau et la livraison de l'immeuble. En cas de réhabilitation de logements, la
+déclaration spéciale est déposée au titre de l'exercice d'achèvement des travaux.
+
+En cas de pluralité d'investissements au titre d'un même exercice, les organismes souscrivent également une déclaration
+récapitulative dans les mêmes délais que la déclaration spéciale visée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 Z quinquies
+	  - Code général des impôts, CGI. - art. 244 quater X
+	  - Code général des impôts, CGI. - art. 53 A
+
+
+###### Article 49 septies ZZW
+
+La créance mentionnée au troisième alinéa de l'article 220 Z quinquies du code général des impôts ne peut faire l'objet que
+d'une seule cession ou d'un seul nantissement, pour son montant total ou partiel. En cas de pluralité d'investissements au
+titre d'un exercice, la créance mentionnée à la phrase précédente est déterminée de manière distincte par programme
+d'investissements, au titre de l'ensemble des investissements d'un même programme au titre dudit exercice. Lorsque, en cas de
+construction d'immeuble, le crédit d'impôt est accordé au titre de plusieurs exercices distincts en application du a du 2 du
+IV de l'article 244 quater X du même code, la créance mentionnée à l'article 220 Z quinquies susmentionné est déterminée
+distinctement au titre de chacun des exercices concernés.
+
+Le comptable de la direction générale des finances publiques adresse à l'établissement de crédit cessionnaire :
+
+1° A réception de la notification de la cession ou du nantissement de la créance, un certificat indiquant si la créance
+mentionnée au premier alinéa a déjà fait ou non l'objet d'une cession ou d'un nantissement antérieur ;
+
+2° A réception de la déclaration spéciale faisant état d'une cession ou d'un nantissement de créance mentionné au premier
+alinéa souscrite par l'organisme bénéficiaire du crédit d'impôt prévu à l'article 244 quater X du code général des impôts, un
+certificat de créance mentionnant le montant à hauteur duquel la cession ou le nantissement peut être pris en compte.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 Z quinquies
+	  - Code général des impôts, CGI. - art. 244 quater X
+
+
+###### Article 49 septies ZZX
+
+La fraction minimale de 5 % de financement par subvention publique des logements, mentionnée au f du 1 du I de l'article 244
+quater X du code général des impôts, est déterminée, pour chaque programme d'investissement, par rapport au montant retenu
+pour le calcul du crédit d'impôt prévu à l'article 244 quater X susmentionné, selon les modalités prévues au 1 du II du même
+article.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 244 quater X
 
 
 ##### Section VI : Indemnités de congé payé

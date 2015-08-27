@@ -89,12 +89,6 @@ construction et de l'habitation, dans la limite globale de 12 % du montant total
 limite peut être portée à 15 % pour les programmes ou ensembles d'investissements d'un montant inférieur à 10 millions
 d'euros. 
 
-Lorsque, dans les départements d'outre-mer, à Saint-Martin et à Mayotte, l'investissement mentionné au I de l'article 199
-undecies C du code général des impôts fait l'objet d'une subvention de l'Etat dans les conditions fixées aux articles R.
-372-1 et suivants du code de la construction et de l'habitation, le prix de revient mentionné au II de l'article 199 undecies
-C est celui retenu pour le calcul de l'assiette de subvention tel que prévu à l'article R. 372-9 du code de la construction
-et de l'habitation, dans la limite définie au II de l'article 199 undecies C. 
-
 VII.-1. Pour l'application des dispositions de l'article 199 undecies C du code général des impôts, les ressources du
 locataire, les personnes composant son foyer ou à sa charge et la surface à prendre en compte sont déterminées ainsi qu'il
 est dit aux articles 46 AG duodecies et 46 AG terdecies. 
@@ -102,11 +96,16 @@ est dit aux articles 46 AG duodecies et 46 AG terdecies.
 2. Les travaux de réhabilitation mentionnés au VI de l'article 199 undecies C du code général des impôts s'entendent de ceux
 qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 
+VIII. - La fraction minimale de 5 % de financement par subvention publique des logements, mentionnée au 9° du I de l'article
+199 undecies C du code général des impôts, est déterminée, pour chaque programme d'investissement, par rapport au montant
+retenu pour le calcul de la réduction d'impôt prévue au même article 199 undecies C, selon les modalités prévues au II du
+même article.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-34 du 16 janvier 2015 - art. 2
+	  - Décret n°2015-1059 du 25 août 2015 - art. 1
 
 	**Cité par**:
 
@@ -121,7 +120,5 @@ qui satisfont aux conditions prévues à l'article 46 AG terdecies A.
 	  - Code général des impôts, CGI. - art. 199 undecies C
 	  - Code de la construction et de l'habitation. - art. L111-30
 	  - Code de la construction et de l'habitation. - art. R331-76-5-1
-	  - Code de la construction et de l'habitation. - art. R372-1
 	  - Code de la construction et de l'habitation. - art. R372-21
 	  - Code de la construction et de l'habitation. - art. R372-7
-	  - Code de la construction et de l'habitation. - art. R372-9
