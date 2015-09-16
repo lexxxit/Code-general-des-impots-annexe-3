@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-08-28
+Version Consolidée au 2015-09-17
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -41477,6 +41477,118 @@ solde la dette exigible.
 
 (1) Pour le paiement par chèque, voir annexe IV, art. 199 à 202 et 204.
 
+
+
+###### Article 382 A
+
+Les contribuables ont la faculté d'acquitter leurs contributions et taxes assimilées à la caisse d'un comptable de la
+direction générale des finances publiques chargé du recouvrement des impôts directs autre que celui de la commune
+d'imposition. 
+
+Ces versements sont admis sur la présentation d'un avis d'imposition, d'un extrait du rôle, d'un acte de poursuites ou d'une
+autre pièce officielle constatant la dette du contribuable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
+
+
+###### Article 382 B
+
+Les contribuables restent débiteurs des frais de poursuites exposés par le comptable public chargé du recouvrement des impôts
+directs du lieu de l'imposition avant la réception de l'avis de recouvrement que le comptable public qui a reçu les fonds est
+tenu de lui transférer sans délai.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
+
+
+###### Article 382 C
+
+1. Le paiement des impôts directs peut s'effectuer, sur option du contribuable, par prélèvement à l'échéance opéré à
+l'initiative de la direction générale des finances publiques sur l'un des comptes mentionnés à l'article 1681 D du code
+général des impôts. 
+
+2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II au code général des impôts. Elle peut
+être exercée jusqu'à la fin du mois qui précède la date limite de paiement. 
+
+3. Le contribuable peut renoncer à son option en adressant, au comptable public chargé du recouvrement, une dénonciation
+jusqu'à la fin du mois qui précède la date limite de paiement de l'impôt concerné. 
+
+4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
+impôts et à la date limite de paiement fixée à l'article 1731 B du même code pour la cotisation foncière des entreprises et
+l'imposition forfaitaire sur les entreprises de réseaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 D
+	  - Code général des impôts, CGI. - art. 1730
+	  - article 376 ter de l'annexe II au code général des impôts
+
+
+###### Article 382 D
+
+1. Le paiement des acomptes et du solde de l'impôt sur le revenu, des contributions sociales recouvrées comme en matière
+d'impôt sur le revenu, de l'impôt de solidarité sur la fortune émis par voie de rôle, des taxes foncières, de la taxe
+d'habitation et de la contribution à l'audiovisuel public, ainsi que des impositions recouvrées selon les mêmes règles que
+ces impositions, peut être effectué par télérèglement, sur option du contribuable, qui ordonne l'opération sur l'un des
+comptes mentionnés à l'article 1681 D du code général des impôts. 
+
+2. L'option est exercée expressément à chaque échéance d'impôt. 
+
+3. Pour l'application du 5 de l'article 1730 du code précité, l'option du contribuable pour le télérèglement de ses impôts
+dans les conditions mentionnées aux 1,2 et 4 du présent article peut être exercée, sans majoration, jusqu'au cinquième jour,
+à minuit, qui suit la date limite de paiement pour les impôts mentionnés au 1 du présent article. 
+
+4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 D
+
+
+###### Article 382 E
+
+1. Le télérèglement de la cotisation foncière des entreprises et de l'imposition forfaitaire sur les entreprises de réseaux
+en application des 1 et 6 de l'article 1681 septies du code général des impôts et le télérèglement sur option des taxes
+foncières sur les propriétés bâties et non bâties et de leurs taxes additionnelles et annexes en application du 2 du même
+article sont ordonnés par l'entreprise sur l'un des comptes mentionnés à l'article 1681 D du même code. 
+
+2. Le télérèglement peut être ordonné jusqu'aux dates limites, à minuit, fixées à l'article 1731 B du code précité pour le
+paiement de l'acompte et du solde de la cotisation foncière des entreprises et de l'imposition forfaitaire sur les
+entreprises de réseaux et au a du 2 de l'article 1730 du même code pour le paiement des taxes foncières sur les propriétés
+bâties et non bâties et de leurs taxes additionnelles et annexes. 
+
+3. Les prélèvements sont effectués le lendemain des dates limites de paiement fixées à l'article 1731 B et au a du 2 de
+l'article 1730 précités. Le délai d'exécution des prélèvements est éventuellement majoré du délai de présentation
+interbancaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 septies
 
 
 ###### Article 383 bis
