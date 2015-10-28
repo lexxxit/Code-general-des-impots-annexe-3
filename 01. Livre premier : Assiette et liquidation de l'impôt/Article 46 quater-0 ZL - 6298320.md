@@ -37,7 +37,7 @@ value ou moins-value nette à long terme d'ensemble en application de l'article 
 5. Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme
 d'ensemble et les crédits d'impôt susceptibles d'être utilisés par la société mère. 
 
-6. Dans les situations visées aux c, d, e, f, g ou i du 6 de l'article 223 L du code général des impôts, des états faisant
+6. Dans les situations visées aux c, d, e, f, g, i ou j du 6 de l'article 223 L du code général des impôts, des états faisant
 apparaître : 
 
 a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé ou des sociétés
@@ -66,8 +66,8 @@ déductibles du résultat d'ensemble au titre de l'exercice et le suivi des int�
 article. 
 
 10. Un état des rectifications prévues aux deuxième, troisième, quatrième, septième et dix-huitième alinéas de l'article 223
-B et à l'article 223 D du code général des impôts qui sont afférentes à des sociétés du groupe détenues par l'intermédiaire
-d'une société intermédiaire. 
+B et à l'article 223 D du code général des impôts qui sont afférentes aux opérations réalisées entre des sociétés du groupe
+et des sociétés intermédiaires, des sociétés étrangères ou l'entité mère non résidente. 
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
@@ -75,13 +75,13 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-221
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
 	  - Code général des impôts, CGI. - art. 223 B
 	  - Code général des impôts, CGI. - art. 223 D
 	  - Code général des impôts, CGI. - art. 223 E

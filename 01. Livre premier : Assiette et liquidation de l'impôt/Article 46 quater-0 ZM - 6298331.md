@@ -1,31 +1,34 @@
 # Article 46 quater-0 ZM
 
-Pour acquitter l'impôt correspondant aux redressements acceptés du résultat d'une société du groupe, la société mère visée à
-l'article 223 A du code général des impôts souscrit dans les conditions prévues à l'article 46 quater-0 ZL et dans les trois
-mois de l'acceptation des redressements une déclaration rectificative du résultat d'ensemble des exercices au titre desquels
-l'impôt est dû.
+Les règles prévues à la présente annexe concernant la société mère d'un groupe au sens de l'article 223 A du code général des
+impôts sont applicables à l'établissement public industriel et commercial qui se constitue seul redevable de l'impôt sur les
+sociétés en application des dispositions de l'article 223 A bis du même code. Les règles prévues à la présente annexe
+concernant les sociétés membres d'un groupe sont applicables aux établissements publics industriels et commerciaux et aux
+sociétés membres d'un groupe au sens de l'article 223 A bis du code précité. 
 
-Cette déclaration mentionne la nature et le montant des redressements pour lesquels l'impôt est acquitté. Elle est
-accompagnée des pièces prévues à l'article 46 quater-0 ZL.
+Les documents qu'adresse, en application du 2 de l'article 46 quater-0 ZD, l'établissement public qui s'est constitué seul
+redevable de l'impôt sur les sociétés dû sur l'ensemble des résultats d'un groupe au sens de l'article 223 A bis du code
+général des impôts sont complétés, dans le délai prévu au même 2, de l'extrait de l'annexe comptable comportant les
+informations suivantes sur les comptes consolidés établis dans les conditions prévues au premier alinéa de l'article L.
+233-18 du code de commerce : nom de l'établissement public industriel et commercial qui établit les comptes consolidés, liste
+des établissements du périmètre de consolidation et description de la nature des liens qui permettent de fonder les critères
+de sélection des établissements dont les comptes sont consolidés, ainsi que l'indication des motifs qui justifient la non-
+consolidation de certains établissements.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 A
-	  - CGIAN3 46 quater-0 ZL
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
-	  - HISTO: Edition du 27 octobre 1995
-	  - PEREMPTION: Loi n°94-1163 1994-12-29 art. 31 Finances rectificative pour 1994 JORF 30 décembre 1994, article sans objet
-
-	**Créé par**:
-
-	  - Décret n°88-318 du 28 mars 1988 - art. 11 (V) JORF 8 avril 1988
-
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°88-1001 du 20 octobre 1988
+	  - Décret n°95-1281 du 11 décembre 1995
+
+	**Modifié par**:
+
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-18
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZD
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 223 A bis

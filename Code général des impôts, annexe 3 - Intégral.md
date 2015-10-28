@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-09-17
+Version Consolidée au 2015-10-29
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15464,8 +15464,8 @@ répondent pas aux conditions du 5° du 1 de l'article 39 du code général des 
 
 ###### Article 46 quater-0 ZD
 
-Les options mentionnées aux premier, deuxième et troisième alinéas de l'article 223 A du code général des impôts sont
-notifiées au service des impôts auprès duquel est souscrite la déclaration du résultat d'ensemble. 
+Les options mentionnées aux premier, deuxième, quatrième et cinquième alinéas du I de l'article 223 A du code général des
+impôts sont notifiées au service des impôts auprès duquel est souscrite la déclaration du résultat d'ensemble. 
 
 La société mère adresse à ce même service : 
 
@@ -15474,21 +15474,37 @@ La société mère adresse à ce même service :
 a) la liste des personnes morales et des établissements stables qui seront membres du groupe. Cette liste indique, pour
 chaque société mentionnée au b, sa désignation, l'adresse de son siège social et la répartition de son capital et, pour
 chaque autre personne morale, sa désignation, l'adresse de son siège social et, le cas échéant, celle de son établissement
-stable, et la nature du lien qui l'unit à l'entité tête du groupe formé en application du deuxième ou troisième alinéa de
-l'article 223 A du code général des impôts ; 
+stable, et la nature du lien qui l'unit à l'entité tête du groupe formé en application du quatrième ou cinquième alinéa du I
+de l'article 223 A du code général des impôts ; 
 
 a bis) La liste des personnes morales et des établissements stables qui seront qualifiés de sociétés intermédiaires. Cette
 liste indique, pour chaque société mentionnée au b bis, sa désignation, l'adresse de son siège social, l'impôt étranger
 équivalent à l'impôt sur les sociétés auquel elle est soumise et la répartition de son capital et, pour chaque autre personne
 morale, sa désignation, l'adresse de son siège social et, le cas échéant, celle de son établissement stable, l'impôt étranger
 équivalent à l'impôt sur les sociétés auquel elle ou son établissement stable est soumis et la nature du lien qui l'unit à
-l'entité tête du groupe formé en application du deuxième ou troisième alinéa de l'article 223 A du code général des impôts ; 
+l'entité tête du groupe formé en application du quatrième ou cinquième alinéa du I de l'article 223 A du code général des
+impôts ; 
+
+a ter) La liste des personnes morales et des établissements stables qui seront qualifiés de sociétés étrangères, comportant
+aussi la désignation de l'entité mère non résidente. Cette liste indique, pour chaque société étrangère et pour l'entité mère
+non résidente, sa désignation, l'adresse de son siège social, l'impôt étranger équivalent à l'impôt sur les sociétés auquel
+elle est soumise et la répartition de son capital et, pour chaque autre personne morale, sa désignation, l'adresse de son
+siège social et, le cas échéant, celle de son établissement stable, l'impôt étranger équivalent à l'impôt sur les sociétés
+auquel elle ou son établissement stable est soumis ; 
 
 b) Des attestations par lesquelles les sociétés filiales font connaître leur accord pour que la société mère retienne leurs
 propres résultats pour la détermination du résultat d'ensemble ;
 
 b bis) Des attestations par lesquelles les sociétés filiales font connaître leur accord pour qu'elles soient qualifiées de
 sociétés intermédiaires ; 
+
+b ter) Des attestations par lesquelles l'entité mère non résidente et les sociétés étrangères font connaître leur accord pour
+l'option de la société mère dans les conditions du deuxième alinéa du I de l'article 223 A du code général des impôts.
+
+Les sociétés membres d'un groupe constitué en application du deuxième alinéa du I de l'article 223 A du code général des
+impôts, autres que la société mère, accompagnent leurs attestations mentionnées au b d'attestations par lesquelles l'entité
+mère non résidente et, s'il y a lieu, les sociétés étrangères, font connaître leur accord pour que les résultats de ces
+sociétés soient retenus pour la détermination du résultat d'ensemble ; 
 
 c) Le cas échéant, le document visé au premier alinéa du c du 6 de l'article 223 L du code général des impôts ou au deuxième
 alinéa du g du 6 du même article, qui comporte la liste et les attestations précédemment mentionnées. 
@@ -15502,11 +15518,18 @@ l'exercice suivant ;
 a bis) La liste des sociétés intermédiaires définies à l'article 223 A du code général des impôts ainsi que des sociétés qui
 cessent d'être qualifiées de sociétés intermédiaires au titre de l'exercice suivant ; 
 
+a ter) La liste des sociétés qui seront qualifiées de sociétés étrangères au sens de l'article 223 A du code général des
+impôts, au titre de l'exercice suivant, ainsi que la liste des sociétés qui cessent d'être qualifiées de sociétés étrangères
+au titre de cet exercice suivant ; 
+
 b) Les attestations mentionnées au b du 1 produites par les sociétés qui seront membres du groupe à compter de cet exercice
 suivant ; 
 
 b bis) Les attestations mentionnées au b bis du 1 produites par les sociétés qui seront qualifiées de sociétés intermédiaires
 à compter de cet exercice suivant ; 
+
+b ter) Les attestations mentionnées au b ter du I produites par les sociétés qui seront qualifiées de sociétés étrangères à
+compter de cet exercice suivant ;  
 
 c) le cas échéant, l'extrait de l'annexe comptable comportant les informations suivantes sur les comptes combinés : nom de
 l'entreprise combinante, liste des entreprises du périmètre de combinaison et description de la nature des liens qui
@@ -15516,9 +15539,11 @@ motifs qui justifient la non-combinaison de certaines entreprises ;
 d) Le cas échéant, la référence de l'agrément collectif délivré par l'Autorité de contrôle prudentiel et de résolution pour
 elle-même et pour les caisses locales qui la détiennent.
 
-2 bis. Dans les trois mois de l'acquisition des titres d'une société du groupe ou d'une autre société intermédiaire,
-l'attestation mentionnée au b bis du 1 produite par la société qui sera qualifiée de société intermédiaire à compter de
-l'exercice au cours duquel est intervenue cette acquisition. 
+2 bis. Dans les trois mois de l'acquisition des titres d'une société du groupe ou d'une autre société intermédiaire ou d'une
+société étrangère, l'attestation mentionnée au b bis du 1 produite par la société qui sera qualifiée de société intermédiaire
+à compter de l'exercice au cours duquel est intervenue cette acquisition, ou celle mentionnée, selon le cas, au premier ou au
+second alinéa du b ter du 1 produite par la société qui sera qualifiée de société étrangère à compter de l'exercice au cours
+duquel est intervenue cette acquisition. 
 
 3. En même temps que la déclaration du résultat d'ensemble de l'exercice au cours duquel le capital de la société mère vient
 à être détenu à hauteur de 95 % au moins, directement ou indirectement, par une personne morale passible de l'impôt sur les
@@ -15526,6 +15551,13 @@ sociétés dans les conditions prévues au premier alinéa du d du 6 de l'articl
 signée des représentants dûment mandatés de la société mère et de la société détentrice des titres qui indique, de manière
 précise, la nature, les circonstances et les justifications juridiques, économiques ou sociales de l'opération à l'origine de
 la détention en cause.
+
+Les dispositions du premier alinéa s'appliquent également lorsque le capital de l'entité mère non résidente vient à être
+détenu à hauteur de 95 % au moins, directement ou indirectement par une autre personne morale passible de l'impôt sur les
+sociétés, ou par une autre société ou un autre établissement stable remplissant les conditions définies au deuxième alinéa du
+I de l'article 223 A du code général des impôts, dans les conditions prévues au premier alinéa du d du 6 de l'article 223 L
+du même code. Dans ce cas, la lettre mentionnée au premier alinéa est signée des représentants dûment mandatés de l'entité
+mère non résidente et de la personne morale détentrice des titres.
 
 **Nota:**
 
@@ -15535,11 +15567,11 @@ Modifications effectuées en conséquence de l'article 24-I de la loi n° 2013-6
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZE (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZE (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZM (V)
 
 	**Cite**:
@@ -15555,7 +15587,7 @@ l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles rel�
 dépôt de la déclaration de résultat de l'exercice précédant celui au titre duquel le régime défini à l'article 223 A précité
 s'applique. L'accord est valable jusqu'à la sortie du groupe de la société filiale concernée. Il peut être dénoncé au plus
 tard à l'expiration du délai de dépôt de la déclaration de résultat du dernier exercice précédant la période couverte par le
-renouvellement de l'option prévu au septième alinéa de l'article 223 A précité. 
+renouvellement de l'option prévu au deuxième alinéa du III  de l'article 223 A précité. 
 
 Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
 décision de la société mère en informent le service des impôts dont elles relèvent au plus tard à l'expiration du délai de
@@ -15568,28 +15600,28 @@ conformes aux modèles établis par l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2009-684 du 12 juin 2009 - art. 1
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZD
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZD (V)
 	  - Code général des impôts, CGI. - art. 223 A
 
 
 ###### Article 46 quater-0 ZF
 
-Pour l'application des dispositions de l'article 223 A du code général des impôts, la détention de 95% au moins du capital
-d'une société s'entend de la détention en pleine propriété de 95% au moins des droits à dividendes et de 95% au moins des
-droits de vote attachés aux titres émis par cette société.
+Pour l'application des dispositions de l'article 223 A du code général des impôts, les droits détenus indirectement à 95 % au
+moins s'entendent des droits détenus par l'intermédiaire d'une chaîne de participation.  Le pourcentage de ces droits est
+apprécié en multipliant entre eux les taux de détention successifs. Toutefois, pour cette appréciation, la société qui
+détient 95% au moins du capital d'une autre société est considérée comme détenant ce capital en totalité. La phrase
+précédente ne s'applique pas pour l'appréciation de la détention du capital de la société mère d'un groupe formé en
+application des premier, quatrième ou cinquième alinéas du I de l'article 223 A du code général des impôts, ni pour
+l'appréciation de la détention du capital d'une entité mère non résidente au sens du deuxième alinéa du I de l'article 223 A
+précité.
 
-Les droits détenus indirectement s'entendent des droits détenus par l'intermédiaire d'une chaîne de participation. Le
-pourcentage de ces droits est apprécié en multipliant entre eux les taux de détention successifs. Toutefois, pour cette
-appréciation, la société qui détient 95% au moins du capital d'une autre société est considérée comme détenant ce capital en
-totalité.
-
-Peuvent être membres du groupe les sociétés détenues, dans les conditions mentionnées aux deux alinéas précédents, par une
-société étrangère dont l'établissement stable est membre du groupe, à la condition que leurs titres soient inscrits à l'actif
-du bilan fiscal de cet établissement stable.
+Peuvent être membres du groupe les sociétés détenues, dans les conditions mentionnées au sixième alinéa du I de l'article 223
+A du code général des impôts, par une société établie hors de France  dont l'établissement stable est membre du groupe, à la
+condition que leurs titres soient inscrits à l'actif du bilan fiscal de cet établissement stable.
 
 **Liens relatifs à cet article**
 
@@ -15599,7 +15631,7 @@ du bilan fiscal de cet établissement stable.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cite**:
 
@@ -15671,11 +15703,13 @@ montant cumulé des plus-values ou des moins-values de cession de titres qui n'o
 ou de la plus-value ou moins-value nette à long terme d'ensemble en application de l'article 223 F lorsque :
 
 a) La cession est réalisée par une société du groupe à une société autre qu'une société du groupe ou autre qu'une société
-intermédiaire et porte sur des titres d'une autre société du groupe ;
+intermédiaire, une société étrangère ou une entité mère non résidente, et porte sur des titres d'une autre société du
+groupe ;
 
-b) La cession est réalisée par une société intermédiaire à une société autre qu'une société du groupe ou autre qu'une société
-intermédiaire et porte sur des titres d'une société qui demeure dans le groupe et qui ont été préalablement acquis auprès
-d'une société du groupe. 
+b) La cession est réalisée par une société intermédiaire, une société étrangère ou une entité mère non résidente, à une
+société autre qu'une société du groupe ou autre qu'une société intermédiaire, une société étrangère ou une entité mère non
+résidente  et porte sur des titres d'une société qui demeure dans le groupe et qui ont été préalablement acquis auprès d'une
+société du groupe. 
 
 III. 1. Les dispositions du 2 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé une
 immobilisation autre que les titres d'une société du groupe à une autre société du groupe ou lors de la sortie du groupe de
@@ -15689,15 +15723,16 @@ Pour une immobilisation amortissable, sa valeur nette comptable dans les écritu
 Pour une immobilisation non amortissable, son prix d'acquisition par la société qui en est propriétaire.
 
 2. Les dispositions du 3 du II s'appliquent également lors de la sortie du groupe d'une des sociétés qui ont cédé des titres
-d'une société du groupe à une autre société du groupe ou à une société intermédiaire ou lors de la sortie du groupe de la
-société qui est propriétaire de ces titres, ou lors de la sortie du groupe d'une société dont les titres ont fait l'objet
-d'une cession à une société intermédiaire.
+d'une société du groupe à une autre société du groupe ou à une société intermédiaire, ou à une société étrangère ou à une
+entité mère non résidente,  ou lors de la sortie du groupe de la société qui est propriétaire de ces titres, ou lors de la
+sortie du groupe d'une société dont les titres ont fait l'objet d'une cession à une société intermédiaire, ou à une société
+étrangère ou à une entité mère non résidente.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cité par**:
 
@@ -15734,11 +15769,11 @@ société selon les modalités prévues à l'article 1668 du même code.
 1. Pour l'application des dispositions du 5 de l'article 223 I du code général des impôts, la fraction du déficit
 correspondant à celui des sociétés membres du groupe ayant cessé ou des sociétés apportées et faisant partie du nouveau
 groupe et pour lesquelles le bénéfice de ces dispositions est demandé est calculée par application au déficit restant à
-reporter après, le cas échéant, les réintégrations mentionnées aux c, d, e, f ou i du 6 de l'article 223 L du code général
-des impôts, du rapport existant, pour chaque exercice, entre la somme des déficits pris en compte pour la détermination du
-résultat d'ensemble au titre de ces sociétés et la somme des déficits de même nature pris en compte pour l'ensemble des
-sociétés du groupe. Cette fraction ne peut excéder le montant dont le transfert a été admis, le cas échéant, dans le cadre
-d'une décision d'agrément prise en application du II de l'article 209 du même code. 
+reporter après, le cas échéant, les réintégrations mentionnées aux c, d, e, f, i ou j  du 6 de l'article 223 L du code
+général des impôts, du rapport existant, pour chaque exercice, entre la somme des déficits pris en compte pour la
+détermination du résultat d'ensemble au titre de ces sociétés et la somme des déficits de même nature pris en compte pour
+l'ensemble des sociétés du groupe. Cette fraction ne peut excéder le montant dont le transfert a été admis, le cas échéant,
+dans le cadre d'une décision d'agrément prise en application du II de l'article 209 du même code. 
 
 Lorsque la cessation du groupe résulte d'une scission, le déficit d'ensemble est, préalablement au calcul effectué au premier
 alinéa, réparti entre les branches apportées en fonction de l'origine de ce déficit. Le déficit qui ne peut être affecté à
@@ -15748,8 +15783,8 @@ qui peut être imputée dans les conditions prévues au 5 de l'article 223 I de 
 exercice, selon les modalités précisées au premier alinéa. 
 
 La liste des sociétés pour lesquelles le bénéfice des dispositions du 5 de l'article 223 I du code général des impôts est
-demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e, g ou i  du 6 de l'article 223
-L de ce code concernant l'identité des sociétés membres du nouveau groupe. 
+demandé est jointe à l'option et figure de manière distincte sur le document prévu aux c, d, e, g, i ou j   du 6 de l'article
+223 L de ce code concernant l'identité des sociétés membres du nouveau groupe. 
 
 2. Pour l'application du troisième alinéa de l'article 223 R du code général des impôts : 
 
@@ -15785,7 +15820,7 @@ déterminée selon les mêmes modalités.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1254 du 13 novembre 2012 - art. 1
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cite**:
 
@@ -15809,18 +15844,19 @@ b) l'état de détermination du bénéfice et de la plus-value nette à long ter
 III de l'article 44 octies, du III de l'article 44 octies A, du III de l'article 44 duodecies et du III de l'article 44
 terdecies du code général des impôts. 
 
-La société mère dépose au plus tard à l'expiration du délai de dépôt de son relevé de solde auprès du comptable de la
-direction générale des finances publiques la liste des sociétés membres du groupe et des sociétés intermédiaires ainsi que
-des sociétés qui cessent d'être membres de ce groupe défini à l'article 223 A du code général des impôts ou qui cessent
-d'être qualifiées de sociétés intermédiaires. Cette liste indique le taux de détention directe et indirecte par la société
-mère. Cette liste constitue une annexe à la déclaration d'impôt sur les sociétés au sens de l'article 1649 quater B quater du
-code général des impôts pour la modalité de souscription par voie électronique.
+La société mère dépose, au plus tard à l'expiration du délai de dépôt de son relevé de solde auprès du comptable de la
+direction générale des finances publiques, la liste des sociétés membres du groupe, des sociétés intermédiaires, de l'entité
+mère non résidente et des sociétés étrangères, ainsi que des sociétés qui cessent d'être membres de ce groupe défini à
+l'article 223 A du code général des impôts ou qui cessent d'être qualifiées de sociétés intermédiaires, d'entité mère non
+résidente ou de sociétés étrangères. Cette liste indique le taux de détention directe et indirecte par la société mère ou
+l'entité mère non résidente. Cette liste constitue une annexe à la déclaration d'impôt sur les sociétés au sens de l'article
+1649 quater B quater du code général des impôts pour la modalité de souscription par voie électronique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cité par**:
 
@@ -15876,7 +15912,7 @@ value ou moins-value nette à long terme d'ensemble en application de l'article 
 5. Des états faisant apparaître les déficits d'ensemble, les plus-values nettes ou moins-values nettes à long terme
 d'ensemble et les crédits d'impôt susceptibles d'être utilisés par la société mère. 
 
-6. Dans les situations visées aux c, d, e, f, g ou i du 6 de l'article 223 L du code général des impôts, des états faisant
+6. Dans les situations visées aux c, d, e, f, g, i ou j du 6 de l'article 223 L du code général des impôts, des états faisant
 apparaître : 
 
 a) La quotité du déficit qui peut s'imputer sur les résultats des sociétés membres du groupe ayant cessé ou des sociétés
@@ -15905,8 +15941,8 @@ déductibles du résultat d'ensemble au titre de l'exercice et le suivi des int�
 article. 
 
 10. Un état des rectifications prévues aux deuxième, troisième, quatrième, septième et dix-huitième alinéas de l'article 223
-B et à l'article 223 D du code général des impôts qui sont afférentes à des sociétés du groupe détenues par l'intermédiaire
-d'une société intermédiaire. 
+B et à l'article 223 D du code général des impôts qui sont afférentes aux opérations réalisées entre des sociétés du groupe
+et des sociétés intermédiaires, des sociétés étrangères ou l'entité mère non résidente. 
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
 
@@ -15914,13 +15950,13 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-221
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
 	  - Code général des impôts, CGI. - art. 223 B
 	  - Code général des impôts, CGI. - art. 223 D
 	  - Code général des impôts, CGI. - art. 223 E
@@ -15936,35 +15972,38 @@ Ces renseignements sont présentés sur des documents conformes aux modèles ét
 
 ###### Article 46 quater-0 ZM
 
-Pour acquitter l'impôt correspondant aux redressements acceptés du résultat d'une société du groupe, la société mère visée à
-l'article 223 A du code général des impôts souscrit dans les conditions prévues à l'article 46 quater-0 ZL et dans les trois
-mois de l'acceptation des redressements une déclaration rectificative du résultat d'ensemble des exercices au titre desquels
-l'impôt est dû.
+Les règles prévues à la présente annexe concernant la société mère d'un groupe au sens de l'article 223 A du code général des
+impôts sont applicables à l'établissement public industriel et commercial qui se constitue seul redevable de l'impôt sur les
+sociétés en application des dispositions de l'article 223 A bis du même code. Les règles prévues à la présente annexe
+concernant les sociétés membres d'un groupe sont applicables aux établissements publics industriels et commerciaux et aux
+sociétés membres d'un groupe au sens de l'article 223 A bis du code précité. 
 
-Cette déclaration mentionne la nature et le montant des redressements pour lesquels l'impôt est acquitté. Elle est
-accompagnée des pièces prévues à l'article 46 quater-0 ZL.
+Les documents qu'adresse, en application du 2 de l'article 46 quater-0 ZD, l'établissement public qui s'est constitué seul
+redevable de l'impôt sur les sociétés dû sur l'ensemble des résultats d'un groupe au sens de l'article 223 A bis du code
+général des impôts sont complétés, dans le délai prévu au même 2, de l'extrait de l'annexe comptable comportant les
+informations suivantes sur les comptes consolidés établis dans les conditions prévues au premier alinéa de l'article L.
+233-18 du code de commerce : nom de l'établissement public industriel et commercial qui établit les comptes consolidés, liste
+des établissements du périmètre de consolidation et description de la nature des liens qui permettent de fonder les critères
+de sélection des établissements dont les comptes sont consolidés, ainsi que l'indication des motifs qui justifient la non-
+consolidation de certains établissements.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 A
-	  - CGIAN3 46 quater-0 ZL
-
-	**Liens**:
-
-	  - TXT_SOURCE: Loi n°87-1060 1987-12-30 art. 68 Finances pour 1988)
-	  - HISTO: Edition du 27 octobre 1995
-	  - PEREMPTION: Loi n°94-1163 1994-12-29 art. 31 Finances rectificative pour 1994 JORF 30 décembre 1994, article sans objet
-
-	**Créé par**:
-
-	  - Décret n°88-318 du 28 mars 1988 - art. 11 (V) JORF 8 avril 1988
-
 	**Codifié par**:
 
-	  - Décret n°88-1001 1988-10-20
-	  - Décret n°95-1281 1995-12-11
+	  - Décret n°88-1001 du 20 octobre 1988
+	  - Décret n°95-1281 du 11 décembre 1995
+
+	**Modifié par**:
+
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-18
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZD
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 223 A bis
 
 
 ##### Section VIII bis : Régime de taxation au tonnage
@@ -41680,7 +41719,7 @@ désignation, l'adresse de son siège social et la répartition de son capital ;
 b. Lorsque l'option mentionnée au premier alinéa de l'article 1693 ter du code général des impôts est exercée par un organe
 central ou une caisse départementale ou interdépartementale, la liste des personnes morales membres du groupe. Cette liste
 indique, pour chaque membre du groupe, sa désignation, l'adresse de son siège et la nature du lien qui l'unit à l'entité tête
-du groupe formé en application du troisième alinéa de l'article 223 A du même code ; 
+du groupe formé en application du cinquième alinéa du I de l'article 223 A du même code ; 
 
 c. Les attestations par lesquelles les membres du groupe font connaître leur accord pour que le redevable mentionné au 1 de
 l'article 1693 ter du code général des impôts acquitte à leur place la taxe sur la valeur ajoutée et les taxes, contributions
@@ -41694,9 +41733,9 @@ b. Les attestations mentionnées au c du 1 produites par les entités devenant m
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-239 du 20 février 2012 - art. 4
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cite**:
 

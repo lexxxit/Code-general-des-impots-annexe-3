@@ -5,7 +5,7 @@ l'attestation mentionnée à l'article 46 quater-0 ZD au service dont elles rel�
 dépôt de la déclaration de résultat de l'exercice précédant celui au titre duquel le régime défini à l'article 223 A précité
 s'applique. L'accord est valable jusqu'à la sortie du groupe de la société filiale concernée. Il peut être dénoncé au plus
 tard à l'expiration du délai de dépôt de la déclaration de résultat du dernier exercice précédant la période couverte par le
-renouvellement de l'option prévu au septième alinéa de l'article 223 A précité. 
+renouvellement de l'option prévu au deuxième alinéa du III  de l'article 223 A précité. 
 
 Les sociétés filiales dont les résultats d'un exercice cesseront d'être pris en compte dans le résultat d'ensemble par
 décision de la société mère en informent le service des impôts dont elles relèvent au plus tard à l'expiration du délai de
@@ -18,9 +18,9 @@ conformes aux modèles établis par l'administration.
 
 	**Modifié par**:
 
-	  - Décret n°2009-684 du 12 juin 2009 - art. 1
+	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZD
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZD (V)
 	  - Code général des impôts, CGI. - art. 223 A
