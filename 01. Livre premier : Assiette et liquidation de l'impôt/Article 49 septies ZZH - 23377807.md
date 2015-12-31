@@ -29,26 +29,30 @@ construction et de l'habitation, dans le tableau ci-après :
 <table>
     <tbody>
       <tr>
-        <td align="center">TRANCHES</td>
-        <td align="center">1 à 2</td>
-        <td align="center" colspan="3">3 à 5 </td>
+        <th>TRANCHES 
+
+</th>
+        <th>1 
+
+</th>
+        <th>2 À 3 
+
+</th>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center" valign="middle">
 
 Prime p 
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
 75 points de base 
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-55 points de base 
-
-</td>
+55 points de base</td>
       </tr>
     </tbody>
   </table>
@@ -60,17 +64,21 @@ Le taux S ainsi calculé par l'organisme mentionné au cinquième alinéa de l'a
 l'habitation, est applicable aux prêts ne portant pas intérêt faisant l'objet d'une offre de prêt au cours d'un même
 trimestre.
 
+**Nota:**
+
+Ces dispositions sont applicables aux offres de prêt émises à compter du 1er janvier 2016.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 25 mai 2011 - art. (V)
 	  - Code de la construction et de l'habitation. - art. R31-10-2-1 (V)
-	  - Code de la construction et de l'habitation. - art. R31-10-7 (V)
+	  - Code de la construction et de l'habitation. - art. R31-10-7 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
+	  - Décret n°2015-1813 du 29 décembre 2015 - art. 2
 
 	**Cite**:
 

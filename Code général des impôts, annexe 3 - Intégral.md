@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2015-12-05
+Version Consolidée au 2016-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2396,10 +2396,10 @@ c. Les pièces justifiant de la nature, du montant et du paiement des travaux.
 L'autorité compétente vérifie la compatibilité des travaux de restauration ou de gros entretien, mentionnés au c quinquies du
 2° du I de l'article 31 du code général des impôts, avec les objectifs qui ont justifié la mesure de classement et, le cas
 échéant, avec le document de gestion ou d'objectifs approuvé au titre de la réglementation concernée. En ce qui concerne les
-espaces remarquables du littoral au sens de l'article L. 146-6 du code de l'urbanisme, tels qu'ils figurent dans le document
-d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 146-2 du code de
-l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 146-6 et du e de
-l'article R. 146-2 du code de l'urbanisme. 
+espaces remarquables du littoral au sens      de l'article L. 121-23 du code de l'urbanisme , tels qu'ils figurent dans le
+document d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 121-5
+du code de l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 146-6 et du e
+de l'article R. 121-5 du code de l'urbanisme. 
 
 Les autorités compétentes sont les suivantes : 
 
@@ -2420,9 +2420,9 @@ g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protectio
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1191 du 27 septembre 2006 - art. 1 () JORF 29 septembre 2006
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cité par**:
 
@@ -2430,9 +2430,9 @@ g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protectio
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 31 (V)
-	  - Code de l'urbanisme - art. L146-6 (V)
-	  - Code de l'urbanisme - art. R*146-2 (V)
+	  - Code général des impôts, CGI. - art. 31
+	  - Code de l'urbanisme - art. L146-6
+	  - Code de l'urbanisme - art. R*146-2 (VT)
 
 
 ##### III : Bénéfices industriels et commerciaux
@@ -21052,26 +21052,30 @@ construction et de l'habitation, dans le tableau ci-après :
 <table>
     <tbody>
       <tr>
-        <td align="center">TRANCHES</td>
-        <td align="center">1 à 2</td>
-        <td align="center" colspan="3">3 à 5 </td>
+        <th>TRANCHES 
+
+</th>
+        <th>1 
+
+</th>
+        <th>2 À 3 
+
+</th>
       </tr>
       <tr>
-        <td align="center">
+        <td align="center" valign="middle">
 
 Prime p 
 
 </td>
-        <td align="center">
+        <td valign="middle" align="center">
 
 75 points de base 
 
 </td>
-        <td align="center">
+        <td align="center" valign="middle">
 
-55 points de base 
-
-</td>
+55 points de base</td>
       </tr>
     </tbody>
   </table>
@@ -21083,17 +21087,21 @@ Le taux S ainsi calculé par l'organisme mentionné au cinquième alinéa de l'a
 l'habitation, est applicable aux prêts ne portant pas intérêt faisant l'objet d'une offre de prêt au cours d'un même
 trimestre.
 
+**Nota:**
+
+Ces dispositions sont applicables aux offres de prêt émises à compter du 1er janvier 2016.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 25 mai 2011 - art. (V)
 	  - Code de la construction et de l'habitation. - art. R31-10-2-1 (V)
-	  - Code de la construction et de l'habitation. - art. R31-10-7 (V)
+	  - Code de la construction et de l'habitation. - art. R31-10-7 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2014-1316 du 3 novembre 2014 - art. 10
+	  - Décret n°2015-1813 du 29 décembre 2015 - art. 2
 
 	**Cite**:
 
@@ -30265,8 +30273,8 @@ sections et lieux-dits ;
 L. 341-2 du même code, sauf autorisation spéciale prévue par l'article L. 341-10 du même code ; 
 
 5° L'engagement de ne pas modifier l'affectation du sol et de ne pas altérer le caractère naturel des parcelles situées dans
-un espace remarquable du littoral au sens de l'article L. 146-6 du code de l'urbanisme, délimité par un plan local
-d'urbanisme ou un document d'urbanisme en tenant lieu. 
+un espace remarquable du littoral au sens              de l'article L. 121-23 du code de l'urbanisme , délimité par un plan
+local d'urbanisme ou un document d'urbanisme en tenant lieu. 
 
 La demande doit être accompagnée des documents suivants pour les propriétés concernées : 
 
@@ -30314,7 +30322,7 @@ Modifications effectuées en conséquence des articles 2 et 11 de l'ordonnance n
 
 	**Modifié par**:
 
-	  - Décret n°2013-463 du 3 juin 2013 - art. 4
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cite**:
 
@@ -36536,9 +36544,10 @@ de l'article 1605 nonies du code général des impôts ;
 
 3° Que la date du classement du terrain par un plan local d'urbanisme ou par un autre document d'urbanisme en tenant lieu en
 zone urbaine ou à urbaniser ouverte à l'urbanisation ou par une carte communale dans une zone où les constructions sont
-autorisées ou par application de l'article L. 111-1-2 du code de l'urbanisme est antérieure au 14 janvier 2010 ; 
+autorisées ou par application des articles L. 113-3 à L. 111-5 du code de l'urbanisme est antérieure au 14 janvier 2010 ; 
 
-4° Que le terrain se situe dans la partie urbanisée de la commune au sens de l'article L. 111-1-2 du code de l'urbanisme ; 
+4° Que le terrain se situe dans la partie urbanisée de la commune au sens des articles L. 113-3 à L. 111-5 du code de
+l'urbanisme ; 
 
 5° Que la plus-value réalisée par le cédant est exonérée de la taxe en application, selon le cas, des dispositions : 
 
@@ -36568,16 +36577,20 @@ attestation, établie par la commune ou, le cas échéant, par l'établissement 
 pour l'élaboration des documents locaux d'urbanisme, précisant la date à laquelle le terrain est devenu constructible ou, à
 défaut, que cet événement est intervenu depuis plus de dix-huit ans à compter du 14 janvier 2010.
 
+**Nota:**
+
+Au lieu de "les L. 113-3 à L. 111-5 du code de l'urbanisme", il convient de lire " les L. 111-3 à L. 111-5 du code de
+l'urbanisme".
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-2066 du 30 décembre 2011 - art. 1
+	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1605 nonies
-	  - Code de l'urbanisme - art. L111-1-2
 	  - Code de l'urbanisme - art. L410-1
 
 
@@ -38393,18 +38406,18 @@ supplémentaires acquittées au cours de la même année.
 ###### Article 344 quindecies
 
 Conformément au 3° du II de l'article 1635 sexies du code général des impôts, les taux des abattements dont bénéficie La
-Poste sont fixés, pour l'année 2014, à : 
+Poste sont fixés, pour l'année 2015, à : 
 
 a. 85 % des bases d'imposition pour la cotisation foncière des entreprises et pour les taxes foncières ; 
 
-b. 83 % de la valeur ajoutée retenue pour l'application de l'article 1586 ter pour ce qui concerne la cotisation sur la
+b. 82 % de la valeur ajoutée retenue pour l'application de l'article 1586 ter pour ce qui concerne la cotisation sur la
 valeur ajoutée des entreprises.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-1552 du 19 décembre 2014 - art. 1
+	  - Décret n°2015-1847 du 29 décembre 2015 - art. 1
 
 	**Cite**:
 
@@ -39091,6 +39104,59 @@ fonctionnement du trust concerné.
 
 	  - Code général des impôts, CGI. - art. 1649 AB
 	  - Code général des impôts, CGI. - art. 792-0 bis
+
+
+##### 0I quater : Obligations déclaratives se rapportant aux avoirs en déshérence.
+
+###### Article 344 G nonies
+
+I.-La Caisse des dépôts et consignations, lorsqu'elle reverse les sommes qui entrent dans le champ d'application du I ter de
+l'article 990 I et de l'article 990 I bis du code général des impôts, adresse au comptable de la direction générale des
+finances publiques, au plus tard dans les quinze jours qui suivent la fin du mois au cours duquel les sommes sont versées au
+bénéficiaire ou au notaire chargé d'établir l'actif successoral en vue du règlement de la succession pour laquelle il a été
+mandaté, une déclaration contenant les informations suivantes pour chaque bénéficiaire des sommes : 
+
+1° Pour les sommes issues de chaque contrat mentionné au I ter de l'article 990 I et au I de l'article 990 I bis du code
+général des impôts, les informations mentionnées à l'article R. 132-5-5 du code des assurances et à l'article R. 223-11 du
+code de la mutualité ; 
+
+2° Pour chaque compte mentionné au II de l'article 990 I bis du code général des impôts, les informations mentionnées à
+l'article R. 312-20 du code monétaire et financier ; 
+
+3° Pour les sommes issues de chaque contrat mentionné au I ter de l'article 990 I et au I de l'article 990 I bis du code
+général des impôts et pour chaque compte mentionné au II de l'article 990 I bis du code précité : 
+
+a) L'identification de l'établissement mentionné au I de l'article L. 312-19 du code monétaire et financier, de l'entreprise
+d'assurance, institution de prévoyance ou union mentionnée à l'article L. 132-9-3-1 du code des assurances ou de la mutuelle
+ou union mentionnée à l'article L. 223-25-4 du code de la mutualité ; 
+
+b) L'assiette et la nature du prélèvement ; 
+
+c) Le montant des intérêts versés par la Caisse des dépôts et consignations ; 
+
+d) Le montant de l'abattement appliqué ; 
+
+e) Le montant du prélèvement acquitté au titre des sommes, rentes ou valeurs dues à chaque bénéficiaire. 
+
+II.-Les déclarations mentionnées au I sont établies sur des formules imprimées délivrées sans frais par le service des
+impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1092 du 28 août 2015 - art. 5
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 990 I
+	  - Code général des impôts, CGI. - art. 990 I bis
+	  - Code monétaire et financier - art. L312-19
+	  - Code monétaire et financier - art. R312-20
+	  - Code des assurances - art. L132-9-3-1
+	  - Code des assurances - art. R132-5-5
+	  - Code de la mutualité - art. L223-25-4
+	  - Code de la mutualité - art. R223-11
 
 
 ##### I : Déclarations des versements effectués au titre de la publicité par panneaux-réclame, par affiches et par enseignes
