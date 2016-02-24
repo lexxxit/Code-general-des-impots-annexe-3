@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-02-25
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15315,6 +15315,66 @@ société mère joint les déclarations spéciales des sociétés du groupe au r
 	  - Code général des impôts, CGI. - art. 220 undecies
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code général des impôts, CGI. - art. 360
+
+
+##### Section VI nonies : Réduction d'impôt pour mise à disposition d'une flotte de vélos
+
+###### Article 46 quater-0 YZE
+
+Pour la détermination des frais mentionnés au 
+I de l'article 220 undecies A du code général des impôts
+, il y a lieu de retenir les dépenses suivantes : 
+
+a) Dotations aux amortissements fiscalement déductibles relatives à l'acquisition de vélos ; 
+
+b) Dotations aux amortissements ou charges déductibles afférentes aux achats ou locations d'équipements nécessaires à la
+sécurité (notamment casques, protections, gilets réfléchissants, antivols) ; 
+
+c) Frais d'assurance contre le vol et couvrant les déplacements en vélo des salariés entre leur domicile et leur lieu de
+travail ; 
+
+d) Frais d'entretien des vélos ; 
+
+e) Dotations aux amortissements fiscalement déductibles relatives à la construction ou à l'aménagement d'une aire de
+stationnement ou d'un local destiné aux vélos ; 
+
+f) Frais afférents à la location d'une aire de stationnement ou d'un local destiné aux vélos. 
+
+La réduction d'impôt mentionnée à l'article 220 undecies A précité s'applique aux cycles et cycles à pédalage assisté au sens
+des 6.10 et 6.11 de l'article R. 311-1 du code la route.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-179 du 22 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 undecies A
+	  - Code de la route. - art. R311-1
+
+
+###### Article 46 quater-0 YZF
+
+Pour l'application des 
+dispositions de l'article 220 undecies A du code général des impôts
+, les entreprises déclarent les réductions d'impôt selon le format établi par l'administration dans les mêmes délais que la
+déclaration annuelle de résultat qu'elles sont tenues de souscrire en application de l'article 223 du code précité. 
+
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions d'impôt pour le compte des
+sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble du groupe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-179 du 22 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 undecies A
+	  - Code général des impôts, CGI. - art. 223 A
 
 
 ##### Section VI decies : Crédit d'impôt en faveur des créateurs de jeux vidéo
