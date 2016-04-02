@@ -1,33 +1,24 @@
 # Article 49 septies ZH
 
 Pour l'application des dispositions des articles 199 ter L, 220 N et 244 quater M du code général des impôts, les entreprises
-souscrivent une déclaration spéciale conforme à un modèle établi par l'administration. 
+déclarent les réductions et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la
+déclaration annuelle de résultat qu'elles sont tenues de souscrire en application des articles 53 A et 223 du code précité. 
 
-Les personnes morales passibles de l'impôt sur les sociétés déposent cette déclaration spéciale auprès du comptable de la
-direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
-relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
-l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
-groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. 
-
-Les autres entreprises joignent la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer
-en vertu des articles 53 A et 97 du code général des impôts. 
-
-L'associé personne morale de société de personnes ou de groupement assimilé dont le dirigeant a suivi des heures de formation
-éligibles au crédit d'impôt prévu à l'article 244 quater M du code général des impôts dépose une déclaration spéciale
-récapitulant le crédit d'impôt prévu à l'article précité dont bénéficie chacune des sociétés de personnes ou groupement
-assimilé dont il est associé ou membre.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 ter L (V)
+	  - Code général des impôts, CGI. - art. 199 ter L
 	  - Code général des impôts, CGI. - art. 218 A
-	  - Code général des impôts, CGI. - art. 220 N (V)
+	  - Code général des impôts, CGI. - art. 220 N
 	  - Code général des impôts, CGI. - art. 223 A
-	  - Code général des impôts, CGI. - art. 244 quater M (V)
+	  - Code général des impôts, CGI. - art. 244 quater M
 	  - Code général des impôts, CGI. - art. 53 A

@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-03-04
+Version Consolidée au 2016-04-03
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -15014,28 +15014,23 @@ technique des images et du son.
 
 ###### Article 46 quater-0 YP
 
-Pour l'application des dispositions des articles 220 sexies et 220 F du code général des impôts, les entreprises doivent
-déposer une déclaration spéciale avec le relevé de solde mentionné à l'article 360 auprès du comptable de la direction
-générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts. 
+Pour l'application des dispositions des articles 220 sexies et 220 F du code général des impôts, les entreprises déclarent
+les réductions et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la déclaration
+annuelle de résultat qu'elles sont tenues de souscrire en application de l'article 223 du code précité. 
 
-S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
-société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble. Les
-sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la déclaration qu'elles sont tenues de
-déposer en vertu du 1 de l'article 223 du code précité. 
-
-Une copie de la déclaration spéciale doit être adressée dans le même délai au Centre national du cinéma et de l'image animée.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 218 A
 	  - Code général des impôts, CGI. - art. 220 sexies
-	  - Code général des impôts, CGI. - art. 223
 	  - Code général des impôts, CGI. - art. 223 A
 
 
@@ -15252,26 +15247,24 @@ que soit leur situation ou leur affectation et quelle que soit la nature du cont
 
 ###### Article 46 quater-0 YZB
 
-Pour l'application des dispositions des articles 220 nonies et 220 R du code général des impôts, les entreprises déposent une
-déclaration spéciale conforme à un modèle établi par l'administration avec le relevé de solde mentionné à l'article 360
-auprès du comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code
-général des impôts. 
+Pour l'application des dispositions des articles 220 nonies et 220 R du code général des impôts, les entreprises déclarent
+les réductions et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la déclaration
+annuelle de résultat qu'elles sont tenues de souscrire en application de l'article 223 du code précité.
 
-S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la
-société mère joint les déclarations spéciales des sociétés du groupe au relevé de solde relatif au résultat d'ensemble.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 218 A
 	  - Code général des impôts, CGI. - art. 220 R (V)
-	  - Code général des impôts, CGI. - art. 220 nonies (V)
-	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 220 nonies (M)
 
 
 ###### Article 46 quater-0 YZC
@@ -16224,19 +16217,18 @@ l'assemblage numérique ; des effets spéciaux ; de l'assemblage artistique et t
 ###### Article 46 quater-0 ZY septies
 
 Pour l'application des dispositions des articles 220 Z bis et 220 quaterdecies du code général des impôts, les entreprises
-doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
+déclarent les réductions et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la
+déclaration annuelle de résultat qu'elles sont tenues de souscrire en application de l'article 223 du code précité.
 
-Les entreprises doivent déposer cette déclaration spéciale auprès du comptable de la direction générale des finances
-publiques avec le relevé de solde mentionné à l'article 360.S'agissant des sociétés relevant du régime des groupes de
-sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte
-des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du
-groupe.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1464 du 30 novembre 2009 - art. 1
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
@@ -17777,16 +17769,17 @@ notifiée à l'organisme et la liste mentionnée au III est actualisée.
 ###### Article 46 quindecies QC
 
 I. ― Le montant des dons aux organismes mentionnés au 4 bis de l'article 238 bis du code général des impôts est indiqué
-distinctement sur la déclaration spéciale prévue à l'article 49 septies X. 
+distinctement sur la déclaration des réductions et crédits d'impôt prévue à l'article 49 septies X. 
 
-II. ― Pour l'application du deuxième alinéa du 4 bis de l'article 238 bis  du même code, les pièces à fournir dans le délai
-de dépôt de la déclaration spéciale sont celles mentionnées au deuxième alinéa de l'article 46 quindecies QA.
+II. ― Pour l'application du deuxième alinéa du 4 bis de l'article 238 bis du même code, les pièces à fournir dans le délai de
+dépôt de la déclaration des réductions et crédits d'impôt sont celles mentionnées au deuxième alinéa de l'article 46
+quindecies QA.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-653 du 4 mai 2012 - art. 3
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
@@ -19649,39 +19642,27 @@ d'impôt prévu à l'article 244 quater C du code général des impôts est calc
 ###### Article 49 septies Q
 
 Pour l'application des dispositions des articles 199 ter C, 220 C et 244 quater C du code général des impôts, les entreprises
-souscrivent une déclaration spéciale conforme au modèle établi par l'administration, qu'elles déposent auprès du service des
-impôts dont elles dépendent. 
+déclarent les réductions et crédits d'impôt selon le format établi par l'administration, dans les mêmes délais que la
+déclaration annuelle de résultat qu'elles sont tenues de souscrire en application des articles 53 A et 223 du code précité.
 
-Les personnes morales passibles de l'impôt sur les sociétés déposent cette déclaration spéciale dans les mêmes délais que le
-relevé de solde mentionné à l'article 360. 
-
-S'agissant des sociétés relevant du régime des groupes de sociétés prévu à l'article 223 A du code précité, la société mère
-dépose les déclarations spéciales pour le compte des sociétés du groupe, y compris celle la concernant, dans les mêmes délais
-que le relevé de solde relatif au résultat d'ensemble du groupe. 
-
-Les autres entreprises déposent la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
-qu'elles sont tenues de souscrire en application de l'article 53 A du code précité. 
-
-L'associé d'une société de personnes ou d'un groupement mentionnés au IV de l'article 244 quater C précité dépose une
-déclaration spéciale indiquant la quote-part des crédits d'impôt provenant de chacune des sociétés de personnes ou
-groupements assimilés dont il est associé. L'associé personne physique qui ne bénéficie que d'un crédit d'impôt correspondant
-à sa participation dans ces sociétés de personnes ou groupements est dispensé de déposer la déclaration spéciale
-correspondante.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2013-1236 du 23 décembre 2013 - art. 1
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
-	  - Code général des impôts, CGI. - art. 199 ter (V)
-	  - Code général des impôts, CGI. - art. 220 C (V)
-	  - Code général des impôts, CGI. - art. 223 A (V)
-	  - Code général des impôts, CGI. - art. 244 quater C (V)
-	  - Code général des impôts, CGI. - art. 53 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360
+	  - Code général des impôts, CGI. - art. 199 ter
+	  - Code général des impôts, CGI. - art. 220 C
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 244 quater C
+	  - Code général des impôts, CGI. - art. 53 A
 
 
 ###### Article 49 septies R
@@ -19941,23 +19922,19 @@ dépend l'entreprise propriétaire des biens.
 
 ###### Article 49 septies X
 
-Pour l'application des dispositions de l'article 238 bis du code général des impôts, les entreprises doivent annexer une
-déclaration spéciale à la déclaration de résultat de l'exercice ou de la période d'imposition en cours lors de la réalisation
-des dépenses ouvrant droit à réduction d'impôt et mentionnées à l'article précité. 
+Pour l'application des dispositions de l'article 238 bis du code général des impôts, les entreprises déclarent les réductions
+et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la déclaration annuelle de résultat
+qu'elles sont tenues de souscrire en application des articles 53 A et 223 du code précité.
 
-Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts, avec
-le relevé de solde mentionné à l'article 360 de l'exercice ou de la période d'imposition en cours lors de la réalisation des
-dépenses ouvrant droit à réduction d'impôt. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
-l'article 223 A du code général des impôts, la société mère joint les déclarations spéciales du groupe au relevé de solde
-relatif au résultat d'ensemble. Les sociétés du groupe sont dispensées d'annexer la déclaration spéciale les concernant à la
-déclaration de résultat qu'elles sont tenues de déposer en vertu du 1 de l'article 223 du code précité.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 31
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
@@ -20240,25 +20217,22 @@ non libératoires et les autres crédits d'impôts.
 ###### Article 49 septies YO
 
 Pour l'application des dispositions des articles 199 ter F, 220 H et 244 quater G du code général des impôts, les entreprises
-doivent annexer une déclaration spéciale à la déclaration de résultat qu'elles sont tenues de déposer auprès du service des
-impôts dont elles dépendent. 
+déclarent les réductions et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la
+déclaration annuelle de résultat qu'elles sont tenues de souscrire en application des articles 53 A et 223 du code précité.
 
-Toutefois, les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du
-comptable de la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des
-impôts avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés
-prévu à l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des
-sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du
-groupe.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 360 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 360
 	  - Code général des impôts, CGI. - art. 199 ter F
 	  - Code général des impôts, CGI. - art. 218 A
 	  - Code général des impôts, CGI. - art. 223 A
@@ -20631,35 +20605,26 @@ non libératoires et les autres crédits d'impôt.
 ###### Article 49 septies ZH
 
 Pour l'application des dispositions des articles 199 ter L, 220 N et 244 quater M du code général des impôts, les entreprises
-souscrivent une déclaration spéciale conforme à un modèle établi par l'administration. 
+déclarent les réductions et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la
+déclaration annuelle de résultat qu'elles sont tenues de souscrire en application des articles 53 A et 223 du code précité. 
 
-Les personnes morales passibles de l'impôt sur les sociétés déposent cette déclaration spéciale auprès du comptable de la
-direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
-relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
-l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
-groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. 
-
-Les autres entreprises joignent la déclaration spéciale à la déclaration annuelle de résultat qu'elles sont tenues de déposer
-en vertu des articles 53 A et 97 du code général des impôts. 
-
-L'associé personne morale de société de personnes ou de groupement assimilé dont le dirigeant a suivi des heures de formation
-éligibles au crédit d'impôt prévu à l'article 244 quater M du code général des impôts dépose une déclaration spéciale
-récapitulant le crédit d'impôt prévu à l'article précité dont bénéficie chacune des sociétés de personnes ou groupement
-assimilé dont il est associé ou membre.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 ter L (V)
+	  - Code général des impôts, CGI. - art. 199 ter L
 	  - Code général des impôts, CGI. - art. 218 A
-	  - Code général des impôts, CGI. - art. 220 N (V)
+	  - Code général des impôts, CGI. - art. 220 N
 	  - Code général des impôts, CGI. - art. 223 A
-	  - Code général des impôts, CGI. - art. 244 quater M (V)
+	  - Code général des impôts, CGI. - art. 244 quater M
 	  - Code général des impôts, CGI. - art. 53 A
 
 
@@ -20777,42 +20742,31 @@ non libératoires et les autres crédits d'impôt.
 ###### Article 49 septies ZT
 
 Pour l'application des dispositions des articles 199 ter P, 220 U et 244 quater Q du code général des impôts, les entreprises
-doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
+déclarent les réductions et crédits d'impôts selon le format établi par l'administration dans les mêmes délais que la
+déclaration annuelle de résultat qu'elles sont tenues de souscrire en application des articles 53 A et 223 du code précité. 
 
-Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des finances publiques du lieu d'imposition défini à l'article 218 A du code général des impôts avec le
-relevé de solde mentionné à l'article 360. S'agissant des sociétés relevant du régime des groupes de sociétés prévu à
-l'article 223 A du code général des impôts, la société mère dépose les déclarations spéciales pour le compte des sociétés du
-groupe. Elle les joint, y compris celle la concernant, au relevé de solde relatif au résultat d'ensemble du groupe. 
-
-Les autres entreprises doivent déposer la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
-qu'elles sont tenues de souscrire en vertu de l'article 53 A du code général des impôts. 
-
-L'associé d'une société de personnes mentionnée aux articles 8 et 238 bis L du code général des impôts ayant engagé des
-dépenses ouvrant droit au crédit d'impôt mentionné à l'article 244 quater Q du même code dépose la déclaration spéciale
-indiquant la quote-part des crédits d'impôt provenant de chacune des sociétés de personnes dont il est associé. Toutefois,
-lorsque l'associé est une personne physique, il est dispensé de déposer la déclaration spéciale lorsqu'il ne dispose pas d'un
-crédit d'impôt mentionné à l'article 244 quater Q précité autre que celui issu de sa participation dans la société de
-personnes.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 29
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZU (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZU (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 ter P (V)
+	  - Code général des impôts, CGI. - art. 199 ter P
 	  - Code général des impôts, CGI. - art. 218 A
-	  - Code général des impôts, CGI. - art. 220 U (V)
+	  - Code général des impôts, CGI. - art. 220 U
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Code général des impôts, CGI. - art. 244 quater Q
-	  - Code général des impôts, CGI. - art. 360 (P)
+	  - Code général des impôts, CGI. - art. 360
 	  - Code général des impôts, CGI. - art. 53 A
 	  - Code général des impôts, CGI. - art. 8
 
@@ -20820,19 +20774,19 @@ personnes.
 ###### Article 49 septies ZU
 
 Lorsque le titulaire du titre de maître restaurateur est dirigeant de plusieurs entreprises contrôlées dans le cadre de la
-délivrance de ce titre, le dépôt de la déclaration spéciale prévue à l'article 49 septies ZT emporte le choix de l'entreprise
-bénéficiaire du crédit d'impôt prévu à l'article 244 quater Q du code général des impôts.
+délivrance de ce titre, le dépôt de la déclaration des réductions et crédits d'impôt prévue à l'article 49 septies ZT emporte
+le choix de l'entreprise bénéficiaire du crédit d'impôt prévu à l'article 244 quater Q du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-726 du 7 mai 2007 - art. 1 () JORF 8 mai 2007
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies ZT (V)
-	  - Code général des impôts, CGI. - art. 244 quater Q (V)
+	  - Code général des impôts, CGI. - art. 244 quater Q
 
 
 ##### Section V novodecies : Crédit d'impôt au titre des primes d'intéressement
@@ -20856,40 +20810,29 @@ non libératoires et les autres crédits d'impôt.
 ###### Article 49 septies ZZ
 
 Pour l'application des dispositions des articles 199 ter R, 220 Y et 244 quater T du code général des impôts, les entreprises
-doivent souscrire une déclaration spéciale conforme à un modèle établi par l'administration. 
+déclarent les réductions et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la
+déclaration annuelle de résultat qu'elles sont tenues de souscrire en application des articles 53 A et 223 du code précité. 
 
-Les personnes morales passibles de l'impôt sur les sociétés doivent déposer cette déclaration spéciale auprès du comptable de
-la direction générale des finances publiques avec le relevé de solde mentionné à l'article 360. S'agissant des sociétés
-relevant du régime des groupes de sociétés prévu à l'article 223 A du code général des impôts, la société mère dépose les
-déclarations spéciales pour le compte des sociétés du groupe. Elle les joint, y compris celle la concernant, au relevé de
-solde relatif au résultat d'ensemble du groupe. 
-
-Les autres entreprises doivent déposer la déclaration spéciale dans les mêmes délais que la déclaration annuelle de résultat
-qu'elles sont tenues de souscrire en application de l'article 53 A et 97 du code général des impôts. 
-
-L'associé d'une société de personnes mentionnée aux articles 8 et 238 bis L du code général des impôts ayant conclu un accord
-d'intéressement ouvrant droit au crédit d'impôt mentionné à l'article 244 quater T du même code dépose la déclaration
-spéciale indiquant la quote-part des crédits d'impôt provenant de chacune des sociétés de personnes dont il est associé.
-Toutefois, lorsque l'associé est une personne physique, il est dispensé de déposer la déclaration spéciale lorsqu'il ne
-dispose pas d'un crédit d'impôt mentionné à l'article 244 quater T précité autre que celui issu de sa participation dans la
-société de personnes.
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-845 du 8 juillet 2009 - art. 1
+	  - Décret n°2016-395 du 31 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 ter R (V)
-	  - Code général des impôts, CGI. - art. 220 Y (V)
-	  - Code général des impôts, CGI. - art. 223 A (VT)
-	  - Code général des impôts, CGI. - art. 238 bis L (V)
-	  - Code général des impôts, CGI. - art. 244 quater T (V)
-	  - Code général des impôts, CGI. - art. 53 A (V)
-	  - Code général des impôts, CGI. - art. 8 (V)
-	  - Code général des impôts, CGI. - art. 97 (V)
+	  - Code général des impôts, CGI. - art. 199 ter R
+	  - Code général des impôts, CGI. - art. 220 Y
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 238 bis L
+	  - Code général des impôts, CGI. - art. 244 quater T
+	  - Code général des impôts, CGI. - art. 53 A
+	  - Code général des impôts, CGI. - art. 8
+	  - Code général des impôts, CGI. - art. 97
 
 
 ##### Section V vicies : Crédit d'impôt au titre des avances remboursables ne portant pas intérêt pour le financement de travaux d'amélioration de la performance énergétique des logements anciens
