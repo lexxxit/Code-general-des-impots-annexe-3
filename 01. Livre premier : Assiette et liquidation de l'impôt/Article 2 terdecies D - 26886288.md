@@ -2,8 +2,8 @@
 
 I. ― Pour l'application du premier alinéa du III de l'article 199 novovicies du code général des impôts : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2015, à 16,82
-€ en zone A bis, 12,49 € dans le reste de la zone A, 10,06 € en zone B 1 et 8,74 € en zone B 2. Ces plafonds sont révisés au
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont fixés, pour les baux conclus en 2016, à 16,83
+€ en zone A bis, 12,50 € dans le reste de la zone A, 10,07 € en zone B 1 et 8,75 € en zone B 2. Ces plafonds sont révisés au
 1er janvier de chaque année selon les modalités prévues au premier alinéa du a de l'article 2 duodecies. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application d'un coefficient multiplicateur calculé selon la
@@ -19,239 +19,243 @@ Pour l'application du présent 1, la surface à prendre en compte s'entend de ce
 
 2. Les plafonds de ressources sont les suivants : 
 
-a) Pour les baux conclus en 2015, les plafonds annuels de ressources des locataires sont les suivants : 
+a) Pour les baux conclus en 2016, les plafonds annuels de ressources des locataires sont les suivants : 
 
 <table>
-    <tbody>
-      <tr>
-        <th rowspan="2">COMPOSITION DU FOYER LOCATAIRE
+  <tbody>
+    <tr>
+      <th rowspan="2">
+
+COMPOSITION DU FOYER LOCATAIRE 
 
 </th>
-        <th colspan="4">
+      <th colspan="4">
 
-LIEU DE SITUATION DU LOGEMENT
+LIEU DE SITUATION DU LOGEMENT 
 
 </th>
-      </tr>
-      <tr>
-        <th>
+    </tr>
+    <tr>
+      <th>
 
 Zone A bis 
 
-(en euros)
+(en euros) 
 
 </th>
-        <th>
+      <th>
 
-Reste de la zone A 
+Reste 
 
-(en euros)
+de la zone A 
+
+(en euros) 
 
 </th>
-        <th>
+      <th>
 
 Zone B 1 
 
-(en euros)
+(en euros) 
 
 </th>
-        <th>
+      <th>
 
 Zone B 2 
 
-(en euros)
+(en euros) 
 
 </th>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td valign="middle" align="left">
 
-Personne seule
-
-</td>
-        <td align="center" valign="middle">
-
-36 971
+Personne seule 
 
 </td>
-        <td align="center" valign="middle">
+      <td align="right" valign="middle">
 
-36 971
-
-</td>
-        <td valign="middle" align="center">
-
-30 133
+36 993 
 
 </td>
-        <td align="center" valign="middle">
+      <td valign="middle" align="right">
 
-27 120
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-Couple
+36 993 
 
 </td>
-        <td valign="middle" align="center">
+      <td valign="middle" align="right">
 
-55 254
-
-</td>
-        <td valign="middle" align="center">
-
-55 254
+30 151 
 
 </td>
-        <td valign="middle" align="center">
+      <td valign="middle" align="right">
 
-40 241
-
-</td>
-        <td align="center" valign="middle">
-
-36 216
+27 136 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td valign="middle" align="left">
 
-Personne seule ou couple ayant une personne à charge
-
-</td>
-        <td valign="middle" align="center">
-
-72 433
+Couple 
 
 </td>
-        <td valign="middle" align="center">
+      <td align="right" valign="middle">
 
-66 420
-
-</td>
-        <td valign="middle" align="center">
-
-48 393
+55 287 
 
 </td>
-        <td align="center" valign="middle">
+      <td valign="middle" align="right">
 
-43 554
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-Personne seule ou couple ayant deux personnes à charge
+55 287 
 
 </td>
-        <td align="center" valign="middle">
+      <td align="right" valign="middle">
 
-86 479
-
-</td>
-        <td align="center" valign="middle">
-
-79 558
+40 265 
 
 </td>
-        <td align="center" valign="middle">
+      <td align="right" valign="middle">
 
-58 421
-
-</td>
-        <td valign="middle" align="center">
-
-52 579
+36 238 
 
 </td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
 
-Personne seule ou couple ayant trois personnes à charge
-
-</td>
-        <td valign="middle" align="center">
-
-102 893
+Personne seule ou couple ayant une personne à charge 
 
 </td>
-        <td valign="middle" align="center">
+      <td align="right" valign="middle">
 
-94 183
-
-</td>
-        <td valign="middle" align="center">
-
-68 725
+72 476 
 
 </td>
-        <td align="center" valign="middle">
+      <td valign="middle" align="right">
 
-61 853
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-Personne seule ou couple ayant quatre personnes à charge
+66 460 
 
 </td>
-        <td valign="middle" align="center">
+      <td valign="middle" align="right">
 
-115 782
-
-</td>
-        <td align="center" valign="middle">
-
-105 985
+48 422 
 
 </td>
-        <td valign="middle" align="center">
+      <td valign="middle" align="right">
 
-77 453
-
-</td>
-        <td valign="middle" align="center">
-
-69 707
+43 580 
 
 </td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+    </tr>
+    <tr>
+      <td valign="middle" align="left">
 
-Majoration par personne à charge supplémentaire à partir de la cinquième
-
-</td>
-        <td valign="middle" align="center">
-
-+ 12 900
+Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-        <td valign="middle" align="center">
+      <td align="right" valign="middle">
 
-+ 11 809
-
-</td>
-        <td align="center" valign="middle">
-
-+ 8 641
+86 531 
 
 </td>
-        <td align="center" valign="middle">
+      <td valign="middle" align="right">
 
-+ 7 775</td>
-      </tr>
-    </tbody>
-  </table>
+79 606 
+
+</td>
+      <td align="right" valign="middle">
+
+58 456 
+
+</td>
+      <td align="right" valign="middle">
+
+52 611 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="middle">
+
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+      <td valign="middle" align="right">
+
+102 955 
+
+</td>
+      <td valign="middle" align="right">
+
+94 240 
+
+</td>
+      <td align="right" valign="middle">
+
+68 766 
+
+</td>
+      <td valign="middle" align="right">
+
+61 890 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="left">
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+      <td valign="middle" align="right">
+
+115 851 
+
+</td>
+      <td align="right" valign="middle">
+
+106 049 
+
+</td>
+      <td valign="middle" align="right">
+
+77 499 
+
+</td>
+      <td valign="middle" align="right">
+
+69 749 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="middle" align="left">
+
+Majoration par personne à charge supplémentaire à partir de la cinquième 
+
+</td>
+      <td align="right" valign="middle">
+
++ 12 908 
+
+</td>
+      <td valign="middle" align="right">
+
++ 11 816 
+
+</td>
+      <td valign="middle" align="right">
+
++ 8 646 
+
+</td>
+      <td valign="middle" align="right">
+
++ 7 780</td>
+    </tr>
+  </tbody>
+</table>
 
 Ces plafonds sont révisés au 1er janvier de chaque année selon les modalités prévues au troisième alinéa du b de l'article 2
 duodecies ; 
@@ -297,8 +301,7 @@ postérieurement à l'entrée en vigueur de l'arrêté.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 2012-1532 du 29 décembre 2012 et de la loi n°
-2014-366 du 24 mars 2014, art. 33-3°.
+Modifications effectuées en conséquence de l'article 1er-1°]du décret n° 2012-1532 du 29 décembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -316,12 +319,12 @@ Modifications effectuées en conséquence de l'article 1er [1°] du décret n° 
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 3
+	  - Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1417
-	  - Code général des impôts, CGI. - art. 199 novovicies (V)
+	  - Code général des impôts, CGI. - art. 199 novovicies
 	  - Code de la construction et de l'habitation. - art. L301-5-2
 	  - Code de la construction et de l'habitation. - art. L302-1
 	  - Code de la construction et de l'habitation. - art. L302-4-1

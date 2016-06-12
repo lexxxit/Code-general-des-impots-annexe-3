@@ -3,9 +3,9 @@
 I. - Les plafonds de loyer et de ressources du locataire mentionnés au 2° du XII de l'article 199 novovicies du code général
 des impôts sont fixés comme suit : 
 
-1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2015, fixés à 10,09
+1. Les plafonds de loyer mensuel, par mètre carré, charges non comprises, sont, pour les baux conclus en 2016, fixés à 10,13
 € en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte ainsi qu'à Saint-Martin et à Saint-Pierre-et-Miquelon,
-et à 12,49 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
+et à 12,54 € en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna. 
 
 Aux plafonds de loyer définis à l'alinéa précédent, il est fait application du coefficient multiplicateur défini au 1 du I de
 l'article 2 terdecies D. 
@@ -13,154 +13,162 @@ l'article 2 terdecies D.
 Pour l'application du présent 1, la surface à prendre en compte s'entend de celle prévue au III de l'article 46 AG
 terdecies. 
 
-2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2015, les suivants : 
+2. Les plafonds annuels de ressources des locataires sont, pour les baux conclus en 2016, les suivants : 
 
 <table>
-  <tbody>
-    <tr>
-      <th>COMPOSITION DU FOYER LOCATAIRE
+    <tbody>
+      <tr>
+        <th>
+
+COMPOSITION DU FOYER LOCATAIRE 
 
 </th>
-      <th>
+        <th>
 
 LIEU DE SITUATION DU LOGEMENT : 
 
-Guadeloupe, Guyane, Martinique, La Réunion, Mayotte, Saint-Martin ou Saint-Pierre-et-Miquelon 
+Guadeloupe, Guyane, Martinique, 
 
-(en €)
+La Réunion, Mayotte, Saint-Martin 
+
+ou Saint-Pierre-et-Miquelon 
+
+(en €) 
 
 </th>
-      <th>
+        <th>
 
 LIEU DE SITUATION DU LOGEMENT : 
 
-Nouvelle-Calédonie, Polynésie Française, Iles Wallis-et-Futuna 
+Nouvelle-Calédonie, 
 
-(en €)
+Polynésie française, 
+
+îles Wallis et Futuna 
+
+(en €) 
 
 </th>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
 Personne seule 
 
 </td>
-      <td align="center" valign="bottom">
+        <td align="right" valign="middle">
 
-27 359
-
-</td>
-      <td valign="bottom" align="center">
-
-30 258
+27 465 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
+        <td valign="middle" align="right">
+
+30 371 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
 
 Couple 
 
 </td>
-      <td valign="bottom" align="center">
+        <td valign="middle" align="right">
 
-36 536
-
-</td>
-      <td align="center" valign="bottom">
-
-40 407
+36 678 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
+        <td align="right" valign="middle">
+
+40 557 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
 Personne seule ou couple ayant une personne à charge 
 
 </td>
-      <td valign="bottom" align="center">
+        <td valign="middle" align="right">
 
-43 939
-
-</td>
-      <td valign="bottom" align="center">
-
-48 594
+44 109 
 
 </td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
+        <td valign="middle" align="right">
+
+48 775 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
 
 Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-      <td align="center" valign="bottom">
+        <td align="right" valign="middle">
 
-53 044
-
-</td>
-      <td valign="bottom" align="center">
-
-58 664
+53 249 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
+        <td valign="middle" align="right">
+
+58 882 
+
+</td>
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
 
 Personne seule ou couple ayant trois personnes à charge 
 
 </td>
-      <td align="center" valign="bottom">
+        <td align="right" valign="middle">
 
-62 399
-
-</td>
-      <td align="center" valign="bottom">
-
-69 011
+62 640 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="middle" align="left">
+        <td align="right" valign="middle">
 
-Personne seule ou couple ayant quatre personnes à charge 
+69 267 
 
 </td>
-      <td valign="bottom" align="center">
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
-70 323
-
-</td>
-      <td valign="bottom" align="center">
-
-77 775
+Personne seule ou couple ayant quatre personnes à charge. 
 
 </td>
-    </tr>
-    <tr>
-      <td align="left" valign="middle">
+        <td valign="middle" align="right">
+
+70 595 
+
+</td>
+        <td valign="middle" align="right">
+
+78 064 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
 Majoration par personne à charge supplémentaire à partir de la cinquième 
 
 </td>
-      <td valign="bottom" align="center">
+        <td align="right">
 
-+ 7 846
-
-</td>
-      <td align="center" valign="bottom">
-
-+ 8 676
++ 7 877 
 
 </td>
-    </tr>
-  </tbody>
-</table>
+        <td align="right">
+
++ 8 709 </td>
+      </tr>
+    </tbody>
+  </table>
 
 Pour l'application du présent 2, les ressources du locataire s'entendent du revenu fiscal de référence au sens du 1° du IV de
 l'article 1417 du code général des impôts, figurant sur l'avis d'impôt sur le revenu établi au titre de l'avant-dernière
@@ -186,14 +194,13 @@ de l'habitat et de l'hébergement.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 1er-1° du décret n° 2013-474 du 5 juin 2013 et de la loi n° 2014-366 du
-24 mars 2014, art. 33-3°.
+Modifications effectuées en conséquence de l'article 1er-1° du décret n° 2013-474 du 5 juin 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 3
+	  - Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cité par**:
 
@@ -205,10 +212,10 @@ Modifications effectuées en conséquence de l'article 1er-1° du décret n° 20
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG duodecies
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG terdecies
-	  - Code général des impôts, CGI. - art. 1417 (V)
+	  - Code général des impôts, CGI. - art. 1417
 	  - Code général des impôts, CGI. - art. 196
 	  - Code général des impôts, CGI. - art. 199 novovicies
 	  - Code de la construction et de l'habitation. - art. L364-1

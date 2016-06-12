@@ -1,6 +1,6 @@
 # Article 49 I quinquies
 
-I.-Pour l'application des dispositions du huitième alinéa du 1 de l'article 242 ter du code général des impôts, l'organisme
+I.-Pour l'application des dispositions du neuvième alinéa du 1 de l'article 242 ter du code général des impôts, l'organisme
 ou l'entité mentionné à la première phrase du 3° du 1 du III de l'article 49 I ter ou, à défaut de personnalité morale, son
 gérant ou son représentant à l'égard des tiers, informe les établissements payeurs de revenus mentionnés au 4° du 1 du III du
 même article 49 I ter de sa situation au regard du quota d'investissement de 40 % mentionné à l'article 49 I quater. 
@@ -8,8 +8,8 @@ même article 49 I ter de sa situation au regard du quota d'investissement de 40
 Cette information sur la situation de l'organisme ou entité au regard du quota d'investissement de 40 % est transmise à
 l'établissement payeur selon un modèle établi par l'administration fiscale : 
 
-a. Dans le mois de leur création pour les organismes ou entités créés à compter de la date d'entrée en vigueur des sixième à
-huitième alinéas du 1 de l'article 242 ter ou à cette même date pour les organismes ou entités existants. A défaut
+a. Dans le mois de leur création pour les organismes ou entités créés à compter de la date d'entrée en vigueur des septième à
+neuvième alinéas du 1 de l'article 242 ter ou à cette même date pour les organismes ou entités existants. A défaut
 d'information, l'actif des organismes ou entités est réputé être investi à plus de 40 % en créances mentionnées au 1° du 1 du
 III de l'article 49 I ter. 
 
@@ -27,17 +27,21 @@ II.-L'organisme ou l'entité ou, à défaut de personnalité morale, son gérant
 également la situation de l'organisme ou entité au regard du quota d'investissement de 40 % aux établissements payeurs qui en
 font la demande.
 
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 8-2° de l'ordonnance n° 2015-681 du 18 juin 2015.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-132 du 15 février 2005 - art. 1 () JORF 17 février 2005
+	  - Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I sexies (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I sexies (V)
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I ter (V)
-	  - Code général des impôts, CGI. - art. 242 ter (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I ter
+	  - Code général des impôts, CGI. - art. 242 ter

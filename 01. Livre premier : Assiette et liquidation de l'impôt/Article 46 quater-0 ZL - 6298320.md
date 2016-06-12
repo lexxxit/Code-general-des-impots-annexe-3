@@ -61,27 +61,31 @@ et 44 terdecies du code général des impôts, comportant les éléments nécess
 plus-value nette à long terme d'ensemble exonérés en application du III de l'article 44 octies, du III de l'article 44 octies
 A, du III de l'article 44 duodecies et du III de l'article 44 terdecies du code général des impôts. 
 
-9. Un état faisant apparaître les intérêts mentionnés au quinzième alinéa de l'article 223 B du code général des impôts
-déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-neuvième alinéa du même
+9. Un état faisant apparaître les intérêts mentionnés au quatorzième alinéa de l'article 223 B du code général des impôts
+déductibles du résultat d'ensemble au titre de l'exercice et le suivi des intérêts mentionnés au dix-huitième alinéa du même
 article. 
 
-10. Un état des rectifications prévues aux deuxième, troisième, quatrième, septième et dix-huitième alinéas de l'article 223
-B et à l'article 223 D du code général des impôts qui sont afférentes aux opérations réalisées entre des sociétés du groupe
-et des sociétés intermédiaires, des sociétés étrangères ou l'entité mère non résidente. 
+10. Un état des rectifications prévues aux deuxième, troisième, sixième et dix-septième alinéas de l'article 223 B et à
+l'article 223 D du code général des impôts qui sont afférentes aux opérations réalisées entre des sociétés du groupe et des
+sociétés intermédiaires, des sociétés étrangères ou l'entité mère non résidente. 
 
 Ces renseignements sont présentés sur des documents conformes aux modèles établis par l'administration.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 40-I C 1° et II de la loi n° 2015-1786 du 29 décembre 2015.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1356 du 26 octobre 2015 - art. 1
+	  - Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cite**:
 
 	  - Code de commerce - art. R123-221
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZH
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZK
 	  - Code général des impôts, CGI. - art. 223 B
 	  - Code général des impôts, CGI. - art. 223 D
 	  - Code général des impôts, CGI. - art. 223 E

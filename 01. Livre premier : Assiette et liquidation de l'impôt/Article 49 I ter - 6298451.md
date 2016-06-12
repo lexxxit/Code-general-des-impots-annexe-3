@@ -1,6 +1,6 @@
 # Article 49 I ter
 
-I.-Pour l'application des sixième et septième alinéas du 1 de l'article 242 ter du code général des impôts, les personnes
+I.-Pour l'application des septième et huitième alinéas du 1 de l'article 242 ter du code général des impôts , les personnes
 mentionnées au premier alinéa de cet article qui assurent le paiement des intérêts de créances de toute nature et produits
 assimilés définis au III doivent joindre à la déclaration prévue à l'article 49 D, et dans le même délai, un état de ces
 sommes, payées au cours de l'année précédente à un bénéficiaire effectif défini au II. 
@@ -87,6 +87,12 @@ d'identification sont justifiés dans des conditions fixées par arrêté ;
 3° Le montant total des intérêts et des revenus mentionnés aux 1° et 3° du 1 du III et le montant total des cessions, rachats
 ou remboursements de créances, parts ou actions mentionnés aux 2° et 4° du 1 du même III.
 
+**Nota:**
+
+<font size="1" color="#000000">Modification effectuée en conséquence de 
+    <font color="#000000" size="1">l'art</font>
+    <font size="1" color="#000000">icle 8-2° de l'o</font>rdonnance n° 2015-681 du 18 juin 2015.</font>
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -94,14 +100,14 @@ ou remboursements de créances, parts ou actions mentionnés aux 2° et 4° du 1
 	  - Arrêté du 19 février 2010 - art. 3 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I quater (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I quinquies (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I sexies (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 I sexies (V)
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+	  - Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 D
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 E
 	  - Code général des impôts, CGI. - art. 242 ter

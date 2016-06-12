@@ -3,8 +3,8 @@
 Pour l'application du premier alinéa du j du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et de
 ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus en 2015, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,48 € par mètre carré
-en zone A, 12,08 € en zone B et 8,75 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
+a) Pour les baux conclus en 2016, les plafonds de loyer mensuel, charges non comprises, sont fixés à 18,49 € par mètre carré
+en zone A, 12,09 € en zone B et 8,76 € en zone C. Ces plafonds sont révisés au 1er janvier de chaque année selon les
 modalités prévues au premier alinéa de l'article L. 353-9-2 du code de la construction et de l'habitation, et arrondis au
 centime d'euro le plus proche. Toutefois, pour les conventions conclues à compter du 1er janvier 2015 pour l'application du
 premier alinéa du m du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer sont égaux à ceux fixés au 1
@@ -26,199 +26,201 @@ b) Les ressources du locataire s'entendent du revenu fiscal de référence au se
 général des impôts, figurant sur l'avis d'imposition établi au titre de l'avant-dernière année précédant celle de la
 signature du contrat de location. 
 
-Pour les baux conclus en 2015, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2016, les plafonds annuels de ressources sont les suivants : 
 
 (En euros) 
 
 <table>
-  <tbody>
-    <tr>
-      <th rowspan="2">COMPOSITION DU FOYER LOCATAIRE
+    <tbody>
+      <tr>
+        <th rowspan="2">
+
+COMPOSITION DU FOYER LOCATAIRE 
 
 </th>
-      <th colspan="3">
+        <th colspan="3">
 
-LIEU DE LOCATION
+LIEU DE LOCATION 
 
 </th>
-    </tr>
-    <tr>
-      <th>
+      </tr>
+      <tr>
+        <th>
 
 Zone A 
 
-(en €)
+(en €) 
 
 </th>
-      <th>
+        <th>
 
 Zone B 
 
-(en €)
+(en €) 
 
 </th>
-      <th>
+        <th>
 
 Zone C 
 
-(en €)
+(en €) 
 
 </th>
-    </tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
-Personne seule
-
-</td>
-      <td align="center">
-
-46 807
+Personne seule 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="right">
 
-36 176
-
-</td>
-      <td align="center">
-
-31 656
+46 835 
 
 </td>
-    </tr>
-    <tr>
-      <td>
+        <td align="right" valign="middle">
+
+36 198 
+
+</td>
+        <td valign="middle" align="right">
+
+31 675 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
 Couple 
 
 </td>
-      <td align="center">
+        <td align="right" valign="middle">
 
-69 953
-
-</td>
-      <td align="center">
-
-48 307
+69 995 
 
 </td>
-      <td align="center">
+        <td align="right" valign="middle">
 
-42 547
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Personne seule ou couple ayant une personne à charge
+48 336 
 
 </td>
-      <td align="center">
+        <td align="right" valign="middle">
 
-84 088
-
-</td>
-      <td align="center">
-
-58 092
+42 573 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td valign="middle" align="left">
 
-50 935
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Personne seule ou couple ayant deux personnes à charge
+Personne seule ou couple ayant une personne à charge 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="right">
 
-100 724
-
-</td>
-      <td align="center">
-
-70 127
+84 138 
 
 </td>
-      <td align="center">
+        <td align="right" valign="middle">
 
-61 644
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Personne seule ou couple ayant trois personnes à charge
+58 127 
 
 </td>
-      <td align="center">
+        <td align="right" valign="middle">
 
-119 239
-
-</td>
-      <td align="center">
-
-82 494
+50 966 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
-72 349
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Personne seule ou couple ayant quatre personnes à charge
+Personne seule ou couple ayant deux personnes à charge 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="right">
 
-134 174
-
-</td>
-      <td align="center">
-
-92 968
+100 784 
 
 </td>
-      <td align="center">
+        <td valign="middle" align="right">
 
-81 612
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Majoration par personne à charge à partir de la cinquième
+70 169 
 
 </td>
-      <td align="center">
+        <td align="right" valign="middle">
 
-+ 14 956
-
-</td>
-      <td align="center">
-
-+ 10 369
+61 681 
 
 </td>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
 
-+ 9 270</td>
-    </tr>
-  </tbody>
-</table>
+Personne seule ou couple ayant trois personnes à charge 
+
+</td>
+        <td align="right" valign="middle">
+
+119 311 
+
+</td>
+        <td align="right" valign="middle">
+
+82 543 
+
+</td>
+        <td align="right" valign="middle">
+
+72 392 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+Personne seule ou couple ayant quatre personnes à charge 
+
+</td>
+        <td align="right" valign="middle">
+
+134 255 
+
+</td>
+        <td valign="middle" align="right">
+
+93 024 
+
+</td>
+        <td align="right" valign="middle">
+
+81 661 
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="middle">
+
+Majoration par personne à charge à partir de la cinquième ... 
+
+</td>
+        <td valign="middle" align="right">
+
+14 965 
+
+</td>
+        <td align="right" valign="middle">
+
+10 375 
+
+</td>
+        <td align="right" valign="middle">
+
+9 276 </td>
+      </tr>
+    </tbody>
+  </table>
 
 Ces plafonds sont révisés au 1er janvier de chaque année en fonction de l'évolution annuelle de l'indice des prix à la
 consommation hors tabac et arrondis à l'euro le plus proche. Cette variation est appréciée entre le 1er octobre de l'avant-
@@ -232,6 +234,11 @@ alinéa pour les logements situés dans la zone B2 du tableau annexé au a du 2 
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
 196 B du code général des impôts.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 1er-I du décret n° 2010-1601 du 20 décembre 2010 et de l'article 2-2°,
+et 3° du décret n° 2014-1102 du 30 septembre 2014.
 
 **Liens relatifs à cet article**
 
@@ -255,7 +262,7 @@ Les personnes à charge pour l'application des présentes dispositions s'entende
 
 	**Modifié par**:
 
-	  - Décret n°2015-638 du 8 juin 2015 - art. 1
+	  - Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cite**:
 

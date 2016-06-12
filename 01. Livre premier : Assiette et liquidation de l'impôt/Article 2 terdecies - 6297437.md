@@ -3,8 +3,8 @@
 Pour l'application du troisième alinéa du g du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer et
 de ressources du locataire sont les suivants : 
 
-a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2015 les plafonds de loyer mensuel, charges non comprises,
-sont fixés à 16,56 € par mètre carré en zone I bis, 14,66 € en zone I, 11,32 € en zone II et 10,69 € en zone III. Les
+a) Pour les baux conclus entre le 1er janvier et le 31 décembre 2016 les plafonds de loyer mensuel, charges non comprises,
+sont fixés à 16,57 € par mètre carré en zone I bis, 14,67 € en zone I, 11,33 € en zone II et 10,70 € en zone III. Les
 plafonds sont relevés chaque année, au 1er janvier, selon les mêmes modalités que les plafonds de loyer prévus à l'article 2
 duodecies. 
 
@@ -16,14 +16,13 @@ b) Les ressources du locataire s'apprécient de la même façon que pour l'appli
 
 **Nota:**
 
-<font size="1" color="#000000">Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars
-1999.</font>
+Modifications effectuées en conséquence de l'article 1er du décret n° 99-244 du 29 mars 1999.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 3
+	  - Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cite**:
 

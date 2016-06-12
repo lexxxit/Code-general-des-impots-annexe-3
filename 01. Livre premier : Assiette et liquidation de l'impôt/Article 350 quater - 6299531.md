@@ -2,7 +2,7 @@
 
 I.-La direction générale des douanes et droits indirects exerce les compétences prévues : 
 
-1° Aux articles 306,321,412,426,427,450,454,1562(1),1565 septies du code général des impôts ; 
+1° Aux articles 306, 321, 412, 450, 454, 1562 (1), 1565 septies du code général des impôts ; 
 
 2° Au premier alinéa de l'article 444 du code général des impôts ; 
 
@@ -34,8 +34,8 @@ des impôts ;
 
 **Nota:**
 
-(1) la référence [1562] devient sans objet, modification effectuée en conséquence de la loi n° 2014-1654 du 29 décembre 2014,
-article 21-I-11° et III
+En conséquence de l'article 4-1° de l'ordonnance n° 2015-1247 du 7 octobre 2015, au 1°, les références : " 426,427,"
+deviennent sans objet.
 
 **Liens relatifs à cet article**
 
@@ -45,7 +45,7 @@ article 21-I-11° et III
 
 	**Modifié par**:
 
-	  - Décret n°2015-608 du 3 juin 2015 - art. 3
+	  - Décret n°2016-775 du 10 juin 2016 - art. 4
 
 	**Cite**:
 
@@ -56,7 +56,6 @@ article 21-I-11° et III
 	  - Code général des impôts, CGI. - art. 319
 	  - Code général des impôts, CGI. - art. 321
 	  - Code général des impôts, CGI. - art. 412
-	  - Code général des impôts, CGI. - art. 426
 	  - Code général des impôts, CGI. - art. 444
 	  - Code général des impôts, CGI. - art. 450
 	  - Code général des impôts, CGI. - art. 454
