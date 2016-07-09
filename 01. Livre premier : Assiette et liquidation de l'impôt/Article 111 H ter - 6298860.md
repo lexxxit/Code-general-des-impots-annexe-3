@@ -22,7 +22,7 @@ La validation des documents d'accompagnement mentionnés au II de l'article 302 
 les produits sont remis sous le régime de la suspension des droits lors de leur prise en charge dans un entrepôt fiscal
 suspensif des droits d'accises, dans les conditions déterminées par l'administration des douanes et droits indirects. 
 
-II.-Le directeur régional des douanes et droits indirects territorialement compétent peut attribuer à une personne des
+II.-Le directeur interrégional des douanes et droits indirects territorialement compétent peut attribuer à une personne des
 documents prévalidés mentionnés au 2° du I, ou l'autoriser à valider les documents mentionnés à l'article 302 M du code
 général des impôts au moyen des différents matériels de validation mentionnés au 3° du I, si cette personne justifie d'une
 bonne moralité fiscale et fournit un cautionnement pour l'utilisation des documents d'accompagnement concernés. 
@@ -33,7 +33,7 @@ l'article 302 M du code général des impôts sont fixées par arrêté du minis
 Les conditions et les modalités d'utilisation des documents prévalidés, d'un matériel ou logiciel de validation informatique
 sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique sont fixées par arrêté du ministre chargé des douanes. 
 
-III.-Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser des groupements
+III.-Le directeur interrégional des douanes et droits indirects territorialement compétent peut autoriser des groupements
 d'entrepositaires agréés, des syndicats et des organismes professionnels représentant des entrepositaires agréés : 
 
 1° A valider pour le compte des entrepositaires agréés des documents d'accompagnement mentionnés à l'article 302 M du code
@@ -47,7 +47,7 @@ les organismes professionnels représentant des entrepositaires agréés doivent
 un cautionnement pour l'utilisation des documents d'accompagnement concernés et présenter une liste des entrepositaires
 agréés bénéficiaires. 
 
-IV.-Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser les entrepositaires
+IV.-Le directeur interrégional des douanes et droits indirects territorialement compétent peut autoriser les entrepositaires
 agréés, selon le cas, à faire valider les documents mentionnés à l'article 302 M du code général des impôts ou à se faire
 remettre ces documents prévalidés par un groupement d'entrepositaires agréés, un syndicat ou un organisme professionnel
 représentant les entrepositaires agréés, si ces entrepositaires agréés justifient d'une bonne moralité fiscale et fournissent
@@ -92,7 +92,7 @@ effectuée sous le régime des droits acquittés, de l'exemption ou de l'exonér
 VII.-(alinéa abrogé) 
 
 VIII.-Les autorisations accordées en vertu du III de l'article 302 M du code précité et celles accordées en vertu des II, III
-et IV du présent article peuvent être suspendues ou révoquées par le directeur régional des douanes et droits indirects
+et IV du présent article peuvent être suspendues ou révoquées par le directeur interrégional des douanes et droits indirects
 territorialement compétent : 
 
 1° En cas de manquements du bénéficiaire aux obligations fixées aux I à VI ainsi qu'aux articles 302 D à 302 V bis, 406, 440
@@ -112,7 +112,7 @@ documents d'accompagnement mentionnés au I et au II de l'article 302 M du code 
 
 	**Modifié par**:
 
-	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 	**Cite**:
 

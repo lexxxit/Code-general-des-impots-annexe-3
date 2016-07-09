@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-06-13
+Version Consolidée au 2016-07-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -27040,8 +27040,8 @@ sans les informations prévues dans les cases 3, 6, 9 et 13 de ces documents, à
 service de suivi informatique des mouvements de marchandises soumises à accise mentionné au III de l'article 302 M précité. 
 
 II.-1° Les entrepositaires agréés mentionnés à l'article 302 G du code général des impôts et les débitants de boissons
-mentionnés à l'article 502 du même code peuvent être autorisés par le directeur régional des douanes et droits indirects à
-utiliser leurs factures ou tout autre document commercial, en lieu et place des documents d'accompagnement mentionnés à
+mentionnés à l'article 502 du même code peuvent être autorisés par le directeur interrégional des douanes et droits indirects
+à utiliser leurs factures ou tout autre document commercial, en lieu et place des documents d'accompagnement mentionnés à
 l'article 302 M du code précité à l'exception de ceux établis au moyen du service de suivi informatique des mouvements de
 marchandises soumises à accise mentionné au III de cet article. 
 
@@ -27058,15 +27058,11 @@ d'accompagnement mentionnés à l'article 302 M du code général des impôts, i
 préalablement à la mise en service des documents, et en déposent un spécimen auprès du service des douanes et droits
 indirects dont ils dépendent.
 
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 52-II (2°) de la loi n° 2010-1658 du 29 décembre 2010.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-645 du 9 juin 2011 - art. 3
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 	**Cité par**:
 
@@ -27462,7 +27458,7 @@ La validation des documents d'accompagnement mentionnés au II de l'article 302 
 les produits sont remis sous le régime de la suspension des droits lors de leur prise en charge dans un entrepôt fiscal
 suspensif des droits d'accises, dans les conditions déterminées par l'administration des douanes et droits indirects. 
 
-II.-Le directeur régional des douanes et droits indirects territorialement compétent peut attribuer à une personne des
+II.-Le directeur interrégional des douanes et droits indirects territorialement compétent peut attribuer à une personne des
 documents prévalidés mentionnés au 2° du I, ou l'autoriser à valider les documents mentionnés à l'article 302 M du code
 général des impôts au moyen des différents matériels de validation mentionnés au 3° du I, si cette personne justifie d'une
 bonne moralité fiscale et fournit un cautionnement pour l'utilisation des documents d'accompagnement concernés. 
@@ -27473,7 +27469,7 @@ l'article 302 M du code général des impôts sont fixées par arrêté du minis
 Les conditions et les modalités d'utilisation des documents prévalidés, d'un matériel ou logiciel de validation informatique
 sécurisé, d'une machine à timbrer ou de tout autre matériel mécanique sont fixées par arrêté du ministre chargé des douanes. 
 
-III.-Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser des groupements
+III.-Le directeur interrégional des douanes et droits indirects territorialement compétent peut autoriser des groupements
 d'entrepositaires agréés, des syndicats et des organismes professionnels représentant des entrepositaires agréés : 
 
 1° A valider pour le compte des entrepositaires agréés des documents d'accompagnement mentionnés à l'article 302 M du code
@@ -27487,7 +27483,7 @@ les organismes professionnels représentant des entrepositaires agréés doivent
 un cautionnement pour l'utilisation des documents d'accompagnement concernés et présenter une liste des entrepositaires
 agréés bénéficiaires. 
 
-IV.-Le directeur régional des douanes et droits indirects territorialement compétent peut autoriser les entrepositaires
+IV.-Le directeur interrégional des douanes et droits indirects territorialement compétent peut autoriser les entrepositaires
 agréés, selon le cas, à faire valider les documents mentionnés à l'article 302 M du code général des impôts ou à se faire
 remettre ces documents prévalidés par un groupement d'entrepositaires agréés, un syndicat ou un organisme professionnel
 représentant les entrepositaires agréés, si ces entrepositaires agréés justifient d'une bonne moralité fiscale et fournissent
@@ -27532,7 +27528,7 @@ effectuée sous le régime des droits acquittés, de l'exemption ou de l'exonér
 VII.-(alinéa abrogé) 
 
 VIII.-Les autorisations accordées en vertu du III de l'article 302 M du code précité et celles accordées en vertu des II, III
-et IV du présent article peuvent être suspendues ou révoquées par le directeur régional des douanes et droits indirects
+et IV du présent article peuvent être suspendues ou révoquées par le directeur interrégional des douanes et droits indirects
 territorialement compétent : 
 
 1° En cas de manquements du bénéficiaire aux obligations fixées aux I à VI ainsi qu'aux articles 302 D à 302 V bis, 406, 440
@@ -27552,7 +27548,7 @@ documents d'accompagnement mentionnés au I et au II de l'article 302 M du code 
 
 	**Modifié par**:
 
-	  - Décret n°2010-631 du 9 juin 2010 - art. 1
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 	**Cite**:
 
@@ -29282,18 +29278,19 @@ s'il est inférieur au titre minimum légal.
 
 Tout propriétaire d'un ouvrage d'or, de platine ou d'argent portant le poinçon de la garantie peut exercer une action contre
 le fabricant ou l'importateur si le titre réel ne correspond pas à celui indiqué par le poinçon. En cas de doute, il peut
-demander au directeur régional des douanes et droits indirects territorialement compétent un nouvel essai.
+demander au directeur interrégional des douanes et droits indirects territorialement compétent ou, en Guadeloupe, en Guyane,
+à La Réunion et à Mayotte, au directeur régional des douanes et droits indirects un nouvel essai.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2006-908 du 21 juillet 2006 - art. 1 () JORF 23 juillet 2006
 
 	**Cité par**:
 
 	  - Décret n°2014-1281 du 23 octobre 2014 - art. (VT)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 
 ###### Article 208
@@ -39988,22 +39985,22 @@ Modifications effectuées en conséquence de l'article 4-1° de l'ordonnance n°
 Les conditions de délivrance et de retrait des dérogations à la règle posée par l'article 311 bis du code général des impôts
 sont fixées par arrêté du ministre chargé du budget. 
 
-Ces dérogations peuvent être accordées par arrêté du préfet sur proposition du directeur régional des douanes et droits
-indirects.
+Ces dérogations peuvent être accordées par arrêté du préfet sur proposition du directeur interrégional des douanes et droits
+indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, du directeur régional des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°93-264 du 1993-02-26 art. 7 2°, 26 JORF 28 février 1993
-
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°93-1127 du 24 septembre 1993
+
+	**Modifié par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 311 bis (V)
+	  - Code général des impôts, CGI. - art. 311 bis
 
 
 ###### Article 350 undecies
@@ -42704,22 +42701,23 @@ impôts.
 
 ###### Article 406 L
 
-Le directeur régional des douanes et droits indirects est compétent pour proposer la fermeture d'établissement dans le cadre
-de l'application de l'article 1825 du code général des impôts.
+Le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le
+directeur régional des douanes et droits indirects est compétent pour proposer la fermeture d'établissement dans le cadre de
+l'application de l'article 1825 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°93-266 1993-02-26 art. 2 2 et 3 JORF 28 février 1993
-
 	**Codifié par**:
 
-	  - Décret n°93-1127 1993-09-24
+	  - Décret n°93-1127 du 24 septembre 1993
+
+	**Modifié par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 9
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1825 (V)
+	  - Code général des impôts, CGI. - art. 1825
 
 
 ### Section II : Dispositions communes
