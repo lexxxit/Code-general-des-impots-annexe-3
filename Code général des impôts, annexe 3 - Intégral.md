@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-07-23
+Version Consolidée au 2016-08-06
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -23191,17 +23191,15 @@ la date de cette renonciation.
 
 ###### Article 84 A
 
-Pour l'application des dispositions de l'article 273 septies C du code général des impôts, le service technique des remontées
-mécaniques et des transports guidés certifie, au vu des documents transmis par le demandeur : 
+Pour l'application des dispositions de l'article 273 septies C du code général des impôts, le demandeur certifie sur
+l'honneur  : 
 
 1° Que le certificat d'immatriculation du véhicule, ou, le cas échéant, le contrat de location du véhicule, est établi au nom
 d'un exploitant de remontées mécaniques ou de domaines skiables ; 
 
-2° Que le demandeur s'est engagé sur l'honneur à affecter exclusivement le véhicule concerné à l'exploitation de ces
-infrastructures ; 
+2° Que le véhicule concerné est affecté exclusivement à l'exploitation de ces infrastructures ; 
 
-3° Que le véhicule comprend, d'origine ou à la suite de travaux dont la réalisation est attestée par les documents déposés à
-l'appui de la demande, trois au moins des équipements techniques suivants : 
+3° Que le véhicule comprend, d'origine ou à la suite de travaux, trois au moins des équipements techniques suivants : 
 
 a. Plateau de chargement ; 
 
@@ -23227,17 +23225,17 @@ k. Pneus mixtes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2006-1168 du 20 septembre 2006 - art. 1 () JORF 22 septembre 2006
-
 	**Cité par**:
 
 	  - Décret n°2016-1062 du 3 août 2016 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-1062 du 3 août 2016 - art. 1
+
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 273 septies C (V)
+	  - Code général des impôts, CGI. - art. 273 septies C
 
 
 ##### I :  Régime suspensif
