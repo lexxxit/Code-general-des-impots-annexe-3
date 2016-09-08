@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-08-29
+Version Consolidée au 2016-09-09
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -40181,6 +40181,31 @@ France mais y réalisant des opérations taxables mentionnées au I de l'article
 ## Chapitre premier : Paiement de l'impôt
 
 ### Section I : Impôts directs et taxes assimilées
+
+#### I : Rôles et avis d'imposition
+
+##### 1 : Etablissement et mise en recouvrement des rôles
+
+###### Article 351
+
+En application de l'article 1658 du code général des impôts, les rôles d'impôts directs et taxes assimilées sont rendus
+exécutoires : 
+
+1° Par arrêté du directeur général des finances publiques, s'agissant des rôles généraux d'impôt sur le revenu et de
+prélèvements sociaux recouvrés comme en matière d'impôt sur le revenu ; 
+
+2° Par arrêté du préfet, s'agissant des autres rôles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2016-1116 du 11 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1658
+
 
 #### II : Exigibilité de l'impôt
 
