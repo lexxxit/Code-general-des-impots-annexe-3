@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-09-09
+Version Consolidée au 2016-09-10
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -16394,6 +16394,98 @@ autres départements.
 	  - Code de la propriété intellectuelle - art. L113-7
 	  - Code de la propriété intellectuelle - art. L212-4
 	  - Code général des impôts, CGI. - art. 220 quaterdecies
+
+
+##### Section XI bis : Crédit d'impôt pour dépenses de création, d'exploitation et de numérisation d'un spectacle vivant musical ou de variétés
+
+###### Article 46 quater-0 ZY decies
+
+Pour la détermination des dépenses mentionnées au i du 1° du III de l'article 220 quindecies du code général des impôts, les
+dépenses d'hébergement sont comprises dans l'assiette du crédit d'impôt dans la limite de 270 € dans la ville de Paris et les
+départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et de 200 € dans les autres départements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1209 du 7 septembre 2016 - art. 10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quindecies
+
+
+###### Article 46 quater-0 ZY duodecies
+
+Le crédit d'impôt prévu à l'article 220 quindecies du code général des impôts est imputé sur l'impôt dû après les
+prélèvements non libératoires et les crédits d'impôt non restituables.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1209 du 7 septembre 2016 - art. 10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quindecies
+
+
+###### Article 46 quater-0 ZY nonies
+
+Pour la détermination des dépenses mentionnées au g du 1° du III de l'article 220 quindecies du code général des impôts, il y
+a lieu de retenir les dotations aux amortissements fiscalement déductibles afférentes aux immobilisations détenues par
+l'entreprise et affectées directement à la réalisation du spectacle vivant musical ou de variétés ouvrant droit au crédit
+d'impôt. Seules sont prises en compte les dotations aux amortissements correspondant à la période durant laquelle
+l'immobilisation a été effectivement utilisée pour la réalisation du spectacle éligible au crédit d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1209 du 7 septembre 2016 - art. 10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quindecies
+
+
+###### Article 46 quater-0 ZY octies
+
+Pour la détermination des dépenses mentionnées au a du 1° du III de l'article 220 quindecies du code général des impôts, le
+plafond de la rémunération du dirigeant prise en compte est fixé à 45 000 € par an.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1209 du 7 septembre 2016 - art. 10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 quindecies
+
+
+###### Article 46 quater-0 ZY undecies
+
+Pour l'application des articles 220 quindecies et 220 S du code général des impôts, les entreprises déclarent les réductions
+et crédits d'impôt selon le format établi par l'administration dans les mêmes délais que la déclaration annuelle de résultat
+qu'elles sont tenues de souscrire en application de l'article 223 du code précité. 
+
+La société mère d'un groupe au sens de l'article 223 A du code précité déclare les réductions et crédits d'impôt pour le
+compte des sociétés du groupe, y compris ceux la concernant, lors du dépôt de la déclaration relative au résultat d'ensemble
+du groupe
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1209 du 7 septembre 2016 - art. 10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 220 S
+	  - Code général des impôts, CGI. - art. 220 quindecies
 
 
 ##### Section XII : Réduction du taux de l'impôt sur les sociétés pour certaines sociétés qui incorporent une fraction de leur bénéfice au capital
