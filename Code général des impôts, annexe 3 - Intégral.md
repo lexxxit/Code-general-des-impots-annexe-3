@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-10-23
+Version Consolidée au 2016-11-28
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -2422,10 +2422,10 @@ c. Les pièces justifiant de la nature, du montant et du paiement des travaux.
 L'autorité compétente vérifie la compatibilité des travaux de restauration ou de gros entretien, mentionnés au c quinquies du
 2° du I de l'article 31 du code général des impôts, avec les objectifs qui ont justifié la mesure de classement et, le cas
 échéant, avec le document de gestion ou d'objectifs approuvé au titre de la réglementation concernée. En ce qui concerne les
-espaces remarquables du littoral au sens de l'article L. 121-23 du code de l'urbanisme , tels qu'ils figurent dans le
-document d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 121-5
-du code de l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 146-6 et du
-5° de l'article R. 121-5 du code de l'urbanisme. 
+espaces remarquables du littoral au sens de l'article L. 121-23 du code de l'urbanisme, tels qu'ils figurent dans le document
+d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 121-5 du code de
+l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 121-23 et du 5° de
+l'article R. 121-5 du code de l'urbanisme. 
 
 Les autorités compétentes sont les suivantes : 
 
@@ -2448,7 +2448,7 @@ g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protectio
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 4
+	  - Décret n°2016-1613 du 25 novembre 2016 - art. 4
 
 	**Cité par**:
 
@@ -2457,8 +2457,8 @@ g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protectio
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 31
-	  - Code de l'urbanisme - art. L146-6
-	  - Code de l'urbanisme - art. R146-2
+	  - Code de l'urbanisme - art. L121-23 (V)
+	  - Code de l'urbanisme - art. R121-5 (V)
 
 
 ##### III : Bénéfices industriels et commerciaux
@@ -36632,9 +36632,9 @@ de l'article 1605 nonies du code général des impôts ;
 
 3° Que la date du classement du terrain par un plan local d'urbanisme ou par un autre document d'urbanisme en tenant lieu en
 zone urbaine ou à urbaniser ouverte à l'urbanisation ou par une carte communale dans une zone où les constructions sont
-autorisées ou par application des articles L. 113-3 à L. 111-5 du code de l'urbanisme est antérieure au 14 janvier 2010 ; 
+autorisées ou par application des articles L. 111-3 à L. 111-5 du code de l'urbanisme est antérieure au 14 janvier 2010 ; 
 
-4° Que le terrain se situe dans la partie urbanisée de la commune au sens des articles L. 113-3 à L. 111-5 du code de
+4° Que le terrain se situe dans la partie urbanisée de la commune au sens des articles L. 111-3 à L. 111-5 du code de
 l'urbanisme ; 
 
 5° Que la plus-value réalisée par le cédant est exonérée de la taxe en application, selon le cas, des dispositions : 
@@ -36665,20 +36665,16 @@ attestation, établie par la commune ou, le cas échéant, par l'établissement 
 pour l'élaboration des documents locaux d'urbanisme, précisant la date à laquelle le terrain est devenu constructible ou, à
 défaut, que cet événement est intervenu depuis plus de dix-huit ans à compter du 14 janvier 2010.
 
-**Nota:**
-
-Au lieu de "les L. 113-3 à L. 111-5 du code de l'urbanisme", il convient de lire " les L. 111-3 à L. 111-5 du code de
-l'urbanisme".
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+	  - Décret n°2016-1613 du 25 novembre 2016 - art. 4
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1605 nonies
+	  - Code de l'organisation judiciaire - art. L111-3 (V)
 	  - Code de l'urbanisme - art. L410-1
 
 

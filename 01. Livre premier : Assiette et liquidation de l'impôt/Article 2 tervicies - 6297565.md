@@ -3,10 +3,10 @@
 L'autorité compétente vérifie la compatibilité des travaux de restauration ou de gros entretien, mentionnés au c quinquies du
 2° du I de l'article 31 du code général des impôts, avec les objectifs qui ont justifié la mesure de classement et, le cas
 échéant, avec le document de gestion ou d'objectifs approuvé au titre de la réglementation concernée. En ce qui concerne les
-espaces remarquables du littoral au sens de l'article L. 121-23 du code de l'urbanisme , tels qu'ils figurent dans le
-document d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 121-5
-du code de l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 146-6 et du
-5° de l'article R. 121-5 du code de l'urbanisme. 
+espaces remarquables du littoral au sens de l'article L. 121-23 du code de l'urbanisme, tels qu'ils figurent dans le document
+d'urbanisme de la commune, devenu définitif et doté d'un règlement conforme aux dispositions de l'article R. 121-5 du code de
+l'urbanisme, cette vérification porte sur la conformité des travaux aux dispositions de l'article L. 121-23 et du 5° de
+l'article R. 121-5 du code de l'urbanisme. 
 
 Les autorités compétentes sont les suivantes : 
 
@@ -29,7 +29,7 @@ g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protectio
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 4
+	  - Décret n°2016-1613 du 25 novembre 2016 - art. 4
 
 	**Cité par**:
 
@@ -38,5 +38,5 @@ g. Pour un site Natura 2000 (zone spéciale de conservation ou zone de protectio
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 31
-	  - Code de l'urbanisme - art. L146-6
-	  - Code de l'urbanisme - art. R146-2
+	  - Code de l'urbanisme - art. L121-23 (V)
+	  - Code de l'urbanisme - art. R121-5 (V)
