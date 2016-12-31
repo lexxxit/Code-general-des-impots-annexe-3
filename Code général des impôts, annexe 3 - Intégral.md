@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2016-12-24
+Version Consolidée au 2017-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -7004,32 +7004,70 @@ suivantes :
 a) Les noms et prénoms ou raison sociale, adresse, numéro SIRET et code APE (Activité principale exercée). Les entreprises à
 établissements multiples indiquent l'établissement qui a déposé la déclaration de résultats ; 
 
-b) L'effectif au dernier jour ouvrable de l'année précédente ; 
+b) L'effectif au dernier jour de la période déclarée ; 
 
-c) Le montant de la taxe sur les salaires ; 
+c) Pour les employeurs assujettis à la taxe sur les salaires, l'assiette au taux normal et aux taux majorés ou, pour ceux
+n'entrant pas dans le champ d'application de l'article L. 133-5-3 du code de la sécurité sociale, le montant de la taxe sur
+les salaires ; 
 
-d) Pour les employeurs assujettis à la taxe d'apprentissage conformément à l'article 1599 ter A du code général des impôts,
+d) Pour les employeurs assujettis à la taxe d'apprentissage conformément à l'article 1599 ter A du code général des impôts
+et, le cas échéant, à la contribution supplémentaire à l'apprentissage conformément à l'article 1609 quinvicies du même code,
 le montant des rémunérations défini à l'article 1599 ter B du code général des impôts ; 
 
-e) Pour les employeurs assujettis à la participation au développement de la formation professionnelle continue conformément à
-l'article L. 6331-2 du code du travail, le montant des rémunérations défini au deuxième alinéa de l'article L. 6331-2 précité
-ainsi que, le cas échéant, le montant des rémunérations versées aux titulaires d'un contrat à durée déterminée défini au
-deuxième alinéa de l'article L. 6322-37 du même code ; 
+e) Pour les employeurs assujettis à la participation au développement de la formation professionnelle continue conformément
+aux articles L. 6331-2 et L. 6331-9 du code du travail, le montant des rémunérations défini respectivement au deuxième et au
+troisième alinéas de ces mêmes articles ainsi que, le cas échéant, le montant des rémunérations versées aux titulaires d'un
+contrat à durée déterminée défini au deuxième alinéa de l'article L. 6322-37 du même code ; 
 
-2° Concernant chaque salarié rétribué l'année précédente : 
+f) Pour les employeurs assujettis à la participation des employeurs à l'effort de construction conformément à l'article L.
+313-1 du code de la construction et de l'habitation ou à la participation des employeurs agricoles à l'effort de construction
+conformément à l'article L. 716-2 du code rural et de la pêche maritime, le montant des rémunérations définies au premier
+alinéa de ces mêmes articles. 
 
-a) Son identification : nom de famille, le cas échéant nom de l'époux, prénoms, sexe, date et lieu de naissance, numéro
+Pour les employeurs entrant dans le champ d'application de l'article L. 133-5-3 du code de la sécurité sociale, les
+informations prévues aux c à f sont déclarées sur la dernière déclaration déposée au titre de l'année civile ; 
+
+g) Pour les employeurs assujettis à la cotisation sur la valeur ajoutée des entreprises prévue à l'article 1586 ter du code
+général des impôts : 
+
+Les cinq caractères du numéro complémentaire au numéro d'identité mentionné au premier alinéa de l'article R. 123-221 du code
+de commerce, et correspondant à l'établissement de localisation des salariés défini conformément au 1 du II de l'article 1586
+octies du code général des impôts et à l'article 328 G bis ; 
+
+Le code INSEE, sur cinq caractères, de la commune de localisation des salariés défini conformément au 1 du II de l'article
+1586 octies du code général des impôts et à l'article 328 G bis ; 
+
+Le type de salariés déclarés selon qu'ils sont employés dans un établissement de l'entreprise ou dans un lieu d'emploi
+définis au 1 du II de l'article 1586 octies du code général des impôts ; 
+
+Le nombre de salariés déclarés ; 
+
+L'année au titre de laquelle le nombre de salariés est déclaré ; 
+
+Les cinq chiffres du numéro complémentaire au numéro d'identité, mentionné au second alinéa de l'article R. 123-221 du code
+de commerce, attribué au siège de l'entreprise de l'établissement déclarant ; 
+
+Le code APE relatif au siège de l'entreprise de l'établissement déclarant ; 
+
+Les dates de début et de fin de la période de référence définie à l'article 1586 quinquies du code général des impôts
+comprenant le mois au titre duquel la déclaration sociale nominative est déposée. 
+
+2° Concernant chaque salarié rétribué au cours de la période déclarée : 
+
+a) Son identification : nom patronymique, le cas échéant nom d'usage, prénoms, sexe, date et lieu de naissance, numéro
 d'inscription au répertoire national d'identification des personnes physiques pour les seules déclarations des personnes ou
 organismes mentionnés au I de l'article R. * 81 A-1 du livre des procédures fiscales ; 
 
-b) L'adresse de son domicile au 31 décembre de l'année du revenu ; 
+b) La dernière adresse connue de son domicile au moment de la déclaration du revenu ; 
 
 c) La nature, la période et les conditions d'exercice de l'emploi ainsi que le code emploi PCS (nomenclature des Professions
 et catégories socioprofessionnelles) ; 
 
-d) Le montant des sommes payées pendant l'année en distinguant : 
+d) Le montant des sommes payées au titre de la période déclarée en distinguant : 
 
-le montant brut des rémunérations entendu au sens des articles 231 et suivants du code général des impôts ; 
+le montant brut des rémunérations entendu au sens des chapitres Ier et II du titre IV du livre II du code de la sécurité
+sociale ou du chapitre II du titre II et du chapitre Ier du titre IV du livre VII du code rural et de la pêche maritime pour
+les employeurs des salariés mentionnés à l'article L. 722-20 de ce même code ; 
 
 le total des versements en argent et en nature après déduction des cotisations ouvrières aux assurances sociales et au
 chômage et des retenues pour la retraite ; 
@@ -7052,51 +7090,44 @@ cette rémunération ;
 - le montant des sommes versées par l'employeur à un plan d'épargne pour la retraite collectif défini aux articles L. 3334-1
 à L. 3334-16 du code du travail et exonérées en application du 18° de l'article 81 du code général des impôts ; 
 
-e) Le taux de la déduction supplémentaire à laquelle la profession exercée ouvre droit, le cas échéant, ainsi que l'option
-choisie par l'entreprise pour l'assiette des taxes assises sur les salaires ; 
+e) L'option choisie par l'entreprise pour l'assiette des taxes assises sur les salaires ; 
 
 f) Le montant de la retenue effectuée au titre de l'impôt sur le revenu en application de l'article 182 A du code général des
 impôts ; 
 
-g) Lorsque l'établissement est assujetti à la taxe sur les salaires : 
+g) Lorsque l'établissement est assujetti à la taxe sur les salaires, le montant brut servant de base à la taxe au titre de la
+période considérée et, pour les établissements n'entrant pas dans le champ d'application de l'article L. 133-5-3 du code de
+la sécurité sociale, l'assiette des taux majorés au titre de la période considérée et les renseignements utiles à la
+liquidation de la taxe lorsque le salarié a été payé par plusieurs établissements dépendant d'une même entreprise ; 
 
-le montant brut servant de base à la taxe ; 
+h) (abrogé) ; 
 
-l'assiette des taux majorés ; 
-
-les renseignements utiles à la liquidation de la taxe lorsque le salarié a été payé par plusieurs établissements dépendant
-d'une même entreprise ; 
-
-h) Pour les salariés, à l'exception de ceux qui ne sont pas rémunérés en fonction d'un horaire de travail, exerçant à temps
-partiel ou sur une partie seulement de l'année civile, le nombre d'heures effectivement rémunérées au cours de l'année
-civile ; 
-
-pour les agents de l'Etat et de ses établissements publics, des collectivités territoriales et de leurs établissements
-publics et les agents des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions
-statutaires relatives à la fonction publique hospitalière, travaillant à temps partiel ou non complet et non soumis à une
-durée du travail résultant d'une convention collective, la quotité du temps de travail, convertie en cas de variation en
-cours d'année en nombre d'heures rémunérées ; 
-
-i) Au titre de l'année de levée des options définies à l'article 80 bis du code général des impôts, le nombre d'actions
+i) Au titre de la période de levée des options définies à l'article 80 bis du code général des impôts, le nombre d'actions
 acquises, leur valeur unitaire à la date de la levée des options, leur prix de souscription, la fraction du gain de levée
 d'options de source française ainsi que les dates d'attribution et de levée des options, conformément aux dispositions du 2°
 du I de l'article 91 bis de l'annexe II au code général des impôts et de l'article 38 septdecies de la présente annexe ; 
 
-j) Au titre de l'année d'acquisition définitive des actions gratuites définies à l'article 80 quaterdecies du code général
+j) Au titre de la période d'acquisition définitive des actions gratuites définies à l'article 80 quaterdecies du code général
 des impôts, le nombre d'actions acquises, leur valeur unitaire à la date d'acquisition définitive, la fraction du gain
 d'acquisition de source française ainsi que les dates d'attribution et d'acquisition définitive des titres, conformément aux
 dispositions du 2° du I de l'article 38-0 septdecies et de l'article 38 septdecies ; 
 
-k) Au titre de l'année de souscription des titres définis à l'article 163 bis G du code général des impôts, les date, nombre
-et prix d'acquisition des titres correspondants, la fraction du gain constaté lors de l'exercice des bons de source française
-ainsi que la durée d'exercice de l'activité du bénéficiaire dans la société, conformément aux dispositions du 2° de l'article
-41 V bis ; 
+k) Au titre de la période de souscription des titres définis à l'article 163 bis G du code général des impôts, les date,
+nombre et prix d'acquisition des titres correspondants, la fraction du gain constaté lors de l'exercice des bons de source
+française ainsi que la durée d'exercice de l'activité du bénéficiaire dans la société, conformément aux dispositions du 2° de
+l'article 41 V bis ; 
+
+l) Lorsque l'établissement est rattaché à une entreprise assujettie à la cotisation sur la valeur ajoutée des entreprises
+prévue à l'article 1586 ter du code général des impôts, le code INSEE de la commune, sur cinq caractères, dans laquelle
+l'activité exercée est déclarée conformément au 1 du II de l'article 1586 octies du code général des impôts et à l'article
+328 G bis.
 
 3° Le total pour l'ensemble des salariés de l'établissement et de l'entreprise des sommes mentionnées au 2°.
 
 **Nota:**
 
-
+Conformément à l'article 2 du décret n° 2016-1361 du 12 octobre 2016, ces dispositions sont applicables aux revenus versés à
+compter du 1er janvier 2017.
 
 **Liens relatifs à cet article**
 
@@ -7104,8 +7135,8 @@ ainsi que la durée d'exercice de l'activité du bénéficiaire dans la sociét�
 
 	  - Loi n°86-33 du 9 janvier 1986 - art. 2
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 bis
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 38-0 septdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 septdecies
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38-0 septdecies
 	  - Code général des impôts, CGI. - art. 163 bis G
 	  - Code général des impôts, CGI. - art. 182 A
 	  - Code général des impôts, CGI. - art. 231
@@ -7123,12 +7154,12 @@ ainsi que la durée d'exercice de l'activité du bénéficiaire dans la sociét�
 	**Cité par**:
 
 	  - Arrêté du 19 février 2010 - art. 3 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 39-0 A (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 V bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39-0 A (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 M bis (V)
 
 	**Modifié par**:
 
-	  - Décret n°2015-966 du 31 juillet 2015 - art. 2
+	  - Décret n°2016-1361 du 12 octobre 2016 - art. 1
 
 
 ###### Article 39 A
@@ -7217,20 +7248,25 @@ formulaires normalisés, dont les caractéristiques et le modèle sont fixés pa
 
 ###### Article 39-0 A
 
-Les employeurs tenus au dépôt de la déclaration mentionnée à l'article 87 du code général des impôts communiquent dans le
-même délai aux personnes concernées les montants des cotisations ou primes et des sommes mentionnés respectivement aux
-neuvième et dixième alinéas du d du 2° de l'article 39.
+Les employeurs tenus au dépôt de la déclaration mentionnée à l'article 87 du code général des impôts communiquent au plus
+tard le 31 janvier de chaque année aux personnes concernées les montants des cotisations ou primes et des sommes mentionnés
+respectivement aux huitième et neuvième alinéas du d du 2° de l'article 39 et versés au cours de l'année civile précédente.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-1361 du 12 octobre 2016, ces dispositions sont applicables aux revenus versés à
+compter du 1er janvier 2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-64 du 17 janvier 2008 - art. 2
+	  - Décret n°2016-1361 du 12 octobre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 87 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 (VD)
+	  - Code général des impôts, CGI. - art. 87
 
 
 ##### Déclaration annuelle de données sociales
@@ -36742,6 +36778,8 @@ douanes comme en matière de douane.
 
 
 ##### Section II bis : Taxe sur les ventes et les locations de vidéogrammes destinés à l'usage privé du public
+
+##### Section II bis : Taxe sur la diffusion en vidéo physique et en ligne de contenus audiovisuels 
 
 ###### Article 331 M bis
 
