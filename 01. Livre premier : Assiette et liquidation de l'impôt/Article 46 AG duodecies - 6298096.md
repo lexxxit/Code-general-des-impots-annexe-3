@@ -1,207 +1,150 @@
 # Article 46 AG duodecies
 
 Pour l'application du 2° du 6 de l'article 199 undecies A du code général des impôts, les plafonds de loyer et de ressources
-du locataire sont les suivants : 
+du locataire sont les suivants :
 
-1. Pour les baux conclus en 2016, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
-habitable à : 
+1. Pour les baux conclus en 2017, les plafonds annuels de loyer, charges non comprises, sont fixés par mètre carré de surface
+habitable à :
 
-1° 170 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
+1° 171 € dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin. Ce plafond est révisé chaque année, le 1er
 janvier, dans la même proportion que la variation la plus élevée de la moyenne annuelle des indices des prix à la
-consommation hors tabac de chacun des cinq départements d'outre-mer ; 
+consommation hors tabac de chacun des cinq départements d'outre-mer ;
 
-2° 211 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
+2° 212 € en Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises, à Saint-
 Pierre-et-Miquelon et en Nouvelle-Calédonie. Ce plafond est révisé chaque année, le 1er janvier, dans la même proportion que
 la variation la plus élevée de la moyenne annuelle des indices des prix à la consommation de la Polynésie française et de la
-Nouvelle-Calédonie. 
+Nouvelle-Calédonie.
 
-1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application : 
+1 bis. Pour le calcul des plafonds mentionnés au 1, il est fait application :
 
 1° Dans les départements d'outre-mer, à Saint-Barthélemy et à Saint-Martin, de la dernière variation annuelle publiée par
 l'Institut national de la statistique et des études économiques au 1er décembre de l'année qui précède celle de la conclusion
-du bail ; 
+du bail ;
 
 2° En Polynésie française, dans les îles Wallis et Futuna et les Terres australes et antarctiques françaises et à Saint-
 Pierre-et-Miquelon, de la dernière variation annuelle publiée par l'Institut de la statistique de la Polynésie française au
-1er décembre de l'année qui précède celle de la conclusion du bail ; 
+1er décembre de l'année qui précède celle de la conclusion du bail ;
 
 3° En Nouvelle-Calédonie, de la dernière variation annuelle publiée par l'Institut territorial de la statistique et des
-études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail. 
+études économiques au 1er décembre de l'année qui précède celle de la conclusion du bail.
 
 2. Les ressources du locataire s'entendent des revenus nets de frais professionnels qui figurent sur son avis d'imposition
-établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure. 
+établi au titre des revenus de l'année précédant celle de la conclusion du bail ou, à défaut, de l'année antérieure.
 
-Pour les baux conclus en 2016, les plafonds annuels de ressources sont les suivants : 
+Pour les baux conclus en 2017, les plafonds annuels de ressources sont les suivants :
 
-(en euros) 
+(en euros)
 
 <table>
-    <tbody>
-      <tr>
-        <th rowspan="2">
+  <tbody>
+    <tr>
+      <th rowspan="2">COMPOSITION DU FOYER DU LOCATAIRE</th>
+      <th colspan="2">
 
-COMPOSITION DU FOYER DU LOCATAIRE 
+PLAFOND ANNUEL DE RESSOURCES
 
-</th>
-        <th colspan="2">
+(en €)</th>
+    </tr>
+    <tr>
+      <th>
 
-PLAFOND ANNUEL DE RESSOURCES (EN €) 
+Départements d'outre-mer, Saint-Barthélemy et Saint-Martin</th>
+      <th>
 
-</th>
-      </tr>
-      <tr>
-        <th>
+Polynésie française, Nouvelle Calédonie, îles Wallis et Futuna, Terres australes et antarctiques françaises et Saint-Pierre-
+et-Miquelon</th>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Départements d'outre-mer, 
+Personne seule</td>
+      <td align="center">
 
-Saint-Barthélemy et Saint-Martin 
+31 824</td>
+      <td align="center">
 
-</th>
-        <th>
+30 560</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-Polynésie française, Nouvelle-Calédonie, 
+Couple</td>
+      <td align="center">
 
-îles Wallis et Futuna, Terres australes 
+58 855</td>
+      <td align="center">
 
-et antarctiques françaises 
+56 519</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-et Saint-Pierre-et-Miquelon 
+Personne seule ou couple ayant une personne à charge</td>
+      <td align="center">
 
-</th>
-      </tr>
-      <tr>
-        <td>
+62 259</td>
+      <td align="center">
 
-Personne seule 
+59 786</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="center">
+Personne seule ou couple ayant deux personnes à charge</td>
+      <td align="center">
 
-31 784 
+65 663</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+63 057</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-30 526 
+Personne seule ou couple ayant trois personnes à charge</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td>
+70 211</td>
+      <td align="center">
 
-Couple 
+67 424</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="center">
+Personne seule ou couple ayant quatre personnes à charge</td>
+      <td align="center">
 
-58 782 
+74 761</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+71 790</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-56 456 
+Majoration par personne à charge à partir de la cinquième</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td>
++4 778</td>
+      <td align="center">
 
-Personne seule ou couple ayant une personne à charge 
++4 588</td>
+    </tr>
+  </tbody>
+</table>
 
-</td>
-        <td align="center">
-
-62 182 
-
-</td>
-        <td align="center">
-
-59 720 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-Personne seule ou couple ayant deux personnes à charge 
-
-</td>
-        <td align="center">
-
-65 582 
-
-</td>
-        <td align="center">
-
-62 987 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-Personne seule ou couple ayant trois personnes à charge 
-
-</td>
-        <td align="center">
-
-70 124 
-
-</td>
-        <td align="center">
-
-67 349 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-Personne seule ou couple ayant quatre personnes à charge 
-
-</td>
-        <td align="center">
-
-74 668 
-
-</td>
-        <td align="center">
-
-71 711 
-
-</td>
-      </tr>
-      <tr>
-        <td>
-
-Majoration par personne à charge à partir de la cinquième 
-
-</td>
-        <td align="center">
-
-+ 4 772 
-
-</td>
-        <td align="center">
-
-+ 4 582 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
-
-Ces plafonds sont relevés chaque année selon les modalités définies au 1. 
+Ces plafonds sont relevés chaque année selon les modalités définies au 1.
 
 Les personnes à charge pour l'application des présentes dispositions s'entendent des personnes mentionnées aux articles 196 à
-196 B du code général des impôts. 
+196 B du code général des impôts.
 
 3. Dans le cas mentionné au troisième alinéa du 7 de l'article 199 undecies A du code général des impôts, les conditions
-prévues au 1 et au 2 s'apprécient en tenant compte du montant : 
+prévues au 1 et au 2 s'apprécient en tenant compte du montant :
 
-a) Du loyer payé au bailleur par l'organisme locataire ; 
+a) Du loyer payé au bailleur par l'organisme locataire ;
 
-b) Du loyer payé à cet organisme par le sous-locataire ; 
+b) Du loyer payé à cet organisme par le sous-locataire ;
 
 c) Des ressources du sous-locataire.
 
@@ -213,7 +156,7 @@ Modifications effectuées en conséquence de l'article 1er du décret n° 2001-1
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 4
+	  - Décret n°2017-698 du 2 mai 2017 - art. 3
 
 	**Cité par**:
 

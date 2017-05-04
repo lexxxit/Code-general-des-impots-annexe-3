@@ -1,28 +1,28 @@
 # Article 2 terdecies B
 
 Pour l'application du troisième alinéa du h du 1° du I de l'article 31 du code général des impôts, les plafonds de loyer
-mensuel, par mètre carré, charges non comprises, sont fixés : 
+mensuel, par mètre carré, charges non comprises, sont fixés :
 
-a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2016, à 23,13 € en zone A, 16,08
-€ en zone B 1,13,14 € en zone B 2 et 9,63 € en zone C ; 
+a. S'agissant des logements autres que ceux visés au b ci-dessous, pour les baux conclus en 2017, à 23,13 € en zone A, 16,08
+€ en zone B 1,13,14 € en zone B 2 et 9,63 € en zone C ;
 
 b. S'agissant des logements acquis ou construits à compter du 1er janvier 2011 ou des logements acquis par des sociétés
 civiles de placement immobilier en tout ou partie au moyen de souscriptions réalisées à compter de cette même date, pour les
-baux conclus en 2016, à 22,99 € en zone A bis, 17,05 € dans le reste de la zone A, 13,76 € en zone B 1, 11,22 € en zone B 2
+baux conclus en 2017, à 22,99 € en zone A bis, 17,05 € dans le reste de la zone A, 13,76 € en zone B 1, 11,22 € en zone B 2
 et 7,81 € en zone C.
 
 Les plafonds mentionnés aux a et b sont révisés au 1er janvier de chaque année selon les modalités prévues au premier alinéa
 du a de l'article 2 duodecies.
 
-Pour les baux conclus en 2016, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
+Pour les baux conclus en 2017, les plafonds de loyer mensuel, charges non comprises, relatifs aux logements situés outre-mer
 qui ouvrent droit à la réduction d'impôt prévue à l'article 199 septvicies du code général des impôts sont égaux aux montants
 mentionnés au cinquième alinéa de l'article 2 terdecies C, majorés :
 
 - d'un quart pour les départements d'outre-mer, Saint-Barthélemy et Saint-Martin ;
 
-- d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie, Saint-Pierre-et-Miquelon et les îles Wallis et Futuna. 
+- d'un cinquième pour la Polynésie française, la Nouvelle-Calédonie, Saint-Pierre-et-Miquelon et les îles Wallis et Futuna.
 
-Les résultats ainsi obtenus sont arrondis au centime d'euro le plus proche. 
+Les résultats ainsi obtenus sont arrondis au centime d'euro le plus proche.
 
 Pour l'application des deuxième et troisième alinéas, les zones A, A bis, B 1, B 2 et C sont définies par arrêté des
 ministres chargés du budget et du logement et la surface habitable à prendre en compte pour l'appréciation des plafonds de
@@ -32,8 +32,8 @@ la surface habitable à prendre en compte pour l'appréciation des plafonds de l
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 1er du décret n° 2006-1005 du 10 août 2006 et de l'article 1er-II-1° du
-décret n° 2010-1601 du 20 décembre 2010.
+Modifications effectuées en conséquence de l'article 1er G du décret n° 2006-1005 du 10 août 2006 et de l'article 1er-II-1°
+du décret n° 2010-1601 du 20 décembre 2010.
 
 **Liens relatifs à cet article**
 
@@ -48,11 +48,11 @@ décret n° 2010-1601 du 20 décembre 2010.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 octodecies B (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 septdecies (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies C (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 321 H (V)
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 4
+	  - Décret n°2017-698 du 2 mai 2017 - art. 3
 
 	**Cite**:
 
