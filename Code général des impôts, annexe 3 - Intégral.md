@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2017-05-12
+Version Consolidée au 2017-09-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -38978,56 +38978,59 @@ ne sont au nombre de neuf au moins présents. En cas de partage égal des voix, 
 ###### Article 347
 
 I. 1. Sous réserve des dispositions des deuxième et troisième alinéas ci-après, les représentants des contribuables sont
-désignés par les organisations ou organismes représentatifs au niveau départemental. 
+désignés par chaque organisation ou organisme représentatif au niveau départemental, compétent dans le ressort du tribunal
+administratif.
 
 Les organisations ou organismes à compétence interdépartementale désignent les représentants des contribuables parmi les
-professionnels exerçant dans le ressort de la commission. 
+professionnels exerçant dans le ressort de la commission.
 
 Le représentant salarié visé à l'article 1651 B du code général des impôts est désigné par les organisations ou organismes
-nationaux représentatifs des ingénieurs et cadres supérieurs. 
+nationaux représentatifs des ingénieurs et cadres supérieurs.
 
 2. Les membres de la commission doivent être de nationalité française, âgés de vingt-cinq ans au moins et jouir de leurs
-droits civils. 
+droits civils.
 
 L'expert-comptable visé à l'article 1651 du code général des impôts doit être inscrit au tableau régional de l'ordre et
-exercer son activité dans le ressort de la commission. 
+exercer son activité dans le ressort de la commission.
 
 3. Les organisations ou organismes représentatifs adressent la liste des représentants qu'ils désignent au secrétariat de la
-commission le 1er décembre au plus tard, pour l'année suivante. 
+commission le 1er décembre au plus tard, pour l'année suivante.
 
-Les représentants des contribuables sont désignés pour une année. Leur mandat est renouvelable par tacite reconduction. 
+Les représentants des contribuables sont désignés pour une année. Leur mandat est renouvelable par tacite reconduction.
 
-Lorsqu'il existe dans un même département plusieurs organisations ou organismes ayant vocation à désigner des membres, et à
-défaut d'accord entre eux, les représentants des contribuables sont désignés par le préfet au vu des propositions de ces
-organisations ou organismes. 
+Lorsqu'il existe dans le ressort du tribunal administratif compétent plusieurs organisations ou organismes ayant vocation à
+désigner des membres, le titulaire et les suppléants représentants des contribuables sont désignés par le président de la
+commission au vu des propositions de ces organisations ou organismes.
 
 En cas de retard, d'empêchement ou d'absence de désignation des représentants des contribuables, la commission est
-valablement constituée. 
+valablement constituée.
 
 4. Les organismes consulaires doivent consulter les organisations patronales interprofessionnelles avant d'établir la liste
-des représentants qu'ils désignent. 
+des représentants qu'ils désignent.
 
 II. 1. Pour l'application du deuxième alinéa du I de l'article 1651 A du code général des impôts, les représentants des
 contribuables sont choisis parmi les propriétaires ruraux et exploitants agricoles, passibles de l'impôt sur le revenu au
-titre des bénéfices de l'exploitation agricole. 
+titre des bénéfices de l'exploitation agricole.
 
 2. Pour l'application de l'article 1651 C du code général des impôts, les membres désignés par les fédérations
-départementales des syndicats d'exploitants agricoles sont choisis parmi les propriétaires ruraux passibles de l'impôt sur le
-revenu dans la catégorie des bénéfices agricoles. 
+départementales des syndicats d'exploitants agricoles compétentes dans le ressort du tribunal administratif sont choisis
+parmi les propriétaires ruraux passibles de l'impôt sur le revenu dans la catégorie des bénéfices agricoles.
 
 3. Pour l'application de l'article 1651 D du code général des impôts, les membres désignés représentent les différentes
-régions agricoles du département. 
+régions agricoles comprises dans le ressort du tribunal administratif compétent.
 
-Les représentants des contribuables désignés par la chambre d'agriculture sont choisis moitié parmi les propriétaires ruraux
-sur proposition des fédérations départementales des syndicats de la propriété agricole et des fédérations départementales des
-syndicats d'exploitants agricoles et moitié parmi les exploitants agricoles passibles de l'impôt sur le revenu au titre des
-bénéfices de l'exploitation agricole, sur proposition des fédérations départementales des syndicats d'exploitants agricoles. 
+Les représentants des contribuables désignés par les chambres d'agriculture compétentes dans le ressort du tribunal
+administratif sont choisis moitié parmi les propriétaires ruraux sur proposition des fédérations départementales des
+syndicats de la propriété agricole et des fédérations départementales des syndicats d'exploitants agricoles compétentes dans
+le ressort du même tribunal et moitié parmi les exploitants agricoles passibles de l'impôt sur le revenu au titre des
+bénéfices de l'exploitation agricole, sur proposition des fédérations départementales des syndicats d'exploitants agricoles
+compétentes dans le ressort du même tribunal.
 
 Lorsque la commission se prononce sur les tarifs d'évaluation ou les coefficients d'actualisation des valeurs locatives des
-bois et forêts, un des représentants des contribuables doit être propriétaire de bois et forêts ; il est appelé à siéger. 
+bois et forêts, un des représentants des contribuables doit être propriétaire de bois et forêts ; il est appelé à siéger.
 
 III. Il est désigné deux suppléants pour un titulaire. Le nombre de suppléants peut toutefois être modifié dans les
-conditions et limites fixées par arrêté du ministre chargé du budget. 
+conditions et limites fixées par arrêté du ministre chargé du budget.
 
 IV. Lorsqu'en matière de taxes sur le chiffre d'affaires la commission est saisie d'un litige intéressant un contribuable qui
 relève de l'administration des douanes et des droits indirects au regard desdites taxes, l'un des représentants de la
@@ -39038,7 +39041,7 @@ droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2016-775 du 10 juin 2016 - art. 4
+	  - Décret n°2017-769 du 4 mai 2017 - art. 2
 
 	**Cité par**:
 
@@ -39057,47 +39060,40 @@ droits indirects.
 
 I.-1. Un agent de la direction générale des finances publiques remplit les fonctions de secrétaire de la commission, avec
 voix consultative. Un ou plusieurs agents de la même direction générale peuvent assister aux séances de la commission, en
-qualité de secrétaires adjoints. Ils ont également voix consultative. 
+qualité de secrétaires adjoints. Ils ont également voix consultative.
 
 Lorsqu'en matière de taxes sur le chiffre d'affaires, la commission est saisie d'un litige intéressant un redevable qui
 relève de l'administration des douanes et des droits indirects au regard desdites taxes, l'un des secrétaires adjoints peut
-être un agent de la direction générale des douanes et des droits indirects. 
+être un agent de la direction générale des douanes et des droits indirects.
 
-2. Les secrétaires et secrétaires adjoints agissent pour ordre et par délégation du président de la commission. 
+2. Les secrétaires et secrétaires adjoints agissent pour ordre et par délégation du président de la commission.
 
 II.-1. Lorsque la commission est appelée à connaître des matières prévues aux articles 1651 A et 1651 C du code général des
 impôts, le secrétaire de la commission informe le contribuable qu'il peut demander que l'un des représentants des
 contribuables soit désigné par une organisation ou un organisme professionnel de son choix. Le contribuable dispose alors
-d'un délai de trente jours pour faire connaître sa réponse. 
+d'un délai de trente jours pour faire connaître sa réponse.
 
 Lorsque le contribuable est à la fois inscrit au répertoire des métiers et immatriculé au registre du commerce et des
 sociétés, il est invité par le secrétaire de la commission à faire connaître son activité principale dans un délai de trente
 jours à compter de la réception de la demande. Les représentants des contribuables correspondant à l'activité principale
-exercée par l'intéressé sont appelés à siéger. 
+exercée par l'intéressé sont appelés à siéger.
 
-2. La commission se réunit sur convocation de son président, qui arrête, pour chaque affaire, sa composition. 
+2. La commission se réunit sur convocation de son président, qui arrête, pour chaque affaire, sa composition.
 
 III.-Lorsque la commission se réunit en application des articles 1503,1510 et 1518 du code général des impôts, les personnes
 concernées sont invitées à se faire entendre ou à faire parvenir leurs observations écrites. A cette fin, elles sont
-convoquées dix jours au moins avant la réunion de la commission. 
+convoquées dix jours au moins avant la réunion de la commission.
 
-Elles peuvent y déléguer un mandataire dûment habilité. 
+Elles peuvent y déléguer un mandataire dûment habilité.
 
-IV.-1. La commission départementale peut se réunir en sections, comprenant, outre un magistrat du tribunal administratif,
-président, un représentant de l'administration et deux représentants des contribuables. 
+IV.-1. La commission peut se réunir en sections, comprenant, outre un magistrat du tribunal administratif, président, un
+représentant de l'administration et deux représentants des contribuables.
 
-Le président de la commission arrête la composition des sections. 
+Le président de la commission arrête la composition des sections.
 
-Les sections connaissent des affaires qui leur sont envoyées par le président de la commission. 
+Les sections connaissent des affaires qui leur sont envoyées par le président de la commission.
 
-2. Le président du tribunal administratif peut, sur requête du directeur départemental ou, le cas échéant, régional des
-finances publiques et lorsque le nombre d'affaires le justifie, faire fonctionner plusieurs commissions dans un même
-département. 
-
-3. La ou les commissions départementales des impôts directs et des taxes sur le chiffre d'affaires sont installées au chef
-lieu du département. 
-
-4. (Abrogé) 
+2. La commission est installée au chef-lieu du département du siège du tribunal administratif.
 
 V.-Le quorum est égal à la moitié du nombre des membres appelés à siéger, quelle que soit la formation.
 
@@ -39105,7 +39101,7 @@ V.-Le quorum est égal à la moitié du nombre des membres appelés à siéger, 
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 16
+	  - Décret n°2017-769 du 4 mai 2017 - art. 2
 
 	**Cite**:
 
