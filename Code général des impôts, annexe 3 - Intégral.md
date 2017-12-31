@@ -1,5 +1,5 @@
 # Code général des impôts, annexe 3  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2018-01-01
 
 # Livre premier : Assiette et liquidation de l'impôt
 
@@ -6832,7 +6832,8 @@ Sont souscrites auprès de la direction départementale ou, le cas échéant, r�
 domicile de la personne ou du siège de l'établissement ou du bureau qui a assuré le paiement : 
 
 1° La déclaration prévue à l'article 87 du code général des impôts lorsqu'elle concerne des traitements, émoluments, salaires
-ou rétributions versés à des personnes ne relevant pas du régime général de sécurité sociale ; 
+ou rétributions versés à des personnes n'entrant pas dans le champ d'application de l'article L. 133-5-3 du code de la
+sécurité sociale ; 
 
 2° La déclaration prévue à l'article 88 du même code ; 
 
@@ -6842,6 +6843,11 @@ articles 80 quinquies ou 231 bis D du code précité.
 Ces déclarations peuvent êtres souscrites soit par la communication d'un support informatique, soit par l'envoi de
 formulaires normalisés, dont les caractéristiques et le modèle sont fixés par l'administration.
 
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -6850,7 +6856,7 @@ formulaires normalisés, dont les caractéristiques et le modèle sont fixés pa
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
@@ -6858,6 +6864,7 @@ formulaires normalisés, dont les caractéristiques et le modèle sont fixés pa
 	  - Code général des impôts, CGI. - art. 80 quinquies
 	  - Code général des impôts, CGI. - art. 87
 	  - Code général des impôts, CGI. - art. 88
+	  - Code de la sécurité sociale. - art. L133-5-3
 
 
 ###### Article 39-0 A
@@ -6887,88 +6894,198 @@ compter du 1er janvier 2017.
 
 ###### Article 39 C
 
-La déclaration mentionnée à l'article 87 du code général des impôts est souscrite sur un formulaire unique dénommé "
-déclaration annuelle de données sociales ". 
+La déclaration mentionnée à l'article 87-0 A du code général des impôts comporte : 
 
-En fonction du support déclaratif utilisé, la déclaration est adressée : 
+1° Pour la personne tenue d'effectuer la retenue à la source : 
 
-a. soit à l'un des centres de transfert de données sociales créés en application de l'article 87 A du même code, pour les
-déclarations effectuées au moyen du formulaire mentionné à l'article 39 D ; 
+a) Les numéros d'identité mentionnés à l'article R. 123-221 du code de commerce ; 
 
-b. soit à la Caisse nationale d'assurance vieillesse des travailleurs salariés, pour les déclarations effectuées par voie
-électronique. 
+b) Le numéro de la nomenclature d'activités française mentionné au 1° de l'article R. 123-223 du même code ; 
 
-Les dispositions du présent article ne s'appliquent pas aux déclarations mentionnées aux 2° et 3° de l'article 39 B et à
-l'article 47 A.
+2° Pour l'émetteur de la déclaration, lorsqu'il n'est pas la personne mentionnée à l'article 87-0 A du code général des
+impôts : le nom ou la raison sociale et les numéros d'identités mentionnés à l'article R. 123-221 du code de commerce ; 
+
+3° Pour chaque bénéficiaire de revenu : 
+
+a) Les éléments d'identification mentionnés aux a, b, c, e et g du 3° du V de l'article R. 133-14 du code de la sécurité
+sociale ; 
+
+b) La dernière adresse connue de son domicile ; 
+
+c) La date à laquelle les sommes ou avantages imposables ont été versées ou accordés ; 
+
+d) Le montant net imposable à l'impôt sur le revenu, déterminé dans les conditions prévues à l'article 204 F du code général
+des impôts, des sommes et avantages mentionnés au c ; 
+
+e) Le taux du prélèvement à la source appliqué ; 
+
+f) Le montant de prélèvement à la source, arrondi à la deuxième décimale la plus proche, la fraction de décimale égale à
+0,005 comptant pour 0,01 ; 
+
+g) L'identifiant du taux de prélèvement à la source mentionné au b du 2° de l'article 46 F ; 
+
+h) Le cas échéant, la date de fin de la relation contractuelle avec la personne mentionnée au 1° ; 
+
+4° Concernant le télérèglement : 
+
+a) Les dates de début et de fin de la période au titre de laquelle la déclaration est déposée ; 
+
+b) Le numéro de compte bancaire international (IBAN) et le code d'identification des banques (BIC) du compte depuis lequel
+est effectué le versement ; 
+
+c) Le montant global du versement ; 
+
+d) S'il diffère du numéro d'identité mentionné au a du 1°, le numéro d'identité mentionné au second alinéa de l'article R.
+123-221 du code de commerce de l'établissement qui effectue le versement.
 
 **Nota:**
 
-Cet article devient sans objet en conséquence de l'article 2 du décret n° 2013-506 du 14 juin 2013.
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
+Conformément aux dispositions du III de l'article 6 du décret n° 2017-866 du 9 mai 2017, les personnes tenues d'effectuer la
+retenue à la source n'entrant pas dans le champ de l'article L. 133-5-3 du code de la sécurité sociale sont tenues de déposer
+au plus tard le 10 décembre 2017 sur le portail net-entreprises.fr une première déclaration comportant les éléments
+mentionnés aux 1°, 2° et a et b du 3° de l'article 39 C de l'annexe III au code général des impôts, dans sa rédaction
+résultant dudit décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
+	  - Code de commerce - art. R123-221
+	  - Code de commerce - art. R123-223
+	  - Code général des impôts, CGI. - art. 204 F
+	  - Code général des impôts, CGI. - art. 87-0 A
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. R133-14 (VD)
 
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 47 A
-	  - Code général des impôts, CGI. - art. 39 B
-	  - Code général des impôts, CGI. - art. 87
-	  - Code général des impôts, CGI. - art. 87 A
-
 
 ###### Article 39 D
 
-La déclaration annuelle de données sociales est effectuée par voie électronique, conformément à un cahier des charges
-approuvé par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé de la
-sécurité sociale.
+I. – La déclaration mentionnée à l'article 87-0 A du code général des impôts est transmise le mois suivant celui au cours
+duquel les sommes ou avantages ont été versées ou accordés : 
 
-A défaut d'utiliser la voie électronique, la déclaration est effectuée au moyen d'un formulaire dont le modèle est approuvé
-par arrêté conjoint des ministres ci-dessus mentionnés.
+1° Pour les personnes entrant dans le champ de l'article L. 133-5-3 du code de la sécurité sociale, aux dates résultant des I
+et II de l'article R. 133-14 du même code ; 
+
+2° Pour les personnes n'entrant pas dans le champ de l'article L. 133-5-3 précité, au plus tard à la date fixée par l'arrêté
+prévu au 2° de l'article 87 A du code général des impôts. 
+
+II. – Les personnes entrant dans le champ de l'article L. 133-5-3 du code de la sécurité sociale sont tenues de déposer une
+déclaration, y compris lorsqu'elles n'ont versé aucune somme ou accordé aucun avantage, tant qu'elles n'ont pas demandé la
+radiation de leur compte auprès de l'organisme de recouvrement des cotisations de sécurité sociale dont elles relèvent. 
+
+III. – La déclaration est déposée sur le portail internet de l'organisme désigné par arrêté du ministre chargé du budget et
+transmise : 
+
+1° Pour les personnes entrant dans le champ de l'article L. 133-5-3 du code de la sécurité sociale, aux organismes et dans
+les conditions mentionnés à l'article R. 133-13 du même code ; 
+
+2° Pour les personnes n'entrant pas dans le champ de l'article L. 133-5-3 précité, à l'administration fiscale selon une norme
+technique approuvée par arrêté des ministres chargés du budget et de la sécurité sociale.
 
 **Nota:**
 
-Cet article devient sans objet en conséquence de l'article 2 du décret n° 2013-506 du 14 juin 2013.
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-421  du 27 avril 2010 - art. 3
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
+	  - Code général des impôts, CGI. - art. 87-0 A
+	  - Code de la sécurité sociale. - art. L133-5-3
+	  - Code de la sécurité sociale. - art. R133-13
+	  - Code de la sécurité sociale. - art. R133-14
 
 
 ###### Article 39 E
 
-Les déclarations reçues par les centres de transfert de données sociales et par la Caisse nationale d'assurance vieillesse
-des travailleurs salariés sont réputées remises, à la date de cette réception, à l'administration fiscale.
+A réception d'une déclaration mentionnée à l'article 87-0 A du code général des impôts, les organismes mentionnés au III de
+l'article 39 D adressent à son émetteur un certificat de conformité à la norme d'échanges mentionnée au III de l'article R.
+133-13 du code de la sécurité sociale. 
+
+La délivrance du certificat de conformité ne fait pas obstacle aux demandes effectuées par l'administration fiscale auprès de
+la personne tenue d'effectuer la retenue à la source de rectifier ou mettre à jour les données inexactes ou incomplètes dans
+la déclaration du ou des mois suivants.
 
 **Nota:**
 
-Cet article devient sans objet en conséquence de l'article 2 du décret n° 2013-506 du 14 juin 2013.
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-389 du 7 avril 2009 - art. 3
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - PERIME: Décret n°2015-608 du 3 juin 2015 - art. 3
+	  - Code général des impôts, CGI. - art. 87-0 A
+	  - Code de la sécurité sociale. - art. R133-13
+
+
+###### Article 39 F
+
+La déclaration mentionnée à l'article 87-0 A du code général des impôts est transmise au service des impôts des entreprises
+dont dépend le siège de l'établissement tenu d'opérer la retenue à la source prévue au 1° du 2 de l'article 204 A du code
+précité. 
+
+Lorsque la personne tenue d'effectuer la retenue à la source n'est pas établie en France, cette déclaration relève de la
+compétence du service des impôts des entreprises étrangères.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 du 7 octobre 1986
+
+	**Modifié par**:
+
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 204 A
+	  - Code général des impôts, CGI. - art. 87-0 A
+
+
+###### Article 39 G
+
+Les documents mis à disposition des contribuables qui mentionnent le montant de revenus qui ont fait l'objet d'un prélèvement
+prévu au 1° du 2 de l'article 204 A du code général des impôts mentionnent également le montant de ce prélèvement.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 204 A
 
 
 ##### VII : Bénéfices des professions non commerciales
@@ -13406,6 +13523,46 @@ revenu soumis à l'impôt au titre de cette période.
 	  - Code général des impôts, CGI. - art. 202 ter (V)
 
 
+##### Section VI : Prélèvement à la source de l'impôt sur le revenu
+
+###### Article 46 F
+
+L'administration fiscale met chaque mois à la disposition de la personne tenue d'effectuer la retenue à la source un compte
+rendu comportant notamment : 
+
+1° Un identifiant propre à ce compte rendu ; 
+
+2° Pour chaque bénéficiaire de revenu : 
+
+a) Les identifiants mentionnés aux e et g du 3° du V de l'article R. 133-14 du code de la sécurité sociale ; 
+
+b) Le taux du prélèvement à la source applicable, sauf lorsque s'applique le taux prévu au III de l'article 204 H du code
+général des impôts ; 
+
+3° Les anomalies figurant dans la déclaration mentionnée au premier alinéa et détectées par l'administration fiscale.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
+Conformément aux dispositions du II de l'article 6 du décret n° 2017-866 du 9 mai 2017, les personnes tenues d'effectuer la
+retenue à la source appliquent les taux mentionnés au b du 2° de l'article 46 F de l'annexe III au code général des impôts
+mis à disposition par l'administration fiscale en novembre ou décembre 2017 aux sommes versées et aux avantages accordés à
+compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 204 H
+	  - Code de la sécurité sociale. - art. R133-14
+
+
 #### Chapitre I bis : Impôt sur les sociétés
 
 ##### Section I : Exonération édictée en faveur de certains établissements et sociétés concessionnaires
@@ -17641,10 +17798,10 @@ effectuées.
 
 ###### Article 47 A
 
-Les déclarations prévues aux articles 240 et 241 du code général des impôts sont souscrites auprès de la   direction
+Les déclarations prévues aux articles 240 et 241 du code général des impôts sont souscrites auprès de la direction
 départementale ou, le cas échéant, régionale des finances publiques du lieu du domicile de la personne ou du siège de
 l'établissement ou du bureau qui a assuré le paiement lorsqu'elles sont produites par des personnes qui n'emploient aucun
-salarié ou emploient du personnel salarié ne relevant pas du régime de sécurité sociale. 
+salarié ou qui n'entrent pas dans le champ d'application de l'article L. 133-5-3 du code de la sécurité sociale. 
 
 Ces déclarations peuvent être souscrites soit par la communication d'un support informatique, soit par l'envoi de formulaires
 normalisés, dont les caractéristiques et le modèle sont fixés par l'administration.
@@ -17657,7 +17814,7 @@ normalisés, dont les caractéristiques et le modèle sont fixés par l'administ
 
 	**Modifié par**:
 
-	  - Décret n°2012-431  du 29 mars 2012 - art. 25
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
 	**Cité par**:
 
@@ -17666,6 +17823,7 @@ normalisés, dont les caractéristiques et le modèle sont fixés par l'administ
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 240
+	  - Code de la sécurité sociale. - art. L133-5-3
 
 
 ###### Article 47 bis
@@ -38011,62 +38169,63 @@ impôts lorsque celui-ci comprend au moins une personne mentionnée aux 1°, 2°
 
 ###### Article 344-0 B
 
-Les dispositions de l'article 344-0 A s'appliquent :
+Les dispositions de l'article 344-0 A s'appliquent : 
 
 1° Aux déclarations de résultat mentionnées aux articles 172 et 223 du code général des impôts et aux déclarations et
-documents devant y être annexés ;
+documents devant y être annexés ; 
 
-2° (Abrogé) ;
+2° (Abrogé) ; 
 
 3° A la déclaration dont l'article 102 Z de l'annexe II du code général des impôts prévoit la production pour les entreprises
-ou personnes morales qui sont dans le champ d'application de l'article 209 B du même code ;
+ou personnes morales qui sont dans le champ d'application de l'article 209 B du même code ; 
 
 4° Aux déclarations de taxe sur la valeur ajoutée et taxes assimilées prévues à l'article 287 du même code, ainsi qu'aux
 déclarations et documents se rapportant aux taxes, contributions et redevances assises et contrôlées comme en matière de taxe
-sur la valeur ajoutée ;
+sur la valeur ajoutée ; 
 
 5° Aux déclarations de taxes et participations assises sur les salaires prévues à l'article R. 313-2 du code de la
 construction et de l'habitation, à l'article R. 716-28 du code rural et de la pêche maritime et à l'article 369 de la
-présente annexe ;
+présente annexe ; 
 
-6° A la déclaration prévue au II de l'article 1586 octies  du code général des impôts ;
+6° A la déclaration prévue au II de l'article 1586 octies du code général des impôts ; 
 
-7° A la déclaration des sociétés immobilières mentionnée à l'article 172 bis du même code et à l'article 46 C ;
+7° A la déclaration des sociétés immobilières mentionnée à l'article 172 bis du même code et à l'article 46 C ; 
 
 8° A la déclaration de taxe sur les excédents de provisions des entreprises d'assurances de dommages prévue à l'article 235
-ter X du même code ;
+ter X du même code ; 
 
-9° (Sans objet) ;
+9° (Sans objet) ; 
 
 10° A la déclaration de taxe sur la valeur vénale des immeubles possédés en France prévue à l'article 990 F du code général
-des impôts ;
+des impôts ; 
 
-11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 336 bis ;
+11° A la déclaration de contribution au fonds commun des accidents du travail agricole prévue à l'article 336 bis ; 
 
-12° A la déclaration de taxe sur les conventions d'assurance prévue à l'article 991 du même code ;
+12° A la déclaration de taxe sur les conventions d'assurance prévue à l'article 991 du même code ; 
 
-13° (Sans objet) ;
+13° (Sans objet) ; 
 
-14° A la déclaration de taxe sur les véhicules de tourisme des sociétés prévue à l'article 1010 du code général des impôts ;
+14° A la déclaration de taxe sur les véhicules de tourisme des sociétés prévue à l'article 1010 du code général des impôts ; 
 
 15° Sur option, à la déclaration de taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et de stockage
 dans la région Ile-de-France prévue à l'article 231 ter du code général des impôts. L'option ne peut être exercée que si
 l'entreprise a opté pour le paiement des taxes foncières auprès du comptable du service des grandes entreprises mentionné au
 premier alinéa de l'article 344-0 A. Elle est formulée dans les mêmes conditions que celles prévues pour l'option mentionnée
-à l'article 406 terdecies.
+à l'article 406 terdecies ; 
+
+16° A la déclaration prévue à l'article 87-0 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2017-698 du 2 mai 2017 - art. 3
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 102 Z
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 336 bis
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 369
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 C
 	  - Code général des impôts, CGI. - art. 1010
 	  - Code général des impôts, CGI. - art. 1586 octies
@@ -38075,9 +38234,9 @@ premier alinéa de l'article 344-0 A. Elle est formulée dans les mêmes conditi
 	  - Code général des impôts, CGI. - art. 209 B
 	  - Code général des impôts, CGI. - art. 223
 	  - Code général des impôts, CGI. - art. 231 ter
-	  - Code général des impôts, CGI. - art. 235 ter J
 	  - Code général des impôts, CGI. - art. 235 ter X
 	  - Code général des impôts, CGI. - art. 287
+	  - Code général des impôts, CGI. - art. 87-0 A
 	  - Code général des impôts, CGI. - art. 990 F
 	  - Code général des impôts, CGI. - art. 991
 
@@ -39708,84 +39867,17 @@ prélèvements sociaux recouvrés comme en matière d'impôt sur le revenu ;
 
 ##### 2 : Impôt sur le revenu
 
-###### Article 357 A
-
-Donnent lieu aux versements d'acomptes prévus par l'article 1664 du code général des impôts les impositions à l'impôt sur le
-revenu pour lesquelles le contribuable a été compris dans les rôles de l'année précédente et qui ont été mises en
-recouvrement au cours de ladite année.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 357 E (V)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1664
-
-
-###### Article 357 B
-
-Le montant des versements à effectuer est calculé d'après le montant des impositions correspondantes de l'année précédente
-compte tenu du montant des dégrèvements accordés jusqu'au 31 décembre de ladite année et des cotisations au paiement
-desquelles le contribuable est  à la même date  en droit de surseoir en vertu d'une disposition légale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°99-382 du 18 mai 1999
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°2001-766 du 29 août 2001 - art. 14 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 357 E (V)
-
-
-###### Article 357 C
-
-La succession de tout contribuable qui compris dans les rôles de l'année précédente sera décédé avant le 1er janvier de
-l'année courante est dispensée des versements prévus à l'article 1664 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1664
-
-
 ###### Article 357 E
 
-Les versements effectués en vertu des articles 357 A à 357 C sont encaissés par le comptable chargé du recouvrement des
-impôts directs détenteur des rôles servant de base auxdits versements ou pour son compte, dans les conditions prévues par
-l'article 1680 du code général des impôts. Le débiteur est tenu, au moment du versement, d'indiquer les numéros des rôles et
-des articles dont le montant sert de base au calcul du versement et de fournir toutes précisions utiles sur l'origine des
-déductions que ledit montant aurait pu subir en vertu des dispositions de l'article 357 B. 
-
-Le montant des versements sera ultérieurement imputé en l'acquit des impositions à l'impôt sur le revenu établies, au cours
-de l'année pendant laquelle les versements auront été effectués, à raison des revenus réalisés par le contribuable pendant
-l'année précédente. 
-
-Si, par suite d'un changement de domicile, les rôles de l'année courante sont pris en charge par un autre comptable chargé du
-recouvrement des impôts directs, le contribuable est tenu de justifier de ses versements au nouveau comptable. Faute par lui
-de satisfaire à cette obligation, le contribuable supportera à sa charge les frais afférents aux poursuites exercées pour le
-recouvrement des impôts en l'acquit desquels auraient dû être imputé les versements.
+Le recouvrement des acomptes prévus au 
+2° du 2 de l'article 204 A du code général des impôts
+et à l'
+article L. 136-6-1 du code de la sécurité sociale
+, en application du 
+7 de l'article 1663 C du code général des impôts
+, ainsi que le recouvrement du complément de retenue à la source prévu au 2 du IV de l'article 204 H du même code, en
+application du dernier alinéa de ce 2, sont assurés par le comptable chargé du recouvrement des impôts directs détenteur des
+rôles servant de base au calcul desdits acomptes.
 
 **Liens relatifs à cet article**
 
@@ -39795,29 +39887,13 @@ recouvrement des impôts en l'acquit desquels auraient dû être imputé les ver
 
 	**Modifié par**:
 
-	  - Décret n°2011-1303 du 14 octobre 2011 - art. 1
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 357 A
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 357 B (V)
-	  - Code général des impôts, CGI. - art. 1680
-
-
-###### Article 357 F
-
-Les poursuites visées au 2 de l'article 1664 du code géneral des impôts seront exercées en vertu des rôles servant de base au
-calcul du versement.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1664
+	  - Code général des impôts, CGI. - art. 1663 C
+	  - Code général des impôts, CGI. - art. 204 A
+	  - Code de la sécurité sociale. - art. L136-6-1
 
 
 ###### Article 357 G
@@ -39842,50 +39918,134 @@ l'article L. 247 du livre des procédures fiscales.
 	  - Livre des procédures fiscales - art. L247
 
 
-###### Article 357 H
+##### 2 bis : Prélèvement à la source de l'impôt sur le revenu
 
-I. - Les contribuables qui perçoivent des revenus entrant dans la catégorie des traitements, salaires, indemnités, pensions
-et rentes viagères mentionnés au septième alinéa de l'article 1 A du code général des impôts bénéficient, sur leur demande,
-de délais de paiement pour l'impôt sur le revenu dû par le foyer fiscal au titre de l'année précédente.
+###### Article 357 H bis
 
-Les comptables de la direction générale des finances publiques sont tenus d'accorder ces délais de paiement si une baisse de
-plus de 30 % est constatée entre le montant des revenus mentionnés au premier alinéa et perçus au titre du mois où est
-formulée la demande et un montant de référence égal à la moyenne de ces mêmes revenus perçus par le foyer fiscal au cours des
-trois derniers mois précédents.
+1. La demande d'accréditation du représentant fiscal prévue au 1 de l'article 1671 du code général des impôts mentionne : 
 
-Si le foyer fiscal dispose d'autres catégories de revenus, la baisse constatée au deuxième alinéa est rapportée au montant de
-référence majoré du montant mensuel moyen des autres revenus déclarés l'année précédente pour apprécier si le taux de 30 %
-est atteint.
+a) Les nom ou raison sociale et adresse ou lieu du siège social du débiteur établi hors de France et du représentant
+fiscal ; 
 
-II. - Pour bénéficier des délais de paiement mentionnés au I, les contribuables doivent produire à l'appui de leur demande
-les pièces justifiant le montant des revenus.
+b) Sa date d'effet ; 
 
-Les contribuables qui ont fait l'objet d'une procédure d'imposition d'office en ce qui concerne l'impôt sur le revenu faisant
-l'objet de la demande de délais de paiement ne peuvent bénéficier des dispositions du I.
+c) Sa désignation par le débiteur établi hors de France ainsi que l'acceptation de cette désignation et son engagement
+d'accomplir les formalités incombant au débiteur et d'acquitter la retenue à la source exigible ; 
 
-III. - Les délais de paiement prévus au I courent à compter du mois de la demande et jusqu'au 31 mars de l'année suivant
-celle de la mise en recouvrement de l'imposition.
+2. Le représentant fiscal adresse sa demande d'accréditation au service des impôts des entreprises étrangères. 
 
-Le comptable de la direction générale des finances publiques établit un contrat en double exemplaire qui fixe l'échéancier
-accordé au contribuable.
+Ce service notifie au représentant l'octroi ou le refus de l'accréditation ; 
+
+3. Pour être accrédité, le représentant fiscal doit, au cours des douze derniers mois, avoir déposé dans les délais ses
+déclarations de résultats et de taxe sur la valeur ajoutée et s'être acquitté, dans les délais, du paiement de la taxe sur la
+valeur ajoutée et de l'impôt sur le revenu ou de l'impôt sur les sociétés. Après la délivrance de l'accréditation, la
+moralité fiscale du représentant est appréciée au regard du respect des obligations pour son compte et en qualité de
+représentant ; 
+
+4. L'accréditation est retirée : 
+
+a) Sur demande du débiteur établi hors de France ou du représentant fiscal ; 
+
+b) A l'issue de la période pour laquelle elle a été donnée ; 
+
+c) Lorsque le représentant fiscal ne remplit pas ses obligations fiscales personnelles ou les obligations auxquelles il est
+tenu au titre de sa désignation.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2006-356 du 24 mars 2006
-
-	**Modifié par**:
-
-	  - Décret n°2011-1303 du 14 octobre 2011 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2017-975 du 10 mai 2017 - art. 2
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1 A
+	  - Code général des impôts, CGI. - art. 1671
+
+
+###### Article 357 H quater
+
+1° L'employeur entrant dans le champ de l'option prévue à l'article R. 243-6-1 du code de la sécurité sociale ne peut exercer
+l'option prévue au quatrième alinéa du 2 de l'article 1671 du code général des impôts sans exercer l'option prévue à
+l'article R. 243-6-1 du code de la sécurité sociale. L'option pour le paiement trimestriel des cotisations vaut option pour
+le paiement trimestriel du prélèvement à la source, qui prend effet dans les mêmes conditions que celles mentionnées à
+l'article R. 243-6-1 précité, et la dénonciation de l'option pour le paiement trimestriel des cotisations vaut dénonciation
+de l'option pour le paiement trimestriel du prélèvement à la source ; 
+
+2° L'employeur ayant un effectif de moins de onze salariés et n'entrant pas dans le champ de l'option prévue à l'article R.
+243-6-1 du code de la sécurité sociale qui veut exercer l'option prévue au 2 de l'article 1671 du code général des impôts au
+titre d'une année civile en informe le service des impôts dont il relève avant le 31 décembre de l'année précédente ou au
+moment de l'emploi de son premier salarié. L'option est valable pour une durée de douze mois. A défaut de dénonciation avant
+le 31 décembre, elle est reconduite pour l'année suivante ; 
+
+3° L'option pour le paiement trimestriel du prélèvement à la source est sans incidence sur l'obligation déclarative mensuelle
+prévue à l'article 87-0 A du code général des impôts.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1671 (VD)
+	  - Code général des impôts, CGI. - art. 87-0 A (VD)
+	  - Code de la sécurité sociale. - art. R243-6-1 (V)
+
+
+###### Article 357 H quinquies
+
+Le paiement est effectué par télérèglement par l'établissement collecteur des retenues à la source. Le télérèglement peut
+toutefois être effectué par un autre établissement du débiteur.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
+
+
+###### Article 357 H ter
+
+Le versement prévu au 2 de l'article 1671 du code général des impôts est effectué : 
+
+1° Pour les personnes entrant dans le champ de l'article L. 133-5-3 du code de la sécurité sociale, dans les mêmes délais que
+ceux prévus à l'article R. 243-6 du même code ; 
+
+2° Pour les personnes n'entrant pas dans le champ de l'article L. 133-5-3 du code de la sécurité sociale, au plus tard le 10
+du mois suivant celui au cours duquel les sommes ont été précomptées.
+
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1671
+	  - Code de la sécurité sociale. - art. L133-5-3
+	  - Code de la sécurité sociale. - art. R243-6
 
 
 ##### 3 : Impôt sur les sociétés
@@ -40864,131 +41024,6 @@ sommes restant dues augmentés de la majoration qui leur est applicable.
 
 #### III : Paiement de l'impôt
 
-###### Article 382
-
-Les contributions directes et les taxes assimilées peuvent être acquittées dans les bureaux de poste au moyen d'un mandat
-spécial appelé mandat-contributions (1). Le reçu de la poste est libératoire s'il est délivré en échange d'un mandat-
-contributions régulièrement établi.
-
-Ne sont pas réclamés au contribuable les frais des actes de poursuites signifiés à une date postérieure à celle du mandat qui
-solde la dette exigible.
-
-(1) Pour le paiement par chèque, voir annexe IV, art. 199 à 202 et 204.
-
-
-
-###### Article 382 A
-
-Les contribuables ont la faculté d'acquitter leurs contributions et taxes assimilées à la caisse d'un comptable de la
-direction générale des finances publiques chargé du recouvrement des impôts directs autre que celui de la commune
-d'imposition. 
-
-Ces versements sont admis sur la présentation d'un avis d'imposition, d'un extrait du rôle, d'un acte de poursuites ou d'une
-autre pièce officielle constatant la dette du contribuable.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
-
-
-###### Article 382 B
-
-Les contribuables restent débiteurs des frais de poursuites exposés par le comptable public chargé du recouvrement des impôts
-directs du lieu de l'imposition avant la réception de l'avis de recouvrement que le comptable public qui a reçu les fonds est
-tenu de lui transférer sans délai.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
-
-
-###### Article 382 C
-
-1. Le paiement des impôts directs peut s'effectuer, sur option du contribuable, par prélèvement à l'échéance opéré à
-l'initiative de la direction générale des finances publiques sur l'un des comptes mentionnés à l'article 1681 D du code
-général des impôts. 
-
-2. L'option est formulée dans les conditions prévues à l'article 376 ter de l'annexe II au code général des impôts. Elle peut
-être exercée jusqu'à la fin du mois qui précède la date limite de paiement. 
-
-3. Le contribuable peut renoncer à son option en adressant, au comptable public chargé du recouvrement, une dénonciation
-jusqu'à la fin du mois qui précède la date limite de paiement de l'impôt concerné. 
-
-4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
-impôts et à la date limite de paiement fixée à l'article 1731 B du même code pour la cotisation foncière des entreprises et
-l'imposition forfaitaire sur les entreprises de réseaux.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1681 D
-	  - Code général des impôts, CGI. - art. 1730
-	  - article 376 ter de l'annexe II au code général des impôts
-
-
-###### Article 382 D
-
-1. Le paiement des acomptes et du solde de l'impôt sur le revenu, des contributions sociales recouvrées comme en matière
-d'impôt sur le revenu, de l'impôt de solidarité sur la fortune émis par voie de rôle, des taxes foncières, de la taxe
-d'habitation et de la contribution à l'audiovisuel public, ainsi que des impositions recouvrées selon les mêmes règles que
-ces impositions, peut être effectué par télérèglement, sur option du contribuable, qui ordonne l'opération sur l'un des
-comptes mentionnés à l'article 1681 D du code général des impôts. 
-
-2. L'option est exercée expressément à chaque échéance d'impôt. 
-
-3. Pour l'application du 5 de l'article 1730 du code précité, l'option du contribuable pour le télérèglement de ses impôts
-dans les conditions mentionnées aux 1,2 et 4 du présent article peut être exercée, sans majoration, jusqu'au cinquième jour,
-à minuit, qui suit la date limite de paiement pour les impôts mentionnés au 1 du présent article. 
-
-4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 précité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1681 D
-
-
-###### Article 382 E
-
-1. Le télérèglement de la cotisation foncière des entreprises et de l'imposition forfaitaire sur les entreprises de réseaux
-en application des 1 et 6 de l'article 1681 septies du code général des impôts et le télérèglement sur option des taxes
-foncières sur les propriétés bâties et non bâties et de leurs taxes additionnelles et annexes en application du 2 du même
-article sont ordonnés par l'entreprise sur l'un des comptes mentionnés à l'article 1681 D du même code. 
-
-2. Le télérèglement peut être ordonné jusqu'aux dates limites, à minuit, fixées à l'article 1731 B du code précité pour le
-paiement de l'acompte et du solde de la cotisation foncière des entreprises et de l'imposition forfaitaire sur les
-entreprises de réseaux et au a du 2 de l'article 1730 du même code pour le paiement des taxes foncières sur les propriétés
-bâties et non bâties et de leurs taxes additionnelles et annexes. 
-
-3. Les prélèvements sont effectués le lendemain des dates limites de paiement fixées à l'article 1731 B et au a du 2 de
-l'article 1730 précités. Le délai d'exécution des prélèvements est éventuellement majoré du délai de présentation
-interbancaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2015-1136 du 14 septembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1681 septies
-
-
 ###### Article 383 bis
 
 1. Dans le cas de cession soit d'une entreprise industrielle commerciale artisanale ou minière soit d'une charge ou d'un
@@ -41024,6 +41059,466 @@ impôts.
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 383 bis (V)
+
+
+##### 1 : Dispositions communes
+
+###### Article 382
+
+Le paiement des impôts directs et taxes assimilées ainsi que des impôts recouvrés selon les mêmes règles que ces impositions
+peut être fait au moyen :
+
+1° De chèques barrés à l'ordre du Trésor public, dont les modalités de transmission et de traitement sont fixées par
+l'administration fiscale ;
+
+2° D'une carte bancaire au guichet d'un centre des finances publiques équipé d'un terminal électronique de paiement ;
+
+3° D'un mandat cash acquitté dans les bureaux de poste.
+
+Ne sont pas réclamés au contribuable les frais des actes de poursuites signifiés à une date postérieure à celle du mandat qui
+solde la dette exigible.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+
+###### Article 382 A
+
+Les contribuables ont la faculté, selon les modalités fixées par l'administration fiscale, d'acquitter leurs impôts et taxes
+assimilées à la caisse d'un comptable de la direction générale des finances publiques chargé du recouvrement des impôts
+directs autre que celui de la commune d'imposition.
+
+Ces versements sont admis sur la présentation d'un avis d'imposition, d'un extrait du rôle, d'un acte de poursuites ou d'une
+autre pièce officielle constatant la dette du contribuable.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+
+###### Article 382 B
+
+Les contribuables restent débiteurs des frais de poursuites exposés par le comptable public chargé du recouvrement des impôts
+directs du lieu de l'imposition avant la réception de l'avis de recouvrement que le comptable public qui a reçu les fonds est
+tenu de lui transférer sans délai.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+
+###### Article 382-0
+
+Lorsque la date limite de paiement ou de prélèvement des impôts directs et taxes assimilées prévus dans le code général des
+impôts ainsi que des impôts recouvrés selon les mêmes règles que ces impositions coïncide avec un samedi, un dimanche ou un
+jour férié, celle-ci est prorogée jusqu'au premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+
+##### 2 : Impôts directs locaux et taxes assimilées
+
+###### Article 382 C
+
+1. Le paiement des impôts mentionnés aux articles 1679 quinquies et 1681 ter du code général des impôts peut s'effectuer, sur
+option du contribuable, par prélèvement à l'échéance opéré à l'initiative de la direction générale des finances publiques sur
+l'un des comptes mentionnés à l'article 1680 A du même code.
+
+2. L'option est formulée par le contribuable selon les modalités fixées par l'administration fiscale. Elle peut être exercée
+jusqu'à la fin du mois qui précède la date limite de paiement.
+
+3. Le contribuable peut dénoncer son option jusqu'à la fin du mois qui précède la date limite de paiement de l'impôt
+concerné.
+
+4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 du code général des
+impôts et à la date limite de paiement fixée à l'article 1731 B du même code pour la cotisation foncière des entreprises et
+l'imposition forfaitaire sur les entreprises de réseaux.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 D
+	  - Code général des impôts, CGI. - art. 1730
+	  - article 376 ter de l'annexe II au code général des impôts
+
+
+###### Article 382 D
+
+1. Le paiement des taxes foncières, de la taxe d'habitation et de la contribution à l'audiovisuel public, ainsi que des
+impositions recouvrées selon les mêmes règles que ces impositions, peut être effectué par télérèglement, sur option du
+contribuable, qui ordonne l'opération sur l'un des comptes mentionnés à l'article 1680 A du code général des impôts.
+
+2. L'option est exercée expressément à chaque échéance d'impôt.
+
+3. Pour l'application du 5 de l'article 1730 du code précité, l'option du contribuable pour le télérèglement de ses impôts
+dans les conditions mentionnées aux 1,2 et 4 du présent article peut être exercée, sans majoration, jusqu'au cinquième jour,
+à minuit, qui suit la date limite de paiement pour les impôts mentionnés au 1 du présent article.
+
+4. Les prélèvements sont effectués dix jours après les dates limites de paiement fixées à l'article 1730 précité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 D
+
+
+###### Article 382 E
+
+1. Le télérèglement de la cotisation foncière des entreprises et de l'imposition forfaitaire sur les entreprises de réseaux
+en application des 1 et 6 de l'article 1681 septies du code général des impôts et le télérèglement sur option des taxes
+foncières sur les propriétés bâties et non bâties et de leurs taxes additionnelles et annexes en application du 2 du même
+article sont ordonnés par l'entreprise sur l'un des comptes mentionnés à l'article 1680 A du même code.
+
+2. Le télérèglement peut être ordonné jusqu'aux dates limites, à minuit, fixées à l'article 1731 B du code précité pour le
+paiement de l'acompte et du solde de la cotisation foncière des entreprises et de l'imposition forfaitaire sur les
+entreprises de réseaux et au a du 2 de l'article 1730 du même code pour le paiement des taxes foncières sur les propriétés
+bâties et non bâties et de leurs taxes additionnelles et annexes.
+
+3. Les prélèvements sont effectués le lendemain des dates limites de paiement fixées à l'article 1731 B et au a du 2 de
+l'article 1730 précités. Le délai d'exécution des prélèvements est éventuellement majoré du délai de présentation
+interbancaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 septies
+
+
+###### Article 382-0 C
+
+L'option pour le prélèvement mensuel mentionnée aux articles 1681 ter et 1681 quater A du code général des impôts est
+formulée, par le contribuable, selon les modalités fixées par l'administration fiscale.
+
+L'option prend fin de plein droit dans le cas où aucun ordre de prélèvement n'a été présenté pendant une période de trente-
+six mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+
+###### Article 382-0 C bis
+
+I.-Si l'option mentionnée à l'article 382-0 C est formulée entre le 1er janvier et le 30 juin, les prélèvements mensuels sont
+effectués à compter du mois qui suit celui de l'exercice de l'option ou, au choix du contribuable, à compter du 1er janvier
+de l'année suivante.
+
+Si l'option est formulée après le 30 juin, les prélèvements mensuels sont effectués à compter du 1er janvier de l'année
+suivante. Toutefois, lorsque l'option est formulée entre le 16 et le 31 décembre, la mensualité due au titre du mois de
+janvier de l'année suivante est perçue avec le prélèvement effectué au mois de février de ladite année.
+
+II.-Le I ne s'applique pas au prélèvement mensuel mis en place en application de l'
+article 1681 quater A du code général des impôts
+. Lorsque l'option pour ce prélèvement est formulée avant la date limite de paiement de l'acompte prévu à l'article 1679
+quinquies du code précité, celui-ci n'est pas dû.
+
+III.-L'option est valable pour l'année au cours de laquelle sont effectués les premiers prélèvements et, sous réserve des
+dispositions de l'article 382-0 C quater, l'option est tacitement reconduite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 quater A
+
+
+###### Article 382-0 C octies
+
+Le montant des prélèvements mensuels mentionnés à l'
+article 1681 ter du code général des impôts
+et les recouvrements effectués dans les conditions prévues au A de l'article 1681 quater A du même code sont imputés en
+l'acquit de l'impôt direct local établi au cours de l'année pendant laquelle les versements ont été effectués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 ter
+
+
+###### Article 382-0 C quater
+
+Le contribuable peut dénoncer son option selon les modalités fixées par l'administration fiscale avant le 30 juin pour les
+impositions mentionnées à l'
+article 1681 ter du code général des impôts
+et avant le 30 septembre pour les impositions mentionnées à l'article 1681 quater A du même code. La dénonciation prend effet
+le premier mois qui suit celui au cours duquel le contribuable formule sa demande.
+
+Lorsque la dénonciation est exercée entre le 1er juillet et le 15 décembre inclus pour les impositions mentionnées à
+l'article 1681 ter précité et entre le 1er octobre et le 15 décembre inclus pour les impositions mentionnées à l'article 1681
+quater A précité, elle prend effet à compter du mois de janvier de l'année suivante. Lorsqu'elle est exercée entre le 16 et
+le 31 décembre, elle prend effet à compter du mois de février de l'année suivante.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 ter
+
+
+###### Article 382-0 C quinquies
+
+Sous réserve de l'article 382-0, les prélèvements mensuels sont effectués le 15 de chaque mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+
+###### Article 382-0 C septies
+
+I.-Lorsqu'un contribuable perd le bénéfice de l'option pour le règlement de l'impôt par prélèvements mensuels en application
+des 
+dispositions de l'article 1724 quinquies du code général des impôts
+, sa situation au regard des majorations prévues par l'article 1730 du même code est appréciée globalement à la date de
+l'échéance impayée ayant entraîné l'exclusion.
+
+II.-L'administration notifie au contribuable les majorations et déchéances encourues en application de l'article 1724
+quinquies précité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1724 quinquies
+
+
+###### Article 382-0 C sexies
+
+Pour l'application du 
+premier alinéa du B de l'article 1681 quater A du code général des impôts
+, le montant du dégrèvement attendu en application de l'article 1647 B sexies du même code est celui qui figure dans la
+déclaration prévue au huitième alinéa de l'article 1679 quinquies dudit code et déposée au titre de l'année précédente ou,
+s'il y a lieu, du dégrèvement déjà prononcé.
+
+Quand un dégrèvement est prononcé à raison de l'impôt dû au titre de l'année précédente pour un montant inférieur au
+dégrèvement attendu, le complément résultant de la régularisation de la base des prélèvements est acquitté avec le
+prélèvement suivant. Quand un dégrèvement est prononcé pour un montant supérieur au dégrèvement attendu, l'excédent résultant
+de la même régularisation est remboursé dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 quater A
+
+
+###### Article 382-0 C ter
+
+Pour les impositions mentionnées à l'
+article 1681 quater A du code général des impôts
+, si les prélèvements mensuels sont effectués l'année au cours de laquelle l'option est formulée et si, à la date du premier
+prélèvement, les sommes versées au titre de l'acompte sont inférieures au montant cumulé des mensualités dues depuis le 1er
+janvier, le complément est acquitté avec le premier prélèvement mensuel. Pour les contribuables non soumis à un acompte
+obligatoire, le paiement des mensualités dues depuis le 1er janvier ou de l'excédent de ces mensualités sur l'acompte versé
+est réparti en parts égales sur les trois premiers prélèvements mensuels.
+
+Si les sommes versées au titre de l'acompte sont supérieures au montant cumulé des mensualités dues depuis le 1er janvier,
+l'excédent est remboursé avant la fin du mois qui suit l'option.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1681 quater A
+
+
+##### 3 : Impôt de solidarité sur la fortune
+
+###### Article 382 F
+
+L'impôt de solidarité sur la fortune peut être réglé par télérèglement dans les conditions fixées à l'article 382 D.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+
+##### 4 : Impôt sur le revenu et impositions figurant sur le même article de rôle
+
+###### Article 383-0
+
+I.-Le contribuable communique à l'administration fiscale les coordonnées d'un compte ou d'un livret mentionné à l'
+article 1680 A du code général des impôts
+, qui est utilisé pour :
+
+1° Procéder aux restitutions et aux remboursements d'excédents de versement d'impôt sur le revenu et des autres impositions
+figurant sur le même article de rôle ;
+
+2° Opérer les prélèvements mentionnés à l'article 1663 B du code précité ;
+
+3° Opérer les prélèvements mentionnés à l'article 1663 C du code précité pour l'encaissement des sommes prévues au 2° du 2 de
+l'article 204 A du code précité et à l'
+article L. 136-6-1 du code de la sécurité sociale
+ainsi qu'au 
+2 du IV de l'article 204 H du code général des impôts
+.
+
+II.-La communication des coordonnées bancaires prévue au I est effectuée par le contribuable :
+
+1° Soit lors de la souscription de sa déclaration de revenus ;
+
+2° Soit par voie électronique sur le site internet de l'administration fiscale.
+
+III.-La communication des coordonnées bancaires mentionnées au I, selon les modalités prévues au II, emporte de plein droit
+au profit de l'administration fiscale le consentement du payeur mentionné aux articles 
+L. 133-6
+et 
+L. 133-7
+du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1680 A
+	  - Code général des impôts, CGI. - art. 204 H
+	  - Code monétaire et financier - art. L133-6
+	  - Code monétaire et financier - art. L133-7
+	  - Code de la sécurité sociale. - art. L136-6-1
+
+
+###### Article 383-0 bis
+
+Les prélèvements mentionnés aux 
+2 et 3 de l'article 1663 B du code général des impôts
+sont effectués le 25 du mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1663 B
+
+
+###### Article 383-0 quater
+
+1. Sans préjudice du 3 de l'article 1663 B du code général des impôts, l'exercice de l'option prévue au 2 de cet article
+s'exerce expressément chaque année lors de la souscription de la déclaration de revenus.
+
+2. En cas d'exercice de cette option, le paiement du solde de l'impôt sur le revenu et des autres impositions figurant sur le
+même article de rôle prévu à l'article 1663 B précité peut être effectué par télérèglement dans les conditions prévues à
+l'article 382 D.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+
+###### Article 383-0 quinquies
+
+Pour le paiement des sommes prévues au 
+2° du 2 de l'article 204 A du code général des impôts
+et à l'
+article L. 136-6-1 du code de la sécurité sociale
+ainsi qu'au 
+2 du IV de l'article 204 H du code général des impôts
+, un prélèvement n'ayant pas pu être effectué en raison de l'absence de communication par le contribuable de ses coordonnées
+bancaires à l'administration fiscale dans les conditions prévues à l'article 383-0, est considéré comme impayé, au même titre
+que les prélèvements rejetés.
+
+Les prélèvements impayés ou rejetés sont réglés par télérèglement dans les trente jours suivant la demande de régularisation
+de l'administration fiscale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 204 A
+	  - Code général des impôts, CGI. - art. 204 H
+	  - Code de la sécurité sociale. - art. L136-6-1
+
+
+###### Article 383-0 ter
+
+Pour le paiement du solde de l'impôt sur le revenu et des autres impositions figurant sur le même article de rôle mentionné à
+l'
+article 1663 B du code général des impôts
+, le contribuable pour lequel un prélèvement a été rejeté ou n'a pas pu être effectué en raison de l'absence de communication
+de ses coordonnées bancaires à l'administration est soumis aux dispositions des articles 1663 et 1730 du même code.
+
+Sa situation au regard des majorations prévues à l'article 1730 précité est appréciée globalement à la date de l'échéance
+impayée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-975 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1663 B
 
 
 ### Section II : Taxes sur le chiffre d'affaires et taxes assimilées
@@ -42156,14 +42651,15 @@ contribution mentionnée à l'article 527 du code général des impôts.
 
 ###### Article 406 terdecies
 
-I.-Les impôts et taxes dus par les personnes et groupements mentionnés à l'article 344-0 A sont payés au comptable du service
-chargé des grandes entreprises mentionné au premier alinéa de l'article 344-0 A. 
+I. – Les impôts et taxes dus par les personnes et groupements mentionnés à l'article 344-0 A sont payés au comptable du
+service chargé des grandes entreprises mentionné au premier alinéa de l'article 344-0 A. 
 
-II.-Les dispositions du I s'appliquent à l'impôt sur les sociétés, à la contribution sur les revenus locatifs, à la
-contribution sociale sur l'impôt sur les sociétés prévues respectivement aux  articles 234 nonies  et 235 ter ZC du code
-général des impôts, à la taxe prévue par l'article 235 ter ZD du code général des impôts à la cotisation foncière des
-entreprises et à la cotisation sur la valeur ajoutée des entreprises de même qu'aux taxes additionnelles et annexes à cette
-cotisation ainsi qu'aux impôts et taxes mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
+II. – Les dispositions du I s'appliquent à la retenue à la source prévue au 1° du 2 de l'article 204 A du code général des
+impôts, à l'impôt sur les sociétés, à la contribution sur les revenus locatifs, à la contribution sociale sur l'impôt sur les
+sociétés prévues respectivement aux articles 234 nonies et 235 ter ZC du code général des impôts, à la taxe prévue par
+l'article 235 ter ZD du code général des impôts à la cotisation foncière des entreprises et à la cotisation sur la valeur
+ajoutée des entreprises de même qu'aux taxes additionnelles et annexes à cette cotisation ainsi qu'aux impôts et taxes
+mentionnés aux 3° à 5° et 7° à 15° de l'article 344-0 B. 
 
 Elles s'appliquent en outre, sur option de l'entreprise, aux taxes foncières sur les propriétés bâties et non bâties et à
 leurs taxes additionnelles et annexes recouvrées dans les mêmes conditions. L'option s'applique à l'ensemble des impositions
@@ -42173,11 +42669,11 @@ avant l'expiration de la période, par pli recommandé avec demande d'avis de r�
 chargé des grandes entreprises. Toutefois, en cas d'opération d'absorption, l'option prend fin le 31 décembre de la deuxième
 année qui suit celle au cours de laquelle l'entreprise a été absorbée. 
 
-III.-Les dispositions des I et II s'appliquent aux paiements dans les mêmes conditions que celles prévues à l'article 344-0
+III. – Les dispositions des I et II s'appliquent aux paiements dans les mêmes conditions que celles prévues à l'article 344-0
 C. Toutefois, les impositions mentionnées au II dues au titre d'une période antérieure à la date à compter de laquelle le
 redevable relève du service chargé des grandes entreprises peuvent être établies et recouvrées par ce même service. 
 
-IV.-Par exception aux dispositions des articles 344-0 A à 344-0 C et des I et II, les rôles, autres que ceux relatifs aux
+IV. – Par exception aux dispositions des articles 344-0 A à 344-0 C et des I et II, les rôles, autres que ceux relatifs aux
 impôts locaux et à leurs taxes additionnelles et annexes, ou avis de mise en recouvrement émis en vue du recouvrement des
 impositions qui ont fait l'objet, ou auraient dû faire l'objet, d'une déclaration ou d'un paiement auprès du service chargé
 des grandes entreprises, sont établis soit par ce service, soit par le service déconcentré dans le ressort duquel est situé
@@ -42187,27 +42683,25 @@ paiement auprès du service déconcentré dans le ressort duquel est situé le l
 
 **Nota:**
 
-Modifications effectuées en conséquence des articles 14-I [3°] b et 14-II de la loi n° 2008-1425 du 27 décembre 2008.
-
-Les mots : "à l'imposition forfaitaire annuelle des sociétés" et la référence : 223 septies, deviennent sans objet.
+Conformément à l'article 6 du décret n° 2017-866 du 9 mai 2017, les dispositions du présent article s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2014-549 du 26 mai 2014 - art. 3
+	  - Décret n°2017-866 du 9 mai 2017 - art. 2
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
-	  - Code général des impôts, CGI. - art. 223 septies
-	  - Code général des impôts, CGI. - art. 234 nonies
+	  - Code général des impôts, CGI. - art. 204 A
 	  - Code général des impôts, CGI. - art. 235 ter ZC
 	  - Code général des impôts, CGI. - art. 235 ter ZD
 
 	**Cité par**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 B (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 C (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 369 (VD)
 
